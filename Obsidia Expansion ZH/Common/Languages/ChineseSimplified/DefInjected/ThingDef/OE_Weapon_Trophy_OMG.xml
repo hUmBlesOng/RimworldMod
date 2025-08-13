@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Neon Echo notes -->
+  <Bullet_OMG_Trophy_PG.label>TODO</Bullet_OMG_Trophy_PG.label>
+  
+  <!-- EN: Platebreaker -->
+  <OMG_Trophy_Knife.label>TODO</OMG_Trophy_Knife.label>
+  <!-- EN: Forged with the sole purpose of piercing through armor, Platebreaker is a weapon of war, able to exploit the weakest points in any protection. The dagger’s precision and strength make it lethal in the hands of a skilled warrior.\n\nSpecially modified weapon charged with Necrobane, Stun and EMP damages.\n\nThis modification deprives item's quality levels. -->
+  <OMG_Trophy_Knife.description>TODO</OMG_Trophy_Knife.description>
+  <!-- EN: handle -->
+  <OMG_Trophy_Knife.tools.handle.label>TODO</OMG_Trophy_Knife.tools.handle.label>
+  <!-- EN: blade -->
+  <OMG_Trophy_Knife.tools.blade.label>TODO</OMG_Trophy_Knife.tools.blade.label>
+  <!-- EN: point -->
+  <OMG_Trophy_Knife.tools.point.label>TODO</OMG_Trophy_Knife.tools.point.label>
+  
+  <!-- EN: Neon Echo -->
+  <OMG_Trophy_PowerGuitar.label>TODO</OMG_Trophy_PowerGuitar.label>
+  <!-- EN: This cyber-guitar of unknown origin is surrounded by rumors, passed from one owner to the next. According to legends, it once had a life of its own and now carries a strange, haunting resonance.\n\nSpecially modified weapon charged with Necrobane, Stun and EMP damages.\n\nThis modification deprives item's quality levels. -->
+  <OMG_Trophy_PowerGuitar.description>TODO</OMG_Trophy_PowerGuitar.description>
+  <!-- EN: inferno charge -->
+  <OMG_Trophy_PowerGuitar.comps.CompEquippableAbilityReloadable-0.chargeNoun>TODO</OMG_Trophy_PowerGuitar.comps.CompEquippableAbilityReloadable-0.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OMG_Trophy_PowerGuitar.comps.CompEquippableAbilityReloadable-0.cooldownGerund>TODO</OMG_Trophy_PowerGuitar.comps.CompEquippableAbilityReloadable-0.cooldownGerund>
+  <!-- EN: Neon Echo -->
+  <OMG_Trophy_PowerGuitar.comps.CompUniqueWeapon.namerLabels.0>TODO</OMG_Trophy_PowerGuitar.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: charge -->
+  <OMG_Trophy_PowerGuitar.comps.CompEquippableAbilityReloadable-1.chargeNoun>TODO</OMG_Trophy_PowerGuitar.comps.CompEquippableAbilityReloadable-1.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OMG_Trophy_PowerGuitar.comps.CompEquippableAbilityReloadable-1.cooldownGerund>TODO</OMG_Trophy_PowerGuitar.comps.CompEquippableAbilityReloadable-1.cooldownGerund>
+  <!-- EN: head -->
+  <OMG_Trophy_PowerGuitar.tools.head.label>TODO</OMG_Trophy_PowerGuitar.tools.head.label>
+  <!-- EN: Neon Echo -->
+  <OMG_Trophy_PowerGuitar.verbs.Verb_Shoot.label>TODO</OMG_Trophy_PowerGuitar.verbs.Verb_Shoot.label>
+  
+</LanguageData>

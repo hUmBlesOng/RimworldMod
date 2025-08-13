@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Fallen Legion Drone -->
+  <OE_Mech_LegionDrone.label>TODO</OE_Mech_LegionDrone.label>
+  <!-- EN: A small, deployable combat mechanoid usually manufactured inside an ultra-tech Fallen Legion Guard mech. Fallen Legion Drone are expendable melee fighters designed to swarm-attack enemies. They are mounted with non-rechargeable power source. -->
+  <OE_Mech_LegionDrone.description>TODO</OE_Mech_LegionDrone.description>
+  <!-- EN: head -->
+  <OE_Mech_LegionDrone.tools.head-0.label>TODO</OE_Mech_LegionDrone.tools.head-0.label>
+  <!-- EN: left fist -->
+  <OE_Mech_LegionDrone.tools.left_fist.label>TODO</OE_Mech_LegionDrone.tools.left_fist.label>
+  <!-- EN: right fist -->
+  <OE_Mech_LegionDrone.tools.right_fist.label>TODO</OE_Mech_LegionDrone.tools.right_fist.label>
+  <!-- EN: head -->
+  <OE_Mech_LegionDrone.tools.head-1.label>TODO</OE_Mech_LegionDrone.tools.head-1.label>
+  
+</LanguageData>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Divinity bullet -->
+  <Bullet_OEC_Trophy_P.label>TODO</Bullet_OEC_Trophy_P.label>
+  
+  <!-- EN: Inlaid Divinity bullet -->
+  <Bullet_OEC_Trophy_P_I.label>TODO</Bullet_OEC_Trophy_P_I.label>
+  
+  <!-- EN: Divinity -->
+  <OEC_Trophy_Pistol.label>TODO</OEC_Trophy_Pistol.label>
+  <!-- EN: This antique pistol has served Obsidia Empire for centuries.\n\nThis is a rare trophy weapon.\n\nFeature: a built-in module that improves combat performance and psychic powers. -->
+  <OEC_Trophy_Pistol.description>TODO</OEC_Trophy_Pistol.description>
+  <!-- EN: blade -->
+  <OEC_Trophy_Pistol.tools.blade.label>TODO</OEC_Trophy_Pistol.tools.blade.label>
+  <!-- EN: Divinity -->
+  <OEC_Trophy_Pistol.verbs.Verb_Shoot.label>TODO</OEC_Trophy_Pistol.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Inlaid Divinity -->
+  <OEC_Trophy_Pistol_I.label>TODO</OEC_Trophy_Pistol_I.label>
+  <!-- EN: This antique pistol has served Obsidia Empire for centuries.\n\nThis is a rare trophy weapon.\n\nFeature: a built-in module that improves combat performance and psychic powers.\n\nInlaid with Dexterity Power Stone: Weapon performance stats increased. -->
+  <OEC_Trophy_Pistol_I.description>TODO</OEC_Trophy_Pistol_I.description>
+  <!-- EN: charge -->
+  <OEC_Trophy_Pistol_I.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OEC_Trophy_Pistol_I.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OEC_Trophy_Pistol_I.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OEC_Trophy_Pistol_I.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Inlaid Divinity -->
+  <OEC_Trophy_Pistol_I.comps.CompUniqueWeapon.namerLabels.0>TODO</OEC_Trophy_Pistol_I.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: blade -->
+  <OEC_Trophy_Pistol_I.tools.blade.label>TODO</OEC_Trophy_Pistol_I.tools.blade.label>
+  <!-- EN: Inlaid Divinity -->
+  <OEC_Trophy_Pistol_I.verbs.Verb_Shoot.label>TODO</OEC_Trophy_Pistol_I.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Ancient Scepter -->
+  <OEC_Trophy_Scepter.label>TODO</OEC_Trophy_Scepter.label>
+  <!-- EN: An ancient scepter based on an alien artifact.\n\nThis is a rare trophy weapon.\n\nFeature: enhance the wielder's psychic powers. -->
+  <OEC_Trophy_Scepter.description>TODO</OEC_Trophy_Scepter.description>
+  <!-- EN: ornament -->
+  <OEC_Trophy_Scepter.tools.ornament.label>TODO</OEC_Trophy_Scepter.tools.ornament.label>
+  
+  <!-- EN: Inlaid Ancient Scepter -->
+  <OEC_Trophy_Scepter_I.label>TODO</OEC_Trophy_Scepter_I.label>
+  <!-- EN: An ancient scepter based on an alien artifact.\n\nThis is a rare trophy weapon.\n\nFeature: enhance the wielder's psychic powers.\n\nInlaid with Insight Power Stone: Weapon bonus stats increased. -->
+  <OEC_Trophy_Scepter_I.description>TODO</OEC_Trophy_Scepter_I.description>
+  <!-- EN: ornament -->
+  <OEC_Trophy_Scepter_I.tools.ornament.label>TODO</OEC_Trophy_Scepter_I.tools.ornament.label>
+  
+  <!-- EN: Persona Ancient Scepter -->
+  <OEC_Trophy_Scepter_P.label>TODO</OEC_Trophy_Scepter_P.label>
+  <!-- EN: An ancient persona scepter based on an alien artifact.\n\nThis is a rare trophy weapon.\n\nFeature: enhance the wielder's psychic powers. -->
+  <OEC_Trophy_Scepter_P.description>TODO</OEC_Trophy_Scepter_P.description>
+  <!-- EN: ornament -->
+  <OEC_Trophy_Scepter_P.tools.ornament.label>TODO</OEC_Trophy_Scepter_P.tools.ornament.label>
+  
+</LanguageData>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Persona Reforged Oni -->
+  <OCC_BigHammer_P.label>TODO</OCC_BigHammer_P.label>
+  <!-- EN: Persona Reforged Big Hammer used by OCC Paladins. -->
+  <OCC_BigHammer_P.description>TODO</OCC_BigHammer_P.description>
+  <!-- EN: handle -->
+  <OCC_BigHammer_P.tools.handle.label>TODO</OCC_BigHammer_P.tools.handle.label>
+  <!-- EN: head -->
+  <OCC_BigHammer_P.tools.head.label>TODO</OCC_BigHammer_P.tools.head.label>
+  
+  <!-- EN: Persona Reforged Shikigami -->
+  <OCC_BigSword_P.label>TODO</OCC_BigSword_P.label>
+  <!-- EN: Persona Reforged Longsword used by OCC Paladins. -->
+  <OCC_BigSword_P.description>TODO</OCC_BigSword_P.description>
+  <!-- EN: handle -->
+  <OCC_BigSword_P.tools.handle.label>TODO</OCC_BigSword_P.tools.handle.label>
+  <!-- EN: point -->
+  <OCC_BigSword_P.tools.point.label>TODO</OCC_BigSword_P.tools.point.label>
+  <!-- EN: edge -->
+  <OCC_BigSword_P.tools.edge.label>TODO</OCC_BigSword_P.tools.edge.label>
+  
+  <!-- EN: Persona Reforged Typhon -->
+  <OCC_PowerFist_P.label>TODO</OCC_PowerFist_P.label>
+  <!-- EN: Persona Reforged Power Fist used by OCC Paladins. -->
+  <OCC_PowerFist_P.description>TODO</OCC_PowerFist_P.description>
+  <!-- EN: gauntlet -->
+  <OCC_PowerFist_P.tools.gauntlet.label>TODO</OCC_PowerFist_P.tools.gauntlet.label>
+  
+  <!-- EN: Persona Reforged Typhon(Acid) -->
+  <OCC_PowerFist_P_Acid.label>TODO</OCC_PowerFist_P_Acid.label>
+  <!-- EN: Persona Reforged Power Fist used by OCC Paladins.\n\nIt's remanufactured weapon using OTC technologies. Charged with Acid damage. -->
+  <OCC_PowerFist_P_Acid.description>TODO</OCC_PowerFist_P_Acid.description>
+  <!-- EN: gauntlet -->
+  <OCC_PowerFist_P_Acid.tools.gauntlet.label>TODO</OCC_PowerFist_P_Acid.tools.gauntlet.label>
+  
+  <!-- EN: Persona Reforged Typhon(Cryo) -->
+  <OCC_PowerFist_P_Cryo.label>TODO</OCC_PowerFist_P_Cryo.label>
+  <!-- EN: Persona Reforged Power Fist used by OCC Paladins.\n\nIt's remanufactured weapon using OTC technologies. Charged with Cryo damage. -->
+  <OCC_PowerFist_P_Cryo.description>TODO</OCC_PowerFist_P_Cryo.description>
+  <!-- EN: gauntlet -->
+  <OCC_PowerFist_P_Cryo.tools.gauntlet.label>TODO</OCC_PowerFist_P_Cryo.tools.gauntlet.label>
+  
+  <!-- EN: Persona Reforged Typhon(EMP) -->
+  <OCC_PowerFist_P_EMP.label>TODO</OCC_PowerFist_P_EMP.label>
+  <!-- EN: Persona Reforged Power Fist used by OCC Paladins.\n\nIt's remanufactured weapon using OTC technologies. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
+  <OCC_PowerFist_P_EMP.description>TODO</OCC_PowerFist_P_EMP.description>
+  <!-- EN: gauntlet -->
+  <OCC_PowerFist_P_EMP.tools.gauntlet.label>TODO</OCC_PowerFist_P_EMP.tools.gauntlet.label>
+  
+  <!-- EN: Persona Reforged Typhon(Fire) -->
+  <OCC_PowerFist_P_Fire.label>TODO</OCC_PowerFist_P_Fire.label>
+  <!-- EN: Persona Reforged Power Fist used by OCC Paladins.\n\nIt's remanufactured weapon using OTC technologies. Charged with Fire damage. -->
+  <OCC_PowerFist_P_Fire.description>TODO</OCC_PowerFist_P_Fire.description>
+  <!-- EN: gauntlet -->
+  <OCC_PowerFist_P_Fire.tools.gauntlet.label>TODO</OCC_PowerFist_P_Fire.tools.gauntlet.label>
+  
+</LanguageData>

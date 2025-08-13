@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Reset Paragon Nimbus Prototype(Cryo) -->
+  <OE_Reset_OTC_Bow_P_Cryo.label>TODO</OE_Reset_OTC_Bow_P_Cryo.label>
+  <!-- EN: Reset an Paragon Nimbus Prototype(Cryo).\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_OTC_Bow_P_Cryo.description>TODO</OE_Reset_OTC_Bow_P_Cryo.description>
+  <!-- EN: Resetting a Paragon Nimbus Prototype(Cryo). -->
+  <OE_Reset_OTC_Bow_P_Cryo.jobString>TODO</OE_Reset_OTC_Bow_P_Cryo.jobString>
+  
+  <!-- EN: Reset Paragon Meteor Prototype(Cryo) -->
+  <OE_Reset_OTC_GrenadeLauncher_P_Cryo.label>TODO</OE_Reset_OTC_GrenadeLauncher_P_Cryo.label>
+  <!-- EN: Reset an Paragon Meteor Prototype(Cryo).\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_OTC_GrenadeLauncher_P_Cryo.description>TODO</OE_Reset_OTC_GrenadeLauncher_P_Cryo.description>
+  <!-- EN: Resetting a Paragon Meteor Prototype(Cryo). -->
+  <OE_Reset_OTC_GrenadeLauncher_P_Cryo.jobString>TODO</OE_Reset_OTC_GrenadeLauncher_P_Cryo.jobString>
+  
+  <!-- EN: Reset Paragon Pulsar Prototype(Cryo) -->
+  <OE_Reset_OTC_MultiCannon_P_Cryo.label>TODO</OE_Reset_OTC_MultiCannon_P_Cryo.label>
+  <!-- EN: Reset an Paragon Pulsar Prototype(Cryo).\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_OTC_MultiCannon_P_Cryo.description>TODO</OE_Reset_OTC_MultiCannon_P_Cryo.description>
+  <!-- EN: Resetting a Paragon Pulsar Prototype(Cryo). -->
+  <OE_Reset_OTC_MultiCannon_P_Cryo.jobString>TODO</OE_Reset_OTC_MultiCannon_P_Cryo.jobString>
+  
+  <!-- EN: Reset Paragon Celestial Prototype(Cryo) -->
+  <OE_Reset_OTC_Pistol_P_Cryo.label>TODO</OE_Reset_OTC_Pistol_P_Cryo.label>
+  <!-- EN: Reset an Paragon Celestial Prototype(Cryo).\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_OTC_Pistol_P_Cryo.description>TODO</OE_Reset_OTC_Pistol_P_Cryo.description>
+  <!-- EN: Resetting a Paragon Celestial Prototype(Cryo). -->
+  <OE_Reset_OTC_Pistol_P_Cryo.jobString>TODO</OE_Reset_OTC_Pistol_P_Cryo.jobString>
+  
+  <!-- EN: Reset Paragon Quasar Prototype(Cryo) -->
+  <OE_Reset_OTC_Shotgun_P_Cryo.label>TODO</OE_Reset_OTC_Shotgun_P_Cryo.label>
+  <!-- EN: Reset an Paragon Quasar Prototype(Cryo).\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_OTC_Shotgun_P_Cryo.description>TODO</OE_Reset_OTC_Shotgun_P_Cryo.description>
+  <!-- EN: Resetting a Paragon Quasar Prototype(Cryo). -->
+  <OE_Reset_OTC_Shotgun_P_Cryo.jobString>TODO</OE_Reset_OTC_Shotgun_P_Cryo.jobString>
+  
+  <!-- EN: Reset Paragon Equalizer Prototype(Cryo) -->
+  <OE_Reset_OTC_SMG_P_Cryo.label>TODO</OE_Reset_OTC_SMG_P_Cryo.label>
+  <!-- EN: Reset an Paragon Equalizer Prototype(Cryo).\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_OTC_SMG_P_Cryo.description>TODO</OE_Reset_OTC_SMG_P_Cryo.description>
+  <!-- EN: Resetting a Paragon Equalizer Prototype(Cryo). -->
+  <OE_Reset_OTC_SMG_P_Cryo.jobString>TODO</OE_Reset_OTC_SMG_P_Cryo.jobString>
+  
+  <!-- EN: Reset Paragon Nova Prototype(Cryo) -->
+  <OE_Reset_OTC_SniperRifle_P_Cryo.label>TODO</OE_Reset_OTC_SniperRifle_P_Cryo.label>
+  <!-- EN: Reset an Paragon Nova Prototype(Cryo).\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_OTC_SniperRifle_P_Cryo.description>TODO</OE_Reset_OTC_SniperRifle_P_Cryo.description>
+  <!-- EN: Resetting a Paragon Nova Prototype(Cryo). -->
+  <OE_Reset_OTC_SniperRifle_P_Cryo.jobString>TODO</OE_Reset_OTC_SniperRifle_P_Cryo.jobString>
+  
+</LanguageData>

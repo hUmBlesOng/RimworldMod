@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Betrayer's Weight -->
+  <OES_Trophy_BigHammer.label>TODO</OES_Trophy_BigHammer.label>
+  <!-- EN: Beneath the ruins of what was once revered, Volskygge’s hands shaped the hammer under a darkened sky. The crystal that crowns the weapon is no mere ornament—it is the shard of his broken allegiance. As one of the forsaken, a former hero of the Empire, Volskygge forged this weapon for a new purpose. The hammer's weight mirrors the crushing burden of betrayal, its blows resonating with the sorrow of a forgotten warrior. Each strike is a reminder of his fall from grace, and the new path he walks, shrouded in shadow.\n\nSpecially modified weapon charged with Stun, Fire and EMP damages.\n\nThis modification deprives item's quality levels. -->
+  <OES_Trophy_BigHammer.description>TODO</OES_Trophy_BigHammer.description>
+  <!-- EN: handle -->
+  <OES_Trophy_BigHammer.tools.handle.label>TODO</OES_Trophy_BigHammer.tools.handle.label>
+  <!-- EN: head -->
+  <OES_Trophy_BigHammer.tools.head.label>TODO</OES_Trophy_BigHammer.tools.head.label>
+  
+</LanguageData>

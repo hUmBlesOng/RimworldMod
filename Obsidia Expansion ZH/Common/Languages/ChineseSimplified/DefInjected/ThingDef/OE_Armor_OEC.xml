@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Stun bullet -->
+  <Bullet_OEC_Stun.label>TODO</Bullet_OEC_Stun.label>
+  
+  <!-- EN: OEC Hunter Armor -->
+  <OEC_Armor.label>TODO</OEC_Armor.label>
+  <!-- EN: Light power armor, well protects the owner without mobility restriction. Designed for use by Hunters representing the OEC. -->
+  <OEC_Armor.description>TODO</OEC_Armor.description>
+  
+  <!-- EN: OEC Inquisitor Armor -->
+  <OEC_Armor_M.label>TODO</OEC_Armor_M.label>
+  <!-- EN: Light power armor, well protects the owner without mobility restriction. Designed and modified for use by Inquisitors representing the OEC.\n\nThe hardened version provides more protection to the owner. -->
+  <OEC_Armor_M.description>TODO</OEC_Armor_M.description>
+  
+  <!-- EN: OEC Inquisitor Armor(Protector) -->
+  <OEC_Armor_M_Barrier.label>TODO</OEC_Armor_M_Barrier.label>
+  <!-- EN: Light power armor, well protects the owner without mobility restriction. Designed and modified for use by Inquisitors representing the OEC.\n\nModified with the addition of the Universal Barrier. -->
+  <OEC_Armor_M_Barrier.description>TODO</OEC_Armor_M_Barrier.description>
+  
+  <!-- EN: OEC Inquisitor Armor(Huntsman) -->
+  <OEC_Armor_M_Grenadier.label>TODO</OEC_Armor_M_Grenadier.label>
+  <!-- EN: Light power armor, well protects the owner without mobility restriction. Designed and modified for use by Inquisitors representing the OEC.\n\nModified by installing the Stun Cannon. -->
+  <OEC_Armor_M_Grenadier.description>TODO</OEC_Armor_M_Grenadier.description>
+  <!-- EN: grenade -->
+  <OEC_Armor_M_Grenadier.comps.CompApparelReloadable.chargeNoun>TODO</OEC_Armor_M_Grenadier.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OEC_Armor_M_Grenadier.comps.CompApparelReloadable.cooldownGerund>TODO</OEC_Armor_M_Grenadier.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: OEC Inquisitor Armor(Huntsman) -->
+  <OEC_Armor_M_Grenadier.verbs.Verb_LaunchProjectileStatic.label>TODO</OEC_Armor_M_Grenadier.verbs.Verb_LaunchProjectileStatic.label>
+  
+  <!-- EN: OEC Inquisitor Armor(Raven) -->
+  <OEC_Armor_M_Jump.label>TODO</OEC_Armor_M_Jump.label>
+  <!-- EN: Light power armor, well protects the owner without mobility restriction. Designed and modified for use by Inquisitors representing the OEC.\n\nModified with the addition of a Jump pack. -->
+  <OEC_Armor_M_Jump.description>TODO</OEC_Armor_M_Jump.description>
+  <!-- EN: jump -->
+  <OEC_Armor_M_Jump.comps.CompApparelReloadable.chargeNoun>TODO</OEC_Armor_M_Jump.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OEC_Armor_M_Jump.comps.CompApparelReloadable.cooldownGerund>TODO</OEC_Armor_M_Jump.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: OEC Inquisitor Armor(Raven) -->
+  <OEC_Armor_M_Jump.verbs.Verb_Jump.label>TODO</OEC_Armor_M_Jump.verbs.Verb_Jump.label>
+  
+  <!-- EN: OEC Inquisitor Armor(Guardian) -->
+  <OEC_Armor_M_Shield.label>TODO</OEC_Armor_M_Shield.label>
+  <!-- EN: Light power armor, well protects the owner without mobility restriction. Designed and modified for use by Inquisitors representing the OEC.\n\nModified with the addition of a Reinforced Barrier. -->
+  <OEC_Armor_M_Shield.description>TODO</OEC_Armor_M_Shield.description>
+  
+  <!-- EN: OEC Officer Armor(Fogler) -->
+  <OEC_Armor_M_Smoker.label>TODO</OEC_Armor_M_Smoker.label>
+  <!-- EN: Light power armor, well protects the owner without mobility restriction. Designed and modified for use by Inquisitors representing the OEC.\n\nModified with the addition of a Smokepop pack. -->
+  <OEC_Armor_M_Smoker.description>TODO</OEC_Armor_M_Smoker.description>
+  <!-- EN: smokepop -->
+  <OEC_Armor_M_Smoker.comps.CompApparelReloadable.chargeNoun>TODO</OEC_Armor_M_Smoker.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OEC_Armor_M_Smoker.comps.CompApparelReloadable.cooldownGerund>TODO</OEC_Armor_M_Smoker.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: OEC Officer Armor(Fogler) -->
+  <OEC_Armor_M_Smoker.verbs.Verb_SmokePop.label>TODO</OEC_Armor_M_Smoker.verbs.Verb_SmokePop.label>
+  
+  <!-- EN: OEC Inquisitor Armor(Space Griffin) -->
+  <OEC_Armor_M_Spacer.label>TODO</OEC_Armor_M_Spacer.label>
+  <!-- EN: Light power armor, well protects the owner without mobility restriction. Designed and modified for use by Inquisitors representing the OEC.\n\nPressure-sealed version designed to keep the occupant alive in outer space. -->
+  <OEC_Armor_M_Spacer.description>TODO</OEC_Armor_M_Spacer.description>
+  
+</LanguageData>

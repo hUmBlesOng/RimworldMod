@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Legion Spear energy bullet -->
+  <Bullet_OES_LS_A.label>TODO</Bullet_OES_LS_A.label>
+  
+  <!-- EN: Legion Spear Mk.I energy bullet -->
+  <Bullet_OES_LS_B.label>TODO</Bullet_OES_LS_B.label>
+  
+  <!-- EN: Legion Spear Mk.II energy bullet -->
+  <Bullet_OES_LS_C.label>TODO</Bullet_OES_LS_C.label>
+  
+  <!-- EN: Legion Spear Mk.III energy bullet -->
+  <Bullet_OES_LS_D.label>TODO</Bullet_OES_LS_D.label>
+  
+  <!-- EN: Legion Spear Mk.IV energy bullet -->
+  <Bullet_OES_LS_E.label>TODO</Bullet_OES_LS_E.label>
+  
+  <!-- EN: Legion Spear Mk.V energy bullet -->
+  <Bullet_OES_LS_F.label>TODO</Bullet_OES_LS_F.label>
+  
+  <!-- EN: Legion Spear -->
+  <OES_LegionSpear_A.label>TODO</OES_LegionSpear_A.label>
+  <!-- EN: A gun-spear is a replica of the main weapon designed for the Fallen Legion. Specially modified weapon charged with Fire and EMP damages.\n\nThis modification deprives item's quality levels.\n\nWeapons can be upgraded up to 5 times. -->
+  <OES_LegionSpear_A.description>TODO</OES_LegionSpear_A.description>
+  <!-- EN: point -->
+  <OES_LegionSpear_A.tools.point.label>TODO</OES_LegionSpear_A.tools.point.label>
+  <!-- EN: Legion Spear -->
+  <OES_LegionSpear_A.verbs.Verb_Shoot.label>TODO</OES_LegionSpear_A.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Legion Spear Mk.I -->
+  <OES_LegionSpear_B.label>TODO</OES_LegionSpear_B.label>
+  <!-- EN: A gun-spear is a replica of the main weapon designed for the Fallen Legion. Specially modified weapon charged with Fire and EMP damages.\n\nThis modification deprives item's quality levels.\n\nWeapons can be upgraded up to 5 times.\n\nMk.I - weapon damage increased. -->
+  <OES_LegionSpear_B.description>TODO</OES_LegionSpear_B.description>
+  <!-- EN: point -->
+  <OES_LegionSpear_B.tools.point.label>TODO</OES_LegionSpear_B.tools.point.label>
+  <!-- EN: Legion Spear Mk.I -->
+  <OES_LegionSpear_B.verbs.Verb_Shoot.label>TODO</OES_LegionSpear_B.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Legion Spear Mk.II -->
+  <OES_LegionSpear_C.label>TODO</OES_LegionSpear_C.label>
+  <!-- EN: A gun-spear is a replica of the main weapon designed for the Fallen Legion. Specially modified weapon charged with Fire and EMP damages.\n\nThis modification deprives item's quality levels.\n\nWeapons can be upgraded up to 5 times.\n\nMk.I - weapon damage increased.\n\nMk.II - increased firing range. -->
+  <OES_LegionSpear_C.description>TODO</OES_LegionSpear_C.description>
+  <!-- EN: point -->
+  <OES_LegionSpear_C.tools.point.label>TODO</OES_LegionSpear_C.tools.point.label>
+  <!-- EN: Legion Spear Mk.II -->
+  <OES_LegionSpear_C.verbs.Verb_Shoot.label>TODO</OES_LegionSpear_C.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Legion Spear Mk.III -->
+  <OES_LegionSpear_D.label>TODO</OES_LegionSpear_D.label>
+  <!-- EN: A gun-spear is a replica of the main weapon designed for the Fallen Legion. Specially modified weapon charged with Fire and EMP damages.\n\nThis modification deprives item's quality levels.\n\nWeapons can be upgraded up to 5 times.\n\nMk.I - weapon damage increased.\n\nMk.II - increased firing range.\n\nMk.III - weapon accuracy increased. -->
+  <OES_LegionSpear_D.description>TODO</OES_LegionSpear_D.description>
+  <!-- EN: point -->
+  <OES_LegionSpear_D.tools.point.label>TODO</OES_LegionSpear_D.tools.point.label>
+  <!-- EN: Legion Spear Mk.III -->
+  <OES_LegionSpear_D.verbs.Verb_Shoot.label>TODO</OES_LegionSpear_D.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Legion Spear Mk.IV -->
+  <OES_LegionSpear_E.label>TODO</OES_LegionSpear_E.label>
+  <!-- EN: A gun-spear is a replica of the main weapon designed for the Fallen Legion. Specially modified weapon charged with Fire and EMP damages.\n\nThis modification deprives item's quality levels.\n\nWeapons can be upgraded up to 5 times.\n\nMk.I - weapon damage increased.\n\nMk.II - increased firing range.\n\nMk.III - weapon accuracy increased.\n\nMk.IV - armor penetration increased. -->
+  <OES_LegionSpear_E.description>TODO</OES_LegionSpear_E.description>
+  <!-- EN: point -->
+  <OES_LegionSpear_E.tools.point.label>TODO</OES_LegionSpear_E.tools.point.label>
+  <!-- EN: Legion Spear Mk.IV -->
+  <OES_LegionSpear_E.verbs.Verb_Shoot.label>TODO</OES_LegionSpear_E.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Legion Spear Mk.V -->
+  <OES_LegionSpear_F.label>TODO</OES_LegionSpear_F.label>
+  <!-- EN: A gun-spear is a replica of the main weapon designed for the Fallen Legion. Specially modified weapon charged with Fire and EMP damages.\n\nThis modification deprives item's quality levels.\n\nWeapons can be upgraded up to 5 times.\n\nMk.I - weapon damage increased.\n\nMk.II - increased firing range.\n\nMk.III - weapon accuracy increased.\n\nMk.IV - armor penetration increased.\n\nMk.V - all stats significantly increased. -->
+  <OES_LegionSpear_F.description>TODO</OES_LegionSpear_F.description>
+  <!-- EN: point -->
+  <OES_LegionSpear_F.tools.point.label>TODO</OES_LegionSpear_F.tools.point.label>
+  <!-- EN: Legion Spear Mk.V -->
+  <OES_LegionSpear_F.verbs.Verb_Shoot.label>TODO</OES_LegionSpear_F.verbs.Verb_Shoot.label>
+  
+</LanguageData>

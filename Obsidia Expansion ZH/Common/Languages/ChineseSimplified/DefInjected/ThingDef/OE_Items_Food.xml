@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: obsidia can meal -->
+  <OE_CanMeal.label>TODO</OE_CanMeal.label>
+  <!-- EN: A true culinary masterpiece, this dish captivates the senses and brings pure joy to the soul. -->
+  <OE_CanMeal.description>TODO</OE_CanMeal.description>
+  
+  <!-- EN: carnivore obsidia can meal -->
+  <OE_CanMeal_Meat.label>TODO</OE_CanMeal_Meat.label>
+  <!-- EN: A true culinary masterpiece, this dish captivates the senses and brings pure joy to the soul. -->
+  <OE_CanMeal_Meat.description>TODO</OE_CanMeal_Meat.description>
+  
+  <!-- EN: vegetarian obsidia can meal -->
+  <OE_CanMeal_Veg.label>TODO</OE_CanMeal_Veg.label>
+  <!-- EN: A true culinary masterpiece, this dish captivates the senses and brings pure joy to the soul. -->
+  <OE_CanMeal_Veg.description>TODO</OE_CanMeal_Veg.description>
+  
+</LanguageData>

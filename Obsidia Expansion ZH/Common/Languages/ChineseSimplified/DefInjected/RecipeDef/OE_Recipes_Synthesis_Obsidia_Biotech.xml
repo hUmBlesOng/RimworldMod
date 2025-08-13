@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: converting Syntherius of Sin -->
+  <OE_Synthesis_SyntheriusFromSyntheriusOfSin.label>TODO</OE_Synthesis_SyntheriusFromSyntheriusOfSin.label>
+  <!-- EN: Converting Syntherius of Sin into Synthesis. -->
+  <OE_Synthesis_SyntheriusFromSyntheriusOfSin.description>TODO</OE_Synthesis_SyntheriusFromSyntheriusOfSin.description>
+  <!-- EN: Converting. -->
+  <OE_Synthesis_SyntheriusFromSyntheriusOfSin.jobString>TODO</OE_Synthesis_SyntheriusFromSyntheriusOfSin.jobString>
+  
+  <!-- EN: synthesis Syntherius of Sin -->
+  <OE_Synthesis_SyntheriusToSyntheriusOfSin.label>TODO</OE_Synthesis_SyntheriusToSyntheriusOfSin.label>
+  <!-- EN: Synthesis Syntherius of Sin from Syntherius. -->
+  <OE_Synthesis_SyntheriusToSyntheriusOfSin.description>TODO</OE_Synthesis_SyntheriusToSyntheriusOfSin.description>
+  <!-- EN: Synthesis Syntherius of Sin. -->
+  <OE_Synthesis_SyntheriusToSyntheriusOfSin.jobString>TODO</OE_Synthesis_SyntheriusToSyntheriusOfSin.jobString>
+  
+  <!-- EN: converting Ustable Power Stone -->
+  <OE_Synthesis_UnstableStoneFromSyntheriusOfSin.label>TODO</OE_Synthesis_UnstableStoneFromSyntheriusOfSin.label>
+  <!-- EN: Converting Syntherius of Sin into Ustable Power Stone. -->
+  <OE_Synthesis_UnstableStoneFromSyntheriusOfSin.description>TODO</OE_Synthesis_UnstableStoneFromSyntheriusOfSin.description>
+  <!-- EN: Converting. -->
+  <OE_Synthesis_UnstableStoneFromSyntheriusOfSin.jobString>TODO</OE_Synthesis_UnstableStoneFromSyntheriusOfSin.jobString>
+  
+</LanguageData>

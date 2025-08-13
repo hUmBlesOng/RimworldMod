@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Obsidia Eidolon -->
+  <OES_Eidolon_Melee.label>TODO</OES_Eidolon_Melee.label>
+  
+  <!-- EN: Obsidia Eidolon -->
+  <OES_Eidolon_Ranged.label>TODO</OES_Eidolon_Ranged.label>
+  
+  <!-- EN: Obsidia Antihero -->
+  <OES_Special_A_Melee.label>TODO</OES_Special_A_Melee.label>
+  
+  <!-- EN: Obsidia Antihero -->
+  <OES_Special_A_Ranged.label>TODO</OES_Special_A_Ranged.label>
+  
+  <!-- EN: Obsidia Hero-Agent -->
+  <OES_Special_B_Melee.label>TODO</OES_Special_B_Melee.label>
+  
+  <!-- EN: Obsidia Hero-Agent -->
+  <OES_Special_B_Ranged.label>TODO</OES_Special_B_Ranged.label>
+  
+  <!-- EN: Obsidia Undying -->
+  <OES_Undying_Melee.label>TODO</OES_Undying_Melee.label>
+  
+  <!-- EN: Obsidia Undying -->
+  <OES_Undying_Ranged.label>TODO</OES_Undying_Ranged.label>
+  
+</LanguageData>

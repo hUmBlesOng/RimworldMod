@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install bionic heart -->
+  <OE_InstallProstheticHeart.label>TODO</OE_InstallProstheticHeart.label>
+  <!-- EN: Install a bionic heart. -->
+  <OE_InstallProstheticHeart.description>TODO</OE_InstallProstheticHeart.description>
+  <!-- EN: Installing bionic heart. -->
+  <OE_InstallProstheticHeart.jobString>TODO</OE_InstallProstheticHeart.jobString>
+  
+  <!-- EN: install cultist bionic heart -->
+  <OE_InstallProstheticHeart_CAC.label>TODO</OE_InstallProstheticHeart_CAC.label>
+  <!-- EN: Install a cultist bionic heart. -->
+  <OE_InstallProstheticHeart_CAC.description>TODO</OE_InstallProstheticHeart_CAC.description>
+  <!-- EN: Installing bionic heart. -->
+  <OE_InstallProstheticHeart_CAC.jobString>TODO</OE_InstallProstheticHeart_CAC.jobString>
+  
+  <!-- EN: install advanced bionic heart -->
+  <OE_InstallProstheticHeart_M.label>TODO</OE_InstallProstheticHeart_M.label>
+  <!-- EN: Install an advanced bionic heart. -->
+  <OE_InstallProstheticHeart_M.description>TODO</OE_InstallProstheticHeart_M.description>
+  <!-- EN: Installing bionic heart. -->
+  <OE_InstallProstheticHeart_M.jobString>TODO</OE_InstallProstheticHeart_M.jobString>
+  
+  <!-- EN: install heroic bionic heart -->
+  <OE_InstallProstheticHeart_OES.label>TODO</OE_InstallProstheticHeart_OES.label>
+  <!-- EN: Install a heroic bionic heart. -->
+  <OE_InstallProstheticHeart_OES.description>TODO</OE_InstallProstheticHeart_OES.description>
+  <!-- EN: Installing bionic heart. -->
+  <OE_InstallProstheticHeart_OES.jobString>TODO</OE_InstallProstheticHeart_OES.jobString>
+  
+  <!-- EN: install bionic kidney -->
+  <OE_InstallProstheticKidney.label>TODO</OE_InstallProstheticKidney.label>
+  <!-- EN: Install a bionic kidney. -->
+  <OE_InstallProstheticKidney.description>TODO</OE_InstallProstheticKidney.description>
+  <!-- EN: Installing bionic kidney. -->
+  <OE_InstallProstheticKidney.jobString>TODO</OE_InstallProstheticKidney.jobString>
+  
+  <!-- EN: install cultist bionic kidney -->
+  <OE_InstallProstheticKidney_CAC.label>TODO</OE_InstallProstheticKidney_CAC.label>
+  <!-- EN: Install a cultist bionic kidney. -->
+  <OE_InstallProstheticKidney_CAC.description>TODO</OE_InstallProstheticKidney_CAC.description>
+  <!-- EN: Installing bionic kidney. -->
+  <OE_InstallProstheticKidney_CAC.jobString>TODO</OE_InstallProstheticKidney_CAC.jobString>
+  
+  <!-- EN: install advanced bionic kidney -->
+  <OE_InstallProstheticKidney_M.label>TODO</OE_InstallProstheticKidney_M.label>
+  <!-- EN: Install an advanced bionic kidney. -->
+  <OE_InstallProstheticKidney_M.description>TODO</OE_InstallProstheticKidney_M.description>
+  <!-- EN: Installing bionic kidney. -->
+  <OE_InstallProstheticKidney_M.jobString>TODO</OE_InstallProstheticKidney_M.jobString>
+  
+  <!-- EN: install heroic bionic kidney -->
+  <OE_InstallProstheticKidney_OES.label>TODO</OE_InstallProstheticKidney_OES.label>
+  <!-- EN: Install a heroic bionic kidney. -->
+  <OE_InstallProstheticKidney_OES.description>TODO</OE_InstallProstheticKidney_OES.description>
+  <!-- EN: Installing bionic kidney. -->
+  <OE_InstallProstheticKidney_OES.jobString>TODO</OE_InstallProstheticKidney_OES.jobString>
+  
+  <!-- EN: install bionic liver -->
+  <OE_InstallProstheticLiver.label>TODO</OE_InstallProstheticLiver.label>
+  <!-- EN: Install a bionic liver. -->
+  <OE_InstallProstheticLiver.description>TODO</OE_InstallProstheticLiver.description>
+  <!-- EN: Installing bionic liver. -->
+  <OE_InstallProstheticLiver.jobString>TODO</OE_InstallProstheticLiver.jobString>
+  
+  <!-- EN: install cultist bionic liver -->
+  <OE_InstallProstheticLiver_CAC.label>TODO</OE_InstallProstheticLiver_CAC.label>
+  <!-- EN: Install a cultist bionic liver. -->
+  <OE_InstallProstheticLiver_CAC.description>TODO</OE_InstallProstheticLiver_CAC.description>
+  <!-- EN: Installing bionic liver. -->
+  <OE_InstallProstheticLiver_CAC.jobString>TODO</OE_InstallProstheticLiver_CAC.jobString>
+  
+  <!-- EN: install advanced bionic liver -->
+  <OE_InstallProstheticLiver_M.label>TODO</OE_InstallProstheticLiver_M.label>
+  <!-- EN: Install an advanced bionic liver. -->
+  <OE_InstallProstheticLiver_M.description>TODO</OE_InstallProstheticLiver_M.description>
+  <!-- EN: Installing bionic liver. -->
+  <OE_InstallProstheticLiver_M.jobString>TODO</OE_InstallProstheticLiver_M.jobString>
+  
+  <!-- EN: install heroic bionic liver -->
+  <OE_InstallProstheticLiver_OES.label>TODO</OE_InstallProstheticLiver_OES.label>
+  <!-- EN: Install a heroic bionic liver. -->
+  <OE_InstallProstheticLiver_OES.description>TODO</OE_InstallProstheticLiver_OES.description>
+  <!-- EN: Installing bionic liver. -->
+  <OE_InstallProstheticLiver_OES.jobString>TODO</OE_InstallProstheticLiver_OES.jobString>
+  
+  <!-- EN: install bionic lung -->
+  <OE_InstallProstheticLung.label>TODO</OE_InstallProstheticLung.label>
+  <!-- EN: Install a bionic lung. -->
+  <OE_InstallProstheticLung.description>TODO</OE_InstallProstheticLung.description>
+  <!-- EN: Installing bionic lung. -->
+  <OE_InstallProstheticLung.jobString>TODO</OE_InstallProstheticLung.jobString>
+  
+  <!-- EN: install cultist bionic lung -->
+  <OE_InstallProstheticLung_CAC.label>TODO</OE_InstallProstheticLung_CAC.label>
+  <!-- EN: Install a cultist bionic lung. -->
+  <OE_InstallProstheticLung_CAC.description>TODO</OE_InstallProstheticLung_CAC.description>
+  <!-- EN: Installing bionic lung. -->
+  <OE_InstallProstheticLung_CAC.jobString>TODO</OE_InstallProstheticLung_CAC.jobString>
+  
+  <!-- EN: install advanced bionic lung -->
+  <OE_InstallProstheticLung_M.label>TODO</OE_InstallProstheticLung_M.label>
+  <!-- EN: Install an advanced bionic lung. -->
+  <OE_InstallProstheticLung_M.description>TODO</OE_InstallProstheticLung_M.description>
+  <!-- EN: Installing bionic lung. -->
+  <OE_InstallProstheticLung_M.jobString>TODO</OE_InstallProstheticLung_M.jobString>
+  
+  <!-- EN: install heroic bionic lung -->
+  <OE_InstallProstheticLung_OES.label>TODO</OE_InstallProstheticLung_OES.label>
+  <!-- EN: Install a heroic bionic lung. -->
+  <OE_InstallProstheticLung_OES.description>TODO</OE_InstallProstheticLung_OES.description>
+  <!-- EN: Installing bionic lung. -->
+  <OE_InstallProstheticLung_OES.jobString>TODO</OE_InstallProstheticLung_OES.jobString>
+  
+  <!-- EN: install bionic stomach -->
+  <OE_InstallProstheticStomach.label>TODO</OE_InstallProstheticStomach.label>
+  <!-- EN: Install a bionic stomach. -->
+  <OE_InstallProstheticStomach.description>TODO</OE_InstallProstheticStomach.description>
+  <!-- EN: Installing bionic stomach. -->
+  <OE_InstallProstheticStomach.jobString>TODO</OE_InstallProstheticStomach.jobString>
+  
+  <!-- EN: install cultist bionic stomach -->
+  <OE_InstallProstheticStomach_CAC.label>TODO</OE_InstallProstheticStomach_CAC.label>
+  <!-- EN: Install a cultist bionic stomach. -->
+  <OE_InstallProstheticStomach_CAC.description>TODO</OE_InstallProstheticStomach_CAC.description>
+  <!-- EN: Installing bionic stomach. -->
+  <OE_InstallProstheticStomach_CAC.jobString>TODO</OE_InstallProstheticStomach_CAC.jobString>
+  
+  <!-- EN: install advanced bionic stomach -->
+  <OE_InstallProstheticStomach_M.label>TODO</OE_InstallProstheticStomach_M.label>
+  <!-- EN: Install an advanced bionic stomach. -->
+  <OE_InstallProstheticStomach_M.description>TODO</OE_InstallProstheticStomach_M.description>
+  <!-- EN: Installing bionic stomach. -->
+  <OE_InstallProstheticStomach_M.jobString>TODO</OE_InstallProstheticStomach_M.jobString>
+  
+  <!-- EN: install heroic bionic stomach -->
+  <OE_InstallProstheticStomach_OES.label>TODO</OE_InstallProstheticStomach_OES.label>
+  <!-- EN: Install a heroic bionic stomach. -->
+  <OE_InstallProstheticStomach_OES.description>TODO</OE_InstallProstheticStomach_OES.description>
+  <!-- EN: Installing bionic stomach. -->
+  <OE_InstallProstheticStomach_OES.jobString>TODO</OE_InstallProstheticStomach_OES.jobString>
+  
+  <!-- EN: remove bionic heart -->
+  <OE_RemoveProstheticHeart.label>TODO</OE_RemoveProstheticHeart.label>
+  <!-- EN: Remove a bionic heart. -->
+  <OE_RemoveProstheticHeart.description>TODO</OE_RemoveProstheticHeart.description>
+  <!-- EN: Removing bionic heart. -->
+  <OE_RemoveProstheticHeart.jobString>TODO</OE_RemoveProstheticHeart.jobString>
+  
+  <!-- EN: remove cultist bionic heart -->
+  <OE_RemoveProstheticHeart_CAC.label>TODO</OE_RemoveProstheticHeart_CAC.label>
+  <!-- EN: Remove a cultist bionic heart. -->
+  <OE_RemoveProstheticHeart_CAC.description>TODO</OE_RemoveProstheticHeart_CAC.description>
+  <!-- EN: Removing cultist bionic heart. -->
+  <OE_RemoveProstheticHeart_CAC.jobString>TODO</OE_RemoveProstheticHeart_CAC.jobString>
+  
+  <!-- EN: remove advanced bionic heart -->
+  <OE_RemoveProstheticHeart_M.label>TODO</OE_RemoveProstheticHeart_M.label>
+  <!-- EN: Remove an advanced bionic heart. -->
+  <OE_RemoveProstheticHeart_M.description>TODO</OE_RemoveProstheticHeart_M.description>
+  <!-- EN: Removing advanced bionic heart. -->
+  <OE_RemoveProstheticHeart_M.jobString>TODO</OE_RemoveProstheticHeart_M.jobString>
+  
+  <!-- EN: remove heroic bionic heart -->
+  <OE_RemoveProstheticHeart_OES.label>TODO</OE_RemoveProstheticHeart_OES.label>
+  <!-- EN: Remove a heroic bionic heart. -->
+  <OE_RemoveProstheticHeart_OES.description>TODO</OE_RemoveProstheticHeart_OES.description>
+  <!-- EN: Removing heroic bionic heart. -->
+  <OE_RemoveProstheticHeart_OES.jobString>TODO</OE_RemoveProstheticHeart_OES.jobString>
+  
+  <!-- EN: remove bionic kidney -->
+  <OE_RemoveProstheticKidney.label>TODO</OE_RemoveProstheticKidney.label>
+  <!-- EN: Remove a bionic kidney. -->
+  <OE_RemoveProstheticKidney.description>TODO</OE_RemoveProstheticKidney.description>
+  <!-- EN: Removing bionic kidney. -->
+  <OE_RemoveProstheticKidney.jobString>TODO</OE_RemoveProstheticKidney.jobString>
+  
+  <!-- EN: remove cultist bionic kidney -->
+  <OE_RemoveProstheticKidney_CAC.label>TODO</OE_RemoveProstheticKidney_CAC.label>
+  <!-- EN: Remove a cultist bionic kidney. -->
+  <OE_RemoveProstheticKidney_CAC.description>TODO</OE_RemoveProstheticKidney_CAC.description>
+  <!-- EN: Removing cultist bionic kidney. -->
+  <OE_RemoveProstheticKidney_CAC.jobString>TODO</OE_RemoveProstheticKidney_CAC.jobString>
+  
+  <!-- EN: remove advanced bionic kidney -->
+  <OE_RemoveProstheticKidney_M.label>TODO</OE_RemoveProstheticKidney_M.label>
+  <!-- EN: Remove an advanced bionic kidney. -->
+  <OE_RemoveProstheticKidney_M.description>TODO</OE_RemoveProstheticKidney_M.description>
+  <!-- EN: Removing advanced bionic kidney. -->
+  <OE_RemoveProstheticKidney_M.jobString>TODO</OE_RemoveProstheticKidney_M.jobString>
+  
+  <!-- EN: remove heroic bionic kidney -->
+  <OE_RemoveProstheticKidney_OES.label>TODO</OE_RemoveProstheticKidney_OES.label>
+  <!-- EN: Remove a heroic bionic kidney. -->
+  <OE_RemoveProstheticKidney_OES.description>TODO</OE_RemoveProstheticKidney_OES.description>
+  <!-- EN: Removing heroic bionic kidney. -->
+  <OE_RemoveProstheticKidney_OES.jobString>TODO</OE_RemoveProstheticKidney_OES.jobString>
+  
+  <!-- EN: remove bionic liver -->
+  <OE_RemoveProstheticLiver.label>TODO</OE_RemoveProstheticLiver.label>
+  <!-- EN: Remove a bionic liver. -->
+  <OE_RemoveProstheticLiver.description>TODO</OE_RemoveProstheticLiver.description>
+  <!-- EN: Removing bionic liver. -->
+  <OE_RemoveProstheticLiver.jobString>TODO</OE_RemoveProstheticLiver.jobString>
+  
+  <!-- EN: remove cultist bionic liver -->
+  <OE_RemoveProstheticLiver_CAC.label>TODO</OE_RemoveProstheticLiver_CAC.label>
+  <!-- EN: Remove a cultist bionic liver. -->
+  <OE_RemoveProstheticLiver_CAC.description>TODO</OE_RemoveProstheticLiver_CAC.description>
+  <!-- EN: Removing cultist bionic liver. -->
+  <OE_RemoveProstheticLiver_CAC.jobString>TODO</OE_RemoveProstheticLiver_CAC.jobString>
+  
+  <!-- EN: remove advanced bionic liver -->
+  <OE_RemoveProstheticLiver_M.label>TODO</OE_RemoveProstheticLiver_M.label>
+  <!-- EN: Remove an advanced bionic liver. -->
+  <OE_RemoveProstheticLiver_M.description>TODO</OE_RemoveProstheticLiver_M.description>
+  <!-- EN: Removing advanced bionic liver. -->
+  <OE_RemoveProstheticLiver_M.jobString>TODO</OE_RemoveProstheticLiver_M.jobString>
+  
+  <!-- EN: remove heroic bionic liver -->
+  <OE_RemoveProstheticLiver_OES.label>TODO</OE_RemoveProstheticLiver_OES.label>
+  <!-- EN: Remove a heroic bionic liver. -->
+  <OE_RemoveProstheticLiver_OES.description>TODO</OE_RemoveProstheticLiver_OES.description>
+  <!-- EN: Removing heroic bionic liver. -->
+  <OE_RemoveProstheticLiver_OES.jobString>TODO</OE_RemoveProstheticLiver_OES.jobString>
+  
+  <!-- EN: remove bionic lung -->
+  <OE_RemoveProstheticLung.label>TODO</OE_RemoveProstheticLung.label>
+  <!-- EN: Remove a bionic lung. -->
+  <OE_RemoveProstheticLung.description>TODO</OE_RemoveProstheticLung.description>
+  <!-- EN: Removing bionic lung. -->
+  <OE_RemoveProstheticLung.jobString>TODO</OE_RemoveProstheticLung.jobString>
+  
+  <!-- EN: remove cultist bionic lung -->
+  <OE_RemoveProstheticLung_CAC.label>TODO</OE_RemoveProstheticLung_CAC.label>
+  <!-- EN: Remove a cultist bionic lung. -->
+  <OE_RemoveProstheticLung_CAC.description>TODO</OE_RemoveProstheticLung_CAC.description>
+  <!-- EN: Removing cultist bionic lung. -->
+  <OE_RemoveProstheticLung_CAC.jobString>TODO</OE_RemoveProstheticLung_CAC.jobString>
+  
+  <!-- EN: remove advanced bionic lung -->
+  <OE_RemoveProstheticLung_M.label>TODO</OE_RemoveProstheticLung_M.label>
+  <!-- EN: Remove an advanced bionic lung. -->
+  <OE_RemoveProstheticLung_M.description>TODO</OE_RemoveProstheticLung_M.description>
+  <!-- EN: Removing advanced bionic lung. -->
+  <OE_RemoveProstheticLung_M.jobString>TODO</OE_RemoveProstheticLung_M.jobString>
+  
+  <!-- EN: remove heroic bionic lung -->
+  <OE_RemoveProstheticLung_OES.label>TODO</OE_RemoveProstheticLung_OES.label>
+  <!-- EN: Remove a heroic bionic lung. -->
+  <OE_RemoveProstheticLung_OES.description>TODO</OE_RemoveProstheticLung_OES.description>
+  <!-- EN: Removing heroic bionic lung. -->
+  <OE_RemoveProstheticLung_OES.jobString>TODO</OE_RemoveProstheticLung_OES.jobString>
+  
+  <!-- EN: remove bionic stomach -->
+  <OE_RemoveProstheticStomach.label>TODO</OE_RemoveProstheticStomach.label>
+  <!-- EN: Remove a bionic stomach. -->
+  <OE_RemoveProstheticStomach.description>TODO</OE_RemoveProstheticStomach.description>
+  <!-- EN: Removing bionic stomach. -->
+  <OE_RemoveProstheticStomach.jobString>TODO</OE_RemoveProstheticStomach.jobString>
+  
+  <!-- EN: remove cultist bionic stomach -->
+  <OE_RemoveProstheticStomach_CAC.label>TODO</OE_RemoveProstheticStomach_CAC.label>
+  <!-- EN: Remove a cultist bionic stomach. -->
+  <OE_RemoveProstheticStomach_CAC.description>TODO</OE_RemoveProstheticStomach_CAC.description>
+  <!-- EN: Removing cultist bionic stomach. -->
+  <OE_RemoveProstheticStomach_CAC.jobString>TODO</OE_RemoveProstheticStomach_CAC.jobString>
+  
+  <!-- EN: remove advanced bionic stomach -->
+  <OE_RemoveProstheticStomach_M.label>TODO</OE_RemoveProstheticStomach_M.label>
+  <!-- EN: Remove an advanced bionic stomach. -->
+  <OE_RemoveProstheticStomach_M.description>TODO</OE_RemoveProstheticStomach_M.description>
+  <!-- EN: Removing advanced bionic stomach. -->
+  <OE_RemoveProstheticStomach_M.jobString>TODO</OE_RemoveProstheticStomach_M.jobString>
+  
+  <!-- EN: remove heroic bionic stomach -->
+  <OE_RemoveProstheticStomach_OES.label>TODO</OE_RemoveProstheticStomach_OES.label>
+  <!-- EN: Remove a heroic bionic stomach. -->
+  <OE_RemoveProstheticStomach_OES.description>TODO</OE_RemoveProstheticStomach_OES.description>
+  <!-- EN: Removing heroic bionic stomach. -->
+  <OE_RemoveProstheticStomach_OES.jobString>TODO</OE_RemoveProstheticStomach_OES.jobString>
+  
+</LanguageData>

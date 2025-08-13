@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bioferrite slime -->
+  <OE_Slime_Bioferrite.label>TODO</OE_Slime_Bioferrite.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nBioferrite slime production type, produces 50 Bioferrite every 10 days. -->
+  <OE_Slime_Bioferrite.description>TODO</OE_Slime_Bioferrite.description>
+  <!-- EN: mouth -->
+  <OE_Slime_Bioferrite.tools.mouth.label>TODO</OE_Slime_Bioferrite.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_Slime_Bioferrite.tools.head.label>TODO</OE_Slime_Bioferrite.tools.head.label>
+  
+</LanguageData>

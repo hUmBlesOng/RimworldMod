@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install heart implant - Healing -->
+  <OE_InstallImplantHeart_Healing.label>TODO</OE_InstallImplantHeart_Healing.label>
+  <!-- EN: Install a heart implant - Healing. -->
+  <OE_InstallImplantHeart_Healing.description>TODO</OE_InstallImplantHeart_Healing.description>
+  <!-- EN: Installing heart implant - Healing. -->
+  <OE_InstallImplantHeart_Healing.jobString>TODO</OE_InstallImplantHeart_Healing.jobString>
+  
+  <!-- EN: install kidney implant - Coagulator -->
+  <OE_InstallImplantKidney_Coagulator.label>TODO</OE_InstallImplantKidney_Coagulator.label>
+  <!-- EN: Install a kidney implant - Coagulator. -->
+  <OE_InstallImplantKidney_Coagulator.description>TODO</OE_InstallImplantKidney_Coagulator.description>
+  <!-- EN: Installing kidney implant - Coagulator. -->
+  <OE_InstallImplantKidney_Coagulator.jobString>TODO</OE_InstallImplantKidney_Coagulator.jobString>
+  
+  <!-- EN: install liver implant - Immune assistant -->
+  <OE_InstallImplantLiver_Antibiotic.label>TODO</OE_InstallImplantLiver_Antibiotic.label>
+  <!-- EN: Install a liver implant - Immune assistant. -->
+  <OE_InstallImplantLiver_Antibiotic.description>TODO</OE_InstallImplantLiver_Antibiotic.description>
+  <!-- EN: Installing liver implant - Immune assistant. -->
+  <OE_InstallImplantLiver_Antibiotic.jobString>TODO</OE_InstallImplantLiver_Antibiotic.jobString>
+  
+  <!-- EN: install lung implant - Antitox-filter -->
+  <OE_InstallImplantLung_Filtration.label>TODO</OE_InstallImplantLung_Filtration.label>
+  <!-- EN: Install a lung implant - Antitox-filter. -->
+  <OE_InstallImplantLung_Filtration.description>TODO</OE_InstallImplantLung_Filtration.description>
+  <!-- EN: Installing lung implant - Antitox-filter. -->
+  <OE_InstallImplantLung_Filtration.jobString>TODO</OE_InstallImplantLung_Filtration.jobString>
+  
+  <!-- EN: install stomach implant - Traveler -->
+  <OE_InstallImplantStomach_Traveler.label>TODO</OE_InstallImplantStomach_Traveler.label>
+  <!-- EN: Install a stomach implant - Traveler. -->
+  <OE_InstallImplantStomach_Traveler.description>TODO</OE_InstallImplantStomach_Traveler.description>
+  <!-- EN: Installing stomach implant - Traveler. -->
+  <OE_InstallImplantStomach_Traveler.jobString>TODO</OE_InstallImplantStomach_Traveler.jobString>
+  
+  <!-- EN: remove heart implant - Healing -->
+  <OE_RemoveImplantHeart_Healing.label>TODO</OE_RemoveImplantHeart_Healing.label>
+  <!-- EN: Remove a heart implant - Healing. -->
+  <OE_RemoveImplantHeart_Healing.description>TODO</OE_RemoveImplantHeart_Healing.description>
+  <!-- EN: Removing heart implant - Healing. -->
+  <OE_RemoveImplantHeart_Healing.jobString>TODO</OE_RemoveImplantHeart_Healing.jobString>
+  
+  <!-- EN: remove kidney implant - Coagulator -->
+  <OE_RemoveImplantKidney_Coagulator.label>TODO</OE_RemoveImplantKidney_Coagulator.label>
+  <!-- EN: Remove a kidney implant - Coagulator. -->
+  <OE_RemoveImplantKidney_Coagulator.description>TODO</OE_RemoveImplantKidney_Coagulator.description>
+  <!-- EN: Removing kidney implant - Coagulator. -->
+  <OE_RemoveImplantKidney_Coagulator.jobString>TODO</OE_RemoveImplantKidney_Coagulator.jobString>
+  
+  <!-- EN: remove liver implant - Immune assistant -->
+  <OE_RemoveImplantLiver_Antibiotic.label>TODO</OE_RemoveImplantLiver_Antibiotic.label>
+  <!-- EN: Remove a liver implant - Immune assistant. -->
+  <OE_RemoveImplantLiver_Antibiotic.description>TODO</OE_RemoveImplantLiver_Antibiotic.description>
+  <!-- EN: Removing liver implant - Immune assistant. -->
+  <OE_RemoveImplantLiver_Antibiotic.jobString>TODO</OE_RemoveImplantLiver_Antibiotic.jobString>
+  
+  <!-- EN: remove lung implant - Antitox-filter -->
+  <OE_RemoveImplantLung_Filtration.label>TODO</OE_RemoveImplantLung_Filtration.label>
+  <!-- EN: Remove a lung implant - Antitox-filter. -->
+  <OE_RemoveImplantLung_Filtration.description>TODO</OE_RemoveImplantLung_Filtration.description>
+  <!-- EN: Removing lung implant - Antitox-filter. -->
+  <OE_RemoveImplantLung_Filtration.jobString>TODO</OE_RemoveImplantLung_Filtration.jobString>
+  
+  <!-- EN: remove stomach implant - Traveler -->
+  <OE_RemoveImplantStomach_Traveler.label>TODO</OE_RemoveImplantStomach_Traveler.label>
+  <!-- EN: Remove a stomach implant - Traveler. -->
+  <OE_RemoveImplantStomach_Traveler.description>TODO</OE_RemoveImplantStomach_Traveler.description>
+  <!-- EN: Removing stomach implant - Traveler. -->
+  <OE_RemoveImplantStomach_Traveler.jobString>TODO</OE_RemoveImplantStomach_Traveler.jobString>
+  
+</LanguageData>

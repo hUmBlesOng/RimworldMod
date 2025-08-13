@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cyberware - Melee -->
+  <OE_CyberwareHead_Melee.label>TODO</OE_CyberwareHead_Melee.label>
+  <!-- EN: Obsidia cyberware is technology installed into the human flesh that sometimes has the capability to interface with the nervous system. Its goal is to achieve higher performance and bring new enhancements in melee combat.\n\nInstallation requires - cyberware interface.\n\nThis cyberware can be installed up to 3 times to increase its effect. -->
+  <OE_CyberwareHead_Melee.description>TODO</OE_CyberwareHead_Melee.description>
+  <!-- EN: Implant {0_label} -->
+  <OE_CyberwareHead_Melee.comps.CompUsableImplant.useLabel>TODO</OE_CyberwareHead_Melee.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: cyberware - Optimist -->
+  <OE_CyberwareHead_Optimist.label>TODO</OE_CyberwareHead_Optimist.label>
+  <!-- EN: Obsidia cyberware is technology installed into the human flesh that sometimes has the capability to interface with the nervous system. Its goal is to achieve higher performance and improve mood.\n\nInstallation requires - cyberware interface.\n\nThis cyberware can be installed up to 3 times to increase its effect. -->
+  <OE_CyberwareHead_Optimist.description>TODO</OE_CyberwareHead_Optimist.description>
+  <!-- EN: Implant {0_label} -->
+  <OE_CyberwareHead_Optimist.comps.CompUsableImplant.useLabel>TODO</OE_CyberwareHead_Optimist.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: cyberware - Pessimist -->
+  <OE_CyberwareHead_Pessimist.label>TODO</OE_CyberwareHead_Pessimist.label>
+  <!-- EN: Obsidia cyberware is technology installed into the human flesh that sometimes has the capability to interface with the nervous system. Its goal is to achieve higher performance and worsens mood.\n\nInstallation requires - cyberware interface.\n\nThis cyberware can be installed up to 3 times to increase its effect. -->
+  <OE_CyberwareHead_Pessimist.description>TODO</OE_CyberwareHead_Pessimist.description>
+  <!-- EN: Implant {0_label} -->
+  <OE_CyberwareHead_Pessimist.comps.CompUsableImplant.useLabel>TODO</OE_CyberwareHead_Pessimist.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: cyberware - Ranger -->
+  <OE_CyberwareHead_Ranged.label>TODO</OE_CyberwareHead_Ranged.label>
+  <!-- EN: Obsidia cyberware is technology installed into the human flesh that sometimes has the capability to interface with the nervous system. Its goal is to achieve higher performance and bring new enhancements in ranged combat.\n\nInstallation requires - cyberware interface.\n\nThis cyberware can be installed up to 3 times to increase its effect. -->
+  <OE_CyberwareHead_Ranged.description>TODO</OE_CyberwareHead_Ranged.description>
+  <!-- EN: Implant {0_label} -->
+  <OE_CyberwareHead_Ranged.comps.CompUsableImplant.useLabel>TODO</OE_CyberwareHead_Ranged.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: cyberware - Relaxing -->
+  <OE_CyberwareHead_Relaxing.label>TODO</OE_CyberwareHead_Relaxing.label>
+  <!-- EN: Obsidia cyberware is technology installed into the human flesh that sometimes has the capability to interface with the nervous system. Its goal is to achieve higher performance and improve learning speed.\n\nInstallation requires - cyberware interface.\n\nThis cyberware can be installed up to 3 times to increase its effect. -->
+  <OE_CyberwareHead_Relaxing.description>TODO</OE_CyberwareHead_Relaxing.description>
+  <!-- EN: Implant {0_label} -->
+  <OE_CyberwareHead_Relaxing.comps.CompUsableImplant.useLabel>TODO</OE_CyberwareHead_Relaxing.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: cyberware - Workout -->
+  <OE_CyberwareHead_Workout.label>TODO</OE_CyberwareHead_Workout.label>
+  <!-- EN: Obsidia cyberware is technology installed into the human flesh that sometimes has the capability to interface with the nervous system. Its goal is to achieve higher performance and improve work speed.\n\nInstallation requires - cyberware interface.\n\nThis cyberware can be installed up to 3 times to increase its effect. -->
+  <OE_CyberwareHead_Workout.description>TODO</OE_CyberwareHead_Workout.description>
+  <!-- EN: Implant {0_label} -->
+  <OE_CyberwareHead_Workout.comps.CompUsableImplant.useLabel>TODO</OE_CyberwareHead_Workout.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: cyberware - Beastmaster -->
+  <OE_CyberwareNeck_Beastmaster.label>TODO</OE_CyberwareNeck_Beastmaster.label>
+  <!-- EN: Obsidia cyberware is technology installed into the human flesh that sometimes has the capability to interface with the nervous system. Its goal is to achieve higher performance and bring new enhancements in animal skills.\n\nInstallation requires - cyberware interface.\n\nThis cyberware can be installed up to 5 times to increase its effect. -->
+  <OE_CyberwareNeck_Beastmaster.description>TODO</OE_CyberwareNeck_Beastmaster.description>
+  <!-- EN: Implant {0_label} -->
+  <OE_CyberwareNeck_Beastmaster.comps.CompUsableImplant.useLabel>TODO</OE_CyberwareNeck_Beastmaster.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: cyberware - Obsidian-will -->
+  <OE_CyberwareNeck_ObsidianWill.label>TODO</OE_CyberwareNeck_ObsidianWill.label>
+  <!-- EN: Obsidia cyberware is technology installed into the human flesh that sometimes has the capability to interface with the nervous system. Its goal is to achieve higher performance and improve mental break threshold.\n\nInstallation requires - cyberware interface.\n\nThis cyberware can be installed up to 10 times to increase its effect. -->
+  <OE_CyberwareNeck_ObsidianWill.description>TODO</OE_CyberwareNeck_ObsidianWill.description>
+  <!-- EN: Implant {0_label} -->
+  <OE_CyberwareNeck_ObsidianWill.comps.CompUsableImplant.useLabel>TODO</OE_CyberwareNeck_ObsidianWill.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: cyberware - Recruiter -->
+  <OE_CyberwareNeck_Recruiter.label>TODO</OE_CyberwareNeck_Recruiter.label>
+  <!-- EN: Obsidia cyberware is technology installed into the human flesh that sometimes has the capability to interface with the nervous system. Its goal is to achieve higher performance and bring new enhancements in recruiting skills.\n\nInstallation requires - cyberware interface.\n\nThis cyberware can be installed up to 5 times to increase its effect. -->
+  <OE_CyberwareNeck_Recruiter.description>TODO</OE_CyberwareNeck_Recruiter.description>
+  <!-- EN: Implant {0_label} -->
+  <OE_CyberwareNeck_Recruiter.comps.CompUsableImplant.useLabel>TODO</OE_CyberwareNeck_Recruiter.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: cyberware - Social -->
+  <OE_CyberwareNeck_Social.label>TODO</OE_CyberwareNeck_Social.label>
+  <!-- EN: Obsidia cyberware is technology installed into the human flesh that sometimes has the capability to interface with the nervous system. Its goal is to achieve higher performance and bring new enhancements in social skills.\n\nInstallation requires - cyberware interface.\n\nThis cyberware can be installed up to 5 times to increase its effect. -->
+  <OE_CyberwareNeck_Social.description>TODO</OE_CyberwareNeck_Social.description>
+  <!-- EN: Implant {0_label} -->
+  <OE_CyberwareNeck_Social.comps.CompUsableImplant.useLabel>TODO</OE_CyberwareNeck_Social.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: cyberware - Trader -->
+  <OE_CyberwareNeck_Trader.label>TODO</OE_CyberwareNeck_Trader.label>
+  <!-- EN: Obsidia cyberware is technology installed into the human flesh that sometimes has the capability to interface with the nervous system. Its goal is to achieve higher performance and bring new enhancements in trading skills.\n\nInstallation requires - cyberware interface.\n\nThis cyberware can be installed up to 5 times to increase its effect. -->
+  <OE_CyberwareNeck_Trader.description>TODO</OE_CyberwareNeck_Trader.description>
+  <!-- EN: Implant {0_label} -->
+  <OE_CyberwareNeck_Trader.comps.CompUsableImplant.useLabel>TODO</OE_CyberwareNeck_Trader.comps.CompUsableImplant.useLabel>
+  
+</LanguageData>

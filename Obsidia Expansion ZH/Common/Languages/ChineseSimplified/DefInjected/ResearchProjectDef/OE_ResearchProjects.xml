@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: CAC - Initiation -->
+  <CACGear.label>TODO</CACGear.label>
+  <!-- EN: Research Initiation technology of Crimson Arachna Cult. -->
+  <CACGear.description>TODO</CACGear.description>
+  <!-- EN: You’ve unlocked the means to create advanced Crimson Arachna Cult gear using Cultist Kits.\n\nCraft these kits at the Obsidia Armor Station and Weapon Workbench to embrace the cult's twisted power. -->
+  <CACGear.discoveredLetterText>TODO</CACGear.discoveredLetterText>
+  <!-- EN: About: Cultist combat gear -->
+  <CACGear.discoveredLetterTitle>TODO</CACGear.discoveredLetterTitle>
+  
+  <!-- EN: CAC - Enlightenment -->
+  <CACGearAdv.label>TODO</CACGearAdv.label>
+  <!-- EN: Research Enlightenment technology of Crimson Arachna Cult. -->
+  <CACGearAdv.description>TODO</CACGearAdv.description>
+  
+  <!-- EN: OCC - Regular Armor -->
+  <OCCArmor.label>TODO</OCCArmor.label>
+  <!-- EN: Craft regular Obsidia Crusaders Corpus knights medium power armor. -->
+  <OCCArmor.description>TODO</OCCArmor.description>
+  
+  <!-- EN: OCC - Reforged Equipment -->
+  <OCCGearMod.label>TODO</OCCGearMod.label>
+  <!-- EN: Reforge Obsidia Crusaders Corpus paladins equipment. -->
+  <OCCGearMod.description>TODO</OCCGearMod.description>
+  
+  <!-- EN: OCC - Regular Weapons -->
+  <OCCWeapons.label>TODO</OCCWeapons.label>
+  <!-- EN: Craft regular Obsidia Crusaders Corpus knights weapons. -->
+  <OCCWeapons.description>TODO</OCCWeapons.description>
+  
+  <!-- EN: ODC - Core -->
+  <ODCGear.label>TODO</ODCGear.label>
+  <!-- EN: Research basics of Drifter Clans technology. -->
+  <ODCGear.description>TODO</ODCGear.description>
+  <!-- EN: You can now craft gear designed for the Obsidia Drifter Clans, using Drifters Kits.\n\nDrifters Kits are crafted at the Obsidia Armor Station and Weapon Workbench, and open the way to a rugged, nomadic combat style. -->
+  <ODCGear.discoveredLetterText>TODO</ODCGear.discoveredLetterText>
+  <!-- EN: About: Drifter Clans equipment -->
+  <ODCGear.discoveredLetterTitle>TODO</ODCGear.discoveredLetterTitle>
+  
+  <!-- EN: ODC - Emergent -->
+  <ODCGearAdv.label>TODO</ODCGearAdv.label>
+  <!-- EN: Research Emergent technology of Drifter Clans. -->
+  <ODCGearAdv.description>TODO</ODCGearAdv.description>
+  
+  <!-- EN: ODC - Apex -->
+  <ODCGearExp.label>TODO</ODCGearExp.label>
+  <!-- EN: Research Apex technology of Drifter Clans. -->
+  <ODCGearExp.description>TODO</ODCGearExp.description>
+  
+  <!-- EN: ODC - Legends -->
+  <ODCGearLeg.label>TODO</ODCGearLeg.label>
+  <!-- EN: Research technology of Drifter Clans from Legends. -->
+  <ODCGearLeg.description>TODO</ODCGearLeg.description>
+  
+  <!-- EN: OE - Bioengineering -->
+  <OEBioengineering.label>TODO</OEBioengineering.label>
+  <!-- EN: Research basics of Obsidia bioengineering technology. -->
+  <OEBioengineering.description>TODO</OEBioengineering.description>
+  <!-- EN: You’ve unlocked the power of Amalgama technology, crafted primarily using the mysterious EGO Seed.\n\nPlant an EGO Tree using an EGO Seed to grow the essential materials needed for these advanced biological enhancements. -->
+  <OEBioengineering.discoveredLetterText>TODO</OEBioengineering.discoveredLetterText>
+  <!-- EN: About: Growing EGO Trees -->
+  <OEBioengineering.discoveredLetterTitle>TODO</OEBioengineering.discoveredLetterTitle>
+  
+  <!-- EN: OE - Bionics -->
+  <OEBionics.label>TODO</OEBionics.label>
+  <!-- EN: Research basics of Obsidia bionics technology. -->
+  <OEBionics.description>TODO</OEBionics.description>
+  <!-- EN: You now have access to advanced Obsidia Expansion bionics.\n\nUse a wide range of resources to craft them at the Obsidia Bionic Table and enhance your colonists' physical performance. -->
+  <OEBionics.discoveredLetterText>TODO</OEBionics.discoveredLetterText>
+  <!-- EN: About: Obsidia bionics -->
+  <OEBionics.discoveredLetterTitle>TODO</OEBionics.discoveredLetterTitle>
+  
+  <!-- EN: OE - Adv. Bionics -->
+  <OEBionicsAdv.label>TODO</OEBionicsAdv.label>
+  <!-- EN: Research advanced of Obsidia bionics technology. -->
+  <OEBionicsAdv.description>TODO</OEBionicsAdv.description>
+  
+  <!-- EN: OE - Building -->
+  <OEBuilding.label>TODO</OEBuilding.label>
+  <!-- EN: Research basics of Obsidia building technology. -->
+  <OEBuilding.description>TODO</OEBuilding.description>
+  
+  <!-- EN: OE - Construction -->
+  <OEConstruction.label>TODO</OEConstruction.label>
+  <!-- EN: Research basics of Obsidia construction technology. -->
+  <OEConstruction.description>TODO</OEConstruction.description>
+  <!-- EN: You can now build the Obsidia Armor Station and the Obsidia Weapon Workbench.\n\nThese are your primary facilities for crafting the powerful equipment offered by Obsidia Expansion. -->
+  <OEConstruction.discoveredLetterText>TODO</OEConstruction.discoveredLetterText>
+  <!-- EN: About: Obsidia crafting stations -->
+  <OEConstruction.discoveredLetterTitle>TODO</OEConstruction.discoveredLetterTitle>
+  
+  <!-- EN: OE - Core -->
+  <OECore.label>TODO</OECore.label>
+  <!-- EN: Research basics of Obsidia technology. -->
+  <OECore.description>TODO</OECore.description>
+  <!-- EN: You now have the knowledge to begin your journey into Obsidia Expansion. To proceed, you’ll need specific resources:\n\n-Syntherius and Mooncloth – Grow specialized plants to harvest them.\n-Obsidian, Mythril, and Platinum – Mine these rare minerals across the world.\n\nYou can also find them as quest rewards or through trade with many factions. -->
+  <OECore.discoveredLetterText>TODO</OECore.discoveredLetterText>
+  <!-- EN: About: Obsidia resources -->
+  <OECore.discoveredLetterTitle>TODO</OECore.discoveredLetterTitle>
+  
+  <!-- EN: OE - Cyberwares -->
+  <OECyberwares.label>TODO</OECyberwares.label>
+  <!-- EN: Research basics of Obsidia cyberwares technology. -->
+  <OECyberwares.description>TODO</OECyberwares.description>
+  <!-- EN: You can now create Cyberwares – multi-tier implants that enhance your colonists in various ways.\n\nCraft them at the Obsidia Bionic Table. Note: To install Cyberwares, you must first install a Cyberware Interface or Cyberware AI Interface. -->
+  <OECyberwares.discoveredLetterText>TODO</OECyberwares.discoveredLetterText>
+  <!-- EN: About: Installing cyberwares -->
+  <OECyberwares.discoveredLetterTitle>TODO</OECyberwares.discoveredLetterTitle>
+  
+  <!-- EN: OE - Adv. Cyberwares -->
+  <OECyberwaresAdv.label>TODO</OECyberwaresAdv.label>
+  <!-- EN: Research advanced of Obsidia cyberwares technology. -->
+  <OECyberwaresAdv.description>TODO</OECyberwaresAdv.description>
+  
+  <!-- EN: OE - Defence -->
+  <OEDefence.label>TODO</OEDefence.label>
+  <!-- EN: Research basics of Obsidia defence technology. -->
+  <OEDefence.description>TODO</OEDefence.description>
+  <!-- EN: You’ve unlocked the ability to build powerful defensive turrets from the Obsidia Expansion.\n\nThese turrets use a universal type of ammunition – the Obsidia Ammo Kit – which must be crafted, at the Obsidia Synthesis Printer, to keep your defenses operational. -->
+  <OEDefence.discoveredLetterText>TODO</OEDefence.discoveredLetterText>
+  <!-- EN: About: Obsidia turret defense -->
+  <OEDefence.discoveredLetterTitle>TODO</OEDefence.discoveredLetterTitle>
+  
+  <!-- EN: OE - Adv. Defence -->
+  <OEDefenceAdv.label>TODO</OEDefenceAdv.label>
+  <!-- EN: Research advanced of Obsidia defence technology. -->
+  <OEDefenceAdv.description>TODO</OEDefenceAdv.description>
+  
+  <!-- EN: OE - Farm -->
+  <OEFarm.label>TODO</OEFarm.label>
+  <!-- EN: Research basics of Obsidia farming technology. -->
+  <OEFarm.description>TODO</OEFarm.description>
+  
+  <!-- EN: OE - Adv. Farm -->
+  <OEFarmAdv.label>TODO</OEFarmAdv.label>
+  <!-- EN: Research advanced of Obsidia farming technology. -->
+  <OEFarmAdv.description>TODO</OEFarmAdv.description>
+  
+  <!-- EN: OE - Exp. Farm -->
+  <OEFarmExp.label>TODO</OEFarmExp.label>
+  <!-- EN: Research experimental of Obsidia farming technology. -->
+  <OEFarmExp.description>TODO</OEFarmExp.description>
+  
+  <!-- EN: OE - Furniture -->
+  <OEFurniture.label>TODO</OEFurniture.label>
+  <!-- EN: Research basics of Obsidia furniture technology. -->
+  <OEFurniture.description>TODO</OEFurniture.description>
+  
+  <!-- EN: OE - Cross Technologies -->
+  <OEGearCross.label>TODO</OEGearCross.label>
+  <!-- EN: Research Cross Technologies of Obsidia gear. -->
+  <OEGearCross.description>TODO</OEGearCross.description>
+  
+  <!-- EN: OE - Modernization -->
+  <OEGearMod.label>TODO</OEGearMod.label>
+  <!-- EN: Research advanced of Obsidia gear modernization technology. -->
+  <OEGearMod.description>TODO</OEGearMod.description>
+  <!-- EN: This technology enables the crafting of enhanced Obsidia gear using Modernization Kits.\n\nThese kits can be crafted at the Obsidia Armor Station and Weapon Workbench and are vital for improving your colonists' combat efficiency. -->
+  <OEGearMod.discoveredLetterText>TODO</OEGearMod.discoveredLetterText>
+  <!-- EN: About: Upgrading Obsidia gear -->
+  <OEGearMod.discoveredLetterTitle>TODO</OEGearMod.discoveredLetterTitle>
+  
+  <!-- EN: OE - Implants -->
+  <OEImplants.label>TODO</OEImplants.label>
+  <!-- EN: Research basics of Obsidia implanting technology. -->
+  <OEImplants.description>TODO</OEImplants.description>
+  
+  <!-- EN: OE - Modules -->
+  <OEModules.label>TODO</OEModules.label>
+  <!-- EN: Craft module provides the owner with various bonuses, depending on the model. -->
+  <OEModules.description>TODO</OEModules.description>
+  
+  <!-- EN: OE - Power -->
+  <OEPower.label>TODO</OEPower.label>
+  <!-- EN: Research basics of Obsidia power technology. -->
+  <OEPower.description>TODO</OEPower.description>
+  
+  <!-- EN: OE - Adv. Power -->
+  <OEPowerAdv.label>TODO</OEPowerAdv.label>
+  <!-- EN: Research advanced of Obsidia power technology. -->
+  <OEPowerAdv.description>TODO</OEPowerAdv.description>
+  
+  <!-- EN: OE - Exp. Power -->
+  <OEPowerExp.label>TODO</OEPowerExp.label>
+  <!-- EN: Research experimental of Obsidia power technology. -->
+  <OEPowerExp.description>TODO</OEPowerExp.description>
+  
+  <!-- EN: OE - Synthesis -->
+  <OESynth.label>TODO</OESynth.label>
+  <!-- EN: Research basics of Obsidia synthesis technology. -->
+  <OESynth.description>TODO</OESynth.description>
+  <!-- EN: You’ve unlocked the ability to perform advanced synthesis using Syntherius at the Obsidia Synthesis Printer.\n\nThis allows the creation of rare materials such as Empyrium, Orichalcum, Neutroamine, Synthread, Hyperweave, and even Luciferium.\n\nMastering synthesis is essential for obtaining high-tier resources without relying on luck or trade. -->
+  <OESynth.discoveredLetterText>TODO</OESynth.discoveredLetterText>
+  <!-- EN: About: Synthesis and rare crafting -->
+  <OESynth.discoveredLetterTitle>TODO</OESynth.discoveredLetterTitle>
+  
+  <!-- EN: OE - Adv. Synthesis -->
+  <OESynthAdv.label>TODO</OESynthAdv.label>
+  <!-- EN: Research advanced of Obsidia synthesis technology. -->
+  <OESynthAdv.description>TODO</OESynthAdv.description>
+  
+  <!-- EN: OMC - Regular Armor -->
+  <OMCArmor.label>TODO</OMCArmor.label>
+  <!-- EN: Craft regular Obsidia Military Corpus soldiers medium power armor. -->
+  <OMCArmor.description>TODO</OMCArmor.description>
+  
+  <!-- EN: OMC - Modified Equipment -->
+  <OMCGearMod.label>TODO</OMCGearMod.label>
+  <!-- EN: Modification Obsidia Military Corpus officers equipment. -->
+  <OMCGearMod.description>TODO</OMCGearMod.description>
+  
+  <!-- EN: OMC - Regular Weapons -->
+  <OMCWeapons.label>TODO</OMCWeapons.label>
+  <!-- EN: Craft regular Obsidia Military Corpus soldiers weapons. -->
+  <OMCWeapons.description>TODO</OMCWeapons.description>
+  
+  <!-- EN: OMG - Mercenary Grid Access -->
+  <OMGGear.label>TODO</OMGGear.label>
+  <!-- EN: Research advanced fragments of Obsidia Mercenary Gangs technology. -->
+  <OMGGear.description>TODO</OMGGear.description>
+  <!-- EN: You can now forge heavily modified equipment favored by Obsidia Mercenary Gangs.\n\nUse Mercenaries Modernization Kits at the Obsidia Armor Station and Weapon Workbench to access this brutal and efficient arsenal. -->
+  <OMGGear.discoveredLetterText>TODO</OMGGear.discoveredLetterText>
+  <!-- EN: About: Mercenary-grade loadouts -->
+  <OMGGear.discoveredLetterTitle>TODO</OMGGear.discoveredLetterTitle>
+  
+  <!-- EN: OTC - Regular Armor -->
+  <OTCArmor.label>TODO</OTCArmor.label>
+  <!-- EN: Craft regular Obsidia Tech Corpus mechanics light power armor. -->
+  <OTCArmor.description>TODO</OTCArmor.description>
+  
+  <!-- EN: OTC - Experimental Equipment -->
+  <OTCGearMod.label>TODO</OTCGearMod.label>
+  <!-- EN: Craft experimental Obsidia Tech Corpus equipment. -->
+  <OTCGearMod.description>TODO</OTCGearMod.description>
+  
+  <!-- EN: OTC - Regular Weapons -->
+  <OTCWeapons.label>TODO</OTCWeapons.label>
+  <!-- EN: Craft regular Obsidia Tech Corpus mechanics weapons. -->
+  <OTCWeapons.description>TODO</OTCWeapons.description>
+  
+</LanguageData>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Prototype sX-01a bullet -->
+  <Bullet_OMC_Trophy_P.label>TODO</Bullet_OMC_Trophy_P.label>
+  
+  <!-- EN: Inlaid Prototype sX-01a bullet -->
+  <Bullet_OMC_Trophy_P_I.label>TODO</Bullet_OMC_Trophy_P_I.label>
+  
+  <!-- EN: Empress's Blessing -->
+  <OMC_Trophy_Chainsword.label>TODO</OMC_Trophy_Chainsword.label>
+  <!-- EN: The good old chainsword is designed to destroy the enemies of Obsidia Empire.\n\nThis is a rare trophy weapon.\n\nFeature: a built-in module that improves combat performance. -->
+  <OMC_Trophy_Chainsword.description>TODO</OMC_Trophy_Chainsword.description>
+  <!-- EN: handle -->
+  <OMC_Trophy_Chainsword.tools.handle.label>TODO</OMC_Trophy_Chainsword.tools.handle.label>
+  <!-- EN: chain -->
+  <OMC_Trophy_Chainsword.tools.chain.label>TODO</OMC_Trophy_Chainsword.tools.chain.label>
+  
+  <!-- EN: Inlaid Empress's Blessing -->
+  <OMC_Trophy_Chainsword_I.label>TODO</OMC_Trophy_Chainsword_I.label>
+  <!-- EN: The good old chainsword is designed to destroy the enemies of Obsidia Empire.\n\nThis is a rare trophy weapon.\n\nFeature: a built-in module that improves combat performance.\n\nInlaid with Insight Power Stone: Weapon bonus stats increased. -->
+  <OMC_Trophy_Chainsword_I.description>TODO</OMC_Trophy_Chainsword_I.description>
+  <!-- EN: handle -->
+  <OMC_Trophy_Chainsword_I.tools.handle.label>TODO</OMC_Trophy_Chainsword_I.tools.handle.label>
+  <!-- EN: chain -->
+  <OMC_Trophy_Chainsword_I.tools.chain.label>TODO</OMC_Trophy_Chainsword_I.tools.chain.label>
+  
+  <!-- EN: Prototype sX-01a -->
+  <OMC_Trophy_Pistol.label>TODO</OMC_Trophy_Pistol.label>
+  <!-- EN: Prototype of a new pistol that uses an AI module to improve accuracy.\n\nThis is a rare trophy weapon.\n\nFeature: built-in accuracy stabilization module. -->
+  <OMC_Trophy_Pistol.description>TODO</OMC_Trophy_Pistol.description>
+  <!-- EN: grip -->
+  <OMC_Trophy_Pistol.tools.grip.label>TODO</OMC_Trophy_Pistol.tools.grip.label>
+  <!-- EN: barrel -->
+  <OMC_Trophy_Pistol.tools.barrel.label>TODO</OMC_Trophy_Pistol.tools.barrel.label>
+  <!-- EN: Prototype sX-01a -->
+  <OMC_Trophy_Pistol.verbs.Verb_Shoot.label>TODO</OMC_Trophy_Pistol.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Inlaid Prototype sX-01a -->
+  <OMC_Trophy_Pistol_I.label>TODO</OMC_Trophy_Pistol_I.label>
+  <!-- EN: Prototype of a new pistol that uses an AI module to improve accuracy.\n\nThis is a rare trophy weapon.\n\nFeature: built-in accuracy stabilization module.\n\nInlaid with Vitality Power Stone: Weapon operational stats increased. -->
+  <OMC_Trophy_Pistol_I.description>TODO</OMC_Trophy_Pistol_I.description>
+  <!-- EN: grip -->
+  <OMC_Trophy_Pistol_I.tools.grip.label>TODO</OMC_Trophy_Pistol_I.tools.grip.label>
+  <!-- EN: barrel -->
+  <OMC_Trophy_Pistol_I.tools.barrel.label>TODO</OMC_Trophy_Pistol_I.tools.barrel.label>
+  <!-- EN: Inlaid Prototype sX-01a -->
+  <OMC_Trophy_Pistol_I.verbs.Verb_Shoot.label>TODO</OMC_Trophy_Pistol_I.verbs.Verb_Shoot.label>
+  
+</LanguageData>

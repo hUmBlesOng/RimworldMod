@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gestate EGO Carapace -->
+  <OE_Gestate_EGO_Armor_Carapace.label>TODO</OE_Gestate_EGO_Armor_Carapace.label>
+  <!-- EN: Gestate an amalgam EGO Carapace. -->
+  <OE_Gestate_EGO_Armor_Carapace.description>TODO</OE_Gestate_EGO_Armor_Carapace.description>
+  <!-- EN: Gestating an EGO Carapace. -->
+  <OE_Gestate_EGO_Armor_Carapace.jobString>TODO</OE_Gestate_EGO_Armor_Carapace.jobString>
+  
+  <!-- EN: gestate EGO Shell(Berserker) -->
+  <OE_Gestate_EGO_Armor_Shell_Melee.label>TODO</OE_Gestate_EGO_Armor_Shell_Melee.label>
+  <!-- EN: Gestate an amalgam EGO Shell(Berserker). -->
+  <OE_Gestate_EGO_Armor_Shell_Melee.description>TODO</OE_Gestate_EGO_Armor_Shell_Melee.description>
+  <!-- EN: Gestating an EGO Shell(Berserker). -->
+  <OE_Gestate_EGO_Armor_Shell_Melee.jobString>TODO</OE_Gestate_EGO_Armor_Shell_Melee.jobString>
+  
+  <!-- EN: gestate EGO Shell(Ballista) -->
+  <OE_Gestate_EGO_Armor_Shell_Ranged.label>TODO</OE_Gestate_EGO_Armor_Shell_Ranged.label>
+  <!-- EN: Gestate an amalgam EGO Shell(Ballista). -->
+  <OE_Gestate_EGO_Armor_Shell_Ranged.description>TODO</OE_Gestate_EGO_Armor_Shell_Ranged.description>
+  <!-- EN: Gestating an EGO Shell(Ballista). -->
+  <OE_Gestate_EGO_Armor_Shell_Ranged.jobString>TODO</OE_Gestate_EGO_Armor_Shell_Ranged.jobString>
+  
+  <!-- EN: gestate EGO Shell(Constructor) -->
+  <OE_Gestate_EGO_Armor_Shell_Worker.label>TODO</OE_Gestate_EGO_Armor_Shell_Worker.label>
+  <!-- EN: Gestate an amalgam EGO Shell(Constructor). -->
+  <OE_Gestate_EGO_Armor_Shell_Worker.description>TODO</OE_Gestate_EGO_Armor_Shell_Worker.description>
+  <!-- EN: Gestating an EGO Shell(Constructor). -->
+  <OE_Gestate_EGO_Armor_Shell_Worker.jobString>TODO</OE_Gestate_EGO_Armor_Shell_Worker.jobString>
+  
+  <!-- EN: gestate EGO Suit -->
+  <OE_Gestate_EGO_Armor_Suit.label>TODO</OE_Gestate_EGO_Armor_Suit.label>
+  <!-- EN: Gestate an amalgam EGO Suit. -->
+  <OE_Gestate_EGO_Armor_Suit.description>TODO</OE_Gestate_EGO_Armor_Suit.description>
+  <!-- EN: Gestating an EGO Suit. -->
+  <OE_Gestate_EGO_Armor_Suit.jobString>TODO</OE_Gestate_EGO_Armor_Suit.jobString>
+  
+  <!-- EN: gestate EGO Berserker Exohelm -->
+  <OE_Gestate_EGO_Helmet_Exohelm_Melee.label>TODO</OE_Gestate_EGO_Helmet_Exohelm_Melee.label>
+  <!-- EN: Gestate an amalgam EGO Berserker Exohelm. -->
+  <OE_Gestate_EGO_Helmet_Exohelm_Melee.description>TODO</OE_Gestate_EGO_Helmet_Exohelm_Melee.description>
+  <!-- EN: Gestating an EGO Berserker Exohelm. -->
+  <OE_Gestate_EGO_Helmet_Exohelm_Melee.jobString>TODO</OE_Gestate_EGO_Helmet_Exohelm_Melee.jobString>
+  
+  <!-- EN: gestate EGO Ballista Exohelm -->
+  <OE_Gestate_EGO_Helmet_Exohelm_Ranged.label>TODO</OE_Gestate_EGO_Helmet_Exohelm_Ranged.label>
+  <!-- EN: Gestate an amalgam EGO Ballista Exohelm. -->
+  <OE_Gestate_EGO_Helmet_Exohelm_Ranged.description>TODO</OE_Gestate_EGO_Helmet_Exohelm_Ranged.description>
+  <!-- EN: Gestating an EGO Ballista Exohelm. -->
+  <OE_Gestate_EGO_Helmet_Exohelm_Ranged.jobString>TODO</OE_Gestate_EGO_Helmet_Exohelm_Ranged.jobString>
+  
+  <!-- EN: gestate EGO Constructor Exohelm -->
+  <OE_Gestate_EGO_Helmet_Exohelm_Worker.label>TODO</OE_Gestate_EGO_Helmet_Exohelm_Worker.label>
+  <!-- EN: Gestate an amalgam EGO Constructor Exohelm. -->
+  <OE_Gestate_EGO_Helmet_Exohelm_Worker.description>TODO</OE_Gestate_EGO_Helmet_Exohelm_Worker.description>
+  <!-- EN: Gestating an EGO Constructor Exohelm. -->
+  <OE_Gestate_EGO_Helmet_Exohelm_Worker.jobString>TODO</OE_Gestate_EGO_Helmet_Exohelm_Worker.jobString>
+  
+  <!-- EN: gestate EGO Helm -->
+  <OE_Gestate_EGO_Helmet_Helm.label>TODO</OE_Gestate_EGO_Helmet_Helm.label>
+  <!-- EN: Gestate an amalgam EGO Helm. -->
+  <OE_Gestate_EGO_Helmet_Helm.description>TODO</OE_Gestate_EGO_Helmet_Helm.description>
+  <!-- EN: Gestating an EGO Helm. -->
+  <OE_Gestate_EGO_Helmet_Helm.jobString>TODO</OE_Gestate_EGO_Helmet_Helm.jobString>
+  
+  <!-- EN: gestate EGO Mask -->
+  <OE_Gestate_EGO_Helmet_Mask.label>TODO</OE_Gestate_EGO_Helmet_Mask.label>
+  <!-- EN: Gestate an amalgam EGO Mask. -->
+  <OE_Gestate_EGO_Helmet_Mask.description>TODO</OE_Gestate_EGO_Helmet_Mask.description>
+  <!-- EN: Gestating an EGO Mask. -->
+  <OE_Gestate_EGO_Helmet_Mask.jobString>TODO</OE_Gestate_EGO_Helmet_Mask.jobString>
+  
+  <!-- EN: Reset EGO Carapace -->
+  <OE_Reset_EGO_Armor_Carapace.label>TODO</OE_Reset_EGO_Armor_Carapace.label>
+  <!-- EN: Reset an amalgam EGO Carapace. -->
+  <OE_Reset_EGO_Armor_Carapace.description>TODO</OE_Reset_EGO_Armor_Carapace.description>
+  <!-- EN: Resetting an EGO Carapace. -->
+  <OE_Reset_EGO_Armor_Carapace.jobString>TODO</OE_Reset_EGO_Armor_Carapace.jobString>
+  
+  <!-- EN: Reset EGO Shell(Berserker) -->
+  <OE_Reset_EGO_Armor_Shell_Melee.label>TODO</OE_Reset_EGO_Armor_Shell_Melee.label>
+  <!-- EN: Reset an amalgam EGO Shell(Berserker). -->
+  <OE_Reset_EGO_Armor_Shell_Melee.description>TODO</OE_Reset_EGO_Armor_Shell_Melee.description>
+  <!-- EN: Resetting an EGO Shell(Berserker). -->
+  <OE_Reset_EGO_Armor_Shell_Melee.jobString>TODO</OE_Reset_EGO_Armor_Shell_Melee.jobString>
+  
+  <!-- EN: Reset EGO Shell(Ballista) -->
+  <OE_Reset_EGO_Armor_Shell_Ranged.label>TODO</OE_Reset_EGO_Armor_Shell_Ranged.label>
+  <!-- EN: Reset an amalgam EGO Shell(Ballista). -->
+  <OE_Reset_EGO_Armor_Shell_Ranged.description>TODO</OE_Reset_EGO_Armor_Shell_Ranged.description>
+  <!-- EN: Resetting an EGO Shell(Ballista). -->
+  <OE_Reset_EGO_Armor_Shell_Ranged.jobString>TODO</OE_Reset_EGO_Armor_Shell_Ranged.jobString>
+  
+  <!-- EN: Reset EGO Shell(Constructor) -->
+  <OE_Reset_EGO_Armor_Shell_Worker.label>TODO</OE_Reset_EGO_Armor_Shell_Worker.label>
+  <!-- EN: Reset an amalgam EGO Shell(Constructor). -->
+  <OE_Reset_EGO_Armor_Shell_Worker.description>TODO</OE_Reset_EGO_Armor_Shell_Worker.description>
+  <!-- EN: Resetting an EGO Shell(Constructor). -->
+  <OE_Reset_EGO_Armor_Shell_Worker.jobString>TODO</OE_Reset_EGO_Armor_Shell_Worker.jobString>
+  
+  <!-- EN: Reset EGO Suit -->
+  <OE_Reset_EGO_Armor_Suit.label>TODO</OE_Reset_EGO_Armor_Suit.label>
+  <!-- EN: Reset an amalgam EGO Suit. -->
+  <OE_Reset_EGO_Armor_Suit.description>TODO</OE_Reset_EGO_Armor_Suit.description>
+  <!-- EN: Resetting an EGO Suit. -->
+  <OE_Reset_EGO_Armor_Suit.jobString>TODO</OE_Reset_EGO_Armor_Suit.jobString>
+  
+  <!-- EN: Reset EGO Berserker Exohelm -->
+  <OE_Reset_EGO_Helmet_Exohelm_Melee.label>TODO</OE_Reset_EGO_Helmet_Exohelm_Melee.label>
+  <!-- EN: Reset an amalgam EGO Berserker Exohelm. -->
+  <OE_Reset_EGO_Helmet_Exohelm_Melee.description>TODO</OE_Reset_EGO_Helmet_Exohelm_Melee.description>
+  <!-- EN: Resetting an EGO Berserker Exohelm. -->
+  <OE_Reset_EGO_Helmet_Exohelm_Melee.jobString>TODO</OE_Reset_EGO_Helmet_Exohelm_Melee.jobString>
+  
+  <!-- EN: Reset EGO Ballista Exohelm -->
+  <OE_Reset_EGO_Helmet_Exohelm_Ranged.label>TODO</OE_Reset_EGO_Helmet_Exohelm_Ranged.label>
+  <!-- EN: Reset an amalgam EGO Ballista Exohelm. -->
+  <OE_Reset_EGO_Helmet_Exohelm_Ranged.description>TODO</OE_Reset_EGO_Helmet_Exohelm_Ranged.description>
+  <!-- EN: Resetting an EGO Ballista Exohelm. -->
+  <OE_Reset_EGO_Helmet_Exohelm_Ranged.jobString>TODO</OE_Reset_EGO_Helmet_Exohelm_Ranged.jobString>
+  
+  <!-- EN: Reset EGO Constructor Exohelm -->
+  <OE_Reset_EGO_Helmet_Exohelm_Worker.label>TODO</OE_Reset_EGO_Helmet_Exohelm_Worker.label>
+  <!-- EN: Reset an amalgam EGO Constructor Exohelm. -->
+  <OE_Reset_EGO_Helmet_Exohelm_Worker.description>TODO</OE_Reset_EGO_Helmet_Exohelm_Worker.description>
+  <!-- EN: Resetting an EGO Constructor Exohelm. -->
+  <OE_Reset_EGO_Helmet_Exohelm_Worker.jobString>TODO</OE_Reset_EGO_Helmet_Exohelm_Worker.jobString>
+  
+  <!-- EN: Reset EGO Helm -->
+  <OE_Reset_EGO_Helmet_Helm.label>TODO</OE_Reset_EGO_Helmet_Helm.label>
+  <!-- EN: Reset an amalgam EGO Helm. -->
+  <OE_Reset_EGO_Helmet_Helm.description>TODO</OE_Reset_EGO_Helmet_Helm.description>
+  <!-- EN: Resetting an EGO Helm. -->
+  <OE_Reset_EGO_Helmet_Helm.jobString>TODO</OE_Reset_EGO_Helmet_Helm.jobString>
+  
+  <!-- EN: Reset EGO Mask -->
+  <OE_Reset_EGO_Helmet_Mask.label>TODO</OE_Reset_EGO_Helmet_Mask.label>
+  <!-- EN: Reset an amalgam EGO Mask. -->
+  <OE_Reset_EGO_Helmet_Mask.description>TODO</OE_Reset_EGO_Helmet_Mask.description>
+  <!-- EN: Resetting an EGO Mask. -->
+  <OE_Reset_EGO_Helmet_Mask.jobString>TODO</OE_Reset_EGO_Helmet_Mask.jobString>
+  
+</LanguageData>

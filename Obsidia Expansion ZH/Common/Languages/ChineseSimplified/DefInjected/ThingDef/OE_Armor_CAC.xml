@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: CAC Cultist Heavy Armor -->
+  <CAC_HeavyArmor.label>TODO</CAC_HeavyArmor.label>
+  <!-- EN: Heavy power armor, excellent protects the owner. Designed and modified for use by CAC Cultists. -->
+  <CAC_HeavyArmor.description>TODO</CAC_HeavyArmor.description>
+  
+  <!-- EN: CAC Cultist Heavy Armor(Fogler) -->
+  <CAC_HeavyArmor_Smoker.label>TODO</CAC_HeavyArmor_Smoker.label>
+  <!-- EN: Heavy power armor, excellent protects the owner. Designed and modified for use by CAC Cultists.\n\nModified with the addition of a Smokepop pack. -->
+  <CAC_HeavyArmor_Smoker.description>TODO</CAC_HeavyArmor_Smoker.description>
+  <!-- EN: smokepop -->
+  <CAC_HeavyArmor_Smoker.comps.CompApparelReloadable.chargeNoun>TODO</CAC_HeavyArmor_Smoker.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CAC_HeavyArmor_Smoker.comps.CompApparelReloadable.cooldownGerund>TODO</CAC_HeavyArmor_Smoker.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: CAC Cultist Heavy Armor(Fogler) -->
+  <CAC_HeavyArmor_Smoker.verbs.Verb_SmokePop.label>TODO</CAC_HeavyArmor_Smoker.verbs.Verb_SmokePop.label>
+  
+  <!-- EN: CAC Cultist Light Armor -->
+  <CAC_LightArmor.label>TODO</CAC_LightArmor.label>
+  <!-- EN: Light power armor, well protects the owner. Designed and modified for use by CAC Cultists. -->
+  <CAC_LightArmor.description>TODO</CAC_LightArmor.description>
+  
+  <!-- EN: CAC Cultist Light Armor(Fogler) -->
+  <CAC_LightArmor_Smoker.label>TODO</CAC_LightArmor_Smoker.label>
+  <!-- EN: Light power armor, well protects the owner. Designed and modified for use by CAC Cultists.\n\nModified with the addition of a Smokepop pack. -->
+  <CAC_LightArmor_Smoker.description>TODO</CAC_LightArmor_Smoker.description>
+  <!-- EN: smokepop -->
+  <CAC_LightArmor_Smoker.comps.CompApparelReloadable.chargeNoun>TODO</CAC_LightArmor_Smoker.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CAC_LightArmor_Smoker.comps.CompApparelReloadable.cooldownGerund>TODO</CAC_LightArmor_Smoker.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: CAC Cultist Light Armor(Fogler) -->
+  <CAC_LightArmor_Smoker.verbs.Verb_SmokePop.label>TODO</CAC_LightArmor_Smoker.verbs.Verb_SmokePop.label>
+  
+</LanguageData>

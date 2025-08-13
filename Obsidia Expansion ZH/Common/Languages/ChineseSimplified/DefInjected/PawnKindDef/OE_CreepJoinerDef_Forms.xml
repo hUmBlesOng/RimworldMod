@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: forsaken cultist -->
+  <CAC_ForsakenCultist.label>TODO</CAC_ForsakenCultist.label>
+  <!-- EN: Non-aggressive Crimson Arachna cultist is approaching your colony. -->
+  <CAC_ForsakenCultist.letterLabel>TODO</CAC_ForsakenCultist.letterLabel>
+  <!-- EN: {PAWN_nameDef} was a child who born and lived {PAWN_possessive} entire life in the Crimson Arachna Cult. According to {PAWN_nameDef} words {PAWN_pronoun} became disillusioned with their beliefs and ran away from the cult to see the world.\n\nNow {PAWN_pronoun} begs to join your colony. -->
+  <CAC_ForsakenCultist.letterPrompt>TODO</CAC_ForsakenCultist.letterPrompt>
+  
+  <!-- EN: escaped subject -->
+  <OCC_EscapedSubject.label>TODO</OCC_EscapedSubject.label>
+  <!-- EN: Very scared looking Obsidia Empire Knight is approaching your colony. -->
+  <OCC_EscapedSubject.letterLabel>TODO</OCC_EscapedSubject.letterLabel>
+  <!-- EN: {PAWN_nameDef} becoming a volunteer in experiments to improve the people of the Obsidia Empire, not knowing what horrors were hidden behind these experiments. Couldn't stand it {PAWN_pronoun} decided to run away. Caught the right moment and get into the security arsenal, stealing the OCC equipment and escaping from the research complex. Having escaped from {PAWN_possessive} pursuers, {PAWN_nameDef} came across your settlement.\n\n{PAWN_pronoun} says that {PAWN_pronoun} knows that {PAWN_possessive} skills are needed here and wants to stay for a while. -->
+  <OCC_EscapedSubject.letterPrompt>TODO</OCC_EscapedSubject.letterPrompt>
+  
+  <!-- EN: lost drifter -->
+  <ODC_LostDrifter.label>TODO</ODC_LostDrifter.label>
+  <!-- EN: A hungry drifter is approaching your colony. -->
+  <ODC_LostDrifter.letterLabel>TODO</ODC_LostDrifter.letterLabel>
+  <!-- EN: After the raid on {PAWN_possessive} trade caravan {PAWN_nameDef} separated from it. After several weeks of wandering, the hungry {PAWN_nameDef} came across your settlement.\n\n{PAWN_pronoun} asks to stay in your colony for a while - at least until {PAWN_pronoun} has recovered {PAWN_possessive} strength. -->
+  <ODC_LostDrifter.letterPrompt>TODO</ODC_LostDrifter.letterPrompt>
+  
+  <!-- EN: escaped subject -->
+  <OMC_EscapedSubject.label>TODO</OMC_EscapedSubject.label>
+  <!-- EN: Very scared looking Obsidia Empire Soldier is approaching your colony. -->
+  <OMC_EscapedSubject.letterLabel>TODO</OMC_EscapedSubject.letterLabel>
+  <!-- EN: {PAWN_nameDef} becoming a volunteer in experiments to improve the people of the Obsidia Empire, not knowing what horrors were hidden behind these experiments. Couldn't stand it {PAWN_pronoun} decided to run away. Caught the right moment and get into the security arsenal, stealing the OMC equipment and escaping from the research complex. Having escaped from {PAWN_possessive} pursuers, {PAWN_nameDef} came across your settlement.\n\n{PAWN_pronoun} says that {PAWN_pronoun} knows that {PAWN_possessive} skills are needed here and wants to stay for a while. -->
+  <OMC_EscapedSubject.letterPrompt>TODO</OMC_EscapedSubject.letterPrompt>
+  
+  <!-- EN: escaped subject -->
+  <OTC_EscapedSubject.label>TODO</OTC_EscapedSubject.label>
+  <!-- EN: Very scared looking Obsidia Empire Mechanic is approaching your colony. -->
+  <OTC_EscapedSubject.letterLabel>TODO</OTC_EscapedSubject.letterLabel>
+  <!-- EN: {PAWN_nameDef} becoming a volunteer in experiments to improve the people of the Obsidia Empire, not knowing what horrors were hidden behind these experiments. Couldn't stand it {PAWN_pronoun} decided to run away. Caught the right moment and get into the security arsenal, stealing the OTC equipment and escaping from the research complex. Having escaped from {PAWN_possessive} pursuers, {PAWN_nameDef} came across your settlement.\n\n{PAWN_pronoun} says that {PAWN_pronoun} knows that {PAWN_possessive} skills are needed here and wants to stay for a while. -->
+  <OTC_EscapedSubject.letterPrompt>TODO</OTC_EscapedSubject.letterPrompt>
+  
+</LanguageData>

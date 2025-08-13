@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Succulent of Doom's flower -->
+  <Plant_OE_SucculentOfDoom_Flower.label>TODO</Plant_OE_SucculentOfDoom_Flower.label>
+  <!-- EN: No one expected doom to come in a flowerpot. The digital artist, known online as @LNS_OWL for her adorable illustrations, once bought a charming little succulent set from a group of wandering traders. At first, it was just a bit of greenery to brighten her windowsill. But soon, tiny sprouts began appearing—everywhere. She kept repotting them, one by one, into new pots. Season after season, the pots multiplied, slowly overtaking shelves, desks, and every sunlit surface. Now her cozy studio is a labyrinth of leafy tenants… and the plants are still looking for more space.\n\nFortunately, it only grows in polluted areas. -->
+  <Plant_OE_SucculentOfDoom_Flower.description>TODO</Plant_OE_SucculentOfDoom_Flower.description>
+  
+  <!-- EN: Succulent of Doom's grass -->
+  <Plant_OE_SucculentOfDoom_Grass.label>TODO</Plant_OE_SucculentOfDoom_Grass.label>
+  <!-- EN: This creeping grass is spread by the flower’s roots—quietly, steadily—like it's helping its potted brethren colonize everything soft and green. By the time you notice it, your home is no longer yours—it’s theirs. -->
+  <Plant_OE_SucculentOfDoom_Grass.description>TODO</Plant_OE_SucculentOfDoom_Grass.description>
+  
+  <!-- EN: toxi Jumy -->
+  <Plant_OE_ToxiJumy.label>TODO</Plant_OE_ToxiJumy.label>
+  <!-- EN: Small toxin-adapted Obsidias plant inside which grows handfuls tasty and sweet berries. It can only grow in polluted areas. -->
+  <Plant_OE_ToxiJumy.description>TODO</Plant_OE_ToxiJumy.description>
+  
+  <!-- EN: toxi jumy bush -->
+  <Plant_OE_ToxiJumyBush.label>TODO</Plant_OE_ToxiJumyBush.label>
+  <!-- EN: An artificially bred medium toxin-adapted Obsidias plant inside which grows handfuls tasty and sweet berries. It can only grow in polluted areas. -->
+  <Plant_OE_ToxiJumyBush.description>TODO</Plant_OE_ToxiJumyBush.description>
+  
+  <!-- EN: Pearlpeach tree -->
+  <Plant_OE_TreePearlpeach.label>TODO</Plant_OE_TreePearlpeach.label>
+  <!-- EN: Obsidias long-growing toxin-adapted crystal tree bearing pearlpeach. Pearlpeach fruits used as a meat substitute. It can only grow in polluted areas. -->
+  <Plant_OE_TreePearlpeach.description>TODO</Plant_OE_TreePearlpeach.description>
+  
+</LanguageData>

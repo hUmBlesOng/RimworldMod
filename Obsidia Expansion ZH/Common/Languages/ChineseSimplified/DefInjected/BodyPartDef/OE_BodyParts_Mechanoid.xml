@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arm -->
+  <OEMechanicalArm.label>TODO</OEMechanicalArm.label>
+  
+  <!-- EN: arm -->
+  <OEMechanicalArmLarge.label>TODO</OEMechanicalArmLarge.label>
+  
+  <!-- EN: finger -->
+  <OEMechanicalFinger.label>TODO</OEMechanicalFinger.label>
+  
+  <!-- EN: finger -->
+  <OEMechanicalFingerLarge.label>TODO</OEMechanicalFingerLarge.label>
+  
+  <!-- EN: foot -->
+  <OEMechanicalFoot.label>TODO</OEMechanicalFoot.label>
+  
+  <!-- EN: foot -->
+  <OEMechanicalFootLarge.label>TODO</OEMechanicalFootLarge.label>
+  
+  <!-- EN: hand -->
+  <OEMechanicalHand.label>TODO</OEMechanicalHand.label>
+  
+  <!-- EN: hand -->
+  <OEMechanicalHandLarge.label>TODO</OEMechanicalHandLarge.label>
+  
+  <!-- EN: head -->
+  <OEMechanicalHead.label>TODO</OEMechanicalHead.label>
+  
+  <!-- EN: head -->
+  <OEMechanicalHeadLarge.label>TODO</OEMechanicalHeadLarge.label>
+  
+  <!-- EN: leg -->
+  <OEMechanicalLeg.label>TODO</OEMechanicalLeg.label>
+  
+  <!-- EN: leg -->
+  <OEMechanicalLegLarge.label>TODO</OEMechanicalLegLarge.label>
+  
+  <!-- EN: shoulder -->
+  <OEMechanicalShoulder.label>TODO</OEMechanicalShoulder.label>
+  
+  <!-- EN: shoulder -->
+  <OEMechanicalShoulderLarge.label>TODO</OEMechanicalShoulderLarge.label>
+  
+  <!-- EN: thorax -->
+  <OEMechanicalThorax.label>TODO</OEMechanicalThorax.label>
+  
+  <!-- EN: thorax -->
+  <OEMechanicalThoraxLarge.label>TODO</OEMechanicalThoraxLarge.label>
+  
+</LanguageData>

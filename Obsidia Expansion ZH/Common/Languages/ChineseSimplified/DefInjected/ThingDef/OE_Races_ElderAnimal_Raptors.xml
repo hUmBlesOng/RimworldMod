@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: elder raptor -->
+  <OE_Elder_Raptor.label>TODO</OE_Elder_Raptor.label>
+  <!-- EN: Raptors are large, aggressive theropods, but seem to be very intelligent for beasts. These theropods prefer to live in warmer climates. Difficult but accessible to taming, which makes these fast and deadly predators an excellent fighting unit.\n\nYet one Raptor was different. After a violent volcanic eruption scorched the southern plains, this lone survivor began to display unnatural agility and heightened aggression. Unbeknownst to observers, the creature had absorbed an EGO Seed buried beneath ancient lava beds—melding it with its own genetic code over years of solitude and constant pursuit.\n\nThe resulting Elder Raptor is a blur of motion and violence. Quicker than the eye, with claws that rend steel and a feral leap that closes any distance in a flash, it is evolution given purpose.\n\nElder Raptors are even rarer and more dangerous than the typical Raptor. -->
+  <OE_Elder_Raptor.description>TODO</OE_Elder_Raptor.description>
+  <!-- EN: elder raptor meat -->
+  <OE_Elder_Raptor.race.meatLabel>TODO</OE_Elder_Raptor.race.meatLabel>
+  <!-- EN: left foot claw -->
+  <OE_Elder_Raptor.tools.left_foot_claw.label>TODO</OE_Elder_Raptor.tools.left_foot_claw.label>
+  <!-- EN: right foot claw -->
+  <OE_Elder_Raptor.tools.right_foot_claw.label>TODO</OE_Elder_Raptor.tools.right_foot_claw.label>
+  <!-- EN: left arm claw -->
+  <OE_Elder_Raptor.tools.left_arm_claw.label>TODO</OE_Elder_Raptor.tools.left_arm_claw.label>
+  <!-- EN: right arm claw -->
+  <OE_Elder_Raptor.tools.right_arm_claw.label>TODO</OE_Elder_Raptor.tools.right_arm_claw.label>
+  
+</LanguageData>

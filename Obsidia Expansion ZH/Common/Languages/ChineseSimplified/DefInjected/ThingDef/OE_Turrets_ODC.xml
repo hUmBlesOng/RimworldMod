@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: N.A.C.J.A.C. -->
+  <ODC_Turret_Big.label>TODO</ODC_Turret_Big.label>
+  <!-- EN: Neo Armstrong Cyclone Jet Armstrong Cannon prohibited but legendary weapons of Obsidia. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <ODC_Turret_Big.description>TODO</ODC_Turret_Big.description>
+  <!-- EN: Fuel capacity -->
+  <ODC_Turret_Big.comps.CompRefuelable.fuelGizmoLabel>TODO</ODC_Turret_Big.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shoots until run out of charges -->
+  <ODC_Turret_Big.comps.CompRefuelable.fuelLabel>TODO</ODC_Turret_Big.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
+  <ODC_Turret_Big.comps.CompRefuelable.outOfFuelMessage>TODO</ODC_Turret_Big.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: ODC Thoughtless Turret -->
+  <ODC_Turret_Small.label>TODO</ODC_Turret_Small.label>
+  <!-- EN: An automatic ODC Assault Rifle-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <ODC_Turret_Small.description>TODO</ODC_Turret_Small.description>
+  <!-- EN: Fuel capacity -->
+  <ODC_Turret_Small.comps.CompRefuelable.fuelGizmoLabel>TODO</ODC_Turret_Small.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shoots until run out of charges -->
+  <ODC_Turret_Small.comps.CompRefuelable.fuelLabel>TODO</ODC_Turret_Small.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
+  <ODC_Turret_Small.comps.CompRefuelable.outOfFuelMessage>TODO</ODC_Turret_Small.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: ODC Thoughtless Powered Turret -->
+  <ODC_Turret_SmallPowered.label>TODO</ODC_Turret_SmallPowered.label>
+  <!-- EN: An automatic ODC Assault Rifle-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire.\n\nThis turret has a built-in generator. -->
+  <ODC_Turret_SmallPowered.description>TODO</ODC_Turret_SmallPowered.description>
+  <!-- EN: Fuel capacity -->
+  <ODC_Turret_SmallPowered.comps.CompRefuelable.fuelGizmoLabel>TODO</ODC_Turret_SmallPowered.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shoots until run out of charges -->
+  <ODC_Turret_SmallPowered.comps.CompRefuelable.fuelLabel>TODO</ODC_Turret_SmallPowered.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
+  <ODC_Turret_SmallPowered.comps.CompRefuelable.outOfFuelMessage>TODO</ODC_Turret_SmallPowered.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: N.A.C.J.A.C. charge -->
+  <ODC_TurretBullet_Big.label>TODO</ODC_TurretBullet_Big.label>
+  
+  <!-- EN: thoughtless turret bullet -->
+  <ODC_TurretBullet_Small.label>TODO</ODC_TurretBullet_Small.label>
+  
+  <!-- EN: N.A.C.J.A.C. -->
+  <ODC_TurretGun_Big.label>TODO</ODC_TurretGun_Big.label>
+  <!-- EN: Neo Armstrong Cyclone Jet Armstrong Cannon prohibited but legendary weapons of Obsidia. -->
+  <ODC_TurretGun_Big.description>TODO</ODC_TurretGun_Big.description>
+  <!-- EN: N.A.C.J.A.C. -->
+  <ODC_TurretGun_Big.verbs.Verb_Shoot.label>TODO</ODC_TurretGun_Big.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Thoughtless Turret -->
+  <ODC_TurretGun_Small.label>TODO</ODC_TurretGun_Small.label>
+  <!-- EN: Reconstructed ODC Assault Rifle for turrets. Specially modified weapon with non-lethal bullets. -->
+  <ODC_TurretGun_Small.description>TODO</ODC_TurretGun_Small.description>
+  <!-- EN: Thoughtless Turret -->
+  <ODC_TurretGun_Small.verbs.Verb_Shoot.label>TODO</ODC_TurretGun_Small.verbs.Verb_Shoot.label>
+  
+</LanguageData>

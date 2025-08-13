@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: OCC Paladin Armor(Warden) -->
+  <OCC_Armor_M_ForceField.label>TODO</OCC_Armor_M_ForceField.label>
+  <!-- EN: Heavy power armor, excellent protects the owner with little mobility restriction. Designed and modified for use by OCC Paladins.\n\nModified with the addition of a Low-Shield pack. -->
+  <OCC_Armor_M_ForceField.description>TODO</OCC_Armor_M_ForceField.description>
+  <!-- EN: shield -->
+  <OCC_Armor_M_ForceField.comps.CompApparelReloadable.chargeNoun>TODO</OCC_Armor_M_ForceField.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OCC_Armor_M_ForceField.comps.CompApparelReloadable.cooldownGerund>TODO</OCC_Armor_M_ForceField.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: OCC Paladin Armor(Warden) -->
+  <OCC_Armor_M_ForceField.verbs.Verb_DeployBroadshield.label>TODO</OCC_Armor_M_ForceField.verbs.Verb_DeployBroadshield.label>
+  
+  <!-- EN: OCC Paladin Armor(Raven) -->
+  <OCC_Armor_M_Jump.label>TODO</OCC_Armor_M_Jump.label>
+  <!-- EN: Heavy power armor, excellent protects the owner with little mobility restriction. Designed and modified for use by OCC Paladins.\n\nModified with the addition of a Jump pack. -->
+  <OCC_Armor_M_Jump.description>TODO</OCC_Armor_M_Jump.description>
+  <!-- EN: jump -->
+  <OCC_Armor_M_Jump.comps.CompApparelReloadable.chargeNoun>TODO</OCC_Armor_M_Jump.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OCC_Armor_M_Jump.comps.CompApparelReloadable.cooldownGerund>TODO</OCC_Armor_M_Jump.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: OCC Paladin Armor(Raven) -->
+  <OCC_Armor_M_Jump.verbs.Verb_Jump.label>TODO</OCC_Armor_M_Jump.verbs.Verb_Jump.label>
+  
+</LanguageData>

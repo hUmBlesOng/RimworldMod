@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Paragon Harvest -->
+  <ODC_Trophy_BladeLauncher_A_P.label>TODO</ODC_Trophy_BladeLauncher_A_P.label>
+  <!-- EN: Rare heavy paragon blade launcher weapon used by Obsidia Drifters. This weapon was a working tool, but upgraded for ranged combat.\n\nThis is a rare trophy weapon.\n\nFeature: a built-in module that improves work skills. -->
+  <ODC_Trophy_BladeLauncher_A_P.description>TODO</ODC_Trophy_BladeLauncher_A_P.description>
+  <!-- EN: charge -->
+  <ODC_Trophy_BladeLauncher_A_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</ODC_Trophy_BladeLauncher_A_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <ODC_Trophy_BladeLauncher_A_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</ODC_Trophy_BladeLauncher_A_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Harvest -->
+  <ODC_Trophy_BladeLauncher_A_P.comps.CompUniqueWeapon.namerLabels.0>TODO</ODC_Trophy_BladeLauncher_A_P.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: saw -->
+  <ODC_Trophy_BladeLauncher_A_P.tools.saw.label>TODO</ODC_Trophy_BladeLauncher_A_P.tools.saw.label>
+  <!-- EN: Paragon Harvest -->
+  <ODC_Trophy_BladeLauncher_A_P.verbs.Verb_Shoot.label>TODO</ODC_Trophy_BladeLauncher_A_P.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Paragon Harvest - Emergent -->
+  <ODC_Trophy_BladeLauncher_B_P.label>TODO</ODC_Trophy_BladeLauncher_B_P.label>
+  <!-- EN: Rare heavy paragon blade launcher weapon used by Obsidia Drifters. This weapon was a working tool, but upgraded for ranged combat.\n\nThis is a rare trophy weapon.\n\nFeature: a built-in module that improves work skills. -->
+  <ODC_Trophy_BladeLauncher_B_P.description>TODO</ODC_Trophy_BladeLauncher_B_P.description>
+  <!-- EN: charge -->
+  <ODC_Trophy_BladeLauncher_B_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</ODC_Trophy_BladeLauncher_B_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <ODC_Trophy_BladeLauncher_B_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</ODC_Trophy_BladeLauncher_B_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Harvest - Emergent -->
+  <ODC_Trophy_BladeLauncher_B_P.comps.CompUniqueWeapon.namerLabels.0>TODO</ODC_Trophy_BladeLauncher_B_P.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: saw -->
+  <ODC_Trophy_BladeLauncher_B_P.tools.saw.label>TODO</ODC_Trophy_BladeLauncher_B_P.tools.saw.label>
+  <!-- EN: Paragon Harvest - Emergent -->
+  <ODC_Trophy_BladeLauncher_B_P.verbs.Verb_Shoot.label>TODO</ODC_Trophy_BladeLauncher_B_P.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Paragon Harvest - Apex -->
+  <ODC_Trophy_BladeLauncher_C_P.label>TODO</ODC_Trophy_BladeLauncher_C_P.label>
+  <!-- EN: Rare heavy paragon blade launcher weapon used by Obsidia Drifters. This weapon was a working tool, but upgraded for ranged combat.\n\nThis is a rare trophy weapon.\n\nFeature: a built-in module that improves work skills. -->
+  <ODC_Trophy_BladeLauncher_C_P.description>TODO</ODC_Trophy_BladeLauncher_C_P.description>
+  <!-- EN: charge -->
+  <ODC_Trophy_BladeLauncher_C_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</ODC_Trophy_BladeLauncher_C_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <ODC_Trophy_BladeLauncher_C_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</ODC_Trophy_BladeLauncher_C_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Harvest - Apex -->
+  <ODC_Trophy_BladeLauncher_C_P.comps.CompUniqueWeapon.namerLabels.0>TODO</ODC_Trophy_BladeLauncher_C_P.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: saw -->
+  <ODC_Trophy_BladeLauncher_C_P.tools.saw.label>TODO</ODC_Trophy_BladeLauncher_C_P.tools.saw.label>
+  <!-- EN: Paragon Harvest - Apex -->
+  <ODC_Trophy_BladeLauncher_C_P.verbs.Verb_Shoot.label>TODO</ODC_Trophy_BladeLauncher_C_P.verbs.Verb_Shoot.label>
+  
+</LanguageData>

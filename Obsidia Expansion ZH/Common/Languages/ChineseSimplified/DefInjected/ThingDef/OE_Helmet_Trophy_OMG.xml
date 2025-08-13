@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Mercenary Helmet(Forgemind) -->
+  <OMG_Trophy_Helmet_Forgemind.label>TODO</OMG_Trophy_Helmet_Forgemind.label>
+  <!-- EN: Highly modified heavy power armor Helmet, excellent protects the owner. Designed for use by Mercenaries.\n\nThis variation provides the owner acess to orbital of weather-control satellites.\n\nThis modification deprives item's quality levels. -->
+  <OMG_Trophy_Helmet_Forgemind.description>TODO</OMG_Trophy_Helmet_Forgemind.description>
+  <!-- EN: charge -->
+  <OMG_Trophy_Helmet_Forgemind.comps.CompApparelReloadable.chargeNoun>TODO</OMG_Trophy_Helmet_Forgemind.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OMG_Trophy_Helmet_Forgemind.comps.CompApparelReloadable.cooldownGerund>TODO</OMG_Trophy_Helmet_Forgemind.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: Mercenary Helmet(Forgemind) -->
+  <OMG_Trophy_Helmet_Forgemind.verbs.Verb_Spawn.label>TODO</OMG_Trophy_Helmet_Forgemind.verbs.Verb_Spawn.label>
+  
+  <!-- EN: Mercenary Helmet(Hellrain) -->
+  <OMG_Trophy_Helmet_Hellrain.label>TODO</OMG_Trophy_Helmet_Hellrain.label>
+  <!-- EN: Highly modified heavy power armor Helmet, excellent protects the owner. Designed for use by Mercenaries.\n\nThis variation provides the owner acess to orbital bombardment targeter.\n\nThis modification deprives item's quality levels. -->
+  <OMG_Trophy_Helmet_Hellrain.description>TODO</OMG_Trophy_Helmet_Hellrain.description>
+  <!-- EN: charge -->
+  <OMG_Trophy_Helmet_Hellrain.comps.CompApparelReloadable.chargeNoun>TODO</OMG_Trophy_Helmet_Hellrain.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OMG_Trophy_Helmet_Hellrain.comps.CompApparelReloadable.cooldownGerund>TODO</OMG_Trophy_Helmet_Hellrain.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: Mercenary Helmet(Hellrain) -->
+  <OMG_Trophy_Helmet_Hellrain.verbs.Verb_Bombardment.label>TODO</OMG_Trophy_Helmet_Hellrain.verbs.Verb_Bombardment.label>
+  
+  <!-- EN: Mercenary Helmet(Orbicore) -->
+  <OMG_Trophy_Helmet_Orbicore.label>TODO</OMG_Trophy_Helmet_Orbicore.label>
+  <!-- EN: Highly modified heavy power armor Helmet, excellent protects the owner. Designed for use by Mercenaries.\n\nThis variation provides the owner acess to orbital power beam targeter.\n\nThis modification deprives item's quality levels. -->
+  <OMG_Trophy_Helmet_Orbicore.description>TODO</OMG_Trophy_Helmet_Orbicore.description>
+  <!-- EN: charge -->
+  <OMG_Trophy_Helmet_Orbicore.comps.CompApparelReloadable.chargeNoun>TODO</OMG_Trophy_Helmet_Orbicore.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OMG_Trophy_Helmet_Orbicore.comps.CompApparelReloadable.cooldownGerund>TODO</OMG_Trophy_Helmet_Orbicore.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: Mercenary Helmet(Orbicore) -->
+  <OMG_Trophy_Helmet_Orbicore.verbs.Verb_PowerBeam.label>TODO</OMG_Trophy_Helmet_Orbicore.verbs.Verb_PowerBeam.label>
+  
+</LanguageData>

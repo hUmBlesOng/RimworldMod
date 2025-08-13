@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install symbiont -->
+  <EGO_InstallImplantTorso_Interface.label>TODO</EGO_InstallImplantTorso_Interface.label>
+  <!-- EN: Install a symbiont. -->
+  <EGO_InstallImplantTorso_Interface.description>TODO</EGO_InstallImplantTorso_Interface.description>
+  <!-- EN: Installing cyberware interface. -->
+  <EGO_InstallImplantTorso_Interface.jobString>TODO</EGO_InstallImplantTorso_Interface.jobString>
+  
+  <!-- EN: remove symbiont -->
+  <EGO_RemoveImplantTorso_Interface.label>TODO</EGO_RemoveImplantTorso_Interface.label>
+  <!-- EN: Remove a symbiont. -->
+  <EGO_RemoveImplantTorso_Interface.description>TODO</EGO_RemoveImplantTorso_Interface.description>
+  <!-- EN: Removing symbiont. -->
+  <EGO_RemoveImplantTorso_Interface.jobString>TODO</EGO_RemoveImplantTorso_Interface.jobString>
+  
+  <!-- EN: install skin implant - Cultist -->
+  <OE_InstallImplantSkin_CAC.label>TODO</OE_InstallImplantSkin_CAC.label>
+  <!-- EN: Install a skin implant - Cultist. -->
+  <OE_InstallImplantSkin_CAC.description>TODO</OE_InstallImplantSkin_CAC.description>
+  <!-- EN: Installing skin implant - Cultist. -->
+  <OE_InstallImplantSkin_CAC.jobString>TODO</OE_InstallImplantSkin_CAC.jobString>
+  
+  <!-- EN: install skin implant - Obsidian -->
+  <OE_InstallImplantSkin_Obsidian.label>TODO</OE_InstallImplantSkin_Obsidian.label>
+  <!-- EN: Install a skin implant - Obsidian. -->
+  <OE_InstallImplantSkin_Obsidian.description>TODO</OE_InstallImplantSkin_Obsidian.description>
+  <!-- EN: Installing skin implant - Obsidian. -->
+  <OE_InstallImplantSkin_Obsidian.jobString>TODO</OE_InstallImplantSkin_Obsidian.jobString>
+  
+  <!-- EN: install cyberware interface -->
+  <OE_InstallImplantTorso_Interface.label>TODO</OE_InstallImplantTorso_Interface.label>
+  <!-- EN: Install a cyberware interface. -->
+  <OE_InstallImplantTorso_Interface.description>TODO</OE_InstallImplantTorso_Interface.description>
+  <!-- EN: Installing cyberware interface. -->
+  <OE_InstallImplantTorso_Interface.jobString>TODO</OE_InstallImplantTorso_Interface.jobString>
+  
+  <!-- EN: remove skin implant - Cultist -->
+  <OE_RemoveImplantSkin_CAC.label>TODO</OE_RemoveImplantSkin_CAC.label>
+  <!-- EN: Remove a skin implant - Cultist. -->
+  <OE_RemoveImplantSkin_CAC.description>TODO</OE_RemoveImplantSkin_CAC.description>
+  <!-- EN: Removing skin implant - Cultist. -->
+  <OE_RemoveImplantSkin_CAC.jobString>TODO</OE_RemoveImplantSkin_CAC.jobString>
+  
+  <!-- EN: remove skin implant - Obsidian -->
+  <OE_RemoveImplantSkin_Obsidian.label>TODO</OE_RemoveImplantSkin_Obsidian.label>
+  <!-- EN: Remove a skin implant - Obsidian. -->
+  <OE_RemoveImplantSkin_Obsidian.description>TODO</OE_RemoveImplantSkin_Obsidian.description>
+  <!-- EN: Removing skin implant - Obsidian. -->
+  <OE_RemoveImplantSkin_Obsidian.jobString>TODO</OE_RemoveImplantSkin_Obsidian.jobString>
+  
+  <!-- EN: remove cyberware interface -->
+  <OE_RemoveImplantTorso_Interface.label>TODO</OE_RemoveImplantTorso_Interface.label>
+  <!-- EN: Remove a cyberware interface. -->
+  <OE_RemoveImplantTorso_Interface.description>TODO</OE_RemoveImplantTorso_Interface.description>
+  <!-- EN: Removing cyberware interface. -->
+  <OE_RemoveImplantTorso_Interface.jobString>TODO</OE_RemoveImplantTorso_Interface.jobString>
+  
+</LanguageData>

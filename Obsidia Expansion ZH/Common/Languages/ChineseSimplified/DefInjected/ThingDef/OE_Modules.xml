@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Worker Module - Builder -->
+  <OE_Module_Builder.label>TODO</OE_Module_Builder.label>
+  <!-- EN: The module provides the owner with various bonuses, depending on the model. Designed for use in various areas of Obsidia. -->
+  <OE_Module_Builder.description>TODO</OE_Module_Builder.description>
+  
+  <!-- EN: Worker Module - Cook -->
+  <OE_Module_Cook.label>TODO</OE_Module_Cook.label>
+  <!-- EN: The module provides the owner with various bonuses, depending on the model. Designed for use in various areas of Obsidia. -->
+  <OE_Module_Cook.description>TODO</OE_Module_Cook.description>
+  
+  <!-- EN: Worker Module - Engineer -->
+  <OE_Module_Engineer.label>TODO</OE_Module_Engineer.label>
+  <!-- EN: The module provides the owner with various bonuses, depending on the model. Designed for use in various areas of Obsidia. -->
+  <OE_Module_Engineer.description>TODO</OE_Module_Engineer.description>
+  
+  <!-- EN: Worker Module - Farmer -->
+  <OE_Module_Farmer.label>TODO</OE_Module_Farmer.label>
+  <!-- EN: The module provides the owner with various bonuses, depending on the model. Designed for use in various areas of Obsidia. -->
+  <OE_Module_Farmer.description>TODO</OE_Module_Farmer.description>
+  
+  <!-- EN: Worker Module - Herdsman -->
+  <OE_Module_Herdsman.label>TODO</OE_Module_Herdsman.label>
+  <!-- EN: The module provides the owner with various bonuses, depending on the model. Designed for use in various areas of Obsidia. -->
+  <OE_Module_Herdsman.description>TODO</OE_Module_Herdsman.description>
+  
+  <!-- EN: Intelligence Module - Medic -->
+  <OE_Module_Medic.label>TODO</OE_Module_Medic.label>
+  <!-- EN: The module provides the owner with various bonuses, depending on the model. Designed for use in various areas of Obsidia. -->
+  <OE_Module_Medic.description>TODO</OE_Module_Medic.description>
+  
+  <!-- EN: Battle Module - Resist -->
+  <OE_Module_Resist.label>TODO</OE_Module_Resist.label>
+  <!-- EN: The module provides the owner with various bonuses, depending on the model. Designed for use in various areas of Obsidia. -->
+  <OE_Module_Resist.description>TODO</OE_Module_Resist.description>
+  
+  <!-- EN: Intelligence Module - Scientist -->
+  <OE_Module_Scientist.label>TODO</OE_Module_Scientist.label>
+  <!-- EN: The module provides the owner with various bonuses, depending on the model. Designed for use in various areas of Obsidia. -->
+  <OE_Module_Scientist.description>TODO</OE_Module_Scientist.description>
+  
+  <!-- EN: Intelligence Module - Social -->
+  <OE_Module_Social.label>TODO</OE_Module_Social.label>
+  <!-- EN: The module provides the owner with various bonuses, depending on the model. Designed for use in various areas of Obsidia. -->
+  <OE_Module_Social.description>TODO</OE_Module_Social.description>
+  
+  <!-- EN: Battle Module - Warrior -->
+  <OE_Module_Warrior.label>TODO</OE_Module_Warrior.label>
+  <!-- EN: The module provides the owner with various bonuses, depending on the model. Designed for use in various areas of Obsidia. -->
+  <OE_Module_Warrior.description>TODO</OE_Module_Warrior.description>
+  
+</LanguageData>

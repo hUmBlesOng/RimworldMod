@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Syntherius of Sin -->
+  <OE_SyntheriusOfSin.label>TODO</OE_SyntheriusOfSin.label>
+  <!-- EN: A fragment of a strange Syntherius used at the heart of the Fallen Legion. -->
+  <OE_SyntheriusOfSin.description>TODO</OE_SyntheriusOfSin.description>
+  <!-- EN: Analyze the Syntherius Of Sin. -->
+  <OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.activateDescString>TODO</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <!-- EN: Analyze... -->
+  <OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.activateLabelString>TODO</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <!-- EN: By studying the {PARENT_label}, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
+  <OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.completedLetter>TODO</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.completedLetter>
+  <!-- EN: {PARENT_label} studied: {RESEARCH} unlocked -->
+  <OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.completedLetterLabel>TODO</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <!-- EN: Choose who should analyze this -->
+  <OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.guiLabelString>TODO</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <!-- EN: Can be analyzed by a colonist. -->
+  <OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.inspectString>TODO</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.inspectString>
+  <!-- EN: Analyze Syntherius Of Sin -->
+  <OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.jobString>TODO</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.jobString>
+  
+</LanguageData>

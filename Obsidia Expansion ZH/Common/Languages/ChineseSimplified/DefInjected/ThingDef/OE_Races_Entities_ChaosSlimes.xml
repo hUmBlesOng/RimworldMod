@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: adult chaos slime -->
+  <OE_ChaosSlime_Adult.label>TODO</OE_ChaosSlime_Adult.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nChaos slime - under the influence of an unknown force from the outside, they began to fuse their bodies into something single.\n\nAdult chaos slimes is the second stage in the chaos slimes fusion chain which yields a much larger, stronger and more resilient foe. -->
+  <OE_ChaosSlime_Adult.description>TODO</OE_ChaosSlime_Adult.description>
+  <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
+  <OE_ChaosSlime_Adult.comps.CompInspectStringEmergence.inspectString>TODO</OE_ChaosSlime_Adult.comps.CompInspectStringEmergence.inspectString>
+  <!-- EN: mouth -->
+  <OE_ChaosSlime_Adult.tools.mouth.label>TODO</OE_ChaosSlime_Adult.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_ChaosSlime_Adult.tools.head.label>TODO</OE_ChaosSlime_Adult.tools.head.label>
+  
+  <!-- EN: Badass chaos slime -->
+  <OE_ChaosSlime_Badass.label>TODO</OE_ChaosSlime_Badass.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nChaos slime - under the influence of an unknown force from the outside, they began to fuse their bodies into something single.\n\nBadass chaos slimes is the third stage in the chaos slimes fusion chain which yields a much larger, stronger and more resilient foe. -->
+  <OE_ChaosSlime_Badass.description>TODO</OE_ChaosSlime_Badass.description>
+  <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
+  <OE_ChaosSlime_Badass.comps.CompInspectStringEmergence.inspectString>TODO</OE_ChaosSlime_Badass.comps.CompInspectStringEmergence.inspectString>
+  <!-- EN: mouth -->
+  <OE_ChaosSlime_Badass.tools.mouth.label>TODO</OE_ChaosSlime_Badass.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_ChaosSlime_Badass.tools.head.label>TODO</OE_ChaosSlime_Badass.tools.head.label>
+  
+  <!-- EN: chaos slime the Invincible -->
+  <OE_ChaosSlime_Invincible.label>TODO</OE_ChaosSlime_Invincible.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nChaos slime - under the influence of an unknown force from the outside, they began to fuse their bodies into something single.\n\nChaos slime the Invincible is the ultimate fusion stage of chaos slimes. It possesses unmatched statis and abilities. -->
+  <OE_ChaosSlime_Invincible.description>TODO</OE_ChaosSlime_Invincible.description>
+  <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
+  <OE_ChaosSlime_Invincible.comps.CompInspectStringEmergence.inspectString>TODO</OE_ChaosSlime_Invincible.comps.CompInspectStringEmergence.inspectString>
+  <!-- EN: Digesting {PAWN_nameDef}: {SECONDS} seconds left -->
+  <OE_ChaosSlime_Invincible.comps.CompDevourer.digestingInspector>TODO</OE_ChaosSlime_Invincible.comps.CompDevourer.digestingInspector>
+  <!-- EN: A chaos slime swallowed {PAWN_nameDef} whole! Kill the chaos slime before it digests {PAWN_nameDef}. -->
+  <OE_ChaosSlime_Invincible.comps.CompDevourer.messageDigested>TODO</OE_ChaosSlime_Invincible.comps.CompDevourer.messageDigested>
+  <!-- EN: The chaos slime has regurgitated {PAWN_nameDef}. -->
+  <OE_ChaosSlime_Invincible.comps.CompDevourer.messageDigestionCompleted>TODO</OE_ChaosSlime_Invincible.comps.CompDevourer.messageDigestionCompleted>
+  <!-- EN: {PAWN_nameDef} emerged from the chaos slime. -->
+  <OE_ChaosSlime_Invincible.comps.CompDevourer.messageEmerged>TODO</OE_ChaosSlime_Invincible.comps.CompDevourer.messageEmerged>
+  <!-- EN: {PAWN_nameDef} emerged from the chaos slime's corpse. -->
+  <OE_ChaosSlime_Invincible.comps.CompDevourer.messageEmergedCorpse>TODO</OE_ChaosSlime_Invincible.comps.CompDevourer.messageEmergedCorpse>
+  <!-- EN: mouth -->
+  <OE_ChaosSlime_Invincible.tools.mouth.label>TODO</OE_ChaosSlime_Invincible.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_ChaosSlime_Invincible.tools.head.label>TODO</OE_ChaosSlime_Invincible.tools.head.label>
+  
+  <!-- EN: larval chaos slime -->
+  <OE_ChaosSlime_Larval.label>TODO</OE_ChaosSlime_Larval.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nChaos slime - under the influence of an unknown force from the outside, they began to fuse their bodies into something single.\n\nThey are the lowest and weakest form of chaos slimes. -->
+  <OE_ChaosSlime_Larval.description>TODO</OE_ChaosSlime_Larval.description>
+  <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
+  <OE_ChaosSlime_Larval.comps.CompInspectStringEmergence.inspectString>TODO</OE_ChaosSlime_Larval.comps.CompInspectStringEmergence.inspectString>
+  <!-- EN: mouth -->
+  <OE_ChaosSlime_Larval.tools.mouth.label>TODO</OE_ChaosSlime_Larval.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_ChaosSlime_Larval.tools.head.label>TODO</OE_ChaosSlime_Larval.tools.head.label>
+  
+  <!-- EN: Super Badass chaos slime -->
+  <OE_ChaosSlime_SuperBadass.label>TODO</OE_ChaosSlime_SuperBadass.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nChaos slime - under the influence of an unknown force from the outside, they began to fuse their bodies into something single.\n\nSuper Badass chaos slimes is the fourth stage in the chaos slimes fusion chain which yields a much larger, stronger and more resilient foe. -->
+  <OE_ChaosSlime_SuperBadass.description>TODO</OE_ChaosSlime_SuperBadass.description>
+  <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
+  <OE_ChaosSlime_SuperBadass.comps.CompInspectStringEmergence.inspectString>TODO</OE_ChaosSlime_SuperBadass.comps.CompInspectStringEmergence.inspectString>
+  <!-- EN: mouth -->
+  <OE_ChaosSlime_SuperBadass.tools.mouth.label>TODO</OE_ChaosSlime_SuperBadass.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_ChaosSlime_SuperBadass.tools.head.label>TODO</OE_ChaosSlime_SuperBadass.tools.head.label>
+  
+  <!-- EN: Ultimate Badass chaos slime -->
+  <OE_ChaosSlime_UltimateBadass.label>TODO</OE_ChaosSlime_UltimateBadass.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nChaos slime - under the influence of an unknown force from the outside, they began to fuse their bodies into something single.\n\nUltimate chaos slimes is the fifth stage in the chaos slimes fusion chain which yields a much larger, stronger and more resilient foe. -->
+  <OE_ChaosSlime_UltimateBadass.description>TODO</OE_ChaosSlime_UltimateBadass.description>
+  <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
+  <OE_ChaosSlime_UltimateBadass.comps.CompInspectStringEmergence.inspectString>TODO</OE_ChaosSlime_UltimateBadass.comps.CompInspectStringEmergence.inspectString>
+  <!-- EN: Digesting {PAWN_nameDef}: {SECONDS} seconds left -->
+  <OE_ChaosSlime_UltimateBadass.comps.CompDevourer.digestingInspector>TODO</OE_ChaosSlime_UltimateBadass.comps.CompDevourer.digestingInspector>
+  <!-- EN: A chaos slime swallowed {PAWN_nameDef} whole! Kill the chaos slime before it digests {PAWN_nameDef}. -->
+  <OE_ChaosSlime_UltimateBadass.comps.CompDevourer.messageDigested>TODO</OE_ChaosSlime_UltimateBadass.comps.CompDevourer.messageDigested>
+  <!-- EN: The chaos slime has regurgitated {PAWN_nameDef}. -->
+  <OE_ChaosSlime_UltimateBadass.comps.CompDevourer.messageDigestionCompleted>TODO</OE_ChaosSlime_UltimateBadass.comps.CompDevourer.messageDigestionCompleted>
+  <!-- EN: {PAWN_nameDef} emerged from the chaos slime. -->
+  <OE_ChaosSlime_UltimateBadass.comps.CompDevourer.messageEmerged>TODO</OE_ChaosSlime_UltimateBadass.comps.CompDevourer.messageEmerged>
+  <!-- EN: {PAWN_nameDef} emerged from the chaos slime's corpse. -->
+  <OE_ChaosSlime_UltimateBadass.comps.CompDevourer.messageEmergedCorpse>TODO</OE_ChaosSlime_UltimateBadass.comps.CompDevourer.messageEmergedCorpse>
+  <!-- EN: mouth -->
+  <OE_ChaosSlime_UltimateBadass.tools.mouth.label>TODO</OE_ChaosSlime_UltimateBadass.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_ChaosSlime_UltimateBadass.tools.head.label>TODO</OE_ChaosSlime_UltimateBadass.tools.head.label>
+  
+</LanguageData>

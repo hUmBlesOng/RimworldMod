@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: armored obsidia autodoor -->
+  <OE_ArmoredAutodoor.label>TODO</OE_ArmoredAutodoor.label>
+  <!-- EN: Armored Obsidia heavy double doorway. Powered operation allows people to move through the door without slowing down.\n\nThis large, heavy door requires adjacent walls to function. -->
+  <OE_ArmoredAutodoor.description>TODO</OE_ArmoredAutodoor.description>
+  
+  <!-- EN: armored obsidia door -->
+  <OE_ArmoredDoor.label>TODO</OE_ArmoredDoor.label>
+  <!-- EN: Armored Obsidia heavy double doorway. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of.\n\nThis large, heavy door requires adjacent walls to function. -->
+  <OE_ArmoredDoor.description>TODO</OE_ArmoredDoor.description>
+  
+  <!-- EN: armored obsidia animal door -->
+  <OE_ArmoredPetdoor.label>TODO</OE_ArmoredPetdoor.label>
+  <!-- EN: Armored Obsidia heavy double doorway. Allows animals to pass while insulating the temperature. Animal flaps are commonly used as barn doors to give penned animals a sheltered place to sleep.\n\nThis large, heavy door requires adjacent walls to function. -->
+  <OE_ArmoredPetdoor.description>TODO</OE_ArmoredPetdoor.description>
+  
+  <!-- EN: obsidia autodoor -->
+  <OE_Autodoor.label>TODO</OE_Autodoor.label>
+  <!-- EN: Reinforced Obsidia heavy doorway. Powered operation allows people to move through the door without slowing down. -->
+  <OE_Autodoor.description>TODO</OE_Autodoor.description>
+  
+  <!-- EN: obsidia column -->
+  <OE_Column_Armored.label>TODO</OE_Column_Armored.label>
+  <!-- EN: Reinforced Obsidia heavy column. Capable of holding up a roof. Does not block sight or movement and looks quite nice. -->
+  <OE_Column_Armored.description>TODO</OE_Column_Armored.description>
+  
+  <!-- EN: obsidia light column -->
+  <OE_Column_Light.label>TODO</OE_Column_Light.label>
+  <!-- EN: Reinforced Obsidia heavy column. Capable of holding up a roof. Does not block sight or movement and looks quite nice, also lights the area. -->
+  <OE_Column_Light.description>TODO</OE_Column_Light.description>
+  
+  <!-- EN: obsidia door -->
+  <OE_Door.label>TODO</OE_Door.label>
+  <!-- EN: Reinforced Obsidia heavy doorway. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of. -->
+  <OE_Door.description>TODO</OE_Door.description>
+  
+  <!-- EN: obsidia embrasure -->
+  <OE_Embrasure.label>TODO</OE_Embrasure.label>
+  <!-- EN: Reinforced Obsidia heavy wall with multiple layers of armor. Nearly completely resistant to explosives and any breaching tools. Capable of holding up a roof. Designed with tactical holes to see and fire through. -->
+  <OE_Embrasure.description>TODO</OE_Embrasure.description>
+  
+  <!-- EN: obsidia animal door -->
+  <OE_Petdoor.label>TODO</OE_Petdoor.label>
+  <!-- EN: Reinforced Obsidia heavy doorway. Allows animals to pass while insulating the temperature. Animal flaps are commonly used as barn doors to give penned animals a sheltered place to sleep. -->
+  <OE_Petdoor.description>TODO</OE_Petdoor.description>
+  
+  <!-- EN: obsidia wall -->
+  <OE_Wall.label>TODO</OE_Wall.label>
+  <!-- EN: Reinforced Obsidia heavy wall with multiple layers of armor. Nearly completely resistant to explosives and any breaching tools. Capable of holding up a roof. -->
+  <OE_Wall.description>TODO</OE_Wall.description>
+  
+</LanguageData>

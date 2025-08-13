@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: deep catcher -->
+  <OEFisherman.degreeDatas.deep_catcher.label>TODO</OEFisherman.degreeDatas.deep_catcher.label>
+  <!-- EN: {PAWN_nameDef} fishes with care and focus, often reeling in more with every cast. -->
+  <OEFisherman.degreeDatas.deep_catcher.description>TODO</OEFisherman.degreeDatas.deep_catcher.description>
+  <!-- EN: quick hook -->
+  <OEFisherman.degreeDatas.quick_hook.label>TODO</OEFisherman.degreeDatas.quick_hook.label>
+  <!-- EN: {PAWN_nameDef} casts fast and often, though some fish may slip the hook. -->
+  <OEFisherman.degreeDatas.quick_hook.description>TODO</OEFisherman.degreeDatas.quick_hook.description>
+  
+  <!-- EN: clumsy flier -->
+  <OEPilotingBad.degreeDatas.clumsy_flier.label>TODO</OEPilotingBad.degreeDatas.clumsy_flier.label>
+  <!-- EN: Every time {PAWN_nameDef} touches the controls, someone checks the escape pods-just in case. -->
+  <OEPilotingBad.degreeDatas.clumsy_flier.description>TODO</OEPilotingBad.degreeDatas.clumsy_flier.description>
+  
+  <!-- EN: ace pilot -->
+  <OEPilotingGood.degreeDatas.ace_pilot.label>TODO</OEPilotingGood.degreeDatas.ace_pilot.label>
+  <!-- EN: Born to fly, {PAWN_nameDef} turns even the most stubborn ship into a dancing starbird. -->
+  <OEPilotingGood.degreeDatas.ace_pilot.description>TODO</OEPilotingGood.degreeDatas.ace_pilot.description>
+  
+</LanguageData>

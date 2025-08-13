@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Paragon Prototype sX-02a -->
+  <OE_Trophy_RepairPistol_P.label>TODO</OE_Trophy_RepairPistol_P.label>
+  <!-- EN: Prototype of a new paragon repair pistol that equipped with a tools synthesizator which make most construction jobs easier.\n\nThis is a rare trophy weapon.\n\nFeature: a built-in module that improves construction skills. -->
+  <OE_Trophy_RepairPistol_P.description>TODO</OE_Trophy_RepairPistol_P.description>
+  <!-- EN: charge -->
+  <OE_Trophy_RepairPistol_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OE_Trophy_RepairPistol_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OE_Trophy_RepairPistol_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OE_Trophy_RepairPistol_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Prototype sX-02a -->
+  <OE_Trophy_RepairPistol_P.comps.CompUniqueWeapon.namerLabels.0>TODO</OE_Trophy_RepairPistol_P.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: grip -->
+  <OE_Trophy_RepairPistol_P.tools.grip.label>TODO</OE_Trophy_RepairPistol_P.tools.grip.label>
+  <!-- EN: barrel -->
+  <OE_Trophy_RepairPistol_P.tools.barrel.label>TODO</OE_Trophy_RepairPistol_P.tools.barrel.label>
+  <!-- EN: Paragon Prototype sX-02a -->
+  <OE_Trophy_RepairPistol_P.verbs.Verb_Shoot.label>TODO</OE_Trophy_RepairPistol_P.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Paragon Ashisogi Jizō -->
+  <OE_Trophy_SampleCollector_P.label>TODO</OE_Trophy_SampleCollector_P.label>
+  <!-- EN: One of the forgotten research objects of Mayuri Kurotsuchi. The darts of this paragon weapon contain an unstable toxin that randomly affects the target. It is not recommended to use in combat, since the effects can randomly debuff or buff the target.\n\nThis is a rare trophy weapon.\n\nFeature: deals unstable toxin damage that applies various random effects. -->
+  <OE_Trophy_SampleCollector_P.description>TODO</OE_Trophy_SampleCollector_P.description>
+  <!-- EN: charge -->
+  <OE_Trophy_SampleCollector_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OE_Trophy_SampleCollector_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OE_Trophy_SampleCollector_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OE_Trophy_SampleCollector_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Ashisogi Jizō -->
+  <OE_Trophy_SampleCollector_P.comps.CompUniqueWeapon.namerLabels.0>TODO</OE_Trophy_SampleCollector_P.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: grip -->
+  <OE_Trophy_SampleCollector_P.tools.grip.label>TODO</OE_Trophy_SampleCollector_P.tools.grip.label>
+  <!-- EN: barrel -->
+  <OE_Trophy_SampleCollector_P.tools.barrel.label>TODO</OE_Trophy_SampleCollector_P.tools.barrel.label>
+  <!-- EN: Paragon Ashisogi Jizō -->
+  <OE_Trophy_SampleCollector_P.verbs.Verb_Shoot.label>TODO</OE_Trophy_SampleCollector_P.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Paragon Titanstrike -->
+  <OE_Trophy_UnstableGun_P.label>TODO</OE_Trophy_UnstableGun_P.label>
+  <!-- EN: This is a prohibited paragon weapon in Obsidia Empire and can only be obtained illegally. Due to a poorly designed energy delivery system, the weapon is quite weak, but there is a 5% chance that the weapon can release a huge amount of energy at once, causing incredible damage.\n\nThis is a rare trophy weapon.\n\nFeature: has a 5% chance of dealing incredible damage. -->
+  <OE_Trophy_UnstableGun_P.description>TODO</OE_Trophy_UnstableGun_P.description>
+  <!-- EN: charge -->
+  <OE_Trophy_UnstableGun_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OE_Trophy_UnstableGun_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OE_Trophy_UnstableGun_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OE_Trophy_UnstableGun_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Titanstrike -->
+  <OE_Trophy_UnstableGun_P.comps.CompUniqueWeapon.namerLabels.0>TODO</OE_Trophy_UnstableGun_P.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: grip -->
+  <OE_Trophy_UnstableGun_P.tools.grip.label>TODO</OE_Trophy_UnstableGun_P.tools.grip.label>
+  <!-- EN: barrel -->
+  <OE_Trophy_UnstableGun_P.tools.barrel.label>TODO</OE_Trophy_UnstableGun_P.tools.barrel.label>
+  <!-- EN: Paragon Titanstrike -->
+  <OE_Trophy_UnstableGun_P.verbs.Verb_Shoot.label>TODO</OE_Trophy_UnstableGun_P.verbs.Verb_Shoot.label>
+  
+</LanguageData>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Reset Persona Exalted Truth -->
+  <OE_Reset_OEC_Claws_P.label>TODO</OE_Reset_OEC_Claws_P.label>
+  <!-- EN: Reset an Persona Exalted Truth.\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_OEC_Claws_P.description>TODO</OE_Reset_OEC_Claws_P.description>
+  <!-- EN: Resetting a Persona Exalted Truth. -->
+  <OE_Reset_OEC_Claws_P.jobString>TODO</OE_Reset_OEC_Claws_P.jobString>
+  
+  <!-- EN: Reset Persona Exalted Reaper -->
+  <OE_Reset_OEC_Katana_P.label>TODO</OE_Reset_OEC_Katana_P.label>
+  <!-- EN: Reset an Persona Exalted Reaper.\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_OEC_Katana_P.description>TODO</OE_Reset_OEC_Katana_P.description>
+  <!-- EN: Resetting a Persona Exalted Reaper. -->
+  <OE_Reset_OEC_Katana_P.jobString>TODO</OE_Reset_OEC_Katana_P.jobString>
+  
+  <!-- EN: Reset Persona Exalted Reaper(Acid) -->
+  <OE_Reset_OEC_Katana_P_Acid.label>TODO</OE_Reset_OEC_Katana_P_Acid.label>
+  <!-- EN: Reset an Persona Exalted Reaper(Acid).\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_OEC_Katana_P_Acid.description>TODO</OE_Reset_OEC_Katana_P_Acid.description>
+  <!-- EN: Resetting a Persona Exalted Reaper(Acid). -->
+  <OE_Reset_OEC_Katana_P_Acid.jobString>TODO</OE_Reset_OEC_Katana_P_Acid.jobString>
+  
+  <!-- EN: Reset Persona Exalted Reaper(Cryo) -->
+  <OE_Reset_OEC_Katana_P_Cryo.label>TODO</OE_Reset_OEC_Katana_P_Cryo.label>
+  <!-- EN: Reset an Persona Exalted Reaper(Cryo).\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_OEC_Katana_P_Cryo.description>TODO</OE_Reset_OEC_Katana_P_Cryo.description>
+  <!-- EN: Resetting a Persona Exalted Reaper(Cryo). -->
+  <OE_Reset_OEC_Katana_P_Cryo.jobString>TODO</OE_Reset_OEC_Katana_P_Cryo.jobString>
+  
+  <!-- EN: Reset Persona Exalted Reaper(EMP) -->
+  <OE_Reset_OEC_Katana_P_EMP.label>TODO</OE_Reset_OEC_Katana_P_EMP.label>
+  <!-- EN: Reset an Persona Exalted Reaper(EMP).\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_OEC_Katana_P_EMP.description>TODO</OE_Reset_OEC_Katana_P_EMP.description>
+  <!-- EN: Resetting a Persona Exalted Reaper(EMP). -->
+  <OE_Reset_OEC_Katana_P_EMP.jobString>TODO</OE_Reset_OEC_Katana_P_EMP.jobString>
+  
+  <!-- EN: Reset Persona Exalted Reaper(Fire) -->
+  <OE_Reset_OEC_Katana_P_Fire.label>TODO</OE_Reset_OEC_Katana_P_Fire.label>
+  <!-- EN: Reset an Persona Exalted Reaper(Fire).\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_OEC_Katana_P_Fire.description>TODO</OE_Reset_OEC_Katana_P_Fire.description>
+  <!-- EN: Resetting a Persona Exalted Reaper(Fire). -->
+  <OE_Reset_OEC_Katana_P_Fire.jobString>TODO</OE_Reset_OEC_Katana_P_Fire.jobString>
+  
+  <!-- EN: Reset Persona Exalted Shard -->
+  <OE_Reset_OEC_Knife_P.label>TODO</OE_Reset_OEC_Knife_P.label>
+  <!-- EN: Reset an Persona Exalted Shard.\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_OEC_Knife_P.description>TODO</OE_Reset_OEC_Knife_P.description>
+  <!-- EN: Resetting a Persona Exalted Shard. -->
+  <OE_Reset_OEC_Knife_P.jobString>TODO</OE_Reset_OEC_Knife_P.jobString>
+  
+  <!-- EN: Reset Persona Exalted Elitra -->
+  <OE_Reset_OEC_Spear_P.label>TODO</OE_Reset_OEC_Spear_P.label>
+  <!-- EN: Reset an Persona Exalted Elitra.\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_OEC_Spear_P.description>TODO</OE_Reset_OEC_Spear_P.description>
+  <!-- EN: Resetting a Persona Exalted Elitra. -->
+  <OE_Reset_OEC_Spear_P.jobString>TODO</OE_Reset_OEC_Spear_P.jobString>
+  
+</LanguageData>

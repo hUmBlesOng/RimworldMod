@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] representative of one of the most popular Obsidia mecha fan clubs. Becoming a full-fledged mechanitor is able to reveal hiden potential. Possesses excellent creative skills. -->
+  <OE_Mechanitor.description>TODO</OE_Mechanitor.description>
+  <!-- EN: obsidia mechanitor -->
+  <OE_Mechanitor.title>TODO</OE_Mechanitor.title>
+  <!-- EN: mechanitor -->
+  <OE_Mechanitor.titleShort>TODO</OE_Mechanitor.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] former employee of Obsidia robotics foundries. Specialized in chassis design and autonomous systems. Possesses outstanding artistic talent. -->
+  <OE_Mecharchitect.description>TODO</OE_Mecharchitect.description>
+  <!-- EN: obsidia mech-architect -->
+  <OE_Mecharchitect.title>TODO</OE_Mecharchitect.title>
+  <!-- EN: mech-architect -->
+  <OE_Mecharchitect.titleShort>TODO</OE_Mecharchitect.titleShort>
+  
+</LanguageData>

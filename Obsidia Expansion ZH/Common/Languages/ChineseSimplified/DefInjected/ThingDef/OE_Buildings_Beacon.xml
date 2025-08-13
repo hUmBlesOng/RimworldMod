@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient obsidia beacon -->
+  <OE_Beacon_CAC.label>TODO</OE_Beacon_CAC.label>
+  <!-- EN: The Ancient Obsidia Beacon was previously used in the old wars to call for reinforcements. This very old device is running at an unknown frequency and all serial numbers have been erased. So it's impossible to determine who will respond to this beacon.\n\nMechanitor is required to use this device. -->
+  <OE_Beacon_CAC.description>TODO</OE_Beacon_CAC.description>
+  <!-- EN: Summon /unknown/ obsidia squad -->
+  <OE_Beacon_CAC.comps.CompUsable.useLabel>TODO</OE_Beacon_CAC.comps.CompUsable.useLabel>
+  
+  <!-- EN: crimson arachna beacon -->
+  <OE_Beacon_CrimsonArachna.label>TODO</OE_Beacon_CrimsonArachna.label>
+  <!-- EN: Crimson Arachna beacon used to imitate the call signal of the Crimson Arachna Cult mech army. Signal will attract an ultra-heavy Arachna Queen mechanoid with its Arachna escorts, in the worst case, a Crimson Arachna can react to the signal. The signal pulse burns out the transmitter, so this building can only be used once.\n\nMechanitor is required to use this device. -->
+  <OE_Beacon_CrimsonArachna.description>TODO</OE_Beacon_CrimsonArachna.description>
+  <!-- EN: Summon Crimson Arachna Cult's mechanoids army -->
+  <OE_Beacon_CrimsonArachna.comps.CompUsable.useLabel>TODO</OE_Beacon_CrimsonArachna.comps.CompUsable.useLabel>
+  
+  <!-- EN: Fallen Legion beacon -->
+  <OE_Beacon_FallenLegion.label>TODO</OE_Beacon_FallenLegion.label>
+  <!-- EN: Fallen Legion beacon used to imitate the call signal of the Obsidia Empire Sins mech army. Signal will attract an ultra-tech, fortress-sized mechanoid Fallen Legion mechanoid with its escorts. The signal pulse burns out the transmitter, so this building can only be used once.\n\nMechanitor is required to use this device. -->
+  <OE_Beacon_FallenLegion.description>TODO</OE_Beacon_FallenLegion.description>
+  <!-- EN: Summon Fallen Legion -->
+  <OE_Beacon_FallenLegion.comps.CompUsable.useLabel>TODO</OE_Beacon_FallenLegion.comps.CompUsable.useLabel>
+  
+  <!-- EN: ancient obsidia beacon -->
+  <OE_Beacon_OCC.label>TODO</OE_Beacon_OCC.label>
+  <!-- EN: The Ancient Obsidia Beacon was previously used in the old wars to call for reinforcements. This very old device is running at an unknown frequency and all serial numbers have been erased. So it's impossible to determine who will respond to this beacon.\n\nMechanitor is required to use this device. -->
+  <OE_Beacon_OCC.description>TODO</OE_Beacon_OCC.description>
+  <!-- EN: Summon /unknown/ obsidia squad -->
+  <OE_Beacon_OCC.comps.CompUsable.useLabel>TODO</OE_Beacon_OCC.comps.CompUsable.useLabel>
+  
+  <!-- EN: ancient obsidia beacon -->
+  <OE_Beacon_ODC.label>TODO</OE_Beacon_ODC.label>
+  <!-- EN: The Ancient Obsidia Beacon was previously used in the old wars to call for reinforcements. This very old device is running at an unknown frequency and all serial numbers have been erased. So it's impossible to determine who will respond to this beacon.\n\nMechanitor is required to use this device. -->
+  <OE_Beacon_ODC.description>TODO</OE_Beacon_ODC.description>
+  <!-- EN: Summon /unknown/ obsidia squad -->
+  <OE_Beacon_ODC.comps.CompUsable.useLabel>TODO</OE_Beacon_ODC.comps.CompUsable.useLabel>
+  
+  <!-- EN: ancient obsidia beacon -->
+  <OE_Beacon_OES.label>TODO</OE_Beacon_OES.label>
+  <!-- EN: The Ancient Obsidia Beacon was previously used in the old wars to call for reinforcements. This very old device is running at an unknown frequency and all serial numbers have been erased. So it's impossible to determine who will respond to this beacon.\n\nMechanitor is required to use this device. -->
+  <OE_Beacon_OES.description>TODO</OE_Beacon_OES.description>
+  <!-- EN: Summon /unknown/ obsidia squad -->
+  <OE_Beacon_OES.comps.CompUsable.useLabel>TODO</OE_Beacon_OES.comps.CompUsable.useLabel>
+  
+  <!-- EN: ancient obsidia beacon -->
+  <OE_Beacon_OMC.label>TODO</OE_Beacon_OMC.label>
+  <!-- EN: The Ancient Obsidia Beacon was previously used in the old wars to call for reinforcements. This very old device is running at an unknown frequency and all serial numbers have been erased. So it's impossible to determine who will respond to this beacon.\n\nMechanitor is required to use this device. -->
+  <OE_Beacon_OMC.description>TODO</OE_Beacon_OMC.description>
+  <!-- EN: Summon /unknown/ obsidia squad -->
+  <OE_Beacon_OMC.comps.CompUsable.useLabel>TODO</OE_Beacon_OMC.comps.CompUsable.useLabel>
+  
+  <!-- EN: ancient obsidia beacon -->
+  <OE_Beacon_OTC.label>TODO</OE_Beacon_OTC.label>
+  <!-- EN: The Ancient Obsidia Beacon was previously used in the old wars to call for reinforcements. This very old device is running at an unknown frequency and all serial numbers have been erased. So it's impossible to determine who will respond to this beacon.\n\nMechanitor is required to use this device. -->
+  <OE_Beacon_OTC.description>TODO</OE_Beacon_OTC.description>
+  <!-- EN: Summon /unknown/ obsidia squad -->
+  <OE_Beacon_OTC.comps.CompUsable.useLabel>TODO</OE_Beacon_OTC.comps.CompUsable.useLabel>
+  
+</LanguageData>

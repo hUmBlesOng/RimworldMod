@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Nimbus Acid arrow -->
+  <Bullet_OTC_B_Acid.label>TODO</Bullet_OTC_B_Acid.label>
+  
+  <!-- EN: Nimbus Prototype Acid arrow -->
+  <Bullet_OTC_B_M_Acid.label>TODO</Bullet_OTC_B_M_Acid.label>
+  
+  <!-- EN: Meteor Acid grenade -->
+  <Bullet_OTC_GL_Acid.label>TODO</Bullet_OTC_GL_Acid.label>
+  
+  <!-- EN: Meteor Prototype Acid grenade -->
+  <Bullet_OTC_GL_M_Acid.label>TODO</Bullet_OTC_GL_M_Acid.label>
+  
+  <!-- EN: Pulsar Acid energy bullet -->
+  <Bullet_OTC_MC_Acid.label>TODO</Bullet_OTC_MC_Acid.label>
+  
+  <!-- EN: Pulsar Prototype Acid energy bullet -->
+  <Bullet_OTC_MC_M_Acid.label>TODO</Bullet_OTC_MC_M_Acid.label>
+  
+  <!-- EN: Celestial Acid energy bullet -->
+  <Bullet_OTC_P_Acid.label>TODO</Bullet_OTC_P_Acid.label>
+  
+  <!-- EN: Celestial Prototype Acid energy bullet -->
+  <Bullet_OTC_P_M_Acid.label>TODO</Bullet_OTC_P_M_Acid.label>
+  
+  <!-- EN: Quasar Acid energy ball -->
+  <Bullet_OTC_S_Acid.label>TODO</Bullet_OTC_S_Acid.label>
+  
+  <!-- EN: Quasar Prototype Acid energy ball -->
+  <Bullet_OTC_S_M_Acid.label>TODO</Bullet_OTC_S_M_Acid.label>
+  
+  <!-- EN: Equalizer Acid energy bullet -->
+  <Bullet_OTC_SMG_Acid.label>TODO</Bullet_OTC_SMG_Acid.label>
+  
+  <!-- EN: Equalizer Prototype Acid energy bullet -->
+  <Bullet_OTC_SMG_M_Acid.label>TODO</Bullet_OTC_SMG_M_Acid.label>
+  
+  <!-- EN: Nova Acid energy ball -->
+  <Bullet_OTC_SR_Acid.label>TODO</Bullet_OTC_SR_Acid.label>
+  
+  <!-- EN: Nova Prototype Acid energy ball -->
+  <Bullet_OTC_SR_M_Acid.label>TODO</Bullet_OTC_SR_M_Acid.label>
+  
+  <!-- EN: Nimbus(Acid) -->
+  <OTC_Bow_Acid.label>TODO</OTC_Bow_Acid.label>
+  <!-- EN: Regular Bow used by OTC Mechanics. Balanced weapon with Acid charges.\n\nIt's remanufactured weapon based on OEC Bow. -->
+  <OTC_Bow_Acid.description>TODO</OTC_Bow_Acid.description>
+  <!-- EN: limb -->
+  <OTC_Bow_Acid.tools.limb.label>TODO</OTC_Bow_Acid.tools.limb.label>
+  <!-- EN: Nimbus(Acid) -->
+  <OTC_Bow_Acid.verbs.Verb_Shoot.label>TODO</OTC_Bow_Acid.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Nimbus Prototype(Acid) -->
+  <OTC_Bow_M_Acid.label>TODO</OTC_Bow_M_Acid.label>
+  <!-- EN: Experimental Bow used by OTC Engineers. Balanced weapon with Acid charges.\n\nIt's remanufactured weapon based on OEC Bow. -->
+  <OTC_Bow_M_Acid.description>TODO</OTC_Bow_M_Acid.description>
+  <!-- EN: limb -->
+  <OTC_Bow_M_Acid.tools.limb.label>TODO</OTC_Bow_M_Acid.tools.limb.label>
+  <!-- EN: Nimbus Prototype(Acid) -->
+  <OTC_Bow_M_Acid.verbs.Verb_Shoot.label>TODO</OTC_Bow_M_Acid.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Meteor(Acid) -->
+  <OTC_GrenadeLauncher_Acid.label>TODO</OTC_GrenadeLauncher_Acid.label>
+  <!-- EN: Regular Grenade Launcher used by OTC Mechanics. Balanced weapon with Acid charges. -->
+  <OTC_GrenadeLauncher_Acid.description>TODO</OTC_GrenadeLauncher_Acid.description>
+  <!-- EN: barrel -->
+  <OTC_GrenadeLauncher_Acid.tools.barrel.label>TODO</OTC_GrenadeLauncher_Acid.tools.barrel.label>
+  <!-- EN: Meteor(Acid) -->
+  <OTC_GrenadeLauncher_Acid.verbs.Verb_Shoot.label>TODO</OTC_GrenadeLauncher_Acid.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Meteor Prototype(Acid) -->
+  <OTC_GrenadeLauncher_M_Acid.label>TODO</OTC_GrenadeLauncher_M_Acid.label>
+  <!-- EN: Experimental Grenade Launcher used by OTC Engineers. Balanced weapon with Acid charges. -->
+  <OTC_GrenadeLauncher_M_Acid.description>TODO</OTC_GrenadeLauncher_M_Acid.description>
+  <!-- EN: barrel -->
+  <OTC_GrenadeLauncher_M_Acid.tools.barrel.label>TODO</OTC_GrenadeLauncher_M_Acid.tools.barrel.label>
+  <!-- EN: Meteor Prototype(Acid) -->
+  <OTC_GrenadeLauncher_M_Acid.verbs.Verb_Shoot.label>TODO</OTC_GrenadeLauncher_M_Acid.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Pulsar(Acid) -->
+  <OTC_MultiCannon_Acid.label>TODO</OTC_MultiCannon_Acid.label>
+  <!-- EN: Regular Multi-Cannon used by OTC Mechanics. Balanced weapon with Acid charges.\n\nIt's remanufactured weapon based on OCC Multi-Cannon. -->
+  <OTC_MultiCannon_Acid.description>TODO</OTC_MultiCannon_Acid.description>
+  <!-- EN: barrels -->
+  <OTC_MultiCannon_Acid.tools.barrels.label>TODO</OTC_MultiCannon_Acid.tools.barrels.label>
+  <!-- EN: Pulsar(Acid) -->
+  <OTC_MultiCannon_Acid.verbs.Verb_Shoot.label>TODO</OTC_MultiCannon_Acid.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Pulsar Prototype(Acid) -->
+  <OTC_MultiCannon_M_Acid.label>TODO</OTC_MultiCannon_M_Acid.label>
+  <!-- EN: Experimental Multi-Cannon used by OTC Engineers. Balanced weapon with Acid charges.\n\nIt's remanufactured weapon based on OCC Multi-Cannon. -->
+  <OTC_MultiCannon_M_Acid.description>TODO</OTC_MultiCannon_M_Acid.description>
+  <!-- EN: barrels -->
+  <OTC_MultiCannon_M_Acid.tools.barrels.label>TODO</OTC_MultiCannon_M_Acid.tools.barrels.label>
+  <!-- EN: Pulsar Prototype(Acid) -->
+  <OTC_MultiCannon_M_Acid.verbs.Verb_Shoot.label>TODO</OTC_MultiCannon_M_Acid.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Celestial(Acid) -->
+  <OTC_Pistol_Acid.label>TODO</OTC_Pistol_Acid.label>
+  <!-- EN: Regular Pistol used by OTC Mechanics. Balanced weapon with Acid charges. -->
+  <OTC_Pistol_Acid.description>TODO</OTC_Pistol_Acid.description>
+  <!-- EN: grip -->
+  <OTC_Pistol_Acid.tools.grip.label>TODO</OTC_Pistol_Acid.tools.grip.label>
+  <!-- EN: barrel -->
+  <OTC_Pistol_Acid.tools.barrel.label>TODO</OTC_Pistol_Acid.tools.barrel.label>
+  <!-- EN: Celestial(Acid) -->
+  <OTC_Pistol_Acid.verbs.Verb_Shoot.label>TODO</OTC_Pistol_Acid.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Celestial Prototype(Acid) -->
+  <OTC_Pistol_M_Acid.label>TODO</OTC_Pistol_M_Acid.label>
+  <!-- EN: Experimental Pistol used by OTC Engineers. Balanced weapon with Acid charges. -->
+  <OTC_Pistol_M_Acid.description>TODO</OTC_Pistol_M_Acid.description>
+  <!-- EN: grip -->
+  <OTC_Pistol_M_Acid.tools.grip.label>TODO</OTC_Pistol_M_Acid.tools.grip.label>
+  <!-- EN: barrel -->
+  <OTC_Pistol_M_Acid.tools.barrel.label>TODO</OTC_Pistol_M_Acid.tools.barrel.label>
+  <!-- EN: Celestial Prototype(Acid) -->
+  <OTC_Pistol_M_Acid.verbs.Verb_Shoot.label>TODO</OTC_Pistol_M_Acid.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Quasar(Acid) -->
+  <OTC_Shotgun_Acid.label>TODO</OTC_Shotgun_Acid.label>
+  <!-- EN: Regular Shotgun used by OTC Mechanics. Balanced weapon with Acid charges. -->
+  <OTC_Shotgun_Acid.description>TODO</OTC_Shotgun_Acid.description>
+  <!-- EN: stock -->
+  <OTC_Shotgun_Acid.tools.stock.label>TODO</OTC_Shotgun_Acid.tools.stock.label>
+  <!-- EN: barrel -->
+  <OTC_Shotgun_Acid.tools.barrel.label>TODO</OTC_Shotgun_Acid.tools.barrel.label>
+  <!-- EN: Quasar(Acid) -->
+  <OTC_Shotgun_Acid.verbs.Verb_Shoot.label>TODO</OTC_Shotgun_Acid.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Quasar Prototype(Acid) -->
+  <OTC_Shotgun_M_Acid.label>TODO</OTC_Shotgun_M_Acid.label>
+  <!-- EN: Experimental Shotgun used by OTC Engineers. Balanced weapon with Acid charges. -->
+  <OTC_Shotgun_M_Acid.description>TODO</OTC_Shotgun_M_Acid.description>
+  <!-- EN: stock -->
+  <OTC_Shotgun_M_Acid.tools.stock.label>TODO</OTC_Shotgun_M_Acid.tools.stock.label>
+  <!-- EN: barrel -->
+  <OTC_Shotgun_M_Acid.tools.barrel.label>TODO</OTC_Shotgun_M_Acid.tools.barrel.label>
+  <!-- EN: Quasar Prototype(Acid) -->
+  <OTC_Shotgun_M_Acid.verbs.Verb_Shoot.label>TODO</OTC_Shotgun_M_Acid.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Equalizer(Acid) -->
+  <OTC_SMG_Acid.label>TODO</OTC_SMG_Acid.label>
+  <!-- EN: Regular SMG used by OTC Mechanics. Balanced weapon with Acid charges. -->
+  <OTC_SMG_Acid.description>TODO</OTC_SMG_Acid.description>
+  <!-- EN: stock -->
+  <OTC_SMG_Acid.tools.stock.label>TODO</OTC_SMG_Acid.tools.stock.label>
+  <!-- EN: barrel -->
+  <OTC_SMG_Acid.tools.barrel.label>TODO</OTC_SMG_Acid.tools.barrel.label>
+  <!-- EN: Equalizer(Acid) -->
+  <OTC_SMG_Acid.verbs.Verb_Shoot.label>TODO</OTC_SMG_Acid.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Equalizer Prototype(Acid) -->
+  <OTC_SMG_M_Acid.label>TODO</OTC_SMG_M_Acid.label>
+  <!-- EN: Experimental SMG used by OTC Engineers. Balanced weapon with Acid charges. -->
+  <OTC_SMG_M_Acid.description>TODO</OTC_SMG_M_Acid.description>
+  <!-- EN: stock -->
+  <OTC_SMG_M_Acid.tools.stock.label>TODO</OTC_SMG_M_Acid.tools.stock.label>
+  <!-- EN: barrel -->
+  <OTC_SMG_M_Acid.tools.barrel.label>TODO</OTC_SMG_M_Acid.tools.barrel.label>
+  <!-- EN: Equalizer Prototype(Acid) -->
+  <OTC_SMG_M_Acid.verbs.Verb_Shoot.label>TODO</OTC_SMG_M_Acid.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Nova(Acid) -->
+  <OTC_SniperRifle_Acid.label>TODO</OTC_SniperRifle_Acid.label>
+  <!-- EN: Regular Sniper Rifle used by OTC Mechanics. Balanced weapon with Acid charges.\n\nIt's remanufactured weapon based on OMC Sniper Rifle. -->
+  <OTC_SniperRifle_Acid.description>TODO</OTC_SniperRifle_Acid.description>
+  <!-- EN: stock -->
+  <OTC_SniperRifle_Acid.tools.stock.label>TODO</OTC_SniperRifle_Acid.tools.stock.label>
+  <!-- EN: barrel -->
+  <OTC_SniperRifle_Acid.tools.barrel.label>TODO</OTC_SniperRifle_Acid.tools.barrel.label>
+  <!-- EN: Nova(Acid) -->
+  <OTC_SniperRifle_Acid.verbs.Verb_Shoot.label>TODO</OTC_SniperRifle_Acid.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Nova Prototype(Acid) -->
+  <OTC_SniperRifle_M_Acid.label>TODO</OTC_SniperRifle_M_Acid.label>
+  <!-- EN: Experimental Sniper Rifle used by OTC Engineers. Balanced weapon with Acid charges.\n\nIt's remanufactured weapon based on OMC Sniper Rifle. -->
+  <OTC_SniperRifle_M_Acid.description>TODO</OTC_SniperRifle_M_Acid.description>
+  <!-- EN: stock -->
+  <OTC_SniperRifle_M_Acid.tools.stock.label>TODO</OTC_SniperRifle_M_Acid.tools.stock.label>
+  <!-- EN: barrel -->
+  <OTC_SniperRifle_M_Acid.tools.barrel.label>TODO</OTC_SniperRifle_M_Acid.tools.barrel.label>
+  <!-- EN: Nova Prototype(Acid) -->
+  <OTC_SniperRifle_M_Acid.verbs.Verb_Shoot.label>TODO</OTC_SniperRifle_M_Acid.verbs.Verb_Shoot.label>
+  
+</LanguageData>

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: CAC Arachna -->
+  <OE_Mech_CAC_Arachna.label>TODO</OE_Mech_CAC_Arachna.label>
+  <!-- EN: A medium-sized armored combat mechanoid. The creatures of the same name are taken as the basis for the design.\n\nThis model uses reconstructed CAC Minigun. -->
+  <OE_Mech_CAC_Arachna.description>TODO</OE_Mech_CAC_Arachna.description>
+  <!-- EN: front left leg -->
+  <OE_Mech_CAC_Arachna.tools.front_left_leg.label>TODO</OE_Mech_CAC_Arachna.tools.front_left_leg.label>
+  <!-- EN: front right leg -->
+  <OE_Mech_CAC_Arachna.tools.front_right_leg.label>TODO</OE_Mech_CAC_Arachna.tools.front_right_leg.label>
+  <!-- EN: head -->
+  <OE_Mech_CAC_Arachna.tools.head.label>TODO</OE_Mech_CAC_Arachna.tools.head.label>
+  
+  <!-- EN: OCC Arachna -->
+  <OE_Mech_OCC_Arachna.label>TODO</OE_Mech_OCC_Arachna.label>
+  <!-- EN: A medium-sized armored combat mechanoid. The creatures of the same name are taken as the basis for the design.\n\nThis model uses reconstructed OCC Rifle. -->
+  <OE_Mech_OCC_Arachna.description>TODO</OE_Mech_OCC_Arachna.description>
+  <!-- EN: front left leg -->
+  <OE_Mech_OCC_Arachna.tools.front_left_leg.label>TODO</OE_Mech_OCC_Arachna.tools.front_left_leg.label>
+  <!-- EN: front right leg -->
+  <OE_Mech_OCC_Arachna.tools.front_right_leg.label>TODO</OE_Mech_OCC_Arachna.tools.front_right_leg.label>
+  <!-- EN: head -->
+  <OE_Mech_OCC_Arachna.tools.head.label>TODO</OE_Mech_OCC_Arachna.tools.head.label>
+  
+  <!-- EN: OEC Arachna -->
+  <OE_Mech_OEC_Arachna.label>TODO</OE_Mech_OEC_Arachna.label>
+  <!-- EN: A medium-sized armored combat mechanoid. The creatures of the same name are taken as the basis for the design.\n\nThis model uses reconstructed OEC Sniper Rifle. -->
+  <OE_Mech_OEC_Arachna.description>TODO</OE_Mech_OEC_Arachna.description>
+  <!-- EN: front left leg -->
+  <OE_Mech_OEC_Arachna.tools.front_left_leg.label>TODO</OE_Mech_OEC_Arachna.tools.front_left_leg.label>
+  <!-- EN: front right leg -->
+  <OE_Mech_OEC_Arachna.tools.front_right_leg.label>TODO</OE_Mech_OEC_Arachna.tools.front_right_leg.label>
+  <!-- EN: head -->
+  <OE_Mech_OEC_Arachna.tools.head.label>TODO</OE_Mech_OEC_Arachna.tools.head.label>
+  
+  <!-- EN: OMC Arachna -->
+  <OE_Mech_OMC_Arachna.label>TODO</OE_Mech_OMC_Arachna.label>
+  <!-- EN: A medium-sized armored combat mechanoid. The creatures of the same name are taken as the basis for the design.\n\nThis model uses reconstructed OMC Assault Rifle. -->
+  <OE_Mech_OMC_Arachna.description>TODO</OE_Mech_OMC_Arachna.description>
+  <!-- EN: front left leg -->
+  <OE_Mech_OMC_Arachna.tools.front_left_leg.label>TODO</OE_Mech_OMC_Arachna.tools.front_left_leg.label>
+  <!-- EN: front right leg -->
+  <OE_Mech_OMC_Arachna.tools.front_right_leg.label>TODO</OE_Mech_OMC_Arachna.tools.front_right_leg.label>
+  <!-- EN: head -->
+  <OE_Mech_OMC_Arachna.tools.head.label>TODO</OE_Mech_OMC_Arachna.tools.head.label>
+  
+  <!-- EN: OTC Arachna(Acid) -->
+  <OE_Mech_OTC_Arachna_Acid.label>TODO</OE_Mech_OTC_Arachna_Acid.label>
+  <!-- EN: A medium-sized armored combat mechanoid. The creatures of the same name are taken as the basis for the design.\n\nThis model uses reconstructed OTC Shotgun with Acid charges. -->
+  <OE_Mech_OTC_Arachna_Acid.description>TODO</OE_Mech_OTC_Arachna_Acid.description>
+  <!-- EN: front left leg -->
+  <OE_Mech_OTC_Arachna_Acid.tools.front_left_leg.label>TODO</OE_Mech_OTC_Arachna_Acid.tools.front_left_leg.label>
+  <!-- EN: front right leg -->
+  <OE_Mech_OTC_Arachna_Acid.tools.front_right_leg.label>TODO</OE_Mech_OTC_Arachna_Acid.tools.front_right_leg.label>
+  <!-- EN: head -->
+  <OE_Mech_OTC_Arachna_Acid.tools.head.label>TODO</OE_Mech_OTC_Arachna_Acid.tools.head.label>
+  
+  <!-- EN: OTC Arachna(Cryo) -->
+  <OE_Mech_OTC_Arachna_Cryo.label>TODO</OE_Mech_OTC_Arachna_Cryo.label>
+  <!-- EN: A medium-sized armored combat mechanoid. The creatures of the same name are taken as the basis for the design.\n\nThis model uses reconstructed OTC Shotgun with Cryo charges. -->
+  <OE_Mech_OTC_Arachna_Cryo.description>TODO</OE_Mech_OTC_Arachna_Cryo.description>
+  <!-- EN: front left leg -->
+  <OE_Mech_OTC_Arachna_Cryo.tools.front_left_leg.label>TODO</OE_Mech_OTC_Arachna_Cryo.tools.front_left_leg.label>
+  <!-- EN: front right leg -->
+  <OE_Mech_OTC_Arachna_Cryo.tools.front_right_leg.label>TODO</OE_Mech_OTC_Arachna_Cryo.tools.front_right_leg.label>
+  <!-- EN: head -->
+  <OE_Mech_OTC_Arachna_Cryo.tools.head.label>TODO</OE_Mech_OTC_Arachna_Cryo.tools.head.label>
+  
+  <!-- EN: OTC Arachna(EMP) -->
+  <OE_Mech_OTC_Arachna_EMP.label>TODO</OE_Mech_OTC_Arachna_EMP.label>
+  <!-- EN: A medium-sized armored combat mechanoid. The creatures of the same name are taken as the basis for the design.\n\nThis model uses reconstructed OTC Shotgun with EMP charges. -->
+  <OE_Mech_OTC_Arachna_EMP.description>TODO</OE_Mech_OTC_Arachna_EMP.description>
+  <!-- EN: front left leg -->
+  <OE_Mech_OTC_Arachna_EMP.tools.front_left_leg.label>TODO</OE_Mech_OTC_Arachna_EMP.tools.front_left_leg.label>
+  <!-- EN: front right leg -->
+  <OE_Mech_OTC_Arachna_EMP.tools.front_right_leg.label>TODO</OE_Mech_OTC_Arachna_EMP.tools.front_right_leg.label>
+  <!-- EN: head -->
+  <OE_Mech_OTC_Arachna_EMP.tools.head.label>TODO</OE_Mech_OTC_Arachna_EMP.tools.head.label>
+  
+  <!-- EN: OTC Arachna(Fire) -->
+  <OE_Mech_OTC_Arachna_Fire.label>TODO</OE_Mech_OTC_Arachna_Fire.label>
+  <!-- EN: A medium-sized armored combat mechanoid. The creatures of the same name are taken as the basis for the design.\n\nThis model uses reconstructed OTC Shotgun with Fire charges. -->
+  <OE_Mech_OTC_Arachna_Fire.description>TODO</OE_Mech_OTC_Arachna_Fire.description>
+  <!-- EN: front left leg -->
+  <OE_Mech_OTC_Arachna_Fire.tools.front_left_leg.label>TODO</OE_Mech_OTC_Arachna_Fire.tools.front_left_leg.label>
+  <!-- EN: front right leg -->
+  <OE_Mech_OTC_Arachna_Fire.tools.front_right_leg.label>TODO</OE_Mech_OTC_Arachna_Fire.tools.front_right_leg.label>
+  <!-- EN: head -->
+  <OE_Mech_OTC_Arachna_Fire.tools.head.label>TODO</OE_Mech_OTC_Arachna_Fire.tools.head.label>
+  
+</LanguageData>

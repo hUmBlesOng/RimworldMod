@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Forgestorm -->
+  <OE_Trophy_MechHammer.label>TODO</OE_Trophy_MechHammer.label>
+  <!-- EN: The hammer of the famous ancient blacksmith Luke Ainsworth, which was passed on and improved from generation to generation.\n\nThis is a rare trophy weapon.\n\nFeature: a built-in module that improves mechanitor skills. -->
+  <OE_Trophy_MechHammer.description>TODO</OE_Trophy_MechHammer.description>
+  <!-- EN: handle -->
+  <OE_Trophy_MechHammer.tools.handle.label>TODO</OE_Trophy_MechHammer.tools.handle.label>
+  <!-- EN: head -->
+  <OE_Trophy_MechHammer.tools.head.label>TODO</OE_Trophy_MechHammer.tools.head.label>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bastion drive -->
+  <OE_Ghoul_BastionDrive.label>TODO</OE_Ghoul_BastionDrive.label>
+  <!-- EN: This creature's blood is saturated with protective catalysts and biochemical shields, hardening its body against injury and fire, at the cost of rising metabolic strain. -->
+  <OE_Ghoul_BastionDrive.description>TODO</OE_Ghoul_BastionDrive.description>
+  
+  <!-- EN: kinetic drive -->
+  <OE_Ghoul_KineticDrive.label>TODO</OE_Ghoul_KineticDrive.label>
+  <!-- EN: This creature's blood is saturated with volatile stimulants and synthetic adrenaline, greatly enhancing its speed and combat reflexes, at the cost of rising metabolic strain. -->
+  <OE_Ghoul_KineticDrive.description>TODO</OE_Ghoul_KineticDrive.description>
+  
+</LanguageData>

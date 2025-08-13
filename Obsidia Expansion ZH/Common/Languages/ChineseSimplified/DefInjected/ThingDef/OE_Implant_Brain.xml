@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cyberware AI interface -->
+  <OE_ImplantBrain_Interface.label>TODO</OE_ImplantBrain_Interface.label>
+  <!-- EN: Obsidia cyberware AI interface system is installed in the brain with a low-intelligent microcomputer controlled by a neural interface. Required for further installation of cyberware AI helpers. -->
+  <OE_ImplantBrain_Interface.description>TODO</OE_ImplantBrain_Interface.description>
+  
+  <!-- EN: brain implant - Suppression -->
+  <OE_ImplantBrain_Prisoner.label>TODO</OE_ImplantBrain_Prisoner.label>
+  <!-- EN: Obsidia suppression brain implant was designed to subdue rebellious slaves without harming them, also improves their behavior and reduces their need for sleep. When hit by an EMP it will knock the host unconscious. -->
+  <OE_ImplantBrain_Prisoner.description>TODO</OE_ImplantBrain_Prisoner.description>
+  
+  <!-- EN: brain implant - Psychically deaf -->
+  <OE_ImplantBrain_Psydeaf.label>TODO</OE_ImplantBrain_Psydeaf.label>
+  <!-- EN: Obsidia psychically deaf brain implant was designed to suppress psy-sensitivity. -->
+  <OE_ImplantBrain_Psydeaf.description>TODO</OE_ImplantBrain_Psydeaf.description>
+  
+  <!-- EN: brain implant - Sacrifice -->
+  <OE_ImplantBrain_Slave.label>TODO</OE_ImplantBrain_Slave.label>
+  <!-- EN: Obsidia Sacrifice brain implant was designed to fully paralysis, making it impossible to move. -->
+  <OE_ImplantBrain_Slave.description>TODO</OE_ImplantBrain_Slave.description>
+  
+</LanguageData>

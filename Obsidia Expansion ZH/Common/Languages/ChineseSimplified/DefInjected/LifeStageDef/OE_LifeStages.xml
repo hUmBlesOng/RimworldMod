@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: adult -->
+  <OEBigInsectAdult.label>TODO</OEBigInsectAdult.label>
+  
+  <!-- EN: immature -->
+  <OEInsectJuvenile.label>TODO</OEInsectJuvenile.label>
+  
+  <!-- EN: larva -->
+  <OEInsectLarva.label>TODO</OEInsectLarva.label>
+  
+  <!-- EN: adult -->
+  <OESlimeAdult.label>TODO</OESlimeAdult.label>
+  
+  <!-- EN: immature -->
+  <OESlimeJuvenile.label>TODO</OESlimeJuvenile.label>
+  
+  <!-- EN: larva -->
+  <OESlimeLarva.label>TODO</OESlimeLarva.label>
+  
+  <!-- EN: adult -->
+  <OESmallInsectAdult.label>TODO</OESmallInsectAdult.label>
+  
+</LanguageData>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gestating things at an obsidia amalgam vat -->
+  <OE_UseAmalgamVat.label>TODO</OE_UseAmalgamVat.label>
+  <!-- EN: gestating at -->
+  <OE_UseAmalgamVat.gerund>TODO</OE_UseAmalgamVat.gerund>
+  <!-- EN: gestate -->
+  <OE_UseAmalgamVat.verb>TODO</OE_UseAmalgamVat.verb>
+  
+  <!-- EN: assembling things at an obsidia armor station -->
+  <OE_UseArmorStation.label>TODO</OE_UseArmorStation.label>
+  <!-- EN: assembling at -->
+  <OE_UseArmorStation.gerund>TODO</OE_UseArmorStation.gerund>
+  <!-- EN: craft -->
+  <OE_UseArmorStation.verb>TODO</OE_UseArmorStation.verb>
+  
+  <!-- EN: assembling things at an obsidia bionic table -->
+  <OE_UseBionicWorkbench.label>TODO</OE_UseBionicWorkbench.label>
+  <!-- EN: assembling at -->
+  <OE_UseBionicWorkbench.gerund>TODO</OE_UseBionicWorkbench.gerund>
+  <!-- EN: craft -->
+  <OE_UseBionicWorkbench.verb>TODO</OE_UseBionicWorkbench.verb>
+  
+  <!-- EN: bound weapon at an obsidia armament table -->
+  <OE_UsePersonaWorkbench.label>TODO</OE_UsePersonaWorkbench.label>
+  <!-- EN: bonding at -->
+  <OE_UsePersonaWorkbench.gerund>TODO</OE_UsePersonaWorkbench.gerund>
+  <!-- EN: bond -->
+  <OE_UsePersonaWorkbench.verb>TODO</OE_UsePersonaWorkbench.verb>
+  
+  <!-- EN: synthesis things at an obsidia synthesis printer -->
+  <OE_UseSynthesisPrinter.label>TODO</OE_UseSynthesisPrinter.label>
+  <!-- EN: synthesis at -->
+  <OE_UseSynthesisPrinter.gerund>TODO</OE_UseSynthesisPrinter.gerund>
+  <!-- EN: synthesis -->
+  <OE_UseSynthesisPrinter.verb>TODO</OE_UseSynthesisPrinter.verb>
+  
+  <!-- EN: assembling things at an obsidia weapon workbench -->
+  <OE_UseWeaponWorkbench.label>TODO</OE_UseWeaponWorkbench.label>
+  <!-- EN: assembling at -->
+  <OE_UseWeaponWorkbench.gerund>TODO</OE_UseWeaponWorkbench.gerund>
+  <!-- EN: craft -->
+  <OE_UseWeaponWorkbench.verb>TODO</OE_UseWeaponWorkbench.verb>
+  
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: OEC Hunter Helmet -->
+  <OEC_Helmet.label>TODO</OEC_Helmet.label>
+  <!-- EN: Light power armor Helmet, well protects the owner. Designed for use by Hunters representing the OEC. -->
+  <OEC_Helmet.description>TODO</OEC_Helmet.description>
+  
+  <!-- EN: OEC Inquisitor Helmet -->
+  <OEC_Helmet_M.label>TODO</OEC_Helmet_M.label>
+  <!-- EN: Light power armor Helmet, well protects the owner. Designed and modified for use by Inquisitors representing the OEC.\n\nThe hardened version provides more protection to the owner. -->
+  <OEC_Helmet_M.description>TODO</OEC_Helmet_M.description>
+  
+  <!-- EN: OEC Inquisitor Helmet(Gladiator) -->
+  <OEC_Helmet_M_Melee.label>TODO</OEC_Helmet_M_Melee.label>
+  <!-- EN: Light power armor Helmet, well protects the owner. Designed and modified for use by Inquisitors representing the OEC.\n\nModified visor with analyzing computer that helps the user close combat. -->
+  <OEC_Helmet_M_Melee.description>TODO</OEC_Helmet_M_Melee.description>
+  
+  <!-- EN: OEC Inquisitor Helmet(Ranger) -->
+  <OEC_Helmet_M_Ranged.label>TODO</OEC_Helmet_M_Ranged.label>
+  <!-- EN: Light power armor Helmet, well protects the owner. Designed and modified for use by Inquisitors representing the OEC.\n\nModified visor with targeting computer that helps the user aim. -->
+  <OEC_Helmet_M_Ranged.description>TODO</OEC_Helmet_M_Ranged.description>
+  
+  <!-- EN: OEC Inquisitor Helmet(Space Griffin) -->
+  <OEC_Helmet_M_Spacer.label>TODO</OEC_Helmet_M_Spacer.label>
+  <!-- EN: Light power armor Helmet, well protects the owner. Designed and modified for use by Inquisitors representing the OEC.\n\nPressure-sealed version designed to keep the occupant alive in outer space. -->
+  <OEC_Helmet_M_Spacer.description>TODO</OEC_Helmet_M_Spacer.description>
+  
+</LanguageData>

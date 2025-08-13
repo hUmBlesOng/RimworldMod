@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Death’s Call bullet -->
+  <Bullet_OMG_Trophy_R.label>TODO</Bullet_OMG_Trophy_R.label>
+  
+  <!-- EN: Death’s Call -->
+  <OMG_Trophy_Revolver.label>TODO</OMG_Trophy_Revolver.label>
+  <!-- EN: Crafted from dark technology, this revolver can turn any victim into a relentless Shambler. With each pull of the trigger, the dead rise again, cursed to walk in unholy servitude.\n\nSpecially modified weapon charged with Necrobane, Deadlife, Stun and EMP damages.\n\nThis modification deprives item's quality levels. -->
+  <OMG_Trophy_Revolver.description>TODO</OMG_Trophy_Revolver.description>
+  <!-- EN: ignite charge -->
+  <OMG_Trophy_Revolver.comps.CompEquippableAbilityReloadable-0.chargeNoun>TODO</OMG_Trophy_Revolver.comps.CompEquippableAbilityReloadable-0.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OMG_Trophy_Revolver.comps.CompEquippableAbilityReloadable-0.cooldownGerund>TODO</OMG_Trophy_Revolver.comps.CompEquippableAbilityReloadable-0.cooldownGerund>
+  <!-- EN: Death’s Call -->
+  <OMG_Trophy_Revolver.comps.CompUniqueWeapon.namerLabels.0>TODO</OMG_Trophy_Revolver.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: charge -->
+  <OMG_Trophy_Revolver.comps.CompEquippableAbilityReloadable-1.chargeNoun>TODO</OMG_Trophy_Revolver.comps.CompEquippableAbilityReloadable-1.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OMG_Trophy_Revolver.comps.CompEquippableAbilityReloadable-1.cooldownGerund>TODO</OMG_Trophy_Revolver.comps.CompEquippableAbilityReloadable-1.cooldownGerund>
+  <!-- EN: grip -->
+  <OMG_Trophy_Revolver.tools.grip.label>TODO</OMG_Trophy_Revolver.tools.grip.label>
+  <!-- EN: barrel -->
+  <OMG_Trophy_Revolver.tools.barrel.label>TODO</OMG_Trophy_Revolver.tools.barrel.label>
+  <!-- EN: Death’s Call -->
+  <OMG_Trophy_Revolver.verbs.Verb_Shoot.label>TODO</OMG_Trophy_Revolver.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Death’s Call capsule -->
+  <Shell_OMG_Trophy_R.label>TODO</Shell_OMG_Trophy_R.label>
+  
+</LanguageData>

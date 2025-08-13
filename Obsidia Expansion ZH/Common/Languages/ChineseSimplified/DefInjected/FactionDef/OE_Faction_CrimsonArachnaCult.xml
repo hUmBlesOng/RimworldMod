@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Crimson Arachna Cult -->
+  <ObsidiaCrimsonArachnaCult.label>TODO</ObsidiaCrimsonArachnaCult.label>
+  <!-- EN: The ancient and dangerous cult of Obsidia, worshiping Arachnas as deities, was completely exterminated many centuries ago... But Crimson Arachna Cult survived, the surviving followers hid in the dark depths and shadows of the streets, step by step putting down the roots of their influence on Obsidia and its colonies. Having absorbed enough influence, power and technology, the cult again revealed itself to the world in order to exterminate all the infidels!\n\nThe cult completely rejects any relationship, other than hostility, with other factions. -->
+  <ObsidiaCrimsonArachnaCult.description>TODO</ObsidiaCrimsonArachnaCult.description>
+  <!-- EN: Crimson Arachna Cult -->
+  <ObsidiaCrimsonArachnaCult.fixedName>TODO</ObsidiaCrimsonArachnaCult.fixedName>
+  <!-- EN: vizier -->
+  <ObsidiaCrimsonArachnaCult.leaderTitle>TODO</ObsidiaCrimsonArachnaCult.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <ObsidiaCrimsonArachnaCult.messageDefendersAttacking>TODO</ObsidiaCrimsonArachnaCult.messageDefendersAttacking>
+  <!-- EN: cultist -->
+  <ObsidiaCrimsonArachnaCult.pawnSingular>TODO</ObsidiaCrimsonArachnaCult.pawnSingular>
+  <!-- EN: cultists -->
+  <ObsidiaCrimsonArachnaCult.pawnsPlural>TODO</ObsidiaCrimsonArachnaCult.pawnsPlural>
+  
+</LanguageData>

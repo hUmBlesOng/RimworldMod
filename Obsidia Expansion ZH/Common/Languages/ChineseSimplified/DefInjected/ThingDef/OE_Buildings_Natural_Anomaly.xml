@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: big chaos slime hive -->
+  <OE_ChaosSlimeHive_Big.label>TODO</OE_ChaosSlimeHive_Big.label>
+  <!-- EN: A big hive of dangerous chaos slimes. If activated, it will spawn additional very dangerous chaos slimes. -->
+  <OE_ChaosSlimeHive_Big.description>TODO</OE_ChaosSlimeHive_Big.description>
+  
+  <!-- EN: core chaos slime hive -->
+  <OE_ChaosSlimeHive_Core.label>TODO</OE_ChaosSlimeHive_Core.label>
+  <!-- EN: A core hive of dangerous chaos slimes. If activated, it will spawn additional chaos slimes and smaller hives over time. -->
+  <OE_ChaosSlimeHive_Core.description>TODO</OE_ChaosSlimeHive_Core.description>
+  
+  <!-- EN: giant chaos slime hive -->
+  <OE_ChaosSlimeHive_Giant.label>TODO</OE_ChaosSlimeHive_Giant.label>
+  <!-- EN: A giant hive of dangerous chaos slimes. If activated, it will spawn additional chaos slime the Invincible. -->
+  <OE_ChaosSlimeHive_Giant.description>TODO</OE_ChaosSlimeHive_Giant.description>
+  
+  <!-- EN: medium chaos slime hive -->
+  <OE_ChaosSlimeHive_Medium.label>TODO</OE_ChaosSlimeHive_Medium.label>
+  <!-- EN: A medium hive of dangerous chaos slimes. If activated, it will spawn additional dangerous chaos slimes. -->
+  <OE_ChaosSlimeHive_Medium.description>TODO</OE_ChaosSlimeHive_Medium.description>
+  
+  <!-- EN: small chaos slime hive -->
+  <OE_ChaosSlimeHive_Small.label>TODO</OE_ChaosSlimeHive_Small.label>
+  <!-- EN: A small hive of dangerous chaos slimes. If activated, it will spawn additional chaos slimes. -->
+  <OE_ChaosSlimeHive_Small.description>TODO</OE_ChaosSlimeHive_Small.description>
+  
+</LanguageData>

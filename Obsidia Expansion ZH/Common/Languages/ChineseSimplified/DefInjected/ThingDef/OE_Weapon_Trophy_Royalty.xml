@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Persona Black Prince Sword -->
+  <OE_Trophy_BrokenSword_P.label>TODO</OE_Trophy_BrokenSword_P.label>
+  <!-- EN: According to legend, an unknown persona sword fell from the skies and its first owner became Black Prince Lelouch, who started Obsidia's Last War. But before the end of this war, the sword broke at the time of Lelouch’s death, and to this day only a fragment of the sword remains.\n\nThis is a rare trophy weapon.\n\nFeature: improves social impact and able to deal a random additional type of damage. -->
+  <OE_Trophy_BrokenSword_P.description>TODO</OE_Trophy_BrokenSword_P.description>
+  <!-- EN: handle -->
+  <OE_Trophy_BrokenSword_P.tools.handle.label>TODO</OE_Trophy_BrokenSword_P.tools.handle.label>
+  <!-- EN: point -->
+  <OE_Trophy_BrokenSword_P.tools.point.label>TODO</OE_Trophy_BrokenSword_P.tools.point.label>
+  <!-- EN: edge -->
+  <OE_Trophy_BrokenSword_P.tools.edge.label>TODO</OE_Trophy_BrokenSword_P.tools.edge.label>
+  
+  <!-- EN: Persona Lloyd's Shovel -->
+  <OE_Trophy_Shovel_P.label>TODO</OE_Trophy_Shovel_P.label>
+  <!-- EN: The favorite persona shovel used by the greatest Lloyd Frontera, who received his title of The Greatest Estate Developer known throughout the Obsidia Empire.\n\nThis is a rare trophy weapon.\n\nFeature: a built-in module that improves mining skills. -->
+  <OE_Trophy_Shovel_P.description>TODO</OE_Trophy_Shovel_P.description>
+  <!-- EN: shovel -->
+  <OE_Trophy_Shovel_P.tools.shovel.label>TODO</OE_Trophy_Shovel_P.tools.shovel.label>
+  
+</LanguageData>

@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: synthesis obsidia ammo kit x10 -->
+  <OE_Synthesis_AmmoKitBulk.label>TODO</OE_Synthesis_AmmoKitBulk.label>
+  <!-- EN: Synthesis 10 obsidia ammo kit. -->
+  <OE_Synthesis_AmmoKitBulk.description>TODO</OE_Synthesis_AmmoKitBulk.description>
+  <!-- EN: Synthesis 10 obsidia ammo kit. -->
+  <OE_Synthesis_AmmoKitBulk.jobString>TODO</OE_Synthesis_AmmoKitBulk.jobString>
+  
+  <!-- EN: synthesis obsidia ammo kit x5 -->
+  <OE_Synthesis_AmmoKitPack.label>TODO</OE_Synthesis_AmmoKitPack.label>
+  <!-- EN: Synthesis 5 obsidia ammo kit. -->
+  <OE_Synthesis_AmmoKitPack.description>TODO</OE_Synthesis_AmmoKitPack.description>
+  <!-- EN: Synthesis 5 obsidia ammo kit. -->
+  <OE_Synthesis_AmmoKitPack.jobString>TODO</OE_Synthesis_AmmoKitPack.jobString>
+  
+  <!-- EN: converting corpse -->
+  <OE_Synthesis_ConvertingCorpse.label>TODO</OE_Synthesis_ConvertingCorpse.label>
+  <!-- EN: Converting a corpse into Synthesis. -->
+  <OE_Synthesis_ConvertingCorpse.description>TODO</OE_Synthesis_ConvertingCorpse.description>
+  <!-- EN: Converting. -->
+  <OE_Synthesis_ConvertingCorpse.jobString>TODO</OE_Synthesis_ConvertingCorpse.jobString>
+  
+  <!-- EN: synthesis empyrium x10 -->
+  <OE_Synthesis_EmpyriumBulk.label>TODO</OE_Synthesis_EmpyriumBulk.label>
+  <!-- EN: Synthesis 10 empyrium from Syntherius, Obsidian and Platinum. -->
+  <OE_Synthesis_EmpyriumBulk.description>TODO</OE_Synthesis_EmpyriumBulk.description>
+  <!-- EN: Synthesis 10 empyrium. -->
+  <OE_Synthesis_EmpyriumBulk.jobString>TODO</OE_Synthesis_EmpyriumBulk.jobString>
+  
+  <!-- EN: synthesis empyrium x5 -->
+  <OE_Synthesis_EmpyriumPack.label>TODO</OE_Synthesis_EmpyriumPack.label>
+  <!-- EN: Synthesis 5 empyrium from Syntherius, Obsidian and Platinum. -->
+  <OE_Synthesis_EmpyriumPack.description>TODO</OE_Synthesis_EmpyriumPack.description>
+  <!-- EN: Synthesis 5 empyrium. -->
+  <OE_Synthesis_EmpyriumPack.jobString>TODO</OE_Synthesis_EmpyriumPack.jobString>
+  
+  <!-- EN: synthesis empyrium synthweave x5 -->
+  <OE_Synthesis_EmpyriumSynthweave.label>TODO</OE_Synthesis_EmpyriumSynthweave.label>
+  <!-- EN: Synthesis empyrium synthweave from Syntherius with Empyrium and Mooncloth. -->
+  <OE_Synthesis_EmpyriumSynthweave.description>TODO</OE_Synthesis_EmpyriumSynthweave.description>
+  <!-- EN: Synthesis empyrium synthweave. -->
+  <OE_Synthesis_EmpyriumSynthweave.jobString>TODO</OE_Synthesis_EmpyriumSynthweave.jobString>
+  
+  <!-- EN: disassembly heroic gear -->
+  <OE_Synthesis_HeroicKit.label>TODO</OE_Synthesis_HeroicKit.label>
+  <!-- EN: Disassembly heroic gear into heroic kit. -->
+  <OE_Synthesis_HeroicKit.description>TODO</OE_Synthesis_HeroicKit.description>
+  <!-- EN: Disassembly heroic gear. -->
+  <OE_Synthesis_HeroicKit.jobString>TODO</OE_Synthesis_HeroicKit.jobString>
+  
+  <!-- EN: synthesis mythril x10 -->
+  <OE_Synthesis_MythrilBulk.label>TODO</OE_Synthesis_MythrilBulk.label>
+  <!-- EN: Synthesis 10 mythril from Syntherius. -->
+  <OE_Synthesis_MythrilBulk.description>TODO</OE_Synthesis_MythrilBulk.description>
+  <!-- EN: Synthesis 10 mythril. -->
+  <OE_Synthesis_MythrilBulk.jobString>TODO</OE_Synthesis_MythrilBulk.jobString>
+  
+  <!-- EN: synthesis mythril x5 -->
+  <OE_Synthesis_MythrilPack.label>TODO</OE_Synthesis_MythrilPack.label>
+  <!-- EN: Synthesis 5 mythril from Syntherius. -->
+  <OE_Synthesis_MythrilPack.description>TODO</OE_Synthesis_MythrilPack.description>
+  <!-- EN: Synthesis 5 mythril. -->
+  <OE_Synthesis_MythrilPack.jobString>TODO</OE_Synthesis_MythrilPack.jobString>
+  
+  <!-- EN: synthesis mythril synthweave x5 -->
+  <OE_Synthesis_MythrilSynthweave.label>TODO</OE_Synthesis_MythrilSynthweave.label>
+  <!-- EN: Synthesis mythril synthweave from Syntherius with Mythril and Mooncloth. -->
+  <OE_Synthesis_MythrilSynthweave.description>TODO</OE_Synthesis_MythrilSynthweave.description>
+  <!-- EN: Synthesis mythril synthweave. -->
+  <OE_Synthesis_MythrilSynthweave.jobString>TODO</OE_Synthesis_MythrilSynthweave.jobString>
+  
+  <!-- EN: synthesis obsidian x10 -->
+  <OE_Synthesis_ObsidianBulk.label>TODO</OE_Synthesis_ObsidianBulk.label>
+  <!-- EN: Synthesis 10 obsidian from Syntherius. -->
+  <OE_Synthesis_ObsidianBulk.description>TODO</OE_Synthesis_ObsidianBulk.description>
+  <!-- EN: Synthesis 10 obsidian. -->
+  <OE_Synthesis_ObsidianBulk.jobString>TODO</OE_Synthesis_ObsidianBulk.jobString>
+  
+  <!-- EN: synthesis obsidian x5 -->
+  <OE_Synthesis_ObsidianPack.label>TODO</OE_Synthesis_ObsidianPack.label>
+  <!-- EN: Synthesis 5 obsidian from Syntherius. -->
+  <OE_Synthesis_ObsidianPack.description>TODO</OE_Synthesis_ObsidianPack.description>
+  <!-- EN: Synthesis 5 obsidian. -->
+  <OE_Synthesis_ObsidianPack.jobString>TODO</OE_Synthesis_ObsidianPack.jobString>
+  
+  <!-- EN: synthesis obsidian synthweave x5 -->
+  <OE_Synthesis_ObsidianSynthweave.label>TODO</OE_Synthesis_ObsidianSynthweave.label>
+  <!-- EN: Synthesis obsidian synthweave from Syntherius with Obsidian and Mooncloth. -->
+  <OE_Synthesis_ObsidianSynthweave.description>TODO</OE_Synthesis_ObsidianSynthweave.description>
+  <!-- EN: Synthesis obsidian synthweave. -->
+  <OE_Synthesis_ObsidianSynthweave.jobString>TODO</OE_Synthesis_ObsidianSynthweave.jobString>
+  
+  <!-- EN: synthesis orichalcum x10 -->
+  <OE_Synthesis_OrichalcumBulk.label>TODO</OE_Synthesis_OrichalcumBulk.label>
+  <!-- EN: Synthesis 10 orichalcum from Syntherius, Mythril and Platinum. -->
+  <OE_Synthesis_OrichalcumBulk.description>TODO</OE_Synthesis_OrichalcumBulk.description>
+  <!-- EN: Synthesis 10 orichalcum. -->
+  <OE_Synthesis_OrichalcumBulk.jobString>TODO</OE_Synthesis_OrichalcumBulk.jobString>
+  
+  <!-- EN: synthesis orichalcum x5 -->
+  <OE_Synthesis_OrichalcumPack.label>TODO</OE_Synthesis_OrichalcumPack.label>
+  <!-- EN: Synthesis 5 orichalcum from Syntherius, Mythril and Platinum. -->
+  <OE_Synthesis_OrichalcumPack.description>TODO</OE_Synthesis_OrichalcumPack.description>
+  <!-- EN: Synthesis 5 orichalcum. -->
+  <OE_Synthesis_OrichalcumPack.jobString>TODO</OE_Synthesis_OrichalcumPack.jobString>
+  
+  <!-- EN: synthesis orichalcum synthweave x5 -->
+  <OE_Synthesis_OrichalcumSynthweave.label>TODO</OE_Synthesis_OrichalcumSynthweave.label>
+  <!-- EN: Synthesis orichalcum synthweave from Syntherius with Orichalcum and Mooncloth. -->
+  <OE_Synthesis_OrichalcumSynthweave.description>TODO</OE_Synthesis_OrichalcumSynthweave.description>
+  <!-- EN: Synthesis orichalcum synthweave. -->
+  <OE_Synthesis_OrichalcumSynthweave.jobString>TODO</OE_Synthesis_OrichalcumSynthweave.jobString>
+  
+  <!-- EN: synthesis platinum x10 -->
+  <OE_Synthesis_PlatinumBulk.label>TODO</OE_Synthesis_PlatinumBulk.label>
+  <!-- EN: Synthesis 10 platinum from Syntherius. -->
+  <OE_Synthesis_PlatinumBulk.description>TODO</OE_Synthesis_PlatinumBulk.description>
+  <!-- EN: Synthesis 10 platinum. -->
+  <OE_Synthesis_PlatinumBulk.jobString>TODO</OE_Synthesis_PlatinumBulk.jobString>
+  
+  <!-- EN: synthesis platinum x5 -->
+  <OE_Synthesis_PlatinumPack.label>TODO</OE_Synthesis_PlatinumPack.label>
+  <!-- EN: Synthesis 5 platinum from Syntherius. -->
+  <OE_Synthesis_PlatinumPack.description>TODO</OE_Synthesis_PlatinumPack.description>
+  <!-- EN: Synthesis 5 platinum. -->
+  <OE_Synthesis_PlatinumPack.jobString>TODO</OE_Synthesis_PlatinumPack.jobString>
+  
+  <!-- EN: synthesis platinum synthweave x5 -->
+  <OE_Synthesis_PlatinumSynthweave.label>TODO</OE_Synthesis_PlatinumSynthweave.label>
+  <!-- EN: Synthesis platinum synthweave from Syntherius with Platinum and Mooncloth. -->
+  <OE_Synthesis_PlatinumSynthweave.description>TODO</OE_Synthesis_PlatinumSynthweave.description>
+  <!-- EN: Synthesis platinum synthweave. -->
+  <OE_Synthesis_PlatinumSynthweave.jobString>TODO</OE_Synthesis_PlatinumSynthweave.jobString>
+  
+</LanguageData>

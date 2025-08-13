@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] served as a guardian of forbidden tombs and bio-sealed reliquaries within the Crimson Arachna Cult. Whispered to the dead, catalogued relics, and performed maintenance on what should never be awoken. -->
+  <OE_Cryptkeeper.description>TODO</OE_Cryptkeeper.description>
+  <!-- EN: crimson arachna cryptkeeper -->
+  <OE_Cryptkeeper.title>TODO</OE_Cryptkeeper.title>
+  <!-- EN: cryptkeeper -->
+  <OE_Cryptkeeper.titleShort>TODO</OE_Cryptkeeper.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] as a member of Crimson Arachna Cult has an unwavering faith and the desire to bring their faith to everyone in any way. -->
+  <OE_Cultist.description>TODO</OE_Cultist.description>
+  <!-- EN: crimson arachna cultist -->
+  <OE_Cultist.title>TODO</OE_Cultist.title>
+  <!-- EN: cultist -->
+  <OE_Cultist.titleShort>TODO</OE_Cultist.titleShort>
+  
+</LanguageData>

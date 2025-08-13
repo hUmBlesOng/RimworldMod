@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: luraxin addiction -->
+  <OE_LuraxinAddiction.label>TODO</OE_LuraxinAddiction.label>
+  <!-- EN: Because of an luraxin addiction, this person needs to regularly consume luraxin to avoid withdrawal symptoms. -->
+  <OE_LuraxinAddiction.description>TODO</OE_LuraxinAddiction.description>
+  <!-- EN: withdrawal -->
+  <OE_LuraxinAddiction.stages.withdrawal.label>TODO</OE_LuraxinAddiction.stages.withdrawal.label>
+  
+  <!-- EN: luraxin side effect -->
+  <OE_LuraxinAftereffect.label>TODO</OE_LuraxinAftereffect.label>
+  <!-- EN: Luraxin side effect. Affect about 12 hours. -->
+  <OE_LuraxinAftereffect.description>TODO</OE_LuraxinAftereffect.description>
+  
+  <!-- EN: luraxin boosted -->
+  <OE_LuraxinHigh.label>TODO</OE_LuraxinHigh.label>
+  <!-- EN: Luraxin in the bloodstream. Boosts psycasts stats. Effect weakens over time. -->
+  <OE_LuraxinHigh.description>TODO</OE_LuraxinHigh.description>
+  <!-- EN: side effect kicking in -->
+  <OE_LuraxinHigh.stages.side_effect_kicking_in.label>TODO</OE_LuraxinHigh.stages.side_effect_kicking_in.label>
+  <!-- EN: first stage -->
+  <OE_LuraxinHigh.stages.first_stage.label>TODO</OE_LuraxinHigh.stages.first_stage.label>
+  <!-- EN: second stage -->
+  <OE_LuraxinHigh.stages.second_stage.label>TODO</OE_LuraxinHigh.stages.second_stage.label>
+  <!-- EN: third stage -->
+  <OE_LuraxinHigh.stages.third_stage.label>TODO</OE_LuraxinHigh.stages.third_stage.label>
+  
+</LanguageData>

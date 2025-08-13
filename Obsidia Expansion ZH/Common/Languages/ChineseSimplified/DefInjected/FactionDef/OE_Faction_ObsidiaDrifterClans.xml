@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Obsidia Pilgrim Clan -->
+  <ObsidiaPilgrimClan.label>TODO</ObsidiaPilgrimClan.label>
+  <!-- EN: They were once part ultratech colonists society from Obsidia planet, organized along military lines. Having rejected Obsidia Empire, many different factions were formed, but over time, only three main directions survived, which united into Obsidia Drifter Clans.\n\nObsidia Pilgrim Clan embody the cold vacuum of space - heartless and bent on taking anything left unprotected. Driven by profits.\n\nTheir goal is to enrich themselves by trading with hi-tech neighbors. -->
+  <ObsidiaPilgrimClan.description>TODO</ObsidiaPilgrimClan.description>
+  <!-- EN: admiral -->
+  <ObsidiaPilgrimClan.leaderTitle>TODO</ObsidiaPilgrimClan.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <ObsidiaPilgrimClan.messageDefendersAttacking>TODO</ObsidiaPilgrimClan.messageDefendersAttacking>
+  <!-- EN: obsidian -->
+  <ObsidiaPilgrimClan.pawnSingular>TODO</ObsidiaPilgrimClan.pawnSingular>
+  <!-- EN: obsidians -->
+  <ObsidiaPilgrimClan.pawnsPlural>TODO</ObsidiaPilgrimClan.pawnsPlural>
+  
+  <!-- EN: Obsidia Renegade Clan -->
+  <ObsidiaRenegadeClan.label>TODO</ObsidiaRenegadeClan.label>
+  <!-- EN: They were once part ultratech colonists society from Obsidia planet, organized along military lines. Having rejected Obsidia Empire, many different factions were formed, but over time, only three main directions survived, which united into Obsidia Drifter Clans.\n\nObsidia Renegade Clan are sworn protectors of what little remains of the free colonies.\n\nTheir goal is to restore order by bringing prosperity and direction to the violent world. -->
+  <ObsidiaRenegadeClan.description>TODO</ObsidiaRenegadeClan.description>
+  <!-- EN: mayor -->
+  <ObsidiaRenegadeClan.leaderTitle>TODO</ObsidiaRenegadeClan.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <ObsidiaRenegadeClan.messageDefendersAttacking>TODO</ObsidiaRenegadeClan.messageDefendersAttacking>
+  <!-- EN: obsidian -->
+  <ObsidiaRenegadeClan.pawnSingular>TODO</ObsidiaRenegadeClan.pawnSingular>
+  <!-- EN: obsidians -->
+  <ObsidiaRenegadeClan.pawnsPlural>TODO</ObsidiaRenegadeClan.pawnsPlural>
+  
+  <!-- EN: Obsidia Syndicate Clan -->
+  <ObsidiaSyndicateClan.label>TODO</ObsidiaSyndicateClan.label>
+  <!-- EN: They were once part ultratech colonists society from Obsidia planet, organized along military lines. Having rejected Obsidia Empire, many different factions were formed, but over time, only three main directions survived, which united into Obsidia Drifter Clans.\n\nChange is sudden, violent, and a necessary force to ensure the planet can return to a state of growth. Obsidia Syndicate Clan see themselves as merely the instrument of this change.\n\nTheir goal is to raiding and robbing their more productive neighbors. -->
+  <ObsidiaSyndicateClan.description>TODO</ObsidiaSyndicateClan.description>
+  <!-- EN: boss -->
+  <ObsidiaSyndicateClan.leaderTitle>TODO</ObsidiaSyndicateClan.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <ObsidiaSyndicateClan.messageDefendersAttacking>TODO</ObsidiaSyndicateClan.messageDefendersAttacking>
+  <!-- EN: obsidian -->
+  <ObsidiaSyndicateClan.pawnSingular>TODO</ObsidiaSyndicateClan.pawnSingular>
+  <!-- EN: obsidians -->
+  <ObsidiaSyndicateClan.pawnsPlural>TODO</ObsidiaSyndicateClan.pawnsPlural>
+  
+</LanguageData>

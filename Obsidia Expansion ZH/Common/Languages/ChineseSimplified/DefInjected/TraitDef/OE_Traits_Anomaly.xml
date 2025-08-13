@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ritual master -->
+  <OERitualist.degreeDatas.ritual_master.label>TODO</OERitualist.degreeDatas.ritual_master.label>
+  <!-- EN: Rituals energize {PAWN_nameDef}, who executes them with precision and passion. -->
+  <OERitualist.degreeDatas.ritual_master.description>TODO</OERitualist.degreeDatas.ritual_master.description>
+  <!-- EN: ceremonial adept -->
+  <OERitualist.degreeDatas.ceremonial_adept.label>TODO</OERitualist.degreeDatas.ceremonial_adept.label>
+  <!-- EN: {PAWN_nameDef} performs rituals efficiently and without hesitation. -->
+  <OERitualist.degreeDatas.ceremonial_adept.description>TODO</OERitualist.degreeDatas.ceremonial_adept.description>
+  <!-- EN: unsteady speaker -->
+  <OERitualist.degreeDatas.unsteady_speaker.label>TODO</OERitualist.degreeDatas.unsteady_speaker.label>
+  <!-- EN: Rituals don’t come naturally to {PAWN_nameDef}, who often falters in rhythm. -->
+  <OERitualist.degreeDatas.unsteady_speaker.description>TODO</OERitualist.degreeDatas.unsteady_speaker.description>
+  <!-- EN: reluctant vessel -->
+  <OERitualist.degreeDatas.reluctant_vessel.label>TODO</OERitualist.degreeDatas.reluctant_vessel.label>
+  <!-- EN: {PAWN_nameDef} resents the sacred rites and performs them poorly. -->
+  <OERitualist.degreeDatas.reluctant_vessel.description>TODO</OERitualist.degreeDatas.reluctant_vessel.description>
+  
+</LanguageData>

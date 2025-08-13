@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Mech Pride -->
+  <OEC_Dominator_Bow.label>TODO</OEC_Dominator_Bow.label>
+  <!-- EN: Reconstructed OEC Bow for use by mechanoids. Extremely armor-piercing and equipped with a melee blade. -->
+  <OEC_Dominator_Bow.description>TODO</OEC_Dominator_Bow.description>
+  <!-- EN: blade -->
+  <OEC_Dominator_Bow.tools.blade.label>TODO</OEC_Dominator_Bow.tools.blade.label>
+  <!-- EN: Mech Pride -->
+  <OEC_Dominator_Bow.verbs.Verb_Shoot.label>TODO</OEC_Dominator_Bow.verbs.Verb_Shoot.label>
+  
+</LanguageData>

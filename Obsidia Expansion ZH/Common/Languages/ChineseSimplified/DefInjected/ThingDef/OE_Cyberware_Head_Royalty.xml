@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cyberware - Psy -->
+  <OE_CyberwareHead_Psy.label>TODO</OE_CyberwareHead_Psy.label>
+  <!-- EN: Obsidia cyberware is technology installed into the human flesh that sometimes has the capability to interface with the nervous system. Its goal is to achieve higher performance and bring new enhancements in psy abilities.\n\nInstallation requires - cyberware interface.\n\nThis cyberware can be installed up to 3 times to increase its effect. -->
+  <OE_CyberwareHead_Psy.description>TODO</OE_CyberwareHead_Psy.description>
+  <!-- EN: Implant {0_label} -->
+  <OE_CyberwareHead_Psy.comps.CompUsableImplant.useLabel>TODO</OE_CyberwareHead_Psy.comps.CompUsableImplant.useLabel>
+  
+</LanguageData>

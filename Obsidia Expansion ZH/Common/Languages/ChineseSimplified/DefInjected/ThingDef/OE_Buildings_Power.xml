@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: large obsidia battery -->
+  <OE_Battery_Large.label>TODO</OE_Battery_Large.label>
+  <!-- EN: Stores huge amounts of electricity for later use. Due to Obsidia technologies, this battery unit is significantly more efficient. Charged large advanced batteries are waterproof and don't explode when exposed to rain. -->
+  <OE_Battery_Large.description>TODO</OE_Battery_Large.description>
+  
+  <!-- EN: obsidia battery -->
+  <OE_Battery_Medium.label>TODO</OE_Battery_Medium.label>
+  <!-- EN: Stores large amounts of electricity for later use. Due to Obsidia technologies, this battery unit is significantly more efficient. Charged large advanced batteries are waterproof and don't explode when exposed to rain. -->
+  <OE_Battery_Medium.description>TODO</OE_Battery_Medium.description>
+  
+  <!-- EN: obsidia geothermal generator -->
+  <OE_GeothermalGenerator.label>TODO</OE_GeothermalGenerator.label>
+  <!-- EN: This small, Obsidia generator produces electricity from geothermal steam geysers. Must be placed on a steam geyser. -->
+  <OE_GeothermalGenerator.description>TODO</OE_GeothermalGenerator.description>
+  
+  <!-- EN: large quantum generator -->
+  <OE_QuantumGenerator_Large.label>TODO</OE_QuantumGenerator_Large.label>
+  <!-- EN: Generates large amounts of free energy, forever, without using fuel. Due to Obsidia technologies, this generator is extremely fragile. -->
+  <OE_QuantumGenerator_Large.description>TODO</OE_QuantumGenerator_Large.description>
+  
+  <!-- EN: quantum generator -->
+  <OE_QuantumGenerator_Medium.label>TODO</OE_QuantumGenerator_Medium.label>
+  <!-- EN: Generates free energy, forever, without using fuel. Due to Obsidia technologies, this generator is extremely fragile. -->
+  <OE_QuantumGenerator_Medium.description>TODO</OE_QuantumGenerator_Medium.description>
+  
+  <!-- EN: portable quantum generator -->
+  <OE_QuantumGenerator_Micro.label>TODO</OE_QuantumGenerator_Micro.label>
+  <!-- EN: Generates small amounts of free energy, forever, without using fuel. Due to Obsidia technologies, this generator is extremely fragile. -->
+  <OE_QuantumGenerator_Micro.description>TODO</OE_QuantumGenerator_Micro.description>
+  
+  <!-- EN: large syntherius powered generator -->
+  <OE_SyntheriusGenerator_Large.label>TODO</OE_SyntheriusGenerator_Large.label>
+  <!-- EN: Produces a large amount of power by consuming syntherius. Must be periodically loaded with syntherius fuel by hand. -->
+  <OE_SyntheriusGenerator_Large.description>TODO</OE_SyntheriusGenerator_Large.description>
+  
+  <!-- EN: syntherius powered generator -->
+  <OE_SyntheriusGenerator_Medium.label>TODO</OE_SyntheriusGenerator_Medium.label>
+  <!-- EN: Produces power by consuming syntherius. Must be periodically loaded with syntherius fuel by hand. -->
+  <OE_SyntheriusGenerator_Medium.description>TODO</OE_SyntheriusGenerator_Medium.description>
+  
+</LanguageData>

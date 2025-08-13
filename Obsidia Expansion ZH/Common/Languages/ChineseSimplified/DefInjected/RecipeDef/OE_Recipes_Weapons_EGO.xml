@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gestate Batterbone -->
+  <OE_Gestate_EGO_BigHammer.label>TODO</OE_Gestate_EGO_BigHammer.label>
+  <!-- EN: Gestate an amalgam Big Hammer - Batterbone. -->
+  <OE_Gestate_EGO_BigHammer.description>TODO</OE_Gestate_EGO_BigHammer.description>
+  <!-- EN: Gestating a Batterbone. -->
+  <OE_Gestate_EGO_BigHammer.jobString>TODO</OE_Gestate_EGO_BigHammer.jobString>
+  
+  <!-- EN: gestate Batterskull -->
+  <OE_Gestate_EGO_BigScythe.label>TODO</OE_Gestate_EGO_BigScythe.label>
+  <!-- EN: Gestate an amalgam Big Scythe - Batterskull. -->
+  <OE_Gestate_EGO_BigScythe.description>TODO</OE_Gestate_EGO_BigScythe.description>
+  <!-- EN: Gestating a Batterskull. -->
+  <OE_Gestate_EGO_BigScythe.jobString>TODO</OE_Gestate_EGO_BigScythe.jobString>
+  
+  <!-- EN: gestate Bonesword -->
+  <OE_Gestate_EGO_BigSword.label>TODO</OE_Gestate_EGO_BigSword.label>
+  <!-- EN: Gestate an amalgam Longsword - Bonesword. -->
+  <OE_Gestate_EGO_BigSword.description>TODO</OE_Gestate_EGO_BigSword.description>
+  <!-- EN: Gestating a Bonesword. -->
+  <OE_Gestate_EGO_BigSword.jobString>TODO</OE_Gestate_EGO_BigSword.jobString>
+  
+  <!-- EN: gestate Devourer -->
+  <OE_Gestate_EGO_Claws.label>TODO</OE_Gestate_EGO_Claws.label>
+  <!-- EN: Gestate an amalgam Claws - Devourer. -->
+  <OE_Gestate_EGO_Claws.description>TODO</OE_Gestate_EGO_Claws.description>
+  <!-- EN: Gestating a Devourer. -->
+  <OE_Gestate_EGO_Claws.jobString>TODO</OE_Gestate_EGO_Claws.jobString>
+  
+  <!-- EN: gestate Lymocyst -->
+  <OE_Gestate_EGO_Knife.label>TODO</OE_Gestate_EGO_Knife.label>
+  <!-- EN: Gestate an amalgam Knife - Lymocyst. -->
+  <OE_Gestate_EGO_Knife.description>TODO</OE_Gestate_EGO_Knife.description>
+  <!-- EN: Gestating a Lymocyst. -->
+  <OE_Gestate_EGO_Knife.jobString>TODO</OE_Gestate_EGO_Knife.jobString>
+  
+  <!-- EN: gestate Humunculus -->
+  <OE_Gestate_EGO_Pistol.label>TODO</OE_Gestate_EGO_Pistol.label>
+  <!-- EN: Gestate an amalgam Pistol - Humunculus. -->
+  <OE_Gestate_EGO_Pistol.description>TODO</OE_Gestate_EGO_Pistol.description>
+  <!-- EN: Gestating a Humunculus. -->
+  <OE_Gestate_EGO_Pistol.jobString>TODO</OE_Gestate_EGO_Pistol.jobString>
+  
+  <!-- EN: gestate Carnifex -->
+  <OE_Gestate_EGO_Scepter.label>TODO</OE_Gestate_EGO_Scepter.label>
+  <!-- EN: Gestate an amalgam Scepter - Carnifex. -->
+  <OE_Gestate_EGO_Scepter.description>TODO</OE_Gestate_EGO_Scepter.description>
+  <!-- EN: Gestating a Carnifex. -->
+  <OE_Gestate_EGO_Scepter.jobString>TODO</OE_Gestate_EGO_Scepter.jobString>
+  
+  <!-- EN: gestate Corrupter -->
+  <OE_Gestate_EGO_Shotgun.label>TODO</OE_Gestate_EGO_Shotgun.label>
+  <!-- EN: Gestate an amalgam Shotgun - Corrupter. -->
+  <OE_Gestate_EGO_Shotgun.description>TODO</OE_Gestate_EGO_Shotgun.description>
+  <!-- EN: Gestating a Corrupter. -->
+  <OE_Gestate_EGO_Shotgun.jobString>TODO</OE_Gestate_EGO_Shotgun.jobString>
+  
+  <!-- EN: gestate Toxocyst -->
+  <OE_Gestate_EGO_SMG.label>TODO</OE_Gestate_EGO_SMG.label>
+  <!-- EN: Gestate an amalgam SMG - Toxocyst. -->
+  <OE_Gestate_EGO_SMG.description>TODO</OE_Gestate_EGO_SMG.description>
+  <!-- EN: Gestating a Toxocyst. -->
+  <OE_Gestate_EGO_SMG.jobString>TODO</OE_Gestate_EGO_SMG.jobString>
+  
+  <!-- EN: gestate Patagius -->
+  <OE_Gestate_EGO_SniperRifle.label>TODO</OE_Gestate_EGO_SniperRifle.label>
+  <!-- EN: Gestate an amalgam Sniper Rifle - Patagius. -->
+  <OE_Gestate_EGO_SniperRifle.description>TODO</OE_Gestate_EGO_SniperRifle.description>
+  <!-- EN: Gestating a Patagius. -->
+  <OE_Gestate_EGO_SniperRifle.jobString>TODO</OE_Gestate_EGO_SniperRifle.jobString>
+  
+  <!-- EN: gestate Proboscis -->
+  <OE_Gestate_EGO_Whip.label>TODO</OE_Gestate_EGO_Whip.label>
+  <!-- EN: Gestate an amalgam Whip - Proboscis. -->
+  <OE_Gestate_EGO_Whip.description>TODO</OE_Gestate_EGO_Whip.description>
+  <!-- EN: Gestating a Proboscis. -->
+  <OE_Gestate_EGO_Whip.jobString>TODO</OE_Gestate_EGO_Whip.jobString>
+  
+</LanguageData>

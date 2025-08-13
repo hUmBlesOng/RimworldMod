@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: CAC Cultist Heavy Armor(Swarmling) -->
+  <CAC_HeavyArmor_Swarmling.label>TODO</CAC_HeavyArmor_Swarmling.label>
+  <!-- EN: Heavy power armor, excellent protects the owner. Designed and modified for use by CAC Cultists.\n\nModified with the pack that allows the user to deploy a battery-powered drones. -->
+  <CAC_HeavyArmor_Swarmling.description>TODO</CAC_HeavyArmor_Swarmling.description>
+  <!-- EN: incendiary -->
+  <CAC_HeavyArmor_Swarmling.comps.CompApparelReloadable.chargeNoun>TODO</CAC_HeavyArmor_Swarmling.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CAC_HeavyArmor_Swarmling.comps.CompApparelReloadable.cooldownGerund>TODO</CAC_HeavyArmor_Swarmling.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: deploy swarmling drone -->
+  <CAC_HeavyArmor_Swarmling.verbs.deploy_swarmling_drone.label>TODO</CAC_HeavyArmor_Swarmling.verbs.deploy_swarmling_drone.label>
+  
+  <!-- EN: CAC Cultist Light Armor(Swarmling) -->
+  <CAC_LightArmor_Swarmling.label>TODO</CAC_LightArmor_Swarmling.label>
+  <!-- EN: Light power armor, well protects the owner. Designed and modified for use by CAC Cultists.\n\nModified with the pack that allows the user to deploy a battery-powered drones. -->
+  <CAC_LightArmor_Swarmling.description>TODO</CAC_LightArmor_Swarmling.description>
+  <!-- EN: incendiary -->
+  <CAC_LightArmor_Swarmling.comps.CompApparelReloadable.chargeNoun>TODO</CAC_LightArmor_Swarmling.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CAC_LightArmor_Swarmling.comps.CompApparelReloadable.cooldownGerund>TODO</CAC_LightArmor_Swarmling.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: deploy swarmling drone -->
+  <CAC_LightArmor_Swarmling.verbs.deploy_swarmling_drone.label>TODO</CAC_LightArmor_Swarmling.verbs.deploy_swarmling_drone.label>
+  
+  <!-- EN: Cultist Swarmling Drone -->
+  <CAC_Swarmling_Drone.label>TODO</CAC_Swarmling_Drone.label>
+  <!-- EN: Cultist Swarmling Drone - small autonomous mechanoid built for efficient elimination. Swarmling Drones are powered by a long-lasting battery. -->
+  <CAC_Swarmling_Drone.description>TODO</CAC_Swarmling_Drone.description>
+  <!-- EN: stinger -->
+  <CAC_Swarmling_Drone.tools.stinger.label>TODO</CAC_Swarmling_Drone.tools.stinger.label>
+  
+  <!-- EN: CAC swarmling pack capsule -->
+  <Grenade_Armor_CAC_SwarmlingPack.label>TODO</Grenade_Armor_CAC_SwarmlingPack.label>
+  
+</LanguageData>

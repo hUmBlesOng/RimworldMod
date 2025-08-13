@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: unfinished amalgam obsidia gear -->
+  <OE_UnfinishedAmalgama.label>TODO</OE_UnfinishedAmalgama.label>
+  <!-- EN: An unfinished amalgam obsidia gear. -->
+  <OE_UnfinishedAmalgama.description>TODO</OE_UnfinishedAmalgama.description>
+  
+  <!-- EN: unfinished obsidia gear -->
+  <OE_UnfinishedGear.label>TODO</OE_UnfinishedGear.label>
+  <!-- EN: An unfinished obsidia gear. -->
+  <OE_UnfinishedGear.description>TODO</OE_UnfinishedGear.description>
+  
+  <!-- EN: unfinished obsidia melee -->
+  <OE_UnfinishedMelee.label>TODO</OE_UnfinishedMelee.label>
+  <!-- EN: An unfinished obsidia melee. -->
+  <OE_UnfinishedMelee.description>TODO</OE_UnfinishedMelee.description>
+  
+  <!-- EN: unfinished obsidia high-tech -->
+  <OE_UnfinishedMods.label>TODO</OE_UnfinishedMods.label>
+  <!-- EN: An unfinished piece of obsidia high-tech. -->
+  <OE_UnfinishedMods.description>TODO</OE_UnfinishedMods.description>
+  
+  <!-- EN: unfinished obsidia gun -->
+  <OE_UnfinishedRanged.label>TODO</OE_UnfinishedRanged.label>
+  <!-- EN: An unfinished obsidia gun. -->
+  <OE_UnfinishedRanged.description>TODO</OE_UnfinishedRanged.description>
+  
+</LanguageData>

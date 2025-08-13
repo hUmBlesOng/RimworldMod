@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Cyber Arachna turret -->
+  <OE_CyberArachna_Pistol.label>TODO</OE_CyberArachna_Pistol.label>
+  <!-- EN: A small reconstructed CAC Pistol for turrets designed for use on a the Cyber Arachna. -->
+  <OE_CyberArachna_Pistol.description>TODO</OE_CyberArachna_Pistol.description>
+  <!-- EN: Cyber Arachna turret -->
+  <OE_CyberArachna_Pistol.verbs.Verb_Shoot.label>TODO</OE_CyberArachna_Pistol.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Cyber Arachna turret -->
+  <OE_CyberArachna_Shotgun.label>TODO</OE_CyberArachna_Shotgun.label>
+  <!-- EN: A small reconstructed CAC Shotgun for turrets designed for use on a the Cyber Arachna. -->
+  <OE_CyberArachna_Shotgun.description>TODO</OE_CyberArachna_Shotgun.description>
+  <!-- EN: Cyber Arachna turret -->
+  <OE_CyberArachna_Shotgun.verbs.Verb_Shoot.label>TODO</OE_CyberArachna_Shotgun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Cyber Arachna turret -->
+  <OE_CyberArachna_SniperRifle.label>TODO</OE_CyberArachna_SniperRifle.label>
+  <!-- EN: A small reconstructed CAC Sniper Rifle for turrets designed for use on a the Cyber Arachna. -->
+  <OE_CyberArachna_SniperRifle.description>TODO</OE_CyberArachna_SniperRifle.description>
+  <!-- EN: Cyber Arachna turret -->
+  <OE_CyberArachna_SniperRifle.verbs.Verb_Shoot.label>TODO</OE_CyberArachna_SniperRifle.verbs.Verb_Shoot.label>
+  
+</LanguageData>

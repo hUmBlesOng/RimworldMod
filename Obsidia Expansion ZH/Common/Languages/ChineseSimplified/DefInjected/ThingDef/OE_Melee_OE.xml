@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Proto Nemesis -->
+  <OE_Hammer.label>TODO</OE_Hammer.label>
+  <!-- EN: Proto Hammer, designed for use by Obsidia Empire warriors several centuries ago. -->
+  <OE_Hammer.description>TODO</OE_Hammer.description>
+  <!-- EN: handle -->
+  <OE_Hammer.tools.handle.label>TODO</OE_Hammer.tools.handle.label>
+  <!-- EN: head -->
+  <OE_Hammer.tools.head.label>TODO</OE_Hammer.tools.head.label>
+  
+  <!-- EN: Proto Elitra -->
+  <OE_Spear.label>TODO</OE_Spear.label>
+  <!-- EN: Proto Spear, designed for use by Obsidia Empire warriors several centuries ago. -->
+  <OE_Spear.description>TODO</OE_Spear.description>
+  <!-- EN: shaft -->
+  <OE_Spear.tools.shaft.label>TODO</OE_Spear.tools.shaft.label>
+  <!-- EN: point -->
+  <OE_Spear.tools.point.label>TODO</OE_Spear.tools.point.label>
+  
+  <!-- EN: Proto Delimiter -->
+  <OE_Sword.label>TODO</OE_Sword.label>
+  <!-- EN: Proto Sword, designed for use by Obsidia Empire warriors several centuries ago. -->
+  <OE_Sword.description>TODO</OE_Sword.description>
+  <!-- EN: handle -->
+  <OE_Sword.tools.handle.label>TODO</OE_Sword.tools.handle.label>
+  <!-- EN: point -->
+  <OE_Sword.tools.point.label>TODO</OE_Sword.tools.point.label>
+  <!-- EN: edge -->
+  <OE_Sword.tools.edge.label>TODO</OE_Sword.tools.edge.label>
+  
+</LanguageData>

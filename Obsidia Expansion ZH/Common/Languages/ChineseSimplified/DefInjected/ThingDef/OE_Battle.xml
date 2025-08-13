@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: joltixin -->
+  <OE_Joltixin.label>TODO</OE_Joltixin.label>
+  <!-- EN: A specialized combat stimpack with 3 stages of effect (the effect weakens over time), intended for use by gunners. Obsidia technology, a stimpack can be addictive and has unpleasant side effects. -->
+  <OE_Joltixin.description>TODO</OE_Joltixin.description>
+  <!-- EN: Take {0} -->
+  <OE_Joltixin.ingestible.ingestCommandString>TODO</OE_Joltixin.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <OE_Joltixin.ingestible.ingestReportString>TODO</OE_Joltixin.ingestible.ingestReportString>
+  
+  <!-- EN: torraxin -->
+  <OE_Torraxin.label>TODO</OE_Torraxin.label>
+  <!-- EN: A specialized combat stimpack with 3 stages of effect (the effect weakens over time), intended for use by melee fighters. Obsidia technology, a stimpack can be addictive and has unpleasant side effects. -->
+  <OE_Torraxin.description>TODO</OE_Torraxin.description>
+  <!-- EN: Take {0} -->
+  <OE_Torraxin.ingestible.ingestCommandString>TODO</OE_Torraxin.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <OE_Torraxin.ingestible.ingestReportString>TODO</OE_Torraxin.ingestible.ingestReportString>
+  
+</LanguageData>

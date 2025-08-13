@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Reset Batterbone -->
+  <OE_Reset_EGO_BigHammer.label>TODO</OE_Reset_EGO_BigHammer.label>
+  <!-- EN: Reset a Batterbone.\n\nWarning! Persona traits will be changed. -->
+  <OE_Reset_EGO_BigHammer.description>TODO</OE_Reset_EGO_BigHammer.description>
+  <!-- EN: Resetting a Batterbone. -->
+  <OE_Reset_EGO_BigHammer.jobString>TODO</OE_Reset_EGO_BigHammer.jobString>
+  
+  <!-- EN: Reset Batterskull -->
+  <OE_Reset_EGO_BigScythe.label>TODO</OE_Reset_EGO_BigScythe.label>
+  <!-- EN: Reset a Batterskull.\n\nWarning! Persona traits will be changed. -->
+  <OE_Reset_EGO_BigScythe.description>TODO</OE_Reset_EGO_BigScythe.description>
+  <!-- EN: Resetting a Batterskull. -->
+  <OE_Reset_EGO_BigScythe.jobString>TODO</OE_Reset_EGO_BigScythe.jobString>
+  
+  <!-- EN: Reset Bonesword -->
+  <OE_Reset_EGO_BigSword.label>TODO</OE_Reset_EGO_BigSword.label>
+  <!-- EN: Reset a Bonesword.\n\nWarning! Persona traits will be changed. -->
+  <OE_Reset_EGO_BigSword.description>TODO</OE_Reset_EGO_BigSword.description>
+  <!-- EN: Resetting a Bonesword. -->
+  <OE_Reset_EGO_BigSword.jobString>TODO</OE_Reset_EGO_BigSword.jobString>
+  
+  <!-- EN: Reset Devourer -->
+  <OE_Reset_EGO_Claws.label>TODO</OE_Reset_EGO_Claws.label>
+  <!-- EN: Reset a Devourer.\n\nWarning! Persona traits will be changed. -->
+  <OE_Reset_EGO_Claws.description>TODO</OE_Reset_EGO_Claws.description>
+  <!-- EN: Resetting a Devourer. -->
+  <OE_Reset_EGO_Claws.jobString>TODO</OE_Reset_EGO_Claws.jobString>
+  
+  <!-- EN: Reset Lymocyst -->
+  <OE_Reset_EGO_Knife.label>TODO</OE_Reset_EGO_Knife.label>
+  <!-- EN: Reset a Lymocyst.\n\nWarning! Persona traits will be changed. -->
+  <OE_Reset_EGO_Knife.description>TODO</OE_Reset_EGO_Knife.description>
+  <!-- EN: Resetting a Lymocyst. -->
+  <OE_Reset_EGO_Knife.jobString>TODO</OE_Reset_EGO_Knife.jobString>
+  
+  <!-- EN: Reset Carnifex -->
+  <OE_Reset_EGO_Scepter.label>TODO</OE_Reset_EGO_Scepter.label>
+  <!-- EN: Reset a Carnifex.\n\nWarning! Persona traits will be changed. -->
+  <OE_Reset_EGO_Scepter.description>TODO</OE_Reset_EGO_Scepter.description>
+  <!-- EN: Resetting a Carnifex. -->
+  <OE_Reset_EGO_Scepter.jobString>TODO</OE_Reset_EGO_Scepter.jobString>
+  
+  <!-- EN: Reset Proboscis -->
+  <OE_Reset_EGO_Whip.label>TODO</OE_Reset_EGO_Whip.label>
+  <!-- EN: Reset a Proboscis.\n\nWarning! Persona traits will be changed. -->
+  <OE_Reset_EGO_Whip.description>TODO</OE_Reset_EGO_Whip.description>
+  <!-- EN: Resetting a Proboscis. -->
+  <OE_Reset_EGO_Whip.jobString>TODO</OE_Reset_EGO_Whip.jobString>
+  
+</LanguageData>

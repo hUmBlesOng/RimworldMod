@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: CAC Cultist Heavy Armor(Overseer) -->
+  <CAC_HeavyArmor_Mechanitor.label>TODO</CAC_HeavyArmor_Mechanitor.label>
+  <!-- EN: Heavy power armor, excellent protects the owner. Designed and modified for use by CAC Cultists.\n\nModified with the addition of a Mechanoids Control pack. -->
+  <CAC_HeavyArmor_Mechanitor.description>TODO</CAC_HeavyArmor_Mechanitor.description>
+  
+  <!-- EN: CAC Cultist Light Armor(Overseer) -->
+  <CAC_LightArmor_Mechanitor.label>TODO</CAC_LightArmor_Mechanitor.label>
+  <!-- EN: Light power armor, well protects the owner. Designed and modified for use by CAC Cultists.\n\nModified with the addition of a Mechanoids Control pack. -->
+  <CAC_LightArmor_Mechanitor.description>TODO</CAC_LightArmor_Mechanitor.description>
+  
+</LanguageData>

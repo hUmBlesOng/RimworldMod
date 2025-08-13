@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient NeuroSync obsidia antenna -->
+  <OE_AncientHeroicAntenna.label>TODO</OE_AncientHeroicAntenna.label>
+  <!-- EN: This ancient antenna, once widespread across the Obsidia Empire during the Obsidia Empire Heroes times, was a vital tool used to maintain tireless vigilance and unwavering productivity among its people. This ancient artifact broadcasts a NeuroSync wave that directly affects the brain, eradicating sleep requirements and enhancing cognitive performance. Its field keeps those in range alert and motivated. -->
+  <OE_AncientHeroicAntenna.description>TODO</OE_AncientHeroicAntenna.description>
+  
+  <!-- EN: obsidia broken drill -->
+  <OE_BrokenDrill.label>TODO</OE_BrokenDrill.label>
+  <!-- EN: Old Obsidia deep drill prototype. Unusable for drilling rig for extracting minerals from deep under the surface. But still can disturb something living in the depths. -->
+  <OE_BrokenDrill.description>TODO</OE_BrokenDrill.description>
+  
+</LanguageData>

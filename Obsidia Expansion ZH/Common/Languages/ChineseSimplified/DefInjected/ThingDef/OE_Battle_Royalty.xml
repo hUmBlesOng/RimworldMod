@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: luraxin -->
+  <OE_Luraxin.label>TODO</OE_Luraxin.label>
+  <!-- EN: A specialized combat stimpack with 3 stages of effect (the effect weakens over time), intended for use by psy-users. Obsidia technology, a stimpack can be addictive and has unpleasant side effects. -->
+  <OE_Luraxin.description>TODO</OE_Luraxin.description>
+  <!-- EN: Take {0} -->
+  <OE_Luraxin.ingestible.ingestCommandString>TODO</OE_Luraxin.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <OE_Luraxin.ingestible.ingestReportString>TODO</OE_Luraxin.ingestible.ingestReportString>
+  
+</LanguageData>

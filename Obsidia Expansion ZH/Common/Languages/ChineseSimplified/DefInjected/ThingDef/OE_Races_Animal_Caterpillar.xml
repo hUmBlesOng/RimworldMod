@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: obsidia caterpillar -->
+  <OE_Caterpillar_Arctic.label>TODO</OE_Caterpillar_Arctic.label>
+  <!-- EN: Caterpillar is a genetically engineered creature. Scientists planned to create a small, peaceful creature that would serve as a convenient source of meat.\n\nThis specimen adapted to life at cold temperatures. -->
+  <OE_Caterpillar_Arctic.description>TODO</OE_Caterpillar_Arctic.description>
+  <!-- EN: mandibles -->
+  <OE_Caterpillar_Arctic.tools.mandibles.label>TODO</OE_Caterpillar_Arctic.tools.mandibles.label>
+  <!-- EN: head -->
+  <OE_Caterpillar_Arctic.tools.head.label>TODO</OE_Caterpillar_Arctic.tools.head.label>
+  
+  <!-- EN: obsidia caterpillar -->
+  <OE_Caterpillar_Brown.label>TODO</OE_Caterpillar_Brown.label>
+  <!-- EN: Caterpillar is a genetically engineered creature. Scientists planned to create a small, peaceful creature that would serve as a convenient source of meat.\n\nThis specimen adapted to life at average temperatures. -->
+  <OE_Caterpillar_Brown.description>TODO</OE_Caterpillar_Brown.description>
+  <!-- EN: mandibles -->
+  <OE_Caterpillar_Brown.tools.mandibles.label>TODO</OE_Caterpillar_Brown.tools.mandibles.label>
+  <!-- EN: head -->
+  <OE_Caterpillar_Brown.tools.head.label>TODO</OE_Caterpillar_Brown.tools.head.label>
+  
+  <!-- EN: obsidia caterpillar -->
+  <OE_Caterpillar_Desert.label>TODO</OE_Caterpillar_Desert.label>
+  <!-- EN: Caterpillar is a genetically engineered creature. Scientists planned to create a small, peaceful creature that would serve as a convenient source of meat.\n\nThis specimen adapted to life at hot temperatures. -->
+  <OE_Caterpillar_Desert.description>TODO</OE_Caterpillar_Desert.description>
+  <!-- EN: mandibles -->
+  <OE_Caterpillar_Desert.tools.mandibles.label>TODO</OE_Caterpillar_Desert.tools.mandibles.label>
+  <!-- EN: head -->
+  <OE_Caterpillar_Desert.tools.head.label>TODO</OE_Caterpillar_Desert.tools.head.label>
+  
+</LanguageData>

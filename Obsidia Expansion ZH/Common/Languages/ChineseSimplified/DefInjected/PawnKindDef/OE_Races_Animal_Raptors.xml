@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: raptor -->
+  <OE_Raptor.label>TODO</OE_Raptor.label>
+  <!-- EN: raptors -->
+  <OE_Raptor.labelPlural>TODO</OE_Raptor.labelPlural>
+  <!-- EN: raptor juvenile -->
+  <OE_Raptor.lifeStages.raptor_juvenile.label>TODO</OE_Raptor.lifeStages.raptor_juvenile.label>
+  <!-- EN: raptor juveniles -->
+  <OE_Raptor.lifeStages.raptor_juvenile.labelPlural>TODO</OE_Raptor.lifeStages.raptor_juvenile.labelPlural>
+  
+</LanguageData>

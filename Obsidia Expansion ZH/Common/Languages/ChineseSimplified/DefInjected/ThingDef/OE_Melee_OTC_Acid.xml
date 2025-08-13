@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Genesis(Acid) -->
+  <OTC_BigAxe_Acid.label>TODO</OTC_BigAxe_Acid.label>
+  <!-- EN: Regular Big Axe used by OTC Mechanics. Charged with Acid damage. -->
+  <OTC_BigAxe_Acid.description>TODO</OTC_BigAxe_Acid.description>
+  <!-- EN: handle -->
+  <OTC_BigAxe_Acid.tools.handle.label>TODO</OTC_BigAxe_Acid.tools.handle.label>
+  <!-- EN: edge -->
+  <OTC_BigAxe_Acid.tools.edge.label>TODO</OTC_BigAxe_Acid.tools.edge.label>
+  
+  <!-- EN: Genesis Prototype(Acid) -->
+  <OTC_BigAxe_M_Acid.label>TODO</OTC_BigAxe_M_Acid.label>
+  <!-- EN: Experimental Big Axe used by OTC Engineers. Charged with Acid damage. -->
+  <OTC_BigAxe_M_Acid.description>TODO</OTC_BigAxe_M_Acid.description>
+  <!-- EN: handle -->
+  <OTC_BigAxe_M_Acid.tools.handle.label>TODO</OTC_BigAxe_M_Acid.tools.handle.label>
+  <!-- EN: edge -->
+  <OTC_BigAxe_M_Acid.tools.edge.label>TODO</OTC_BigAxe_M_Acid.tools.edge.label>
+  
+  <!-- EN: Netherbane(Acid) -->
+  <OTC_ChainAxe_Acid.label>TODO</OTC_ChainAxe_Acid.label>
+  <!-- EN: Regular Chainaxe used by OTC Mechanics. Charged with Acid damage. -->
+  <OTC_ChainAxe_Acid.description>TODO</OTC_ChainAxe_Acid.description>
+  <!-- EN: handle -->
+  <OTC_ChainAxe_Acid.tools.handle.label>TODO</OTC_ChainAxe_Acid.tools.handle.label>
+  <!-- EN: chain -->
+  <OTC_ChainAxe_Acid.tools.chain.label>TODO</OTC_ChainAxe_Acid.tools.chain.label>
+  
+  <!-- EN: Netherbane Prototype(Acid) -->
+  <OTC_ChainAxe_M_Acid.label>TODO</OTC_ChainAxe_M_Acid.label>
+  <!-- EN: Experimental Chainaxe used by OTC Engineers. Charged with Acid damage. -->
+  <OTC_ChainAxe_M_Acid.description>TODO</OTC_ChainAxe_M_Acid.description>
+  <!-- EN: handle -->
+  <OTC_ChainAxe_M_Acid.tools.handle.label>TODO</OTC_ChainAxe_M_Acid.tools.handle.label>
+  <!-- EN: chain -->
+  <OTC_ChainAxe_M_Acid.tools.chain.label>TODO</OTC_ChainAxe_M_Acid.tools.chain.label>
+  
+  <!-- EN: Nemesis(Acid) -->
+  <OTC_Hammer_Acid.label>TODO</OTC_Hammer_Acid.label>
+  <!-- EN: Regular Hammer used by OTC Mechanics. Charged with Acid damage. -->
+  <OTC_Hammer_Acid.description>TODO</OTC_Hammer_Acid.description>
+  <!-- EN: handle -->
+  <OTC_Hammer_Acid.tools.handle.label>TODO</OTC_Hammer_Acid.tools.handle.label>
+  <!-- EN: head -->
+  <OTC_Hammer_Acid.tools.head.label>TODO</OTC_Hammer_Acid.tools.head.label>
+  
+  <!-- EN: Nemesis Prototype(Acid) -->
+  <OTC_Hammer_M_Acid.label>TODO</OTC_Hammer_M_Acid.label>
+  <!-- EN: Experimental Hammer used by OTC Engineers. Charged with Acid damage. -->
+  <OTC_Hammer_M_Acid.description>TODO</OTC_Hammer_M_Acid.description>
+  <!-- EN: handle -->
+  <OTC_Hammer_M_Acid.tools.handle.label>TODO</OTC_Hammer_M_Acid.tools.handle.label>
+  <!-- EN: head -->
+  <OTC_Hammer_M_Acid.tools.head.label>TODO</OTC_Hammer_M_Acid.tools.head.label>
+  
+</LanguageData>

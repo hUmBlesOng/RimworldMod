@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Grand Proton Rifle bullet -->
+  <Bullet_OE_ChaosLord_Cannon.label>TODO</Bullet_OE_ChaosLord_Cannon.label>
+  
+  <!-- EN: Grand Proton Rifle -->
+  <OE_ChaosLord_Cannon.label>TODO</OE_ChaosLord_Cannon.label>
+  <!-- EN: Unique Rifle specially designed for the Chaos Lord. -->
+  <OE_ChaosLord_Cannon.description>TODO</OE_ChaosLord_Cannon.description>
+  <!-- EN: blade -->
+  <OE_ChaosLord_Cannon.tools.blade.label>TODO</OE_ChaosLord_Cannon.tools.blade.label>
+  <!-- EN: Grand Proton Rifle -->
+  <OE_ChaosLord_Cannon.verbs.Verb_Shoot.label>TODO</OE_ChaosLord_Cannon.verbs.Verb_Shoot.label>
+  
+</LanguageData>

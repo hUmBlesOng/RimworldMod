@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: OMC turret pack capsule -->
+  <Grenade_Armor_OMC_TurretPack.label>TODO</Grenade_Armor_OMC_TurretPack.label>
+  
+  <!-- EN: OMC Officer Armor(Goblin) -->
+  <OMC_Armor_M_Turret.label>TODO</OMC_Armor_M_Turret.label>
+  <!-- EN: Medium power armor, perfectly protects the owner with little mobility restriction. Designed and modified for use by OMC Regular Officers.\n\nModified with the pack that allows the user to deploy a battery-powered turret. -->
+  <OMC_Armor_M_Turret.description>TODO</OMC_Armor_M_Turret.description>
+  <!-- EN: incendiary -->
+  <OMC_Armor_M_Turret.comps.CompApparelReloadable.chargeNoun>TODO</OMC_Armor_M_Turret.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OMC_Armor_M_Turret.comps.CompApparelReloadable.cooldownGerund>TODO</OMC_Armor_M_Turret.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: deploy turret -->
+  <OMC_Armor_M_Turret.verbs.deploy_turret.label>TODO</OMC_Armor_M_Turret.verbs.deploy_turret.label>
+  
+  <!-- EN: Impaler MK-II Turret -->
+  <OMC_Gun_TacticalTurret.label>TODO</OMC_Gun_TacticalTurret.label>
+  <!-- EN: Reconstructed OMC Auto Pistol for turrets. -->
+  <OMC_Gun_TacticalTurret.description>TODO</OMC_Gun_TacticalTurret.description>
+  <!-- EN: Impaler MK-II Turret -->
+  <OMC_Gun_TacticalTurret.verbs.Verb_Shoot.label>TODO</OMC_Gun_TacticalTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: OMC tactical turret -->
+  <OMC_Turret_TacticalTurret.label>TODO</OMC_Turret_TacticalTurret.label>
+  <!-- EN: An automatic OMC Auto Pistol-equipped turret. It will stop functioning once its battery runs out. -->
+  <OMC_Turret_TacticalTurret.description>TODO</OMC_Turret_TacticalTurret.description>
+  <!-- EN: Battery power -->
+  <OMC_Turret_TacticalTurret.comps.CompMechPowerCell.labelOverride>TODO</OMC_Turret_TacticalTurret.comps.CompMechPowerCell.labelOverride>
+  <!-- EN: This turret has a limited battery life. Once it runs out, it will stop working entirely. -->
+  <OMC_Turret_TacticalTurret.comps.CompMechPowerCell.tooltipOverride>TODO</OMC_Turret_TacticalTurret.comps.CompMechPowerCell.tooltipOverride>
+  
+</LanguageData>

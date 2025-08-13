@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cyberware - Drug filter(Basic) -->
+  <OE_CyberwareTorso_Drugfilter_Basic.label>TODO</OE_CyberwareTorso_Drugfilter_Basic.label>
+  <!-- EN: Obsidia cyberware is technology installed into the human flesh that sometimes has the capability to interface with the nervous system. Its goal is to achieve higher performance and preventing the host from feeling any negative side effects from not indulging in their addictions. Works only with basic drugs.\n\nInstallation requires - cyberware interface.\n\nThis cyberware can be installed up to 3 times to increase its effect. -->
+  <OE_CyberwareTorso_Drugfilter_Basic.description>TODO</OE_CyberwareTorso_Drugfilter_Basic.description>
+  <!-- EN: Implant {0_label} -->
+  <OE_CyberwareTorso_Drugfilter_Basic.comps.CompUsableImplant.useLabel>TODO</OE_CyberwareTorso_Drugfilter_Basic.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: cyberware - Drug filter(Exotic) -->
+  <OE_CyberwareTorso_Drugfilter_Exotic.label>TODO</OE_CyberwareTorso_Drugfilter_Exotic.label>
+  <!-- EN: Obsidia cyberware is technology installed into the human flesh that sometimes has the capability to interface with the nervous system. Its goal is to achieve higher performance and preventing the host from feeling any negative side effects from not indulging in their addictions. Works only with rare exotic drugs.\n\nInstallation requires - cyberware interface.\n\nThis cyberware can be installed up to 3 times to increase its effect. -->
+  <OE_CyberwareTorso_Drugfilter_Exotic.description>TODO</OE_CyberwareTorso_Drugfilter_Exotic.description>
+  <!-- EN: Implant {0_label} -->
+  <OE_CyberwareTorso_Drugfilter_Exotic.comps.CompUsableImplant.useLabel>TODO</OE_CyberwareTorso_Drugfilter_Exotic.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: cyberware - Drug filter(Obsidia) -->
+  <OE_CyberwareTorso_Drugfilter_Obsidia.label>TODO</OE_CyberwareTorso_Drugfilter_Obsidia.label>
+  <!-- EN: Obsidia cyberware is technology installed into the human flesh that sometimes has the capability to interface with the nervous system. Its goal is to achieve higher performance and preventing the host from feeling any negative side effects from not indulging in their addictions. Works only with obsidia drugs.\n\nInstallation requires - cyberware interface.\n\nThis cyberware can be installed up to 3 times to increase its effect. -->
+  <OE_CyberwareTorso_Drugfilter_Obsidia.description>TODO</OE_CyberwareTorso_Drugfilter_Obsidia.description>
+  <!-- EN: Implant {0_label} -->
+  <OE_CyberwareTorso_Drugfilter_Obsidia.comps.CompUsableImplant.useLabel>TODO</OE_CyberwareTorso_Drugfilter_Obsidia.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: cyberware - Temperature protector -->
+  <OE_CyberwareTorso_Temperature.label>TODO</OE_CyberwareTorso_Temperature.label>
+  <!-- EN: Obsidia cyberware is technology installed into the human flesh that sometimes has the capability to interface with the nervous system. Its goal is to achieve higher performance and bring new enhancements comfortable temperature.\n\nInstallation requires - cyberware interface.\n\nThis cyberware can be installed up to 5 times to increase its effect. -->
+  <OE_CyberwareTorso_Temperature.description>TODO</OE_CyberwareTorso_Temperature.description>
+  <!-- EN: Implant {0_label} -->
+  <OE_CyberwareTorso_Temperature.comps.CompUsableImplant.useLabel>TODO</OE_CyberwareTorso_Temperature.comps.CompUsableImplant.useLabel>
+  
+</LanguageData>

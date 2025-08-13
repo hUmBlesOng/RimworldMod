@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Cronus charge -->
+  <Bullet_OCC_Trophy_RG.label>TODO</Bullet_OCC_Trophy_RG.label>
+  
+  <!-- EN: Inlaid Cronus charge -->
+  <Bullet_OCC_Trophy_RG_I.label>TODO</Bullet_OCC_Trophy_RG_I.label>
+  
+  <!-- EN: Balor -->
+  <OCC_Trophy_Drillspear.label>TODO</OCC_Trophy_Drillspear.label>
+  <!-- EN: Spear-drill, a replica of the personal weapon of the great siegemaster Balor.\n\nThis is a rare trophy weapon.\n\nFeature: designed to destroy structures.\n\nInlaid with Might Power Stone: Weapon combat stats increased. -->
+  <OCC_Trophy_Drillspear.description>TODO</OCC_Trophy_Drillspear.description>
+  <!-- EN: handle -->
+  <OCC_Trophy_Drillspear.tools.handle.label>TODO</OCC_Trophy_Drillspear.tools.handle.label>
+  <!-- EN: drill -->
+  <OCC_Trophy_Drillspear.tools.drill.label>TODO</OCC_Trophy_Drillspear.tools.drill.label>
+  
+  <!-- EN: Inlaid Balor -->
+  <OCC_Trophy_Drillspear_I.label>TODO</OCC_Trophy_Drillspear_I.label>
+  <!-- EN: Spear-drill, a replica of the personal weapon of the great siegemaster Balor.\n\nThis is a rare trophy weapon.\n\nFeature: designed to destroy structures.\n\nInlaid with Might Power Stone: Weapon combat stats increased. -->
+  <OCC_Trophy_Drillspear_I.description>TODO</OCC_Trophy_Drillspear_I.description>
+  <!-- EN: handle -->
+  <OCC_Trophy_Drillspear_I.tools.handle.label>TODO</OCC_Trophy_Drillspear_I.tools.handle.label>
+  <!-- EN: drill -->
+  <OCC_Trophy_Drillspear_I.tools.drill.label>TODO</OCC_Trophy_Drillspear_I.tools.drill.label>
+  
+  <!-- EN: Cronus -->
+  <OCC_Trophy_Railgun.label>TODO</OCC_Trophy_Railgun.label>
+  <!-- EN: Sample weapon of new experimental railgun.\n\nThis is a rare trophy weapon.\n\nFeature: ultra-fast explosive projectiles. -->
+  <OCC_Trophy_Railgun.description>TODO</OCC_Trophy_Railgun.description>
+  <!-- EN: stock -->
+  <OCC_Trophy_Railgun.tools.stock.label>TODO</OCC_Trophy_Railgun.tools.stock.label>
+  <!-- EN: barrel -->
+  <OCC_Trophy_Railgun.tools.barrel.label>TODO</OCC_Trophy_Railgun.tools.barrel.label>
+  <!-- EN: Cronus -->
+  <OCC_Trophy_Railgun.verbs.Verb_Shoot.label>TODO</OCC_Trophy_Railgun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Inlaid Cronus -->
+  <OCC_Trophy_Railgun_I.label>TODO</OCC_Trophy_Railgun_I.label>
+  <!-- EN: Sample weapon of new experimental railgun.\n\nThis is a rare trophy weapon.\n\nFeature: ultra-fast explosive projectiles.\n\nInlaid with Dexterity Power Stone: Weapon performance stats increased. -->
+  <OCC_Trophy_Railgun_I.description>TODO</OCC_Trophy_Railgun_I.description>
+  <!-- EN: stock -->
+  <OCC_Trophy_Railgun_I.tools.stock.label>TODO</OCC_Trophy_Railgun_I.tools.stock.label>
+  <!-- EN: barrel -->
+  <OCC_Trophy_Railgun_I.tools.barrel.label>TODO</OCC_Trophy_Railgun_I.tools.barrel.label>
+  <!-- EN: Inlaid Cronus -->
+  <OCC_Trophy_Railgun_I.verbs.Verb_Shoot.label>TODO</OCC_Trophy_Railgun_I.verbs.Verb_Shoot.label>
+  
+</LanguageData>

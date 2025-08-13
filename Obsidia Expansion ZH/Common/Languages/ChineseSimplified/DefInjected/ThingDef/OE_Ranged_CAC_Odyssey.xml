@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Paragon Blackout -->
+  <CAC_Minigun_P.label>TODO</CAC_Minigun_P.label>
+  <!-- EN: Paragon Minigun used by CAC Cultists. Specially modified weapon with increased power but difficult to handle. -->
+  <CAC_Minigun_P.description>TODO</CAC_Minigun_P.description>
+  <!-- EN: charge -->
+  <CAC_Minigun_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</CAC_Minigun_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CAC_Minigun_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</CAC_Minigun_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Blackout -->
+  <CAC_Minigun_P.comps.CompUniqueWeapon.namerLabels.0>TODO</CAC_Minigun_P.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: barrels -->
+  <CAC_Minigun_P.tools.barrels.label>TODO</CAC_Minigun_P.tools.barrels.label>
+  <!-- EN: Paragon Blackout -->
+  <CAC_Minigun_P.verbs.Verb_Shoot.label>TODO</CAC_Minigun_P.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Paragon Silentsong -->
+  <CAC_Pistol_P.label>TODO</CAC_Pistol_P.label>
+  <!-- EN: Paragon Pistol used by CAC Cultists. Specially modified weapon with increased power but difficult to handle. -->
+  <CAC_Pistol_P.description>TODO</CAC_Pistol_P.description>
+  <!-- EN: charge -->
+  <CAC_Pistol_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</CAC_Pistol_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CAC_Pistol_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</CAC_Pistol_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Silentsong -->
+  <CAC_Pistol_P.comps.CompUniqueWeapon.namerLabels.0>TODO</CAC_Pistol_P.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: grip -->
+  <CAC_Pistol_P.tools.grip.label>TODO</CAC_Pistol_P.tools.grip.label>
+  <!-- EN: barrel -->
+  <CAC_Pistol_P.tools.barrel.label>TODO</CAC_Pistol_P.tools.barrel.label>
+  <!-- EN: Paragon Silentsong -->
+  <CAC_Pistol_P.verbs.Verb_Shoot.label>TODO</CAC_Pistol_P.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Paragon Grieving -->
+  <CAC_Shotgun_P.label>TODO</CAC_Shotgun_P.label>
+  <!-- EN: Paragon Shotgun used by CAC Cultists. Specially modified weapon with increased power but difficult to handle. -->
+  <CAC_Shotgun_P.description>TODO</CAC_Shotgun_P.description>
+  <!-- EN: charge -->
+  <CAC_Shotgun_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</CAC_Shotgun_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CAC_Shotgun_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</CAC_Shotgun_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Grieving -->
+  <CAC_Shotgun_P.comps.CompUniqueWeapon.namerLabels.0>TODO</CAC_Shotgun_P.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: stock -->
+  <CAC_Shotgun_P.tools.stock.label>TODO</CAC_Shotgun_P.tools.stock.label>
+  <!-- EN: barrel -->
+  <CAC_Shotgun_P.tools.barrel.label>TODO</CAC_Shotgun_P.tools.barrel.label>
+  <!-- EN: Paragon Grieving -->
+  <CAC_Shotgun_P.verbs.Verb_Shoot.label>TODO</CAC_Shotgun_P.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Paragon Heartstriker -->
+  <CAC_ShotgunS_P.label>TODO</CAC_ShotgunS_P.label>
+  <!-- EN: Paragon Shotgun Sidearm used by CAC Cultists. Specially modified weapon with increased power but difficult to handle. -->
+  <CAC_ShotgunS_P.description>TODO</CAC_ShotgunS_P.description>
+  <!-- EN: charge -->
+  <CAC_ShotgunS_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</CAC_ShotgunS_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CAC_ShotgunS_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</CAC_ShotgunS_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Heartstriker -->
+  <CAC_ShotgunS_P.comps.CompUniqueWeapon.namerLabels.0>TODO</CAC_ShotgunS_P.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: grip -->
+  <CAC_ShotgunS_P.tools.grip.label>TODO</CAC_ShotgunS_P.tools.grip.label>
+  <!-- EN: barrel -->
+  <CAC_ShotgunS_P.tools.barrel.label>TODO</CAC_ShotgunS_P.tools.barrel.label>
+  <!-- EN: Paragon Heartstriker -->
+  <CAC_ShotgunS_P.verbs.Verb_Shoot.label>TODO</CAC_ShotgunS_P.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Paragon Echo -->
+  <CAC_SMG_P.label>TODO</CAC_SMG_P.label>
+  <!-- EN: Paragon SMG used by CAC Cultists. Specially modified weapon with increased power but difficult to handle. -->
+  <CAC_SMG_P.description>TODO</CAC_SMG_P.description>
+  <!-- EN: charge -->
+  <CAC_SMG_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</CAC_SMG_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CAC_SMG_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</CAC_SMG_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Echo -->
+  <CAC_SMG_P.comps.CompUniqueWeapon.namerLabels.0>TODO</CAC_SMG_P.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: stock -->
+  <CAC_SMG_P.tools.stock.label>TODO</CAC_SMG_P.tools.stock.label>
+  <!-- EN: barrel -->
+  <CAC_SMG_P.tools.barrel.label>TODO</CAC_SMG_P.tools.barrel.label>
+  <!-- EN: Paragon Echo -->
+  <CAC_SMG_P.verbs.Verb_Shoot.label>TODO</CAC_SMG_P.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Paragon Widowmaker -->
+  <CAC_SniperRifle_P.label>TODO</CAC_SniperRifle_P.label>
+  <!-- EN: Paragon Sniper Rifle used by CAC Cultists. Specially modified weapon with increased power but difficult to handle. -->
+  <CAC_SniperRifle_P.description>TODO</CAC_SniperRifle_P.description>
+  <!-- EN: charge -->
+  <CAC_SniperRifle_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</CAC_SniperRifle_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CAC_SniperRifle_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</CAC_SniperRifle_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Widowmaker -->
+  <CAC_SniperRifle_P.comps.CompUniqueWeapon.namerLabels.0>TODO</CAC_SniperRifle_P.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: stock -->
+  <CAC_SniperRifle_P.tools.stock.label>TODO</CAC_SniperRifle_P.tools.stock.label>
+  <!-- EN: barrel -->
+  <CAC_SniperRifle_P.tools.barrel.label>TODO</CAC_SniperRifle_P.tools.barrel.label>
+  <!-- EN: Paragon Widowmaker -->
+  <CAC_SniperRifle_P.verbs.Verb_Shoot.label>TODO</CAC_SniperRifle_P.verbs.Verb_Shoot.label>
+  
+</LanguageData>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Reset Paragon Blackout -->
+  <OE_Reset_CAC_Minigun_P.label>TODO</OE_Reset_CAC_Minigun_P.label>
+  <!-- EN: Reset an Paragon Blackout.\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_CAC_Minigun_P.description>TODO</OE_Reset_CAC_Minigun_P.description>
+  <!-- EN: Resetting a Paragon Blackout. -->
+  <OE_Reset_CAC_Minigun_P.jobString>TODO</OE_Reset_CAC_Minigun_P.jobString>
+  
+  <!-- EN: Reset Paragon Silentsong -->
+  <OE_Reset_CAC_Pistol_P.label>TODO</OE_Reset_CAC_Pistol_P.label>
+  <!-- EN: Reset an Paragon Silentsong.\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_CAC_Pistol_P.description>TODO</OE_Reset_CAC_Pistol_P.description>
+  <!-- EN: Resetting a Paragon Silentsong. -->
+  <OE_Reset_CAC_Pistol_P.jobString>TODO</OE_Reset_CAC_Pistol_P.jobString>
+  
+  <!-- EN: Reset Paragon Grieving -->
+  <OE_Reset_CAC_Shotgun_P.label>TODO</OE_Reset_CAC_Shotgun_P.label>
+  <!-- EN: Reset an Paragon Grieving.\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_CAC_Shotgun_P.description>TODO</OE_Reset_CAC_Shotgun_P.description>
+  <!-- EN: Resetting a Paragon Grieving. -->
+  <OE_Reset_CAC_Shotgun_P.jobString>TODO</OE_Reset_CAC_Shotgun_P.jobString>
+  
+  <!-- EN: Reset Paragon Heartstriker -->
+  <OE_Reset_CAC_ShotgunS_P.label>TODO</OE_Reset_CAC_ShotgunS_P.label>
+  <!-- EN: Reset an Paragon Heartstriker.\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_CAC_ShotgunS_P.description>TODO</OE_Reset_CAC_ShotgunS_P.description>
+  <!-- EN: Resetting a Paragon Heartstriker. -->
+  <OE_Reset_CAC_ShotgunS_P.jobString>TODO</OE_Reset_CAC_ShotgunS_P.jobString>
+  
+  <!-- EN: Reset Paragon Echo -->
+  <OE_Reset_CAC_SMG_P.label>TODO</OE_Reset_CAC_SMG_P.label>
+  <!-- EN: Reset an Paragon Echo.\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_CAC_SMG_P.description>TODO</OE_Reset_CAC_SMG_P.description>
+  <!-- EN: Resetting a Paragon Echo. -->
+  <OE_Reset_CAC_SMG_P.jobString>TODO</OE_Reset_CAC_SMG_P.jobString>
+  
+  <!-- EN: Reset Paragon Widowmaker -->
+  <OE_Reset_CAC_SniperRifle_P.label>TODO</OE_Reset_CAC_SniperRifle_P.label>
+  <!-- EN: Reset an Paragon Widowmaker.\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_CAC_SniperRifle_P.description>TODO</OE_Reset_CAC_SniperRifle_P.description>
+  <!-- EN: Resetting a Paragon Widowmaker. -->
+  <OE_Reset_CAC_SniperRifle_P.jobString>TODO</OE_Reset_CAC_SniperRifle_P.jobString>
+  
+</LanguageData>

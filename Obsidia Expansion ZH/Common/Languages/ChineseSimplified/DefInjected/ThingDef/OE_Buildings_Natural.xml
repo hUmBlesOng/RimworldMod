@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Mythril ore -->
+  <MineableOEMythril.label>TODO</MineableOEMythril.label>
+  <!-- EN: Rock containing bits of mythril. -->
+  <MineableOEMythril.description>TODO</MineableOEMythril.description>
+  
+  <!-- EN: Obsidian ore -->
+  <MineableOEObsidian.label>TODO</MineableOEObsidian.label>
+  <!-- EN: Rock containing bits of obsidian. -->
+  <MineableOEObsidian.description>TODO</MineableOEObsidian.description>
+  
+  <!-- EN: Platinum ore -->
+  <MineableOEPlatinum.label>TODO</MineableOEPlatinum.label>
+  <!-- EN: Rock containing bits of platinum. -->
+  <MineableOEPlatinum.description>TODO</MineableOEPlatinum.description>
+  
+</LanguageData>

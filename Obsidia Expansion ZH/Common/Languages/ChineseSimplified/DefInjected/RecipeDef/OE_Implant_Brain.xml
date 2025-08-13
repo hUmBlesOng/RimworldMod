@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install cyberware AI interface -->
+  <OE_InstallImplantBrain_Interface.label>TODO</OE_InstallImplantBrain_Interface.label>
+  <!-- EN: Install a cyberware AI interface. -->
+  <OE_InstallImplantBrain_Interface.description>TODO</OE_InstallImplantBrain_Interface.description>
+  <!-- EN: Installing cyberware AI interface. -->
+  <OE_InstallImplantBrain_Interface.jobString>TODO</OE_InstallImplantBrain_Interface.jobString>
+  
+  <!-- EN: install brain implant - Suppression -->
+  <OE_InstallImplantBrain_Prisoner.label>TODO</OE_InstallImplantBrain_Prisoner.label>
+  <!-- EN: Install a brain implant - Suppression. -->
+  <OE_InstallImplantBrain_Prisoner.description>TODO</OE_InstallImplantBrain_Prisoner.description>
+  <!-- EN: Installing brain implant - Suppression. -->
+  <OE_InstallImplantBrain_Prisoner.jobString>TODO</OE_InstallImplantBrain_Prisoner.jobString>
+  
+  <!-- EN: install brain implant - Psychically deaf -->
+  <OE_InstallImplantBrain_Psydeaf.label>TODO</OE_InstallImplantBrain_Psydeaf.label>
+  <!-- EN: Install a brain implant - Psychically deaf. -->
+  <OE_InstallImplantBrain_Psydeaf.description>TODO</OE_InstallImplantBrain_Psydeaf.description>
+  <!-- EN: Installing brain implant - Psychically deaf. -->
+  <OE_InstallImplantBrain_Psydeaf.jobString>TODO</OE_InstallImplantBrain_Psydeaf.jobString>
+  
+  <!-- EN: install brain implant - Sacrifice -->
+  <OE_InstallImplantBrain_Slave.label>TODO</OE_InstallImplantBrain_Slave.label>
+  <!-- EN: Install a brain implant - Sacrifice. -->
+  <OE_InstallImplantBrain_Slave.description>TODO</OE_InstallImplantBrain_Slave.description>
+  <!-- EN: Installing brain implant - Sacrifice. -->
+  <OE_InstallImplantBrain_Slave.jobString>TODO</OE_InstallImplantBrain_Slave.jobString>
+  
+  <!-- EN: remove cyberware AI interface -->
+  <OE_RemoveImplantBrain_Interface.label>TODO</OE_RemoveImplantBrain_Interface.label>
+  <!-- EN: Remove a cyberware AI interface. -->
+  <OE_RemoveImplantBrain_Interface.description>TODO</OE_RemoveImplantBrain_Interface.description>
+  <!-- EN: Removing cyberware AI interface. -->
+  <OE_RemoveImplantBrain_Interface.jobString>TODO</OE_RemoveImplantBrain_Interface.jobString>
+  
+  <!-- EN: remove brain implant - Suppression -->
+  <OE_RemoveImplantBrain_Prisoner.label>TODO</OE_RemoveImplantBrain_Prisoner.label>
+  <!-- EN: Remove a brain implant - Suppression. -->
+  <OE_RemoveImplantBrain_Prisoner.description>TODO</OE_RemoveImplantBrain_Prisoner.description>
+  <!-- EN: Removing brain implant - Suppression. -->
+  <OE_RemoveImplantBrain_Prisoner.jobString>TODO</OE_RemoveImplantBrain_Prisoner.jobString>
+  
+  <!-- EN: remove brain implant - Psychically deaf -->
+  <OE_RemoveImplantBrain_Psydeaf.label>TODO</OE_RemoveImplantBrain_Psydeaf.label>
+  <!-- EN: Remove a brain implant - Psychically deaf. -->
+  <OE_RemoveImplantBrain_Psydeaf.description>TODO</OE_RemoveImplantBrain_Psydeaf.description>
+  <!-- EN: Removing brain implant - Psychically deaf. -->
+  <OE_RemoveImplantBrain_Psydeaf.jobString>TODO</OE_RemoveImplantBrain_Psydeaf.jobString>
+  
+  <!-- EN: remove brain implant - Sacrifice -->
+  <OE_RemoveImplantBrain_Slave.label>TODO</OE_RemoveImplantBrain_Slave.label>
+  <!-- EN: Remove a brain implant - Sacrifice. -->
+  <OE_RemoveImplantBrain_Slave.description>TODO</OE_RemoveImplantBrain_Slave.description>
+  <!-- EN: Removing brain implant - Sacrifice. -->
+  <OE_RemoveImplantBrain_Slave.jobString>TODO</OE_RemoveImplantBrain_Slave.jobString>
+  
+</LanguageData>

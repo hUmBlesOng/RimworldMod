@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: obsidia bionics -->
+  <OE_Category_BodyParts.label>TODO</OE_Category_BodyParts.label>
+  
+  <!-- EN: cultist bionic -->
+  <OE_Category_BodyParts_CAC.label>TODO</OE_Category_BodyParts_CAC.label>
+  
+  <!-- EN: cyberware -->
+  <OE_Category_BodyParts_Cyberware.label>TODO</OE_Category_BodyParts_Cyberware.label>
+  
+  <!-- EN: advanced bionic -->
+  <OE_Category_BodyParts_M.label>TODO</OE_Category_BodyParts_M.label>
+  
+  <!-- EN: bionic -->
+  <OE_Category_BodyParts_N.label>TODO</OE_Category_BodyParts_N.label>
+  
+  <!-- EN: heroic bionic -->
+  <OE_Category_BodyParts_OES.label>TODO</OE_Category_BodyParts_OES.label>
+  
+  <!-- EN: obsidia gear -->
+  <OE_Category_Gear.label>TODO</OE_Category_Gear.label>
+  
+  <!-- EN: apparel -->
+  <OE_Category_Gear_Apparel.label>TODO</OE_Category_Gear_Apparel.label>
+  
+  <!-- EN: armor -->
+  <OE_Category_Gear_Armor.label>TODO</OE_Category_Gear_Armor.label>
+  
+  <!-- EN: CAC gear -->
+  <OE_Category_Gear_CAC.label>TODO</OE_Category_Gear_CAC.label>
+  
+  <!-- EN: armor -->
+  <OE_Category_Gear_CAC_Armor.label>TODO</OE_Category_Gear_CAC_Armor.label>
+  
+  <!-- EN: headgear -->
+  <OE_Category_Gear_CAC_Headgear.label>TODO</OE_Category_Gear_CAC_Headgear.label>
+  
+  <!-- EN: utility -->
+  <OE_Category_Gear_CAC_Utility.label>TODO</OE_Category_Gear_CAC_Utility.label>
+  
+  <!-- EN: EGO gear -->
+  <OE_Category_Gear_EGO.label>TODO</OE_Category_Gear_EGO.label>
+  
+  <!-- EN: armor -->
+  <OE_Category_Gear_EGO_Armor.label>TODO</OE_Category_Gear_EGO_Armor.label>
+  
+  <!-- EN: headgear -->
+  <OE_Category_Gear_EGO_Headgear.label>TODO</OE_Category_Gear_EGO_Headgear.label>
+  
+  <!-- EN: utility -->
+  <OE_Category_Gear_EGO_Utility.label>TODO</OE_Category_Gear_EGO_Utility.label>
+  
+  <!-- EN: headgear -->
+  <OE_Category_Gear_Headgear.label>TODO</OE_Category_Gear_Headgear.label>
+  
+  <!-- EN: modules -->
+  <OE_Category_Gear_Modules.label>TODO</OE_Category_Gear_Modules.label>
+  
+  <!-- EN: OCC gear -->
+  <OE_Category_Gear_OCC.label>TODO</OE_Category_Gear_OCC.label>
+  
+  <!-- EN: armor -->
+  <OE_Category_Gear_OCC_Armor.label>TODO</OE_Category_Gear_OCC_Armor.label>
+  
+  <!-- EN: headgear -->
+  <OE_Category_Gear_OCC_Headgear.label>TODO</OE_Category_Gear_OCC_Headgear.label>
+  
+  <!-- EN: utility -->
+  <OE_Category_Gear_OCC_Utility.label>TODO</OE_Category_Gear_OCC_Utility.label>
+  
+  <!-- EN: ODC gear -->
+  <OE_Category_Gear_ODC.label>TODO</OE_Category_Gear_ODC.label>
+  
+  <!-- EN: armor -->
+  <OE_Category_Gear_ODC_Armor.label>TODO</OE_Category_Gear_ODC_Armor.label>
+  
+  <!-- EN: headgear -->
+  <OE_Category_Gear_ODC_Headgear.label>TODO</OE_Category_Gear_ODC_Headgear.label>
+  
+  <!-- EN: utility -->
+  <OE_Category_Gear_ODC_Utility.label>TODO</OE_Category_Gear_ODC_Utility.label>
+  
+  <!-- EN: other gear -->
+  <OE_Category_Gear_OE.label>TODO</OE_Category_Gear_OE.label>
+  
+  <!-- EN: OEC gear -->
+  <OE_Category_Gear_OEC.label>TODO</OE_Category_Gear_OEC.label>
+  
+  <!-- EN: armor -->
+  <OE_Category_Gear_OEC_Armor.label>TODO</OE_Category_Gear_OEC_Armor.label>
+  
+  <!-- EN: headgear -->
+  <OE_Category_Gear_OEC_Headgear.label>TODO</OE_Category_Gear_OEC_Headgear.label>
+  
+  <!-- EN: utility -->
+  <OE_Category_Gear_OEC_Utility.label>TODO</OE_Category_Gear_OEC_Utility.label>
+  
+  <!-- EN: OES gear -->
+  <OE_Category_Gear_OES.label>TODO</OE_Category_Gear_OES.label>
+  
+  <!-- EN: armor -->
+  <OE_Category_Gear_OES_Armor.label>TODO</OE_Category_Gear_OES_Armor.label>
+  
+  <!-- EN: headgear -->
+  <OE_Category_Gear_OES_Headgear.label>TODO</OE_Category_Gear_OES_Headgear.label>
+  
+  <!-- EN: utility -->
+  <OE_Category_Gear_OES_Utility.label>TODO</OE_Category_Gear_OES_Utility.label>
+  
+  <!-- EN: OMC gear -->
+  <OE_Category_Gear_OMC.label>TODO</OE_Category_Gear_OMC.label>
+  
+  <!-- EN: armor -->
+  <OE_Category_Gear_OMC_Armor.label>TODO</OE_Category_Gear_OMC_Armor.label>
+  
+  <!-- EN: headgear -->
+  <OE_Category_Gear_OMC_Headgear.label>TODO</OE_Category_Gear_OMC_Headgear.label>
+  
+  <!-- EN: utility -->
+  <OE_Category_Gear_OMC_Utility.label>TODO</OE_Category_Gear_OMC_Utility.label>
+  
+  <!-- EN: OMG gear -->
+  <OE_Category_Gear_OMG.label>TODO</OE_Category_Gear_OMG.label>
+  
+  <!-- EN: armor -->
+  <OE_Category_Gear_OMG_Armor.label>TODO</OE_Category_Gear_OMG_Armor.label>
+  
+  <!-- EN: headgear -->
+  <OE_Category_Gear_OMG_Headgear.label>TODO</OE_Category_Gear_OMG_Headgear.label>
+  
+  <!-- EN: utility -->
+  <OE_Category_Gear_OMG_Utility.label>TODO</OE_Category_Gear_OMG_Utility.label>
+  
+  <!-- EN: OTC gear -->
+  <OE_Category_Gear_OTC.label>TODO</OE_Category_Gear_OTC.label>
+  
+  <!-- EN: armor -->
+  <OE_Category_Gear_OTC_Armor.label>TODO</OE_Category_Gear_OTC_Armor.label>
+  
+  <!-- EN: headgear -->
+  <OE_Category_Gear_OTC_Headgear.label>TODO</OE_Category_Gear_OTC_Headgear.label>
+  
+  <!-- EN: utility -->
+  <OE_Category_Gear_OTC_Utility.label>TODO</OE_Category_Gear_OTC_Utility.label>
+  
+  <!-- EN: utility -->
+  <OE_Category_Gear_Utility.label>TODO</OE_Category_Gear_Utility.label>
+  
+  <!-- EN: obsidia weapons -->
+  <OE_Category_Weapons.label>TODO</OE_Category_Weapons.label>
+  
+  <!-- EN: CAC weapons -->
+  <OE_Category_Weapons_CAC.label>TODO</OE_Category_Weapons_CAC.label>
+  
+  <!-- EN: melee weapons -->
+  <OE_Category_Weapons_CAC_Melee.label>TODO</OE_Category_Weapons_CAC_Melee.label>
+  
+  <!-- EN: ranged weapons -->
+  <OE_Category_Weapons_CAC_Ranged.label>TODO</OE_Category_Weapons_CAC_Ranged.label>
+  
+  <!-- EN: EGO weapons -->
+  <OE_Category_Weapons_EGO.label>TODO</OE_Category_Weapons_EGO.label>
+  
+  <!-- EN: melee weapons -->
+  <OE_Category_Weapons_EGO_Melee.label>TODO</OE_Category_Weapons_EGO_Melee.label>
+  
+  <!-- EN: ranged weapons -->
+  <OE_Category_Weapons_EGO_Ranged.label>TODO</OE_Category_Weapons_EGO_Ranged.label>
+  
+  <!-- EN: OCC weapons -->
+  <OE_Category_Weapons_OCC.label>TODO</OE_Category_Weapons_OCC.label>
+  
+  <!-- EN: melee weapons -->
+  <OE_Category_Weapons_OCC_Melee.label>TODO</OE_Category_Weapons_OCC_Melee.label>
+  
+  <!-- EN: ranged weapons -->
+  <OE_Category_Weapons_OCC_Ranged.label>TODO</OE_Category_Weapons_OCC_Ranged.label>
+  
+  <!-- EN: ODC weapons -->
+  <OE_Category_Weapons_ODC.label>TODO</OE_Category_Weapons_ODC.label>
+  
+  <!-- EN: melee weapons -->
+  <OE_Category_Weapons_ODC_Melee.label>TODO</OE_Category_Weapons_ODC_Melee.label>
+  
+  <!-- EN: ranged weapons -->
+  <OE_Category_Weapons_ODC_Ranged.label>TODO</OE_Category_Weapons_ODC_Ranged.label>
+  
+  <!-- EN: other weapons -->
+  <OE_Category_Weapons_OE.label>TODO</OE_Category_Weapons_OE.label>
+  
+  <!-- EN: melee weapons -->
+  <OE_Category_Weapons_OE_Melee.label>TODO</OE_Category_Weapons_OE_Melee.label>
+  
+  <!-- EN: ranged weapons -->
+  <OE_Category_Weapons_OE_Ranged.label>TODO</OE_Category_Weapons_OE_Ranged.label>
+  
+  <!-- EN: OEC weapons -->
+  <OE_Category_Weapons_OEC.label>TODO</OE_Category_Weapons_OEC.label>
+  
+  <!-- EN: melee weapons -->
+  <OE_Category_Weapons_OEC_Melee.label>TODO</OE_Category_Weapons_OEC_Melee.label>
+  
+  <!-- EN: ranged weapons -->
+  <OE_Category_Weapons_OEC_Ranged.label>TODO</OE_Category_Weapons_OEC_Ranged.label>
+  
+  <!-- EN: OES weapons -->
+  <OE_Category_Weapons_OES.label>TODO</OE_Category_Weapons_OES.label>
+  
+  <!-- EN: melee weapons -->
+  <OE_Category_Weapons_OES_Melee.label>TODO</OE_Category_Weapons_OES_Melee.label>
+  
+  <!-- EN: ranged weapons -->
+  <OE_Category_Weapons_OES_Ranged.label>TODO</OE_Category_Weapons_OES_Ranged.label>
+  
+  <!-- EN: OMC weapons -->
+  <OE_Category_Weapons_OMC.label>TODO</OE_Category_Weapons_OMC.label>
+  
+  <!-- EN: melee weapons -->
+  <OE_Category_Weapons_OMC_Melee.label>TODO</OE_Category_Weapons_OMC_Melee.label>
+  
+  <!-- EN: ranged weapons -->
+  <OE_Category_Weapons_OMC_Ranged.label>TODO</OE_Category_Weapons_OMC_Ranged.label>
+  
+  <!-- EN: OMG weapons -->
+  <OE_Category_Weapons_OMG.label>TODO</OE_Category_Weapons_OMG.label>
+  
+  <!-- EN: melee weapons -->
+  <OE_Category_Weapons_OMG_Melee.label>TODO</OE_Category_Weapons_OMG_Melee.label>
+  
+  <!-- EN: ranged weapons -->
+  <OE_Category_Weapons_OMG_Ranged.label>TODO</OE_Category_Weapons_OMG_Ranged.label>
+  
+  <!-- EN: OTC weapons -->
+  <OE_Category_Weapons_OTC.label>TODO</OE_Category_Weapons_OTC.label>
+  
+  <!-- EN: melee weapons -->
+  <OE_Category_Weapons_OTC_Melee.label>TODO</OE_Category_Weapons_OTC_Melee.label>
+  
+  <!-- EN: ranged weapons -->
+  <OE_Category_Weapons_OTC_Ranged.label>TODO</OE_Category_Weapons_OTC_Ranged.label>
+  
+  <!-- EN: trophy weapons -->
+  <OE_Category_Weapons_Trophy.label>TODO</OE_Category_Weapons_Trophy.label>
+  
+  <!-- EN: melee weapons -->
+  <OE_Category_Weapons_Trophy_Melee.label>TODO</OE_Category_Weapons_Trophy_Melee.label>
+  
+  <!-- EN: ranged weapons -->
+  <OE_Category_Weapons_Trophy_Ranged.label>TODO</OE_Category_Weapons_Trophy_Ranged.label>
+  
+</LanguageData>

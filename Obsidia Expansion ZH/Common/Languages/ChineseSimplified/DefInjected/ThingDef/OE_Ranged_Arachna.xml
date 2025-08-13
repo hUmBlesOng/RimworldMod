@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Mech Blackout -->
+  <CAC_Arachna_Minigun.label>TODO</CAC_Arachna_Minigun.label>
+  <!-- EN: Reconstructed CAC Minigun for use by mechanoids. Specially modified weapon with increased power but difficult to handle. -->
+  <CAC_Arachna_Minigun.description>TODO</CAC_Arachna_Minigun.description>
+  <!-- EN: barrel -->
+  <CAC_Arachna_Minigun.tools.barrel.label>TODO</CAC_Arachna_Minigun.tools.barrel.label>
+  <!-- EN: Mech Blackout -->
+  <CAC_Arachna_Minigun.verbs.Verb_Shoot.label>TODO</CAC_Arachna_Minigun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Mech Cerberus -->
+  <OCC_Arachna_Rifle.label>TODO</OCC_Arachna_Rifle.label>
+  <!-- EN: Reconstructed OCC Rifle for use by mechanoids. Slow weapon are designed to use blast bullets. -->
+  <OCC_Arachna_Rifle.description>TODO</OCC_Arachna_Rifle.description>
+  <!-- EN: barrel -->
+  <OCC_Arachna_Rifle.tools.barrel.label>TODO</OCC_Arachna_Rifle.tools.barrel.label>
+  <!-- EN: Mech Cerberus -->
+  <OCC_Arachna_Rifle.verbs.Verb_Shoot.label>TODO</OCC_Arachna_Rifle.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Mech Striker -->
+  <OMC_Arachna_AR.label>TODO</OMC_Arachna_AR.label>
+  <!-- EN: Reconstructed OMC Assault Rifle for use by mechanoids. Rapid-fire and multiple-charge weapons with reduced damage. -->
+  <OMC_Arachna_AR.description>TODO</OMC_Arachna_AR.description>
+  <!-- EN: barrel -->
+  <OMC_Arachna_AR.tools.barrel.label>TODO</OMC_Arachna_AR.tools.barrel.label>
+  <!-- EN: Mech Striker -->
+  <OMC_Arachna_AR.verbs.Verb_Shoot.label>TODO</OMC_Arachna_AR.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Mech Quasar(Acid) -->
+  <OTC_Arachna_Shotgun_Acid.label>TODO</OTC_Arachna_Shotgun_Acid.label>
+  <!-- EN: Reconstructed OTC Shotgun for use by mechanoids. Balanced weapon with Acid charges. -->
+  <OTC_Arachna_Shotgun_Acid.description>TODO</OTC_Arachna_Shotgun_Acid.description>
+  <!-- EN: barrel -->
+  <OTC_Arachna_Shotgun_Acid.tools.barrel.label>TODO</OTC_Arachna_Shotgun_Acid.tools.barrel.label>
+  <!-- EN: Mech Quasar(Acid) -->
+  <OTC_Arachna_Shotgun_Acid.verbs.Verb_Shoot.label>TODO</OTC_Arachna_Shotgun_Acid.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Mech Quasar(Cryo) -->
+  <OTC_Arachna_Shotgun_Cryo.label>TODO</OTC_Arachna_Shotgun_Cryo.label>
+  <!-- EN: Reconstructed OTC Shotgun for use by mechanoids. Balanced weapon with Cryo charges. -->
+  <OTC_Arachna_Shotgun_Cryo.description>TODO</OTC_Arachna_Shotgun_Cryo.description>
+  <!-- EN: barrel -->
+  <OTC_Arachna_Shotgun_Cryo.tools.barrel.label>TODO</OTC_Arachna_Shotgun_Cryo.tools.barrel.label>
+  <!-- EN: Mech Quasar(Cryo) -->
+  <OTC_Arachna_Shotgun_Cryo.verbs.Verb_Shoot.label>TODO</OTC_Arachna_Shotgun_Cryo.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Mech Quasar(EMP) -->
+  <OTC_Arachna_Shotgun_EMP.label>TODO</OTC_Arachna_Shotgun_EMP.label>
+  <!-- EN: Reconstructed OTC Shotgun for use by mechanoids. Balanced weapon with EMP charges.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
+  <OTC_Arachna_Shotgun_EMP.description>TODO</OTC_Arachna_Shotgun_EMP.description>
+  <!-- EN: barrel -->
+  <OTC_Arachna_Shotgun_EMP.tools.barrel.label>TODO</OTC_Arachna_Shotgun_EMP.tools.barrel.label>
+  <!-- EN: Mech Quasar(EMP) -->
+  <OTC_Arachna_Shotgun_EMP.verbs.Verb_Shoot.label>TODO</OTC_Arachna_Shotgun_EMP.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Mech Quasar(Fire) -->
+  <OTC_Arachna_Shotgun_Fire.label>TODO</OTC_Arachna_Shotgun_Fire.label>
+  <!-- EN: Reconstructed OTC Shotgun for use by mechanoids. Balanced weapon with Fire charges. -->
+  <OTC_Arachna_Shotgun_Fire.description>TODO</OTC_Arachna_Shotgun_Fire.description>
+  <!-- EN: barrel -->
+  <OTC_Arachna_Shotgun_Fire.tools.barrel.label>TODO</OTC_Arachna_Shotgun_Fire.tools.barrel.label>
+  <!-- EN: Mech Quasar(Fire) -->
+  <OTC_Arachna_Shotgun_Fire.verbs.Verb_Shoot.label>TODO</OTC_Arachna_Shotgun_Fire.verbs.Verb_Shoot.label>
+  
+</LanguageData>

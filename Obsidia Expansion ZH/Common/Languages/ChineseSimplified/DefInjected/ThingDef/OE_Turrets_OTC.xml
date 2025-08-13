@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: OTC Meteor Turret(Acid) -->
+  <OTC_Turret_Big_Acid.label>TODO</OTC_Turret_Big_Acid.label>
+  <!-- EN: An automatic OTC Acid Grenade Launcher-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <OTC_Turret_Big_Acid.description>TODO</OTC_Turret_Big_Acid.description>
+  <!-- EN: Fuel capacity -->
+  <OTC_Turret_Big_Acid.comps.CompRefuelable.fuelGizmoLabel>TODO</OTC_Turret_Big_Acid.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shoots until run out of charges -->
+  <OTC_Turret_Big_Acid.comps.CompRefuelable.fuelLabel>TODO</OTC_Turret_Big_Acid.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
+  <OTC_Turret_Big_Acid.comps.CompRefuelable.outOfFuelMessage>TODO</OTC_Turret_Big_Acid.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: OTC Meteor Turret(Cryo) -->
+  <OTC_Turret_Big_Cryo.label>TODO</OTC_Turret_Big_Cryo.label>
+  <!-- EN: An automatic OTC Cryo Grenade Launcher-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <OTC_Turret_Big_Cryo.description>TODO</OTC_Turret_Big_Cryo.description>
+  <!-- EN: Fuel capacity -->
+  <OTC_Turret_Big_Cryo.comps.CompRefuelable.fuelGizmoLabel>TODO</OTC_Turret_Big_Cryo.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shoots until run out of charges -->
+  <OTC_Turret_Big_Cryo.comps.CompRefuelable.fuelLabel>TODO</OTC_Turret_Big_Cryo.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
+  <OTC_Turret_Big_Cryo.comps.CompRefuelable.outOfFuelMessage>TODO</OTC_Turret_Big_Cryo.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: OTC Meteor Turret(EMP) -->
+  <OTC_Turret_Big_EMP.label>TODO</OTC_Turret_Big_EMP.label>
+  <!-- EN: An automatic OTC EMP Grenade Launcher-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly EMP. -->
+  <OTC_Turret_Big_EMP.description>TODO</OTC_Turret_Big_EMP.description>
+  <!-- EN: Fuel capacity -->
+  <OTC_Turret_Big_EMP.comps.CompRefuelable.fuelGizmoLabel>TODO</OTC_Turret_Big_EMP.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shoots until run out of charges -->
+  <OTC_Turret_Big_EMP.comps.CompRefuelable.fuelLabel>TODO</OTC_Turret_Big_EMP.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
+  <OTC_Turret_Big_EMP.comps.CompRefuelable.outOfFuelMessage>TODO</OTC_Turret_Big_EMP.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: OTC Meteor Turret(Fire) -->
+  <OTC_Turret_Big_Fire.label>TODO</OTC_Turret_Big_Fire.label>
+  <!-- EN: An automatic OTC Fire Grenade Launcher-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <OTC_Turret_Big_Fire.description>TODO</OTC_Turret_Big_Fire.description>
+  <!-- EN: Fuel capacity -->
+  <OTC_Turret_Big_Fire.comps.CompRefuelable.fuelGizmoLabel>TODO</OTC_Turret_Big_Fire.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shoots until run out of charges -->
+  <OTC_Turret_Big_Fire.comps.CompRefuelable.fuelLabel>TODO</OTC_Turret_Big_Fire.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
+  <OTC_Turret_Big_Fire.comps.CompRefuelable.outOfFuelMessage>TODO</OTC_Turret_Big_Fire.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: OTC Equalizer Turret(Acid) -->
+  <OTC_Turret_Small_Acid.label>TODO</OTC_Turret_Small_Acid.label>
+  <!-- EN: An automatic OTC Acid SMG-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <OTC_Turret_Small_Acid.description>TODO</OTC_Turret_Small_Acid.description>
+  <!-- EN: Fuel capacity -->
+  <OTC_Turret_Small_Acid.comps.CompRefuelable.fuelGizmoLabel>TODO</OTC_Turret_Small_Acid.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shoots until run out of charges -->
+  <OTC_Turret_Small_Acid.comps.CompRefuelable.fuelLabel>TODO</OTC_Turret_Small_Acid.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
+  <OTC_Turret_Small_Acid.comps.CompRefuelable.outOfFuelMessage>TODO</OTC_Turret_Small_Acid.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: OTC Equalizer Turret(Cryo) -->
+  <OTC_Turret_Small_Cryo.label>TODO</OTC_Turret_Small_Cryo.label>
+  <!-- EN: An automatic OTC Cryo SMG-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <OTC_Turret_Small_Cryo.description>TODO</OTC_Turret_Small_Cryo.description>
+  <!-- EN: Fuel capacity -->
+  <OTC_Turret_Small_Cryo.comps.CompRefuelable.fuelGizmoLabel>TODO</OTC_Turret_Small_Cryo.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shoots until run out of charges -->
+  <OTC_Turret_Small_Cryo.comps.CompRefuelable.fuelLabel>TODO</OTC_Turret_Small_Cryo.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
+  <OTC_Turret_Small_Cryo.comps.CompRefuelable.outOfFuelMessage>TODO</OTC_Turret_Small_Cryo.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: OTC Equalizer Turret(EMP) -->
+  <OTC_Turret_Small_EMP.label>TODO</OTC_Turret_Small_EMP.label>
+  <!-- EN: An automatic OTC EMP SMG-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly EMP. -->
+  <OTC_Turret_Small_EMP.description>TODO</OTC_Turret_Small_EMP.description>
+  <!-- EN: Fuel capacity -->
+  <OTC_Turret_Small_EMP.comps.CompRefuelable.fuelGizmoLabel>TODO</OTC_Turret_Small_EMP.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shoots until run out of charges -->
+  <OTC_Turret_Small_EMP.comps.CompRefuelable.fuelLabel>TODO</OTC_Turret_Small_EMP.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
+  <OTC_Turret_Small_EMP.comps.CompRefuelable.outOfFuelMessage>TODO</OTC_Turret_Small_EMP.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: OTC Equalizer Turret(Fire) -->
+  <OTC_Turret_Small_Fire.label>TODO</OTC_Turret_Small_Fire.label>
+  <!-- EN: An automatic OTC Fire SMG-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <OTC_Turret_Small_Fire.description>TODO</OTC_Turret_Small_Fire.description>
+  <!-- EN: Fuel capacity -->
+  <OTC_Turret_Small_Fire.comps.CompRefuelable.fuelGizmoLabel>TODO</OTC_Turret_Small_Fire.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shoots until run out of charges -->
+  <OTC_Turret_Small_Fire.comps.CompRefuelable.fuelLabel>TODO</OTC_Turret_Small_Fire.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
+  <OTC_Turret_Small_Fire.comps.CompRefuelable.outOfFuelMessage>TODO</OTC_Turret_Small_Fire.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: OTC Equalizer Powered Turret(Acid) -->
+  <OTC_Turret_SmallPowered_Acid.label>TODO</OTC_Turret_SmallPowered_Acid.label>
+  <!-- EN: An automatic OTC Acid SMG-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire.\n\nThis turret has a built-in generator. -->
+  <OTC_Turret_SmallPowered_Acid.description>TODO</OTC_Turret_SmallPowered_Acid.description>
+  <!-- EN: Fuel capacity -->
+  <OTC_Turret_SmallPowered_Acid.comps.CompRefuelable.fuelGizmoLabel>TODO</OTC_Turret_SmallPowered_Acid.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shoots until run out of charges -->
+  <OTC_Turret_SmallPowered_Acid.comps.CompRefuelable.fuelLabel>TODO</OTC_Turret_SmallPowered_Acid.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
+  <OTC_Turret_SmallPowered_Acid.comps.CompRefuelable.outOfFuelMessage>TODO</OTC_Turret_SmallPowered_Acid.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: OTC Equalizer Powered Turret(Cryo) -->
+  <OTC_Turret_SmallPowered_Cryo.label>TODO</OTC_Turret_SmallPowered_Cryo.label>
+  <!-- EN: An automatic OTC Cryo SMG-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire.\n\nThis turret has a built-in generator. -->
+  <OTC_Turret_SmallPowered_Cryo.description>TODO</OTC_Turret_SmallPowered_Cryo.description>
+  <!-- EN: Fuel capacity -->
+  <OTC_Turret_SmallPowered_Cryo.comps.CompRefuelable.fuelGizmoLabel>TODO</OTC_Turret_SmallPowered_Cryo.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shoots until run out of charges -->
+  <OTC_Turret_SmallPowered_Cryo.comps.CompRefuelable.fuelLabel>TODO</OTC_Turret_SmallPowered_Cryo.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
+  <OTC_Turret_SmallPowered_Cryo.comps.CompRefuelable.outOfFuelMessage>TODO</OTC_Turret_SmallPowered_Cryo.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: OTC Equalizer Powered Turret(EMP) -->
+  <OTC_Turret_SmallPowered_EMP.label>TODO</OTC_Turret_SmallPowered_EMP.label>
+  <!-- EN: An automatic OTC EMP SMG-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly EMP.\n\nThis turret has a built-in generator. -->
+  <OTC_Turret_SmallPowered_EMP.description>TODO</OTC_Turret_SmallPowered_EMP.description>
+  <!-- EN: Fuel capacity -->
+  <OTC_Turret_SmallPowered_EMP.comps.CompRefuelable.fuelGizmoLabel>TODO</OTC_Turret_SmallPowered_EMP.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shoots until run out of charges -->
+  <OTC_Turret_SmallPowered_EMP.comps.CompRefuelable.fuelLabel>TODO</OTC_Turret_SmallPowered_EMP.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
+  <OTC_Turret_SmallPowered_EMP.comps.CompRefuelable.outOfFuelMessage>TODO</OTC_Turret_SmallPowered_EMP.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: OTC Equalizer Powered Turret(Fire) -->
+  <OTC_Turret_SmallPowered_Fire.label>TODO</OTC_Turret_SmallPowered_Fire.label>
+  <!-- EN: An automatic OTC Fire SMG-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire.\n\nThis turret has a built-in generator. -->
+  <OTC_Turret_SmallPowered_Fire.description>TODO</OTC_Turret_SmallPowered_Fire.description>
+  <!-- EN: Fuel capacity -->
+  <OTC_Turret_SmallPowered_Fire.comps.CompRefuelable.fuelGizmoLabel>TODO</OTC_Turret_SmallPowered_Fire.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shoots until run out of charges -->
+  <OTC_Turret_SmallPowered_Fire.comps.CompRefuelable.fuelLabel>TODO</OTC_Turret_SmallPowered_Fire.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
+  <OTC_Turret_SmallPowered_Fire.comps.CompRefuelable.outOfFuelMessage>TODO</OTC_Turret_SmallPowered_Fire.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: meteor turret Acid grenade -->
+  <OTC_TurretBullet_Big_Acid.label>TODO</OTC_TurretBullet_Big_Acid.label>
+  
+  <!-- EN: meteor turret Cryo grenade -->
+  <OTC_TurretBullet_Big_Cryo.label>TODO</OTC_TurretBullet_Big_Cryo.label>
+  
+  <!-- EN: meteor turret EMP grenade -->
+  <OTC_TurretBullet_Big_EMP.label>TODO</OTC_TurretBullet_Big_EMP.label>
+  
+  <!-- EN: meteor turret Fire grenade -->
+  <OTC_TurretBullet_Big_Fire.label>TODO</OTC_TurretBullet_Big_Fire.label>
+  
+  <!-- EN: equalizer turret Acid energy bullet -->
+  <OTC_TurretBullet_Small_Acid.label>TODO</OTC_TurretBullet_Small_Acid.label>
+  
+  <!-- EN: Equalizer turret Cryo energy bullet -->
+  <OTC_TurretBullet_Small_Cryo.label>TODO</OTC_TurretBullet_Small_Cryo.label>
+  
+  <!-- EN: Equalizer turret EMP energy bullet -->
+  <OTC_TurretBullet_Small_EMP.label>TODO</OTC_TurretBullet_Small_EMP.label>
+  
+  <!-- EN: Equalizer turret Fire energy bullet -->
+  <OTC_TurretBullet_Small_Fire.label>TODO</OTC_TurretBullet_Small_Fire.label>
+  
+  <!-- EN: Meteor Turret(Acid) -->
+  <OTC_TurretGun_Big_Acid.label>TODO</OTC_TurretGun_Big_Acid.label>
+  <!-- EN: Reconstructed OTC Grenade Launcher for turrets. Balanced weapon with Acid charges. -->
+  <OTC_TurretGun_Big_Acid.description>TODO</OTC_TurretGun_Big_Acid.description>
+  <!-- EN: Meteor Turret(Acid) -->
+  <OTC_TurretGun_Big_Acid.verbs.Verb_Shoot.label>TODO</OTC_TurretGun_Big_Acid.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Meteor Turret(Cryo) -->
+  <OTC_TurretGun_Big_Cryo.label>TODO</OTC_TurretGun_Big_Cryo.label>
+  <!-- EN: Reconstructed OTC Grenade Launcher for turrets. Balanced weapon with Cryo charges. -->
+  <OTC_TurretGun_Big_Cryo.description>TODO</OTC_TurretGun_Big_Cryo.description>
+  <!-- EN: Meteor Turret(Cryo) -->
+  <OTC_TurretGun_Big_Cryo.verbs.Verb_Shoot.label>TODO</OTC_TurretGun_Big_Cryo.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Meteor Turret(EMP) -->
+  <OTC_TurretGun_Big_EMP.label>TODO</OTC_TurretGun_Big_EMP.label>
+  <!-- EN: Reconstructed OTC Grenade Launcher for turrets. Balanced weapon with EMP charges.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
+  <OTC_TurretGun_Big_EMP.description>TODO</OTC_TurretGun_Big_EMP.description>
+  <!-- EN: Meteor Turret(EMP) -->
+  <OTC_TurretGun_Big_EMP.verbs.Verb_Shoot.label>TODO</OTC_TurretGun_Big_EMP.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Meteor Turret(Fire) -->
+  <OTC_TurretGun_Big_Fire.label>TODO</OTC_TurretGun_Big_Fire.label>
+  <!-- EN: Reconstructed OTC Grenade Launcher for turrets. Balanced weapon with Fire charges. -->
+  <OTC_TurretGun_Big_Fire.description>TODO</OTC_TurretGun_Big_Fire.description>
+  <!-- EN: Meteor Turret(Fire) -->
+  <OTC_TurretGun_Big_Fire.verbs.Verb_Shoot.label>TODO</OTC_TurretGun_Big_Fire.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Equalizer Turret(Acid) -->
+  <OTC_TurretGun_Small_Acid.label>TODO</OTC_TurretGun_Small_Acid.label>
+  <!-- EN: Reconstructed OTC SMG for turrets. Balanced weapon with Acid charges. -->
+  <OTC_TurretGun_Small_Acid.description>TODO</OTC_TurretGun_Small_Acid.description>
+  <!-- EN: Equalizer Turret(Acid) -->
+  <OTC_TurretGun_Small_Acid.verbs.Verb_Shoot.label>TODO</OTC_TurretGun_Small_Acid.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Equalizer Turret(Cryo) -->
+  <OTC_TurretGun_Small_Cryo.label>TODO</OTC_TurretGun_Small_Cryo.label>
+  <!-- EN: Reconstructed OTC SMG for turrets. Balanced weapon with Cryo charges. -->
+  <OTC_TurretGun_Small_Cryo.description>TODO</OTC_TurretGun_Small_Cryo.description>
+  <!-- EN: Equalizer Turret(Cryo) -->
+  <OTC_TurretGun_Small_Cryo.verbs.Verb_Shoot.label>TODO</OTC_TurretGun_Small_Cryo.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Equalizer Turret(EMP) -->
+  <OTC_TurretGun_Small_EMP.label>TODO</OTC_TurretGun_Small_EMP.label>
+  <!-- EN: Reconstructed OTC SMG for turrets. Balanced weapon with EMP charges.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
+  <OTC_TurretGun_Small_EMP.description>TODO</OTC_TurretGun_Small_EMP.description>
+  <!-- EN: Equalizer Turret(EMP) -->
+  <OTC_TurretGun_Small_EMP.verbs.Verb_Shoot.label>TODO</OTC_TurretGun_Small_EMP.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Equalizer Turret(Fire) -->
+  <OTC_TurretGun_Small_Fire.label>TODO</OTC_TurretGun_Small_Fire.label>
+  <!-- EN: Reconstructed OTC SMG for turrets. Balanced weapon with Fire charges. -->
+  <OTC_TurretGun_Small_Fire.description>TODO</OTC_TurretGun_Small_Fire.description>
+  <!-- EN: Equalizer Turret(Fire) -->
+  <OTC_TurretGun_Small_Fire.verbs.Verb_Shoot.label>TODO</OTC_TurretGun_Small_Fire.verbs.Verb_Shoot.label>
+  
+</LanguageData>

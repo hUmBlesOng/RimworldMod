@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gestate EGO Shell(Automancer) -->
+  <OE_Gestate_EGO_Armor_Shell_Mechanitor.label>TODO</OE_Gestate_EGO_Armor_Shell_Mechanitor.label>
+  <!-- EN: Gestate an amalgam EGO Shell(Automancer). -->
+  <OE_Gestate_EGO_Armor_Shell_Mechanitor.description>TODO</OE_Gestate_EGO_Armor_Shell_Mechanitor.description>
+  <!-- EN: Gestating an EGO Shell(Automancer). -->
+  <OE_Gestate_EGO_Armor_Shell_Mechanitor.jobString>TODO</OE_Gestate_EGO_Armor_Shell_Mechanitor.jobString>
+  
+  <!-- EN: gestate EGO Automancer Exohelm -->
+  <OE_Gestate_EGO_Helmet_Exohelm_Mechanitor.label>TODO</OE_Gestate_EGO_Helmet_Exohelm_Mechanitor.label>
+  <!-- EN: Gestate an amalgam EGO Automancer Exohelm. -->
+  <OE_Gestate_EGO_Helmet_Exohelm_Mechanitor.description>TODO</OE_Gestate_EGO_Helmet_Exohelm_Mechanitor.description>
+  <!-- EN: Gestating an EGO Automancer Exohelm. -->
+  <OE_Gestate_EGO_Helmet_Exohelm_Mechanitor.jobString>TODO</OE_Gestate_EGO_Helmet_Exohelm_Mechanitor.jobString>
+  
+  <!-- EN: Reset EGO Shell(Automancer) -->
+  <OE_Reset_EGO_Armor_Shell_Mechanitor.label>TODO</OE_Reset_EGO_Armor_Shell_Mechanitor.label>
+  <!-- EN: Reset an amalgam EGO Shell(Automancer). -->
+  <OE_Reset_EGO_Armor_Shell_Mechanitor.description>TODO</OE_Reset_EGO_Armor_Shell_Mechanitor.description>
+  <!-- EN: Resetting an EGO Shell(Automancer). -->
+  <OE_Reset_EGO_Armor_Shell_Mechanitor.jobString>TODO</OE_Reset_EGO_Armor_Shell_Mechanitor.jobString>
+  
+  <!-- EN: Reset EGO Automancer Exohelm -->
+  <OE_Reset_EGO_Helmet_Exohelm_Mechanitor.label>TODO</OE_Reset_EGO_Helmet_Exohelm_Mechanitor.label>
+  <!-- EN: Reset an amalgam EGO Automancer Exohelm. -->
+  <OE_Reset_EGO_Helmet_Exohelm_Mechanitor.description>TODO</OE_Reset_EGO_Helmet_Exohelm_Mechanitor.description>
+  <!-- EN: Resetting an EGO Automancer Exohelm. -->
+  <OE_Reset_EGO_Helmet_Exohelm_Mechanitor.jobString>TODO</OE_Reset_EGO_Helmet_Exohelm_Mechanitor.jobString>
+  
+</LanguageData>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Persona bond Temptation -->
+  <OE_Bond_ODC_Trophy_Sickle_A.label>TODO</OE_Bond_ODC_Trophy_Sickle_A.label>
+  <!-- EN: Persona bond a Temptation. -->
+  <OE_Bond_ODC_Trophy_Sickle_A.description>TODO</OE_Bond_ODC_Trophy_Sickle_A.description>
+  <!-- EN: Persona bonding a Temptation. -->
+  <OE_Bond_ODC_Trophy_Sickle_A.jobString>TODO</OE_Bond_ODC_Trophy_Sickle_A.jobString>
+  
+  <!-- EN: Persona bond Temptation - Emergent -->
+  <OE_Bond_ODC_Trophy_Sickle_B.label>TODO</OE_Bond_ODC_Trophy_Sickle_B.label>
+  <!-- EN: Persona bond a Temptation - Emergent. -->
+  <OE_Bond_ODC_Trophy_Sickle_B.description>TODO</OE_Bond_ODC_Trophy_Sickle_B.description>
+  <!-- EN: Persona bonding a Temptation - Emergent. -->
+  <OE_Bond_ODC_Trophy_Sickle_B.jobString>TODO</OE_Bond_ODC_Trophy_Sickle_B.jobString>
+  
+  <!-- EN: Persona bond Temptation - Apex -->
+  <OE_Bond_ODC_Trophy_Sickle_C.label>TODO</OE_Bond_ODC_Trophy_Sickle_C.label>
+  <!-- EN: Persona bond a Temptation - Apex. -->
+  <OE_Bond_ODC_Trophy_Sickle_C.description>TODO</OE_Bond_ODC_Trophy_Sickle_C.description>
+  <!-- EN: Persona bonding a Temptation - Apex. -->
+  <OE_Bond_ODC_Trophy_Sickle_C.jobString>TODO</OE_Bond_ODC_Trophy_Sickle_C.jobString>
+  
+  <!-- EN: Reset Eternal Gauntlet Mk.VIII -->
+  <OE_Reset_ODC_Trophy_PowerFist_J.label>TODO</OE_Reset_ODC_Trophy_PowerFist_J.label>
+  <!-- EN: Reset a Eternal Gauntlet Mk.VIII.\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_ODC_Trophy_PowerFist_J.description>TODO</OE_Reset_ODC_Trophy_PowerFist_J.description>
+  <!-- EN: Resetting a Eternal Gauntlet Mk.VIII. -->
+  <OE_Reset_ODC_Trophy_PowerFist_J.jobString>TODO</OE_Reset_ODC_Trophy_PowerFist_J.jobString>
+  
+  <!-- EN: Reset Persona Temptation -->
+  <OE_Reset_ODC_Trophy_Sickle_A_P.label>TODO</OE_Reset_ODC_Trophy_Sickle_A_P.label>
+  <!-- EN: Reset a Persona Temptation.\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_ODC_Trophy_Sickle_A_P.description>TODO</OE_Reset_ODC_Trophy_Sickle_A_P.description>
+  <!-- EN: Resetting a Persona Temptation. -->
+  <OE_Reset_ODC_Trophy_Sickle_A_P.jobString>TODO</OE_Reset_ODC_Trophy_Sickle_A_P.jobString>
+  
+  <!-- EN: Reset Persona Temptation - Emergent -->
+  <OE_Reset_ODC_Trophy_Sickle_B_P.label>TODO</OE_Reset_ODC_Trophy_Sickle_B_P.label>
+  <!-- EN: Reset a Persona Temptation - Emergent.\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_ODC_Trophy_Sickle_B_P.description>TODO</OE_Reset_ODC_Trophy_Sickle_B_P.description>
+  <!-- EN: Resetting a Persona Temptation - Emergent. -->
+  <OE_Reset_ODC_Trophy_Sickle_B_P.jobString>TODO</OE_Reset_ODC_Trophy_Sickle_B_P.jobString>
+  
+  <!-- EN: Reset Inlaid Temptation - Apex -->
+  <OE_Reset_ODC_Trophy_Sickle_C_I.label>TODO</OE_Reset_ODC_Trophy_Sickle_C_I.label>
+  <!-- EN: Reset an Inlaid Temptation - Apex.\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_ODC_Trophy_Sickle_C_I.description>TODO</OE_Reset_ODC_Trophy_Sickle_C_I.description>
+  <!-- EN: Resetting an Inlaid Temptation - Apex. -->
+  <OE_Reset_ODC_Trophy_Sickle_C_I.jobString>TODO</OE_Reset_ODC_Trophy_Sickle_C_I.jobString>
+  
+  <!-- EN: Reset Persona Temptation - Apex -->
+  <OE_Reset_ODC_Trophy_Sickle_C_P.label>TODO</OE_Reset_ODC_Trophy_Sickle_C_P.label>
+  <!-- EN: Reset a Persona Temptation - Apex.\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_ODC_Trophy_Sickle_C_P.description>TODO</OE_Reset_ODC_Trophy_Sickle_C_P.description>
+  <!-- EN: Resetting a Persona Temptation - Apex. -->
+  <OE_Reset_ODC_Trophy_Sickle_C_P.jobString>TODO</OE_Reset_ODC_Trophy_Sickle_C_P.jobString>
+  
+</LanguageData>

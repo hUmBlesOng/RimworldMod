@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: OEC - Regular Armor -->
+  <OECArmor.label>TODO</OECArmor.label>
+  <!-- EN: Craft regular Obsidia Exalted Corpus hunters light power armor. -->
+  <OECArmor.description>TODO</OECArmor.description>
+  
+  <!-- EN: OEC - Exalted Equipment -->
+  <OECGearMod.label>TODO</OECGearMod.label>
+  <!-- EN: Exaltation Obsidia Exalted Corpus inquisitors equipment. -->
+  <OECGearMod.description>TODO</OECGearMod.description>
+  
+  <!-- EN: OEC - Regular Weapons -->
+  <OECWeapons.label>TODO</OECWeapons.label>
+  <!-- EN: Craft regular Obsidia Exalted Corpus hunters psy weapons. -->
+  <OECWeapons.description>TODO</OECWeapons.description>
+  
+</LanguageData>

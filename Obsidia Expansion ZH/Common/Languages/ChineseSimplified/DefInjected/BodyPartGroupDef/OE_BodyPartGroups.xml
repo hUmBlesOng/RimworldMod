@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: left arachna arm -->
+  <OE_ReturnedLeftLimb.label>TODO</OE_ReturnedLeftLimb.label>
+  <!-- EN: arachna arm -->
+  <OE_ReturnedLeftLimb.labelShort>TODO</OE_ReturnedLeftLimb.labelShort>
+  
+  <!-- EN: right arachna arm -->
+  <OE_ReturnedRightLimb.label>TODO</OE_ReturnedRightLimb.label>
+  <!-- EN: arachna arm -->
+  <OE_ReturnedRightLimb.labelShort>TODO</OE_ReturnedRightLimb.labelShort>
+  
+  <!-- EN: left arm claws -->
+  <OELeftArmClawAttackTool.label>TODO</OELeftArmClawAttackTool.label>
+  <!-- EN: claws -->
+  <OELeftArmClawAttackTool.labelShort>TODO</OELeftArmClawAttackTool.labelShort>
+  
+  <!-- EN: left sickle claws -->
+  <OELeftFootClawAttackTool.label>TODO</OELeftFootClawAttackTool.label>
+  <!-- EN: claws -->
+  <OELeftFootClawAttackTool.labelShort>TODO</OELeftFootClawAttackTool.labelShort>
+  
+  <!-- EN: left insect claws -->
+  <OELeftInsectClawAttackTool.label>TODO</OELeftInsectClawAttackTool.label>
+  <!-- EN: claws -->
+  <OELeftInsectClawAttackTool.labelShort>TODO</OELeftInsectClawAttackTool.labelShort>
+  
+  <!-- EN: right arm claws -->
+  <OERightArmClawAttackTool.label>TODO</OERightArmClawAttackTool.label>
+  <!-- EN: claws -->
+  <OERightArmClawAttackTool.labelShort>TODO</OERightArmClawAttackTool.labelShort>
+  
+  <!-- EN: right sickle claws -->
+  <OERightFootClawAttackTool.label>TODO</OERightFootClawAttackTool.label>
+  <!-- EN: claws -->
+  <OERightFootClawAttackTool.labelShort>TODO</OERightFootClawAttackTool.labelShort>
+  
+  <!-- EN: right insect claws -->
+  <OERightInsectClawAttackTool.label>TODO</OERightInsectClawAttackTool.label>
+  <!-- EN: claws -->
+  <OERightInsectClawAttackTool.labelShort>TODO</OERightInsectClawAttackTool.labelShort>
+  
+  <!-- EN: sting -->
+  <OESting.label>TODO</OESting.label>
+  
+</LanguageData>

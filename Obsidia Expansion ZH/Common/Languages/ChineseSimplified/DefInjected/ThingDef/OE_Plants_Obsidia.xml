@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Alpine Belladonna -->
+  <Plant_OE_Alpine_B.label>TODO</Plant_OE_Alpine_B.label>
+  <!-- EN: Outlandish yellow flower of Obsidias Belladonna. Can be used as a night light. -->
+  <Plant_OE_Alpine_B.description>TODO</Plant_OE_Alpine_B.description>
+  
+  <!-- EN: Bloody Belladonna -->
+  <Plant_OE_Bloody_B.label>TODO</Plant_OE_Bloody_B.label>
+  <!-- EN: Gloomy red flower of Obsidias Belladonna. Can be used as a night light. -->
+  <Plant_OE_Bloody_B.description>TODO</Plant_OE_Bloody_B.description>
+  
+  <!-- EN: Coral Belladonna -->
+  <Plant_OE_Coral_B.label>TODO</Plant_OE_Coral_B.label>
+  <!-- EN: Outlandish pink flower of Obsidias Belladonna. Can be used as a night light. -->
+  <Plant_OE_Coral_B.description>TODO</Plant_OE_Coral_B.description>
+  
+  <!-- EN: iglolia -->
+  <Plant_OE_Iglolia.label>TODO</Plant_OE_Iglolia.label>
+  <!-- EN: A fast-growing vines that grows in Obsidias dense groves. Iglolia can be harvested for a wood-like material. The plant itself is not beautiful. -->
+  <Plant_OE_Iglolia.description>TODO</Plant_OE_Iglolia.description>
+  
+  <!-- EN: Jumy -->
+  <Plant_OE_Jumy.label>TODO</Plant_OE_Jumy.label>
+  <!-- EN: Small Obsidias plant inside which grows handfuls tasty and sweet berries. -->
+  <Plant_OE_Jumy.description>TODO</Plant_OE_Jumy.description>
+  
+  <!-- EN: jumy bush -->
+  <Plant_OE_JumyBush.label>TODO</Plant_OE_JumyBush.label>
+  <!-- EN: An artificially bred medium Obsidias plant inside which grows handfuls tasty and sweet berries. -->
+  <Plant_OE_JumyBush.description>TODO</Plant_OE_JumyBush.description>
+  
+  <!-- EN: Dusk Lotus -->
+  <Plant_OE_Lotus_D.label>TODO</Plant_OE_Lotus_D.label>
+  <!-- EN: Beautiful dark flowers of the Obsidias Lotus. -->
+  <Plant_OE_Lotus_D.description>TODO</Plant_OE_Lotus_D.description>
+  
+  <!-- EN: Sunny Lotus -->
+  <Plant_OE_Lotus_S.label>TODO</Plant_OE_Lotus_S.label>
+  <!-- EN: Beautiful light flowers of the Obsidias Lotus. -->
+  <Plant_OE_Lotus_S.description>TODO</Plant_OE_Lotus_S.description>
+  
+  <!-- EN: Moonplant -->
+  <Plant_OE_Moonplant.label>TODO</Plant_OE_Moonplant.label>
+  <!-- EN: Obsidias mid-size crystal crop that yields silk net that is both difficult to tear and soft to the touch. These are used to make mooncloth. -->
+  <Plant_OE_Moonplant.description>TODO</Plant_OE_Moonplant.description>
+  
+  <!-- EN: mycelium stump -->
+  <Plant_OE_MyceliumStump.label>TODO</Plant_OE_MyceliumStump.label>
+  <!-- EN: An artificially bred symbiosis of tree and mycelium. Doesn't grow very fast, but can be an excellent source of raw fungus. -->
+  <Plant_OE_MyceliumStump.description>TODO</Plant_OE_MyceliumStump.description>
+  
+  <!-- EN: Oasis Belladonna -->
+  <Plant_OE_Oasis_B.label>TODO</Plant_OE_Oasis_B.label>
+  <!-- EN: Outlandish green flower of Obsidias Belladonna. Can be used as a night light. -->
+  <Plant_OE_Oasis_B.description>TODO</Plant_OE_Oasis_B.description>
+  
+  <!-- EN: Pellashroom -->
+  <Plant_OE_Pellashroom.label>TODO</Plant_OE_Pellashroom.label>
+  <!-- EN: Genetically modified Obsidias mushrooms. Produces a small amount of chemfuel. -->
+  <Plant_OE_Pellashroom.description>TODO</Plant_OE_Pellashroom.description>
+  
+  <!-- EN: Dragonian tree -->
+  <Plant_OE_TreeDragonian.label>TODO</Plant_OE_TreeDragonian.label>
+  <!-- EN: According to ancient legends, these trees grow in the burial places of ancient dragon-like creatures that inhabited Obsidia long before people appeared there. Very rare and valuable Obsidias tree of medium size. This tree yields a small amount of very valuable, durable and beautiful wood.\n\nIt can grow even on rocky terrain. -->
+  <Plant_OE_TreeDragonian.description>TODO</Plant_OE_TreeDragonian.description>
+  
+  <!-- EN: Fungi tree -->
+  <Plant_OE_TreeFungi.label>TODO</Plant_OE_TreeFungi.label>
+  <!-- EN: Huge Obsidias mushrooms that yield unique wood. This wood is more durable and less flammable.\n\nThey do not require a lot of space for growth, they can grow at a short distance from each other. -->
+  <Plant_OE_TreeFungi.description>TODO</Plant_OE_TreeFungi.description>
+  
+  <!-- EN: Pearlapple tree -->
+  <Plant_OE_TreePearlapple.label>TODO</Plant_OE_TreePearlapple.label>
+  <!-- EN: Obsidias long-growing crystal tree bearing pearlapples. Pearlapple fruits used as a meat substitute. -->
+  <Plant_OE_TreePearlapple.description>TODO</Plant_OE_TreePearlapple.description>
+  
+  <!-- EN: Syntherius tree -->
+  <Plant_OE_TreeSyntherius.label>TODO</Plant_OE_TreeSyntherius.label>
+  <!-- EN: Strange and previously underestimated plant from Obsidias. Syntherius crystals grow inside the tree. Previously, it was used in jewelry, but after further exploring the possibilities of this plant, it became a key element in the production of Obsidia.\n\nThe plant is medium size, which allows it to be grown under a roof. -->
+  <Plant_OE_TreeSyntherius.description>TODO</Plant_OE_TreeSyntherius.description>
+  
+  <!-- EN: Tundral Belladonna -->
+  <Plant_OE_Tundral_B.label>TODO</Plant_OE_Tundral_B.label>
+  <!-- EN: Outlandish blue flower of Obsidias Belladonna. Can be used as a night light. -->
+  <Plant_OE_Tundral_B.description>TODO</Plant_OE_Tundral_B.description>
+  
+</LanguageData>

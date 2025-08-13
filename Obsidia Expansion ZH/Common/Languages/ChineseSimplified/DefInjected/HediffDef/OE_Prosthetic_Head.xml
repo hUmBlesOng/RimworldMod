@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bionic ear -->
+  <OE_ProstheticEar.label>TODO</OE_ProstheticEar.label>
+  <!-- EN: An installed bionic ear. -->
+  <OE_ProstheticEar.description>TODO</OE_ProstheticEar.description>
+  <!-- EN: a bionic ear -->
+  <OE_ProstheticEar.labelNoun>TODO</OE_ProstheticEar.labelNoun>
+  
+  <!-- EN: cultist bionic ear -->
+  <OE_ProstheticEar_CAC.label>TODO</OE_ProstheticEar_CAC.label>
+  <!-- EN: An installed cultist bionic ear. -->
+  <OE_ProstheticEar_CAC.description>TODO</OE_ProstheticEar_CAC.description>
+  <!-- EN: a cultist bionic ear -->
+  <OE_ProstheticEar_CAC.labelNoun>TODO</OE_ProstheticEar_CAC.labelNoun>
+  
+  <!-- EN: advanced bionic ear -->
+  <OE_ProstheticEar_M.label>TODO</OE_ProstheticEar_M.label>
+  <!-- EN: An installed advanced bionic ear. -->
+  <OE_ProstheticEar_M.description>TODO</OE_ProstheticEar_M.description>
+  <!-- EN: an advanced bionic ear -->
+  <OE_ProstheticEar_M.labelNoun>TODO</OE_ProstheticEar_M.labelNoun>
+  
+  <!-- EN: heroic bionic ear -->
+  <OE_ProstheticEar_OES.label>TODO</OE_ProstheticEar_OES.label>
+  <!-- EN: An installed heroic bionic ear. -->
+  <OE_ProstheticEar_OES.description>TODO</OE_ProstheticEar_OES.description>
+  <!-- EN: a heroic bionic ear -->
+  <OE_ProstheticEar_OES.labelNoun>TODO</OE_ProstheticEar_OES.labelNoun>
+  
+  <!-- EN: bionic eye -->
+  <OE_ProstheticEye.label>TODO</OE_ProstheticEye.label>
+  <!-- EN: An installed bionic eye. -->
+  <OE_ProstheticEye.description>TODO</OE_ProstheticEye.description>
+  <!-- EN: a bionic eye -->
+  <OE_ProstheticEye.labelNoun>TODO</OE_ProstheticEye.labelNoun>
+  
+  <!-- EN: cultist bionic eye -->
+  <OE_ProstheticEye_CAC.label>TODO</OE_ProstheticEye_CAC.label>
+  <!-- EN: An installed cultist bionic eye. -->
+  <OE_ProstheticEye_CAC.description>TODO</OE_ProstheticEye_CAC.description>
+  <!-- EN: a cultist bionic eye -->
+  <OE_ProstheticEye_CAC.labelNoun>TODO</OE_ProstheticEye_CAC.labelNoun>
+  
+  <!-- EN: advanced bionic eye -->
+  <OE_ProstheticEye_M.label>TODO</OE_ProstheticEye_M.label>
+  <!-- EN: An installed advanced bionic eye. -->
+  <OE_ProstheticEye_M.description>TODO</OE_ProstheticEye_M.description>
+  <!-- EN: an advanced bionic eye -->
+  <OE_ProstheticEye_M.labelNoun>TODO</OE_ProstheticEye_M.labelNoun>
+  
+  <!-- EN: heroic bionic eye -->
+  <OE_ProstheticEye_OES.label>TODO</OE_ProstheticEye_OES.label>
+  <!-- EN: An installed heroic bionic eye. -->
+  <OE_ProstheticEye_OES.description>TODO</OE_ProstheticEye_OES.description>
+  <!-- EN: a heroic bionic eye -->
+  <OE_ProstheticEye_OES.labelNoun>TODO</OE_ProstheticEye_OES.labelNoun>
+  
+  <!-- EN: bionic jaw -->
+  <OE_ProstheticJaw.label>TODO</OE_ProstheticJaw.label>
+  <!-- EN: An installed bionic jaw. -->
+  <OE_ProstheticJaw.description>TODO</OE_ProstheticJaw.description>
+  <!-- EN: a bionic jaw -->
+  <OE_ProstheticJaw.labelNoun>TODO</OE_ProstheticJaw.labelNoun>
+  
+  <!-- EN: cultist bionic jaw -->
+  <OE_ProstheticJaw_CAC.label>TODO</OE_ProstheticJaw_CAC.label>
+  <!-- EN: An installed cultist bionic jaw. -->
+  <OE_ProstheticJaw_CAC.description>TODO</OE_ProstheticJaw_CAC.description>
+  <!-- EN: a cultist bionic jaw -->
+  <OE_ProstheticJaw_CAC.labelNoun>TODO</OE_ProstheticJaw_CAC.labelNoun>
+  
+  <!-- EN: advanced bionic jaw -->
+  <OE_ProstheticJaw_M.label>TODO</OE_ProstheticJaw_M.label>
+  <!-- EN: An installed advanced bionic jaw. -->
+  <OE_ProstheticJaw_M.description>TODO</OE_ProstheticJaw_M.description>
+  <!-- EN: an advanced bionic jaw -->
+  <OE_ProstheticJaw_M.labelNoun>TODO</OE_ProstheticJaw_M.labelNoun>
+  
+  <!-- EN: heroic bionic jaw -->
+  <OE_ProstheticJaw_OES.label>TODO</OE_ProstheticJaw_OES.label>
+  <!-- EN: An installed heroic bionic jaw. -->
+  <OE_ProstheticJaw_OES.description>TODO</OE_ProstheticJaw_OES.description>
+  <!-- EN: a heroic bionic jaw -->
+  <OE_ProstheticJaw_OES.labelNoun>TODO</OE_ProstheticJaw_OES.labelNoun>
+  
+</LanguageData>

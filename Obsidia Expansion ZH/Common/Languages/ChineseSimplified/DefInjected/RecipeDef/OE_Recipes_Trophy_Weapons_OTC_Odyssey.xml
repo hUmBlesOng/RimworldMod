@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Paragon bond Randy's Deck -->
+  <OE_Bond_OTC_Trophy_Cards.label>TODO</OE_Bond_OTC_Trophy_Cards.label>
+  <!-- EN: Paragon bond a Randy's Deck. -->
+  <OE_Bond_OTC_Trophy_Cards.description>TODO</OE_Bond_OTC_Trophy_Cards.description>
+  <!-- EN: Paragon bonding a Randy's Deck. -->
+  <OE_Bond_OTC_Trophy_Cards.jobString>TODO</OE_Bond_OTC_Trophy_Cards.jobString>
+  
+  <!-- EN: Reset Inlaid Randy's Deck -->
+  <OE_Reset_OTC_Trophy_Cards_I.label>TODO</OE_Reset_OTC_Trophy_Cards_I.label>
+  <!-- EN: Reset an Inlaid Randy's Deck.\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_OTC_Trophy_Cards_I.description>TODO</OE_Reset_OTC_Trophy_Cards_I.description>
+  <!-- EN: Resetting an Inlaid Randy's Deck. -->
+  <OE_Reset_OTC_Trophy_Cards_I.jobString>TODO</OE_Reset_OTC_Trophy_Cards_I.jobString>
+  
+  <!-- EN: Reset Paragon Randy's Deck -->
+  <OE_Reset_OTC_Trophy_Cards_P.label>TODO</OE_Reset_OTC_Trophy_Cards_P.label>
+  <!-- EN: Reset a Paragon Randy's Deck.\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_OTC_Trophy_Cards_P.description>TODO</OE_Reset_OTC_Trophy_Cards_P.description>
+  <!-- EN: Resetting a Paragon Randy's Deck. -->
+  <OE_Reset_OTC_Trophy_Cards_P.jobString>TODO</OE_Reset_OTC_Trophy_Cards_P.jobString>
+  
+</LanguageData>

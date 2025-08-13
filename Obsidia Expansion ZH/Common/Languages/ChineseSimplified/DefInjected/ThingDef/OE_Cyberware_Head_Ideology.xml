@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cyberware - Ideologist -->
+  <OE_CyberwareNeck_Ideologist.label>TODO</OE_CyberwareNeck_Ideologist.label>
+  <!-- EN: Obsidia cyberware is technology installed into the human flesh that sometimes has the capability to interface with the nervous system. Its goal is to achieve higher performance and bring new enhancements in ideology skills.\n\nInstallation requires - cyberware interface.\n\nThis cyberware can be installed up to 5 times to increase its effect. -->
+  <OE_CyberwareNeck_Ideologist.description>TODO</OE_CyberwareNeck_Ideologist.description>
+  <!-- EN: Implant {0_label} -->
+  <OE_CyberwareNeck_Ideologist.comps.CompUsableImplant.useLabel>TODO</OE_CyberwareNeck_Ideologist.comps.CompUsableImplant.useLabel>
+  
+</LanguageData>

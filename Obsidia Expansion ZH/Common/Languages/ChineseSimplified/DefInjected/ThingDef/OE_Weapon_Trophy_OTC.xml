@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Randy's card -->
+  <Bullet_OTC_Trophy_C.label>TODO</Bullet_OTC_Trophy_C.label>
+  
+  <!-- EN: Inlaid Randy's card -->
+  <Bullet_OTC_Trophy_C_I.label>TODO</Bullet_OTC_Trophy_C_I.label>
+  
+  <!-- EN: Randy's Deck -->
+  <OTC_Trophy_Cards.label>TODO</OTC_Trophy_Cards.label>
+  <!-- EN: Deck of combat throwing cards designed by a certain engineer, Randy.\n\nThis is a rare trophy weapon.\n\nFeature: able to deal a random additional type of damage. -->
+  <OTC_Trophy_Cards.description>TODO</OTC_Trophy_Cards.description>
+  <!-- EN: pouch -->
+  <OTC_Trophy_Cards.tools.pouch.label>TODO</OTC_Trophy_Cards.tools.pouch.label>
+  <!-- EN: card -->
+  <OTC_Trophy_Cards.tools.card.label>TODO</OTC_Trophy_Cards.tools.card.label>
+  <!-- EN: Randy's Deck -->
+  <OTC_Trophy_Cards.verbs.Verb_Shoot.label>TODO</OTC_Trophy_Cards.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Inlaid Randy's Deck -->
+  <OTC_Trophy_Cards_I.label>TODO</OTC_Trophy_Cards_I.label>
+  <!-- EN: Deck of combat throwing cards designed by a certain engineer, Randy.\n\nThis is a rare trophy weapon.\n\nFeature: able to deal a random additional type of damage.\n\nInlaid with Might Power Stone: Weapon combat stats increased. -->
+  <OTC_Trophy_Cards_I.description>TODO</OTC_Trophy_Cards_I.description>
+  <!-- EN: pouch -->
+  <OTC_Trophy_Cards_I.tools.pouch.label>TODO</OTC_Trophy_Cards_I.tools.pouch.label>
+  <!-- EN: card -->
+  <OTC_Trophy_Cards_I.tools.card.label>TODO</OTC_Trophy_Cards_I.tools.card.label>
+  <!-- EN: Inlaid Randy's Deck -->
+  <OTC_Trophy_Cards_I.verbs.Verb_Shoot.label>TODO</OTC_Trophy_Cards_I.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Acid Rift -->
+  <OTC_Trophy_Sword_Acid.label>TODO</OTC_Trophy_Sword_Acid.label>
+  <!-- EN: Limited edition unique elemental sword.\n\nThis is a rare trophy weapon with Acid charges.\n\nFeature: a built-in module that improves combat performance. -->
+  <OTC_Trophy_Sword_Acid.description>TODO</OTC_Trophy_Sword_Acid.description>
+  <!-- EN: handle -->
+  <OTC_Trophy_Sword_Acid.tools.handle.label>TODO</OTC_Trophy_Sword_Acid.tools.handle.label>
+  <!-- EN: point -->
+  <OTC_Trophy_Sword_Acid.tools.point.label>TODO</OTC_Trophy_Sword_Acid.tools.point.label>
+  
+  <!-- EN: Cryo Rift -->
+  <OTC_Trophy_Sword_Cryo.label>TODO</OTC_Trophy_Sword_Cryo.label>
+  <!-- EN: Limited edition unique elemental sword.\n\nThis is a rare trophy weapon with Cryo charges.\n\nFeature: a built-in module that improves combat performance. -->
+  <OTC_Trophy_Sword_Cryo.description>TODO</OTC_Trophy_Sword_Cryo.description>
+  <!-- EN: handle -->
+  <OTC_Trophy_Sword_Cryo.tools.handle.label>TODO</OTC_Trophy_Sword_Cryo.tools.handle.label>
+  <!-- EN: point -->
+  <OTC_Trophy_Sword_Cryo.tools.point.label>TODO</OTC_Trophy_Sword_Cryo.tools.point.label>
+  
+  <!-- EN: EMP Rift -->
+  <OTC_Trophy_Sword_EMP.label>TODO</OTC_Trophy_Sword_EMP.label>
+  <!-- EN: Limited edition unique elemental sword.\n\nThis is a rare trophy weapon with EMP charges.\n\nFeature: a built-in module that improves combat performance.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
+  <OTC_Trophy_Sword_EMP.description>TODO</OTC_Trophy_Sword_EMP.description>
+  <!-- EN: handle -->
+  <OTC_Trophy_Sword_EMP.tools.handle.label>TODO</OTC_Trophy_Sword_EMP.tools.handle.label>
+  <!-- EN: point -->
+  <OTC_Trophy_Sword_EMP.tools.point.label>TODO</OTC_Trophy_Sword_EMP.tools.point.label>
+  
+  <!-- EN: Fire Rift -->
+  <OTC_Trophy_Sword_Fire.label>TODO</OTC_Trophy_Sword_Fire.label>
+  <!-- EN: Limited edition unique elemental sword.\n\nThis is a rare trophy weapon with Fire charges.\n\nFeature: a built-in module that improves combat performance. -->
+  <OTC_Trophy_Sword_Fire.description>TODO</OTC_Trophy_Sword_Fire.description>
+  <!-- EN: handle -->
+  <OTC_Trophy_Sword_Fire.tools.handle.label>TODO</OTC_Trophy_Sword_Fire.tools.handle.label>
+  <!-- EN: point -->
+  <OTC_Trophy_Sword_Fire.tools.point.label>TODO</OTC_Trophy_Sword_Fire.tools.point.label>
+  
+  <!-- EN: Inlaid Acid Rift -->
+  <OTC_Trophy_Sword_I_Acid.label>TODO</OTC_Trophy_Sword_I_Acid.label>
+  <!-- EN: Limited edition unique elemental sword.\n\nThis is a rare trophy weapon with Acid charges.\n\nFeature: a built-in module that improves combat performance.\n\nInlaid with Vitality Power Stone: Weapon operational stats increased. -->
+  <OTC_Trophy_Sword_I_Acid.description>TODO</OTC_Trophy_Sword_I_Acid.description>
+  <!-- EN: handle -->
+  <OTC_Trophy_Sword_I_Acid.tools.handle.label>TODO</OTC_Trophy_Sword_I_Acid.tools.handle.label>
+  <!-- EN: point -->
+  <OTC_Trophy_Sword_I_Acid.tools.point.label>TODO</OTC_Trophy_Sword_I_Acid.tools.point.label>
+  
+  <!-- EN: Inlaid Cryo Rift -->
+  <OTC_Trophy_Sword_I_Cryo.label>TODO</OTC_Trophy_Sword_I_Cryo.label>
+  <!-- EN: Limited edition unique elemental sword.\n\nThis is a rare trophy weapon with Cryo charges.\n\nFeature: a built-in module that improves combat performance.\n\nInlaid with Vitality Power Stone: Weapon operational stats increased. -->
+  <OTC_Trophy_Sword_I_Cryo.description>TODO</OTC_Trophy_Sword_I_Cryo.description>
+  <!-- EN: handle -->
+  <OTC_Trophy_Sword_I_Cryo.tools.handle.label>TODO</OTC_Trophy_Sword_I_Cryo.tools.handle.label>
+  <!-- EN: point -->
+  <OTC_Trophy_Sword_I_Cryo.tools.point.label>TODO</OTC_Trophy_Sword_I_Cryo.tools.point.label>
+  
+  <!-- EN: Inlaid EMP Rift -->
+  <OTC_Trophy_Sword_I_EMP.label>TODO</OTC_Trophy_Sword_I_EMP.label>
+  <!-- EN: Limited edition unique elemental sword.\n\nThis is a rare trophy weapon with EMP charges.\n\nFeature: a built-in module that improves combat performance.\n\nWarning! EMP damage isn't intended to destroy meatbags.\n\nInlaid with Vitality Power Stone: Weapon operational stats increased. -->
+  <OTC_Trophy_Sword_I_EMP.description>TODO</OTC_Trophy_Sword_I_EMP.description>
+  <!-- EN: handle -->
+  <OTC_Trophy_Sword_I_EMP.tools.handle.label>TODO</OTC_Trophy_Sword_I_EMP.tools.handle.label>
+  <!-- EN: point -->
+  <OTC_Trophy_Sword_I_EMP.tools.point.label>TODO</OTC_Trophy_Sword_I_EMP.tools.point.label>
+  
+  <!-- EN: Inlaid Fire Rift -->
+  <OTC_Trophy_Sword_I_Fire.label>TODO</OTC_Trophy_Sword_I_Fire.label>
+  <!-- EN: Limited edition unique elemental sword.\n\nThis is a rare trophy weapon with Fire charges.\n\nFeature: a built-in module that improves combat performance.\n\nInlaid with Vitality Power Stone: Weapon operational stats increased. -->
+  <OTC_Trophy_Sword_I_Fire.description>TODO</OTC_Trophy_Sword_I_Fire.description>
+  <!-- EN: handle -->
+  <OTC_Trophy_Sword_I_Fire.tools.handle.label>TODO</OTC_Trophy_Sword_I_Fire.tools.handle.label>
+  <!-- EN: point -->
+  <OTC_Trophy_Sword_I_Fire.tools.point.label>TODO</OTC_Trophy_Sword_I_Fire.tools.point.label>
+  
+</LanguageData>

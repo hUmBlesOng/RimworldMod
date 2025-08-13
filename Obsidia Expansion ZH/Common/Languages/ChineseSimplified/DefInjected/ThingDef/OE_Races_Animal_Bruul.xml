@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: acid inc -->
+  <Bullet_Bruul_Acid.label>TODO</Bullet_Bruul_Acid.label>
+  
+  <!-- EN: Cryo inc -->
+  <Bullet_Bruul_Cryo.label>TODO</Bullet_Bruul_Cryo.label>
+  
+  <!-- EN: EMP inc -->
+  <Bullet_Bruul_EMP.label>TODO</Bullet_Bruul_EMP.label>
+  
+  <!-- EN: Fire inc -->
+  <Bullet_Bruul_Fire.label>TODO</Bullet_Bruul_Fire.label>
+  
+  <!-- EN: Acid Bruul -->
+  <OE_Bruul_Acid.label>TODO</OE_Bruul_Acid.label>
+  <!-- EN: Bruul is a genetically engineered creature similar to a cephalopod, the design was made using the genes of an unknown creature on Obsidia. Scientists planned to create a living weapon and they succeeded. Bruul is an excellent fighting unit, having the ability to secrete dangerous ink... However, their rather weak and fragile body, as the difficulty in taming and training them, didn't live up to expectations. All test samples had to be disposed of.\n\nThis specimen emits Acid ink. -->
+  <OE_Bruul_Acid.description>TODO</OE_Bruul_Acid.description>
+  <!-- EN: Obsidia synthmeat -->
+  <OE_Bruul_Acid.race.meatLabel>TODO</OE_Bruul_Acid.race.meatLabel>
+  <!-- EN: tentacle -->
+  <OE_Bruul_Acid.tools.tentacle.label>TODO</OE_Bruul_Acid.tools.tentacle.label>
+  <!-- EN: acid inc -->
+  <OE_Bruul_Acid.verbs.acid_inc.label>TODO</OE_Bruul_Acid.verbs.acid_inc.label>
+  
+  <!-- EN: Cryo Bruul -->
+  <OE_Bruul_Cryo.label>TODO</OE_Bruul_Cryo.label>
+  <!-- EN: Bruul is a genetically engineered creature similar to a cephalopod, the design was made using the genes of an unknown creature on Obsidia. Scientists planned to create a living weapon and they succeeded. Bruul is an excellent fighting unit, having the ability to secrete dangerous ink... However, their rather weak and fragile body, as the difficulty in taming and training them, didn't live up to expectations. All test samples had to be disposed of.\n\nThis specimen emits Cryo ink. -->
+  <OE_Bruul_Cryo.description>TODO</OE_Bruul_Cryo.description>
+  <!-- EN: tentacle -->
+  <OE_Bruul_Cryo.tools.tentacle.label>TODO</OE_Bruul_Cryo.tools.tentacle.label>
+  <!-- EN: cryo inc -->
+  <OE_Bruul_Cryo.verbs.cryo_inc.label>TODO</OE_Bruul_Cryo.verbs.cryo_inc.label>
+  
+  <!-- EN: EMP Bruul -->
+  <OE_Bruul_EMP.label>TODO</OE_Bruul_EMP.label>
+  <!-- EN: Bruul is a genetically engineered creature similar to a cephalopod, the design was made using the genes of an unknown creature on Obsidia. Scientists planned to create a living weapon and they succeeded. Bruul is an excellent fighting unit, having the ability to secrete dangerous ink... However, their rather weak and fragile body, as the difficulty in taming and training them, didn't live up to expectations. All test samples had to be disposed of.\n\nThis specimen emits EMP ink. -->
+  <OE_Bruul_EMP.description>TODO</OE_Bruul_EMP.description>
+  <!-- EN: tentacle -->
+  <OE_Bruul_EMP.tools.tentacle.label>TODO</OE_Bruul_EMP.tools.tentacle.label>
+  <!-- EN: EMP inc -->
+  <OE_Bruul_EMP.verbs.EMP_inc.label>TODO</OE_Bruul_EMP.verbs.EMP_inc.label>
+  
+  <!-- EN: Fire Bruul -->
+  <OE_Bruul_Fire.label>TODO</OE_Bruul_Fire.label>
+  <!-- EN: Bruul is a genetically engineered creature similar to a cephalopod, the design was made using the genes of an unknown creature on Obsidia. Scientists planned to create a living weapon and they succeeded. Bruul is an excellent fighting unit, having the ability to secrete dangerous ink... However, their rather weak and fragile body, as the difficulty in taming and training them, didn't live up to expectations. All test samples had to be disposed of.\n\nThis specimen emits Fire ink. -->
+  <OE_Bruul_Fire.description>TODO</OE_Bruul_Fire.description>
+  <!-- EN: tentacle -->
+  <OE_Bruul_Fire.tools.tentacle.label>TODO</OE_Bruul_Fire.tools.tentacle.label>
+  <!-- EN: fire inc -->
+  <OE_Bruul_Fire.verbs.fire_inc.label>TODO</OE_Bruul_Fire.verbs.fire_inc.label>
+  
+</LanguageData>

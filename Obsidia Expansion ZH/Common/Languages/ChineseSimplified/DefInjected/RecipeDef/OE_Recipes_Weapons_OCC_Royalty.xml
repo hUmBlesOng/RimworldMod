@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Reset Persona Reforged Oni -->
+  <OE_Reset_OCC_BigHammer_P.label>TODO</OE_Reset_OCC_BigHammer_P.label>
+  <!-- EN: Reset an Persona Reforged Oni.\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_OCC_BigHammer_P.description>TODO</OE_Reset_OCC_BigHammer_P.description>
+  <!-- EN: Resetting a Persona Reforged Oni. -->
+  <OE_Reset_OCC_BigHammer_P.jobString>TODO</OE_Reset_OCC_BigHammer_P.jobString>
+  
+  <!-- EN: Reset Persona Reforged Shikigami -->
+  <OE_Reset_OCC_BigSword_P.label>TODO</OE_Reset_OCC_BigSword_P.label>
+  <!-- EN: Reset an Persona Reforged Shikigami.\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_OCC_BigSword_P.description>TODO</OE_Reset_OCC_BigSword_P.description>
+  <!-- EN: Resetting a Persona Reforged Shikigami. -->
+  <OE_Reset_OCC_BigSword_P.jobString>TODO</OE_Reset_OCC_BigSword_P.jobString>
+  
+  <!-- EN: Reset Persona Reforged Typhon -->
+  <OE_Reset_OCC_PowerFist_P.label>TODO</OE_Reset_OCC_PowerFist_P.label>
+  <!-- EN: Reset an Persona Reforged Typhon.\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_OCC_PowerFist_P.description>TODO</OE_Reset_OCC_PowerFist_P.description>
+  <!-- EN: Resetting a Persona Reforged Typhon. -->
+  <OE_Reset_OCC_PowerFist_P.jobString>TODO</OE_Reset_OCC_PowerFist_P.jobString>
+  
+  <!-- EN: Reset Persona Reforged Typhon(Acid) -->
+  <OE_Reset_OCC_PowerFist_P_Acid.label>TODO</OE_Reset_OCC_PowerFist_P_Acid.label>
+  <!-- EN: Reset an Persona Reforged Typhon(Acid).\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_OCC_PowerFist_P_Acid.description>TODO</OE_Reset_OCC_PowerFist_P_Acid.description>
+  <!-- EN: Resetting a Persona Reforged Typhon(Acid). -->
+  <OE_Reset_OCC_PowerFist_P_Acid.jobString>TODO</OE_Reset_OCC_PowerFist_P_Acid.jobString>
+  
+  <!-- EN: Reset Persona Reforged Typhon(Cryo) -->
+  <OE_Reset_OCC_PowerFist_P_Cryo.label>TODO</OE_Reset_OCC_PowerFist_P_Cryo.label>
+  <!-- EN: Reset an Persona Reforged Typhon(Cryo).\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_OCC_PowerFist_P_Cryo.description>TODO</OE_Reset_OCC_PowerFist_P_Cryo.description>
+  <!-- EN: Resetting a Persona Reforged Typhon(Cryo). -->
+  <OE_Reset_OCC_PowerFist_P_Cryo.jobString>TODO</OE_Reset_OCC_PowerFist_P_Cryo.jobString>
+  
+  <!-- EN: Reset Persona Reforged Typhon(EMP) -->
+  <OE_Reset_OCC_PowerFist_P_EMP.label>TODO</OE_Reset_OCC_PowerFist_P_EMP.label>
+  <!-- EN: Reset an Persona Reforged Typhon(EMP).\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_OCC_PowerFist_P_EMP.description>TODO</OE_Reset_OCC_PowerFist_P_EMP.description>
+  <!-- EN: Resetting a Persona Reforged Typhon(EMP). -->
+  <OE_Reset_OCC_PowerFist_P_EMP.jobString>TODO</OE_Reset_OCC_PowerFist_P_EMP.jobString>
+  
+  <!-- EN: Reset Persona Reforged Typhon(Fire) -->
+  <OE_Reset_OCC_PowerFist_P_Fire.label>TODO</OE_Reset_OCC_PowerFist_P_Fire.label>
+  <!-- EN: Reset an Persona Reforged Typhon(Fire).\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_OCC_PowerFist_P_Fire.description>TODO</OE_Reset_OCC_PowerFist_P_Fire.description>
+  <!-- EN: Resetting a Persona Reforged Typhon(Fire). -->
+  <OE_Reset_OCC_PowerFist_P_Fire.jobString>TODO</OE_Reset_OCC_PowerFist_P_Fire.jobString>
+  
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: rare arcade machine "rimotroops" -->
+  <OE_JoyArcadeMachine.label>TODO</OE_JoyArcadeMachine.label>
+  <!-- EN: Old rare Obsidia arcade machine with installed rimotroops game. -->
+  <OE_JoyArcadeMachine.description>TODO</OE_JoyArcadeMachine.description>
+  
+  <!-- EN: rimopoly table -->
+  <OE_JoyTable.label>TODO</OE_JoyTable.label>
+  <!-- EN: A table designed for playing Obsidia board game where players balance unions and the labor market in order to become greatest in rimopoly! -->
+  <OE_JoyTable.description>TODO</OE_JoyTable.description>
+  
+</LanguageData>

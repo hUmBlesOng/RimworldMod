@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Obsidia agent -->
+  <OE_ObsidiaAgent.label>TODO</OE_ObsidiaAgent.label>
+  <!-- EN: You're one of the surviving agents after a shipwreck on an unknown planet. You have to survive and create a colony for further implementation your mission. -->
+  <OE_ObsidiaAgent.description>TODO</OE_ObsidiaAgent.description>
+  <!-- EN: You're one of the surviving agents after a shipwreck on an unknown planet. You have to survive and create a colony for further implementation your mission. -->
+  <OE_ObsidiaAgent.scenario.description>TODO</OE_ObsidiaAgent.scenario.description>
+  <!-- EN: Obsidia agent -->
+  <OE_ObsidiaAgent.scenario.name>TODO</OE_ObsidiaAgent.scenario.name>
+  <!-- EN: Mission log #94%#02$-Y3:\n\nMain status: #unknown#\n\nAdditional status: shipwreck\n\nFurther instructions:\n\n-create a colony\n\n-eliminate #unknown#\n\n-make contacts with #unknown#\n\n-#unknown# survive\n\n-start the Mission #94%80*$-Y4\n\nYou are ready?\n\nY/#unknown# -->
+  <OE_ObsidiaAgent.scenario.parts.GameStartDialog.text>TODO</OE_ObsidiaAgent.scenario.parts.GameStartDialog.text>
+  <!-- EN: One of the Obsidia Empire agents - the advanced Obsidia Expansion experience. -->
+  <OE_ObsidiaAgent.scenario.summary>TODO</OE_ObsidiaAgent.scenario.summary>
+  
+  <!-- EN: Obsidia colonists -->
+  <OE_ObsidiaColonists.label>TODO</OE_ObsidiaColonists.label>
+  <!-- EN: Your colony is part of the Interplanetary Expansion Program of Obsidia Empire. You have to survive and build a thriving colony with a basic support package. -->
+  <OE_ObsidiaColonists.description>TODO</OE_ObsidiaColonists.description>
+  <!-- EN: Your colony is part of the Interplanetary Expansion Program of Obsidia Empire. You have to survive and build a thriving colony with a basic support package. -->
+  <OE_ObsidiaColonists.scenario.description>TODO</OE_ObsidiaColonists.scenario.description>
+  <!-- EN: Obsidia colonists -->
+  <OE_ObsidiaColonists.scenario.name>TODO</OE_ObsidiaColonists.scenario.name>
+  <!-- EN: Congratulations! You have become part of the Interplanetary Expansion Program of Obsidia Empire.\n\nIt is time to setting up a farming zone, build residential structures. Construct power sources, defenses and get everything what colony need if you want to make it on this harsh world. -->
+  <OE_ObsidiaColonists.scenario.parts.GameStartDialog.text>TODO</OE_ObsidiaColonists.scenario.parts.GameStartDialog.text>
+  <!-- EN: A group of Obsidia Empire colonists - the classic Obsidia Expansion experience. -->
+  <OE_ObsidiaColonists.scenario.summary>TODO</OE_ObsidiaColonists.scenario.summary>
+  
+</LanguageData>

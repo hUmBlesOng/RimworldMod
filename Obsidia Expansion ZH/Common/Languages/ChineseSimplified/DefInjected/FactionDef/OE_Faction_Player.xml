@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Obsidia Agent Colony -->
+  <OE_ObsidiaAgentPlayerColony.label>TODO</OE_ObsidiaAgentPlayerColony.label>
+  <!-- EN: A colony of recently-crashed Obsidia Empire agents. -->
+  <OE_ObsidiaAgentPlayerColony.description>TODO</OE_ObsidiaAgentPlayerColony.description>
+  <!-- EN: consul -->
+  <OE_ObsidiaAgentPlayerColony.leaderTitle>TODO</OE_ObsidiaAgentPlayerColony.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <OE_ObsidiaAgentPlayerColony.messageDefendersAttacking>TODO</OE_ObsidiaAgentPlayerColony.messageDefendersAttacking>
+  <!-- EN: agent -->
+  <OE_ObsidiaAgentPlayerColony.pawnSingular>TODO</OE_ObsidiaAgentPlayerColony.pawnSingular>
+  <!-- EN: agents -->
+  <OE_ObsidiaAgentPlayerColony.pawnsPlural>TODO</OE_ObsidiaAgentPlayerColony.pawnsPlural>
+  
+  <!-- EN: Obsidia Colony -->
+  <OE_ObsidiaPlayerColony.label>TODO</OE_ObsidiaPlayerColony.label>
+  <!-- EN: A colony of recently-arrived Obsidia Empire colonists. -->
+  <OE_ObsidiaPlayerColony.description>TODO</OE_ObsidiaPlayerColony.description>
+  <!-- EN: consul -->
+  <OE_ObsidiaPlayerColony.leaderTitle>TODO</OE_ObsidiaPlayerColony.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <OE_ObsidiaPlayerColony.messageDefendersAttacking>TODO</OE_ObsidiaPlayerColony.messageDefendersAttacking>
+  <!-- EN: colonist -->
+  <OE_ObsidiaPlayerColony.pawnSingular>TODO</OE_ObsidiaPlayerColony.pawnSingular>
+  <!-- EN: colonists -->
+  <OE_ObsidiaPlayerColony.pawnsPlural>TODO</OE_ObsidiaPlayerColony.pawnsPlural>
+  
+</LanguageData>

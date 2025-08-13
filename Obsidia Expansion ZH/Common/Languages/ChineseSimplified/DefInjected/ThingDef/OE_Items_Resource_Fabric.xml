@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: empyrium synthweave -->
+  <OE_EmpyriumSynthweave.label>TODO</OE_EmpyriumSynthweave.label>
+  <!-- EN: Fabric synthesized from Empyrium. Synthweave is similar in properties to the original. -->
+  <OE_EmpyriumSynthweave.description>TODO</OE_EmpyriumSynthweave.description>
+  
+  <!-- EN: luxurious obsidia fur -->
+  <OE_Leather_Astrinx.label>TODO</OE_Leather_Astrinx.label>
+  <!-- EN: A soft furry pelt harvested from obsidia fauna. It is very beautiful, durable and insulates well against heat. -->
+  <OE_Leather_Astrinx.description>TODO</OE_Leather_Astrinx.description>
+  
+  <!-- EN: obsidia synthleather -->
+  <OE_Leather_Bruul.label>TODO</OE_Leather_Bruul.label>
+  <!-- EN: Lightweight, thin obsidia fauna leather. It is very fragile and weak, but at the same time it perfectly protects against temperature and is incredibly beautiful. -->
+  <OE_Leather_Bruul.description>TODO</OE_Leather_Bruul.description>
+  
+  <!-- EN: insulated obsidia fur -->
+  <OE_Leather_Direwolf.label>TODO</OE_Leather_Direwolf.label>
+  <!-- EN: A soft furry pelt harvested from obsidia fauna. It is beautiful, very durable and insulates well against cold. -->
+  <OE_Leather_Direwolf.description>TODO</OE_Leather_Direwolf.description>
+  
+  <!-- EN: rough obsidia skin -->
+  <OE_Leather_Ogren.label>TODO</OE_Leather_Ogren.label>
+  <!-- EN: Tanned, dried, scraped obsidia fauna skin. It is tough, strong, but insulates bad. -->
+  <OE_Leather_Ogren.description>TODO</OE_Leather_Ogren.description>
+  
+  <!-- EN: thermal obsidia scale -->
+  <OE_Leather_Raptor.label>TODO</OE_Leather_Raptor.label>
+  <!-- EN: Tanned obsidia fauna leather. Very beautiful, strong and protects well from the heat. -->
+  <OE_Leather_Raptor.description>TODO</OE_Leather_Raptor.description>
+  
+  <!-- EN: Mooncloth -->
+  <OE_Mooncloth.label>TODO</OE_Mooncloth.label>
+  <!-- EN: Fabric spun from microfibers extracted from Moonplants. It is tough, light, strong, luxurious and insulates well. -->
+  <OE_Mooncloth.description>TODO</OE_Mooncloth.description>
+  
+  <!-- EN: mythril synthweave -->
+  <OE_MythrilSynthweave.label>TODO</OE_MythrilSynthweave.label>
+  <!-- EN: Fabric synthesized from Mythril. Synthweave is similar in properties to the original. -->
+  <OE_MythrilSynthweave.description>TODO</OE_MythrilSynthweave.description>
+  
+  <!-- EN: obsidian synthweave -->
+  <OE_ObsidianSynthweave.label>TODO</OE_ObsidianSynthweave.label>
+  <!-- EN: Fabric synthesized from Obsidian. Synthweave is similar in properties to the original. -->
+  <OE_ObsidianSynthweave.description>TODO</OE_ObsidianSynthweave.description>
+  
+  <!-- EN: orichalcum synthweave -->
+  <OE_OrichalcumSynthweave.label>TODO</OE_OrichalcumSynthweave.label>
+  <!-- EN: Fabric synthesized from Orichalcum. Synthweave is similar in properties to the original. -->
+  <OE_OrichalcumSynthweave.description>TODO</OE_OrichalcumSynthweave.description>
+  
+  <!-- EN: platinum synthweave -->
+  <OE_PlatinumSynthweave.label>TODO</OE_PlatinumSynthweave.label>
+  <!-- EN: Fabric synthesized from Platinum. Synthweave is similar in properties to the original. -->
+  <OE_PlatinumSynthweave.description>TODO</OE_PlatinumSynthweave.description>
+  
+</LanguageData>

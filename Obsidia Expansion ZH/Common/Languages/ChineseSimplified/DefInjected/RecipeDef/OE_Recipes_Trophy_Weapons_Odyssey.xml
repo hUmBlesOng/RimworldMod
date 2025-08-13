@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Paragon bond Prototype sX-02a -->
+  <OE_Bond_OE_Trophy_RepairPistol.label>TODO</OE_Bond_OE_Trophy_RepairPistol.label>
+  <!-- EN: Paragon bond a Prototype sX-02a. -->
+  <OE_Bond_OE_Trophy_RepairPistol.description>TODO</OE_Bond_OE_Trophy_RepairPistol.description>
+  <!-- EN: Paragon bonding a Prototype sX-02a. -->
+  <OE_Bond_OE_Trophy_RepairPistol.jobString>TODO</OE_Bond_OE_Trophy_RepairPistol.jobString>
+  
+  <!-- EN: Paragon bond Ashisogi Jizō -->
+  <OE_Bond_OE_Trophy_SampleCollector.label>TODO</OE_Bond_OE_Trophy_SampleCollector.label>
+  <!-- EN: Paragon bond an Ashisogi Jizō. -->
+  <OE_Bond_OE_Trophy_SampleCollector.description>TODO</OE_Bond_OE_Trophy_SampleCollector.description>
+  <!-- EN: Paragon bonding an Ashisogi Jizō. -->
+  <OE_Bond_OE_Trophy_SampleCollector.jobString>TODO</OE_Bond_OE_Trophy_SampleCollector.jobString>
+  
+  <!-- EN: Paragon bond Titanstrike -->
+  <OE_Bond_OE_Trophy_UnstableGun.label>TODO</OE_Bond_OE_Trophy_UnstableGun.label>
+  <!-- EN: Paragon bond a Titanstrike. -->
+  <OE_Bond_OE_Trophy_UnstableGun.description>TODO</OE_Bond_OE_Trophy_UnstableGun.description>
+  <!-- EN: Paragon bonding a Titanstrike. -->
+  <OE_Bond_OE_Trophy_UnstableGun.jobString>TODO</OE_Bond_OE_Trophy_UnstableGun.jobString>
+  
+  <!-- EN: Reset Paragon Prototype sX-02a -->
+  <OE_Reset_OE_Trophy_RepairPistol_P.label>TODO</OE_Reset_OE_Trophy_RepairPistol_P.label>
+  <!-- EN: Reset a Paragon Prototype sX-02a.\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_OE_Trophy_RepairPistol_P.description>TODO</OE_Reset_OE_Trophy_RepairPistol_P.description>
+  <!-- EN: Resetting a Paragon Prototype sX-02a. -->
+  <OE_Reset_OE_Trophy_RepairPistol_P.jobString>TODO</OE_Reset_OE_Trophy_RepairPistol_P.jobString>
+  
+  <!-- EN: Reset Paragon Ashisogi Jizō -->
+  <OE_Reset_OE_Trophy_SampleCollector_P.label>TODO</OE_Reset_OE_Trophy_SampleCollector_P.label>
+  <!-- EN: Reset a Paragon Ashisogi Jizō.\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_OE_Trophy_SampleCollector_P.description>TODO</OE_Reset_OE_Trophy_SampleCollector_P.description>
+  <!-- EN: Resetting a Paragon Ashisogi Jizō. -->
+  <OE_Reset_OE_Trophy_SampleCollector_P.jobString>TODO</OE_Reset_OE_Trophy_SampleCollector_P.jobString>
+  
+  <!-- EN: Reset Paragon Titanstrike -->
+  <OE_Reset_OE_Trophy_UnstableGun_P.label>TODO</OE_Reset_OE_Trophy_UnstableGun_P.label>
+  <!-- EN: Reset a Paragon Titanstrike.\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_OE_Trophy_UnstableGun_P.description>TODO</OE_Reset_OE_Trophy_UnstableGun_P.description>
+  <!-- EN: Resetting a Paragon Titanstrike. -->
+  <OE_Reset_OE_Trophy_UnstableGun_P.jobString>TODO</OE_Reset_OE_Trophy_UnstableGun_P.jobString>
+  
+</LanguageData>

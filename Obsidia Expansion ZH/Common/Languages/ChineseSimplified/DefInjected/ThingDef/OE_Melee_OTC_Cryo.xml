@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Genesis(Cryo) -->
+  <OTC_BigAxe_Cryo.label>TODO</OTC_BigAxe_Cryo.label>
+  <!-- EN: Regular Big Axe used by OTC Mechanics. Charged with Cryo damage. -->
+  <OTC_BigAxe_Cryo.description>TODO</OTC_BigAxe_Cryo.description>
+  <!-- EN: handle -->
+  <OTC_BigAxe_Cryo.tools.handle.label>TODO</OTC_BigAxe_Cryo.tools.handle.label>
+  <!-- EN: edge -->
+  <OTC_BigAxe_Cryo.tools.edge.label>TODO</OTC_BigAxe_Cryo.tools.edge.label>
+  
+  <!-- EN: Genesis Prototype(Cryo) -->
+  <OTC_BigAxe_M_Cryo.label>TODO</OTC_BigAxe_M_Cryo.label>
+  <!-- EN: Experimental Big Axe used by OTC Engineers. Charged with Cryo damage. -->
+  <OTC_BigAxe_M_Cryo.description>TODO</OTC_BigAxe_M_Cryo.description>
+  <!-- EN: handle -->
+  <OTC_BigAxe_M_Cryo.tools.handle.label>TODO</OTC_BigAxe_M_Cryo.tools.handle.label>
+  <!-- EN: edge -->
+  <OTC_BigAxe_M_Cryo.tools.edge.label>TODO</OTC_BigAxe_M_Cryo.tools.edge.label>
+  
+  <!-- EN: Netherbane(Cryo) -->
+  <OTC_ChainAxe_Cryo.label>TODO</OTC_ChainAxe_Cryo.label>
+  <!-- EN: Regular ChainAxe used by OTC Mechanics. Charged with Cryo damage. -->
+  <OTC_ChainAxe_Cryo.description>TODO</OTC_ChainAxe_Cryo.description>
+  <!-- EN: handle -->
+  <OTC_ChainAxe_Cryo.tools.handle.label>TODO</OTC_ChainAxe_Cryo.tools.handle.label>
+  <!-- EN: chain -->
+  <OTC_ChainAxe_Cryo.tools.chain.label>TODO</OTC_ChainAxe_Cryo.tools.chain.label>
+  
+  <!-- EN: Netherbane Prototype(Cryo) -->
+  <OTC_ChainAxe_M_Cryo.label>TODO</OTC_ChainAxe_M_Cryo.label>
+  <!-- EN: Experimental ChainAxe used by OTC Engineers. Charged with Cryo damage. -->
+  <OTC_ChainAxe_M_Cryo.description>TODO</OTC_ChainAxe_M_Cryo.description>
+  <!-- EN: handle -->
+  <OTC_ChainAxe_M_Cryo.tools.handle.label>TODO</OTC_ChainAxe_M_Cryo.tools.handle.label>
+  <!-- EN: chain -->
+  <OTC_ChainAxe_M_Cryo.tools.chain.label>TODO</OTC_ChainAxe_M_Cryo.tools.chain.label>
+  
+  <!-- EN: Nemesis(Cryo) -->
+  <OTC_Hammer_Cryo.label>TODO</OTC_Hammer_Cryo.label>
+  <!-- EN: Regular Hammer used by OTC Mechanics. Charged with Cryo damage. -->
+  <OTC_Hammer_Cryo.description>TODO</OTC_Hammer_Cryo.description>
+  <!-- EN: handle -->
+  <OTC_Hammer_Cryo.tools.handle.label>TODO</OTC_Hammer_Cryo.tools.handle.label>
+  <!-- EN: head -->
+  <OTC_Hammer_Cryo.tools.head.label>TODO</OTC_Hammer_Cryo.tools.head.label>
+  
+  <!-- EN: Nemesis Prototype(Cryo) -->
+  <OTC_Hammer_M_Cryo.label>TODO</OTC_Hammer_M_Cryo.label>
+  <!-- EN: Experimental Hammer used by OTC Engineers. Charged with Cryo damage. -->
+  <OTC_Hammer_M_Cryo.description>TODO</OTC_Hammer_M_Cryo.description>
+  <!-- EN: handle -->
+  <OTC_Hammer_M_Cryo.tools.handle.label>TODO</OTC_Hammer_M_Cryo.tools.handle.label>
+  <!-- EN: head -->
+  <OTC_Hammer_M_Cryo.tools.head.label>TODO</OTC_Hammer_M_Cryo.tools.head.label>
+  
+</LanguageData>

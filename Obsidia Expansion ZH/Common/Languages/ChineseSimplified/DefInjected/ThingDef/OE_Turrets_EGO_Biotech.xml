@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: EGO Sporothrix Turret -->
+  <EGO_Turret_Small_GrenadeLauncher.label>TODO</EGO_Turret_Small_GrenadeLauncher.label>
+  <!-- EN: Amalgam Grenade Launcher-equipped turret. Completely self-contained and does not require power or ammunition. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <EGO_Turret_Small_GrenadeLauncher.description>TODO</EGO_Turret_Small_GrenadeLauncher.description>
+  
+  <!-- EN: Sporothrix Turret -->
+  <EGO_TurretGun_Small_GrenadeLauncher.label>TODO</EGO_TurretGun_Small_GrenadeLauncher.label>
+  <!-- EN: Amalgam Grenade Launcher for turrets. -->
+  <EGO_TurretGun_Small_GrenadeLauncher.description>TODO</EGO_TurretGun_Small_GrenadeLauncher.description>
+  <!-- EN: Sporothrix Turret -->
+  <EGO_TurretGun_Small_GrenadeLauncher.verbs.Verb_Shoot.label>TODO</EGO_TurretGun_Small_GrenadeLauncher.verbs.Verb_Shoot.label>
+  
+</LanguageData>

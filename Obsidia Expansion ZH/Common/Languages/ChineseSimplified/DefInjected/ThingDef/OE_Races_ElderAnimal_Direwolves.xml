@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: elder direwolf -->
+  <OE_Elder_Direwolf.label>TODO</OE_Elder_Direwolf.label>
+  <!-- EN: Obsidia Direwolves look like normal wolves, but these creatures are nearly twice the size. Because of their fur, they prefer to live in cool climates. Hard to tame, but once tamed, they become loyal protectors.\n\nBut among them, there are legends of a singular Direwolf—one who survived countless winters alone in the frozen wastelands, devouring only the strongest prey and evading every trap laid by hunters. This beast did not just survive—it adapted. Over time, the EGO Seed dormant within its blood awakened, binding to its primal instincts and forming a natural amalgam of ferocity and endurance.\n\nNow known as the Elder Direwolf, this creature is no longer just a predator—it's a force of nature. With reinforced hide, crushing jaws, and a terrifying ability to leap great distances, it embodies the wrath of the tundra itself.\n\nElder Direwolves are even rarer and more dangerous than the typical Direwolf. -->
+  <OE_Elder_Direwolf.description>TODO</OE_Elder_Direwolf.description>
+  <!-- EN: elder direwolf meat -->
+  <OE_Elder_Direwolf.race.meatLabel>TODO</OE_Elder_Direwolf.race.meatLabel>
+  <!-- EN: left claw -->
+  <OE_Elder_Direwolf.tools.left_claw.label>TODO</OE_Elder_Direwolf.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <OE_Elder_Direwolf.tools.right_claw.label>TODO</OE_Elder_Direwolf.tools.right_claw.label>
+  <!-- EN: head -->
+  <OE_Elder_Direwolf.tools.head.label>TODO</OE_Elder_Direwolf.tools.head.label>
+  
+</LanguageData>

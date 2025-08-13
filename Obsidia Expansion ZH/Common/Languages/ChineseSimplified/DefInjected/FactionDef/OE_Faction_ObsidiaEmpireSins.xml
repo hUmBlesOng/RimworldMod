@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Obsidia Empire Sins -->
+  <ObsidiaEmpireSins.label>TODO</ObsidiaEmpireSins.label>
+  <!-- EN: This group of the chosen ones, they saved, protected and inspired the entire Empire, they were a true sword and an unshakable shield for everyone - Obsidia Empire Heroes... But they were called so before, now they are forgotten, rejected and abandoned by their own Empire and the people for whom they did everything - Eidolons... They no longer bathe in the rays of their own glory, but having gained hatred they have found a new goal - themselves. -->
+  <ObsidiaEmpireSins.description>TODO</ObsidiaEmpireSins.description>
+  <!-- EN: Obsidia Empire Eidolons -->
+  <ObsidiaEmpireSins.fixedName>TODO</ObsidiaEmpireSins.fixedName>
+  <!-- EN: archsin -->
+  <ObsidiaEmpireSins.leaderTitle>TODO</ObsidiaEmpireSins.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <ObsidiaEmpireSins.messageDefendersAttacking>TODO</ObsidiaEmpireSins.messageDefendersAttacking>
+  <!-- EN: eidolon -->
+  <ObsidiaEmpireSins.pawnSingular>TODO</ObsidiaEmpireSins.pawnSingular>
+  <!-- EN: eidolons -->
+  <ObsidiaEmpireSins.pawnsPlural>TODO</ObsidiaEmpireSins.pawnsPlural>
+  
+</LanguageData>

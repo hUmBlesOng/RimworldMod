@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install - Monarch Power Stone -->
+  <OE_InstallPowerStone_Monarch.label>TODO</OE_InstallPowerStone_Monarch.label>
+  <!-- EN: Install - Monarch Power Stone. -->
+  <OE_InstallPowerStone_Monarch.description>TODO</OE_InstallPowerStone_Monarch.description>
+  <!-- EN: Installing - Monarch Power Stone. -->
+  <OE_InstallPowerStone_Monarch.jobString>TODO</OE_InstallPowerStone_Monarch.jobString>
+  
+  <!-- EN: remove - Monarch Power Stone -->
+  <OE_RemovePowerStone_Monarch.label>TODO</OE_RemovePowerStone_Monarch.label>
+  <!-- EN: Remove - Monarch Power Stone. -->
+  <OE_RemovePowerStone_Monarch.description>TODO</OE_RemovePowerStone_Monarch.description>
+  <!-- EN: Removing - Monarch Power Stone. -->
+  <OE_RemovePowerStone_Monarch.jobString>TODO</OE_RemovePowerStone_Monarch.jobString>
+  
+</LanguageData>

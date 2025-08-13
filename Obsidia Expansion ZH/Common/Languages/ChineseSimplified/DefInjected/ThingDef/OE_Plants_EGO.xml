@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: EGO pod -->
+  <Plant_OE_EGORoot.label>TODO</Plant_OE_EGORoot.label>
+  <!-- EN: A large root has broken through to the surface and contains EGO pod with seed. It is part of the EGO tree's extensive root system. -->
+  <Plant_OE_EGORoot.description>TODO</Plant_OE_EGORoot.description>
+  
+  <!-- EN: EGO tree -->
+  <Plant_OE_EGOTree.label>TODO</Plant_OE_EGOTree.label>
+  <!-- EN: A large alien tree with a fast growing and extensive root system. Over time, the roots break through to the surface and may contain Syntherius or a pod with EGO seed. The tree emits dangerous toxic particles from which it is impossible to defend itself, which makes the EGO tree very dangerous.\n\nProlonged exposure to toxic particles can be fatal. -->
+  <Plant_OE_EGOTree.description>TODO</Plant_OE_EGOTree.description>
+  
+  <!-- EN: syntherius root -->
+  <Plant_OE_SyntheriusRoot.label>TODO</Plant_OE_SyntheriusRoot.label>
+  <!-- EN: A large root has broken through to the surface and contains Syntherius. It is part of the EGO tree's extensive root system. -->
+  <Plant_OE_SyntheriusRoot.description>TODO</Plant_OE_SyntheriusRoot.description>
+  
+</LanguageData>

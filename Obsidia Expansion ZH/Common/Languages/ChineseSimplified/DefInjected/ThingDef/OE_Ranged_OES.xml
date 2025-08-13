@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Heroic Pride arrow -->
+  <Bullet_OES_B.label>TODO</Bullet_OES_B.label>
+  
+  <!-- EN: Heroic Unchained bullet -->
+  <Bullet_OES_MG.label>TODO</Bullet_OES_MG.label>
+  
+  <!-- EN: Heroic Cerberus bullet -->
+  <Bullet_OES_RF.label>TODO</Bullet_OES_RF.label>
+  
+  <!-- EN: Heroic Hellscream blast -->
+  <Bullet_OES_SS.label>TODO</Bullet_OES_SS.label>
+  
+  <!-- EN: Heroic Pride -->
+  <OES_Bow.label>TODO</OES_Bow.label>
+  <!-- EN: Heroic Bow used by Eidolons. Specially modified weapon charged with Fire and EMP damages.\n\nThis modification deprives item's quality levels. -->
+  <OES_Bow.description>TODO</OES_Bow.description>
+  <!-- EN: charge -->
+  <OES_Bow.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OES_Bow.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OES_Bow.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OES_Bow.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Heroic Pride -->
+  <OES_Bow.comps.CompUniqueWeapon.namerLabels.0>TODO</OES_Bow.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: limb -->
+  <OES_Bow.tools.limb.label>TODO</OES_Bow.tools.limb.label>
+  <!-- EN: Heroic Pride -->
+  <OES_Bow.verbs.Verb_Shoot.label>TODO</OES_Bow.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Heroic Unchained -->
+  <OES_Minigun.label>TODO</OES_Minigun.label>
+  <!-- EN: Heroic Minigun used by Eidolons. Specially modified weapon charged with Fire and EMP damages.\n\nThis modification deprives item's quality levels. -->
+  <OES_Minigun.description>TODO</OES_Minigun.description>
+  <!-- EN: charge -->
+  <OES_Minigun.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OES_Minigun.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OES_Minigun.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OES_Minigun.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Heroic Unchained -->
+  <OES_Minigun.comps.CompUniqueWeapon.namerLabels.0>TODO</OES_Minigun.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: barrels -->
+  <OES_Minigun.tools.barrels.label>TODO</OES_Minigun.tools.barrels.label>
+  <!-- EN: Heroic Unchained -->
+  <OES_Minigun.verbs.Verb_Shoot.label>TODO</OES_Minigun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Heroic Cerberus -->
+  <OES_Rifle.label>TODO</OES_Rifle.label>
+  <!-- EN: Heroic Rifle used by Eidolons. Specially modified weapon charged with Fire and EMP damages.\n\nThis modification deprives item's quality levels. -->
+  <OES_Rifle.description>TODO</OES_Rifle.description>
+  <!-- EN: charge -->
+  <OES_Rifle.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OES_Rifle.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OES_Rifle.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OES_Rifle.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Heroic Cerberus -->
+  <OES_Rifle.comps.CompUniqueWeapon.namerLabels.0>TODO</OES_Rifle.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: stock -->
+  <OES_Rifle.tools.stock.label>TODO</OES_Rifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <OES_Rifle.tools.barrel.label>TODO</OES_Rifle.tools.barrel.label>
+  <!-- EN: Heroic Cerberus -->
+  <OES_Rifle.verbs.Verb_Shoot.label>TODO</OES_Rifle.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Heroic Hellscream -->
+  <OES_ShotgunS.label>TODO</OES_ShotgunS.label>
+  <!-- EN: Heroic Shotgun Sidearm used by Eidolons. Specially modified weapon charged with Fire and EMP damages.\n\nThis modification deprives item's quality levels. -->
+  <OES_ShotgunS.description>TODO</OES_ShotgunS.description>
+  <!-- EN: charge -->
+  <OES_ShotgunS.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OES_ShotgunS.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OES_ShotgunS.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OES_ShotgunS.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Heroic Hellscream -->
+  <OES_ShotgunS.comps.CompUniqueWeapon.namerLabels.0>TODO</OES_ShotgunS.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: grip -->
+  <OES_ShotgunS.tools.grip.label>TODO</OES_ShotgunS.tools.grip.label>
+  <!-- EN: barrel -->
+  <OES_ShotgunS.tools.barrel.label>TODO</OES_ShotgunS.tools.barrel.label>
+  <!-- EN: Heroic Hellscream -->
+  <OES_ShotgunS.verbs.Verb_Shoot.label>TODO</OES_ShotgunS.verbs.Verb_Shoot.label>
+  
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Paragon bond Prototype sX-01a -->
+  <OE_Bond_OMC_Trophy_Pistol.label>TODO</OE_Bond_OMC_Trophy_Pistol.label>
+  <!-- EN: Paragon bond a Prototype sX-01a. -->
+  <OE_Bond_OMC_Trophy_Pistol.description>TODO</OE_Bond_OMC_Trophy_Pistol.description>
+  <!-- EN: Paragon bonding a Prototype sX-01a. -->
+  <OE_Bond_OMC_Trophy_Pistol.jobString>TODO</OE_Bond_OMC_Trophy_Pistol.jobString>
+  
+  <!-- EN: Reset Inlaid Prototype sX-01a -->
+  <OE_Reset_OMC_Trophy_Pistol_I.label>TODO</OE_Reset_OMC_Trophy_Pistol_I.label>
+  <!-- EN: Reset an Inlaid Prototype sX-01a.\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_OMC_Trophy_Pistol_I.description>TODO</OE_Reset_OMC_Trophy_Pistol_I.description>
+  <!-- EN: Resetting an Inlaid Prototype sX-01a. -->
+  <OE_Reset_OMC_Trophy_Pistol_I.jobString>TODO</OE_Reset_OMC_Trophy_Pistol_I.jobString>
+  
+  <!-- EN: Reset Paragon Prototype sX-01a -->
+  <OE_Reset_OMC_Trophy_Pistol_P.label>TODO</OE_Reset_OMC_Trophy_Pistol_P.label>
+  <!-- EN: Reset a Paragon Prototype sX-01a.\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_OMC_Trophy_Pistol_P.description>TODO</OE_Reset_OMC_Trophy_Pistol_P.description>
+  <!-- EN: Resetting a Paragon Prototype sX-01a. -->
+  <OE_Reset_OMC_Trophy_Pistol_P.jobString>TODO</OE_Reset_OMC_Trophy_Pistol_P.jobString>
+  
+</LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Fallen Legion Guard Spear energy bullet -->
+  <Bullet_OE_LGST.label>TODO</Bullet_OE_LGST.label>
+  
+  <!-- EN: Fallen Legion Guard Spear energy bullet -->
+  <Bullet_OE_LST.label>TODO</Bullet_OE_LST.label>
+  
+  <!-- EN: Legion beam turret -->
+  <OE_LegionBeamTurret.label>TODO</OE_LegionBeamTurret.label>
+  <!-- EN: A small charge blaster turret designed for use on a the Fallen Legion. -->
+  <OE_LegionBeamTurret.description>TODO</OE_LegionBeamTurret.description>
+  <!-- EN: Legion beam turret -->
+  <OE_LegionBeamTurret.verbs.Verb_ShootBeam.label>TODO</OE_LegionBeamTurret.verbs.Verb_ShootBeam.label>
+  
+  <!-- EN: Fallen Legion Guard Spear -->
+  <OE_LegionGuardSpearTurret.label>TODO</OE_LegionGuardSpearTurret.label>
+  <!-- EN: A gun-spear designed for the Fallen Legion Guard. Specially modified weapon charged with Fire and EMP damages.\n\nCan be used in both melee and ranged combat. -->
+  <OE_LegionGuardSpearTurret.description>TODO</OE_LegionGuardSpearTurret.description>
+  <!-- EN: point -->
+  <OE_LegionGuardSpearTurret.tools.point.label>TODO</OE_LegionGuardSpearTurret.tools.point.label>
+  <!-- EN: Fallen Legion Guard Spear -->
+  <OE_LegionGuardSpearTurret.verbs.Verb_Shoot.label>TODO</OE_LegionGuardSpearTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Fallen Legion Spear -->
+  <OE_LegionSpearTurret.label>TODO</OE_LegionSpearTurret.label>
+  <!-- EN: An incredibly powerful gun-spear designed for the Fallen Legion. Specially modified weapon charged with Fire and EMP damages.\n\nCan be used in both melee and ranged combat. -->
+  <OE_LegionSpearTurret.description>TODO</OE_LegionSpearTurret.description>
+  <!-- EN: point -->
+  <OE_LegionSpearTurret.tools.point.label>TODO</OE_LegionSpearTurret.tools.point.label>
+  <!-- EN: Fallen Legion Spear -->
+  <OE_LegionSpearTurret.verbs.Verb_Shoot.label>TODO</OE_LegionSpearTurret.verbs.Verb_Shoot.label>
+  
+</LanguageData>

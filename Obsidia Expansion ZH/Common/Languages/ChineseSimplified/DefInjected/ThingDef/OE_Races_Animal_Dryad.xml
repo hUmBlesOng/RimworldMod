@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: synthesis dryad -->
+  <OE_Dryad_Synthesis.label>TODO</OE_Dryad_Synthesis.label>
+  <!-- EN: An insect-like caste of dryad which specializes in syntherius production. Together with its crystal growing from the body, this dryad can generate a syntherius on an ongoing basis. However, it is slow and ineffective at work or combat.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
+  <OE_Dryad_Synthesis.description>TODO</OE_Dryad_Synthesis.description>
+  <!-- EN: left claw -->
+  <OE_Dryad_Synthesis.tools.left_claw.label>TODO</OE_Dryad_Synthesis.tools.left_claw.label>
+  <!-- EN: claw -->
+  <OE_Dryad_Synthesis.tools.left_claw.labelNoLocation>TODO</OE_Dryad_Synthesis.tools.left_claw.labelNoLocation>
+  <!-- EN: right claw -->
+  <OE_Dryad_Synthesis.tools.right_claw.label>TODO</OE_Dryad_Synthesis.tools.right_claw.label>
+  <!-- EN: claw -->
+  <OE_Dryad_Synthesis.tools.right_claw.labelNoLocation>TODO</OE_Dryad_Synthesis.tools.right_claw.labelNoLocation>
+  <!-- EN: head -->
+  <OE_Dryad_Synthesis.tools.head.label>TODO</OE_Dryad_Synthesis.tools.head.label>
+  
+</LanguageData>

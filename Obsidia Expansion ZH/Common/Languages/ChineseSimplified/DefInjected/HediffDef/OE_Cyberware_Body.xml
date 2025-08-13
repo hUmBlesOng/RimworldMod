@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cyberware - Drug filter(Basic) -->
+  <OE_CyberwareTorso_Drugfilter_Basic.label>TODO</OE_CyberwareTorso_Drugfilter_Basic.label>
+  <!-- EN: An installed cyberware - Drug filter(Basic).\n\nThis cyberware can be installed up to 3 times to increase its effect. -->
+  <OE_CyberwareTorso_Drugfilter_Basic.description>TODO</OE_CyberwareTorso_Drugfilter_Basic.description>
+  <!-- EN: an cyberware - Drug filter(Basic) -->
+  <OE_CyberwareTorso_Drugfilter_Basic.labelNoun>TODO</OE_CyberwareTorso_Drugfilter_Basic.labelNoun>
+  
+  <!-- EN: cyberware - Drug filter(Exotic) -->
+  <OE_CyberwareTorso_Drugfilter_Exotic.label>TODO</OE_CyberwareTorso_Drugfilter_Exotic.label>
+  <!-- EN: An installed cyberware - Drug filter(Exotic).\n\nThis cyberware can be installed up to 3 times to increase its effect. -->
+  <OE_CyberwareTorso_Drugfilter_Exotic.description>TODO</OE_CyberwareTorso_Drugfilter_Exotic.description>
+  <!-- EN: an cyberware - Drug filter(Exotic) -->
+  <OE_CyberwareTorso_Drugfilter_Exotic.labelNoun>TODO</OE_CyberwareTorso_Drugfilter_Exotic.labelNoun>
+  
+  <!-- EN: cyberware - Drug filter(Obsidia) -->
+  <OE_CyberwareTorso_Drugfilter_Obsidia.label>TODO</OE_CyberwareTorso_Drugfilter_Obsidia.label>
+  <!-- EN: An installed cyberware - Drug filter(Obsidia).\n\nThis cyberware can be installed up to 3 times to increase its effect. -->
+  <OE_CyberwareTorso_Drugfilter_Obsidia.description>TODO</OE_CyberwareTorso_Drugfilter_Obsidia.description>
+  <!-- EN: an cyberware - Drug filter(Obsidia) -->
+  <OE_CyberwareTorso_Drugfilter_Obsidia.labelNoun>TODO</OE_CyberwareTorso_Drugfilter_Obsidia.labelNoun>
+  
+  <!-- EN: cyberware - Temperature protector -->
+  <OE_CyberwareTorso_Temperature.label>TODO</OE_CyberwareTorso_Temperature.label>
+  <!-- EN: An installed cyberware - Temperature protector.\n\nThis cyberware can be installed up to 5 times to increase its effect. -->
+  <OE_CyberwareTorso_Temperature.description>TODO</OE_CyberwareTorso_Temperature.description>
+  <!-- EN: a cyberware - Temperature protector -->
+  <OE_CyberwareTorso_Temperature.labelNoun>TODO</OE_CyberwareTorso_Temperature.labelNoun>
+  
+</LanguageData>

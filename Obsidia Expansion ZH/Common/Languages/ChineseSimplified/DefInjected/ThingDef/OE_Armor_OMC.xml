@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: OMC Soldier Armor -->
+  <OMC_Armor.label>TODO</OMC_Armor.label>
+  <!-- EN: Medium power armor, perfectly protects the owner with little mobility restriction. Designed for use by regular OMC soldiers. -->
+  <OMC_Armor.description>TODO</OMC_Armor.description>
+  
+  <!-- EN: OMC Officer Armor -->
+  <OMC_Armor_M.label>TODO</OMC_Armor_M.label>
+  <!-- EN: Medium power armor, perfectly protects the owner with little mobility restriction. Designed and modified for use by OMC Regular Officers.\n\nThe hardened version provides more protection to the owner. -->
+  <OMC_Armor_M.description>TODO</OMC_Armor_M.description>
+  
+  <!-- EN: OMC Officer Armor(Protector) -->
+  <OMC_Armor_M_Barrier.label>TODO</OMC_Armor_M_Barrier.label>
+  <!-- EN: Medium power armor, perfectly protects the owner with little mobility restriction. Designed and modified for use by OMC Regular Officers.\n\nModified with the addition of the Universal Barrier. -->
+  <OMC_Armor_M_Barrier.description>TODO</OMC_Armor_M_Barrier.description>
+  
+  <!-- EN: OMC Officer Armor(Guardian) -->
+  <OMC_Armor_M_Shield.label>TODO</OMC_Armor_M_Shield.label>
+  <!-- EN: Medium power armor, perfectly protects the owner with little mobility restriction. Designed and modified for use by OMC Regular Officers.\n\nModified with the addition of a Reinforced Barrier. -->
+  <OMC_Armor_M_Shield.description>TODO</OMC_Armor_M_Shield.description>
+  
+  <!-- EN: OMC Officer Armor(Fogler) -->
+  <OMC_Armor_M_Smoker.label>TODO</OMC_Armor_M_Smoker.label>
+  <!-- EN: Medium power armor, perfectly protects the owner with little mobility restriction. Designed and modified for use by OMC Regular Officers.\n\nModified with the addition of a Smokepop pack. -->
+  <OMC_Armor_M_Smoker.description>TODO</OMC_Armor_M_Smoker.description>
+  <!-- EN: smokepop -->
+  <OMC_Armor_M_Smoker.comps.CompApparelReloadable.chargeNoun>TODO</OMC_Armor_M_Smoker.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OMC_Armor_M_Smoker.comps.CompApparelReloadable.cooldownGerund>TODO</OMC_Armor_M_Smoker.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: OMC Officer Armor(Fogler) -->
+  <OMC_Armor_M_Smoker.verbs.Verb_SmokePop.label>TODO</OMC_Armor_M_Smoker.verbs.Verb_SmokePop.label>
+  
+  <!-- EN: OMC Officer Armor(Space Griffin) -->
+  <OMC_Armor_M_Spacer.label>TODO</OMC_Armor_M_Spacer.label>
+  <!-- EN: Medium power armor, perfectly protects the owner with little mobility restriction. Designed and modified for use by OMC Regular Officers.\n\nPressure-sealed version designed to keep the occupant alive in outer space. -->
+  <OMC_Armor_M_Spacer.description>TODO</OMC_Armor_M_Spacer.description>
+  
+</LanguageData>

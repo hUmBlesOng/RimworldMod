@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: synthesis AI persona core -->
+  <OE_Synthesis_AIPersonaCore.label>TODO</OE_Synthesis_AIPersonaCore.label>
+  <!-- EN: Synthesis AI persona core from Syntherius with Mythril and Gold. -->
+  <OE_Synthesis_AIPersonaCore.description>TODO</OE_Synthesis_AIPersonaCore.description>
+  <!-- EN: Synthesis AI persona core. -->
+  <OE_Synthesis_AIPersonaCore.jobString>TODO</OE_Synthesis_AIPersonaCore.jobString>
+  
+  <!-- EN: synthesis hyperweave x10 -->
+  <OE_Synthesis_HyperweaveBulk.label>TODO</OE_Synthesis_HyperweaveBulk.label>
+  <!-- EN: Synthesis 10 hyperweave from Synthread with Syntherius. -->
+  <OE_Synthesis_HyperweaveBulk.description>TODO</OE_Synthesis_HyperweaveBulk.description>
+  <!-- EN: Synthesis 10 hyperweave. -->
+  <OE_Synthesis_HyperweaveBulk.jobString>TODO</OE_Synthesis_HyperweaveBulk.jobString>
+  
+  <!-- EN: synthesis hyperweave x5 -->
+  <OE_Synthesis_HyperweavePack.label>TODO</OE_Synthesis_HyperweavePack.label>
+  <!-- EN: Synthesis 5 hyperweave from Synthread with Syntherius. -->
+  <OE_Synthesis_HyperweavePack.description>TODO</OE_Synthesis_HyperweavePack.description>
+  <!-- EN: Synthesis 5 hyperweave. -->
+  <OE_Synthesis_HyperweavePack.jobString>TODO</OE_Synthesis_HyperweavePack.jobString>
+  
+  <!-- EN: synthesis hyperweave -->
+  <OE_Synthesis_HyperweaveSingle.label>TODO</OE_Synthesis_HyperweaveSingle.label>
+  <!-- EN: Synthesis hyperweave from Synthread with Syntherius. -->
+  <OE_Synthesis_HyperweaveSingle.description>TODO</OE_Synthesis_HyperweaveSingle.description>
+  <!-- EN: Synthesis hyperweave. -->
+  <OE_Synthesis_HyperweaveSingle.jobString>TODO</OE_Synthesis_HyperweaveSingle.jobString>
+  
+  <!-- EN: synthesis luciferium -->
+  <OE_Synthesis_LuciferiumSingle.label>TODO</OE_Synthesis_LuciferiumSingle.label>
+  <!-- EN: Synthesis luciferium from Neutroamine and Blue Tionant Jelly with Syntherius. -->
+  <OE_Synthesis_LuciferiumSingle.description>TODO</OE_Synthesis_LuciferiumSingle.description>
+  <!-- EN: Synthesis luciferium. -->
+  <OE_Synthesis_LuciferiumSingle.jobString>TODO</OE_Synthesis_LuciferiumSingle.jobString>
+  
+  <!-- EN: synthesis neutroamine x10 -->
+  <OE_Synthesis_NeutroamineBulk.label>TODO</OE_Synthesis_NeutroamineBulk.label>
+  <!-- EN: Synthesis 10 neutroamine from Psychoid and Smokeleaf leaves with Syntherius. -->
+  <OE_Synthesis_NeutroamineBulk.description>TODO</OE_Synthesis_NeutroamineBulk.description>
+  <!-- EN: Synthesis 10 neutroamine. -->
+  <OE_Synthesis_NeutroamineBulk.jobString>TODO</OE_Synthesis_NeutroamineBulk.jobString>
+  
+  <!-- EN: synthesis neutroamine x5 -->
+  <OE_Synthesis_NeutroaminePack.label>TODO</OE_Synthesis_NeutroaminePack.label>
+  <!-- EN: Synthesis 5 neutroamine from Psychoid and Smokeleaf leaves with Syntherius. -->
+  <OE_Synthesis_NeutroaminePack.description>TODO</OE_Synthesis_NeutroaminePack.description>
+  <!-- EN: Synthesis 5 neutroamine. -->
+  <OE_Synthesis_NeutroaminePack.jobString>TODO</OE_Synthesis_NeutroaminePack.jobString>
+  
+  <!-- EN: synthesis neutroamine -->
+  <OE_Synthesis_NeutroamineSingle.label>TODO</OE_Synthesis_NeutroamineSingle.label>
+  <!-- EN: Synthesis neutroamine from Psychoid and Smokeleaf leaves with Syntherius. -->
+  <OE_Synthesis_NeutroamineSingle.description>TODO</OE_Synthesis_NeutroamineSingle.description>
+  <!-- EN: Synthesis neutroamine. -->
+  <OE_Synthesis_NeutroamineSingle.jobString>TODO</OE_Synthesis_NeutroamineSingle.jobString>
+  
+  <!-- EN: synthesis synthread x10 -->
+  <OE_Synthesis_SynthreadBulk.label>TODO</OE_Synthesis_SynthreadBulk.label>
+  <!-- EN: Synthesis 10 synthread from Cloth with Syntherius. -->
+  <OE_Synthesis_SynthreadBulk.description>TODO</OE_Synthesis_SynthreadBulk.description>
+  <!-- EN: Synthesis 10 synthread. -->
+  <OE_Synthesis_SynthreadBulk.jobString>TODO</OE_Synthesis_SynthreadBulk.jobString>
+  
+  <!-- EN: synthesis synthread x5 -->
+  <OE_Synthesis_SynthreadPack.label>TODO</OE_Synthesis_SynthreadPack.label>
+  <!-- EN: Synthesis 5 synthread from Cloth with Syntherius. -->
+  <OE_Synthesis_SynthreadPack.description>TODO</OE_Synthesis_SynthreadPack.description>
+  <!-- EN: Synthesis 5 synthread. -->
+  <OE_Synthesis_SynthreadPack.jobString>TODO</OE_Synthesis_SynthreadPack.jobString>
+  
+  <!-- EN: synthesis synthread -->
+  <OE_Synthesis_SynthreadSingle.label>TODO</OE_Synthesis_SynthreadSingle.label>
+  <!-- EN: Synthesis synthread from Cloth with Syntherius. -->
+  <OE_Synthesis_SynthreadSingle.description>TODO</OE_Synthesis_SynthreadSingle.description>
+  <!-- EN: Synthesis synthread. -->
+  <OE_Synthesis_SynthreadSingle.jobString>TODO</OE_Synthesis_SynthreadSingle.jobString>
+  
+</LanguageData>

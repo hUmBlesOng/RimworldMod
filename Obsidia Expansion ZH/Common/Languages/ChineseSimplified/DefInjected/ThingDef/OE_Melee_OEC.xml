@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Truth -->
+  <OEC_Claws.label>TODO</OEC_Claws.label>
+  <!-- EN: Regular Psy Claws used by OEC Hunters. -->
+  <OEC_Claws.description>TODO</OEC_Claws.description>
+  <!-- EN: claws -->
+  <OEC_Claws.tools.claws.label>TODO</OEC_Claws.tools.claws.label>
+  
+  <!-- EN: Exalted Truth -->
+  <OEC_Claws_M.label>TODO</OEC_Claws_M.label>
+  <!-- EN: Exalted Psy Claws used by the OEC Inquisitors. -->
+  <OEC_Claws_M.description>TODO</OEC_Claws_M.description>
+  <!-- EN: claws -->
+  <OEC_Claws_M.tools.claws.label>TODO</OEC_Claws_M.tools.claws.label>
+  
+  <!-- EN: Persona Exalted Truth -->
+  <OEC_Claws_P.label>TODO</OEC_Claws_P.label>
+  <!-- EN: Persona Exalted Psy Claws used by the OEC Inquisitors. -->
+  <OEC_Claws_P.description>TODO</OEC_Claws_P.description>
+  <!-- EN: claws -->
+  <OEC_Claws_P.tools.claws.label>TODO</OEC_Claws_P.tools.claws.label>
+  
+  <!-- EN: Reaper -->
+  <OEC_Katana.label>TODO</OEC_Katana.label>
+  <!-- EN: Regular Psy Katana used by OEC Hunters. -->
+  <OEC_Katana.description>TODO</OEC_Katana.description>
+  <!-- EN: handle -->
+  <OEC_Katana.tools.handle.label>TODO</OEC_Katana.tools.handle.label>
+  <!-- EN: point -->
+  <OEC_Katana.tools.point.label>TODO</OEC_Katana.tools.point.label>
+  <!-- EN: edge -->
+  <OEC_Katana.tools.edge.label>TODO</OEC_Katana.tools.edge.label>
+  <!-- EN: Reaper -->
+  <OEC_Katana.verbs.Verb_Shoot.label>TODO</OEC_Katana.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Reaper(Acid) -->
+  <OEC_Katana_Acid.label>TODO</OEC_Katana_Acid.label>
+  <!-- EN: Regular Psy Katana used by OEC Hunters.\n\nIt's remanufactured weapon using OTC technologies. Charged with Acid damage. -->
+  <OEC_Katana_Acid.description>TODO</OEC_Katana_Acid.description>
+  <!-- EN: handle -->
+  <OEC_Katana_Acid.tools.handle.label>TODO</OEC_Katana_Acid.tools.handle.label>
+  <!-- EN: point -->
+  <OEC_Katana_Acid.tools.point.label>TODO</OEC_Katana_Acid.tools.point.label>
+  <!-- EN: edge -->
+  <OEC_Katana_Acid.tools.edge.label>TODO</OEC_Katana_Acid.tools.edge.label>
+  <!-- EN: Reaper(Acid) -->
+  <OEC_Katana_Acid.verbs.Verb_Shoot.label>TODO</OEC_Katana_Acid.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Reaper(Cryo) -->
+  <OEC_Katana_Cryo.label>TODO</OEC_Katana_Cryo.label>
+  <!-- EN: Regular Psy Katana used by OEC Hunters.\n\nIt's remanufactured weapon using OTC technologies. Charged with Cryo damage. -->
+  <OEC_Katana_Cryo.description>TODO</OEC_Katana_Cryo.description>
+  <!-- EN: handle -->
+  <OEC_Katana_Cryo.tools.handle.label>TODO</OEC_Katana_Cryo.tools.handle.label>
+  <!-- EN: point -->
+  <OEC_Katana_Cryo.tools.point.label>TODO</OEC_Katana_Cryo.tools.point.label>
+  <!-- EN: edge -->
+  <OEC_Katana_Cryo.tools.edge.label>TODO</OEC_Katana_Cryo.tools.edge.label>
+  <!-- EN: Reaper(Cryo) -->
+  <OEC_Katana_Cryo.verbs.Verb_Shoot.label>TODO</OEC_Katana_Cryo.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Reaper(EMP) -->
+  <OEC_Katana_EMP.label>TODO</OEC_Katana_EMP.label>
+  <!-- EN: Regular Psy Katana used by OEC Hunters.\n\nIt's remanufactured weapon using OTC technologies. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
+  <OEC_Katana_EMP.description>TODO</OEC_Katana_EMP.description>
+  <!-- EN: handle -->
+  <OEC_Katana_EMP.tools.handle.label>TODO</OEC_Katana_EMP.tools.handle.label>
+  <!-- EN: point -->
+  <OEC_Katana_EMP.tools.point.label>TODO</OEC_Katana_EMP.tools.point.label>
+  <!-- EN: edge -->
+  <OEC_Katana_EMP.tools.edge.label>TODO</OEC_Katana_EMP.tools.edge.label>
+  <!-- EN: Reaper(EMP) -->
+  <OEC_Katana_EMP.verbs.Verb_Shoot.label>TODO</OEC_Katana_EMP.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Reaper(Fire) -->
+  <OEC_Katana_Fire.label>TODO</OEC_Katana_Fire.label>
+  <!-- EN: Regular Psy Katana used by OEC Hunters.\n\nIt's remanufactured weapon using OTC technologies. Charged with Fire damage. -->
+  <OEC_Katana_Fire.description>TODO</OEC_Katana_Fire.description>
+  <!-- EN: handle -->
+  <OEC_Katana_Fire.tools.handle.label>TODO</OEC_Katana_Fire.tools.handle.label>
+  <!-- EN: point -->
+  <OEC_Katana_Fire.tools.point.label>TODO</OEC_Katana_Fire.tools.point.label>
+  <!-- EN: edge -->
+  <OEC_Katana_Fire.tools.edge.label>TODO</OEC_Katana_Fire.tools.edge.label>
+  <!-- EN: Reaper(Fire) -->
+  <OEC_Katana_Fire.verbs.Verb_Shoot.label>TODO</OEC_Katana_Fire.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Exalted Reaper -->
+  <OEC_Katana_M.label>TODO</OEC_Katana_M.label>
+  <!-- EN: Exalted Psy Katana used by the OEC Inquisitors. -->
+  <OEC_Katana_M.description>TODO</OEC_Katana_M.description>
+  <!-- EN: handle -->
+  <OEC_Katana_M.tools.handle.label>TODO</OEC_Katana_M.tools.handle.label>
+  <!-- EN: point -->
+  <OEC_Katana_M.tools.point.label>TODO</OEC_Katana_M.tools.point.label>
+  <!-- EN: edge -->
+  <OEC_Katana_M.tools.edge.label>TODO</OEC_Katana_M.tools.edge.label>
+  <!-- EN: Exalted Reaper -->
+  <OEC_Katana_M.verbs.Verb_Shoot.label>TODO</OEC_Katana_M.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Exalted Reaper(Acid) -->
+  <OEC_Katana_M_Acid.label>TODO</OEC_Katana_M_Acid.label>
+  <!-- EN: Exalted Psy Katana used by the OEC Inquisitors.\n\nIt's remanufactured weapon using OTC technologies. Charged with Acid damage. -->
+  <OEC_Katana_M_Acid.description>TODO</OEC_Katana_M_Acid.description>
+  <!-- EN: handle -->
+  <OEC_Katana_M_Acid.tools.handle.label>TODO</OEC_Katana_M_Acid.tools.handle.label>
+  <!-- EN: point -->
+  <OEC_Katana_M_Acid.tools.point.label>TODO</OEC_Katana_M_Acid.tools.point.label>
+  <!-- EN: edge -->
+  <OEC_Katana_M_Acid.tools.edge.label>TODO</OEC_Katana_M_Acid.tools.edge.label>
+  <!-- EN: Exalted Reaper(Acid) -->
+  <OEC_Katana_M_Acid.verbs.Verb_Shoot.label>TODO</OEC_Katana_M_Acid.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Exalted Reaper(Cryo) -->
+  <OEC_Katana_M_Cryo.label>TODO</OEC_Katana_M_Cryo.label>
+  <!-- EN: Exalted Psy Katana used by the OEC Inquisitors.\n\nIt's remanufactured weapon using OTC technologies. Charged with Cryo damage. -->
+  <OEC_Katana_M_Cryo.description>TODO</OEC_Katana_M_Cryo.description>
+  <!-- EN: handle -->
+  <OEC_Katana_M_Cryo.tools.handle.label>TODO</OEC_Katana_M_Cryo.tools.handle.label>
+  <!-- EN: point -->
+  <OEC_Katana_M_Cryo.tools.point.label>TODO</OEC_Katana_M_Cryo.tools.point.label>
+  <!-- EN: edge -->
+  <OEC_Katana_M_Cryo.tools.edge.label>TODO</OEC_Katana_M_Cryo.tools.edge.label>
+  <!-- EN: Exalted Reaper(Cryo) -->
+  <OEC_Katana_M_Cryo.verbs.Verb_Shoot.label>TODO</OEC_Katana_M_Cryo.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Exalted Reaper(EMP) -->
+  <OEC_Katana_M_EMP.label>TODO</OEC_Katana_M_EMP.label>
+  <!-- EN: Exalted Psy Katana used by the OEC Inquisitors.\n\nIt's remanufactured weapon using OTC technologies. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
+  <OEC_Katana_M_EMP.description>TODO</OEC_Katana_M_EMP.description>
+  <!-- EN: handle -->
+  <OEC_Katana_M_EMP.tools.handle.label>TODO</OEC_Katana_M_EMP.tools.handle.label>
+  <!-- EN: point -->
+  <OEC_Katana_M_EMP.tools.point.label>TODO</OEC_Katana_M_EMP.tools.point.label>
+  <!-- EN: edge -->
+  <OEC_Katana_M_EMP.tools.edge.label>TODO</OEC_Katana_M_EMP.tools.edge.label>
+  <!-- EN: Exalted Reaper(EMP) -->
+  <OEC_Katana_M_EMP.verbs.Verb_Shoot.label>TODO</OEC_Katana_M_EMP.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Exalted Reaper(Fire) -->
+  <OEC_Katana_M_Fire.label>TODO</OEC_Katana_M_Fire.label>
+  <!-- EN: Exalted Psy Katana used by the OEC Inquisitors.\n\nIt's remanufactured weapon using OTC technologies. Charged with Fire damage. -->
+  <OEC_Katana_M_Fire.description>TODO</OEC_Katana_M_Fire.description>
+  <!-- EN: handle -->
+  <OEC_Katana_M_Fire.tools.handle.label>TODO</OEC_Katana_M_Fire.tools.handle.label>
+  <!-- EN: point -->
+  <OEC_Katana_M_Fire.tools.point.label>TODO</OEC_Katana_M_Fire.tools.point.label>
+  <!-- EN: edge -->
+  <OEC_Katana_M_Fire.tools.edge.label>TODO</OEC_Katana_M_Fire.tools.edge.label>
+  <!-- EN: Exalted Reaper(Fire) -->
+  <OEC_Katana_M_Fire.verbs.Verb_Shoot.label>TODO</OEC_Katana_M_Fire.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Persona Exalted Reaper -->
+  <OEC_Katana_P.label>TODO</OEC_Katana_P.label>
+  <!-- EN: Persona Exalted Psy Katana used by the OEC Inquisitors. -->
+  <OEC_Katana_P.description>TODO</OEC_Katana_P.description>
+  <!-- EN: handle -->
+  <OEC_Katana_P.tools.handle.label>TODO</OEC_Katana_P.tools.handle.label>
+  <!-- EN: point -->
+  <OEC_Katana_P.tools.point.label>TODO</OEC_Katana_P.tools.point.label>
+  <!-- EN: edge -->
+  <OEC_Katana_P.tools.edge.label>TODO</OEC_Katana_P.tools.edge.label>
+  <!-- EN: Persona Exalted Reaper -->
+  <OEC_Katana_P.verbs.Verb_Shoot.label>TODO</OEC_Katana_P.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Persona Exalted Reaper(Acid) -->
+  <OEC_Katana_P_Acid.label>TODO</OEC_Katana_P_Acid.label>
+  <!-- EN: Persona Exalted Psy Katana used by the OEC Inquisitors.\n\nIt's remanufactured weapon using OTC technologies. Charged with Acid damage. -->
+  <OEC_Katana_P_Acid.description>TODO</OEC_Katana_P_Acid.description>
+  <!-- EN: handle -->
+  <OEC_Katana_P_Acid.tools.handle.label>TODO</OEC_Katana_P_Acid.tools.handle.label>
+  <!-- EN: point -->
+  <OEC_Katana_P_Acid.tools.point.label>TODO</OEC_Katana_P_Acid.tools.point.label>
+  <!-- EN: edge -->
+  <OEC_Katana_P_Acid.tools.edge.label>TODO</OEC_Katana_P_Acid.tools.edge.label>
+  <!-- EN: Persona Exalted Reaper(Acid) -->
+  <OEC_Katana_P_Acid.verbs.Verb_Shoot.label>TODO</OEC_Katana_P_Acid.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Persona Exalted Reaper(Cryo) -->
+  <OEC_Katana_P_Cryo.label>TODO</OEC_Katana_P_Cryo.label>
+  <!-- EN: Persona Exalted Psy Katana used by the OEC Inquisitors.\n\nIt's remanufactured weapon using OTC technologies. Charged with Cryo damage. -->
+  <OEC_Katana_P_Cryo.description>TODO</OEC_Katana_P_Cryo.description>
+  <!-- EN: handle -->
+  <OEC_Katana_P_Cryo.tools.handle.label>TODO</OEC_Katana_P_Cryo.tools.handle.label>
+  <!-- EN: point -->
+  <OEC_Katana_P_Cryo.tools.point.label>TODO</OEC_Katana_P_Cryo.tools.point.label>
+  <!-- EN: edge -->
+  <OEC_Katana_P_Cryo.tools.edge.label>TODO</OEC_Katana_P_Cryo.tools.edge.label>
+  <!-- EN: Persona Exalted Reaper(Cryo) -->
+  <OEC_Katana_P_Cryo.verbs.Verb_Shoot.label>TODO</OEC_Katana_P_Cryo.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Persona Exalted Reaper(EMP) -->
+  <OEC_Katana_P_EMP.label>TODO</OEC_Katana_P_EMP.label>
+  <!-- EN: Persona Exalted Psy Katana used by the OEC Inquisitors.\n\nIt's remanufactured weapon using OTC technologies. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
+  <OEC_Katana_P_EMP.description>TODO</OEC_Katana_P_EMP.description>
+  <!-- EN: handle -->
+  <OEC_Katana_P_EMP.tools.handle.label>TODO</OEC_Katana_P_EMP.tools.handle.label>
+  <!-- EN: point -->
+  <OEC_Katana_P_EMP.tools.point.label>TODO</OEC_Katana_P_EMP.tools.point.label>
+  <!-- EN: edge -->
+  <OEC_Katana_P_EMP.tools.edge.label>TODO</OEC_Katana_P_EMP.tools.edge.label>
+  <!-- EN: Persona Exalted Reaper(EMP) -->
+  <OEC_Katana_P_EMP.verbs.Verb_Shoot.label>TODO</OEC_Katana_P_EMP.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Persona Exalted Reaper(Fire) -->
+  <OEC_Katana_P_Fire.label>TODO</OEC_Katana_P_Fire.label>
+  <!-- EN: Persona Exalted Psy Katana used by the OEC Inquisitors.\n\nIt's remanufactured weapon using OTC technologies. Charged with Fire damage. -->
+  <OEC_Katana_P_Fire.description>TODO</OEC_Katana_P_Fire.description>
+  <!-- EN: handle -->
+  <OEC_Katana_P_Fire.tools.handle.label>TODO</OEC_Katana_P_Fire.tools.handle.label>
+  <!-- EN: point -->
+  <OEC_Katana_P_Fire.tools.point.label>TODO</OEC_Katana_P_Fire.tools.point.label>
+  <!-- EN: edge -->
+  <OEC_Katana_P_Fire.tools.edge.label>TODO</OEC_Katana_P_Fire.tools.edge.label>
+  <!-- EN: Persona Exalted Reaper(Fire) -->
+  <OEC_Katana_P_Fire.verbs.Verb_Shoot.label>TODO</OEC_Katana_P_Fire.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Shard -->
+  <OEC_Knife.label>TODO</OEC_Knife.label>
+  <!-- EN: Regular Psy Knife used by OEC Hunters. -->
+  <OEC_Knife.description>TODO</OEC_Knife.description>
+  <!-- EN: handle -->
+  <OEC_Knife.tools.handle.label>TODO</OEC_Knife.tools.handle.label>
+  <!-- EN: blade -->
+  <OEC_Knife.tools.blade.label>TODO</OEC_Knife.tools.blade.label>
+  <!-- EN: point -->
+  <OEC_Knife.tools.point.label>TODO</OEC_Knife.tools.point.label>
+  
+  <!-- EN: Exalted Shard -->
+  <OEC_Knife_M.label>TODO</OEC_Knife_M.label>
+  <!-- EN: Exalted Psy Knife used by the OEC Inquisitors. -->
+  <OEC_Knife_M.description>TODO</OEC_Knife_M.description>
+  <!-- EN: handle -->
+  <OEC_Knife_M.tools.handle.label>TODO</OEC_Knife_M.tools.handle.label>
+  <!-- EN: blade -->
+  <OEC_Knife_M.tools.blade.label>TODO</OEC_Knife_M.tools.blade.label>
+  <!-- EN: point -->
+  <OEC_Knife_M.tools.point.label>TODO</OEC_Knife_M.tools.point.label>
+  
+  <!-- EN: Persona Exalted Shard -->
+  <OEC_Knife_P.label>TODO</OEC_Knife_P.label>
+  <!-- EN: Persona Exalted Psy Knife used by the OEC Inquisitors. -->
+  <OEC_Knife_P.description>TODO</OEC_Knife_P.description>
+  <!-- EN: handle -->
+  <OEC_Knife_P.tools.handle.label>TODO</OEC_Knife_P.tools.handle.label>
+  <!-- EN: blade -->
+  <OEC_Knife_P.tools.blade.label>TODO</OEC_Knife_P.tools.blade.label>
+  <!-- EN: point -->
+  <OEC_Knife_P.tools.point.label>TODO</OEC_Knife_P.tools.point.label>
+  
+  <!-- EN: Elitra -->
+  <OEC_Spear.label>TODO</OEC_Spear.label>
+  <!-- EN: Regular Psy Spear used by OEC Hunters. -->
+  <OEC_Spear.description>TODO</OEC_Spear.description>
+  <!-- EN: shaft -->
+  <OEC_Spear.tools.shaft.label>TODO</OEC_Spear.tools.shaft.label>
+  <!-- EN: point -->
+  <OEC_Spear.tools.point.label>TODO</OEC_Spear.tools.point.label>
+  
+  <!-- EN: Exalted Elitra -->
+  <OEC_Spear_M.label>TODO</OEC_Spear_M.label>
+  <!-- EN: Exalted Psy Spear used by the OEC Inquisitors. -->
+  <OEC_Spear_M.description>TODO</OEC_Spear_M.description>
+  <!-- EN: shaft -->
+  <OEC_Spear_M.tools.shaft.label>TODO</OEC_Spear_M.tools.shaft.label>
+  <!-- EN: point -->
+  <OEC_Spear_M.tools.point.label>TODO</OEC_Spear_M.tools.point.label>
+  
+  <!-- EN: Persona Exalted Elitra -->
+  <OEC_Spear_P.label>TODO</OEC_Spear_P.label>
+  <!-- EN: Persona Exalted Psy Spear used by the OEC Inquisitors. -->
+  <OEC_Spear_P.description>TODO</OEC_Spear_P.description>
+  <!-- EN: shaft -->
+  <OEC_Spear_P.tools.shaft.label>TODO</OEC_Spear_P.tools.shaft.label>
+  <!-- EN: point -->
+  <OEC_Spear_P.tools.point.label>TODO</OEC_Spear_P.tools.point.label>
+  
+  <!-- EN: Reaper wave -->
+  <Wave_OEC_K.label>TODO</Wave_OEC_K.label>
+  
+  <!-- EN: Reaper Acid wave -->
+  <Wave_OEC_K_Acid.label>TODO</Wave_OEC_K_Acid.label>
+  
+  <!-- EN: Reaper Cryo wave -->
+  <Wave_OEC_K_Cryo.label>TODO</Wave_OEC_K_Cryo.label>
+  
+  <!-- EN: Reaper EMP wave -->
+  <Wave_OEC_K_EMP.label>TODO</Wave_OEC_K_EMP.label>
+  
+  <!-- EN: Reaper Fire wave -->
+  <Wave_OEC_K_Fire.label>TODO</Wave_OEC_K_Fire.label>
+  
+  <!-- EN: Exalted Reaper wave -->
+  <Wave_OEC_K_M.label>TODO</Wave_OEC_K_M.label>
+  
+  <!-- EN: Exalted Reaper Acid wave -->
+  <Wave_OEC_K_M_Acid.label>TODO</Wave_OEC_K_M_Acid.label>
+  
+  <!-- EN: Exalted Reaper Cryo wave -->
+  <Wave_OEC_K_M_Cryo.label>TODO</Wave_OEC_K_M_Cryo.label>
+  
+  <!-- EN: Exalted Reaper EMP wave -->
+  <Wave_OEC_K_M_EMP.label>TODO</Wave_OEC_K_M_EMP.label>
+  
+  <!-- EN: Exalted Reaper Fire wave -->
+  <Wave_OEC_K_M_Fire.label>TODO</Wave_OEC_K_M_Fire.label>
+  
+</LanguageData>

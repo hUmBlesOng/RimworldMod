@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install arm implant - Demolisher -->
+  <OE_InstallImplantArm_Demolisher.label>TODO</OE_InstallImplantArm_Demolisher.label>
+  <!-- EN: Install an arm implant - Demolisher. -->
+  <OE_InstallImplantArm_Demolisher.description>TODO</OE_InstallImplantArm_Demolisher.description>
+  <!-- EN: Installing arm implant - Demolisher. -->
+  <OE_InstallImplantArm_Demolisher.jobString>TODO</OE_InstallImplantArm_Demolisher.jobString>
+  
+  <!-- EN: install arm implant - Duelist -->
+  <OE_InstallImplantArm_Duelist.label>TODO</OE_InstallImplantArm_Duelist.label>
+  <!-- EN: Install an arm implant - Duelist. -->
+  <OE_InstallImplantArm_Duelist.description>TODO</OE_InstallImplantArm_Duelist.description>
+  <!-- EN: Installing arm implant - Duelist. -->
+  <OE_InstallImplantArm_Duelist.jobString>TODO</OE_InstallImplantArm_Duelist.jobString>
+  
+  <!-- EN: install arm implant - Sting(Acid) -->
+  <OE_InstallImplantArm_Sting_Acid.label>TODO</OE_InstallImplantArm_Sting_Acid.label>
+  <!-- EN: Install an arm implant - Sting. -->
+  <OE_InstallImplantArm_Sting_Acid.description>TODO</OE_InstallImplantArm_Sting_Acid.description>
+  <!-- EN: Installing arm implant - Sting. -->
+  <OE_InstallImplantArm_Sting_Acid.jobString>TODO</OE_InstallImplantArm_Sting_Acid.jobString>
+  
+  <!-- EN: install arm implant - Sting(Cryo) -->
+  <OE_InstallImplantArm_Sting_Cryo.label>TODO</OE_InstallImplantArm_Sting_Cryo.label>
+  <!-- EN: Install an arm implant - Sting. -->
+  <OE_InstallImplantArm_Sting_Cryo.description>TODO</OE_InstallImplantArm_Sting_Cryo.description>
+  <!-- EN: Installing arm implant - Sting. -->
+  <OE_InstallImplantArm_Sting_Cryo.jobString>TODO</OE_InstallImplantArm_Sting_Cryo.jobString>
+  
+  <!-- EN: install arm implant - Sting(EMP) -->
+  <OE_InstallImplantArm_Sting_EMP.label>TODO</OE_InstallImplantArm_Sting_EMP.label>
+  <!-- EN: Install an arm implant - Sting. -->
+  <OE_InstallImplantArm_Sting_EMP.description>TODO</OE_InstallImplantArm_Sting_EMP.description>
+  <!-- EN: Installing arm implant - Sting. -->
+  <OE_InstallImplantArm_Sting_EMP.jobString>TODO</OE_InstallImplantArm_Sting_EMP.jobString>
+  
+  <!-- EN: install arm implant - Sting(Fire) -->
+  <OE_InstallImplantArm_Sting_Fire.label>TODO</OE_InstallImplantArm_Sting_Fire.label>
+  <!-- EN: Install an arm implant - Sting. -->
+  <OE_InstallImplantArm_Sting_Fire.description>TODO</OE_InstallImplantArm_Sting_Fire.description>
+  <!-- EN: Installing arm implant - Sting. -->
+  <OE_InstallImplantArm_Sting_Fire.jobString>TODO</OE_InstallImplantArm_Sting_Fire.jobString>
+  
+  <!-- EN: install hand implant - Agronomist -->
+  <OE_InstallImplantHand_Agronomist.label>TODO</OE_InstallImplantHand_Agronomist.label>
+  <!-- EN: Install a hand implant - Agronomist. -->
+  <OE_InstallImplantHand_Agronomist.description>TODO</OE_InstallImplantHand_Agronomist.description>
+  <!-- EN: Installing hand implant - Agronomist. -->
+  <OE_InstallImplantHand_Agronomist.jobString>TODO</OE_InstallImplantHand_Agronomist.jobString>
+  
+  <!-- EN: install hand implant - Builder -->
+  <OE_InstallImplantHand_Builder.label>TODO</OE_InstallImplantHand_Builder.label>
+  <!-- EN: Install a hand implant - Builder. -->
+  <OE_InstallImplantHand_Builder.description>TODO</OE_InstallImplantHand_Builder.description>
+  <!-- EN: Installing hand implant - Builder. -->
+  <OE_InstallImplantHand_Builder.jobString>TODO</OE_InstallImplantHand_Builder.jobString>
+  
+  <!-- EN: install hand implant - Doctor -->
+  <OE_InstallImplantHand_Doctor.label>TODO</OE_InstallImplantHand_Doctor.label>
+  <!-- EN: Install a hand implant - Doctor. -->
+  <OE_InstallImplantHand_Doctor.description>TODO</OE_InstallImplantHand_Doctor.description>
+  <!-- EN: Installing hand implant - Doctor. -->
+  <OE_InstallImplantHand_Doctor.jobString>TODO</OE_InstallImplantHand_Doctor.jobString>
+  
+  <!-- EN: install hand implant - Harvester -->
+  <OE_InstallImplantHand_Harvester.label>TODO</OE_InstallImplantHand_Harvester.label>
+  <!-- EN: Install a hand implant - Harvester. -->
+  <OE_InstallImplantHand_Harvester.description>TODO</OE_InstallImplantHand_Harvester.description>
+  <!-- EN: Installing hand implant - Harvester. -->
+  <OE_InstallImplantHand_Harvester.jobString>TODO</OE_InstallImplantHand_Harvester.jobString>
+  
+  <!-- EN: install hand implant - Soldier -->
+  <OE_InstallImplantHand_Soldier.label>TODO</OE_InstallImplantHand_Soldier.label>
+  <!-- EN: Install a hand implant - Soldier. -->
+  <OE_InstallImplantHand_Soldier.description>TODO</OE_InstallImplantHand_Soldier.description>
+  <!-- EN: Installing hand implant - Soldier. -->
+  <OE_InstallImplantHand_Soldier.jobString>TODO</OE_InstallImplantHand_Soldier.jobString>
+  
+  <!-- EN: install leg implant - Ninja -->
+  <OE_InstallImplantLeg_Ninja.label>TODO</OE_InstallImplantLeg_Ninja.label>
+  <!-- EN: Install a leg implant - Ninja. -->
+  <OE_InstallImplantLeg_Ninja.description>TODO</OE_InstallImplantLeg_Ninja.description>
+  <!-- EN: Installing leg implant - Ninja. -->
+  <OE_InstallImplantLeg_Ninja.jobString>TODO</OE_InstallImplantLeg_Ninja.jobString>
+  
+  <!-- EN: remove arm implant - Demolisher -->
+  <OE_RemoveImplantArm_Demolisher.label>TODO</OE_RemoveImplantArm_Demolisher.label>
+  <!-- EN: Remove an arm implant - Demolisher. -->
+  <OE_RemoveImplantArm_Demolisher.description>TODO</OE_RemoveImplantArm_Demolisher.description>
+  <!-- EN: Removing arm implant - Demolisher. -->
+  <OE_RemoveImplantArm_Demolisher.jobString>TODO</OE_RemoveImplantArm_Demolisher.jobString>
+  
+  <!-- EN: remove arm implant - Duelist -->
+  <OE_RemoveImplantArm_Duelist.label>TODO</OE_RemoveImplantArm_Duelist.label>
+  <!-- EN: Remove an arm implant - Duelist. -->
+  <OE_RemoveImplantArm_Duelist.description>TODO</OE_RemoveImplantArm_Duelist.description>
+  <!-- EN: Removing arm implant - Duelist. -->
+  <OE_RemoveImplantArm_Duelist.jobString>TODO</OE_RemoveImplantArm_Duelist.jobString>
+  
+  <!-- EN: remove arm implant - Sting(Acid) -->
+  <OE_RemoveImplantArm_Sting_Acid.label>TODO</OE_RemoveImplantArm_Sting_Acid.label>
+  <!-- EN: Remove an arm implant - Sting. -->
+  <OE_RemoveImplantArm_Sting_Acid.description>TODO</OE_RemoveImplantArm_Sting_Acid.description>
+  <!-- EN: Removing arm implant - Sting. -->
+  <OE_RemoveImplantArm_Sting_Acid.jobString>TODO</OE_RemoveImplantArm_Sting_Acid.jobString>
+  
+  <!-- EN: remove arm implant - Sting(Cryo) -->
+  <OE_RemoveImplantArm_Sting_Cryo.label>TODO</OE_RemoveImplantArm_Sting_Cryo.label>
+  <!-- EN: Remove an arm implant - Sting. -->
+  <OE_RemoveImplantArm_Sting_Cryo.description>TODO</OE_RemoveImplantArm_Sting_Cryo.description>
+  <!-- EN: Removing arm implant - Sting. -->
+  <OE_RemoveImplantArm_Sting_Cryo.jobString>TODO</OE_RemoveImplantArm_Sting_Cryo.jobString>
+  
+  <!-- EN: remove arm implant - Sting(EMP) -->
+  <OE_RemoveImplantArm_Sting_EMP.label>TODO</OE_RemoveImplantArm_Sting_EMP.label>
+  <!-- EN: Remove an arm implant - Sting. -->
+  <OE_RemoveImplantArm_Sting_EMP.description>TODO</OE_RemoveImplantArm_Sting_EMP.description>
+  <!-- EN: Removing arm implant - Sting. -->
+  <OE_RemoveImplantArm_Sting_EMP.jobString>TODO</OE_RemoveImplantArm_Sting_EMP.jobString>
+  
+  <!-- EN: remove arm implant - Sting(Fire) -->
+  <OE_RemoveImplantArm_Sting_Fire.label>TODO</OE_RemoveImplantArm_Sting_Fire.label>
+  <!-- EN: Remove an arm implant - Sting. -->
+  <OE_RemoveImplantArm_Sting_Fire.description>TODO</OE_RemoveImplantArm_Sting_Fire.description>
+  <!-- EN: Removing arm implant - Sting. -->
+  <OE_RemoveImplantArm_Sting_Fire.jobString>TODO</OE_RemoveImplantArm_Sting_Fire.jobString>
+  
+  <!-- EN: remove hand implant - Agronomist -->
+  <OE_RemoveImplantHand_Agronomist.label>TODO</OE_RemoveImplantHand_Agronomist.label>
+  <!-- EN: Remove a hand implant - Agronomist. -->
+  <OE_RemoveImplantHand_Agronomist.description>TODO</OE_RemoveImplantHand_Agronomist.description>
+  <!-- EN: Removing hand implant - Agronomist. -->
+  <OE_RemoveImplantHand_Agronomist.jobString>TODO</OE_RemoveImplantHand_Agronomist.jobString>
+  
+  <!-- EN: remove hand implant - Builder -->
+  <OE_RemoveImplantHand_Builder.label>TODO</OE_RemoveImplantHand_Builder.label>
+  <!-- EN: Remove a hand implant - Builder. -->
+  <OE_RemoveImplantHand_Builder.description>TODO</OE_RemoveImplantHand_Builder.description>
+  <!-- EN: Removing hand implant - Builder. -->
+  <OE_RemoveImplantHand_Builder.jobString>TODO</OE_RemoveImplantHand_Builder.jobString>
+  
+  <!-- EN: remove hand implant - Doctor -->
+  <OE_RemoveImplantHand_Doctor.label>TODO</OE_RemoveImplantHand_Doctor.label>
+  <!-- EN: Remove a hand implant - Doctor. -->
+  <OE_RemoveImplantHand_Doctor.description>TODO</OE_RemoveImplantHand_Doctor.description>
+  <!-- EN: Removing hand implant - Doctor. -->
+  <OE_RemoveImplantHand_Doctor.jobString>TODO</OE_RemoveImplantHand_Doctor.jobString>
+  
+  <!-- EN: remove hand implant - Harvester -->
+  <OE_RemoveImplantHand_Harvester.label>TODO</OE_RemoveImplantHand_Harvester.label>
+  <!-- EN: Remove a hand implant - Harvester. -->
+  <OE_RemoveImplantHand_Harvester.description>TODO</OE_RemoveImplantHand_Harvester.description>
+  <!-- EN: Removing hand implant - Harvester. -->
+  <OE_RemoveImplantHand_Harvester.jobString>TODO</OE_RemoveImplantHand_Harvester.jobString>
+  
+  <!-- EN: remove hand implant - Soldier -->
+  <OE_RemoveImplantHand_Soldier.label>TODO</OE_RemoveImplantHand_Soldier.label>
+  <!-- EN: Remove a hand implant - Soldier. -->
+  <OE_RemoveImplantHand_Soldier.description>TODO</OE_RemoveImplantHand_Soldier.description>
+  <!-- EN: Removing hand implant - Soldier. -->
+  <OE_RemoveImplantHand_Soldier.jobString>TODO</OE_RemoveImplantHand_Soldier.jobString>
+  
+  <!-- EN: remove leg implant - Ninja -->
+  <OE_RemoveImplantLeg_Ninja.label>TODO</OE_RemoveImplantLeg_Ninja.label>
+  <!-- EN: Remove a leg implant - Ninja. -->
+  <OE_RemoveImplantLeg_Ninja.description>TODO</OE_RemoveImplantLeg_Ninja.description>
+  <!-- EN: Removing leg implant - Ninja. -->
+  <OE_RemoveImplantLeg_Ninja.jobString>TODO</OE_RemoveImplantLeg_Ninja.jobString>
+  
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cosmol effect -->
+  <OE_CosmolHigh.label>TODO</OE_CosmolHigh.label>
+  <!-- EN: Active cosmol immunostimulant in the bloodstream. Helps preventing infections before they take hold and fight against general bacterial infections. -->
+  <OE_CosmolHigh.description>TODO</OE_CosmolHigh.description>
+  
+  <!-- EN: sevide effect -->
+  <OE_SevideHigh.label>TODO</OE_SevideHigh.label>
+  <!-- EN: Deadly poison sevide compounds in the bloodstream. Causes extreme convulsions, trouble breathing and eventual death. -->
+  <OE_SevideHigh.description>TODO</OE_SevideHigh.description>
+  <!-- EN: trembling -->
+  <OE_SevideHigh.stages.trembling.label>TODO</OE_SevideHigh.stages.trembling.label>
+  <!-- EN: convulsing -->
+  <OE_SevideHigh.stages.convulsing.label>TODO</OE_SevideHigh.stages.convulsing.label>
+  <!-- EN: death -->
+  <OE_SevideHigh.stages.death.label>TODO</OE_SevideHigh.stages.death.label>
+  
+  <!-- EN: slugol effect -->
+  <OE_SlugolHigh.label>TODO</OE_SlugolHigh.label>
+  <!-- EN: Unique slugol compounds in the bloodstream. Slowly healing of wounds, removes scar tissue, boosting the metabolism and therefore the immune response. -->
+  <OE_SlugolHigh.description>TODO</OE_SlugolHigh.description>
+  
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install - Undead Power Stone -->
+  <OE_InstallPowerStone_Undead.label>TODO</OE_InstallPowerStone_Undead.label>
+  <!-- EN: Install - Undead Power Stone. -->
+  <OE_InstallPowerStone_Undead.description>TODO</OE_InstallPowerStone_Undead.description>
+  <!-- EN: Installing - Undead Power Stone. -->
+  <OE_InstallPowerStone_Undead.jobString>TODO</OE_InstallPowerStone_Undead.jobString>
+  
+  <!-- EN: remove - Undead Power Stone -->
+  <OE_RemovePowerStone_Undead.label>TODO</OE_RemovePowerStone_Undead.label>
+  <!-- EN: Remove - Undead Power Stone. -->
+  <OE_RemovePowerStone_Undead.description>TODO</OE_RemovePowerStone_Undead.description>
+  <!-- EN: Removing - Undead Power Stone. -->
+  <OE_RemovePowerStone_Undead.jobString>TODO</OE_RemovePowerStone_Undead.jobString>
+  
+</LanguageData>

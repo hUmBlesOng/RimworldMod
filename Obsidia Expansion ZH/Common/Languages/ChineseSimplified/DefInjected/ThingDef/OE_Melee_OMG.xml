@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Nanoblade -->
+  <OMG_Axe.label>TODO</OMG_Axe.label>
+  <!-- EN: Highly modified Axe used by Mercenaries. Specially modified weapon charged with Necrobane and EMP damages.\n\nThis modification deprives item's quality levels. -->
+  <OMG_Axe.description>TODO</OMG_Axe.description>
+  <!-- EN: handle -->
+  <OMG_Axe.tools.handle.label>TODO</OMG_Axe.tools.handle.label>
+  <!-- EN: edge -->
+  <OMG_Axe.tools.edge.label>TODO</OMG_Axe.tools.edge.label>
+  
+  <!-- EN: Datacrush -->
+  <OMG_BattleAxe.label>TODO</OMG_BattleAxe.label>
+  <!-- EN: Highly modified Battle Axe used by Mercenaries. Specially modified weapon charged with Necrobane and EMP damages.\n\nThis modification deprives item's quality levels. -->
+  <OMG_BattleAxe.description>TODO</OMG_BattleAxe.description>
+  <!-- EN: handle -->
+  <OMG_BattleAxe.tools.handle.label>TODO</OMG_BattleAxe.tools.handle.label>
+  <!-- EN: edge -->
+  <OMG_BattleAxe.tools.edge.label>TODO</OMG_BattleAxe.tools.edge.label>
+  <!-- EN: head -->
+  <OMG_BattleAxe.tools.head.label>TODO</OMG_BattleAxe.tools.head.label>
+  
+  <!-- EN: Twin Glitch -->
+  <OMG_DualSword.label>TODO</OMG_DualSword.label>
+  <!-- EN: Highly modified Dual Sword used by Mercenaries. Specially modified weapon charged with Necrobane and EMP damages.\n\nThis modification deprives item's quality levels. -->
+  <OMG_DualSword.description>TODO</OMG_DualSword.description>
+  <!-- EN: shaft -->
+  <OMG_DualSword.tools.shaft.label>TODO</OMG_DualSword.tools.shaft.label>
+  <!-- EN: edge -->
+  <OMG_DualSword.tools.edge.label>TODO</OMG_DualSword.tools.edge.label>
+  
+  <!-- EN: Pulseblade -->
+  <OMG_Rapier.label>TODO</OMG_Rapier.label>
+  <!-- EN: Highly modified Rapier used by Mercenaries. Specially modified weapon charged with Necrobane and EMP damages.\n\nThis modification deprives item's quality levels. -->
+  <OMG_Rapier.description>TODO</OMG_Rapier.description>
+  <!-- EN: handle -->
+  <OMG_Rapier.tools.handle.label>TODO</OMG_Rapier.tools.handle.label>
+  <!-- EN: point -->
+  <OMG_Rapier.tools.point.label>TODO</OMG_Rapier.tools.point.label>
+  
+  <!-- EN: Pulsecaster -->
+  <OMG_Scepter.label>TODO</OMG_Scepter.label>
+  <!-- EN: Highly modified Scepter used by Mercenaries. Specially modified weapon charged with Necrobane and EMP damages.\n\nThis modification deprives item's quality levels. -->
+  <OMG_Scepter.description>TODO</OMG_Scepter.description>
+  <!-- EN: ornament -->
+  <OMG_Scepter.tools.ornament.label>TODO</OMG_Scepter.tools.ornament.label>
+  
+</LanguageData>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->[asker_nameFull], a [asker_royalTitleInCurrentFaction] of [asker_faction_name], barely escaped an ambush. [asker_possessive] guards were slaughtered, and now [asker_pronoun] is being hunted. [asker_nameDef] needs your help to stay hidden at [map_definite] for a few hours until a shuttle arrives. In return, [asker_pronoun] promises a reward of [royalFavorReward] [asker_faction_royalFavorLabel].\nThe group of [enemyFaction_pawnsPlural] is composed of:\n[raid/raidPawnKinds]\n\n[asker_nameDef] is too frantic to offer more information.</li>
+    <li>questDescription->[asker_nameFull], the luckiest [asker_royalTitleInCurrentFaction] from [asker_faction_name], somehow managed to escape a deadly ambush that took out all [asker_possessive] guards. Now, [asker_pronoun] is being chased down and needs a hero (or just someone who can stand still for a few hours). If you can keep [asker_objective] alive at [map_definite] until the shuttle arrives, you’ll get [royalFavorReward] [asker_faction_royalFavorLabel].\nThe group of [enemyFaction_pawnsPlural] is composed of:\n[raid/raidPawnKinds]\n\n[asker_nameDef] is too frantic to offer more information.</li>
+    <li>questDescription->[asker_nameFull], a broken and desperate [asker_royalTitleInCurrentFaction] of [asker_faction_name], fled from the bloodbath that claimed [asker_possessive] guards. Alone, hunted, and haunted by the cries of the fallen, [asker_pronoun] seeks refuge. The chase isn’t over—enemies are closing in. Shelter [asker_nameDef] at [map_definite] until the shuttle comes, and in exchange, you will be rewarded with [royalFavorReward] [asker_faction_royalFavorLabel].\nThe group of [enemyFaction_pawnsPlural] is composed of:\n[raid/raidPawnKinds]\n\n[asker_nameDef] is too frantic to offer more information.</li>
+  -->
+  <OE_Quest_HuntedMessenger.questDescriptionRules.rulesStrings>TODO</OE_Quest_HuntedMessenger.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Saving [askerIndef]</li>
+    <li>questName->Helping [askerIndef]</li>
+    <li>questName->the [askerAdj] [askerIndef]</li>
+    <li>questName->[askerIndef] Chased by [enemyFaction_pawnsPlural]</li>
+    <li>questName->[enemyFaction_pawnsPlural] hunting [askerIndef]</li>
+    <li>questName->Shadows in Pursuit</li>
+    <li>askerAdj->hunted</li>
+    <li>askerAdj->last</li>
+    <li>askerAdj->fleeing</li>
+    <li>askerAdj->ambushed</li>
+    <li>askerIndef->courier</li>
+    <li>askerIndef->messenger</li>
+    <li>askerIndef->survival</li>
+    <li>askerIndef->[asker_nameFull]</li>
+    <li>askerIndef->[asker_royalTitleInCurrentFaction]</li>
+  -->
+  <OE_Quest_HuntedMessenger.questNameRules.rulesStrings>TODO</OE_Quest_HuntedMessenger.questNameRules.rulesStrings>
+  <!-- EN: {BASELABEL} chasing [../asker_nameDef] -->
+  <OE_Quest_HuntedMessenger.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterLabel.value.slateRef>TODO</OE_Quest_HuntedMessenger.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterLabel.value.slateRef>
+  <!-- EN: {BASETEXT}\n              \nThe [enemyFaction_pawnsPlural] have come to get [../asker_nameDef]. -->
+  <OE_Quest_HuntedMessenger.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterText.value.slateRef>TODO</OE_Quest_HuntedMessenger.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterText.value.slateRef>
+  <!-- EN: Should depart on shuttle -->
+  <OE_Quest_HuntedMessenger.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>TODO</OE_Quest_HuntedMessenger.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>
+  <!-- EN: Shuttle arrived -->
+  <OE_Quest_HuntedMessenger.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>TODO</OE_Quest_HuntedMessenger.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>
+  <!-- EN: The shuttle has arrived to collect [asker_nameDef]. -->
+  <OE_Quest_HuntedMessenger.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>TODO</OE_Quest_HuntedMessenger.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>
+  <!-- EN: Guest died: {SUBJECT_definite} -->
+  <OE_Quest_HuntedMessenger.root.nodes.askerDestroyed.node.nodes.Letter.label.slateRef>TODO</OE_Quest_HuntedMessenger.root.nodes.askerDestroyed.node.nodes.Letter.label.slateRef>
+  <!-- EN: {SUBJECT_definite}, who you were charged to protect, has died. [failLetterEndingCommon] -->
+  <OE_Quest_HuntedMessenger.root.nodes.askerDestroyed.node.nodes.Letter.text.slateRef>TODO</OE_Quest_HuntedMessenger.root.nodes.askerDestroyed.node.nodes.Letter.text.slateRef>
+  <!-- EN: Unauthorized surgery: {SUBJECT_definite} -->
+  <OE_Quest_HuntedMessenger.root.nodes.askerSurgeryViolation.node.nodes.Letter.label.slateRef>TODO</OE_Quest_HuntedMessenger.root.nodes.askerSurgeryViolation.node.nodes.Letter.label.slateRef>
+  <!-- EN: Unauthorized, violating surgery has been performed on {SUBJECT_definite}, who you were charged to protect. Because of this violation, [asker_pronoun] will now attempt to leave. [failLetterEndingCommon] -->
+  <OE_Quest_HuntedMessenger.root.nodes.askerSurgeryViolation.node.nodes.Letter.text.slateRef>TODO</OE_Quest_HuntedMessenger.root.nodes.askerSurgeryViolation.node.nodes.Letter.text.slateRef>
+  <!-- EN: Xenogerm absorbed: {SUBJECT_definite} -->
+  <OE_Quest_HuntedMessenger.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.label.slateRef>TODO</OE_Quest_HuntedMessenger.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.label.slateRef>
+  <!-- EN: {SUBJECT_definite}, who you were charged to protect, has had {SUBJECT_possessive} xenogerm forcibly absorbed. Because of this violation, {SUBJECT_pronoun} will now attempt to leave. [failLetterEndingCommon] -->
+  <OE_Quest_HuntedMessenger.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.text.slateRef>TODO</OE_Quest_HuntedMessenger.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.text.slateRef>
+  <!-- EN: Captured: {SUBJECT_definite} -->
+  <OE_Quest_HuntedMessenger.root.nodes.askerArrested.node.nodes.Letter.label.slateRef>TODO</OE_Quest_HuntedMessenger.root.nodes.askerArrested.node.nodes.Letter.label.slateRef>
+  <!-- EN: {SUBJECT_definite}, who you were charged to host, has been arrested. [failLetterEndingCommon] -->
+  <OE_Quest_HuntedMessenger.root.nodes.askerArrested.node.nodes.Letter.text.slateRef>TODO</OE_Quest_HuntedMessenger.root.nodes.askerArrested.node.nodes.Letter.text.slateRef>
+  <!-- EN: Guest lost: {SUBJECT_definite} -->
+  <OE_Quest_HuntedMessenger.root.nodes.askerLeftMap.node.nodes.Letter.label.slateRef>TODO</OE_Quest_HuntedMessenger.root.nodes.askerLeftMap.node.nodes.Letter.label.slateRef>
+  <!-- EN: {SUBJECT_definite}, who you were charged to protect, has left the designated settlement. [failLetterEndingCommon] -->
+  <OE_Quest_HuntedMessenger.root.nodes.askerLeftMap.node.nodes.Letter.text.slateRef>TODO</OE_Quest_HuntedMessenger.root.nodes.askerLeftMap.node.nodes.Letter.text.slateRef>
+  <!-- EN: Guest lost: {SUBJECT_definite} -->
+  <OE_Quest_HuntedMessenger.root.nodes.askerRanWild.node.nodes.Letter.label.slateRef>TODO</OE_Quest_HuntedMessenger.root.nodes.askerRanWild.node.nodes.Letter.label.slateRef>
+  <!-- EN: {SUBJECT_definite}, who you were charged to protect, has run wild. [failLetterEndingCommon] -->
+  <OE_Quest_HuntedMessenger.root.nodes.askerRanWild.node.nodes.Letter.text.slateRef>TODO</OE_Quest_HuntedMessenger.root.nodes.askerRanWild.node.nodes.Letter.text.slateRef>
+  <!-- EN: Shuttle destroyed -->
+  <OE_Quest_HuntedMessenger.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.label.slateRef>TODO</OE_Quest_HuntedMessenger.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.label.slateRef>
+  <!-- EN: The shuttle sent to collect [asker_nameDef] has been destroyed. [asker_pronoun] will now leave on foot. [failLetterEndingCommon] -->
+  <OE_Quest_HuntedMessenger.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.text.slateRef>TODO</OE_Quest_HuntedMessenger.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.text.slateRef>
+  <!-- EN: Quest failed: [resolvedQuestName] -->
+  <OE_Quest_HuntedMessenger.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.label.slateRef>TODO</OE_Quest_HuntedMessenger.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.label.slateRef>
+  <!-- EN: The shuttle sent to collect [asker_nameDef] has departed without [asker_objective]. [asker_pronoun] will now leave on foot. [failLetterEndingCommon] -->
+  <OE_Quest_HuntedMessenger.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.text.slateRef>TODO</OE_Quest_HuntedMessenger.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.text.slateRef>
+  
+</LanguageData>

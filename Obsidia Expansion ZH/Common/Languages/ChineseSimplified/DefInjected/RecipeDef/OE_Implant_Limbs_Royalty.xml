@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install arm implant - Assassin -->
+  <OE_InstallImplantArm_Assassin.label>TODO</OE_InstallImplantArm_Assassin.label>
+  <!-- EN: Install an arm implant - Assassin. -->
+  <OE_InstallImplantArm_Assassin.description>TODO</OE_InstallImplantArm_Assassin.description>
+  <!-- EN: Installing arm implant - Assassin. -->
+  <OE_InstallImplantArm_Assassin.jobString>TODO</OE_InstallImplantArm_Assassin.jobString>
+  
+  <!-- EN: install hand implant - Psy -->
+  <OE_InstallImplantHand_Psy.label>TODO</OE_InstallImplantHand_Psy.label>
+  <!-- EN: Install a hand implant - Psy. -->
+  <OE_InstallImplantHand_Psy.description>TODO</OE_InstallImplantHand_Psy.description>
+  <!-- EN: Installing hand implant - Psy. -->
+  <OE_InstallImplantHand_Psy.jobString>TODO</OE_InstallImplantHand_Psy.jobString>
+  
+  <!-- EN: remove arm implant - Assassin -->
+  <OE_RemoveImplantArm_Assassin.label>TODO</OE_RemoveImplantArm_Assassin.label>
+  <!-- EN: Remove an arm implant - Assassin. -->
+  <OE_RemoveImplantArm_Assassin.description>TODO</OE_RemoveImplantArm_Assassin.description>
+  <!-- EN: Removing arm implant - Assassin. -->
+  <OE_RemoveImplantArm_Assassin.jobString>TODO</OE_RemoveImplantArm_Assassin.jobString>
+  
+  <!-- EN: remove hand implant - Psy -->
+  <OE_RemoveImplantHand_Psy.label>TODO</OE_RemoveImplantHand_Psy.label>
+  <!-- EN: Remove a hand implant - Psy. -->
+  <OE_RemoveImplantHand_Psy.description>TODO</OE_RemoveImplantHand_Psy.description>
+  <!-- EN: Removing hand implant - Psy. -->
+  <OE_RemoveImplantHand_Psy.jobString>TODO</OE_RemoveImplantHand_Psy.jobString>
+  
+</LanguageData>

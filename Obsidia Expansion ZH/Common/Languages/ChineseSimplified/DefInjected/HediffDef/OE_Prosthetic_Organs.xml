@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bionic heart -->
+  <OE_ProstheticHeart.label>TODO</OE_ProstheticHeart.label>
+  <!-- EN: An installed bionic heart. -->
+  <OE_ProstheticHeart.description>TODO</OE_ProstheticHeart.description>
+  <!-- EN: a bionic heart -->
+  <OE_ProstheticHeart.labelNoun>TODO</OE_ProstheticHeart.labelNoun>
+  
+  <!-- EN: cultist bionic heart -->
+  <OE_ProstheticHeart_CAC.label>TODO</OE_ProstheticHeart_CAC.label>
+  <!-- EN: An installed cultist bionic heart. -->
+  <OE_ProstheticHeart_CAC.description>TODO</OE_ProstheticHeart_CAC.description>
+  <!-- EN: a cultist bionic heart -->
+  <OE_ProstheticHeart_CAC.labelNoun>TODO</OE_ProstheticHeart_CAC.labelNoun>
+  
+  <!-- EN: advanced bionic heart -->
+  <OE_ProstheticHeart_M.label>TODO</OE_ProstheticHeart_M.label>
+  <!-- EN: An installed advanced bionic heart. -->
+  <OE_ProstheticHeart_M.description>TODO</OE_ProstheticHeart_M.description>
+  <!-- EN: an advanced bionic heart -->
+  <OE_ProstheticHeart_M.labelNoun>TODO</OE_ProstheticHeart_M.labelNoun>
+  
+  <!-- EN: heroic bionic heart -->
+  <OE_ProstheticHeart_OES.label>TODO</OE_ProstheticHeart_OES.label>
+  <!-- EN: An installed heroic bionic heart. -->
+  <OE_ProstheticHeart_OES.description>TODO</OE_ProstheticHeart_OES.description>
+  <!-- EN: a heroic bionic heart -->
+  <OE_ProstheticHeart_OES.labelNoun>TODO</OE_ProstheticHeart_OES.labelNoun>
+  
+  <!-- EN: bionic kidney -->
+  <OE_ProstheticKidney.label>TODO</OE_ProstheticKidney.label>
+  <!-- EN: An installed bionic kidney. -->
+  <OE_ProstheticKidney.description>TODO</OE_ProstheticKidney.description>
+  <!-- EN: a bionic kidney -->
+  <OE_ProstheticKidney.labelNoun>TODO</OE_ProstheticKidney.labelNoun>
+  
+  <!-- EN: cultist bionic kidney -->
+  <OE_ProstheticKidney_CAC.label>TODO</OE_ProstheticKidney_CAC.label>
+  <!-- EN: An installed cultist bionic kidney. -->
+  <OE_ProstheticKidney_CAC.description>TODO</OE_ProstheticKidney_CAC.description>
+  <!-- EN: a cultist bionic kidney -->
+  <OE_ProstheticKidney_CAC.labelNoun>TODO</OE_ProstheticKidney_CAC.labelNoun>
+  
+  <!-- EN: advanced bionic kidney -->
+  <OE_ProstheticKidney_M.label>TODO</OE_ProstheticKidney_M.label>
+  <!-- EN: An installed advanced bionic kidney. -->
+  <OE_ProstheticKidney_M.description>TODO</OE_ProstheticKidney_M.description>
+  <!-- EN: an advanced bionic kidney -->
+  <OE_ProstheticKidney_M.labelNoun>TODO</OE_ProstheticKidney_M.labelNoun>
+  
+  <!-- EN: heroic bionic kidney -->
+  <OE_ProstheticKidney_OES.label>TODO</OE_ProstheticKidney_OES.label>
+  <!-- EN: An installed heroic bionic kidney. -->
+  <OE_ProstheticKidney_OES.description>TODO</OE_ProstheticKidney_OES.description>
+  <!-- EN: a heroic bionic kidney -->
+  <OE_ProstheticKidney_OES.labelNoun>TODO</OE_ProstheticKidney_OES.labelNoun>
+  
+  <!-- EN: bionic liver -->
+  <OE_ProstheticLiver.label>TODO</OE_ProstheticLiver.label>
+  <!-- EN: An installed bionic liver. -->
+  <OE_ProstheticLiver.description>TODO</OE_ProstheticLiver.description>
+  <!-- EN: a bionic liver -->
+  <OE_ProstheticLiver.labelNoun>TODO</OE_ProstheticLiver.labelNoun>
+  
+  <!-- EN: cultist bionic liver -->
+  <OE_ProstheticLiver_CAC.label>TODO</OE_ProstheticLiver_CAC.label>
+  <!-- EN: An installed cultist bionic liver. -->
+  <OE_ProstheticLiver_CAC.description>TODO</OE_ProstheticLiver_CAC.description>
+  <!-- EN: a cultist bionic liver -->
+  <OE_ProstheticLiver_CAC.labelNoun>TODO</OE_ProstheticLiver_CAC.labelNoun>
+  
+  <!-- EN: advanced bionic liver -->
+  <OE_ProstheticLiver_M.label>TODO</OE_ProstheticLiver_M.label>
+  <!-- EN: An installed advanced bionic liver. -->
+  <OE_ProstheticLiver_M.description>TODO</OE_ProstheticLiver_M.description>
+  <!-- EN: an advanced bionic liver -->
+  <OE_ProstheticLiver_M.labelNoun>TODO</OE_ProstheticLiver_M.labelNoun>
+  
+  <!-- EN: heroic bionic liver -->
+  <OE_ProstheticLiver_OES.label>TODO</OE_ProstheticLiver_OES.label>
+  <!-- EN: An installed heroic bionic liver. -->
+  <OE_ProstheticLiver_OES.description>TODO</OE_ProstheticLiver_OES.description>
+  <!-- EN: a heroic bionic liver -->
+  <OE_ProstheticLiver_OES.labelNoun>TODO</OE_ProstheticLiver_OES.labelNoun>
+  
+  <!-- EN: bionic lung -->
+  <OE_ProstheticLung.label>TODO</OE_ProstheticLung.label>
+  <!-- EN: An installed bionic lung. -->
+  <OE_ProstheticLung.description>TODO</OE_ProstheticLung.description>
+  <!-- EN: a bionic lung -->
+  <OE_ProstheticLung.labelNoun>TODO</OE_ProstheticLung.labelNoun>
+  
+  <!-- EN: cultist bionic lung -->
+  <OE_ProstheticLung_CAC.label>TODO</OE_ProstheticLung_CAC.label>
+  <!-- EN: An installed cultist bionic lung. -->
+  <OE_ProstheticLung_CAC.description>TODO</OE_ProstheticLung_CAC.description>
+  <!-- EN: a cultist bionic lung -->
+  <OE_ProstheticLung_CAC.labelNoun>TODO</OE_ProstheticLung_CAC.labelNoun>
+  
+  <!-- EN: advanced bionic lung -->
+  <OE_ProstheticLung_M.label>TODO</OE_ProstheticLung_M.label>
+  <!-- EN: An installed advanced bionic lung. -->
+  <OE_ProstheticLung_M.description>TODO</OE_ProstheticLung_M.description>
+  <!-- EN: an advanced bionic lung -->
+  <OE_ProstheticLung_M.labelNoun>TODO</OE_ProstheticLung_M.labelNoun>
+  
+  <!-- EN: heroic bionic lung -->
+  <OE_ProstheticLung_OES.label>TODO</OE_ProstheticLung_OES.label>
+  <!-- EN: An installed heroic bionic lung. -->
+  <OE_ProstheticLung_OES.description>TODO</OE_ProstheticLung_OES.description>
+  <!-- EN: a heroic bionic lung -->
+  <OE_ProstheticLung_OES.labelNoun>TODO</OE_ProstheticLung_OES.labelNoun>
+  
+  <!-- EN: bionic stomach -->
+  <OE_ProstheticStomach.label>TODO</OE_ProstheticStomach.label>
+  <!-- EN: An installed bionic stomach. -->
+  <OE_ProstheticStomach.description>TODO</OE_ProstheticStomach.description>
+  <!-- EN: a bionic stomach -->
+  <OE_ProstheticStomach.labelNoun>TODO</OE_ProstheticStomach.labelNoun>
+  
+  <!-- EN: cultist bionic stomach -->
+  <OE_ProstheticStomach_CAC.label>TODO</OE_ProstheticStomach_CAC.label>
+  <!-- EN: An installed cultist bionic stomach. -->
+  <OE_ProstheticStomach_CAC.description>TODO</OE_ProstheticStomach_CAC.description>
+  <!-- EN: a cultist bionic stomach -->
+  <OE_ProstheticStomach_CAC.labelNoun>TODO</OE_ProstheticStomach_CAC.labelNoun>
+  
+  <!-- EN: advanced bionic stomach -->
+  <OE_ProstheticStomach_M.label>TODO</OE_ProstheticStomach_M.label>
+  <!-- EN: An installed advanced bionic stomach. -->
+  <OE_ProstheticStomach_M.description>TODO</OE_ProstheticStomach_M.description>
+  <!-- EN: an advanced bionic stomach -->
+  <OE_ProstheticStomach_M.labelNoun>TODO</OE_ProstheticStomach_M.labelNoun>
+  
+  <!-- EN: heroic bionic stomach -->
+  <OE_ProstheticStomach_OES.label>TODO</OE_ProstheticStomach_OES.label>
+  <!-- EN: An installed heroic bionic stomach. -->
+  <OE_ProstheticStomach_OES.description>TODO</OE_ProstheticStomach_OES.description>
+  <!-- EN: a heroic bionic stomach -->
+  <OE_ProstheticStomach_OES.labelNoun>TODO</OE_ProstheticStomach_OES.labelNoun>
+  
+</LanguageData>

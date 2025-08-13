@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: quiet melody in my head -->
+  <OE_CyberwareHead_Optimist.stages.quiet_melody_in_my_head.label>TODO</OE_CyberwareHead_Optimist.stages.quiet_melody_in_my_head.label>
+  <!-- EN: Nice upbeat melody sounds. -->
+  <OE_CyberwareHead_Optimist.stages.quiet_melody_in_my_head.description>TODO</OE_CyberwareHead_Optimist.stages.quiet_melody_in_my_head.description>
+  <!-- EN: melody in my head -->
+  <OE_CyberwareHead_Optimist.stages.melody_in_my_head.label>TODO</OE_CyberwareHead_Optimist.stages.melody_in_my_head.label>
+  <!-- EN: Nice upbeat melody sounds. -->
+  <OE_CyberwareHead_Optimist.stages.melody_in_my_head.description>TODO</OE_CyberwareHead_Optimist.stages.melody_in_my_head.description>
+  <!-- EN: loud melody in my head -->
+  <OE_CyberwareHead_Optimist.stages.loud_melody_in_my_head.label>TODO</OE_CyberwareHead_Optimist.stages.loud_melody_in_my_head.label>
+  <!-- EN: Nice upbeat melody sounds. -->
+  <OE_CyberwareHead_Optimist.stages.loud_melody_in_my_head.description>TODO</OE_CyberwareHead_Optimist.stages.loud_melody_in_my_head.description>
+  
+  <!-- EN: quiet melody in my head -->
+  <OE_CyberwareHead_Pessimist.stages.quiet_melody_in_my_head.label>TODO</OE_CyberwareHead_Pessimist.stages.quiet_melody_in_my_head.label>
+  <!-- EN: Sad gothic melody sounds. -->
+  <OE_CyberwareHead_Pessimist.stages.quiet_melody_in_my_head.description>TODO</OE_CyberwareHead_Pessimist.stages.quiet_melody_in_my_head.description>
+  <!-- EN: melody in my head -->
+  <OE_CyberwareHead_Pessimist.stages.melody_in_my_head.label>TODO</OE_CyberwareHead_Pessimist.stages.melody_in_my_head.label>
+  <!-- EN: Sad gothic melody sounds. -->
+  <OE_CyberwareHead_Pessimist.stages.melody_in_my_head.description>TODO</OE_CyberwareHead_Pessimist.stages.melody_in_my_head.description>
+  <!-- EN: loud melody in my head -->
+  <OE_CyberwareHead_Pessimist.stages.loud_melody_in_my_head.label>TODO</OE_CyberwareHead_Pessimist.stages.loud_melody_in_my_head.label>
+  <!-- EN: Sad gothic melody sounds. -->
+  <OE_CyberwareHead_Pessimist.stages.loud_melody_in_my_head.description>TODO</OE_CyberwareHead_Pessimist.stages.loud_melody_in_my_head.description>
+  
+</LanguageData>

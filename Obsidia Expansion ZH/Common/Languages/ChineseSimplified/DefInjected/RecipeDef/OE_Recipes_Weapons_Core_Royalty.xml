@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Persona bond Monosword -->
+  <OE_Bond_Monosword.label>TODO</OE_Bond_Monosword.label>
+  <!-- EN: Persona bond an Monosword. -->
+  <OE_Bond_Monosword.description>TODO</OE_Bond_Monosword.description>
+  <!-- EN: Persona bonding a Monosword. -->
+  <OE_Bond_Monosword.jobString>TODO</OE_Bond_Monosword.jobString>
+  
+  <!-- EN: Persona bond Plasmasword -->
+  <OE_Bond_Plasmasword.label>TODO</OE_Bond_Plasmasword.label>
+  <!-- EN: Persona bond an Plasmasword. -->
+  <OE_Bond_Plasmasword.description>TODO</OE_Bond_Plasmasword.description>
+  <!-- EN: Persona bonding a Plasmasword. -->
+  <OE_Bond_Plasmasword.jobString>TODO</OE_Bond_Plasmasword.jobString>
+  
+  <!-- EN: Persona bond Zeushammer -->
+  <OE_Bond_Zeushammer.label>TODO</OE_Bond_Zeushammer.label>
+  <!-- EN: Persona bond an Zeushammer. -->
+  <OE_Bond_Zeushammer.description>TODO</OE_Bond_Zeushammer.description>
+  <!-- EN: Persona bonding a Zeushammer. -->
+  <OE_Bond_Zeushammer.jobString>TODO</OE_Bond_Zeushammer.jobString>
+  
+  <!-- EN: Reset Persona Monosword -->
+  <OE_Reset_Monosword_P.label>TODO</OE_Reset_Monosword_P.label>
+  <!-- EN: Reset an Persona Monosword.\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_Monosword_P.description>TODO</OE_Reset_Monosword_P.description>
+  <!-- EN: Resetting a Persona Monosword. -->
+  <OE_Reset_Monosword_P.jobString>TODO</OE_Reset_Monosword_P.jobString>
+  
+  <!-- EN: Reset Persona Plasmasword -->
+  <OE_Reset_Plasmasword_P.label>TODO</OE_Reset_Plasmasword_P.label>
+  <!-- EN: Reset an Persona Plasmasword.\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_Plasmasword_P.description>TODO</OE_Reset_Plasmasword_P.description>
+  <!-- EN: Resetting a Persona Plasmasword. -->
+  <OE_Reset_Plasmasword_P.jobString>TODO</OE_Reset_Plasmasword_P.jobString>
+  
+  <!-- EN: Reset Persona Zeushammer -->
+  <OE_Reset_Zeushammer_P.label>TODO</OE_Reset_Zeushammer_P.label>
+  <!-- EN: Reset an Persona Zeushammer.\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_Zeushammer_P.description>TODO</OE_Reset_Zeushammer_P.description>
+  <!-- EN: Resetting a Persona Zeushammer. -->
+  <OE_Reset_Zeushammer_P.jobString>TODO</OE_Reset_Zeushammer_P.jobString>
+  
+</LanguageData>

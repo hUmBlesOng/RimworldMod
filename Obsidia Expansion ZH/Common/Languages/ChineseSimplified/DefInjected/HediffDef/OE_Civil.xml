@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: azulium effect -->
+  <OE_AzuliumHigh.label>TODO</OE_AzuliumHigh.label>
+  <!-- EN: Active anti-psychotic azulium compounds in the bloodstream, helps control extreme mental breaks and impulsive behaviour. -->
+  <OE_AzuliumHigh.description>TODO</OE_AzuliumHigh.description>
+  <!-- EN: weak -->
+  <OE_AzuliumHigh.stages.weak.label>TODO</OE_AzuliumHigh.stages.weak.label>
+  <!-- EN: moderate -->
+  <OE_AzuliumHigh.stages.moderate.label>TODO</OE_AzuliumHigh.stages.moderate.label>
+  <!-- EN: strong -->
+  <OE_AzuliumHigh.stages.strong.label>TODO</OE_AzuliumHigh.stages.strong.label>
+  
+  <!-- EN: cofagradol need -->
+  <OE_CofagradolAddiction.label>TODO</OE_CofagradolAddiction.label>
+  <!-- EN: Cofagradol mechanites in the body. Cofagradol mechanites decohere over time; only regular doses of fresh cofagradol can prevent this process.\n\nWithout cofagradol, the mechanite decoherence will reach a critical state, causing the victim die in 7 days. -->
+  <OE_CofagradolAddiction.description>TODO</OE_CofagradolAddiction.description>
+  <!-- EN: unmet -->
+  <OE_CofagradolAddiction.stages.unmet.label>TODO</OE_CofagradolAddiction.stages.unmet.label>
+  
+  <!-- EN: cofagradol effect -->
+  <OE_CofagradolHigh.label>TODO</OE_CofagradolHigh.label>
+  <!-- EN: Cofagradol in the bloodstream. Disables need: Rest. -->
+  <OE_CofagradolHigh.description>TODO</OE_CofagradolHigh.description>
+  
+  <!-- EN: cressadol need -->
+  <OE_CressadolAddiction.label>TODO</OE_CressadolAddiction.label>
+  <!-- EN: Cressadol mechanites in the body. Cressadol mechanites decohere over time; only regular doses of fresh cressadol can prevent this process.\n\nWithout cressadol, the mechanite decoherence will reach a critical state, causing the victim die in 7 days. -->
+  <OE_CressadolAddiction.description>TODO</OE_CressadolAddiction.description>
+  <!-- EN: unmet -->
+  <OE_CressadolAddiction.stages.unmet.label>TODO</OE_CressadolAddiction.stages.unmet.label>
+  
+  <!-- EN: cressadol effect -->
+  <OE_CressadolHigh.label>TODO</OE_CressadolHigh.label>
+  <!-- EN: Cressadol in the bloodstream. Disables need: Recreation. -->
+  <OE_CressadolHigh.description>TODO</OE_CressadolHigh.description>
+  
+  <!-- EN: florgadol need -->
+  <OE_FlorgadolAddiction.label>TODO</OE_FlorgadolAddiction.label>
+  <!-- EN: Florgadol mechanites in the body. Florgadol mechanites decohere over time; only regular doses of fresh florgadol can prevent this process.\n\nWithout florgadol, the mechanite decoherence will reach a critical state, causing the victim die in 7 days. -->
+  <OE_FlorgadolAddiction.description>TODO</OE_FlorgadolAddiction.description>
+  <!-- EN: unmet -->
+  <OE_FlorgadolAddiction.stages.unmet.label>TODO</OE_FlorgadolAddiction.stages.unmet.label>
+  
+  <!-- EN: florgadol effect -->
+  <OE_FlorgadolHigh.label>TODO</OE_FlorgadolHigh.label>
+  <!-- EN: Florgadol in the bloodstream. Disables need: Mood. -->
+  <OE_FlorgadolHigh.description>TODO</OE_FlorgadolHigh.description>
+  
+  <!-- EN: garganadol need -->
+  <OE_GarganadolAddiction.label>TODO</OE_GarganadolAddiction.label>
+  <!-- EN: Garganadol mechanites in the body. Garganadol mechanites decohere over time; only regular doses of fresh garganadol can prevent this process.\n\nWithout garganadol, the mechanite decoherence will reach a critical state, causing the victim die in 7 days. -->
+  <OE_GarganadolAddiction.description>TODO</OE_GarganadolAddiction.description>
+  <!-- EN: unmet -->
+  <OE_GarganadolAddiction.stages.unmet.label>TODO</OE_GarganadolAddiction.stages.unmet.label>
+  
+  <!-- EN: garganadol effect -->
+  <OE_GarganadolHigh.label>TODO</OE_GarganadolHigh.label>
+  <!-- EN: Garganadol in the bloodstream. Disables need: Food. -->
+  <OE_GarganadolHigh.description>TODO</OE_GarganadolHigh.description>
+  
+  <!-- EN: timbium addiction -->
+  <OE_TimbiumAddiction.label>TODO</OE_TimbiumAddiction.label>
+  <!-- EN: A chemical addiction to timbium. -->
+  <OE_TimbiumAddiction.description>TODO</OE_TimbiumAddiction.description>
+  <!-- EN: withdrawal -->
+  <OE_TimbiumAddiction.stages.withdrawal.label>TODO</OE_TimbiumAddiction.stages.withdrawal.label>
+  
+  <!-- EN: timbium effect -->
+  <OE_TimbiumHigh.label>TODO</OE_TimbiumHigh.label>
+  <!-- EN: Active timbium in the bloodstream. Improves mobility, speed of work and learning. -->
+  <OE_TimbiumHigh.description>TODO</OE_TimbiumHigh.description>
+  <!-- EN: weak -->
+  <OE_TimbiumHigh.stages.weak.label>TODO</OE_TimbiumHigh.stages.weak.label>
+  <!-- EN: moderate -->
+  <OE_TimbiumHigh.stages.moderate.label>TODO</OE_TimbiumHigh.stages.moderate.label>
+  <!-- EN: strong -->
+  <OE_TimbiumHigh.stages.strong.label>TODO</OE_TimbiumHigh.stages.strong.label>
+  
+</LanguageData>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ghoul body prosthetic - Crusader's Drive -->
+  <CAC_GhoulProstheticChamber.label>TODO</CAC_GhoulProstheticChamber.label>
+  <!-- EN: An installed ghoul body prosthetic - Crusader's Drive. -->
+  <CAC_GhoulProstheticChamber.description>TODO</CAC_GhoulProstheticChamber.description>
+  <!-- EN: a ghoul body prosthetic - Crusader's Drive -->
+  <CAC_GhoulProstheticChamber.labelNoun>TODO</CAC_GhoulProstheticChamber.labelNoun>
+  
+  <!-- EN: ghoul arm prosthetic - Crusader's Claws -->
+  <CAC_GhoulProstheticClaws.label>TODO</CAC_GhoulProstheticClaws.label>
+  <!-- EN: An installed ghoul arm prosthetic - Crusader's Claws. -->
+  <CAC_GhoulProstheticClaws.description>TODO</CAC_GhoulProstheticClaws.description>
+  <!-- EN: claws -->
+  <CAC_GhoulProstheticClaws.comps.HediffComp_VerbGiver.tools.claws.label>TODO</CAC_GhoulProstheticClaws.comps.HediffComp_VerbGiver.tools.claws.label>
+  <!-- EN: a ghoul arm prosthetic - Crusader's Claws -->
+  <CAC_GhoulProstheticClaws.labelNoun>TODO</CAC_GhoulProstheticClaws.labelNoun>
+  
+  <!-- EN: ghoul skull prosthetic - Crusader's Helmet -->
+  <CAC_GhoulProstheticHelmet.label>TODO</CAC_GhoulProstheticHelmet.label>
+  <!-- EN: An installed ghoul skull prosthetic - Crusader's Helmet. -->
+  <CAC_GhoulProstheticHelmet.description>TODO</CAC_GhoulProstheticHelmet.description>
+  <!-- EN: a ghoul skull prosthetic - Crusader's Helmet -->
+  <CAC_GhoulProstheticHelmet.labelNoun>TODO</CAC_GhoulProstheticHelmet.labelNoun>
+  
+  <!-- EN: ghoul skeleton implant - Scarab -->
+  <OE_GhoulImplantSkeleton.label>TODO</OE_GhoulImplantSkeleton.label>
+  <!-- EN: An installed ghoul skeleton implant - Scarab. -->
+  <OE_GhoulImplantSkeleton.description>TODO</OE_GhoulImplantSkeleton.description>
+  <!-- EN: a ghoul skeleton implant - Scarab -->
+  <OE_GhoulImplantSkeleton.labelNoun>TODO</OE_GhoulImplantSkeleton.labelNoun>
+  
+  <!-- EN: ghoul skin implant - Carapace -->
+  <OE_GhoulImplantSkin.label>TODO</OE_GhoulImplantSkin.label>
+  <!-- EN: An installed ghoul skin implant - Carapace. -->
+  <OE_GhoulImplantSkin.description>TODO</OE_GhoulImplantSkin.description>
+  <!-- EN: a ghoul skin implant - Carapace -->
+  <OE_GhoulImplantSkin.labelNoun>TODO</OE_GhoulImplantSkin.labelNoun>
+  
+  <!-- EN: ghoul stomach implant - Larva -->
+  <OE_GhoulImplantStomach.label>TODO</OE_GhoulImplantStomach.label>
+  <!-- EN: An installed ghoul stomach implant - Larva. -->
+  <OE_GhoulImplantStomach.description>TODO</OE_GhoulImplantStomach.description>
+  <!-- EN: a ghoul stomach implant - Larva -->
+  <OE_GhoulImplantStomach.labelNoun>TODO</OE_GhoulImplantStomach.labelNoun>
+  
+</LanguageData>

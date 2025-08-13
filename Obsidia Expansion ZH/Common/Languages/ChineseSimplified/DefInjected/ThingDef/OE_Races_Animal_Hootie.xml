@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hootie -->
+  <OE_Hootie.label>TODO</OE_Hootie.label>
+  <!-- EN: A beautiful medium unmodified Obsidia bird species. It is easily angered. -->
+  <OE_Hootie.description>TODO</OE_Hootie.description>
+  <!-- EN: claws -->
+  <OE_Hootie.tools.claws.label>TODO</OE_Hootie.tools.claws.label>
+  <!-- EN: beak -->
+  <OE_Hootie.tools.beak.label>TODO</OE_Hootie.tools.beak.label>
+  <!-- EN: head -->
+  <OE_Hootie.tools.head.label>TODO</OE_Hootie.tools.head.label>
+  
+</LanguageData>

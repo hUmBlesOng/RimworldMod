@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Persona Balor -->
+  <OCC_Trophy_Drillspear_P.label>TODO</OCC_Trophy_Drillspear_P.label>
+  <!-- EN: Persona spear-drill, a replica of the personal weapon of the great siegemaster Balor.\n\nThis is a rare trophy weapon.\n\nFeature: designed to destroy structures. -->
+  <OCC_Trophy_Drillspear_P.description>TODO</OCC_Trophy_Drillspear_P.description>
+  <!-- EN: handle -->
+  <OCC_Trophy_Drillspear_P.tools.handle.label>TODO</OCC_Trophy_Drillspear_P.tools.handle.label>
+  <!-- EN: drill -->
+  <OCC_Trophy_Drillspear_P.tools.drill.label>TODO</OCC_Trophy_Drillspear_P.tools.drill.label>
+  
+</LanguageData>

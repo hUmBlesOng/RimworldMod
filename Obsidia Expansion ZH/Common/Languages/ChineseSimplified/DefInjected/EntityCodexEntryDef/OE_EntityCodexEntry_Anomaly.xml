@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Chaos slimes -->
+  <OE_ChaosSlimeDiscovered.label>TODO</OE_ChaosSlimeDiscovered.label>
+  <!-- EN: Chaos slime - under the influence of an unknown force from the outside, they began to fuse their bodies into something single. -->
+  <OE_ChaosSlimeDiscovered.description>TODO</OE_ChaosSlimeDiscovered.description>
+  
+  <!-- EN: Cyber Arachna -->
+  <OE_CyberArachnaDiscovered.label>TODO</OE_CyberArachnaDiscovered.label>
+  
+  <!-- EN: Returned -->
+  <OE_ReturnedDiscovered.label>TODO</OE_ReturnedDiscovered.label>
+  
+</LanguageData>

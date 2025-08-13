@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: direwolf -->
+  <OE_Direwolf.label>TODO</OE_Direwolf.label>
+  <!-- EN: Obsidia Direwolves look like normal wolves, but these creatures are nearly twice the size. Because of their fur, they prefer to live in cool climates. Hard to tame, but once tamed, they become loyal protectors. -->
+  <OE_Direwolf.description>TODO</OE_Direwolf.description>
+  <!-- EN: direwolf meat -->
+  <OE_Direwolf.race.meatLabel>TODO</OE_Direwolf.race.meatLabel>
+  <!-- EN: left claw -->
+  <OE_Direwolf.tools.left_claw.label>TODO</OE_Direwolf.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <OE_Direwolf.tools.right_claw.label>TODO</OE_Direwolf.tools.right_claw.label>
+  <!-- EN: head -->
+  <OE_Direwolf.tools.head.label>TODO</OE_Direwolf.tools.head.label>
+  
+</LanguageData>

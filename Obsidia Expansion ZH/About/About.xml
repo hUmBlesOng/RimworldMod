@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Obsidia Expansion 简体中文汉化包</name>
+	<author>hUmBlesOng</author>
+	<packageId>humblesong.obsidiaExpansionCore.zh</packageId>
+	<supportedVersions>
+	 <li>1.6</li>
+	</supportedVersions>
+	<loadAfter>
+	 <li>ObsidiaExpansion.Core</li>
+	</loadAfter>
+	<description>Obsidia Expansion 简体中文汉化包。自用机翻汉化，不喜勿喷。该模组添加了黑曜石帝国、黑曜石辛迪加氏族、黑曜石叛徒氏族、黑曜石朝圣者氏族、深红蛛虫教派、黑曜石雇佣兵帮派等派系，同时包含了新的研究、武器、服装、护甲、建筑、资源、植物、动物、任务、独特的皇室头衔、机械体、实体以及更多内容。</description>
+</ModMetaData>

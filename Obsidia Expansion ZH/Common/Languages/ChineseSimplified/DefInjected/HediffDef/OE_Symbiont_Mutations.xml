@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mutation - Colossus -->
+  <EGO_Mutation_Armor.label>TODO</EGO_Mutation_Armor.label>
+  <!-- EN: An implanted mutation - Colossus.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
+  <EGO_Mutation_Armor.description>TODO</EGO_Mutation_Armor.description>
+  <!-- EN: a mutation - Colossus -->
+  <EGO_Mutation_Armor.labelNoun>TODO</EGO_Mutation_Armor.labelNoun>
+  
+  <!-- EN: mutation - Demigod -->
+  <EGO_Mutation_Body.label>TODO</EGO_Mutation_Body.label>
+  <!-- EN: An implanted mutation - Demigod.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
+  <EGO_Mutation_Body.description>TODO</EGO_Mutation_Body.description>
+  <!-- EN: a mutation - Demigod -->
+  <EGO_Mutation_Body.labelNoun>TODO</EGO_Mutation_Body.labelNoun>
+  
+  <!-- EN: mutation - Metabolism -->
+  <EGO_Mutation_Hunger.label>TODO</EGO_Mutation_Hunger.label>
+  <!-- EN: An implanted mutation - Metabolism.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
+  <EGO_Mutation_Hunger.description>TODO</EGO_Mutation_Hunger.description>
+  <!-- EN: a mutation - Metabolism -->
+  <EGO_Mutation_Hunger.labelNoun>TODO</EGO_Mutation_Hunger.labelNoun>
+  
+  <!-- EN: mutation - Berserker -->
+  <EGO_Mutation_Melee.label>TODO</EGO_Mutation_Melee.label>
+  <!-- EN: An implanted mutation - Berserker.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
+  <EGO_Mutation_Melee.description>TODO</EGO_Mutation_Melee.description>
+  <!-- EN: a mutation - Berserker -->
+  <EGO_Mutation_Melee.labelNoun>TODO</EGO_Mutation_Melee.labelNoun>
+  
+  <!-- EN: mutation - Ballista -->
+  <EGO_Mutation_Ranged.label>TODO</EGO_Mutation_Ranged.label>
+  <!-- EN: An implanted mutation - Ballista.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
+  <EGO_Mutation_Ranged.description>TODO</EGO_Mutation_Ranged.description>
+  <!-- EN: a mutation - Ballista -->
+  <EGO_Mutation_Ranged.labelNoun>TODO</EGO_Mutation_Ranged.labelNoun>
+  
+  <!-- EN: mutation - Endurer -->
+  <EGO_Mutation_Temperature.label>TODO</EGO_Mutation_Temperature.label>
+  <!-- EN: An implanted mutation - Endurer.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
+  <EGO_Mutation_Temperature.description>TODO</EGO_Mutation_Temperature.description>
+  <!-- EN: a mutation - Endurer -->
+  <EGO_Mutation_Temperature.labelNoun>TODO</EGO_Mutation_Temperature.labelNoun>
+  
+  <!-- EN: mutation - Unshaken -->
+  <EGO_Mutation_Will.label>TODO</EGO_Mutation_Will.label>
+  <!-- EN: An implanted mutation - Unshaken.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
+  <EGO_Mutation_Will.description>TODO</EGO_Mutation_Will.description>
+  <!-- EN: a mutation - Unshaken -->
+  <EGO_Mutation_Will.labelNoun>TODO</EGO_Mutation_Will.labelNoun>
+  
+  <!-- EN: mutation - Constructor -->
+  <EGO_Mutation_Worker.label>TODO</EGO_Mutation_Worker.label>
+  <!-- EN: An implanted mutation - Constructor.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
+  <EGO_Mutation_Worker.description>TODO</EGO_Mutation_Worker.description>
+  <!-- EN: a mutation - Constructor -->
+  <EGO_Mutation_Worker.labelNoun>TODO</EGO_Mutation_Worker.labelNoun>
+  
+</LanguageData>

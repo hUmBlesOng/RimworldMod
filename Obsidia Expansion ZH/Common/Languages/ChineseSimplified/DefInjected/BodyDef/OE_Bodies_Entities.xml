@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cyber arachna -->
+  <OECyberArachnaLike.label>TODO</OECyberArachnaLike.label>
+  <!-- EN: left lung -->
+  <OECyberArachnaLike.corePart.parts.Torso.parts.left_lung.customLabel>TODO</OECyberArachnaLike.corePart.parts.Torso.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <OECyberArachnaLike.corePart.parts.Torso.parts.right_lung.customLabel>TODO</OECyberArachnaLike.corePart.parts.Torso.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <OECyberArachnaLike.corePart.parts.Torso.parts.left_kidney.customLabel>TODO</OECyberArachnaLike.corePart.parts.Torso.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <OECyberArachnaLike.corePart.parts.Torso.parts.right_kidney.customLabel>TODO</OECyberArachnaLike.corePart.parts.Torso.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <OECyberArachnaLike.corePart.parts.Torso.parts.Neck.parts.Head.parts.left_eye.customLabel>TODO</OECyberArachnaLike.corePart.parts.Torso.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <OECyberArachnaLike.corePart.parts.Torso.parts.Neck.parts.Head.parts.right_eye.customLabel>TODO</OECyberArachnaLike.corePart.parts.Torso.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left shoulder -->
+  <OECyberArachnaLike.corePart.parts.left_shoulder.customLabel>TODO</OECyberArachnaLike.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left arm -->
+  <OECyberArachnaLike.corePart.parts.left_shoulder.parts.left_arm.customLabel>TODO</OECyberArachnaLike.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left hand -->
+  <OECyberArachnaLike.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>TODO</OECyberArachnaLike.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: right shoulder -->
+  <OECyberArachnaLike.corePart.parts.right_shoulder.customLabel>TODO</OECyberArachnaLike.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right arm -->
+  <OECyberArachnaLike.corePart.parts.right_shoulder.parts.right_arm.customLabel>TODO</OECyberArachnaLike.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right hand -->
+  <OECyberArachnaLike.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>TODO</OECyberArachnaLike.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: left first leg -->
+  <OECyberArachnaLike.corePart.parts.left_first_leg.customLabel>TODO</OECyberArachnaLike.corePart.parts.left_first_leg.customLabel>
+  <!-- EN: left first foot -->
+  <OECyberArachnaLike.corePart.parts.left_first_leg.parts.left_first_foot.customLabel>TODO</OECyberArachnaLike.corePart.parts.left_first_leg.parts.left_first_foot.customLabel>
+  <!-- EN: left second leg -->
+  <OECyberArachnaLike.corePart.parts.left_second_leg.customLabel>TODO</OECyberArachnaLike.corePart.parts.left_second_leg.customLabel>
+  <!-- EN: left second foot -->
+  <OECyberArachnaLike.corePart.parts.left_second_leg.parts.left_second_foot.customLabel>TODO</OECyberArachnaLike.corePart.parts.left_second_leg.parts.left_second_foot.customLabel>
+  <!-- EN: right first leg -->
+  <OECyberArachnaLike.corePart.parts.right_first_leg.customLabel>TODO</OECyberArachnaLike.corePart.parts.right_first_leg.customLabel>
+  <!-- EN: right first foot -->
+  <OECyberArachnaLike.corePart.parts.right_first_leg.parts.right_first_foot.customLabel>TODO</OECyberArachnaLike.corePart.parts.right_first_leg.parts.right_first_foot.customLabel>
+  <!-- EN: right second leg -->
+  <OECyberArachnaLike.corePart.parts.right_second_leg.customLabel>TODO</OECyberArachnaLike.corePart.parts.right_second_leg.customLabel>
+  <!-- EN: right second foot -->
+  <OECyberArachnaLike.corePart.parts.right_second_leg.parts.right_second_foot.customLabel>TODO</OECyberArachnaLike.corePart.parts.right_second_leg.parts.right_second_foot.customLabel>
+  
+  <!-- EN: returned -->
+  <OEReturnedLike.label>TODO</OEReturnedLike.label>
+  <!-- EN: left lung -->
+  <OEReturnedLike.corePart.parts.left_lung.customLabel>TODO</OEReturnedLike.corePart.parts.left_lung.customLabel>
+  <!-- EN: right lung -->
+  <OEReturnedLike.corePart.parts.right_lung.customLabel>TODO</OEReturnedLike.corePart.parts.right_lung.customLabel>
+  <!-- EN: left kidney -->
+  <OEReturnedLike.corePart.parts.left_kidney.customLabel>TODO</OEReturnedLike.corePart.parts.left_kidney.customLabel>
+  <!-- EN: right kidney -->
+  <OEReturnedLike.corePart.parts.right_kidney.customLabel>TODO</OEReturnedLike.corePart.parts.right_kidney.customLabel>
+  <!-- EN: left eye -->
+  <OEReturnedLike.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>TODO</OEReturnedLike.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <OEReturnedLike.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>TODO</OEReturnedLike.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <!-- EN: left shoulder -->
+  <OEReturnedLike.corePart.parts.left_shoulder.customLabel>TODO</OEReturnedLike.corePart.parts.left_shoulder.customLabel>
+  <!-- EN: left arachna arm -->
+  <OEReturnedLike.corePart.parts.left_shoulder.parts.left_arachna_arm.customLabel>TODO</OEReturnedLike.corePart.parts.left_shoulder.parts.left_arachna_arm.customLabel>
+  <!-- EN: left arm -->
+  <OEReturnedLike.corePart.parts.left_shoulder.parts.left_arm.customLabel>TODO</OEReturnedLike.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <!-- EN: left hand -->
+  <OEReturnedLike.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>TODO</OEReturnedLike.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <!-- EN: right shoulder -->
+  <OEReturnedLike.corePart.parts.right_shoulder.customLabel>TODO</OEReturnedLike.corePart.parts.right_shoulder.customLabel>
+  <!-- EN: right arachna arm -->
+  <OEReturnedLike.corePart.parts.right_shoulder.parts.right_arachna_arm.customLabel>TODO</OEReturnedLike.corePart.parts.right_shoulder.parts.right_arachna_arm.customLabel>
+  <!-- EN: right arm -->
+  <OEReturnedLike.corePart.parts.right_shoulder.parts.right_arm.customLabel>TODO</OEReturnedLike.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <!-- EN: right hand -->
+  <OEReturnedLike.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>TODO</OEReturnedLike.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <!-- EN: left leg -->
+  <OEReturnedLike.corePart.parts.left_leg.customLabel>TODO</OEReturnedLike.corePart.parts.left_leg.customLabel>
+  <!-- EN: right leg -->
+  <OEReturnedLike.corePart.parts.right_leg.customLabel>TODO</OEReturnedLike.corePart.parts.right_leg.customLabel>
+  
+</LanguageData>

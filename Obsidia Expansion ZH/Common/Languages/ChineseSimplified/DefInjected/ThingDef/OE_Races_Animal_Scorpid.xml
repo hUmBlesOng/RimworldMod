@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blue scorpid -->
+  <OE_Scorpid_Blue.label>TODO</OE_Scorpid_Blue.label>
+  <!-- EN: One of the oldest creatures of Obsidia. Scorpid is a huge insectoid with a durable chitinous shell, powerful claws and a poisonous sting.\n\nThis specimen adapted to life at cold temperatures. -->
+  <OE_Scorpid_Blue.description>TODO</OE_Scorpid_Blue.description>
+  <!-- EN: left claw -->
+  <OE_Scorpid_Blue.tools.left_claw.label>TODO</OE_Scorpid_Blue.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <OE_Scorpid_Blue.tools.right_claw.label>TODO</OE_Scorpid_Blue.tools.right_claw.label>
+  <!-- EN: sting -->
+  <OE_Scorpid_Blue.tools.sting.label>TODO</OE_Scorpid_Blue.tools.sting.label>
+  <!-- EN: head -->
+  <OE_Scorpid_Blue.tools.head.label>TODO</OE_Scorpid_Blue.tools.head.label>
+  
+  <!-- EN: red scorpid -->
+  <OE_Scorpid_Red.label>TODO</OE_Scorpid_Red.label>
+  <!-- EN: One of the oldest creatures of Obsidia. Scorpid is a huge insectoid with a durable chitinous shell, powerful claws and a poisonous sting.\n\nThis specimen adapted to life at hot temperatures. -->
+  <OE_Scorpid_Red.description>TODO</OE_Scorpid_Red.description>
+  <!-- EN: left claw -->
+  <OE_Scorpid_Red.tools.left_claw.label>TODO</OE_Scorpid_Red.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <OE_Scorpid_Red.tools.right_claw.label>TODO</OE_Scorpid_Red.tools.right_claw.label>
+  <!-- EN: sting -->
+  <OE_Scorpid_Red.tools.sting.label>TODO</OE_Scorpid_Red.tools.sting.label>
+  <!-- EN: head -->
+  <OE_Scorpid_Red.tools.head.label>TODO</OE_Scorpid_Red.tools.head.label>
+  
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hidden obsidia LED lights strip -->
+  <OE_HiddenLightsStrip.label>TODO</OE_HiddenLightsStrip.label>
+  <!-- EN: A glowing hidden strip of lights, essential for Obsidia's signature design and illumination. They're tougher than regular strip, but also slower to build and more expensive. -->
+  <OE_HiddenLightsStrip.description>TODO</OE_HiddenLightsStrip.description>
+  
+  <!-- EN: big obsidia ceiling lamp -->
+  <OE_Lighting_CeilingLamp_Big.label>TODO</OE_Lighting_CeilingLamp_Big.label>
+  <!-- EN: This is a ceiling 2x2 lamp providing light, while not using any floor space. Expensive, but well-protected. -->
+  <OE_Lighting_CeilingLamp_Big.description>TODO</OE_Lighting_CeilingLamp_Big.description>
+  
+  <!-- EN: small obsidia ceiling lamp -->
+  <OE_Lighting_CeilingLamp_Small.label>TODO</OE_Lighting_CeilingLamp_Small.label>
+  <!-- EN: This is a ceiling 1x1 lamp providing light, while not using any floor space. Expensive, but well-protected. -->
+  <OE_Lighting_CeilingLamp_Small.description>TODO</OE_Lighting_CeilingLamp_Small.description>
+  
+  <!-- EN: obsidia LED lights strip -->
+  <OE_LightsStrip.label>TODO</OE_LightsStrip.label>
+  <!-- EN: A glowing strip of lights, essential for Obsidia's signature design and illumination. -->
+  <OE_LightsStrip.description>TODO</OE_LightsStrip.description>
+  
+</LanguageData>

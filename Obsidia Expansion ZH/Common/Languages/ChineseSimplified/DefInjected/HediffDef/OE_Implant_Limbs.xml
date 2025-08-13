@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arm implant - Demolisher -->
+  <OE_ImplantArm_Demolisher.label>TODO</OE_ImplantArm_Demolisher.label>
+  <!-- EN: An installed arm implant - Demolisher. -->
+  <OE_ImplantArm_Demolisher.description>TODO</OE_ImplantArm_Demolisher.description>
+  <!-- EN: drill -->
+  <OE_ImplantArm_Demolisher.comps.HediffComp_VerbGiver.tools.drill.label>TODO</OE_ImplantArm_Demolisher.comps.HediffComp_VerbGiver.tools.drill.label>
+  <!-- EN: an arm implant - Demolisher -->
+  <OE_ImplantArm_Demolisher.labelNoun>TODO</OE_ImplantArm_Demolisher.labelNoun>
+  
+  <!-- EN: arm implant - Duelist -->
+  <OE_ImplantArm_Duelist.label>TODO</OE_ImplantArm_Duelist.label>
+  <!-- EN: An installed arm implant - Duelist. -->
+  <OE_ImplantArm_Duelist.description>TODO</OE_ImplantArm_Duelist.description>
+  <!-- EN: fist -->
+  <OE_ImplantArm_Duelist.comps.HediffComp_VerbGiver.tools.fist.label>TODO</OE_ImplantArm_Duelist.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: an arm implant - Duelist -->
+  <OE_ImplantArm_Duelist.labelNoun>TODO</OE_ImplantArm_Duelist.labelNoun>
+  
+  <!-- EN: arm implant - Sting(Acid) -->
+  <OE_ImplantArm_Sting_Acid.label>TODO</OE_ImplantArm_Sting_Acid.label>
+  <!-- EN: An installed arm implant - Sting. -->
+  <OE_ImplantArm_Sting_Acid.description>TODO</OE_ImplantArm_Sting_Acid.description>
+  <!-- EN: sting -->
+  <OE_ImplantArm_Sting_Acid.comps.HediffComp_VerbGiver.tools.sting.label>TODO</OE_ImplantArm_Sting_Acid.comps.HediffComp_VerbGiver.tools.sting.label>
+  <!-- EN: an arm implant - Sting -->
+  <OE_ImplantArm_Sting_Acid.labelNoun>TODO</OE_ImplantArm_Sting_Acid.labelNoun>
+  
+  <!-- EN: arm implant - Sting(Cryo) -->
+  <OE_ImplantArm_Sting_Cryo.label>TODO</OE_ImplantArm_Sting_Cryo.label>
+  <!-- EN: An installed arm implant - Sting. -->
+  <OE_ImplantArm_Sting_Cryo.description>TODO</OE_ImplantArm_Sting_Cryo.description>
+  <!-- EN: sting -->
+  <OE_ImplantArm_Sting_Cryo.comps.HediffComp_VerbGiver.tools.sting.label>TODO</OE_ImplantArm_Sting_Cryo.comps.HediffComp_VerbGiver.tools.sting.label>
+  <!-- EN: an arm implant - Sting -->
+  <OE_ImplantArm_Sting_Cryo.labelNoun>TODO</OE_ImplantArm_Sting_Cryo.labelNoun>
+  
+  <!-- EN: arm implant - Sting(EMP) -->
+  <OE_ImplantArm_Sting_EMP.label>TODO</OE_ImplantArm_Sting_EMP.label>
+  <!-- EN: An installed arm implant - Sting. -->
+  <OE_ImplantArm_Sting_EMP.description>TODO</OE_ImplantArm_Sting_EMP.description>
+  <!-- EN: sting -->
+  <OE_ImplantArm_Sting_EMP.comps.HediffComp_VerbGiver.tools.sting.label>TODO</OE_ImplantArm_Sting_EMP.comps.HediffComp_VerbGiver.tools.sting.label>
+  <!-- EN: an arm implant - Sting -->
+  <OE_ImplantArm_Sting_EMP.labelNoun>TODO</OE_ImplantArm_Sting_EMP.labelNoun>
+  
+  <!-- EN: arm implant - Sting(Fire) -->
+  <OE_ImplantArm_Sting_Fire.label>TODO</OE_ImplantArm_Sting_Fire.label>
+  <!-- EN: An installed arm implant - Sting. -->
+  <OE_ImplantArm_Sting_Fire.description>TODO</OE_ImplantArm_Sting_Fire.description>
+  <!-- EN: sting -->
+  <OE_ImplantArm_Sting_Fire.comps.HediffComp_VerbGiver.tools.sting.label>TODO</OE_ImplantArm_Sting_Fire.comps.HediffComp_VerbGiver.tools.sting.label>
+  <!-- EN: an arm implant - Sting -->
+  <OE_ImplantArm_Sting_Fire.labelNoun>TODO</OE_ImplantArm_Sting_Fire.labelNoun>
+  
+  <!-- EN: hand implant - Agronomist -->
+  <OE_ImplantHand_Agronomist.label>TODO</OE_ImplantHand_Agronomist.label>
+  <!-- EN: An installed hand implant - Agronomist. -->
+  <OE_ImplantHand_Agronomist.description>TODO</OE_ImplantHand_Agronomist.description>
+  <!-- EN: a hand implant - Agronomist -->
+  <OE_ImplantHand_Agronomist.labelNoun>TODO</OE_ImplantHand_Agronomist.labelNoun>
+  
+  <!-- EN: hand implant - Builder -->
+  <OE_ImplantHand_Builder.label>TODO</OE_ImplantHand_Builder.label>
+  <!-- EN: An installed hand implant - Builder. -->
+  <OE_ImplantHand_Builder.description>TODO</OE_ImplantHand_Builder.description>
+  <!-- EN: a hand implant - Builder -->
+  <OE_ImplantHand_Builder.labelNoun>TODO</OE_ImplantHand_Builder.labelNoun>
+  
+  <!-- EN: hand implant - Doctor -->
+  <OE_ImplantHand_Doctor.label>TODO</OE_ImplantHand_Doctor.label>
+  <!-- EN: An installed hand implant - Doctor. -->
+  <OE_ImplantHand_Doctor.description>TODO</OE_ImplantHand_Doctor.description>
+  <!-- EN: a hand implant - Doctor -->
+  <OE_ImplantHand_Doctor.labelNoun>TODO</OE_ImplantHand_Doctor.labelNoun>
+  
+  <!-- EN: hand implant - Harvester -->
+  <OE_ImplantHand_Harvester.label>TODO</OE_ImplantHand_Harvester.label>
+  <!-- EN: An installed hand implant - Harvester. -->
+  <OE_ImplantHand_Harvester.description>TODO</OE_ImplantHand_Harvester.description>
+  <!-- EN: a hand implant - Harvester -->
+  <OE_ImplantHand_Harvester.labelNoun>TODO</OE_ImplantHand_Harvester.labelNoun>
+  
+  <!-- EN: hand implant - Soldier -->
+  <OE_ImplantHand_Soldier.label>TODO</OE_ImplantHand_Soldier.label>
+  <!-- EN: An installed hand implant - Soldier. -->
+  <OE_ImplantHand_Soldier.description>TODO</OE_ImplantHand_Soldier.description>
+  <!-- EN: a hand implant - Soldier -->
+  <OE_ImplantHand_Soldier.labelNoun>TODO</OE_ImplantHand_Soldier.labelNoun>
+  
+  <!-- EN: leg implant - Ninja -->
+  <OE_ImplantLeg_Ninja.label>TODO</OE_ImplantLeg_Ninja.label>
+  <!-- EN: An installed leg implant - Ninja. -->
+  <OE_ImplantLeg_Ninja.description>TODO</OE_ImplantLeg_Ninja.description>
+  <!-- EN: a leg implant - Ninja -->
+  <OE_ImplantLeg_Ninja.labelNoun>TODO</OE_ImplantLeg_Ninja.labelNoun>
+  
+</LanguageData>

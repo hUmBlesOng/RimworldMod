@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cosmol -->
+  <OE_Cosmol.label>TODO</OE_Cosmol.label>
+  <!-- EN: A special immunostimulant used to enhance immunity and treat various diseases. Obsidia technology, the drug is non-addictive and has no after-effects. -->
+  <OE_Cosmol.description>TODO</OE_Cosmol.description>
+  <!-- EN: Take {0} -->
+  <OE_Cosmol.ingestible.ingestCommandString>TODO</OE_Cosmol.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <OE_Cosmol.ingestible.ingestReportString>TODO</OE_Cosmol.ingestible.ingestReportString>
+  
+  <!-- EN: sevide -->
+  <OE_Sevide.label>TODO</OE_Sevide.label>
+  <!-- EN: Deadly poison, used by assassins or as a means of execution. Obsidia technology gradually weakens the body, with a minor lethal outcome. -->
+  <OE_Sevide.description>TODO</OE_Sevide.description>
+  <!-- EN: Take {0} -->
+  <OE_Sevide.ingestible.ingestCommandString>TODO</OE_Sevide.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <OE_Sevide.ingestible.ingestReportString>TODO</OE_Sevide.ingestible.ingestReportString>
+  
+  <!-- EN: slugol -->
+  <OE_Slugol.label>TODO</OE_Slugol.label>
+  <!-- EN: A unique medical specialty, a potent drug based on Luciferium, is used to treat serious wounds and diseases. Obsidia technology, the drug is non-addictive and has no after-effects. -->
+  <OE_Slugol.description>TODO</OE_Slugol.description>
+  <!-- EN: Take {0} -->
+  <OE_Slugol.ingestible.ingestCommandString>TODO</OE_Slugol.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <OE_Slugol.ingestible.ingestReportString>TODO</OE_Slugol.ingestible.ingestReportString>
+  
+</LanguageData>

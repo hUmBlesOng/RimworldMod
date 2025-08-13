@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: OCC Knight Armor -->
+  <OCC_Armor.label>TODO</OCC_Armor.label>
+  <!-- EN: Heavy power armor, excellent protects the owner with little mobility restriction. Designed for use by the OCC Knights. -->
+  <OCC_Armor.description>TODO</OCC_Armor.description>
+  
+  <!-- EN: OCC Paladin Armor -->
+  <OCC_Armor_M.label>TODO</OCC_Armor_M.label>
+  <!-- EN: Heavy power armor, excellent protects the owner with little mobility restriction. Designed and modified for use by OCC Paladins.\n\nThe hardened version provides more protection to the owner. -->
+  <OCC_Armor_M.description>TODO</OCC_Armor_M.description>
+  
+  <!-- EN: OCC Paladin Armor(Protector) -->
+  <OCC_Armor_M_Barrier.label>TODO</OCC_Armor_M_Barrier.label>
+  <!-- EN: Heavy power armor, excellent protects the owner with little mobility restriction. Designed and modified for use by OCC Paladins.\n\nModified with the addition of the Universal Barrier. -->
+  <OCC_Armor_M_Barrier.description>TODO</OCC_Armor_M_Barrier.description>
+  
+  <!-- EN: OTC Engineer Armor(Exploder) -->
+  <OCC_Armor_M_Grenadier.label>TODO</OCC_Armor_M_Grenadier.label>
+  <!-- EN: Heavy power armor, excellent protects the owner with little mobility restriction. Designed and modified for use by OCC Paladins.\n\nModified by installing the Blast Grenade Launcher. -->
+  <OCC_Armor_M_Grenadier.description>TODO</OCC_Armor_M_Grenadier.description>
+  <!-- EN: grenade -->
+  <OCC_Armor_M_Grenadier.comps.CompApparelReloadable.chargeNoun>TODO</OCC_Armor_M_Grenadier.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OCC_Armor_M_Grenadier.comps.CompApparelReloadable.cooldownGerund>TODO</OCC_Armor_M_Grenadier.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: OTC Engineer Armor(Exploder) -->
+  <OCC_Armor_M_Grenadier.verbs.Verb_LaunchProjectileStatic.label>TODO</OCC_Armor_M_Grenadier.verbs.Verb_LaunchProjectileStatic.label>
+  
+  <!-- EN: OCC Paladin Armor(Guardian) -->
+  <OCC_Armor_M_Shield.label>TODO</OCC_Armor_M_Shield.label>
+  <!-- EN: Heavy power armor, excellent protects the owner with little mobility restriction. Designed and modified for use by OCC Paladins.\n\nModified with the addition of a Reinforced Barrier. -->
+  <OCC_Armor_M_Shield.description>TODO</OCC_Armor_M_Shield.description>
+  
+  <!-- EN: OCC Paladin Armor(Space Griffin) -->
+  <OCC_Armor_M_Spacer.label>TODO</OCC_Armor_M_Spacer.label>
+  <!-- EN: Heavy power armor, excellent protects the owner with little mobility restriction. Designed and modified for use by OCC Paladins.\n\nPressure-sealed version designed to keep the occupant alive in outer space. -->
+  <OCC_Armor_M_Spacer.description>TODO</OCC_Armor_M_Spacer.description>
+  
+  <!-- EN: Blast Grenade -->
+  <OCC_Grenade.label>TODO</OCC_Grenade.label>
+  
+</LanguageData>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bionic arm -->
+  <OE_ProstheticArm.label>TODO</OE_ProstheticArm.label>
+  <!-- EN: Obsidia bionic arm. It is better than a biological arm in almost every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a small strain on the body. -->
+  <OE_ProstheticArm.description>TODO</OE_ProstheticArm.description>
+  
+  <!-- EN: cultist bionic arm -->
+  <OE_ProstheticArm_CAC.label>TODO</OE_ProstheticArm_CAC.label>
+  <!-- EN: Obsidia cultist bionic arm. It is much better than a biological arm in every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a perceptible strain on the body. -->
+  <OE_ProstheticArm_CAC.description>TODO</OE_ProstheticArm_CAC.description>
+  
+  <!-- EN: advanced bionic arm -->
+  <OE_ProstheticArm_M.label>TODO</OE_ProstheticArm_M.label>
+  <!-- EN: Obsidian advanced bionic arm. It is much better than a biological arm in almost every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a strain on the body. -->
+  <OE_ProstheticArm_M.description>TODO</OE_ProstheticArm_M.description>
+  
+  <!-- EN: heroic bionic arm -->
+  <OE_ProstheticArm_OES.label>TODO</OE_ProstheticArm_OES.label>
+  <!-- EN: Obsidia heroic bionic arm. It is much better than a biological arm in every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a perceptible strain on the body. -->
+  <OE_ProstheticArm_OES.description>TODO</OE_ProstheticArm_OES.description>
+  
+  <!-- EN: bionic leg -->
+  <OE_ProstheticLeg.label>TODO</OE_ProstheticLeg.label>
+  <!-- EN: Obsidia bionic leg. It is better than a biological leg in almost every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a small strain on the body. -->
+  <OE_ProstheticLeg.description>TODO</OE_ProstheticLeg.description>
+  
+  <!-- EN: cultist bionic leg -->
+  <OE_ProstheticLeg_CAC.label>TODO</OE_ProstheticLeg_CAC.label>
+  <!-- EN: Obsidia cultist bionic leg. It is much better than a biological leg in every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a perceptible strain on the body. -->
+  <OE_ProstheticLeg_CAC.description>TODO</OE_ProstheticLeg_CAC.description>
+  
+  <!-- EN: advanced bionic leg -->
+  <OE_ProstheticLeg_M.label>TODO</OE_ProstheticLeg_M.label>
+  <!-- EN: Obsidian advanced bionic leg. It is much better than a biological leg in almost every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a strain on the body. -->
+  <OE_ProstheticLeg_M.description>TODO</OE_ProstheticLeg_M.description>
+  
+  <!-- EN: heroic bionic leg -->
+  <OE_ProstheticLeg_OES.label>TODO</OE_ProstheticLeg_OES.label>
+  <!-- EN: Obsidia heroic bionic leg. It is much better than a biological leg in every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a perceptible strain on the body. -->
+  <OE_ProstheticLeg_OES.description>TODO</OE_ProstheticLeg_OES.description>
+  
+</LanguageData>

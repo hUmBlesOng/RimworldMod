@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bionic heart -->
+  <OE_ProstheticHeart.label>TODO</OE_ProstheticHeart.label>
+  <!-- EN: Obsidia bionic heart. It is better than a biological heart in almost every way. The use of this prosthesis puts a small strain on the body. -->
+  <OE_ProstheticHeart.description>TODO</OE_ProstheticHeart.description>
+  
+  <!-- EN: cultist bionic heart -->
+  <OE_ProstheticHeart_CAC.label>TODO</OE_ProstheticHeart_CAC.label>
+  <!-- EN: Obsidia cultist bionic heart. It is much better than a biological heart in every way. The use of this prosthesis puts a perceptible strain on the body. -->
+  <OE_ProstheticHeart_CAC.description>TODO</OE_ProstheticHeart_CAC.description>
+  
+  <!-- EN: advanced bionic heart -->
+  <OE_ProstheticHeart_M.label>TODO</OE_ProstheticHeart_M.label>
+  <!-- EN: Obsidian advanced bionic heart. It is much better than a biological heart in almost every way. The use of this prosthesis puts a strain on the body. -->
+  <OE_ProstheticHeart_M.description>TODO</OE_ProstheticHeart_M.description>
+  
+  <!-- EN: heroic bionic heart -->
+  <OE_ProstheticHeart_OES.label>TODO</OE_ProstheticHeart_OES.label>
+  <!-- EN: Obsidia heroic bionic heart. It is much better than a biological heart in every way. The use of this prosthesis puts a perceptible strain on the body. -->
+  <OE_ProstheticHeart_OES.description>TODO</OE_ProstheticHeart_OES.description>
+  
+  <!-- EN: bionic kidney -->
+  <OE_ProstheticKidney.label>TODO</OE_ProstheticKidney.label>
+  <!-- EN: Obsidia bionic kidney. It is better than a biological kidney in almost every way. The use of this prosthesis puts a small strain on the body. -->
+  <OE_ProstheticKidney.description>TODO</OE_ProstheticKidney.description>
+  
+  <!-- EN: cultist bionic kidney -->
+  <OE_ProstheticKidney_CAC.label>TODO</OE_ProstheticKidney_CAC.label>
+  <!-- EN: Obsidia cultist bionic kidney. It is much better than a biological kidney in every way. The use of this prosthesis puts a perceptible strain on the body. -->
+  <OE_ProstheticKidney_CAC.description>TODO</OE_ProstheticKidney_CAC.description>
+  
+  <!-- EN: advanced bionic kidney -->
+  <OE_ProstheticKidney_M.label>TODO</OE_ProstheticKidney_M.label>
+  <!-- EN: Obsidian advanced bionic kidney. It is much better than a biological kidney in almost every way. The use of this prosthesis puts a strain on the body. -->
+  <OE_ProstheticKidney_M.description>TODO</OE_ProstheticKidney_M.description>
+  
+  <!-- EN: heroic bionic kidney -->
+  <OE_ProstheticKidney_OES.label>TODO</OE_ProstheticKidney_OES.label>
+  <!-- EN: Obsidia heroic bionic kidney. It is much better than a biological kidney in every way. The use of this prosthesis puts a perceptible strain on the body. -->
+  <OE_ProstheticKidney_OES.description>TODO</OE_ProstheticKidney_OES.description>
+  
+  <!-- EN: bionic liver -->
+  <OE_ProstheticLiver.label>TODO</OE_ProstheticLiver.label>
+  <!-- EN: Obsidia bionic liver. It is better than a biological liver in almost every way. The use of this prosthesis puts a small strain on the body. -->
+  <OE_ProstheticLiver.description>TODO</OE_ProstheticLiver.description>
+  
+  <!-- EN: cultist bionic liver -->
+  <OE_ProstheticLiver_CAC.label>TODO</OE_ProstheticLiver_CAC.label>
+  <!-- EN: Obsidia cultist bionic liver. It is much better than a biological liver in every way. The use of this prosthesis puts a perceptible strain on the body. -->
+  <OE_ProstheticLiver_CAC.description>TODO</OE_ProstheticLiver_CAC.description>
+  
+  <!-- EN: advanced bionic liver -->
+  <OE_ProstheticLiver_M.label>TODO</OE_ProstheticLiver_M.label>
+  <!-- EN: Obsidian advanced bionic liver. It is much better than a biological liver in almost every way. The use of this prosthesis puts a strain on the body. -->
+  <OE_ProstheticLiver_M.description>TODO</OE_ProstheticLiver_M.description>
+  
+  <!-- EN: heroic bionic liver -->
+  <OE_ProstheticLiver_OES.label>TODO</OE_ProstheticLiver_OES.label>
+  <!-- EN: Obsidia heroic bionic liver. It is much better than a biological liver in every way. The use of this prosthesis puts a perceptible strain on the body. -->
+  <OE_ProstheticLiver_OES.description>TODO</OE_ProstheticLiver_OES.description>
+  
+  <!-- EN: bionic lung -->
+  <OE_ProstheticLung.label>TODO</OE_ProstheticLung.label>
+  <!-- EN: Obsidia bionic lung. It is better than a biological lung in almost every way. The use of this prosthesis puts a small strain on the body. -->
+  <OE_ProstheticLung.description>TODO</OE_ProstheticLung.description>
+  
+  <!-- EN: cultist bionic lung -->
+  <OE_ProstheticLung_CAC.label>TODO</OE_ProstheticLung_CAC.label>
+  <!-- EN: Obsidia cultist bionic lung. It is much better than a biological lung in every way. The use of this prosthesis puts a perceptible strain on the body. -->
+  <OE_ProstheticLung_CAC.description>TODO</OE_ProstheticLung_CAC.description>
+  
+  <!-- EN: advanced bionic lung -->
+  <OE_ProstheticLung_M.label>TODO</OE_ProstheticLung_M.label>
+  <!-- EN: Obsidian advanced bionic lung. It is much better than a biological lung in almost every way. The use of this prosthesis puts a strain on the body. -->
+  <OE_ProstheticLung_M.description>TODO</OE_ProstheticLung_M.description>
+  
+  <!-- EN: heroic bionic lung -->
+  <OE_ProstheticLung_OES.label>TODO</OE_ProstheticLung_OES.label>
+  <!-- EN: Obsidia heroic bionic lung. It is much better than a biological lung in every way. The use of this prosthesis puts a perceptible strain on the body. -->
+  <OE_ProstheticLung_OES.description>TODO</OE_ProstheticLung_OES.description>
+  
+  <!-- EN: bionic stomach -->
+  <OE_ProstheticStomach.label>TODO</OE_ProstheticStomach.label>
+  <!-- EN: Obsidia bionic stomach. It is better than a biological stomach in almost every way. The use of this prosthesis puts a small strain on the body. -->
+  <OE_ProstheticStomach.description>TODO</OE_ProstheticStomach.description>
+  
+  <!-- EN: cultist bionic stomach -->
+  <OE_ProstheticStomach_CAC.label>TODO</OE_ProstheticStomach_CAC.label>
+  <!-- EN: Obsidia cultist bionic stomach. It is much better than a biological stomach in every way. The use of this prosthesis puts a perceptible strain on the body. -->
+  <OE_ProstheticStomach_CAC.description>TODO</OE_ProstheticStomach_CAC.description>
+  
+  <!-- EN: advanced bionic stomach -->
+  <OE_ProstheticStomach_M.label>TODO</OE_ProstheticStomach_M.label>
+  <!-- EN: Obsidian advanced bionic stomach. It is much better than a biological stomach in almost every way. The use of this prosthesis puts a strain on the body. -->
+  <OE_ProstheticStomach_M.description>TODO</OE_ProstheticStomach_M.description>
+  
+  <!-- EN: heroic bionic stomach -->
+  <OE_ProstheticStomach_OES.label>TODO</OE_ProstheticStomach_OES.label>
+  <!-- EN: Obsidia heroic bionic stomach. It is much better than a biological stomach in every way. The use of this prosthesis puts a perceptible strain on the body. -->
+  <OE_ProstheticStomach_OES.description>TODO</OE_ProstheticStomach_OES.description>
+  
+</LanguageData>

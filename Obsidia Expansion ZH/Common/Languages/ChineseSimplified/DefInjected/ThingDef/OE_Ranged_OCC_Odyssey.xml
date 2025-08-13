@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Paragon Reforged Scylla -->
+  <OCC_AR_P.label>TODO</OCC_AR_P.label>
+  <!-- EN: Paragon Reforged Assault Rifle used by OCC Paladins. Slow weapon are designed to use blast bullets.\n\nIt's remanufactured weapon based on OMC Assault Rifle. -->
+  <OCC_AR_P.description>TODO</OCC_AR_P.description>
+  <!-- EN: charge -->
+  <OCC_AR_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OCC_AR_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OCC_AR_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OCC_AR_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Reforged Scylla -->
+  <OCC_AR_P.comps.CompUniqueWeapon.namerLabels.0>TODO</OCC_AR_P.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: stock -->
+  <OCC_AR_P.tools.stock.label>TODO</OCC_AR_P.tools.stock.label>
+  <!-- EN: barrel -->
+  <OCC_AR_P.tools.barrel.label>TODO</OCC_AR_P.tools.barrel.label>
+  <!-- EN: Paragon Reforged Scylla -->
+  <OCC_AR_P.verbs.Verb_Shoot.label>TODO</OCC_AR_P.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Paragon Reforged Wendigo -->
+  <OCC_Bow_P.label>TODO</OCC_Bow_P.label>
+  <!-- EN: Paragon Reforged Bow used by OCC Paladins. Slow weapon are designed to use blast bullets.\n\nIt's remanufactured weapon based on OEC Bow. -->
+  <OCC_Bow_P.description>TODO</OCC_Bow_P.description>
+  <!-- EN: charge -->
+  <OCC_Bow_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OCC_Bow_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OCC_Bow_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OCC_Bow_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Reforged Wendigo -->
+  <OCC_Bow_P.comps.CompUniqueWeapon.namerLabels.0>TODO</OCC_Bow_P.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: limb -->
+  <OCC_Bow_P.tools.limb.label>TODO</OCC_Bow_P.tools.limb.label>
+  <!-- EN: Paragon Reforged Wendigo -->
+  <OCC_Bow_P.verbs.Verb_Shoot.label>TODO</OCC_Bow_P.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Paragon Reforged Hydra -->
+  <OCC_Minigun_P.label>TODO</OCC_Minigun_P.label>
+  <!-- EN: Paragon Reforged Minigun used by OCC Paladins. Slow weapon are designed to use blast bullets. -->
+  <OCC_Minigun_P.description>TODO</OCC_Minigun_P.description>
+  <!-- EN: charge -->
+  <OCC_Minigun_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OCC_Minigun_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OCC_Minigun_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OCC_Minigun_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Reforged Hydra -->
+  <OCC_Minigun_P.comps.CompUniqueWeapon.namerLabels.0>TODO</OCC_Minigun_P.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: barrels -->
+  <OCC_Minigun_P.tools.barrels.label>TODO</OCC_Minigun_P.tools.barrels.label>
+  <!-- EN: Paragon Reforged Hydra -->
+  <OCC_Minigun_P.verbs.Verb_Shoot.label>TODO</OCC_Minigun_P.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Paragon Reforged Chimera -->
+  <OCC_MultiCannon_P.label>TODO</OCC_MultiCannon_P.label>
+  <!-- EN: Paragon Reforged Multi-Cannon used by OCC Paladins. Slow weapon are designed to use blast bullets. -->
+  <OCC_MultiCannon_P.description>TODO</OCC_MultiCannon_P.description>
+  <!-- EN: charge -->
+  <OCC_MultiCannon_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OCC_MultiCannon_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OCC_MultiCannon_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OCC_MultiCannon_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Reforged Chimera -->
+  <OCC_MultiCannon_P.comps.CompUniqueWeapon.namerLabels.0>TODO</OCC_MultiCannon_P.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: barrels -->
+  <OCC_MultiCannon_P.tools.barrels.label>TODO</OCC_MultiCannon_P.tools.barrels.label>
+  <!-- EN: Paragon Reforged Chimera -->
+  <OCC_MultiCannon_P.verbs.Verb_Shoot.label>TODO</OCC_MultiCannon_P.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Paragon Reforged Hornet -->
+  <OCC_Revolver_P.label>TODO</OCC_Revolver_P.label>
+  <!-- EN: Paragon Reforged Revolver used by OCC Paladins. Slow weapon are designed to use blast bullets. -->
+  <OCC_Revolver_P.description>TODO</OCC_Revolver_P.description>
+  <!-- EN: charge -->
+  <OCC_Revolver_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OCC_Revolver_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OCC_Revolver_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OCC_Revolver_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Reforged Hornet -->
+  <OCC_Revolver_P.comps.CompUniqueWeapon.namerLabels.0>TODO</OCC_Revolver_P.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: grip -->
+  <OCC_Revolver_P.tools.grip.label>TODO</OCC_Revolver_P.tools.grip.label>
+  <!-- EN: barrel -->
+  <OCC_Revolver_P.tools.barrel.label>TODO</OCC_Revolver_P.tools.barrel.label>
+  <!-- EN: Paragon Reforged Hornet -->
+  <OCC_Revolver_P.verbs.Verb_Shoot.label>TODO</OCC_Revolver_P.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Paragon Reforged Cerberus -->
+  <OCC_Rifle_P.label>TODO</OCC_Rifle_P.label>
+  <!-- EN: Paragon Reforged Rifle used by OCC Paladins. Slow weapon are designed to use blast bullets. -->
+  <OCC_Rifle_P.description>TODO</OCC_Rifle_P.description>
+  <!-- EN: charge -->
+  <OCC_Rifle_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OCC_Rifle_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OCC_Rifle_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OCC_Rifle_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Reforged Cerberus -->
+  <OCC_Rifle_P.comps.CompUniqueWeapon.namerLabels.0>TODO</OCC_Rifle_P.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: stock -->
+  <OCC_Rifle_P.tools.stock.label>TODO</OCC_Rifle_P.tools.stock.label>
+  <!-- EN: barrel -->
+  <OCC_Rifle_P.tools.barrel.label>TODO</OCC_Rifle_P.tools.barrel.label>
+  <!-- EN: Paragon Reforged Cerberus -->
+  <OCC_Rifle_P.verbs.Verb_Shoot.label>TODO</OCC_Rifle_P.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Paragon Reforged Behemoth -->
+  <OCC_RocketLauncher_P.label>TODO</OCC_RocketLauncher_P.label>
+  <!-- EN: Paragon Reforged Rocket Launcher used by OCC Paladins. Slow weapon are designed to use blast bullets. -->
+  <OCC_RocketLauncher_P.description>TODO</OCC_RocketLauncher_P.description>
+  <!-- EN: charge -->
+  <OCC_RocketLauncher_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OCC_RocketLauncher_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OCC_RocketLauncher_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OCC_RocketLauncher_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Reforged Behemoth -->
+  <OCC_RocketLauncher_P.comps.CompUniqueWeapon.namerLabels.0>TODO</OCC_RocketLauncher_P.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: barrel -->
+  <OCC_RocketLauncher_P.tools.barrel.label>TODO</OCC_RocketLauncher_P.tools.barrel.label>
+  <!-- EN: Paragon Reforged Behemoth -->
+  <OCC_RocketLauncher_P.verbs.Verb_Shoot.label>TODO</OCC_RocketLauncher_P.verbs.Verb_Shoot.label>
+  
+</LanguageData>

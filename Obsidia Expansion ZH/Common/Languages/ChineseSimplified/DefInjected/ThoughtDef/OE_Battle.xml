@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: joltixin withdrawal -->
+  <OE_JoltixinWithdrawal.stages.joltixin_withdrawal.label>TODO</OE_JoltixinWithdrawal.stages.joltixin_withdrawal.label>
+  <!-- EN: I feel my weakness. I never thought it was so hard without stimpacks. -->
+  <OE_JoltixinWithdrawal.stages.joltixin_withdrawal.description>TODO</OE_JoltixinWithdrawal.stages.joltixin_withdrawal.description>
+  
+  <!-- EN: torraxin withdrawal -->
+  <OE_TorraxinWithdrawal.stages.torraxin_withdrawal.label>TODO</OE_TorraxinWithdrawal.stages.torraxin_withdrawal.label>
+  <!-- EN: I feel my weakness. I never thought it was so hard without stimpacks. -->
+  <OE_TorraxinWithdrawal.stages.torraxin_withdrawal.description>TODO</OE_TorraxinWithdrawal.stages.torraxin_withdrawal.description>
+  
+</LanguageData>

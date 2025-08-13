@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Persona Souleater -->
+  <CAC_BigScythe_P.label>TODO</CAC_BigScythe_P.label>
+  <!-- EN: Persona Big Scythe used by CAC Cultists. Specially modified weapon with increased power but difficult to handle. -->
+  <CAC_BigScythe_P.description>TODO</CAC_BigScythe_P.description>
+  <!-- EN: handle -->
+  <CAC_BigScythe_P.tools.handle.label>TODO</CAC_BigScythe_P.tools.handle.label>
+  <!-- EN: edge -->
+  <CAC_BigScythe_P.tools.edge.label>TODO</CAC_BigScythe_P.tools.edge.label>
+  
+  <!-- EN: Persona Souldrinker -->
+  <CAC_Scythe_P.label>TODO</CAC_Scythe_P.label>
+  <!-- EN: Persona Scythe used by CAC Cultists. Specially modified weapon with increased power but difficult to handle. -->
+  <CAC_Scythe_P.description>TODO</CAC_Scythe_P.description>
+  <!-- EN: handle -->
+  <CAC_Scythe_P.tools.handle.label>TODO</CAC_Scythe_P.tools.handle.label>
+  <!-- EN: edge -->
+  <CAC_Scythe_P.tools.edge.label>TODO</CAC_Scythe_P.tools.edge.label>
+  
+  <!-- EN: Persona Apathy -->
+  <CAC_Thurible_P.label>TODO</CAC_Thurible_P.label>
+  <!-- EN: Persona Thurible used by CAC Cultists. Specially modified weapon with increased power but difficult to handle. -->
+  <CAC_Thurible_P.description>TODO</CAC_Thurible_P.description>
+  <!-- EN: handle -->
+  <CAC_Thurible_P.tools.handle.label>TODO</CAC_Thurible_P.tools.handle.label>
+  <!-- EN: Persona Apathy -->
+  <CAC_Thurible_P.verbs.Verb_Shoot.label>TODO</CAC_Thurible_P.verbs.Verb_Shoot.label>
+  
+</LanguageData>

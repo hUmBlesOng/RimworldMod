@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ODC Beastmaster Mask -->
+  <ODC_Helmet_Beastmaster.label>TODO</ODC_Helmet_Beastmaster.label>
+  <!-- EN: Moded power armor Mask, good protects the owner. Designed for use by Obsidia Drifters.\n\nModified for improves animal skills to the owner. -->
+  <ODC_Helmet_Beastmaster.description>TODO</ODC_Helmet_Beastmaster.description>
+  
+  <!-- EN: ODC Constructor Mask -->
+  <ODC_Helmet_Constructor.label>TODO</ODC_Helmet_Constructor.label>
+  <!-- EN: Moded power armor Mask, good protects the owner. Designed for use by Obsidia Drifters.\n\nModified for improves crafting skills to the owner. -->
+  <ODC_Helmet_Constructor.description>TODO</ODC_Helmet_Constructor.description>
+  
+  <!-- EN: ODC Duelist Mask -->
+  <ODC_Helmet_Duelist.label>TODO</ODC_Helmet_Duelist.label>
+  <!-- EN: Moded power armor Mask, good protects the owner. Designed for use by Obsidia Drifters.\n\nModified for improves melee skills to the owner. -->
+  <ODC_Helmet_Duelist.description>TODO</ODC_Helmet_Duelist.description>
+  
+  <!-- EN: ODC Medic Mask -->
+  <ODC_Helmet_Medic.label>TODO</ODC_Helmet_Medic.label>
+  <!-- EN: Moded power armor Mask, good protects the owner. Designed for use by Obsidia Drifters.\n\nModified for improves medical skills to the owner. -->
+  <ODC_Helmet_Medic.description>TODO</ODC_Helmet_Medic.description>
+  
+  <!-- EN: ODC Miner Mask -->
+  <ODC_Helmet_Miner.label>TODO</ODC_Helmet_Miner.label>
+  <!-- EN: Moded power armor Mask, good protects the owner. Designed for use by Obsidia Drifters.\n\nModified for improves mining skills to the owner. -->
+  <ODC_Helmet_Miner.description>TODO</ODC_Helmet_Miner.description>
+  
+  <!-- EN: ODC Nomad Mask -->
+  <ODC_Helmet_Nomad.label>TODO</ODC_Helmet_Nomad.label>
+  <!-- EN: Power armor Mask, good protects the owner. Designed for use by Obsidia Drifters. -->
+  <ODC_Helmet_Nomad.description>TODO</ODC_Helmet_Nomad.description>
+  
+  <!-- EN: ODC Recon Mask -->
+  <ODC_Helmet_Recon.label>TODO</ODC_Helmet_Recon.label>
+  <!-- EN: Moded power armor Mask, good protects the owner. Designed for use by Obsidia Drifters.\n\nModified for improves shooting skills to the owner. -->
+  <ODC_Helmet_Recon.description>TODO</ODC_Helmet_Recon.description>
+  
+  <!-- EN: ODC Spacer Mask -->
+  <ODC_Helmet_Spacer.label>TODO</ODC_Helmet_Spacer.label>
+  <!-- EN: Moded power armor Mask, good protects the owner. Designed for use by Obsidia Drifters.\n\nPressure-sealed version designed to keep the occupant alive in outer space. -->
+  <ODC_Helmet_Spacer.description>TODO</ODC_Helmet_Spacer.description>
+  
+  <!-- EN: ODC Trader Mask -->
+  <ODC_Helmet_Trader.label>TODO</ODC_Helmet_Trader.label>
+  <!-- EN: Moded power armor Mask, good protects the owner. Designed for use by Obsidia Drifters.\n\nModified for improves trader skills to the owner. -->
+  <ODC_Helmet_Trader.description>TODO</ODC_Helmet_Trader.description>
+  
+</LanguageData>

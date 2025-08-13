@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Verdict bullet -->
+  <Bullet_OEC_AR.label>TODO</Bullet_OEC_AR.label>
+  
+  <!-- EN: Exalted Verdict bullet -->
+  <Bullet_OEC_AR_M.label>TODO</Bullet_OEC_AR_M.label>
+  
+  <!-- EN: Pride arrow -->
+  <Bullet_OEC_B.label>TODO</Bullet_OEC_B.label>
+  
+  <!-- EN: Exalted Pride arrow -->
+  <Bullet_OEC_B_M.label>TODO</Bullet_OEC_B_M.label>
+  
+  <!-- EN: Unchained bullet -->
+  <Bullet_OEC_MG.label>TODO</Bullet_OEC_MG.label>
+  
+  <!-- EN: Exalted Unchained bullet -->
+  <Bullet_OEC_MG_M.label>TODO</Bullet_OEC_MG_M.label>
+  
+  <!-- EN: Peacemaker bullet -->
+  <Bullet_OEC_R.label>TODO</Bullet_OEC_R.label>
+  
+  <!-- EN: Exalted Peacemaker bullet -->
+  <Bullet_OEC_R_M.label>TODO</Bullet_OEC_R_M.label>
+  
+  <!-- EN: Redeemer blast -->
+  <Bullet_OEC_S.label>TODO</Bullet_OEC_S.label>
+  
+  <!-- EN: Exalted Redeemer blast -->
+  <Bullet_OEC_S_M.label>TODO</Bullet_OEC_S_M.label>
+  
+  <!-- EN: Judgement bullet -->
+  <Bullet_OEC_SR.label>TODO</Bullet_OEC_SR.label>
+  
+  <!-- EN: Exalted Judgement bullet -->
+  <Bullet_OEC_SR_M.label>TODO</Bullet_OEC_SR_M.label>
+  
+  <!-- EN: Verdict -->
+  <OEC_AR.label>TODO</OEC_AR.label>
+  <!-- EN: Regular Psy Assault Rifle used by OEC Hunters. Extremely armor-piercing and equipped with a melee blade.\n\nIt's remanufactured weapon based on OMC Assault Rifle. -->
+  <OEC_AR.description>TODO</OEC_AR.description>
+  <!-- EN: stock -->
+  <OEC_AR.tools.stock.label>TODO</OEC_AR.tools.stock.label>
+  <!-- EN: blade -->
+  <OEC_AR.tools.blade.label>TODO</OEC_AR.tools.blade.label>
+  <!-- EN: Verdict -->
+  <OEC_AR.verbs.Verb_Shoot.label>TODO</OEC_AR.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Exalted Verdict -->
+  <OEC_AR_M.label>TODO</OEC_AR_M.label>
+  <!-- EN: Exalted Psy Assault Rifle used by the OEC Inquisitors. Extremely armor-piercing and equipped with a melee blade.\n\nIt's remanufactured weapon based on OMC Assault Rifle. -->
+  <OEC_AR_M.description>TODO</OEC_AR_M.description>
+  <!-- EN: stock -->
+  <OEC_AR_M.tools.stock.label>TODO</OEC_AR_M.tools.stock.label>
+  <!-- EN: blade -->
+  <OEC_AR_M.tools.blade.label>TODO</OEC_AR_M.tools.blade.label>
+  <!-- EN: Exalted Verdict -->
+  <OEC_AR_M.verbs.Verb_Shoot.label>TODO</OEC_AR_M.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Pride -->
+  <OEC_Bow.label>TODO</OEC_Bow.label>
+  <!-- EN: Regular Psy Bow used by OEC Hunters. Extremely armor-piercing and equipped with a melee blade. -->
+  <OEC_Bow.description>TODO</OEC_Bow.description>
+  <!-- EN: limb -->
+  <OEC_Bow.tools.limb.label>TODO</OEC_Bow.tools.limb.label>
+  <!-- EN: blade -->
+  <OEC_Bow.tools.blade.label>TODO</OEC_Bow.tools.blade.label>
+  <!-- EN: Pride -->
+  <OEC_Bow.verbs.Verb_Shoot.label>TODO</OEC_Bow.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Exalted Pride -->
+  <OEC_Bow_M.label>TODO</OEC_Bow_M.label>
+  <!-- EN: Exalted Psy Bow used by the OEC Inquisitors. Extremely armor-piercing and equipped with a melee blade. -->
+  <OEC_Bow_M.description>TODO</OEC_Bow_M.description>
+  <!-- EN: limb -->
+  <OEC_Bow_M.tools.limb.label>TODO</OEC_Bow_M.tools.limb.label>
+  <!-- EN: blade -->
+  <OEC_Bow_M.tools.blade.label>TODO</OEC_Bow_M.tools.blade.label>
+  <!-- EN: Exalted Pride -->
+  <OEC_Bow_M.verbs.Verb_Shoot.label>TODO</OEC_Bow_M.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Unchained -->
+  <OEC_Minigun.label>TODO</OEC_Minigun.label>
+  <!-- EN: Regular Psy Minigun used by OEC Hunters. Extremely armor-piercing and equipped with a melee blade.\n\nIt's remanufactured weapon based on OCC Minigun. -->
+  <OEC_Minigun.description>TODO</OEC_Minigun.description>
+  <!-- EN: blade -->
+  <OEC_Minigun.tools.blade.label>TODO</OEC_Minigun.tools.blade.label>
+  <!-- EN: Unchained -->
+  <OEC_Minigun.verbs.Verb_Shoot.label>TODO</OEC_Minigun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Exalted Unchained -->
+  <OEC_Minigun_M.label>TODO</OEC_Minigun_M.label>
+  <!-- EN: Exalted Psy Minigun used by the OEC Inquisitors. Extremely armor-piercing and equipped with a melee blade.\n\nIt's remanufactured weapon based on OCC Minigun. -->
+  <OEC_Minigun_M.description>TODO</OEC_Minigun_M.description>
+  <!-- EN: blade -->
+  <OEC_Minigun_M.tools.blade.label>TODO</OEC_Minigun_M.tools.blade.label>
+  <!-- EN: Exalted Unchained -->
+  <OEC_Minigun_M.verbs.Verb_Shoot.label>TODO</OEC_Minigun_M.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Peacemaker -->
+  <OEC_Revolver.label>TODO</OEC_Revolver.label>
+  <!-- EN: Regular Psy Revolver used by OEC Hunters. Extremely armor-piercing and equipped with a melee blade. -->
+  <OEC_Revolver.description>TODO</OEC_Revolver.description>
+  <!-- EN: grip -->
+  <OEC_Revolver.tools.grip.label>TODO</OEC_Revolver.tools.grip.label>
+  <!-- EN: blade -->
+  <OEC_Revolver.tools.blade.label>TODO</OEC_Revolver.tools.blade.label>
+  <!-- EN: Peacemaker -->
+  <OEC_Revolver.verbs.Verb_Shoot.label>TODO</OEC_Revolver.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Exalted Peacemaker -->
+  <OEC_Revolver_M.label>TODO</OEC_Revolver_M.label>
+  <!-- EN: Exalted Psy Revolver used by the OEC Inquisitors. Extremely armor-piercing and equipped with a melee blade. -->
+  <OEC_Revolver_M.description>TODO</OEC_Revolver_M.description>
+  <!-- EN: grip -->
+  <OEC_Revolver_M.tools.grip.label>TODO</OEC_Revolver_M.tools.grip.label>
+  <!-- EN: blade -->
+  <OEC_Revolver_M.tools.blade.label>TODO</OEC_Revolver_M.tools.blade.label>
+  <!-- EN: Exalted Peacemaker -->
+  <OEC_Revolver_M.verbs.Verb_Shoot.label>TODO</OEC_Revolver_M.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Redeemer -->
+  <OEC_Shotgun.label>TODO</OEC_Shotgun.label>
+  <!-- EN: Regular Psy Shotgun used by OEC Hunters. Extremely armor-piercing and equipped with a melee blade. -->
+  <OEC_Shotgun.description>TODO</OEC_Shotgun.description>
+  <!-- EN: stock -->
+  <OEC_Shotgun.tools.stock.label>TODO</OEC_Shotgun.tools.stock.label>
+  <!-- EN: blade -->
+  <OEC_Shotgun.tools.blade.label>TODO</OEC_Shotgun.tools.blade.label>
+  <!-- EN: Redeemer -->
+  <OEC_Shotgun.verbs.Verb_Shoot.label>TODO</OEC_Shotgun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Exalted Redeemer -->
+  <OEC_Shotgun_M.label>TODO</OEC_Shotgun_M.label>
+  <!-- EN: Exalted Psy Shotgun used by the OEC Inquisitors. Extremely armor-piercing and equipped with a melee blade. -->
+  <OEC_Shotgun_M.description>TODO</OEC_Shotgun_M.description>
+  <!-- EN: stock -->
+  <OEC_Shotgun_M.tools.stock.label>TODO</OEC_Shotgun_M.tools.stock.label>
+  <!-- EN: blade -->
+  <OEC_Shotgun_M.tools.blade.label>TODO</OEC_Shotgun_M.tools.blade.label>
+  <!-- EN: Exalted Redeemer -->
+  <OEC_Shotgun_M.verbs.Verb_Shoot.label>TODO</OEC_Shotgun_M.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Judgement -->
+  <OEC_SniperRifle.label>TODO</OEC_SniperRifle.label>
+  <!-- EN: Regular Psy Sniper Rifle used by OEC Hunters. Extremely armor-piercing and equipped with a melee blade. -->
+  <OEC_SniperRifle.description>TODO</OEC_SniperRifle.description>
+  <!-- EN: stock -->
+  <OEC_SniperRifle.tools.stock.label>TODO</OEC_SniperRifle.tools.stock.label>
+  <!-- EN: blade -->
+  <OEC_SniperRifle.tools.blade.label>TODO</OEC_SniperRifle.tools.blade.label>
+  <!-- EN: Judgement -->
+  <OEC_SniperRifle.verbs.Verb_Shoot.label>TODO</OEC_SniperRifle.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Exalted Judgement -->
+  <OEC_SniperRifle_M.label>TODO</OEC_SniperRifle_M.label>
+  <!-- EN: Exalted Psy Sniper Rifle used by the OEC Inquisitors. Extremely armor-piercing and equipped with a melee blade. -->
+  <OEC_SniperRifle_M.description>TODO</OEC_SniperRifle_M.description>
+  <!-- EN: stock -->
+  <OEC_SniperRifle_M.tools.stock.label>TODO</OEC_SniperRifle_M.tools.stock.label>
+  <!-- EN: blade -->
+  <OEC_SniperRifle_M.tools.blade.label>TODO</OEC_SniperRifle_M.tools.blade.label>
+  <!-- EN: Exalted Judgement -->
+  <OEC_SniperRifle_M.verbs.Verb_Shoot.label>TODO</OEC_SniperRifle_M.verbs.Verb_Shoot.label>
+  
+</LanguageData>

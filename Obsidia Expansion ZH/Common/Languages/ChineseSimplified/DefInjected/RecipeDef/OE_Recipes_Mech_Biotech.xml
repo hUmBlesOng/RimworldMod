@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: gestate arachna queen -->
+  <OE_Mech_ArachnaQueen.label>TODO</OE_Mech_ArachnaQueen.label>
+  <!-- EN: Gestate a arachna queen mechanoid. -->
+  <OE_Mech_ArachnaQueen.description>TODO</OE_Mech_ArachnaQueen.description>
+  <!-- EN: Gestating mech. -->
+  <OE_Mech_ArachnaQueen.jobString>TODO</OE_Mech_ArachnaQueen.jobString>
+  
+  <!-- EN: gestate CAC Arachna -->
+  <OE_Mech_CAC_Arachna.label>TODO</OE_Mech_CAC_Arachna.label>
+  <!-- EN: Gestate an CAC Arachna mechanoid. -->
+  <OE_Mech_CAC_Arachna.description>TODO</OE_Mech_CAC_Arachna.description>
+  <!-- EN: Gestating mech. -->
+  <OE_Mech_CAC_Arachna.jobString>TODO</OE_Mech_CAC_Arachna.jobString>
+  
+  <!-- EN: gestate Chaos Lord -->
+  <OE_Mech_ChaosLord.label>TODO</OE_Mech_ChaosLord.label>
+  <!-- EN: Gestate a Chaos Lord mechanoid. -->
+  <OE_Mech_ChaosLord.description>TODO</OE_Mech_ChaosLord.description>
+  <!-- EN: Gestating mech. -->
+  <OE_Mech_ChaosLord.jobString>TODO</OE_Mech_ChaosLord.jobString>
+  
+  <!-- EN: gestate crimson arachna -->
+  <OE_Mech_CrimsonArachna.label>TODO</OE_Mech_CrimsonArachna.label>
+  <!-- EN: Gestate a crimson arachna mechanoid. -->
+  <OE_Mech_CrimsonArachna.description>TODO</OE_Mech_CrimsonArachna.description>
+  <!-- EN: Gestating mech. -->
+  <OE_Mech_CrimsonArachna.jobString>TODO</OE_Mech_CrimsonArachna.jobString>
+  
+  <!-- EN: gestate maid -->
+  <OE_Mech_Maid.label>TODO</OE_Mech_Maid.label>
+  <!-- EN: Gestate a maid mechanoid. -->
+  <OE_Mech_Maid.description>TODO</OE_Mech_Maid.description>
+  <!-- EN: Gestating mech. -->
+  <OE_Mech_Maid.jobString>TODO</OE_Mech_Maid.jobString>
+  
+  <!-- EN: gestate OCC Arachna -->
+  <OE_Mech_OCC_Arachna.label>TODO</OE_Mech_OCC_Arachna.label>
+  <!-- EN: Gestate an OCC Arachna mechanoid. -->
+  <OE_Mech_OCC_Arachna.description>TODO</OE_Mech_OCC_Arachna.description>
+  <!-- EN: Gestating mech. -->
+  <OE_Mech_OCC_Arachna.jobString>TODO</OE_Mech_OCC_Arachna.jobString>
+  
+  <!-- EN: gestate OCC Dominator -->
+  <OE_Mech_OCC_Dominator.label>TODO</OE_Mech_OCC_Dominator.label>
+  <!-- EN: Gestate an OCC Dominator mechanoid. -->
+  <OE_Mech_OCC_Dominator.description>TODO</OE_Mech_OCC_Dominator.description>
+  <!-- EN: Gestating mech. -->
+  <OE_Mech_OCC_Dominator.jobString>TODO</OE_Mech_OCC_Dominator.jobString>
+  
+  <!-- EN: gestate octo-bot -->
+  <OE_Mech_Octo.label>TODO</OE_Mech_Octo.label>
+  <!-- EN: Gestate an octo-bot mechanoid. -->
+  <OE_Mech_Octo.description>TODO</OE_Mech_Octo.description>
+  <!-- EN: Gestating mech. -->
+  <OE_Mech_Octo.jobString>TODO</OE_Mech_Octo.jobString>
+  
+  <!-- EN: gestate ODC Dominator(Heavy) -->
+  <OE_Mech_ODC_Dominator_Heavy.label>TODO</OE_Mech_ODC_Dominator_Heavy.label>
+  <!-- EN: Gestate an ODC Dominator(Heavy) mechanoid. -->
+  <OE_Mech_ODC_Dominator_Heavy.description>TODO</OE_Mech_ODC_Dominator_Heavy.description>
+  <!-- EN: Gestating mech. -->
+  <OE_Mech_ODC_Dominator_Heavy.jobString>TODO</OE_Mech_ODC_Dominator_Heavy.jobString>
+  
+  <!-- EN: gestate ODC Dominator(Light) -->
+  <OE_Mech_ODC_Dominator_Light.label>TODO</OE_Mech_ODC_Dominator_Light.label>
+  <!-- EN: Gestate an ODC Dominator(Light) mechanoid. -->
+  <OE_Mech_ODC_Dominator_Light.description>TODO</OE_Mech_ODC_Dominator_Light.description>
+  <!-- EN: Gestating mech. -->
+  <OE_Mech_ODC_Dominator_Light.jobString>TODO</OE_Mech_ODC_Dominator_Light.jobString>
+  
+  <!-- EN: gestate OMC Arachna -->
+  <OE_Mech_OMC_Arachna.label>TODO</OE_Mech_OMC_Arachna.label>
+  <!-- EN: Gestate an OMC Arachna mechanoid. -->
+  <OE_Mech_OMC_Arachna.description>TODO</OE_Mech_OMC_Arachna.description>
+  <!-- EN: Gestating mech. -->
+  <OE_Mech_OMC_Arachna.jobString>TODO</OE_Mech_OMC_Arachna.jobString>
+  
+  <!-- EN: gestate OMC Dominator -->
+  <OE_Mech_OMC_Dominator.label>TODO</OE_Mech_OMC_Dominator.label>
+  <!-- EN: Gestate an OMC Dominator mechanoid. -->
+  <OE_Mech_OMC_Dominator.description>TODO</OE_Mech_OMC_Dominator.description>
+  <!-- EN: Gestating mech. -->
+  <OE_Mech_OMC_Dominator.jobString>TODO</OE_Mech_OMC_Dominator.jobString>
+  
+  <!-- EN: gestate OTC Arachna(Acid) -->
+  <OE_Mech_OTC_Arachna_Acid.label>TODO</OE_Mech_OTC_Arachna_Acid.label>
+  <!-- EN: Gestate an OTC Arachna(Acid) mechanoid. -->
+  <OE_Mech_OTC_Arachna_Acid.description>TODO</OE_Mech_OTC_Arachna_Acid.description>
+  <!-- EN: Gestating mech. -->
+  <OE_Mech_OTC_Arachna_Acid.jobString>TODO</OE_Mech_OTC_Arachna_Acid.jobString>
+  
+  <!-- EN: gestate OTC Arachna(Cryo) -->
+  <OE_Mech_OTC_Arachna_Cryo.label>TODO</OE_Mech_OTC_Arachna_Cryo.label>
+  <!-- EN: Gestate an OTC Arachna(Cryo) mechanoid. -->
+  <OE_Mech_OTC_Arachna_Cryo.description>TODO</OE_Mech_OTC_Arachna_Cryo.description>
+  <!-- EN: Gestating mech. -->
+  <OE_Mech_OTC_Arachna_Cryo.jobString>TODO</OE_Mech_OTC_Arachna_Cryo.jobString>
+  
+  <!-- EN: gestate OTC Arachna(EMP) -->
+  <OE_Mech_OTC_Arachna_EMP.label>TODO</OE_Mech_OTC_Arachna_EMP.label>
+  <!-- EN: Gestate an OTC Arachna(EMP) mechanoid. -->
+  <OE_Mech_OTC_Arachna_EMP.description>TODO</OE_Mech_OTC_Arachna_EMP.description>
+  <!-- EN: Gestating mech. -->
+  <OE_Mech_OTC_Arachna_EMP.jobString>TODO</OE_Mech_OTC_Arachna_EMP.jobString>
+  
+  <!-- EN: gestate OTC Arachna(Fire) -->
+  <OE_Mech_OTC_Arachna_Fire.label>TODO</OE_Mech_OTC_Arachna_Fire.label>
+  <!-- EN: Gestate an OTC Arachna(Fire) mechanoid. -->
+  <OE_Mech_OTC_Arachna_Fire.description>TODO</OE_Mech_OTC_Arachna_Fire.description>
+  <!-- EN: Gestating mech. -->
+  <OE_Mech_OTC_Arachna_Fire.jobString>TODO</OE_Mech_OTC_Arachna_Fire.jobString>
+  
+  <!-- EN: gestate OTC Dominator(Acid) -->
+  <OE_Mech_OTC_Dominator_Acid.label>TODO</OE_Mech_OTC_Dominator_Acid.label>
+  <!-- EN: Gestate an OTC Dominator(Acid) mechanoid. -->
+  <OE_Mech_OTC_Dominator_Acid.description>TODO</OE_Mech_OTC_Dominator_Acid.description>
+  <!-- EN: Gestating mech. -->
+  <OE_Mech_OTC_Dominator_Acid.jobString>TODO</OE_Mech_OTC_Dominator_Acid.jobString>
+  
+  <!-- EN: gestate OTC Dominator(Cryo) -->
+  <OE_Mech_OTC_Dominator_Cryo.label>TODO</OE_Mech_OTC_Dominator_Cryo.label>
+  <!-- EN: Gestate an OTC Dominator(Cryo) mechanoid. -->
+  <OE_Mech_OTC_Dominator_Cryo.description>TODO</OE_Mech_OTC_Dominator_Cryo.description>
+  <!-- EN: Gestating mech. -->
+  <OE_Mech_OTC_Dominator_Cryo.jobString>TODO</OE_Mech_OTC_Dominator_Cryo.jobString>
+  
+  <!-- EN: gestate OTC Dominator(EMP) -->
+  <OE_Mech_OTC_Dominator_EMP.label>TODO</OE_Mech_OTC_Dominator_EMP.label>
+  <!-- EN: Gestate an OTC Dominator(EMP) mechanoid. -->
+  <OE_Mech_OTC_Dominator_EMP.description>TODO</OE_Mech_OTC_Dominator_EMP.description>
+  <!-- EN: Gestating mech. -->
+  <OE_Mech_OTC_Dominator_EMP.jobString>TODO</OE_Mech_OTC_Dominator_EMP.jobString>
+  
+  <!-- EN: gestate OTC Dominator(Fire) -->
+  <OE_Mech_OTC_Dominator_Fire.label>TODO</OE_Mech_OTC_Dominator_Fire.label>
+  <!-- EN: Gestate an OTC Dominator(Fire) mechanoid. -->
+  <OE_Mech_OTC_Dominator_Fire.description>TODO</OE_Mech_OTC_Dominator_Fire.description>
+  <!-- EN: Gestating mech. -->
+  <OE_Mech_OTC_Dominator_Fire.jobString>TODO</OE_Mech_OTC_Dominator_Fire.jobString>
+  
+</LanguageData>

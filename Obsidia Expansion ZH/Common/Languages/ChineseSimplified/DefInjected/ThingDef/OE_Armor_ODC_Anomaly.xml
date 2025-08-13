@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ODC turret pack capsule -->
+  <Grenade_Armor_ODC_TurretPack.label>TODO</Grenade_Armor_ODC_TurretPack.label>
+  
+  <!-- EN: ODC Duelist Armor(Goblin) -->
+  <ODC_Armor_Duelist_Turret.label>TODO</ODC_Armor_Duelist_Turret.label>
+  <!-- EN: Moded power armor, good protects the owner. Designed for use by Obsidia Drifters.\n\nDuelist version improves melee skills to the owner.\n\nModified with the pack that allows the user to deploy a battery-powered turret. -->
+  <ODC_Armor_Duelist_Turret.description>TODO</ODC_Armor_Duelist_Turret.description>
+  <!-- EN: incendiary -->
+  <ODC_Armor_Duelist_Turret.comps.CompApparelReloadable.chargeNoun>TODO</ODC_Armor_Duelist_Turret.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <ODC_Armor_Duelist_Turret.comps.CompApparelReloadable.cooldownGerund>TODO</ODC_Armor_Duelist_Turret.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: deploy turret -->
+  <ODC_Armor_Duelist_Turret.verbs.deploy_turret.label>TODO</ODC_Armor_Duelist_Turret.verbs.deploy_turret.label>
+  
+  <!-- EN: ODC Recon Armor(Goblin) -->
+  <ODC_Armor_Recon_Turret.label>TODO</ODC_Armor_Recon_Turret.label>
+  <!-- EN: Moded power armor, good protects the owner. Designed for use by Obsidia Drifters.\n\nRecon version improves shooting skills to the owner.\n\nModified with the pack that allows the user to deploy a battery-powered turret. -->
+  <ODC_Armor_Recon_Turret.description>TODO</ODC_Armor_Recon_Turret.description>
+  <!-- EN: incendiary -->
+  <ODC_Armor_Recon_Turret.comps.CompApparelReloadable.chargeNoun>TODO</ODC_Armor_Recon_Turret.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <ODC_Armor_Recon_Turret.comps.CompApparelReloadable.cooldownGerund>TODO</ODC_Armor_Recon_Turret.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: deploy turret -->
+  <ODC_Armor_Recon_Turret.verbs.deploy_turret.label>TODO</ODC_Armor_Recon_Turret.verbs.deploy_turret.label>
+  
+  <!-- EN: Misfit Turret -->
+  <ODC_Gun_TacticalTurret.label>TODO</ODC_Gun_TacticalTurret.label>
+  <!-- EN: Reconstructed ODC SMG for turrets. -->
+  <ODC_Gun_TacticalTurret.description>TODO</ODC_Gun_TacticalTurret.description>
+  <!-- EN: Misfit Turret -->
+  <ODC_Gun_TacticalTurret.verbs.Verb_Shoot.label>TODO</ODC_Gun_TacticalTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: ODC tactical turret -->
+  <ODC_Turret_TacticalTurret.label>TODO</ODC_Turret_TacticalTurret.label>
+  <!-- EN: An automatic ODC SMG-equipped turret. It will stop functioning once its battery runs out. -->
+  <ODC_Turret_TacticalTurret.description>TODO</ODC_Turret_TacticalTurret.description>
+  <!-- EN: Battery power -->
+  <ODC_Turret_TacticalTurret.comps.CompMechPowerCell.labelOverride>TODO</ODC_Turret_TacticalTurret.comps.CompMechPowerCell.labelOverride>
+  <!-- EN: This turret has a limited battery life. Once it runs out, it will stop working entirely. -->
+  <ODC_Turret_TacticalTurret.comps.CompMechPowerCell.tooltipOverride>TODO</ODC_Turret_TacticalTurret.comps.CompMechPowerCell.tooltipOverride>
+  
+</LanguageData>

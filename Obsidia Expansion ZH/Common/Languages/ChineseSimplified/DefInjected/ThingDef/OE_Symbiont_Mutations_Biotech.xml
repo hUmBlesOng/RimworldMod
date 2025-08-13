@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mutation - Automancer -->
+  <EGO_Mutation_Mechanitor.label>TODO</EGO_Mutation_Mechanitor.label>
+  <!-- EN: Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improvements Mechanoids control abilities.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
+  <EGO_Mutation_Mechanitor.description>TODO</EGO_Mutation_Mechanitor.description>
+  <!-- EN: Implant {0_label} -->
+  <EGO_Mutation_Mechanitor.comps.CompUsableImplant.useLabel>TODO</EGO_Mutation_Mechanitor.comps.CompUsableImplant.useLabel>
+  
+</LanguageData>

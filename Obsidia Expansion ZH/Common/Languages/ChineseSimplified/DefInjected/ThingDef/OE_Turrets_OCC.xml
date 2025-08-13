@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: OCC Behemoth Turret -->
+  <OCC_Turret_Big.label>TODO</OCC_Turret_Big.label>
+  <!-- EN: An automatic OCC Rocket Launcher-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <OCC_Turret_Big.description>TODO</OCC_Turret_Big.description>
+  <!-- EN: Fuel capacity -->
+  <OCC_Turret_Big.comps.CompRefuelable.fuelGizmoLabel>TODO</OCC_Turret_Big.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shoots until run out of charges -->
+  <OCC_Turret_Big.comps.CompRefuelable.fuelLabel>TODO</OCC_Turret_Big.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
+  <OCC_Turret_Big.comps.CompRefuelable.outOfFuelMessage>TODO</OCC_Turret_Big.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: OCC Cerberus Turret -->
+  <OCC_Turret_Small.label>TODO</OCC_Turret_Small.label>
+  <!-- EN: An automatic OCC Rifle-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <OCC_Turret_Small.description>TODO</OCC_Turret_Small.description>
+  <!-- EN: Fuel capacity -->
+  <OCC_Turret_Small.comps.CompRefuelable.fuelGizmoLabel>TODO</OCC_Turret_Small.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shoots until run out of charges -->
+  <OCC_Turret_Small.comps.CompRefuelable.fuelLabel>TODO</OCC_Turret_Small.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
+  <OCC_Turret_Small.comps.CompRefuelable.outOfFuelMessage>TODO</OCC_Turret_Small.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: OCC Cerberus Powered Turret -->
+  <OCC_Turret_SmallPowered.label>TODO</OCC_Turret_SmallPowered.label>
+  <!-- EN: An automatic OCC Rifle-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire.\n\nThis turret has a built-in generator. -->
+  <OCC_Turret_SmallPowered.description>TODO</OCC_Turret_SmallPowered.description>
+  <!-- EN: Fuel capacity -->
+  <OCC_Turret_SmallPowered.comps.CompRefuelable.fuelGizmoLabel>TODO</OCC_Turret_SmallPowered.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shoots until run out of charges -->
+  <OCC_Turret_SmallPowered.comps.CompRefuelable.fuelLabel>TODO</OCC_Turret_SmallPowered.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
+  <OCC_Turret_SmallPowered.comps.CompRefuelable.outOfFuelMessage>TODO</OCC_Turret_SmallPowered.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: behemoth turret rocket -->
+  <OCC_TurretBullet_Big.label>TODO</OCC_TurretBullet_Big.label>
+  
+  <!-- EN: cerberus turret bullet -->
+  <OCC_TurretBullet_Small.label>TODO</OCC_TurretBullet_Small.label>
+  
+  <!-- EN: Behemoth Turret -->
+  <OCC_TurretGun_Big.label>TODO</OCC_TurretGun_Big.label>
+  <!-- EN: Reconstructed OCC Rocket Launcher for turrets. Slow weapon are designed to use blast bullets. -->
+  <OCC_TurretGun_Big.description>TODO</OCC_TurretGun_Big.description>
+  <!-- EN: Behemoth Turret -->
+  <OCC_TurretGun_Big.verbs.Verb_Shoot.label>TODO</OCC_TurretGun_Big.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Cerberus Turret -->
+  <OCC_TurretGun_Small.label>TODO</OCC_TurretGun_Small.label>
+  <!-- EN: Reconstructed OCC Rifle for turrets. Slow weapon are designed to use blast bullets. -->
+  <OCC_TurretGun_Small.description>TODO</OCC_TurretGun_Small.description>
+  <!-- EN: Cerberus Turret -->
+  <OCC_TurretGun_Small.verbs.Verb_Shoot.label>TODO</OCC_TurretGun_Small.verbs.Verb_Shoot.label>
+  
+</LanguageData>

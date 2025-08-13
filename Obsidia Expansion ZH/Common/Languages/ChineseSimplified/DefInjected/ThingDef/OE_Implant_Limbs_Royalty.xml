@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arm implant - Assassin -->
+  <OE_ImplantArm_Assassin.label>TODO</OE_ImplantArm_Assassin.label>
+  <!-- EN: Obsidia arm implant combat-oriented mechanical knife installing into arm. Designed for armor penetration. -->
+  <OE_ImplantArm_Assassin.description>TODO</OE_ImplantArm_Assassin.description>
+  
+  <!-- EN: hand implant - Psy -->
+  <OE_ImplantHand_Psy.label>TODO</OE_ImplantHand_Psy.label>
+  <!-- EN: Obsidia hand implant non-combat-oriented mechanical hand replacement for improvements psychic powers. -->
+  <OE_ImplantHand_Psy.description>TODO</OE_ImplantHand_Psy.description>
+  
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Reset Persona Genesis Prototype(Acid) -->
+  <OE_Reset_OTC_BigAxe_P_Acid.label>TODO</OE_Reset_OTC_BigAxe_P_Acid.label>
+  <!-- EN: Reset an Persona Genesis Prototype(Acid).\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_OTC_BigAxe_P_Acid.description>TODO</OE_Reset_OTC_BigAxe_P_Acid.description>
+  <!-- EN: Resetting a Persona Genesis Prototype(Acid). -->
+  <OE_Reset_OTC_BigAxe_P_Acid.jobString>TODO</OE_Reset_OTC_BigAxe_P_Acid.jobString>
+  
+  <!-- EN: Reset Persona Netherbane Prototype(Acid) -->
+  <OE_Reset_OTC_ChainAxe_P_Acid.label>TODO</OE_Reset_OTC_ChainAxe_P_Acid.label>
+  <!-- EN: Reset an Persona Netherbane Prototype(Acid).\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_OTC_ChainAxe_P_Acid.description>TODO</OE_Reset_OTC_ChainAxe_P_Acid.description>
+  <!-- EN: Resetting a Persona Netherbane Prototype(Acid). -->
+  <OE_Reset_OTC_ChainAxe_P_Acid.jobString>TODO</OE_Reset_OTC_ChainAxe_P_Acid.jobString>
+  
+  <!-- EN: Reset Persona Nemesis Prototype(Acid) -->
+  <OE_Reset_OTC_Hammer_P_Acid.label>TODO</OE_Reset_OTC_Hammer_P_Acid.label>
+  <!-- EN: Reset an Persona Nemesis Prototype(Acid).\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_OTC_Hammer_P_Acid.description>TODO</OE_Reset_OTC_Hammer_P_Acid.description>
+  <!-- EN: Resetting a Persona Nemesis Prototype(Acid). -->
+  <OE_Reset_OTC_Hammer_P_Acid.jobString>TODO</OE_Reset_OTC_Hammer_P_Acid.jobString>
+  
+</LanguageData>

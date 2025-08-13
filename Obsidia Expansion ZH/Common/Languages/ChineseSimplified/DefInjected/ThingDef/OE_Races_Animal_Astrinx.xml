@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: astrinx -->
+  <OE_Astrinx.label>TODO</OE_Astrinx.label>
+  <!-- EN: Obsidia Astrinx resembles a large domestic cat, that's what they can be. But it's very hard to tame them, because they are very fast and strong hunters. -->
+  <OE_Astrinx.description>TODO</OE_Astrinx.description>
+  <!-- EN: Astrinx meat -->
+  <OE_Astrinx.race.meatLabel>TODO</OE_Astrinx.race.meatLabel>
+  <!-- EN: left claw -->
+  <OE_Astrinx.tools.left_claw.label>TODO</OE_Astrinx.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <OE_Astrinx.tools.right_claw.label>TODO</OE_Astrinx.tools.right_claw.label>
+  <!-- EN: head -->
+  <OE_Astrinx.tools.head.label>TODO</OE_Astrinx.tools.head.label>
+  
+</LanguageData>

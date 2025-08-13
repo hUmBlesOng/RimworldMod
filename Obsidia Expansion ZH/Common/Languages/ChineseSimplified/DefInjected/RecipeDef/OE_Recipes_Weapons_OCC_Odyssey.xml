@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Reset Paragon Reforged Scylla -->
+  <OE_Reset_OCC_AR_P.label>TODO</OE_Reset_OCC_AR_P.label>
+  <!-- EN: Reset an Paragon Reforged Scylla.\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_OCC_AR_P.description>TODO</OE_Reset_OCC_AR_P.description>
+  <!-- EN: Resetting a Paragon Reforged Scylla. -->
+  <OE_Reset_OCC_AR_P.jobString>TODO</OE_Reset_OCC_AR_P.jobString>
+  
+  <!-- EN: Reset Paragon Reforged Wendigo -->
+  <OE_Reset_OCC_Bow_P.label>TODO</OE_Reset_OCC_Bow_P.label>
+  <!-- EN: Reset an Paragon Reforged Wendigo.\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_OCC_Bow_P.description>TODO</OE_Reset_OCC_Bow_P.description>
+  <!-- EN: Resetting a Paragon Reforged Wendigo. -->
+  <OE_Reset_OCC_Bow_P.jobString>TODO</OE_Reset_OCC_Bow_P.jobString>
+  
+  <!-- EN: Reset Paragon Reforged Hydra -->
+  <OE_Reset_OCC_Minigun_P.label>TODO</OE_Reset_OCC_Minigun_P.label>
+  <!-- EN: Reset an Paragon Reforged Hydra.\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_OCC_Minigun_P.description>TODO</OE_Reset_OCC_Minigun_P.description>
+  <!-- EN: Resetting a Paragon Reforged Hydra. -->
+  <OE_Reset_OCC_Minigun_P.jobString>TODO</OE_Reset_OCC_Minigun_P.jobString>
+  
+  <!-- EN: Reset Paragon Reforged Chimera -->
+  <OE_Reset_OCC_MultiCannon_P.label>TODO</OE_Reset_OCC_MultiCannon_P.label>
+  <!-- EN: Reset an Paragon Reforged Chimera.\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_OCC_MultiCannon_P.description>TODO</OE_Reset_OCC_MultiCannon_P.description>
+  <!-- EN: Resetting a Paragon Reforged Chimera. -->
+  <OE_Reset_OCC_MultiCannon_P.jobString>TODO</OE_Reset_OCC_MultiCannon_P.jobString>
+  
+  <!-- EN: Reset Paragon Reforged Hornet -->
+  <OE_Reset_OCC_Revolver_P.label>TODO</OE_Reset_OCC_Revolver_P.label>
+  <!-- EN: Reset an Paragon Reforged Hornet.\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_OCC_Revolver_P.description>TODO</OE_Reset_OCC_Revolver_P.description>
+  <!-- EN: Resetting a Paragon Reforged Hornet. -->
+  <OE_Reset_OCC_Revolver_P.jobString>TODO</OE_Reset_OCC_Revolver_P.jobString>
+  
+  <!-- EN: Reset Paragon Reforged Cerberus -->
+  <OE_Reset_OCC_Rifle_P.label>TODO</OE_Reset_OCC_Rifle_P.label>
+  <!-- EN: Reset an Paragon Reforged Cerberus.\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_OCC_Rifle_P.description>TODO</OE_Reset_OCC_Rifle_P.description>
+  <!-- EN: Resetting a Paragon Reforged Cerberus. -->
+  <OE_Reset_OCC_Rifle_P.jobString>TODO</OE_Reset_OCC_Rifle_P.jobString>
+  
+  <!-- EN: Reset Paragon Reforged Behemoth -->
+  <OE_Reset_OCC_RocketLauncher_P.label>TODO</OE_Reset_OCC_RocketLauncher_P.label>
+  <!-- EN: Reset an Paragon Reforged Behemoth.\n\nWarning! Item Quality and Paragon traits will be changed. -->
+  <OE_Reset_OCC_RocketLauncher_P.description>TODO</OE_Reset_OCC_RocketLauncher_P.description>
+  <!-- EN: Resetting a Paragon Reforged Behemoth. -->
+  <OE_Reset_OCC_RocketLauncher_P.jobString>TODO</OE_Reset_OCC_RocketLauncher_P.jobString>
+  
+</LanguageData>

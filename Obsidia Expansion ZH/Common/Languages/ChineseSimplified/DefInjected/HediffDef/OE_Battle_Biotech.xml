@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alcrexin addiction -->
+  <OE_AlcrexinAddiction.label>TODO</OE_AlcrexinAddiction.label>
+  <!-- EN: Because of an alcrexin addiction, this person needs to regularly consume alcrexin to avoid withdrawal symptoms. -->
+  <OE_AlcrexinAddiction.description>TODO</OE_AlcrexinAddiction.description>
+  <!-- EN: withdrawal -->
+  <OE_AlcrexinAddiction.stages.withdrawal.label>TODO</OE_AlcrexinAddiction.stages.withdrawal.label>
+  
+  <!-- EN: alcrexin side effect -->
+  <OE_AlcrexinAftereffect.label>TODO</OE_AlcrexinAftereffect.label>
+  <!-- EN: Alcrexin side effect. Affect about 12 hours. -->
+  <OE_AlcrexinAftereffect.description>TODO</OE_AlcrexinAftereffect.description>
+  
+  <!-- EN: alcrexin boosted -->
+  <OE_AlcrexinHigh.label>TODO</OE_AlcrexinHigh.label>
+  <!-- EN: Alcrexin in the bloodstream. Boosts mechanitors stats. Effect weakens over time. -->
+  <OE_AlcrexinHigh.description>TODO</OE_AlcrexinHigh.description>
+  <!-- EN: side effect kicking in -->
+  <OE_AlcrexinHigh.stages.side_effect_kicking_in.label>TODO</OE_AlcrexinHigh.stages.side_effect_kicking_in.label>
+  <!-- EN: first stage -->
+  <OE_AlcrexinHigh.stages.first_stage.label>TODO</OE_AlcrexinHigh.stages.first_stage.label>
+  <!-- EN: second stage -->
+  <OE_AlcrexinHigh.stages.second_stage.label>TODO</OE_AlcrexinHigh.stages.second_stage.label>
+  <!-- EN: third stage -->
+  <OE_AlcrexinHigh.stages.third_stage.label>TODO</OE_AlcrexinHigh.stages.third_stage.label>
+  
+</LanguageData>

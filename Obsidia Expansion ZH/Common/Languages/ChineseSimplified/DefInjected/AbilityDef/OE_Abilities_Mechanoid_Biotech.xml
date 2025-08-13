@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: drone assault -->
+  <OE_MechDroneJump.label>TODO</OE_MechDroneJump.label>
+  <!-- EN: Jumps towards its target. -->
+  <OE_MechDroneJump.description>TODO</OE_MechDroneJump.description>
+  
+  <!-- EN: chaos blink -->
+  <OE_MechLordBlink.label>TODO</OE_MechLordBlink.label>
+  <!-- EN: Blink device grant the Chaos Lord an ability to teleport the target to a random position not too far from its starting point. -->
+  <OE_MechLordBlink.description>TODO</OE_MechLordBlink.description>
+  
+  <!-- EN: grand redline -->
+  <OE_MechLordRedline.label>TODO</OE_MechLordRedline.label>
+  <!-- EN: Grand Redline mode grant the Chaos Lord an ability to increased combat potential and movespeed. -->
+  <OE_MechLordRedline.description>TODO</OE_MechLordRedline.description>
+  
+  <!-- EN: grand vanguard -->
+  <OE_MechLordVanguard.label>TODO</OE_MechLordVanguard.label>
+  <!-- EN: Vanguard program grant the Chaos Lord an ability to reducing incoming damage with small reducing movespeed. -->
+  <OE_MechLordVanguard.description>TODO</OE_MechLordVanguard.description>
+  
+  <!-- EN: queen's curse -->
+  <OE_MechQueenCurse.label>TODO</OE_MechQueenCurse.label>
+  <!-- EN: Queen's Curse grant the Arachna Queen an ability to fully disarm the target and increases incoming damage for an extended 12 hours. -->
+  <OE_MechQueenCurse.description>TODO</OE_MechQueenCurse.description>
+  
+  <!-- EN: queen's grip -->
+  <OE_MechQueenGrip.label>TODO</OE_MechQueenGrip.label>
+  <!-- EN: Queen's Grip grant the Arachna Queen an ability to teleport the target right next to the caster. Objects which are too large cannot be teleported. -->
+  <OE_MechQueenGrip.description>TODO</OE_MechQueenGrip.description>
+  
+</LanguageData>

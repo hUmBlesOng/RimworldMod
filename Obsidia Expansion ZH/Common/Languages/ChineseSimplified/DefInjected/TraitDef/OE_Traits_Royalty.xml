@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: noble blood -->
+  <OEPsyBlood.degreeDatas.noble_blood.label>TODO</OEPsyBlood.degreeDatas.noble_blood.label>
+  <!-- EN: {PAWN_nameDef} heir to an ancient and noble family. The presence of {PAWN_pronoun} gives an innate talent for psy abilities. -->
+  <OEPsyBlood.degreeDatas.noble_blood.description>TODO</OEPsyBlood.degreeDatas.noble_blood.description>
+  
+  <!-- EN: psy-marksman -->
+  <OEPsyMarksman.degreeDatas.psymarksman.label>TODO</OEPsyMarksman.degreeDatas.psymarksman.label>
+  <!-- EN: {PAWN_nameDef}'s aim is guided by both steady hands and a sharpened psychic sense. -->
+  <OEPsyMarksman.degreeDatas.psymarksman.description>TODO</OEPsyMarksman.degreeDatas.psymarksman.description>
+  
+  <!-- EN: monk -->
+  <OEPsyMonk.degreeDatas.monk.label>TODO</OEPsyMonk.degreeDatas.monk.label>
+  <!-- EN: {PAWN_nameDef} finds unusual clarity in stillness, drawing power from every moment of reflection. -->
+  <OEPsyMonk.degreeDatas.monk.description>TODO</OEPsyMonk.degreeDatas.monk.description>
+  
+  <!-- EN: psy-warrior -->
+  <OEPsyWarrior.degreeDatas.psywarrior.label>TODO</OEPsyWarrior.degreeDatas.psywarrior.label>
+  <!-- EN: Battle comes naturally to {PAWN_nameDef}, whose strikes carry both physical strength and psychic force. -->
+  <OEPsyWarrior.degreeDatas.psywarrior.description>TODO</OEPsyWarrior.degreeDatas.psywarrior.description>
+  
+</LanguageData>

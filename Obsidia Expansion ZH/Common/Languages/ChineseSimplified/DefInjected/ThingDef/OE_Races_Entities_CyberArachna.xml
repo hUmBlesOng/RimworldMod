@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Cyber Arachna -->
+  <OE_CyberArachna.label>TODO</OE_CyberArachna.label>
+  <!-- EN: Cyber Arachna is a hybrid of Crimson Arachna Cultist with a mechanoid body. This creature is extremely durable and armored, but has a low movement speed. It's the result of one of the first unsuccessful experiments of Crimson Arachna Cult in the artificial hybridization of the powers of Crimson Arachna. -->
+  <OE_CyberArachna.description>TODO</OE_CyberArachna.description>
+  <!-- EN: chimera -->
+  <OE_CyberArachna.comps.CompChimera.simpleAnimalLabel>TODO</OE_CyberArachna.comps.CompChimera.simpleAnimalLabel>
+  <!-- EN: front left leg -->
+  <OE_CyberArachna.tools.front_left_leg.label>TODO</OE_CyberArachna.tools.front_left_leg.label>
+  <!-- EN: front right leg -->
+  <OE_CyberArachna.tools.front_right_leg.label>TODO</OE_CyberArachna.tools.front_right_leg.label>
+  <!-- EN: head -->
+  <OE_CyberArachna.tools.head.label>TODO</OE_CyberArachna.tools.head.label>
+  
+</LanguageData>

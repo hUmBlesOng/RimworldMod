@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Inlay - Balor -->
+  <OE_Inlay_OCC_Trophy_Drillspear.label>TODO</OE_Inlay_OCC_Trophy_Drillspear.label>
+  <!-- EN: Inlay - Balor. -->
+  <OE_Inlay_OCC_Trophy_Drillspear.description>TODO</OE_Inlay_OCC_Trophy_Drillspear.description>
+  <!-- EN: Inlaying - Balor. -->
+  <OE_Inlay_OCC_Trophy_Drillspear.jobString>TODO</OE_Inlay_OCC_Trophy_Drillspear.jobString>
+  
+  <!-- EN: Inlay - Cronus -->
+  <OE_Inlay_OCC_Trophy_Railgun.label>TODO</OE_Inlay_OCC_Trophy_Railgun.label>
+  <!-- EN: Inlay - Cronus. -->
+  <OE_Inlay_OCC_Trophy_Railgun.description>TODO</OE_Inlay_OCC_Trophy_Railgun.description>
+  <!-- EN: Inlaying - Cronus. -->
+  <OE_Inlay_OCC_Trophy_Railgun.jobString>TODO</OE_Inlay_OCC_Trophy_Railgun.jobString>
+  
+  <!-- EN: Inlay - Harvest - Apex -->
+  <OE_Inlay_ODC_Trophy_BladeLauncher_C.label>TODO</OE_Inlay_ODC_Trophy_BladeLauncher_C.label>
+  <!-- EN: Inlay - Harvest - Apex. -->
+  <OE_Inlay_ODC_Trophy_BladeLauncher_C.description>TODO</OE_Inlay_ODC_Trophy_BladeLauncher_C.description>
+  <!-- EN: Inlaying - Harvest - Apex. -->
+  <OE_Inlay_ODC_Trophy_BladeLauncher_C.jobString>TODO</OE_Inlay_ODC_Trophy_BladeLauncher_C.jobString>
+  
+  <!-- EN: Inlay - Temptation - Apex -->
+  <OE_Inlay_ODC_Trophy_Sickle_C.label>TODO</OE_Inlay_ODC_Trophy_Sickle_C.label>
+  <!-- EN: Inlay - Temptation - Apex. -->
+  <OE_Inlay_ODC_Trophy_Sickle_C.description>TODO</OE_Inlay_ODC_Trophy_Sickle_C.description>
+  <!-- EN: Inlaying - Temptation - Apex. -->
+  <OE_Inlay_ODC_Trophy_Sickle_C.jobString>TODO</OE_Inlay_ODC_Trophy_Sickle_C.jobString>
+  
+  <!-- EN: Inlay - Empress's Blessing -->
+  <OE_Inlay_OMC_Trophy_Chainsword.label>TODO</OE_Inlay_OMC_Trophy_Chainsword.label>
+  <!-- EN: Inlay - Empress's Blessing. -->
+  <OE_Inlay_OMC_Trophy_Chainsword.description>TODO</OE_Inlay_OMC_Trophy_Chainsword.description>
+  <!-- EN: Inlaying - Empress's Blessing. -->
+  <OE_Inlay_OMC_Trophy_Chainsword.jobString>TODO</OE_Inlay_OMC_Trophy_Chainsword.jobString>
+  
+  <!-- EN: Inlay - Prototype sX-01a -->
+  <OE_Inlay_OMC_Trophy_Pistol.label>TODO</OE_Inlay_OMC_Trophy_Pistol.label>
+  <!-- EN: Inlay - Prototype sX-01a. -->
+  <OE_Inlay_OMC_Trophy_Pistol.description>TODO</OE_Inlay_OMC_Trophy_Pistol.description>
+  <!-- EN: Inlaying - Prototype sX-01a. -->
+  <OE_Inlay_OMC_Trophy_Pistol.jobString>TODO</OE_Inlay_OMC_Trophy_Pistol.jobString>
+  
+  <!-- EN: Inlay - Randy's Deck -->
+  <OE_Inlay_OTC_Trophy_Cards.label>TODO</OE_Inlay_OTC_Trophy_Cards.label>
+  <!-- EN: Inlay - Randy's Deck. -->
+  <OE_Inlay_OTC_Trophy_Cards.description>TODO</OE_Inlay_OTC_Trophy_Cards.description>
+  <!-- EN: Inlaying - Randy's Deck. -->
+  <OE_Inlay_OTC_Trophy_Cards.jobString>TODO</OE_Inlay_OTC_Trophy_Cards.jobString>
+  
+  <!-- EN: Inlay - Acid Rift -->
+  <OE_Inlay_OTC_Trophy_Sword_Acid.label>TODO</OE_Inlay_OTC_Trophy_Sword_Acid.label>
+  <!-- EN: Inlay - Acid Rift. -->
+  <OE_Inlay_OTC_Trophy_Sword_Acid.description>TODO</OE_Inlay_OTC_Trophy_Sword_Acid.description>
+  <!-- EN: Inlaying - Acid Rift. -->
+  <OE_Inlay_OTC_Trophy_Sword_Acid.jobString>TODO</OE_Inlay_OTC_Trophy_Sword_Acid.jobString>
+  
+  <!-- EN: Inlay - Cryo Rift -->
+  <OE_Inlay_OTC_Trophy_Sword_Cryo.label>TODO</OE_Inlay_OTC_Trophy_Sword_Cryo.label>
+  <!-- EN: Inlay - Cryo Rift. -->
+  <OE_Inlay_OTC_Trophy_Sword_Cryo.description>TODO</OE_Inlay_OTC_Trophy_Sword_Cryo.description>
+  <!-- EN: Inlaying - Cryo Rift. -->
+  <OE_Inlay_OTC_Trophy_Sword_Cryo.jobString>TODO</OE_Inlay_OTC_Trophy_Sword_Cryo.jobString>
+  
+  <!-- EN: Inlay - EMP Rift -->
+  <OE_Inlay_OTC_Trophy_Sword_EMP.label>TODO</OE_Inlay_OTC_Trophy_Sword_EMP.label>
+  <!-- EN: Inlay - EMP Rift. -->
+  <OE_Inlay_OTC_Trophy_Sword_EMP.description>TODO</OE_Inlay_OTC_Trophy_Sword_EMP.description>
+  <!-- EN: Inlaying - EMP Rift. -->
+  <OE_Inlay_OTC_Trophy_Sword_EMP.jobString>TODO</OE_Inlay_OTC_Trophy_Sword_EMP.jobString>
+  
+  <!-- EN: Inlay - Fire Rift -->
+  <OE_Inlay_OTC_Trophy_Sword_Fire.label>TODO</OE_Inlay_OTC_Trophy_Sword_Fire.label>
+  <!-- EN: Inlay - Fire Rift. -->
+  <OE_Inlay_OTC_Trophy_Sword_Fire.description>TODO</OE_Inlay_OTC_Trophy_Sword_Fire.description>
+  <!-- EN: Inlaying - Fire Rift. -->
+  <OE_Inlay_OTC_Trophy_Sword_Fire.jobString>TODO</OE_Inlay_OTC_Trophy_Sword_Fire.jobString>
+  
+</LanguageData>

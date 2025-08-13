@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: OMC Soldier Helmet -->
+  <OMC_Helmet.label>TODO</OMC_Helmet.label>
+  <!-- EN: Medium power armor Helmet, perfectly protects the owner. Designed for use by regular OMC soldiers. -->
+  <OMC_Helmet.description>TODO</OMC_Helmet.description>
+  
+  <!-- EN: OMC Officer Helmet -->
+  <OMC_Helmet_M.label>TODO</OMC_Helmet_M.label>
+  <!-- EN: Medium power armor Helmet, perfectly protects the owner. Designed and modified for use by OMC Regular Officers.\n\nThe hardened version provides more protection to the owner. -->
+  <OMC_Helmet_M.description>TODO</OMC_Helmet_M.description>
+  
+  <!-- EN: OMC Officer Helmet(Gladiator) -->
+  <OMC_Helmet_M_Melee.label>TODO</OMC_Helmet_M_Melee.label>
+  <!-- EN: Medium power armor Helmet, perfectly protects the owner. Designed and modified for use by OMC Regular Officers.\n\nModified visor with analyzing computer that helps the user close combat. -->
+  <OMC_Helmet_M_Melee.description>TODO</OMC_Helmet_M_Melee.description>
+  
+  <!-- EN: OMC Officer Helmet(Ranger) -->
+  <OMC_Helmet_M_Ranged.label>TODO</OMC_Helmet_M_Ranged.label>
+  <!-- EN: Medium power armor Helmet, perfectly protects the owner. Designed and modified for use by OMC Regular Officers.\n\nModified visor with targeting computer that helps the user aim. -->
+  <OMC_Helmet_M_Ranged.description>TODO</OMC_Helmet_M_Ranged.description>
+  
+  <!-- EN: OMC Officer Helmet(Space Griffin) -->
+  <OMC_Helmet_M_Spacer.label>TODO</OMC_Helmet_M_Spacer.label>
+  <!-- EN: Medium power armor Helmet, perfectly protects the owner. Designed and modified for use by OMC Regular Officers.\n\nPressure-sealed version designed to keep the occupant alive in outer space. -->
+  <OMC_Helmet_M_Spacer.description>TODO</OMC_Helmet_M_Spacer.description>
+  
+</LanguageData>

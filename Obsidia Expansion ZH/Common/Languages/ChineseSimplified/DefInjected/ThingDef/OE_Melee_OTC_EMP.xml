@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Genesis(EMP) -->
+  <OTC_BigAxe_EMP.label>TODO</OTC_BigAxe_EMP.label>
+  <!-- EN: Regular Big Axe used by OTC Mechanics. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
+  <OTC_BigAxe_EMP.description>TODO</OTC_BigAxe_EMP.description>
+  <!-- EN: handle -->
+  <OTC_BigAxe_EMP.tools.handle.label>TODO</OTC_BigAxe_EMP.tools.handle.label>
+  <!-- EN: edge -->
+  <OTC_BigAxe_EMP.tools.edge.label>TODO</OTC_BigAxe_EMP.tools.edge.label>
+  
+  <!-- EN: Genesis Prototype(EMP) -->
+  <OTC_BigAxe_M_EMP.label>TODO</OTC_BigAxe_M_EMP.label>
+  <!-- EN: Experimental Big Axe used by OTC Engineers. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
+  <OTC_BigAxe_M_EMP.description>TODO</OTC_BigAxe_M_EMP.description>
+  <!-- EN: handle -->
+  <OTC_BigAxe_M_EMP.tools.handle.label>TODO</OTC_BigAxe_M_EMP.tools.handle.label>
+  <!-- EN: edge -->
+  <OTC_BigAxe_M_EMP.tools.edge.label>TODO</OTC_BigAxe_M_EMP.tools.edge.label>
+  
+  <!-- EN: Netherbane(EMP) -->
+  <OTC_ChainAxe_EMP.label>TODO</OTC_ChainAxe_EMP.label>
+  <!-- EN: Regular ChainAxe used by OTC Mechanics. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
+  <OTC_ChainAxe_EMP.description>TODO</OTC_ChainAxe_EMP.description>
+  <!-- EN: handle -->
+  <OTC_ChainAxe_EMP.tools.handle.label>TODO</OTC_ChainAxe_EMP.tools.handle.label>
+  <!-- EN: chain -->
+  <OTC_ChainAxe_EMP.tools.chain.label>TODO</OTC_ChainAxe_EMP.tools.chain.label>
+  
+  <!-- EN: Netherbane Prototype(EMP) -->
+  <OTC_ChainAxe_M_EMP.label>TODO</OTC_ChainAxe_M_EMP.label>
+  <!-- EN: Experimental ChainAxe used by OTC Engineers. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
+  <OTC_ChainAxe_M_EMP.description>TODO</OTC_ChainAxe_M_EMP.description>
+  <!-- EN: handle -->
+  <OTC_ChainAxe_M_EMP.tools.handle.label>TODO</OTC_ChainAxe_M_EMP.tools.handle.label>
+  <!-- EN: chain -->
+  <OTC_ChainAxe_M_EMP.tools.chain.label>TODO</OTC_ChainAxe_M_EMP.tools.chain.label>
+  
+  <!-- EN: Nemesis(EMP) -->
+  <OTC_Hammer_EMP.label>TODO</OTC_Hammer_EMP.label>
+  <!-- EN: Regular Hammer used by OTC Mechanics. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
+  <OTC_Hammer_EMP.description>TODO</OTC_Hammer_EMP.description>
+  <!-- EN: handle -->
+  <OTC_Hammer_EMP.tools.handle.label>TODO</OTC_Hammer_EMP.tools.handle.label>
+  <!-- EN: head -->
+  <OTC_Hammer_EMP.tools.head.label>TODO</OTC_Hammer_EMP.tools.head.label>
+  
+  <!-- EN: Nemesis Prototype(EMP) -->
+  <OTC_Hammer_M_EMP.label>TODO</OTC_Hammer_M_EMP.label>
+  <!-- EN: Experimental Hammer used by OTC Engineers. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
+  <OTC_Hammer_M_EMP.description>TODO</OTC_Hammer_M_EMP.description>
+  <!-- EN: handle -->
+  <OTC_Hammer_M_EMP.tools.handle.label>TODO</OTC_Hammer_M_EMP.tools.handle.label>
+  <!-- EN: head -->
+  <OTC_Hammer_M_EMP.tools.head.label>TODO</OTC_Hammer_M_EMP.tools.head.label>
+  
+</LanguageData>

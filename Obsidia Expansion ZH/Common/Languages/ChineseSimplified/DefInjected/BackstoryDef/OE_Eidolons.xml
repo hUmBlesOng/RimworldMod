@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] once considered a great Hero of Obsidia but after some events it became forgotten and abandoned by its own people. Has excellent combat skills and the ability to maintain own reputation. -->
+  <OE_Eidolon.description>TODO</OE_Eidolon.description>
+  <!-- EN: obsidia empire eidolon -->
+  <OE_Eidolon.title>TODO</OE_Eidolon.title>
+  <!-- EN: eidolon -->
+  <OE_Eidolon.titleShort>TODO</OE_Eidolon.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] once shaped synthetic souls and psionic engines in secret halls of the Empire. Some called it brilliance, others-blasphemy. -->
+  <OE_Soulforger.description>TODO</OE_Soulforger.description>
+  <!-- EN: obsidia empire soulforger -->
+  <OE_Soulforger.title>TODO</OE_Soulforger.title>
+  <!-- EN: soulforger -->
+  <OE_Soulforger.titleShort>TODO</OE_Soulforger.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] once served as a strategic mastermind of the Obsidia command corps. After a failed campaign, vanished from records-yet still fights with clarity and resolve. -->
+  <OE_Tactician.description>TODO</OE_Tactician.description>
+  <!-- EN: obsidia empire tactician -->
+  <OE_Tactician.title>TODO</OE_Tactician.title>
+  <!-- EN: tactician -->
+  <OE_Tactician.titleShort>TODO</OE_Tactician.titleShort>
+  
+</LanguageData>

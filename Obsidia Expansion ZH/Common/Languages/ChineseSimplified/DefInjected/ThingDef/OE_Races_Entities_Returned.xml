@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: returned -->
+  <OE_Returned.label>TODO</OE_Returned.label>
+  <!-- EN: Returned is a resurrected corpse of Crimson Arachna Cultist. This corpse is fused with the armor and prototype of Amalgam Arachna Legs, which makes this creature extremely mobile and armored. It's the result of one of the first unsuccessful experiments of Crimson Arachna Cult in the artificial hybridization of the powers of Crimson Arachna. -->
+  <OE_Returned.description>TODO</OE_Returned.description>
+  <!-- EN: left spike -->
+  <OE_Returned.tools.left_spike.label>TODO</OE_Returned.tools.left_spike.label>
+  <!-- EN: spike -->
+  <OE_Returned.tools.left_spike.labelNoLocation>TODO</OE_Returned.tools.left_spike.labelNoLocation>
+  <!-- EN: right spike -->
+  <OE_Returned.tools.right_spike.label>TODO</OE_Returned.tools.right_spike.label>
+  <!-- EN: spike -->
+  <OE_Returned.tools.right_spike.labelNoLocation>TODO</OE_Returned.tools.right_spike.labelNoLocation>
+  <!-- EN: head -->
+  <OE_Returned.tools.head.label>TODO</OE_Returned.tools.head.label>
+  
+</LanguageData>

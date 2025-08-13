@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Mercenary Helmet(Mindtwister) -->
+  <OMG_Trophy_Helmet_Mindtwister.label>TODO</OMG_Trophy_Helmet_Mindtwister.label>
+  <!-- EN: Highly modified heavy power armor Helmet, excellent protects the owner. Designed for use by Mercenaries.\n\nThis variation provides the owner with power of Psychic insanity lance.\n\nThis modification deprives item's quality levels. -->
+  <OMG_Trophy_Helmet_Mindtwister.description>TODO</OMG_Trophy_Helmet_Mindtwister.description>
+  <!-- EN: charge -->
+  <OMG_Trophy_Helmet_Mindtwister.comps.CompApparelReloadable.chargeNoun>TODO</OMG_Trophy_Helmet_Mindtwister.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OMG_Trophy_Helmet_Mindtwister.comps.CompApparelReloadable.cooldownGerund>TODO</OMG_Trophy_Helmet_Mindtwister.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: Mercenary Helmet(Mindtwister) -->
+  <OMG_Trophy_Helmet_Mindtwister.verbs.Verb_CastTargetEffect.label>TODO</OMG_Trophy_Helmet_Mindtwister.verbs.Verb_CastTargetEffect.label>
+  
+  <!-- EN: Mercenary Helmet(Neuroflash) -->
+  <OMG_Trophy_Helmet_Neuroflash.label>TODO</OMG_Trophy_Helmet_Neuroflash.label>
+  <!-- EN: Highly modified heavy power armor Helmet, excellent protects the owner. Designed for use by Mercenaries.\n\nThis variation provides the owner with power of Psychic shock lance.\n\nThis modification deprives item's quality levels. -->
+  <OMG_Trophy_Helmet_Neuroflash.description>TODO</OMG_Trophy_Helmet_Neuroflash.description>
+  <!-- EN: charge -->
+  <OMG_Trophy_Helmet_Neuroflash.comps.CompApparelReloadable.chargeNoun>TODO</OMG_Trophy_Helmet_Neuroflash.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OMG_Trophy_Helmet_Neuroflash.comps.CompApparelReloadable.cooldownGerund>TODO</OMG_Trophy_Helmet_Neuroflash.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: Mercenary Helmet(Neuroflash) -->
+  <OMG_Trophy_Helmet_Neuroflash.verbs.Verb_CastTargetEffect.label>TODO</OMG_Trophy_Helmet_Neuroflash.verbs.Verb_CastTargetEffect.label>
+  
+</LanguageData>

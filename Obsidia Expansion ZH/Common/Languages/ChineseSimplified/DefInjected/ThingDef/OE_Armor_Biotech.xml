@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: obsidia kid armor -->
+  <OE_Armor_Kid.label>TODO</OE_Armor_Kid.label>
+  <!-- EN: Light armor, well protects the owner with little mobility restriction. Designed for use by Obsidia Empire kids. -->
+  <OE_Armor_Kid.description>TODO</OE_Armor_Kid.description>
+  
+  <!-- EN: Obsidia Kid Armor(Space Griffin) -->
+  <OE_Armor_Kid_Spacer.label>TODO</OE_Armor_Kid_Spacer.label>
+  <!-- EN: Light armor, well protects the owner with little mobility restriction. Designed for use by Obsidia Empire kids.\n\nPressure-sealed version designed to keep the occupant alive in outer space. -->
+  <OE_Armor_Kid_Spacer.description>TODO</OE_Armor_Kid_Spacer.description>
+  
+</LanguageData>

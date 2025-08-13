@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Arachna Drone -->
+  <OE_Mech_ArachnaDrone.label>TODO</OE_Mech_ArachnaDrone.label>
+  <!-- EN: A small, deployable combat mechanoid usually manufactured inside an ultra-heavy Arachna Queen mech. Arachna Drone are expendable melee fighters designed to swarm-attack enemies. They are mounted with non-rechargeable power source. -->
+  <OE_Mech_ArachnaDrone.description>TODO</OE_Mech_ArachnaDrone.description>
+  <!-- EN: head -->
+  <OE_Mech_ArachnaDrone.tools.head-0.label>TODO</OE_Mech_ArachnaDrone.tools.head-0.label>
+  <!-- EN: front left leg -->
+  <OE_Mech_ArachnaDrone.tools.front_left_leg.label>TODO</OE_Mech_ArachnaDrone.tools.front_left_leg.label>
+  <!-- EN: front right leg -->
+  <OE_Mech_ArachnaDrone.tools.front_right_leg.label>TODO</OE_Mech_ArachnaDrone.tools.front_right_leg.label>
+  <!-- EN: head -->
+  <OE_Mech_ArachnaDrone.tools.head-1.label>TODO</OE_Mech_ArachnaDrone.tools.head-1.label>
+  
+  <!-- EN: Crimson Arachna Drone -->
+  <OE_Mech_CrimsonArachnaDrone.label>TODO</OE_Mech_CrimsonArachnaDrone.label>
+  <!-- EN: A small, deployable combat mechanoid usually manufactured inside an ultra-heavy Crimson Arachna mech. Crimson Arachna Drone are expendable melee fighters designed to swarm-attack enemies. They are mounted with non-rechargeable power source. -->
+  <OE_Mech_CrimsonArachnaDrone.description>TODO</OE_Mech_CrimsonArachnaDrone.description>
+  <!-- EN: head -->
+  <OE_Mech_CrimsonArachnaDrone.tools.head-0.label>TODO</OE_Mech_CrimsonArachnaDrone.tools.head-0.label>
+  <!-- EN: front left leg -->
+  <OE_Mech_CrimsonArachnaDrone.tools.front_left_leg.label>TODO</OE_Mech_CrimsonArachnaDrone.tools.front_left_leg.label>
+  <!-- EN: front right leg -->
+  <OE_Mech_CrimsonArachnaDrone.tools.front_right_leg.label>TODO</OE_Mech_CrimsonArachnaDrone.tools.front_right_leg.label>
+  <!-- EN: head -->
+  <OE_Mech_CrimsonArachnaDrone.tools.head-1.label>TODO</OE_Mech_CrimsonArachnaDrone.tools.head-1.label>
+  
+</LanguageData>

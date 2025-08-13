@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bionic spine -->
+  <OE_ProstheticSpine.label>TODO</OE_ProstheticSpine.label>
+  <!-- EN: An installed bionic spine. -->
+  <OE_ProstheticSpine.description>TODO</OE_ProstheticSpine.description>
+  <!-- EN: a bionic spine -->
+  <OE_ProstheticSpine.labelNoun>TODO</OE_ProstheticSpine.labelNoun>
+  
+  <!-- EN: cultist bionic spine -->
+  <OE_ProstheticSpine_CAC.label>TODO</OE_ProstheticSpine_CAC.label>
+  <!-- EN: An installed cultist bionic spine. -->
+  <OE_ProstheticSpine_CAC.description>TODO</OE_ProstheticSpine_CAC.description>
+  <!-- EN: a cultist bionic spine -->
+  <OE_ProstheticSpine_CAC.labelNoun>TODO</OE_ProstheticSpine_CAC.labelNoun>
+  
+  <!-- EN: advanced bionic spine -->
+  <OE_ProstheticSpine_M.label>TODO</OE_ProstheticSpine_M.label>
+  <!-- EN: An installed advanced bionic spine. -->
+  <OE_ProstheticSpine_M.description>TODO</OE_ProstheticSpine_M.description>
+  <!-- EN: an advanced bionic spine -->
+  <OE_ProstheticSpine_M.labelNoun>TODO</OE_ProstheticSpine_M.labelNoun>
+  
+  <!-- EN: heroic bionic spine -->
+  <OE_ProstheticSpine_OES.label>TODO</OE_ProstheticSpine_OES.label>
+  <!-- EN: An installed heroic bionic spine. -->
+  <OE_ProstheticSpine_OES.description>TODO</OE_ProstheticSpine_OES.description>
+  <!-- EN: a heroic bionic spine -->
+  <OE_ProstheticSpine_OES.labelNoun>TODO</OE_ProstheticSpine_OES.labelNoun>
+  
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mutation - Elder Direwolf -->
+  <EGO_Mutation_Elder_Direwolf.label>TODO</EGO_Mutation_Elder_Direwolf.label>
+  <!-- EN: Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. It was developed from a mutated EGO Seed harvested from an Elder Direwolf.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 5 times to increase its effect. -->
+  <EGO_Mutation_Elder_Direwolf.description>TODO</EGO_Mutation_Elder_Direwolf.description>
+  <!-- EN: Implant {0_label} -->
+  <EGO_Mutation_Elder_Direwolf.comps.CompUsableImplant.useLabel>TODO</EGO_Mutation_Elder_Direwolf.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: mutation - Elder Ogren -->
+  <EGO_Mutation_Elder_Ogren.label>TODO</EGO_Mutation_Elder_Ogren.label>
+  <!-- EN: Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. It was developed from a mutated EGO Seed harvested from an Elder Ogren.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 5 times to increase its effect. -->
+  <EGO_Mutation_Elder_Ogren.description>TODO</EGO_Mutation_Elder_Ogren.description>
+  <!-- EN: Implant {0_label} -->
+  <EGO_Mutation_Elder_Ogren.comps.CompUsableImplant.useLabel>TODO</EGO_Mutation_Elder_Ogren.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: mutation - Elder Raptor -->
+  <EGO_Mutation_Elder_Raptor.label>TODO</EGO_Mutation_Elder_Raptor.label>
+  <!-- EN: Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. It was developed from a mutated EGO Seed harvested from an Elder Raptor.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 5 times to increase its effect. -->
+  <EGO_Mutation_Elder_Raptor.description>TODO</EGO_Mutation_Elder_Raptor.description>
+  <!-- EN: Implant {0_label} -->
+  <EGO_Mutation_Elder_Raptor.comps.CompUsableImplant.useLabel>TODO</EGO_Mutation_Elder_Raptor.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: mutation - Elder Tionant -->
+  <EGO_Mutation_Elder_Tionant.label>TODO</EGO_Mutation_Elder_Tionant.label>
+  <!-- EN: Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. It was developed from a mutated EGO Seed harvested from an Elder Tionant.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 5 times to increase its effect. -->
+  <EGO_Mutation_Elder_Tionant.description>TODO</EGO_Mutation_Elder_Tionant.description>
+  <!-- EN: Implant {0_label} -->
+  <EGO_Mutation_Elder_Tionant.comps.CompUsableImplant.useLabel>TODO</EGO_Mutation_Elder_Tionant.comps.CompUsableImplant.useLabel>
+  
+</LanguageData>

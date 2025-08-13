@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: handyman -->
+  <OECivilian.degreeDatas.handyman.label>TODO</OECivilian.degreeDatas.handyman.label>
+  <!-- EN: {PAWN_nameDef} is a natural {PAWN_pronoun}. {PAWN_nameDef} is smart and work harder than others. -->
+  <OECivilian.degreeDatas.handyman.description>TODO</OECivilian.degreeDatas.handyman.description>
+  
+  <!-- EN: spiritual -->
+  <OECultist.degreeDatas.spiritual.label>TODO</OECultist.degreeDatas.spiritual.label>
+  <!-- EN: {PAWN_nameDef} has an unshakable will and body capable of withstanding any test. -->
+  <OECultist.degreeDatas.spiritual.description>TODO</OECultist.degreeDatas.spiritual.description>
+  
+  <!-- EN: proudly -->
+  <OEEidolon.degreeDatas.proudly.label>TODO</OEEidolon.degreeDatas.proudly.label>
+  <!-- EN: {PAWN_nameDef} as a hero bathed in glory. -->
+  <OEEidolon.degreeDatas.proudly.description>TODO</OEEidolon.degreeDatas.proudly.description>
+  
+  <!-- EN: nomad -->
+  <OENomad.degreeDatas.nomad.label>TODO</OENomad.degreeDatas.nomad.label>
+  <!-- EN: {PAWN_pronoun}'s are used to eating less food and getting enough sleep faster than others. -->
+  <OENomad.degreeDatas.nomad.description>TODO</OENomad.degreeDatas.nomad.description>
+  
+  <!-- EN: careful handler -->
+  <OEQualityAnimals.degreeDatas.careful_handler.label>TODO</OEQualityAnimals.degreeDatas.careful_handler.label>
+  <!-- EN: {PAWN_nameDef} takes time to care for animals properly, often gathering more from each creature. -->
+  <OEQualityAnimals.degreeDatas.careful_handler.description>TODO</OEQualityAnimals.degreeDatas.careful_handler.description>
+  <!-- EN: efficient handler -->
+  <OEQualityAnimals.degreeDatas.efficient_handler.label>TODO</OEQualityAnimals.degreeDatas.efficient_handler.label>
+  <!-- EN: {PAWN_nameDef} works quickly when gathering from animals, but may leave some resources behind. -->
+  <OEQualityAnimals.degreeDatas.efficient_handler.description>TODO</OEQualityAnimals.degreeDatas.efficient_handler.description>
+  
+  <!-- EN: careful chef -->
+  <OEQualityCooking.degreeDatas.careful_chef.label>TODO</OEQualityCooking.degreeDatas.careful_chef.label>
+  <!-- EN: {PAWN_nameDef} values safety and quality in every meal, even if it takes a little longer. -->
+  <OEQualityCooking.degreeDatas.careful_chef.description>TODO</OEQualityCooking.degreeDatas.careful_chef.description>
+  <!-- EN: blazing cook -->
+  <OEQualityCooking.degreeDatas.blazing_cook.label>TODO</OEQualityCooking.degreeDatas.blazing_cook.label>
+  <!-- EN: Quick in the kitchen, {PAWN_nameDef} favors speed over caution. -->
+  <OEQualityCooking.degreeDatas.blazing_cook.description>TODO</OEQualityCooking.degreeDatas.blazing_cook.description>
+  
+  <!-- EN: vein whisperer -->
+  <OEQualityMining.degreeDatas.vein_whisperer.label>TODO</OEQualityMining.degreeDatas.vein_whisperer.label>
+  <!-- EN: {PAWN_nameDef} extracts riches with uncanny precision, though never in a hurry. -->
+  <OEQualityMining.degreeDatas.vein_whisperer.description>TODO</OEQualityMining.degreeDatas.vein_whisperer.description>
+  <!-- EN: tunnel dancer -->
+  <OEQualityMining.degreeDatas.tunnel_dancer.label>TODO</OEQualityMining.degreeDatas.tunnel_dancer.label>
+  <!-- EN: {PAWN_nameDef} digs fast and fearlessly, but often leaves value behind. -->
+  <OEQualityMining.degreeDatas.tunnel_dancer.description>TODO</OEQualityMining.degreeDatas.tunnel_dancer.description>
+  
+  <!-- EN: gentle harvester -->
+  <OEQualityPlants.degreeDatas.gentle_harvester.label>TODO</OEQualityPlants.degreeDatas.gentle_harvester.label>
+  <!-- EN: {PAWN_nameDef} nurtures every crop with care, but tends the fields at a measured pace. -->
+  <OEQualityPlants.degreeDatas.gentle_harvester.description>TODO</OEQualityPlants.degreeDatas.gentle_harvester.description>
+  <!-- EN: swift planter -->
+  <OEQualityPlants.degreeDatas.swift_planter.label>TODO</OEQualityPlants.degreeDatas.swift_planter.label>
+  <!-- EN: {PAWN_nameDef} works the land with swift hands, though some harvests suffer. -->
+  <OEQualityPlants.degreeDatas.swift_planter.description>TODO</OEQualityPlants.degreeDatas.swift_planter.description>
+  
+  <!-- EN: golden soul -->
+  <OESkillsMastery.degreeDatas.golden_soul.label>TODO</OESkillsMastery.degreeDatas.golden_soul.label>
+  <!-- EN: There’s something exceptional in {PAWN_nameDef} - a golden spark of talent in every endeavor. -->
+  <OESkillsMastery.degreeDatas.golden_soul.description>TODO</OESkillsMastery.degreeDatas.golden_soul.description>
+  <!-- EN: faded spark -->
+  <OESkillsMastery.degreeDatas.faded_spark.label>TODO</OESkillsMastery.degreeDatas.faded_spark.label>
+  <!-- EN: Once full of promise, {PAWN_nameDef} now walks a dimmer path, struggling to meet expectations. -->
+  <OESkillsMastery.degreeDatas.faded_spark.description>TODO</OESkillsMastery.degreeDatas.faded_spark.description>
+  
+  <!-- EN: trained -->
+  <OESoldier.degreeDatas.trained.label>TODO</OESoldier.degreeDatas.trained.label>
+  <!-- EN: After many trainings, {PAWN_nameDef} learned how to use any weapon. -->
+  <OESoldier.degreeDatas.trained.description>TODO</OESoldier.degreeDatas.trained.description>
+  
+  <!-- EN: unstable catalyst -->
+  <OEUnstableCatalyst.degreeDatas.unstable_catalyst.label>TODO</OEUnstableCatalyst.degreeDatas.unstable_catalyst.label>
+  <!-- EN: A volatile force stirs within {PAWN_nameDef}. When pushed to the edge, {PAWN_pronoun} may erupt with a surge of brilliance—or chaos.\n\nThere is a 75% chance that a mental break will trigger a random Inspiration. -->
+  <OEUnstableCatalyst.degreeDatas.unstable_catalyst.description>TODO</OEUnstableCatalyst.degreeDatas.unstable_catalyst.description>
+  <!-- EN: Driven by unstable energy, [PAWN_nameIndef] unlocks untamed potential. -->
+  <OEUnstableCatalyst.degreeDatas.unstable_catalyst.mentalBreakInspirationGainReasonText>TODO</OEUnstableCatalyst.degreeDatas.unstable_catalyst.mentalBreakInspirationGainReasonText>
+  
+  <!-- EN: unstable charmer -->
+  <OEUnstableCharmer.degreeDatas.unstable_charmer.label>TODO</OEUnstableCharmer.degreeDatas.unstable_charmer.label>
+  <!-- EN: {PAWN_nameDef}'s erratic energy makes {PAWN_pronoun} strangely persuasive at the strangest times.\nThere is a 50% chance that a mental break will trigger a Inspired Recruitment. -->
+  <OEUnstableCharmer.degreeDatas.unstable_charmer.description>TODO</OEUnstableCharmer.degreeDatas.unstable_charmer.description>
+  <!-- EN: With unstable conviction, [PAWN_nameIndef] gains the charm to sway others. -->
+  <OEUnstableCharmer.degreeDatas.unstable_charmer.mentalBreakInspirationGainReasonText>TODO</OEUnstableCharmer.degreeDatas.unstable_charmer.mentalBreakInspirationGainReasonText>
+  
+  <!-- EN: unstable creator -->
+  <OEUnstableCreator.degreeDatas.unstable_creator.label>TODO</OEUnstableCreator.degreeDatas.unstable_creator.label>
+  <!-- EN: From the storm in {PAWN_pronoun} mind, bursts of artistic brilliance emerge.\nThere is a 50% chance that a mental break will trigger an Inspired Creativity. -->
+  <OEUnstableCreator.degreeDatas.unstable_creator.description>TODO</OEUnstableCreator.degreeDatas.unstable_creator.description>
+  <!-- EN: Inspired by inner chaos, [PAWN_nameIndef] becomes creatively unstoppable. -->
+  <OEUnstableCreator.degreeDatas.unstable_creator.mentalBreakInspirationGainReasonText>TODO</OEUnstableCreator.degreeDatas.unstable_creator.mentalBreakInspirationGainReasonText>
+  
+  <!-- EN: unstable laborer -->
+  <OEUnstableLaborer.degreeDatas.unstable_laborer.label>TODO</OEUnstableLaborer.degreeDatas.unstable_laborer.label>
+  <!-- EN: {PAWN_nameDef} pushes {PAWN_pronoun}self to extremes, chasing fleeting sparks of productivity at great mental cost.\nThere is a 50% chance that a mental break will trigger a Work Frenzy. -->
+  <OEUnstableLaborer.degreeDatas.unstable_laborer.description>TODO</OEUnstableLaborer.degreeDatas.unstable_laborer.description>
+  <!-- EN: Driven by inner chaos, [PAWN_nameIndef] enters a manic work frenzy. -->
+  <OEUnstableLaborer.degreeDatas.unstable_laborer.mentalBreakInspirationGainReasonText>TODO</OEUnstableLaborer.degreeDatas.unstable_laborer.mentalBreakInspirationGainReasonText>
+  
+  <!-- EN: unstable marksman -->
+  <OEUnstableMarksman.degreeDatas.unstable_marksman.label>TODO</OEUnstableMarksman.degreeDatas.unstable_marksman.label>
+  <!-- EN: In moments of instability, {PAWN_nameDef}'s focus sharpens, turning chaos into deadly precision.\nThere is a 50% chance that a mental break will trigger a Shooting Frenzy. -->
+  <OEUnstableMarksman.degreeDatas.unstable_marksman.description>TODO</OEUnstableMarksman.degreeDatas.unstable_marksman.description>
+  <!-- EN: Riding the edge of madness, [PAWN_nameIndef] becomes unnervingly accurate with ranged weapons. -->
+  <OEUnstableMarksman.degreeDatas.unstable_marksman.mentalBreakInspirationGainReasonText>TODO</OEUnstableMarksman.degreeDatas.unstable_marksman.mentalBreakInspirationGainReasonText>
+  
+  <!-- EN: unstable surgeon -->
+  <OEUnstableSurgeon.degreeDatas.unstable_surgeon.label>TODO</OEUnstableSurgeon.degreeDatas.unstable_surgeon.label>
+  <!-- EN: In a rare balance between madness and clarity, {PAWN_nameDef} performs medical miracles.\nThere is a 50% chance that a mental break will trigger a Inspired Surgery. -->
+  <OEUnstableSurgeon.degreeDatas.unstable_surgeon.description>TODO</OEUnstableSurgeon.degreeDatas.unstable_surgeon.description>
+  <!-- EN: Compelled by desperation, [PAWN_nameIndef] achieves surgical perfection. -->
+  <OEUnstableSurgeon.degreeDatas.unstable_surgeon.mentalBreakInspirationGainReasonText>TODO</OEUnstableSurgeon.degreeDatas.unstable_surgeon.mentalBreakInspirationGainReasonText>
+  
+  <!-- EN: unstable trader -->
+  <OEUnstableTrader.degreeDatas.unstable_trader.label>TODO</OEUnstableTrader.degreeDatas.unstable_trader.label>
+  <!-- EN: {PAWN_nameDef}'s fractured mind occasionally strikes upon strokes of commercial genius.\nThere is a 50% chance that a mental break will trigger a Inspired Trade. -->
+  <OEUnstableTrader.degreeDatas.unstable_trader.description>TODO</OEUnstableTrader.degreeDatas.unstable_trader.description>
+  <!-- EN: Through the haze of instability, [PAWN_nameIndef] glimpses a moment of brilliant negotiation. -->
+  <OEUnstableTrader.degreeDatas.unstable_trader.mentalBreakInspirationGainReasonText>TODO</OEUnstableTrader.degreeDatas.unstable_trader.mentalBreakInspirationGainReasonText>
+  
+  <!-- EN: unstable wanderer -->
+  <OEUnstableWanderer.degreeDatas.unstable_wanderer.label>TODO</OEUnstableWanderer.degreeDatas.unstable_wanderer.label>
+  <!-- EN: Restless and unpredictable, {PAWN_nameDef} finds moments of clarity in rapid, purposeless motion.\nThere is a 50% chance that a mental break will trigger a Go Frenzy. -->
+  <OEUnstableWanderer.degreeDatas.unstable_wanderer.description>TODO</OEUnstableWanderer.degreeDatas.unstable_wanderer.description>
+  <!-- EN: Overwhelmed by turmoil, [PAWN_nameIndef] feels an irresistible urge to move. -->
+  <OEUnstableWanderer.degreeDatas.unstable_wanderer.mentalBreakInspirationGainReasonText>TODO</OEUnstableWanderer.degreeDatas.unstable_wanderer.mentalBreakInspirationGainReasonText>
+  
+  <!-- EN: unstable whisperer -->
+  <OEUnstableWhisperer.degreeDatas.unstable_whisperer.label>TODO</OEUnstableWhisperer.degreeDatas.unstable_whisperer.label>
+  <!-- EN: {PAWN_nameDef}'s volatile aura oddly resonates with animals, if only for a moment.\nThere is a 50% chance that a mental break will trigger a Inspired Taming. -->
+  <OEUnstableWhisperer.degreeDatas.unstable_whisperer.description>TODO</OEUnstableWhisperer.degreeDatas.unstable_whisperer.description>
+  <!-- EN: Driven by turmoil, [PAWN_nameIndef] momentarily connects deeply with nature's creatures. -->
+  <OEUnstableWhisperer.degreeDatas.unstable_whisperer.mentalBreakInspirationGainReasonText>TODO</OEUnstableWhisperer.degreeDatas.unstable_whisperer.mentalBreakInspirationGainReasonText>
+  
+</LanguageData>

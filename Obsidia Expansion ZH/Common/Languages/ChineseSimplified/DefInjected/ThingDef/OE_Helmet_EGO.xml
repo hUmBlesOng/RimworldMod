@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: EGO Exohelm(Berserker) -->
+  <EGO_Helmet_Exohelm_Melee.label>TODO</EGO_Helmet_Exohelm_Melee.label>
+  <!-- EN: Specially gestated amalgam Exohelm, excellent protects the owner. Designed for use by Undyings. Amalgams are hybrids of EGO seed and Obsidia technology.\n\nThis modification improve melee combat stats.\n\nThe item's quality levels can be reset using an EGO Seed. -->
+  <EGO_Helmet_Exohelm_Melee.description>TODO</EGO_Helmet_Exohelm_Melee.description>
+  
+  <!-- EN: EGO Exohelm(Ballista) -->
+  <EGO_Helmet_Exohelm_Ranged.label>TODO</EGO_Helmet_Exohelm_Ranged.label>
+  <!-- EN: Specially gestated amalgam Exohelm, excellent protects the owner. Designed for use by Undyings. Amalgams are hybrids of EGO seed and Obsidia technology.\n\nThis modification improve ranged combat stats.\n\nThe item's quality levels can be reset using an EGO Seed. -->
+  <EGO_Helmet_Exohelm_Ranged.description>TODO</EGO_Helmet_Exohelm_Ranged.description>
+  
+  <!-- EN: EGO Exohelm(Constructor) -->
+  <EGO_Helmet_Exohelm_Worker.label>TODO</EGO_Helmet_Exohelm_Worker.label>
+  <!-- EN: Specially gestated amalgam Exohelm, excellent protects the owner. Designed for use by Undyings. Amalgams are hybrids of EGO seed and Obsidia technology.\n\nThis modification improve working stats.\n\nThe item's quality levels can be reset using an EGO Seed. -->
+  <EGO_Helmet_Exohelm_Worker.description>TODO</EGO_Helmet_Exohelm_Worker.description>
+  
+  <!-- EN: EGO Helm -->
+  <EGO_Helmet_Helm.label>TODO</EGO_Helmet_Helm.label>
+  <!-- EN: Specially gestated amalgam Helm, perfectly protects the owner. Designed for use by Undyings. Amalgams are hybrids of EGO seed and Obsidia technology.\n\nThe item's quality levels can be reset using an EGO Seed. -->
+  <EGO_Helmet_Helm.description>TODO</EGO_Helmet_Helm.description>
+  
+  <!-- EN: EGO Mask -->
+  <EGO_Helmet_Mask.label>TODO</EGO_Helmet_Mask.label>
+  <!-- EN: Specially gestated amalgam Mask, well protects the owner. Designed for use by Undyings. Amalgams are hybrids of EGO seed and Obsidia technology.\n\nThe item's quality levels can be reset using an EGO Seed. -->
+  <EGO_Helmet_Mask.description>TODO</EGO_Helmet_Mask.description>
+  
+</LanguageData>

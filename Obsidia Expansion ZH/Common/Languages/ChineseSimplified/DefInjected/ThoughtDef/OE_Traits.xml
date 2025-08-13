@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: unstable thoughts -->
+  <OE_MoodOffset_UnstableMind.stages.unstable_thoughts.label>TODO</OE_MoodOffset_UnstableMind.stages.unstable_thoughts.label>
+  <!-- EN: The mind of {PAWN_nameDef} is in constant disarray, teetering on the edge of brilliance and collapse. -->
+  <OE_MoodOffset_UnstableMind.stages.unstable_thoughts.description>TODO</OE_MoodOffset_UnstableMind.stages.unstable_thoughts.description>
+  
+</LanguageData>

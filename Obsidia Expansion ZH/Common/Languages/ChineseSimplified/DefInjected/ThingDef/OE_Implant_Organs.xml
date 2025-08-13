@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heart implant - Healing -->
+  <OE_ImplantHeart_Healing.label>TODO</OE_ImplantHeart_Healing.label>
+  <!-- EN: Obsidia healing heart implant was designed to releases nanomachines and healing factors that speed up wound healing. -->
+  <OE_ImplantHeart_Healing.description>TODO</OE_ImplantHeart_Healing.description>
+  
+  <!-- EN: kidney implant - Coagulator -->
+  <OE_ImplantKidney_Coagulator.label>TODO</OE_ImplantKidney_Coagulator.label>
+  <!-- EN: Obsidia coagulator kidney implant was designed to releases nanomachines and coagulating factors in response to blood loss, reducing bleeding rates significantly. -->
+  <OE_ImplantKidney_Coagulator.description>TODO</OE_ImplantKidney_Coagulator.description>
+  
+  <!-- EN: liver implant - Immune assistant -->
+  <OE_ImplantLiver_Antibiotic.label>TODO</OE_ImplantLiver_Antibiotic.label>
+  <!-- EN: Obsidia immune assistant liver implant was designed to speed up gains immunity to diseases. -->
+  <OE_ImplantLiver_Antibiotic.description>TODO</OE_ImplantLiver_Antibiotic.description>
+  
+  <!-- EN: lung implant - Antitox-filter -->
+  <OE_ImplantLung_Filtration.label>TODO</OE_ImplantLung_Filtration.label>
+  <!-- EN: Obsidia antitox-filter lung implant was designed to reduce the intake of environmental toxins, allowing the user to survive longer in polluted environments. Additionally, it negates the irritation of acidic smoke and prevents lung rot in this lung. -->
+  <OE_ImplantLung_Filtration.description>TODO</OE_ImplantLung_Filtration.description>
+  
+  <!-- EN: stomach implant - Traveler -->
+  <OE_ImplantStomach_Traveler.label>TODO</OE_ImplantStomach_Traveler.label>
+  <!-- EN: Obsidia traveler stomach implant was designed to additional nutrition while traveling by caravan. -->
+  <OE_ImplantStomach_Traveler.description>TODO</OE_ImplantStomach_Traveler.description>
+  
+</LanguageData>

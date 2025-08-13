@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ambrosia slime -->
+  <OE_Slime_Ambrosia.label>TODO</OE_Slime_Ambrosia.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nAmbrosia slime production type, produces 15 Ambrosia every 12 days. -->
+  <OE_Slime_Ambrosia.description>TODO</OE_Slime_Ambrosia.description>
+  <!-- EN: mouth -->
+  <OE_Slime_Ambrosia.tools.mouth.label>TODO</OE_Slime_Ambrosia.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_Slime_Ambrosia.tools.head.label>TODO</OE_Slime_Ambrosia.tools.head.label>
+  
+  <!-- EN: ancient slime -->
+  <OE_Slime_Ancient.label>TODO</OE_Slime_Ancient.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nAncient slime - an unconfigured without purpose, perhaps when butchery it, you will be able to find out secrets of Slimes creation. -->
+  <OE_Slime_Ancient.description>TODO</OE_Slime_Ancient.description>
+  <!-- EN: mouth -->
+  <OE_Slime_Ancient.tools.mouth.label>TODO</OE_Slime_Ancient.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_Slime_Ancient.tools.head.label>TODO</OE_Slime_Ancient.tools.head.label>
+  
+  <!-- EN: beer slime -->
+  <OE_Slime_Beer.label>TODO</OE_Slime_Beer.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nBeer slime production type, produces 25 Beer every 5 days. -->
+  <OE_Slime_Beer.description>TODO</OE_Slime_Beer.description>
+  <!-- EN: mouth -->
+  <OE_Slime_Beer.tools.mouth.label>TODO</OE_Slime_Beer.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_Slime_Beer.tools.head.label>TODO</OE_Slime_Beer.tools.head.label>
+  
+  <!-- EN: bone slime -->
+  <OE_Slime_Bone.label>TODO</OE_Slime_Bone.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nBone slime battle type, with increased intelligence for training. -->
+  <OE_Slime_Bone.description>TODO</OE_Slime_Bone.description>
+  <!-- EN: mouth -->
+  <OE_Slime_Bone.tools.mouth.label>TODO</OE_Slime_Bone.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_Slime_Bone.tools.head.label>TODO</OE_Slime_Bone.tools.head.label>
+  
+  <!-- EN: chemfuel slime -->
+  <OE_Slime_Chemfuel.label>TODO</OE_Slime_Chemfuel.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nChemfuel slime production type, produces 125 Chemfuel every 5 days. -->
+  <OE_Slime_Chemfuel.description>TODO</OE_Slime_Chemfuel.description>
+  <!-- EN: mouth -->
+  <OE_Slime_Chemfuel.tools.mouth.label>TODO</OE_Slime_Chemfuel.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_Slime_Chemfuel.tools.head.label>TODO</OE_Slime_Chemfuel.tools.head.label>
+  
+  <!-- EN: fungus slime -->
+  <OE_Slime_Fungus.label>TODO</OE_Slime_Fungus.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nFungus slime production type, produces 35 Raw Fungus every 12 days. -->
+  <OE_Slime_Fungus.description>TODO</OE_Slime_Fungus.description>
+  <!-- EN: mouth -->
+  <OE_Slime_Fungus.tools.mouth.label>TODO</OE_Slime_Fungus.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_Slime_Fungus.tools.head.label>TODO</OE_Slime_Fungus.tools.head.label>
+  
+  <!-- EN: gold slime -->
+  <OE_Slime_Gold.label>TODO</OE_Slime_Gold.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nGold slime production type, produces 40 Gold every 18 days. -->
+  <OE_Slime_Gold.description>TODO</OE_Slime_Gold.description>
+  <!-- EN: mouth -->
+  <OE_Slime_Gold.tools.mouth.label>TODO</OE_Slime_Gold.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_Slime_Gold.tools.head.label>TODO</OE_Slime_Gold.tools.head.label>
+  
+  <!-- EN: hauler slime -->
+  <OE_Slime_Hauler.label>TODO</OE_Slime_Hauler.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nHauler slime pack type, with high intelligence and exceptional carrying capacity. -->
+  <OE_Slime_Hauler.description>TODO</OE_Slime_Hauler.description>
+  <!-- EN: mouth -->
+  <OE_Slime_Hauler.tools.mouth.label>TODO</OE_Slime_Hauler.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_Slime_Hauler.tools.head.label>TODO</OE_Slime_Hauler.tools.head.label>
+  
+  <!-- EN: herbal slime -->
+  <OE_Slime_Herbal.label>TODO</OE_Slime_Herbal.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nHerbal slime production type, produces 3 Herbal medicine every 12 days. -->
+  <OE_Slime_Herbal.description>TODO</OE_Slime_Herbal.description>
+  <!-- EN: mouth -->
+  <OE_Slime_Herbal.tools.mouth.label>TODO</OE_Slime_Herbal.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_Slime_Herbal.tools.head.label>TODO</OE_Slime_Herbal.tools.head.label>
+  
+  <!-- EN: jade slime -->
+  <OE_Slime_Jade.label>TODO</OE_Slime_Jade.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nJade slime production type, produces 30 Jade every 18 days. -->
+  <OE_Slime_Jade.description>TODO</OE_Slime_Jade.description>
+  <!-- EN: mouth -->
+  <OE_Slime_Jade.tools.mouth.label>TODO</OE_Slime_Jade.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_Slime_Jade.tools.head.label>TODO</OE_Slime_Jade.tools.head.label>
+  
+  <!-- EN: jelly slime -->
+  <OE_Slime_Jelly.label>TODO</OE_Slime_Jelly.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nJelly slime production type, produces 250 Insect Jelly every 5 days. -->
+  <OE_Slime_Jelly.description>TODO</OE_Slime_Jelly.description>
+  <!-- EN: mouth -->
+  <OE_Slime_Jelly.tools.mouth.label>TODO</OE_Slime_Jelly.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_Slime_Jelly.tools.head.label>TODO</OE_Slime_Jelly.tools.head.label>
+  
+  <!-- EN: jumy slime -->
+  <OE_Slime_Jumy.label>TODO</OE_Slime_Jumy.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nJumy slime production type, produces 15 Jumy Berries every 12 days. -->
+  <OE_Slime_Jumy.description>TODO</OE_Slime_Jumy.description>
+  <!-- EN: mouth -->
+  <OE_Slime_Jumy.tools.mouth.label>TODO</OE_Slime_Jumy.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_Slime_Jumy.tools.head.label>TODO</OE_Slime_Jumy.tools.head.label>
+  
+  <!-- EN: mythril slime -->
+  <OE_Slime_Mythril.label>TODO</OE_Slime_Mythril.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nMythril slime production type, produces 20 Mythril every 18 days. -->
+  <OE_Slime_Mythril.description>TODO</OE_Slime_Mythril.description>
+  <!-- EN: mouth -->
+  <OE_Slime_Mythril.tools.mouth.label>TODO</OE_Slime_Mythril.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_Slime_Mythril.tools.head.label>TODO</OE_Slime_Mythril.tools.head.label>
+  
+  <!-- EN: neutroamine slime -->
+  <OE_Slime_Neutroamine.label>TODO</OE_Slime_Neutroamine.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nNeutroamine slime production type, produces 5 Neutroamine every 5 days. -->
+  <OE_Slime_Neutroamine.description>TODO</OE_Slime_Neutroamine.description>
+  <!-- EN: mouth -->
+  <OE_Slime_Neutroamine.tools.mouth.label>TODO</OE_Slime_Neutroamine.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_Slime_Neutroamine.tools.head.label>TODO</OE_Slime_Neutroamine.tools.head.label>
+  
+  <!-- EN: obsidian slime -->
+  <OE_Slime_Obsidian.label>TODO</OE_Slime_Obsidian.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nObsidian slime production type, produces 30 Obsidian every 10 days. -->
+  <OE_Slime_Obsidian.description>TODO</OE_Slime_Obsidian.description>
+  <!-- EN: mouth -->
+  <OE_Slime_Obsidian.tools.mouth.label>TODO</OE_Slime_Obsidian.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_Slime_Obsidian.tools.head.label>TODO</OE_Slime_Obsidian.tools.head.label>
+  
+  <!-- EN: platinum slime -->
+  <OE_Slime_Platinum.label>TODO</OE_Slime_Platinum.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nPlatinum slime production type, produces 30 Platinum every 10 days. -->
+  <OE_Slime_Platinum.description>TODO</OE_Slime_Platinum.description>
+  <!-- EN: mouth -->
+  <OE_Slime_Platinum.tools.mouth.label>TODO</OE_Slime_Platinum.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_Slime_Platinum.tools.head.label>TODO</OE_Slime_Platinum.tools.head.label>
+  
+  <!-- EN: silver slime -->
+  <OE_Slime_Silver.label>TODO</OE_Slime_Silver.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nSilver slime production type, produces 100 Silver every 10 days. -->
+  <OE_Slime_Silver.description>TODO</OE_Slime_Silver.description>
+  <!-- EN: mouth -->
+  <OE_Slime_Silver.tools.mouth.label>TODO</OE_Slime_Silver.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_Slime_Silver.tools.head.label>TODO</OE_Slime_Silver.tools.head.label>
+  
+  <!-- EN: steel slime -->
+  <OE_Slime_Steel.label>TODO</OE_Slime_Steel.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nSteel slime production type, produces 150 Steel every 10 days. -->
+  <OE_Slime_Steel.description>TODO</OE_Slime_Steel.description>
+  <!-- EN: mouth -->
+  <OE_Slime_Steel.tools.mouth.label>TODO</OE_Slime_Steel.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_Slime_Steel.tools.head.label>TODO</OE_Slime_Steel.tools.head.label>
+  
+  <!-- EN: syntherius slime -->
+  <OE_Slime_Syntherius.label>TODO</OE_Slime_Syntherius.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nSyntherius slime production type, produces 3 Syntherius every 12 days. -->
+  <OE_Slime_Syntherius.description>TODO</OE_Slime_Syntherius.description>
+  <!-- EN: mouth -->
+  <OE_Slime_Syntherius.tools.mouth.label>TODO</OE_Slime_Syntherius.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_Slime_Syntherius.tools.head.label>TODO</OE_Slime_Syntherius.tools.head.label>
+  
+  <!-- EN: uranium slime -->
+  <OE_Slime_Uranium.label>TODO</OE_Slime_Uranium.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nUranium slime production type, produces 45 Uranium every 10 days. -->
+  <OE_Slime_Uranium.description>TODO</OE_Slime_Uranium.description>
+  <!-- EN: mouth -->
+  <OE_Slime_Uranium.tools.mouth.label>TODO</OE_Slime_Uranium.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_Slime_Uranium.tools.head.label>TODO</OE_Slime_Uranium.tools.head.label>
+  
+</LanguageData>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: call mercenary battalion -->
+  <OMG_Battalion_CallAid.label>TODO</OMG_Battalion_CallAid.label>
+  <!-- EN: Call a group of 18 Mercenary Enforcers to aid you in battle. -->
+  <OMG_Battalion_CallAid.description>TODO</OMG_Battalion_CallAid.description>
+  
+  <!-- EN: call mercenary orbital salvo -->
+  <OMG_CallOrbitalSalvo.label>TODO</OMG_CallOrbitalSalvo.label>
+  <!-- EN: Call a salvo of orbital strikes around a target position. -->
+  <OMG_CallOrbitalSalvo.description>TODO</OMG_CallOrbitalSalvo.description>
+  
+  <!-- EN: call mercenary duo -->
+  <OMG_Duo_CallAid.label>TODO</OMG_Duo_CallAid.label>
+  <!-- EN: Call a group of 2 Mercenary Enforcers to aid you in battle. -->
+  <OMG_Duo_CallAid.description>TODO</OMG_Duo_CallAid.description>
+  
+  <!-- EN: call mercenary platoon -->
+  <OMG_Platoon_CallAid.label>TODO</OMG_Platoon_CallAid.label>
+  <!-- EN: Call a group of 12 Mercenary Enforcers to aid you in battle. -->
+  <OMG_Platoon_CallAid.description>TODO</OMG_Platoon_CallAid.description>
+  
+  <!-- EN: call mercenary psy-duo -->
+  <OMG_PsyDuo_CallAid.label>TODO</OMG_PsyDuo_CallAid.label>
+  <!-- EN: Call a group of 2 Mercenary Battlemasters to aid you in battle. -->
+  <OMG_PsyDuo_CallAid.description>TODO</OMG_PsyDuo_CallAid.description>
+  
+  <!-- EN: call mercenary psy-squad -->
+  <OMG_PsySquad_CallAid.label>TODO</OMG_PsySquad_CallAid.label>
+  <!-- EN: Call a group of 4 Mercenary Battlemasters to aid you in battle. -->
+  <OMG_PsySquad_CallAid.description>TODO</OMG_PsySquad_CallAid.description>
+  
+  <!-- EN: call mercenary psy-team -->
+  <OMG_PsyTeam_CallAid.label>TODO</OMG_PsyTeam_CallAid.label>
+  <!-- EN: Call a group of 8 Mercenary Battlemasters to aid you in battle. -->
+  <OMG_PsyTeam_CallAid.description>TODO</OMG_PsyTeam_CallAid.description>
+  
+  <!-- EN: call mercenary squad -->
+  <OMG_Squad_CallAid.label>TODO</OMG_Squad_CallAid.label>
+  <!-- EN: Call a group of 4 Mercenary Enforcers to aid you in battle. -->
+  <OMG_Squad_CallAid.description>TODO</OMG_Squad_CallAid.description>
+  
+  <!-- EN: call mercenary team -->
+  <OMG_Team_CallAid.label>TODO</OMG_Team_CallAid.label>
+  <!-- EN: Call a group of 8 Mercenary Enforcers to aid you in battle. -->
+  <OMG_Team_CallAid.description>TODO</OMG_Team_CallAid.description>
+  
+  <!-- EN: trade with exotic goods trader -->
+  <OMG_TradeCaravan_Exotic.label>TODO</OMG_TradeCaravan_Exotic.label>
+  
+  <!-- EN: trade with goods trader -->
+  <OMG_TradeCaravan_Standard.label>TODO</OMG_TradeCaravan_Standard.label>
+  
+</LanguageData>

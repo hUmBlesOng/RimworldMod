@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: thorax -->
+  <OEArachnaThorax.label>TODO</OEArachnaThorax.label>
+  
+  <!-- EN: hood -->
+  <OEBruulHood.label>TODO</OEBruulHood.label>
+  
+  <!-- EN: hydrogen sac -->
+  <OEBruulHydrogenSac.label>TODO</OEBruulHydrogenSac.label>
+  
+  <!-- EN: tentacle -->
+  <OEBruulTentacle.label>TODO</OEBruulTentacle.label>
+  
+  <!-- EN: insect claw -->
+  <OEClaw.label>TODO</OEClaw.label>
+  <!-- EN: claw -->
+  <OEClaw.labelShort>TODO</OEClaw.labelShort>
+  
+  <!-- EN: sickle claw -->
+  <OEFootClaw.label>TODO</OEFootClaw.label>
+  <!-- EN: claw -->
+  <OEFootClaw.labelShort>TODO</OEFootClaw.labelShort>
+  
+  <!-- EN: stinger -->
+  <OEInsectSting.label>TODO</OEInsectSting.label>
+  
+  <!-- EN: tail -->
+  <OEInsectTail.label>TODO</OEInsectTail.label>
+  
+  <!-- EN: slime floater -->
+  <OESlimeFloater.label>TODO</OESlimeFloater.label>
+  
+  <!-- EN: slime gel -->
+  <OESlimeGel.label>TODO</OESlimeGel.label>
+  
+  <!-- EN: slime heart -->
+  <OESlimeHeart.label>TODO</OESlimeHeart.label>
+  
+  <!-- EN: slime mouth -->
+  <OESlimeMouth.label>TODO</OESlimeMouth.label>
+  
+  <!-- EN: shell -->
+  <OETionantShell.label>TODO</OETionantShell.label>
+  
+</LanguageData>

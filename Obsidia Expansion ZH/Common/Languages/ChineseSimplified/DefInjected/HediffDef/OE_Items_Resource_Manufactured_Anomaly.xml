@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: joltixin serum -->
+  <OE_JoltixinSerum.label>TODO</OE_JoltixinSerum.label>
+  <!-- EN: Joltixin Serum in the bloodstream. Boosts ranged combat stats. -->
+  <OE_JoltixinSerum.description>TODO</OE_JoltixinSerum.description>
+  
+  <!-- EN: torraxin serum -->
+  <OE_TorraxinSerum.label>TODO</OE_TorraxinSerum.label>
+  <!-- EN: Torraxin Serum in the bloodstream. Boosts melee combat stats. -->
+  <OE_TorraxinSerum.description>TODO</OE_TorraxinSerum.description>
+  
+</LanguageData>

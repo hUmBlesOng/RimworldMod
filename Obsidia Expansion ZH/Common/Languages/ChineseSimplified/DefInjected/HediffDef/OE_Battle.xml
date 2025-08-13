@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: joltixin addiction -->
+  <OE_JoltixinAddiction.label>TODO</OE_JoltixinAddiction.label>
+  <!-- EN: Because of an joltixin addiction, this person needs to regularly consume joltixin to avoid withdrawal symptoms. -->
+  <OE_JoltixinAddiction.description>TODO</OE_JoltixinAddiction.description>
+  <!-- EN: withdrawal -->
+  <OE_JoltixinAddiction.stages.withdrawal.label>TODO</OE_JoltixinAddiction.stages.withdrawal.label>
+  
+  <!-- EN: joltixin side effect -->
+  <OE_JoltixinAftereffect.label>TODO</OE_JoltixinAftereffect.label>
+  <!-- EN: Joltixin side effect. Affect about 12 hours. -->
+  <OE_JoltixinAftereffect.description>TODO</OE_JoltixinAftereffect.description>
+  
+  <!-- EN: joltixin boosted -->
+  <OE_JoltixinHigh.label>TODO</OE_JoltixinHigh.label>
+  <!-- EN: Joltixin in the bloodstream. Boosts ranged combat stats. Effect weakens over time. -->
+  <OE_JoltixinHigh.description>TODO</OE_JoltixinHigh.description>
+  <!-- EN: side effect kicking in -->
+  <OE_JoltixinHigh.stages.side_effect_kicking_in.label>TODO</OE_JoltixinHigh.stages.side_effect_kicking_in.label>
+  <!-- EN: first stage -->
+  <OE_JoltixinHigh.stages.first_stage.label>TODO</OE_JoltixinHigh.stages.first_stage.label>
+  <!-- EN: second stage -->
+  <OE_JoltixinHigh.stages.second_stage.label>TODO</OE_JoltixinHigh.stages.second_stage.label>
+  <!-- EN: third stage -->
+  <OE_JoltixinHigh.stages.third_stage.label>TODO</OE_JoltixinHigh.stages.third_stage.label>
+  
+  <!-- EN: torraxin addiction -->
+  <OE_TorraxinAddiction.label>TODO</OE_TorraxinAddiction.label>
+  <!-- EN: Because of an torraxin addiction, this person needs to regularly consume torraxin to avoid withdrawal symptoms. -->
+  <OE_TorraxinAddiction.description>TODO</OE_TorraxinAddiction.description>
+  <!-- EN: withdrawal -->
+  <OE_TorraxinAddiction.stages.withdrawal.label>TODO</OE_TorraxinAddiction.stages.withdrawal.label>
+  
+  <!-- EN: torraxin side effect -->
+  <OE_TorraxinAftereffect.label>TODO</OE_TorraxinAftereffect.label>
+  <!-- EN: Torraxin side effect. Affect about 12 hours. -->
+  <OE_TorraxinAftereffect.description>TODO</OE_TorraxinAftereffect.description>
+  
+  <!-- EN: torraxin boosted -->
+  <OE_TorraxinHigh.label>TODO</OE_TorraxinHigh.label>
+  <!-- EN: Torraxin in the bloodstream. Boosts melee combat stats. Effect weakens over time. -->
+  <OE_TorraxinHigh.description>TODO</OE_TorraxinHigh.description>
+  <!-- EN: side effect kicking in -->
+  <OE_TorraxinHigh.stages.side_effect_kicking_in.label>TODO</OE_TorraxinHigh.stages.side_effect_kicking_in.label>
+  <!-- EN: first stage -->
+  <OE_TorraxinHigh.stages.first_stage.label>TODO</OE_TorraxinHigh.stages.first_stage.label>
+  <!-- EN: second stage -->
+  <OE_TorraxinHigh.stages.second_stage.label>TODO</OE_TorraxinHigh.stages.second_stage.label>
+  <!-- EN: third stage -->
+  <OE_TorraxinHigh.stages.third_stage.label>TODO</OE_TorraxinHigh.stages.third_stage.label>
+  
+</LanguageData>

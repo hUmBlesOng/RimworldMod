@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arm implant - Demolisher -->
+  <OE_ImplantArm_Demolisher.label>TODO</OE_ImplantArm_Demolisher.label>
+  <!-- EN: Obsidia arm implant combat-oriented mechanical drill installing into arm. Designed for breaching. -->
+  <OE_ImplantArm_Demolisher.description>TODO</OE_ImplantArm_Demolisher.description>
+  
+  <!-- EN: arm implant - Duelist -->
+  <OE_ImplantArm_Duelist.label>TODO</OE_ImplantArm_Duelist.label>
+  <!-- EN: Obsidia arm implant combat-oriented mechanical fist installing into arm. Designed for stunning. -->
+  <OE_ImplantArm_Duelist.description>TODO</OE_ImplantArm_Duelist.description>
+  
+  <!-- EN: arm implant - Sting(Acid) -->
+  <OE_ImplantArm_Sting_Acid.label>TODO</OE_ImplantArm_Sting_Acid.label>
+  <!-- EN: Obsidia arm implant combat-oriented mechanical sting installing into arm. Charged with Acid damage. -->
+  <OE_ImplantArm_Sting_Acid.description>TODO</OE_ImplantArm_Sting_Acid.description>
+  
+  <!-- EN: arm implant - Sting(Cryo) -->
+  <OE_ImplantArm_Sting_Cryo.label>TODO</OE_ImplantArm_Sting_Cryo.label>
+  <!-- EN: Obsidia arm implant combat-oriented mechanical sting installing into arm. Charged with Cryo damage. -->
+  <OE_ImplantArm_Sting_Cryo.description>TODO</OE_ImplantArm_Sting_Cryo.description>
+  
+  <!-- EN: arm implant - Sting(EMP) -->
+  <OE_ImplantArm_Sting_EMP.label>TODO</OE_ImplantArm_Sting_EMP.label>
+  <!-- EN: Obsidia arm implant combat-oriented mechanical sting installing into arm. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
+  <OE_ImplantArm_Sting_EMP.description>TODO</OE_ImplantArm_Sting_EMP.description>
+  
+  <!-- EN: arm implant - Sting(Fire) -->
+  <OE_ImplantArm_Sting_Fire.label>TODO</OE_ImplantArm_Sting_Fire.label>
+  <!-- EN: Obsidia arm implant combat-oriented mechanical sting installing into arm. Charged with Fire damage. -->
+  <OE_ImplantArm_Sting_Fire.description>TODO</OE_ImplantArm_Sting_Fire.description>
+  
+  <!-- EN: hand implant - Agronomist -->
+  <OE_ImplantHand_Agronomist.label>TODO</OE_ImplantHand_Agronomist.label>
+  <!-- EN: Obsidia hand implant non-combat-oriented mechanical hand replacement for improvements animal and plant skills. -->
+  <OE_ImplantHand_Agronomist.description>TODO</OE_ImplantHand_Agronomist.description>
+  
+  <!-- EN: hand implant - Builder -->
+  <OE_ImplantHand_Builder.label>TODO</OE_ImplantHand_Builder.label>
+  <!-- EN: Obsidia hand implant non-combat-oriented mechanical hand replacement for improvements building and construction skills. -->
+  <OE_ImplantHand_Builder.description>TODO</OE_ImplantHand_Builder.description>
+  
+  <!-- EN: hand implant - Doctor -->
+  <OE_ImplantHand_Doctor.label>TODO</OE_ImplantHand_Doctor.label>
+  <!-- EN: Obsidia hand implant non-combat-oriented mechanical hand replacement for improvements medical and intellectual. -->
+  <OE_ImplantHand_Doctor.description>TODO</OE_ImplantHand_Doctor.description>
+  
+  <!-- EN: hand implant - Harvester -->
+  <OE_ImplantHand_Harvester.label>TODO</OE_ImplantHand_Harvester.label>
+  <!-- EN: Obsidia hand implant non-combat-oriented mechanical hand replacement for increase gather yield. -->
+  <OE_ImplantHand_Harvester.description>TODO</OE_ImplantHand_Harvester.description>
+  
+  <!-- EN: hand implant - Soldier -->
+  <OE_ImplantHand_Soldier.label>TODO</OE_ImplantHand_Soldier.label>
+  <!-- EN: Obsidia hand implant non-combat-oriented mechanical hand replacement for improvements melee and shooting skills. -->
+  <OE_ImplantHand_Soldier.description>TODO</OE_ImplantHand_Soldier.description>
+  
+  <!-- EN: leg implant - Ninja -->
+  <OE_ImplantLeg_Ninja.label>TODO</OE_ImplantLeg_Ninja.label>
+  <!-- EN: Obsidia leg implant non-combat-oriented mechanical leg replacement for improvements stealth abilities. -->
+  <OE_ImplantLeg_Ninja.description>TODO</OE_ImplantLeg_Ninja.description>
+  
+</LanguageData>

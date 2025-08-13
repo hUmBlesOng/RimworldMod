@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: obsidia ammo kit -->
+  <OE_AmmoKit.label>TODO</OE_AmmoKit.label>
+  <!-- EN: Universal set of ammo used in Obsidia weaponry. -->
+  <OE_AmmoKit.description>TODO</OE_AmmoKit.description>
+  
+  <!-- EN: cultist kit -->
+  <OE_CultistKit.label>TODO</OE_CultistKit.label>
+  <!-- EN: Universal set of strange resources and components from cultists gear. Can be used in cultist technologies. -->
+  <OE_CultistKit.description>TODO</OE_CultistKit.description>
+  
+  <!-- EN: Drifters modernization kit -->
+  <OE_DriftersKit.label>TODO</OE_DriftersKit.label>
+  <!-- EN: Universal set of components for upgrading Obsidia Drifters Clans gear from a simple to an modded version. -->
+  <OE_DriftersKit.description>TODO</OE_DriftersKit.description>
+  
+  <!-- EN: EGO amalgamation core -->
+  <OE_EGOAmalgamationCore.label>TODO</OE_EGOAmalgamationCore.label>
+  <!-- EN: Universal seed infused with advanced symbiotic properties. Can be used to create amalgam technologies. -->
+  <OE_EGOAmalgamationCore.description>TODO</OE_EGOAmalgamationCore.description>
+  
+  <!-- EN: heroic kit -->
+  <OE_HeroicKit.label>TODO</OE_HeroicKit.label>
+  <!-- EN: Universal set of rare resources and components from the heroic gear. Can be used to restore lost heroic technologies. -->
+  <OE_HeroicKit.description>TODO</OE_HeroicKit.description>
+  
+  <!-- EN: jumyline candies -->
+  <OE_Jumyline_Candies.label>TODO</OE_Jumyline_Candies.label>
+  <!-- EN: These small but very sweet candies are coocked from selected Jumy berries and delicious chocolate. -->
+  <OE_Jumyline_Candies.description>TODO</OE_Jumyline_Candies.description>
+  
+  <!-- EN: mercenaries modernization kit -->
+  <OE_MercenaryKit.label>TODO</OE_MercenaryKit.label>
+  <!-- EN: Universal set of highly modified components for building and upgrading Obsidia Mercenary Gangs gear. -->
+  <OE_MercenaryKit.description>TODO</OE_MercenaryKit.description>
+  
+  <!-- EN: modernization kit -->
+  <OE_ModernizationKit.label>TODO</OE_ModernizationKit.label>
+  <!-- EN: Universal set of components for upgrading Obsidia gear from a simple to an modded version. -->
+  <OE_ModernizationKit.description>TODO</OE_ModernizationKit.description>
+  
+</LanguageData>

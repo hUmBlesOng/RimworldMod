@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] representative of Obsidia spiritual circles. Dedicated their life to inner harmony, healing, and understanding the unseen. Gifted in speech and medicine. -->
+  <OE_Mindseeker.description>TODO</OE_Mindseeker.description>
+  <!-- EN: obsidia mindseeker -->
+  <OE_Mindseeker.title>TODO</OE_Mindseeker.title>
+  <!-- EN: mindseeker -->
+  <OE_Mindseeker.titleShort>TODO</OE_Mindseeker.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] representative of one of the ancient genera of Obsidia. Instead of participating in political clashes for power, chose the path of conquering new lands. Has excellent intellectual abilities and a sense of beauty. -->
+  <OE_Psy.description>TODO</OE_Psy.description>
+  <!-- EN: obsidia psycaster -->
+  <OE_Psy.title>TODO</OE_Psy.title>
+  <!-- EN: psycaster -->
+  <OE_Psy.titleShort>TODO</OE_Psy.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] underwent intensive combat and psi-training under the Obsidia Inquisition. Trained to inspire allies and eliminate enemies with righteous fury. Skilled in melee combat and social influence. -->
+  <OE_Soldier_MeleePsy.description>TODO</OE_Soldier_MeleePsy.description>
+  <!-- EN: obsidia warpriest -->
+  <OE_Soldier_MeleePsy.title>TODO</OE_Soldier_MeleePsy.title>
+  <!-- EN: warpriest -->
+  <OE_Soldier_MeleePsy.titleShort>TODO</OE_Soldier_MeleePsy.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] descendant of Obsidia nobility who chose the path of a psi-warrior. Completed specialized military training focused on precision and tactical superiority. Highly skilled in ranged combat and intellectual pursuits. -->
+  <OE_Soldier_RangedPsy.description>TODO</OE_Soldier_RangedPsy.description>
+  <!-- EN: obsidia reaver -->
+  <OE_Soldier_RangedPsy.title>TODO</OE_Soldier_RangedPsy.title>
+  <!-- EN: reaver -->
+  <OE_Soldier_RangedPsy.titleShort>TODO</OE_Soldier_RangedPsy.titleShort>
+  
+</LanguageData>

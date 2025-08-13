@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: camouflage -->
+  <OE_MechCamouflage.label>TODO</OE_MechCamouflage.label>
+  <!-- EN: Camouflage device grant the Dominator an ability to activate the inner stealth module which renders the user invisible. -->
+  <OE_MechCamouflage.description>TODO</OE_MechCamouflage.description>
+  
+  <!-- EN: shadow walk -->
+  <OE_MechLordCamouflage.label>TODO</OE_MechLordCamouflage.label>
+  <!-- EN: Camouflage device grant the Chaos Lord an ability to activate the inner stealth module which renders the user invisible. -->
+  <OE_MechLordCamouflage.description>TODO</OE_MechLordCamouflage.description>
+  
+</LanguageData>

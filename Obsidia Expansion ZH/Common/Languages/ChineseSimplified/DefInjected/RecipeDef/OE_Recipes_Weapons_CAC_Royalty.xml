@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Reset Persona Souleater -->
+  <OE_Reset_CAC_BigScythe_P.label>TODO</OE_Reset_CAC_BigScythe_P.label>
+  <!-- EN: Reset an Persona Souleater.\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_CAC_BigScythe_P.description>TODO</OE_Reset_CAC_BigScythe_P.description>
+  <!-- EN: Resetting a Persona Souleater. -->
+  <OE_Reset_CAC_BigScythe_P.jobString>TODO</OE_Reset_CAC_BigScythe_P.jobString>
+  
+  <!-- EN: Reset Persona Souldrinker -->
+  <OE_Reset_CAC_Scythe_P.label>TODO</OE_Reset_CAC_Scythe_P.label>
+  <!-- EN: Reset an Persona Souldrinker.\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_CAC_Scythe_P.description>TODO</OE_Reset_CAC_Scythe_P.description>
+  <!-- EN: Resetting a Persona Souldrinker. -->
+  <OE_Reset_CAC_Scythe_P.jobString>TODO</OE_Reset_CAC_Scythe_P.jobString>
+  
+  <!-- EN: Reset Persona Apathy -->
+  <OE_Reset_CAC_Thurible_P.label>TODO</OE_Reset_CAC_Thurible_P.label>
+  <!-- EN: Reset an Persona Apathy.\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_CAC_Thurible_P.description>TODO</OE_Reset_CAC_Thurible_P.description>
+  <!-- EN: Resetting a Persona Apathy. -->
+  <OE_Reset_CAC_Thurible_P.jobString>TODO</OE_Reset_CAC_Thurible_P.jobString>
+  
+</LanguageData>

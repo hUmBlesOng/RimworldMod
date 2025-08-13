@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: CAC Blackout Turret -->
+  <CAC_Turret_Big.label>TODO</CAC_Turret_Big.label>
+  <!-- EN: An automatic CAC Minigun-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <CAC_Turret_Big.description>TODO</CAC_Turret_Big.description>
+  <!-- EN: Fuel capacity -->
+  <CAC_Turret_Big.comps.CompRefuelable.fuelGizmoLabel>TODO</CAC_Turret_Big.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shoots until run out of charges -->
+  <CAC_Turret_Big.comps.CompRefuelable.fuelLabel>TODO</CAC_Turret_Big.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
+  <CAC_Turret_Big.comps.CompRefuelable.outOfFuelMessage>TODO</CAC_Turret_Big.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: CAC Widowmaker Turret -->
+  <CAC_Turret_Small.label>TODO</CAC_Turret_Small.label>
+  <!-- EN: An automatic CAC Sniper Rifle-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
+  <CAC_Turret_Small.description>TODO</CAC_Turret_Small.description>
+  <!-- EN: Fuel capacity -->
+  <CAC_Turret_Small.comps.CompRefuelable.fuelGizmoLabel>TODO</CAC_Turret_Small.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shoots until run out of charges -->
+  <CAC_Turret_Small.comps.CompRefuelable.fuelLabel>TODO</CAC_Turret_Small.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
+  <CAC_Turret_Small.comps.CompRefuelable.outOfFuelMessage>TODO</CAC_Turret_Small.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: CAC Widowmaker Powered Turret -->
+  <CAC_Turret_SmallPowered.label>TODO</CAC_Turret_SmallPowered.label>
+  <!-- EN: An automatic CAC Sniper Rifle-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire.\n\nThis turret has a built-in generator. -->
+  <CAC_Turret_SmallPowered.description>TODO</CAC_Turret_SmallPowered.description>
+  <!-- EN: Fuel capacity -->
+  <CAC_Turret_SmallPowered.comps.CompRefuelable.fuelGizmoLabel>TODO</CAC_Turret_SmallPowered.comps.CompRefuelable.fuelGizmoLabel>
+  <!-- EN: Shoots until run out of charges -->
+  <CAC_Turret_SmallPowered.comps.CompRefuelable.fuelLabel>TODO</CAC_Turret_SmallPowered.comps.CompRefuelable.fuelLabel>
+  <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
+  <CAC_Turret_SmallPowered.comps.CompRefuelable.outOfFuelMessage>TODO</CAC_Turret_SmallPowered.comps.CompRefuelable.outOfFuelMessage>
+  
+  <!-- EN: blackout turret bullet -->
+  <CAC_TurretBullet_Big.label>TODO</CAC_TurretBullet_Big.label>
+  
+  <!-- EN: widowmaker turret bullet -->
+  <CAC_TurretBullet_Small.label>TODO</CAC_TurretBullet_Small.label>
+  
+  <!-- EN: Blackout Turret -->
+  <CAC_TurretGun_Big.label>TODO</CAC_TurretGun_Big.label>
+  <!-- EN: Reconstructed CAC Minigun for turrets. Specially modified weapon with increased power. -->
+  <CAC_TurretGun_Big.description>TODO</CAC_TurretGun_Big.description>
+  <!-- EN: Blackout Turret -->
+  <CAC_TurretGun_Big.verbs.Verb_Shoot.label>TODO</CAC_TurretGun_Big.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Widowmaker Turret -->
+  <CAC_TurretGun_Small.label>TODO</CAC_TurretGun_Small.label>
+  <!-- EN: Reconstructed CAC Sniper Rifle for turrets. Specially modified weapon with increased power. -->
+  <CAC_TurretGun_Small.description>TODO</CAC_TurretGun_Small.description>
+  <!-- EN: Widowmaker Turret -->
+  <CAC_TurretGun_Small.verbs.Verb_Shoot.label>TODO</CAC_TurretGun_Small.verbs.Verb_Shoot.label>
+  
+</LanguageData>

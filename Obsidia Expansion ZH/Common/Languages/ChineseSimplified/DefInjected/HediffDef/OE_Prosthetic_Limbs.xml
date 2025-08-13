@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bionic arm -->
+  <OE_ProstheticArm.label>TODO</OE_ProstheticArm.label>
+  <!-- EN: An installed bionic arm. -->
+  <OE_ProstheticArm.description>TODO</OE_ProstheticArm.description>
+  <!-- EN: fist -->
+  <OE_ProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>TODO</OE_ProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a bionic arm -->
+  <OE_ProstheticArm.labelNoun>TODO</OE_ProstheticArm.labelNoun>
+  
+  <!-- EN: cultist bionic arm -->
+  <OE_ProstheticArm_CAC.label>TODO</OE_ProstheticArm_CAC.label>
+  <!-- EN: An installed cultist bionic arm. -->
+  <OE_ProstheticArm_CAC.description>TODO</OE_ProstheticArm_CAC.description>
+  <!-- EN: fist -->
+  <OE_ProstheticArm_CAC.comps.HediffComp_VerbGiver.tools.fist.label>TODO</OE_ProstheticArm_CAC.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a cultist bionic arm -->
+  <OE_ProstheticArm_CAC.labelNoun>TODO</OE_ProstheticArm_CAC.labelNoun>
+  
+  <!-- EN: advanced bionic arm -->
+  <OE_ProstheticArm_M.label>TODO</OE_ProstheticArm_M.label>
+  <!-- EN: An installed advanced bionic arm. -->
+  <OE_ProstheticArm_M.description>TODO</OE_ProstheticArm_M.description>
+  <!-- EN: fist -->
+  <OE_ProstheticArm_M.comps.HediffComp_VerbGiver.tools.fist.label>TODO</OE_ProstheticArm_M.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: an advanced bionic arm -->
+  <OE_ProstheticArm_M.labelNoun>TODO</OE_ProstheticArm_M.labelNoun>
+  
+  <!-- EN: heroic bionic arm -->
+  <OE_ProstheticArm_OES.label>TODO</OE_ProstheticArm_OES.label>
+  <!-- EN: An installed heroic bionic arm. -->
+  <OE_ProstheticArm_OES.description>TODO</OE_ProstheticArm_OES.description>
+  <!-- EN: fist -->
+  <OE_ProstheticArm_OES.comps.HediffComp_VerbGiver.tools.fist.label>TODO</OE_ProstheticArm_OES.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a heroic bionic arm -->
+  <OE_ProstheticArm_OES.labelNoun>TODO</OE_ProstheticArm_OES.labelNoun>
+  
+  <!-- EN: bionic leg -->
+  <OE_ProstheticLeg.label>TODO</OE_ProstheticLeg.label>
+  <!-- EN: An installed bionic leg. -->
+  <OE_ProstheticLeg.description>TODO</OE_ProstheticLeg.description>
+  <!-- EN: a bionic leg -->
+  <OE_ProstheticLeg.labelNoun>TODO</OE_ProstheticLeg.labelNoun>
+  
+  <!-- EN: cultist bionic leg -->
+  <OE_ProstheticLeg_CAC.label>TODO</OE_ProstheticLeg_CAC.label>
+  <!-- EN: An installed cultist bionic leg. -->
+  <OE_ProstheticLeg_CAC.description>TODO</OE_ProstheticLeg_CAC.description>
+  <!-- EN: a cultist bionic leg -->
+  <OE_ProstheticLeg_CAC.labelNoun>TODO</OE_ProstheticLeg_CAC.labelNoun>
+  
+  <!-- EN: advanced bionic leg -->
+  <OE_ProstheticLeg_M.label>TODO</OE_ProstheticLeg_M.label>
+  <!-- EN: An installed advanced bionic leg. -->
+  <OE_ProstheticLeg_M.description>TODO</OE_ProstheticLeg_M.description>
+  <!-- EN: an advanced bionic leg -->
+  <OE_ProstheticLeg_M.labelNoun>TODO</OE_ProstheticLeg_M.labelNoun>
+  
+  <!-- EN: heroic bionic leg -->
+  <OE_ProstheticLeg_OES.label>TODO</OE_ProstheticLeg_OES.label>
+  <!-- EN: An installed heroic bionic leg. -->
+  <OE_ProstheticLeg_OES.description>TODO</OE_ProstheticLeg_OES.description>
+  <!-- EN: a heroic bionic leg -->
+  <OE_ProstheticLeg_OES.labelNoun>TODO</OE_ProstheticLeg_OES.labelNoun>
+  
+</LanguageData>

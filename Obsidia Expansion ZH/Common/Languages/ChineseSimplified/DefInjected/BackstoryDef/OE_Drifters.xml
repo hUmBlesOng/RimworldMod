@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] previously led a nomadic lifestyle. Constantly moving acquired useful skills for life in temporary camps. -->
+  <OE_Drifter.description>TODO</OE_Drifter.description>
+  <!-- EN: obsidia drifter -->
+  <OE_Drifter.title>TODO</OE_Drifter.title>
+  <!-- EN: drifter -->
+  <OE_Drifter.titleShort>TODO</OE_Drifter.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] was cast out from an Obsidia enclave under unknown charges-real or fabricated. Survived in the wastes by any means necessary, becoming hard, quiet, and resourceful. -->
+  <OE_Exile.description>TODO</OE_Exile.description>
+  <!-- EN: obsidia exile -->
+  <OE_Exile.title>TODO</OE_Exile.title>
+  <!-- EN: exile -->
+  <OE_Exile.titleShort>TODO</OE_Exile.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] roamed ancient battlefields and collapsed vaults, extracting anything of value. Knows how to strip a ruin clean—but often speaks in fragments and sparks. -->
+  <OE_Salvager.description>TODO</OE_Salvager.description>
+  <!-- EN: obsidia salvager -->
+  <OE_Salvager.title>TODO</OE_Salvager.title>
+  <!-- EN: salvager -->
+  <OE_Salvager.titleShort>TODO</OE_Salvager.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] served as a long-range scout for a drifting clan, trained to survive alone and report back unseen. Fast, quiet, and observant—but not one for deep study. -->
+  <OE_Scout.description>TODO</OE_Scout.description>
+  <!-- EN: obsidia scout -->
+  <OE_Scout.title>TODO</OE_Scout.title>
+  <!-- EN: scout -->
+  <OE_Scout.titleShort>TODO</OE_Scout.titleShort>
+  
+</LanguageData>

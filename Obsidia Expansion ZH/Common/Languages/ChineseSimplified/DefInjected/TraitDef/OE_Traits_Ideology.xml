@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: netrunner -->
+  <OEIdeoHacking.degreeDatas.netrunner.label>TODO</OEIdeoHacking.degreeDatas.netrunner.label>
+  <!-- EN: {PAWN_nameDef} flows through firewalls and protocols like water—faster than most can blink. -->
+  <OEIdeoHacking.degreeDatas.netrunner.description>TODO</OEIdeoHacking.degreeDatas.netrunner.description>
+  <!-- EN: cyber tinker -->
+  <OEIdeoHacking.degreeDatas.cyber_tinker.label>TODO</OEIdeoHacking.degreeDatas.cyber_tinker.label>
+  <!-- EN: Curious and clever, {PAWN_nameDef} can pull systems apart and put them back better than before—most of the time. -->
+  <OEIdeoHacking.degreeDatas.cyber_tinker.description>TODO</OEIdeoHacking.degreeDatas.cyber_tinker.description>
+  <!-- EN: script kiddie -->
+  <OEIdeoHacking.degreeDatas.script_kiddie.label>TODO</OEIdeoHacking.degreeDatas.script_kiddie.label>
+  <!-- EN: {PAWN_nameDef} knows just enough to poke at systems—but lacks the chops to crack the real code. -->
+  <OEIdeoHacking.degreeDatas.script_kiddie.description>TODO</OEIdeoHacking.degreeDatas.script_kiddie.description>
+  <!-- EN: terminal hazard -->
+  <OEIdeoHacking.degreeDatas.terminal_hazard.label>TODO</OEIdeoHacking.degreeDatas.terminal_hazard.label>
+  <!-- EN: When {PAWN_nameDef} touches a console, it’s only a matter of time before something breaks—badly. -->
+  <OEIdeoHacking.degreeDatas.terminal_hazard.description>TODO</OEIdeoHacking.degreeDatas.terminal_hazard.description>
+  
+  <!-- EN: lawbringer -->
+  <OEIdeoPower.degreeDatas.lawbringer.label>TODO</OEIdeoPower.degreeDatas.lawbringer.label>
+  <!-- EN: With a gaze like a loaded rifle, {PAWN_nameDef} brings order to chaos—but the burden of justice weighs heavy. -->
+  <OEIdeoPower.degreeDatas.lawbringer.description>TODO</OEIdeoPower.degreeDatas.lawbringer.description>
+  <!-- EN: soft-spoken deputy -->
+  <OEIdeoPower.degreeDatas.softspoken_deputy.label>TODO</OEIdeoPower.degreeDatas.softspoken_deputy.label>
+  <!-- EN: {PAWN_nameDef} keeps the peace with a light touch, avoiding conflict—but lacks the grit to lay down the law. -->
+  <OEIdeoPower.degreeDatas.softspoken_deputy.description>TODO</OEIdeoPower.degreeDatas.softspoken_deputy.description>
+  
+  <!-- EN: ardent preacher -->
+  <OEIdeoSpread.degreeDatas.ardent_preacher.label>TODO</OEIdeoSpread.degreeDatas.ardent_preacher.label>
+  <!-- EN: {PAWN_nameDef} spreads beliefs with burning zeal—but sometimes burns too hot, even for {PAWN_pronoun}self. -->
+  <OEIdeoSpread.degreeDatas.ardent_preacher.description>TODO</OEIdeoSpread.degreeDatas.ardent_preacher.description>
+  <!-- EN: quiet soul -->
+  <OEIdeoSpread.degreeDatas.quiet_soul.label>TODO</OEIdeoSpread.degreeDatas.quiet_soul.label>
+  <!-- EN: Calm and steady, {PAWN_nameDef} rarely stirs conflict—but struggles to inspire deep conviction in others. -->
+  <OEIdeoSpread.degreeDatas.quiet_soul.description>TODO</OEIdeoSpread.degreeDatas.quiet_soul.description>
+  
+</LanguageData>

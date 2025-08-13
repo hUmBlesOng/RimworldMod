@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mutation - Colossus -->
+  <EGO_Mutation_Armor.label>TODO</EGO_Mutation_Armor.label>
+  <!-- EN: Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improve resistance to damage across the whole body.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
+  <EGO_Mutation_Armor.description>TODO</EGO_Mutation_Armor.description>
+  <!-- EN: Implant {0_label} -->
+  <EGO_Mutation_Armor.comps.CompUsableImplant.useLabel>TODO</EGO_Mutation_Armor.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: mutation - Demigod -->
+  <EGO_Mutation_Body.label>TODO</EGO_Mutation_Body.label>
+  <!-- EN: Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improvements body stats.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
+  <EGO_Mutation_Body.description>TODO</EGO_Mutation_Body.description>
+  <!-- EN: Implant {0_label} -->
+  <EGO_Mutation_Body.comps.CompUsableImplant.useLabel>TODO</EGO_Mutation_Body.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: mutation - Metabolism -->
+  <EGO_Mutation_Hunger.label>TODO</EGO_Mutation_Hunger.label>
+  <!-- EN: Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improve hunger rate.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
+  <EGO_Mutation_Hunger.description>TODO</EGO_Mutation_Hunger.description>
+  <!-- EN: Implant {0_label} -->
+  <EGO_Mutation_Hunger.comps.CompUsableImplant.useLabel>TODO</EGO_Mutation_Hunger.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: mutation - Berserker -->
+  <EGO_Mutation_Melee.label>TODO</EGO_Mutation_Melee.label>
+  <!-- EN: Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improvements melee skills.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
+  <EGO_Mutation_Melee.description>TODO</EGO_Mutation_Melee.description>
+  <!-- EN: Implant {0_label} -->
+  <EGO_Mutation_Melee.comps.CompUsableImplant.useLabel>TODO</EGO_Mutation_Melee.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: mutation - Ballista -->
+  <EGO_Mutation_Ranged.label>TODO</EGO_Mutation_Ranged.label>
+  <!-- EN: Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improvements shooting skills.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
+  <EGO_Mutation_Ranged.description>TODO</EGO_Mutation_Ranged.description>
+  <!-- EN: Implant {0_label} -->
+  <EGO_Mutation_Ranged.comps.CompUsableImplant.useLabel>TODO</EGO_Mutation_Ranged.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: mutation - Endurer -->
+  <EGO_Mutation_Temperature.label>TODO</EGO_Mutation_Temperature.label>
+  <!-- EN: Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improve adaptability to comfortable temperatures.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
+  <EGO_Mutation_Temperature.description>TODO</EGO_Mutation_Temperature.description>
+  <!-- EN: Implant {0_label} -->
+  <EGO_Mutation_Temperature.comps.CompUsableImplant.useLabel>TODO</EGO_Mutation_Temperature.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: mutation - Unshaken -->
+  <EGO_Mutation_Will.label>TODO</EGO_Mutation_Will.label>
+  <!-- EN: Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improve mental break threshold.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
+  <EGO_Mutation_Will.description>TODO</EGO_Mutation_Will.description>
+  <!-- EN: Implant {0_label} -->
+  <EGO_Mutation_Will.comps.CompUsableImplant.useLabel>TODO</EGO_Mutation_Will.comps.CompUsableImplant.useLabel>
+  
+  <!-- EN: mutation - Constructor -->
+  <EGO_Mutation_Worker.label>TODO</EGO_Mutation_Worker.label>
+  <!-- EN: Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improvements working skills.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
+  <EGO_Mutation_Worker.description>TODO</EGO_Mutation_Worker.description>
+  <!-- EN: Implant {0_label} -->
+  <EGO_Mutation_Worker.comps.CompUsableImplant.useLabel>TODO</EGO_Mutation_Worker.comps.CompUsableImplant.useLabel>
+  
+</LanguageData>

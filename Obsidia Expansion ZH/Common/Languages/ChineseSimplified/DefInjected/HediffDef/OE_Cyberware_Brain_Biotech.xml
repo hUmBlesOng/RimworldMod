@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cyberware AI - Mechanitor -->
+  <OE_CyberwareBrain_Mechanitor.label>TODO</OE_CyberwareBrain_Mechanitor.label>
+  <!-- EN: An installed cyberware AI - Mechanitor.\n\nThis cyberware can be installed up to 10 times to increase its effect. -->
+  <OE_CyberwareBrain_Mechanitor.description>TODO</OE_CyberwareBrain_Mechanitor.description>
+  <!-- EN: a cyberware AI - Mechanitor -->
+  <OE_CyberwareBrain_Mechanitor.labelNoun>TODO</OE_CyberwareBrain_Mechanitor.labelNoun>
+  
+</LanguageData>

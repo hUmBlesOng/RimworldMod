@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install ghoul body prosthetic - Crusader's Drive -->
+  <CAC_InstallGhoulProstheticChamber.label>TODO</CAC_InstallGhoulProstheticChamber.label>
+  <!-- EN: Install a ghoul body prosthetic - Crusader's Drive. -->
+  <CAC_InstallGhoulProstheticChamber.description>TODO</CAC_InstallGhoulProstheticChamber.description>
+  <!-- EN: Installing ghoul body prosthetic - Crusader's Drive. -->
+  <CAC_InstallGhoulProstheticChamber.jobString>TODO</CAC_InstallGhoulProstheticChamber.jobString>
+  
+  <!-- EN: install ghoul arm prosthetic - Crusader's Claws -->
+  <CAC_InstallGhoulProstheticClaws.label>TODO</CAC_InstallGhoulProstheticClaws.label>
+  <!-- EN: Install a ghoul arm prosthetic - Crusader's Claws. -->
+  <CAC_InstallGhoulProstheticClaws.description>TODO</CAC_InstallGhoulProstheticClaws.description>
+  <!-- EN: Installing ghoul arm prosthetic - Crusader's Claws. -->
+  <CAC_InstallGhoulProstheticClaws.jobString>TODO</CAC_InstallGhoulProstheticClaws.jobString>
+  
+  <!-- EN: install ghoul skull prosthetic - Crusader's Helmet -->
+  <CAC_InstallGhoulProstheticHelmet.label>TODO</CAC_InstallGhoulProstheticHelmet.label>
+  <!-- EN: Install a ghoul skull prosthetic - Crusader's Helmet. -->
+  <CAC_InstallGhoulProstheticHelmet.description>TODO</CAC_InstallGhoulProstheticHelmet.description>
+  <!-- EN: Installing ghoul skull prosthetic - Crusader's Helmet. -->
+  <CAC_InstallGhoulProstheticHelmet.jobString>TODO</CAC_InstallGhoulProstheticHelmet.jobString>
+  
+  <!-- EN: remove ghoul body prosthetic - Crusader's Drive -->
+  <CAC_RemoveGhoulProstheticChamber.label>TODO</CAC_RemoveGhoulProstheticChamber.label>
+  <!-- EN: Remove a ghoul body prosthetic - Crusader's Drive. -->
+  <CAC_RemoveGhoulProstheticChamber.description>TODO</CAC_RemoveGhoulProstheticChamber.description>
+  <!-- EN: Removing ghoul body prosthetic - Crusader's Drive. -->
+  <CAC_RemoveGhoulProstheticChamber.jobString>TODO</CAC_RemoveGhoulProstheticChamber.jobString>
+  
+  <!-- EN: remove ghoul arm prosthetic - Crusader's Claws -->
+  <CAC_RemoveGhoulProstheticClaws.label>TODO</CAC_RemoveGhoulProstheticClaws.label>
+  <!-- EN: Remove a ghoul arm prosthetic - Crusader's Claws. -->
+  <CAC_RemoveGhoulProstheticClaws.description>TODO</CAC_RemoveGhoulProstheticClaws.description>
+  <!-- EN: Removing ghoul arm prosthetic - Crusader's Claws. -->
+  <CAC_RemoveGhoulProstheticClaws.jobString>TODO</CAC_RemoveGhoulProstheticClaws.jobString>
+  
+  <!-- EN: remove ghoul skull prosthetic - Crusader's Helmet -->
+  <CAC_RemoveGhoulProstheticHelmet.label>TODO</CAC_RemoveGhoulProstheticHelmet.label>
+  <!-- EN: Remove a ghoul skull prosthetic - Crusader's Helmet. -->
+  <CAC_RemoveGhoulProstheticHelmet.description>TODO</CAC_RemoveGhoulProstheticHelmet.description>
+  <!-- EN: Removing ghoul skull prosthetic - Crusader's Helmet. -->
+  <CAC_RemoveGhoulProstheticHelmet.jobString>TODO</CAC_RemoveGhoulProstheticHelmet.jobString>
+  
+  <!-- EN: install ghoul skeleton implant - Scarab -->
+  <OE_InstallGhoulImplantSkeleton.label>TODO</OE_InstallGhoulImplantSkeleton.label>
+  <!-- EN: Install a ghoul skeleton implant - Scarab. -->
+  <OE_InstallGhoulImplantSkeleton.description>TODO</OE_InstallGhoulImplantSkeleton.description>
+  <!-- EN: Installing ghoul skeleton implant - Scarab. -->
+  <OE_InstallGhoulImplantSkeleton.jobString>TODO</OE_InstallGhoulImplantSkeleton.jobString>
+  
+  <!-- EN: install ghoul skin implant - Carapace -->
+  <OE_InstallGhoulImplantSkin.label>TODO</OE_InstallGhoulImplantSkin.label>
+  <!-- EN: Install a ghoul skin implant - Carapace. -->
+  <OE_InstallGhoulImplantSkin.description>TODO</OE_InstallGhoulImplantSkin.description>
+  <!-- EN: Installing ghoul skin implant - Carapace. -->
+  <OE_InstallGhoulImplantSkin.jobString>TODO</OE_InstallGhoulImplantSkin.jobString>
+  
+  <!-- EN: install ghoul stomach implant - Larva -->
+  <OE_InstallGhoulImplantStomach.label>TODO</OE_InstallGhoulImplantStomach.label>
+  <!-- EN: Install a ghoul stomach implant - Larva. -->
+  <OE_InstallGhoulImplantStomach.description>TODO</OE_InstallGhoulImplantStomach.description>
+  <!-- EN: Installing ghoul stomach implant - Larva. -->
+  <OE_InstallGhoulImplantStomach.jobString>TODO</OE_InstallGhoulImplantStomach.jobString>
+  
+  <!-- EN: remove ghoul skeleton implant - Scarab -->
+  <OE_RemoveGhoulImplantSkeleton.label>TODO</OE_RemoveGhoulImplantSkeleton.label>
+  <!-- EN: Remove a ghoul skeleton implant - Scarab. -->
+  <OE_RemoveGhoulImplantSkeleton.description>TODO</OE_RemoveGhoulImplantSkeleton.description>
+  <!-- EN: Removing ghoul skeleton implant - Scarab. -->
+  <OE_RemoveGhoulImplantSkeleton.jobString>TODO</OE_RemoveGhoulImplantSkeleton.jobString>
+  
+  <!-- EN: remove ghoul skin implant - Carapace -->
+  <OE_RemoveGhoulImplantSkin.label>TODO</OE_RemoveGhoulImplantSkin.label>
+  <!-- EN: Remove a ghoul skin implant - Carapace. -->
+  <OE_RemoveGhoulImplantSkin.description>TODO</OE_RemoveGhoulImplantSkin.description>
+  <!-- EN: Removing ghoul skin implant - Carapace. -->
+  <OE_RemoveGhoulImplantSkin.jobString>TODO</OE_RemoveGhoulImplantSkin.jobString>
+  
+  <!-- EN: remove ghoul stomach implant - Larva -->
+  <OE_RemoveGhoulImplantStomach.label>TODO</OE_RemoveGhoulImplantStomach.label>
+  <!-- EN: Remove a ghoul stomach implant - Larva. -->
+  <OE_RemoveGhoulImplantStomach.description>TODO</OE_RemoveGhoulImplantStomach.description>
+  <!-- EN: Removing ghoul stomach implant - Larva. -->
+  <OE_RemoveGhoulImplantStomach.jobString>TODO</OE_RemoveGhoulImplantStomach.jobString>
+  
+</LanguageData>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install - Champion Power Stone -->
+  <OE_InstallPowerStone_Champion.label>TODO</OE_InstallPowerStone_Champion.label>
+  <!-- EN: Install - Champion Power Stone. -->
+  <OE_InstallPowerStone_Champion.description>TODO</OE_InstallPowerStone_Champion.description>
+  <!-- EN: Installing - Champion Power Stone. -->
+  <OE_InstallPowerStone_Champion.jobString>TODO</OE_InstallPowerStone_Champion.jobString>
+  
+  <!-- EN: install - Evolution Power Stone -->
+  <OE_InstallPowerStone_Evolution.label>TODO</OE_InstallPowerStone_Evolution.label>
+  <!-- EN: Install - Evolution Power Stone. -->
+  <OE_InstallPowerStone_Evolution.description>TODO</OE_InstallPowerStone_Evolution.description>
+  <!-- EN: Installing - Evolution Power Stone. -->
+  <OE_InstallPowerStone_Evolution.jobString>TODO</OE_InstallPowerStone_Evolution.jobString>
+  
+  <!-- EN: install - Operator Power Stone -->
+  <OE_InstallPowerStone_Operator.label>TODO</OE_InstallPowerStone_Operator.label>
+  <!-- EN: Install - Operator Power Stone. -->
+  <OE_InstallPowerStone_Operator.description>TODO</OE_InstallPowerStone_Operator.description>
+  <!-- EN: Installing - Operator Power Stone. -->
+  <OE_InstallPowerStone_Operator.jobString>TODO</OE_InstallPowerStone_Operator.jobString>
+  
+  <!-- EN: install - Outrider Power Stone -->
+  <OE_InstallPowerStone_Outrider.label>TODO</OE_InstallPowerStone_Outrider.label>
+  <!-- EN: Install - Outrider Power Stone. -->
+  <OE_InstallPowerStone_Outrider.description>TODO</OE_InstallPowerStone_Outrider.description>
+  <!-- EN: Installing - Outrider Power Stone. -->
+  <OE_InstallPowerStone_Outrider.jobString>TODO</OE_InstallPowerStone_Outrider.jobString>
+  
+  <!-- EN: remove - Champion Power Stone -->
+  <OE_RemovePowerStone_Champion.label>TODO</OE_RemovePowerStone_Champion.label>
+  <!-- EN: Remove - Champion Power Stone. -->
+  <OE_RemovePowerStone_Champion.description>TODO</OE_RemovePowerStone_Champion.description>
+  <!-- EN: Removing - Champion Power Stone. -->
+  <OE_RemovePowerStone_Champion.jobString>TODO</OE_RemovePowerStone_Champion.jobString>
+  
+  <!-- EN: remove - Evolution Power Stone -->
+  <OE_RemovePowerStone_Evolution.label>TODO</OE_RemovePowerStone_Evolution.label>
+  <!-- EN: Remove - Evolution Power Stone. -->
+  <OE_RemovePowerStone_Evolution.description>TODO</OE_RemovePowerStone_Evolution.description>
+  <!-- EN: Removing - Evolution Power Stone. -->
+  <OE_RemovePowerStone_Evolution.jobString>TODO</OE_RemovePowerStone_Evolution.jobString>
+  
+  <!-- EN: remove - Operator Power Stone -->
+  <OE_RemovePowerStone_Operator.label>TODO</OE_RemovePowerStone_Operator.label>
+  <!-- EN: Remove - Operator Power Stone. -->
+  <OE_RemovePowerStone_Operator.description>TODO</OE_RemovePowerStone_Operator.description>
+  <!-- EN: Removing - Operator Power Stone. -->
+  <OE_RemovePowerStone_Operator.jobString>TODO</OE_RemovePowerStone_Operator.jobString>
+  
+  <!-- EN: remove - Outrider Power Stone -->
+  <OE_RemovePowerStone_Outrider.label>TODO</OE_RemovePowerStone_Outrider.label>
+  <!-- EN: Remove - Outrider Power Stone. -->
+  <OE_RemovePowerStone_Outrider.description>TODO</OE_RemovePowerStone_Outrider.description>
+  <!-- EN: Removing - Outrider Power Stone. -->
+  <OE_RemovePowerStone_Outrider.jobString>TODO</OE_RemovePowerStone_Outrider.jobString>
+  
+</LanguageData>

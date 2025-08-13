@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Obsidia Mercenary Gangs -->
+  <ObsidiaMercenaryGangs.label>TODO</ObsidiaMercenaryGangs.label>
+  <!-- EN: The Obsidia Mercenary Gangs were once the elite force of the Obsidia Empire Heroes. Forsaking vengeance, they splintered into gangs, embracing the life of mercenaries far from the heart of Obsidia. Centuries later, their influence can no longer be ignored, even by the Empire that discarded them. They employ any means necessary—technological, tactical, or raw power—to serve their trusted clientele, securing their place among the galaxy’s most feared and reliable soldiers of fortune. -->
+  <ObsidiaMercenaryGangs.description>TODO</ObsidiaMercenaryGangs.description>
+  <!-- EN: kingpin -->
+  <ObsidiaMercenaryGangs.leaderTitle>TODO</ObsidiaMercenaryGangs.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <ObsidiaMercenaryGangs.messageDefendersAttacking>TODO</ObsidiaMercenaryGangs.messageDefendersAttacking>
+  <!-- EN: mercenary -->
+  <ObsidiaMercenaryGangs.pawnSingular>TODO</ObsidiaMercenaryGangs.pawnSingular>
+  <!-- EN: mercenaries -->
+  <ObsidiaMercenaryGangs.pawnsPlural>TODO</ObsidiaMercenaryGangs.pawnsPlural>
+  <!-- EN: chips -->
+  <ObsidiaMercenaryGangs.royalFavorLabel>TODO</ObsidiaMercenaryGangs.royalFavorLabel>
+  
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Persona bond Black Prince Sword -->
+  <OE_Bond_OE_Trophy_BrokenSword.label>TODO</OE_Bond_OE_Trophy_BrokenSword.label>
+  <!-- EN: Persona bond a Black Prince Sword. -->
+  <OE_Bond_OE_Trophy_BrokenSword.description>TODO</OE_Bond_OE_Trophy_BrokenSword.description>
+  <!-- EN: Persona bonding a Black Prince Sword. -->
+  <OE_Bond_OE_Trophy_BrokenSword.jobString>TODO</OE_Bond_OE_Trophy_BrokenSword.jobString>
+  
+  <!-- EN: Persona bond Lloyd's Shovel -->
+  <OE_Bond_OE_Trophy_Shovel.label>TODO</OE_Bond_OE_Trophy_Shovel.label>
+  <!-- EN: Persona bond a Lloyd's Shovel. -->
+  <OE_Bond_OE_Trophy_Shovel.description>TODO</OE_Bond_OE_Trophy_Shovel.description>
+  <!-- EN: Persona bonding a Lloyd's Shovel. -->
+  <OE_Bond_OE_Trophy_Shovel.jobString>TODO</OE_Bond_OE_Trophy_Shovel.jobString>
+  
+  <!-- EN: Reset Persona Black Prince Sword -->
+  <OE_Reset_OE_Trophy_BrokenSword_P.label>TODO</OE_Reset_OE_Trophy_BrokenSword_P.label>
+  <!-- EN: Reset a Persona Black Prince Sword.\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_OE_Trophy_BrokenSword_P.description>TODO</OE_Reset_OE_Trophy_BrokenSword_P.description>
+  <!-- EN: Resetting a Persona Black Prince Sword. -->
+  <OE_Reset_OE_Trophy_BrokenSword_P.jobString>TODO</OE_Reset_OE_Trophy_BrokenSword_P.jobString>
+  
+  <!-- EN: Reset Persona Lloyd's Shovel -->
+  <OE_Reset_OE_Trophy_Shovel_P.label>TODO</OE_Reset_OE_Trophy_Shovel_P.label>
+  <!-- EN: Reset a Persona Lloyd's Shovel.\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_OE_Trophy_Shovel_P.description>TODO</OE_Reset_OE_Trophy_Shovel_P.description>
+  <!-- EN: Resetting a Persona Lloyd's Shovel. -->
+  <OE_Reset_OE_Trophy_Shovel_P.jobString>TODO</OE_Reset_OE_Trophy_Shovel_P.jobString>
+  
+</LanguageData>

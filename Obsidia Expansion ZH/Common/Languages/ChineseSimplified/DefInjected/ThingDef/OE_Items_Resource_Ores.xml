@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: empyrium -->
+  <OE_Empyrium.label>TODO</OE_Empyrium.label>
+  <!-- EN: Synthesized metal based on Obsidian using Platinum. This metal is incredibly strong but difficult to build. -->
+  <OE_Empyrium.description>TODO</OE_Empyrium.description>
+  
+  <!-- EN: mythril -->
+  <OE_Mythril.label>TODO</OE_Mythril.label>
+  <!-- EN: The most beautiful metal of them all. Just look at this precious... -->
+  <OE_Mythril.description>TODO</OE_Mythril.description>
+  
+  <!-- EN: obsidian -->
+  <OE_Obsidian.label>TODO</OE_Obsidian.label>
+  <!-- EN: Most rare material. Obsidian is extremely strong due to its unique molecular structure. -->
+  <OE_Obsidian.description>TODO</OE_Obsidian.description>
+  
+  <!-- EN: orichalcum -->
+  <OE_Orichalcum.label>TODO</OE_Orichalcum.label>
+  <!-- EN: Synthesized metal based on Mythril using Platinum. This metal is incredibly beautiful but difficult to build. -->
+  <OE_Orichalcum.description>TODO</OE_Orichalcum.description>
+  
+  <!-- EN: platinum -->
+  <OE_Platinum.label>TODO</OE_Platinum.label>
+  <!-- EN: Beautiful and strong metal used for building of structures, weapons, and machines. -->
+  <OE_Platinum.description>TODO</OE_Platinum.description>
+  
+</LanguageData>

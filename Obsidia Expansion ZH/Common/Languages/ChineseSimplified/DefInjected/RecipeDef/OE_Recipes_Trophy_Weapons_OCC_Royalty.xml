@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Persona bond Balor -->
+  <OE_Bond_OCC_Trophy_Drillspear.label>TODO</OE_Bond_OCC_Trophy_Drillspear.label>
+  <!-- EN: Persona bond a Balor. -->
+  <OE_Bond_OCC_Trophy_Drillspear.description>TODO</OE_Bond_OCC_Trophy_Drillspear.description>
+  <!-- EN: Persona bonding a Balor. -->
+  <OE_Bond_OCC_Trophy_Drillspear.jobString>TODO</OE_Bond_OCC_Trophy_Drillspear.jobString>
+  
+  <!-- EN: Reset Inlaid Balor -->
+  <OE_Reset_OCC_Trophy_Drillspear_I.label>TODO</OE_Reset_OCC_Trophy_Drillspear_I.label>
+  <!-- EN: Reset a Inlaid Balor.\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_OCC_Trophy_Drillspear_I.description>TODO</OE_Reset_OCC_Trophy_Drillspear_I.description>
+  <!-- EN: Resetting a Inlaid Balor. -->
+  <OE_Reset_OCC_Trophy_Drillspear_I.jobString>TODO</OE_Reset_OCC_Trophy_Drillspear_I.jobString>
+  
+  <!-- EN: Reset Persona Balor -->
+  <OE_Reset_OCC_Trophy_Drillspear_P.label>TODO</OE_Reset_OCC_Trophy_Drillspear_P.label>
+  <!-- EN: Reset a Persona Balor.\n\nWarning! Item Quality and Persona traits will be changed. -->
+  <OE_Reset_OCC_Trophy_Drillspear_P.description>TODO</OE_Reset_OCC_Trophy_Drillspear_P.description>
+  <!-- EN: Resetting a Persona Balor. -->
+  <OE_Reset_OCC_Trophy_Drillspear_P.jobString>TODO</OE_Reset_OCC_Trophy_Drillspear_P.jobString>
+  
+</LanguageData>

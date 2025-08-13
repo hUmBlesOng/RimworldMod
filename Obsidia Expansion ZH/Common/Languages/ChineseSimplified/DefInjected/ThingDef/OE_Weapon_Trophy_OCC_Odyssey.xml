@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Paragon Cronus -->
+  <OCC_Trophy_Railgun_P.label>TODO</OCC_Trophy_Railgun_P.label>
+  <!-- EN: Sample weapon of new experimental paragon railgun.\n\nThis is a rare trophy weapon.\n\nFeature: ultra-fast explosive projectiles. -->
+  <OCC_Trophy_Railgun_P.description>TODO</OCC_Trophy_Railgun_P.description>
+  <!-- EN: charge -->
+  <OCC_Trophy_Railgun_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OCC_Trophy_Railgun_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OCC_Trophy_Railgun_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OCC_Trophy_Railgun_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Cronus -->
+  <OCC_Trophy_Railgun_P.comps.CompUniqueWeapon.namerLabels.0>TODO</OCC_Trophy_Railgun_P.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: stock -->
+  <OCC_Trophy_Railgun_P.tools.stock.label>TODO</OCC_Trophy_Railgun_P.tools.stock.label>
+  <!-- EN: barrel -->
+  <OCC_Trophy_Railgun_P.tools.barrel.label>TODO</OCC_Trophy_Railgun_P.tools.barrel.label>
+  <!-- EN: Paragon Cronus -->
+  <OCC_Trophy_Railgun_P.verbs.Verb_Shoot.label>TODO</OCC_Trophy_Railgun_P.verbs.Verb_Shoot.label>
+  
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install - Techmaster Power Stone -->
+  <OE_InstallPowerStone_Techmaster.label>TODO</OE_InstallPowerStone_Techmaster.label>
+  <!-- EN: Install - Techmaster Power Stone. -->
+  <OE_InstallPowerStone_Techmaster.description>TODO</OE_InstallPowerStone_Techmaster.description>
+  <!-- EN: Installing - Techmaster Power Stone. -->
+  <OE_InstallPowerStone_Techmaster.jobString>TODO</OE_InstallPowerStone_Techmaster.jobString>
+  
+  <!-- EN: remove - Techmaster Power Stone -->
+  <OE_RemovePowerStone_Techmaster.label>TODO</OE_RemovePowerStone_Techmaster.label>
+  <!-- EN: Remove - Techmaster Power Stone. -->
+  <OE_RemovePowerStone_Techmaster.description>TODO</OE_RemovePowerStone_Techmaster.description>
+  <!-- EN: Removing - Techmaster Power Stone. -->
+  <OE_RemovePowerStone_Techmaster.jobString>TODO</OE_RemovePowerStone_Techmaster.jobString>
+  
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Obsidia Empire -->
+  <ObsidiaEmpire.label>TODO</ObsidiaEmpire.label>
+  <!-- EN: An ultratech colonists society from Obsidia planet, organized along military lines. They lived for thousands of years in their home solar system, researching and using the rarest materials in their technologies. But having reached a peak in researchment, it was time for them to leave their homeworld and begin a galactic expansion!\n\nThey also reject the rest of the factions, and in order to open trade, you must first gain their trust. -->
+  <ObsidiaEmpire.description>TODO</ObsidiaEmpire.description>
+  <!-- EN: consul -->
+  <ObsidiaEmpire.leaderTitle>TODO</ObsidiaEmpire.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <ObsidiaEmpire.messageDefendersAttacking>TODO</ObsidiaEmpire.messageDefendersAttacking>
+  <!-- EN: obsidian -->
+  <ObsidiaEmpire.pawnSingular>TODO</ObsidiaEmpire.pawnSingular>
+  <!-- EN: obsidians -->
+  <ObsidiaEmpire.pawnsPlural>TODO</ObsidiaEmpire.pawnsPlural>
+  <!-- EN: dominance -->
+  <ObsidiaEmpire.royalFavorLabel>TODO</ObsidiaEmpire.royalFavorLabel>
+  
+</LanguageData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: heart implant - Healing -->
+  <OE_ImplantHeart_Healing.label>TODO</OE_ImplantHeart_Healing.label>
+  <!-- EN: An installed heart implant - Healing. -->
+  <OE_ImplantHeart_Healing.description>TODO</OE_ImplantHeart_Healing.description>
+  <!-- EN: a heart implant - Healing -->
+  <OE_ImplantHeart_Healing.labelNoun>TODO</OE_ImplantHeart_Healing.labelNoun>
+  
+  <!-- EN: kidney implant - Coagulator -->
+  <OE_ImplantKidney_Coagulator.label>TODO</OE_ImplantKidney_Coagulator.label>
+  <!-- EN: An installed kidney implant - Coagulator. -->
+  <OE_ImplantKidney_Coagulator.description>TODO</OE_ImplantKidney_Coagulator.description>
+  <!-- EN: a kidney implant - Coagulator -->
+  <OE_ImplantKidney_Coagulator.labelNoun>TODO</OE_ImplantKidney_Coagulator.labelNoun>
+  
+  <!-- EN: liver implant - Immune assistant -->
+  <OE_ImplantLiver_Antibiotic.label>TODO</OE_ImplantLiver_Antibiotic.label>
+  <!-- EN: An installed liver implant - Immune assistant. -->
+  <OE_ImplantLiver_Antibiotic.description>TODO</OE_ImplantLiver_Antibiotic.description>
+  <!-- EN: a liver implant - Immune assistant -->
+  <OE_ImplantLiver_Antibiotic.labelNoun>TODO</OE_ImplantLiver_Antibiotic.labelNoun>
+  
+  <!-- EN: lung implant - Antitox-filter -->
+  <OE_ImplantLung_Filtration.label>TODO</OE_ImplantLung_Filtration.label>
+  <!-- EN: An installed lung implant - Antitox-filter. -->
+  <OE_ImplantLung_Filtration.description>TODO</OE_ImplantLung_Filtration.description>
+  <!-- EN: a lung implant - Antitox-filter -->
+  <OE_ImplantLung_Filtration.labelNoun>TODO</OE_ImplantLung_Filtration.labelNoun>
+  
+  <!-- EN: stomach implant - Traveler -->
+  <OE_ImplantStomach_Traveler.label>TODO</OE_ImplantStomach_Traveler.label>
+  <!-- EN: An installed stomach implant - Traveler. -->
+  <OE_ImplantStomach_Traveler.description>TODO</OE_ImplantStomach_Traveler.description>
+  <!-- EN: a stomach implant - Traveler -->
+  <OE_ImplantStomach_Traveler.labelNoun>TODO</OE_ImplantStomach_Traveler.labelNoun>
+  
+</LanguageData>

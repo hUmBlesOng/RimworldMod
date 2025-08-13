@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: OMG swarmling pack capsule -->
+  <Grenade_Armor_OMG_SwarmlingPack.label>TODO</Grenade_Armor_OMG_SwarmlingPack.label>
+  
+  <!-- EN: Mercenary Armor(Swarmling) -->
+  <OMG_Armor_Swarmling.label>TODO</OMG_Armor_Swarmling.label>
+  <!-- EN: Highly modified heavy power armor, excellent protects the owner. Designed for use by Mercenaries.\n\nThis modification with the pack that allows the user to deploy a battery-powered drones and deprives item's quality levels. -->
+  <OMG_Armor_Swarmling.description>TODO</OMG_Armor_Swarmling.description>
+  <!-- EN: incendiary -->
+  <OMG_Armor_Swarmling.comps.CompApparelReloadable.chargeNoun>TODO</OMG_Armor_Swarmling.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OMG_Armor_Swarmling.comps.CompApparelReloadable.cooldownGerund>TODO</OMG_Armor_Swarmling.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: deploy swarmling drone -->
+  <OMG_Armor_Swarmling.verbs.deploy_swarmling_drone.label>TODO</OMG_Armor_Swarmling.verbs.deploy_swarmling_drone.label>
+  
+  <!-- EN: Mercenary Swarmling Drone -->
+  <OMG_Swarmling_Drone.label>TODO</OMG_Swarmling_Drone.label>
+  <!-- EN: Mercenary Swarmling Drone - small autonomous mechanoid built for efficient elimination. Swarmling Drones are powered by a long-lasting battery. -->
+  <OMG_Swarmling_Drone.description>TODO</OMG_Swarmling_Drone.description>
+  <!-- EN: stinger -->
+  <OMG_Swarmling_Drone.tools.stinger.label>TODO</OMG_Swarmling_Drone.tools.stinger.label>
+  
+</LanguageData>

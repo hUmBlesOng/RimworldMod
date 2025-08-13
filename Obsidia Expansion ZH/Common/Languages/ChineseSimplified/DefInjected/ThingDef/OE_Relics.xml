@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: obsidia empire banner -->
+  <OE_RelicBannerA.label>TODO</OE_RelicBannerA.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <OE_RelicBannerA.description>TODO</OE_RelicBannerA.description>
+  
+  <!-- EN: obsidia drifter clans banner -->
+  <OE_RelicBannerB.label>TODO</OE_RelicBannerB.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <OE_RelicBannerB.description>TODO</OE_RelicBannerB.description>
+  
+  <!-- EN: crimson arachna cult banner -->
+  <OE_RelicBannerC.label>TODO</OE_RelicBannerC.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <OE_RelicBannerC.description>TODO</OE_RelicBannerC.description>
+  
+  <!-- EN: obsidia empire heroes banner -->
+  <OE_RelicBannerD.label>TODO</OE_RelicBannerD.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <OE_RelicBannerD.description>TODO</OE_RelicBannerD.description>
+  
+  <!-- EN: ancient obsidia blade -->
+  <OE_RelicBlade.label>TODO</OE_RelicBlade.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <OE_RelicBlade.description>TODO</OE_RelicBlade.description>
+  
+  <!-- EN: ancient dragon skull -->
+  <OE_RelicDragonSkull.label>TODO</OE_RelicDragonSkull.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <OE_RelicDragonSkull.description>TODO</OE_RelicDragonSkull.description>
+  
+  <!-- EN: crystal star -->
+  <OE_RelicStar.label>TODO</OE_RelicStar.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <OE_RelicStar.description>TODO</OE_RelicStar.description>
+  
+</LanguageData>

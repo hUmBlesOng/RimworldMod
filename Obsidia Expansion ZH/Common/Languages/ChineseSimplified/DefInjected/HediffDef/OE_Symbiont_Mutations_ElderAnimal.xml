@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mutation - Elder Direwolf -->
+  <EGO_Mutation_Elder_Direwolf.label>TODO</EGO_Mutation_Elder_Direwolf.label>
+  <!-- EN: An implanted mutation - Elder Direwolf.\n\nThis mutation can be implanted up to 5 times to increase its effect. -->
+  <EGO_Mutation_Elder_Direwolf.description>TODO</EGO_Mutation_Elder_Direwolf.description>
+  <!-- EN: a mutation - Elder Direwolf -->
+  <EGO_Mutation_Elder_Direwolf.labelNoun>TODO</EGO_Mutation_Elder_Direwolf.labelNoun>
+  
+  <!-- EN: mutation - Elder Ogren -->
+  <EGO_Mutation_Elder_Ogren.label>TODO</EGO_Mutation_Elder_Ogren.label>
+  <!-- EN: An implanted mutation - Elder Ogren.\n\nThis mutation can be implanted up to 5 times to increase its effect. -->
+  <EGO_Mutation_Elder_Ogren.description>TODO</EGO_Mutation_Elder_Ogren.description>
+  <!-- EN: a mutation - Elder Ogren -->
+  <EGO_Mutation_Elder_Ogren.labelNoun>TODO</EGO_Mutation_Elder_Ogren.labelNoun>
+  
+  <!-- EN: mutation - Elder Raptor -->
+  <EGO_Mutation_Elder_Raptor.label>TODO</EGO_Mutation_Elder_Raptor.label>
+  <!-- EN: An implanted mutation - Elder Raptor.\n\nThis mutation can be implanted up to 5 times to increase its effect. -->
+  <EGO_Mutation_Elder_Raptor.description>TODO</EGO_Mutation_Elder_Raptor.description>
+  <!-- EN: a mutation - Elder Raptor -->
+  <EGO_Mutation_Elder_Raptor.labelNoun>TODO</EGO_Mutation_Elder_Raptor.labelNoun>
+  
+  <!-- EN: mutation - Elder Tionant -->
+  <EGO_Mutation_Elder_Tionant.label>TODO</EGO_Mutation_Elder_Tionant.label>
+  <!-- EN: An implanted mutation - Elder Tionant.\n\nThis mutation can be implanted up to 5 times to increase its effect. -->
+  <EGO_Mutation_Elder_Tionant.description>TODO</EGO_Mutation_Elder_Tionant.description>
+  <!-- EN: a mutation - Elder Tionant -->
+  <EGO_Mutation_Elder_Tionant.labelNoun>TODO</EGO_Mutation_Elder_Tionant.labelNoun>
+  
+</LanguageData>

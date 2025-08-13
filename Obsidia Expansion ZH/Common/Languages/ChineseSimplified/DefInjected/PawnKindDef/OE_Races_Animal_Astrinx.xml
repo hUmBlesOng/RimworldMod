@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Astrinx -->
+  <OE_Astrinx.label>TODO</OE_Astrinx.label>
+  <!-- EN: astrinxes -->
+  <OE_Astrinx.labelPlural>TODO</OE_Astrinx.labelPlural>
+  <!-- EN: astrinx kitten -->
+  <OE_Astrinx.lifeStages.astrinx_kitten.label>TODO</OE_Astrinx.lifeStages.astrinx_kitten.label>
+  <!-- EN: Astrinx kittens -->
+  <OE_Astrinx.lifeStages.astrinx_kitten.labelPlural>TODO</OE_Astrinx.lifeStages.astrinx_kitten.labelPlural>
+  
+</LanguageData>

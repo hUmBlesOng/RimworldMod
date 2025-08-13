@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Second Arachna's Sin - Gluttony bullet -->
+  <Bullet_CAC_Trophy_MG.label>TODO</Bullet_CAC_Trophy_MG.label>
+  
+  <!-- EN: Fifth Arachna's Sin - Wrath blast -->
+  <Bullet_CAC_Trophy_S.label>TODO</Bullet_CAC_Trophy_S.label>
+  
+  <!-- EN: Third Arachna's Sin - Greed -->
+  <CAC_Trophy_BigScythe.label>TODO</CAC_Trophy_BigScythe.label>
+  <!-- EN: Amalgam weapon created on the basis of EGO technology. Big Scythe used by CAC Priest. Specially modified weapon with increased power and charged with Acid and Fire damages.\n\nThis weapon represents Third Arachna's Sin - Greed. Increases the owner's gathering stats at the expense of working stats. -->
+  <CAC_Trophy_BigScythe.description>TODO</CAC_Trophy_BigScythe.description>
+  <!-- EN: handle -->
+  <CAC_Trophy_BigScythe.tools.handle.label>TODO</CAC_Trophy_BigScythe.tools.handle.label>
+  <!-- EN: edge -->
+  <CAC_Trophy_BigScythe.tools.edge.label>TODO</CAC_Trophy_BigScythe.tools.edge.label>
+  
+  <!-- EN: Sixth Arachna's Sin - Envy -->
+  <CAC_Trophy_Knife.label>TODO</CAC_Trophy_Knife.label>
+  <!-- EN: Amalgam weapon created on the basis of EGO technology. Knife used by CAC Priest. Specially modified weapon with increased power and charged with Acid and Fire damages.\n\nThis weapon represents Sixth Arachna's Sin - Envy. Increases the owner's working and learning stats at the expense of social stats. -->
+  <CAC_Trophy_Knife.description>TODO</CAC_Trophy_Knife.description>
+  <!-- EN: handle -->
+  <CAC_Trophy_Knife.tools.handle.label>TODO</CAC_Trophy_Knife.tools.handle.label>
+  <!-- EN: blade -->
+  <CAC_Trophy_Knife.tools.blade.label>TODO</CAC_Trophy_Knife.tools.blade.label>
+  <!-- EN: point -->
+  <CAC_Trophy_Knife.tools.point.label>TODO</CAC_Trophy_Knife.tools.point.label>
+  
+  <!-- EN: Second Arachna's Sin - Gluttony -->
+  <CAC_Trophy_Minigun.label>TODO</CAC_Trophy_Minigun.label>
+  <!-- EN: Amalgam weapon created on the basis of EGO technology. Minigun used by CAC Priest. Specially modified weapon with increased power and charged with Acid and Fire damages.\n\nThis weapon represents Second Arachna's Sin - Gluttony. Increases the owner's healing stats at the expense of increased nutrition reduction. -->
+  <CAC_Trophy_Minigun.description>TODO</CAC_Trophy_Minigun.description>
+  <!-- EN: charge -->
+  <CAC_Trophy_Minigun.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</CAC_Trophy_Minigun.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CAC_Trophy_Minigun.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</CAC_Trophy_Minigun.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Second Arachna's Sin - Gluttony -->
+  <CAC_Trophy_Minigun.comps.CompUniqueWeapon.namerLabels.0>TODO</CAC_Trophy_Minigun.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: fang -->
+  <CAC_Trophy_Minigun.tools.fang.label>TODO</CAC_Trophy_Minigun.tools.fang.label>
+  <!-- EN: Second Arachna's Sin - Gluttony -->
+  <CAC_Trophy_Minigun.verbs.Verb_Shoot.label>TODO</CAC_Trophy_Minigun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Fifth Arachna's Sin - Wrath -->
+  <CAC_Trophy_Shotgun.label>TODO</CAC_Trophy_Shotgun.label>
+  <!-- EN: Amalgam weapon created on the basis of EGO technology. Shotgun used by CAC Priest. Specially modified weapon with increased power and charged with Acid and Fire damages.\n\nThis weapon represents Fifth Arachna's Sin - Wrath. Increases the owner's chance to deal x2 or x3 damage with a weapon at the expense of mental stability. -->
+  <CAC_Trophy_Shotgun.description>TODO</CAC_Trophy_Shotgun.description>
+  <!-- EN: charge -->
+  <CAC_Trophy_Shotgun.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</CAC_Trophy_Shotgun.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CAC_Trophy_Shotgun.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</CAC_Trophy_Shotgun.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Fifth Arachna's Sin - Wrath -->
+  <CAC_Trophy_Shotgun.comps.CompUniqueWeapon.namerLabels.0>TODO</CAC_Trophy_Shotgun.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: fang -->
+  <CAC_Trophy_Shotgun.tools.fang.label>TODO</CAC_Trophy_Shotgun.tools.fang.label>
+  <!-- EN: Fifth Arachna's Sin - Wrath -->
+  <CAC_Trophy_Shotgun.verbs.Verb_Shoot.label>TODO</CAC_Trophy_Shotgun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: First Arachna's Sin - Lust -->
+  <CAC_Trophy_Whip.label>TODO</CAC_Trophy_Whip.label>
+  <!-- EN: Amalgam weapon created on the basis of EGO technology. Whip used by CAC Priest. Specially modified weapon with increased power and charged with Acid and Fire damages.\n\nThis weapon represents First Arachna's Sin - Lust. Increases the owner's social and animal training stats at the expense of increased joy reduction. -->
+  <CAC_Trophy_Whip.description>TODO</CAC_Trophy_Whip.description>
+  <!-- EN: handle -->
+  <CAC_Trophy_Whip.tools.handle.label>TODO</CAC_Trophy_Whip.tools.handle.label>
+  <!-- EN: First Arachna's Sin - Lust -->
+  <CAC_Trophy_Whip.verbs.Verb_Shoot.label>TODO</CAC_Trophy_Whip.verbs.Verb_Shoot.label>
+  
+  <!-- EN: First Arachna's Sin - Lust wave -->
+  <Wave_CAC_Trophy_W.label>TODO</Wave_CAC_Trophy_W.label>
+  
+</LanguageData>

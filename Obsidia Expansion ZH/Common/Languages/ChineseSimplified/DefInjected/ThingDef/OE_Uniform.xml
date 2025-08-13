@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: obsidia military uniform -->
+  <OE_Uniform_Military.label>TODO</OE_Uniform_Military.label>
+  <!-- EN: Military uniform, perfectly protects and providing advanced skin sense feedback to the wearer. Designed for use by all Obsidia Empire militaries. -->
+  <OE_Uniform_Military.description>TODO</OE_Uniform_Military.description>
+  
+  <!-- EN: obsidia worker uniform -->
+  <OE_Uniform_Worker.label>TODO</OE_Uniform_Worker.label>
+  <!-- EN: Worker uniform, good protects and providing performance improvement to the wearer. Designed for use by all Obsidia Empire workers. -->
+  <OE_Uniform_Worker.description>TODO</OE_Uniform_Worker.description>
+  
+</LanguageData>

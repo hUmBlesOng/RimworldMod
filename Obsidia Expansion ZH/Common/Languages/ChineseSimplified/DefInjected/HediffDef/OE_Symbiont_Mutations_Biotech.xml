@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mutation - Automancer -->
+  <EGO_Mutation_Mechanitor.label>TODO</EGO_Mutation_Mechanitor.label>
+  <!-- EN: An implanted mutation - Automancer.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
+  <EGO_Mutation_Mechanitor.description>TODO</EGO_Mutation_Mechanitor.description>
+  <!-- EN: a mutation - Automancer -->
+  <EGO_Mutation_Mechanitor.labelNoun>TODO</EGO_Mutation_Mechanitor.labelNoun>
+  
+</LanguageData>

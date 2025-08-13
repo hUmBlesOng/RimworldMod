@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Thoughtless bullet -->
+  <Bullet_ODC_AR.label>TODO</Bullet_ODC_AR.label>
+  
+  <!-- EN: Purpose bullet -->
+  <Bullet_ODC_P.label>TODO</Bullet_ODC_P.label>
+  
+  <!-- EN: Trespasser bullet -->
+  <Bullet_ODC_R.label>TODO</Bullet_ODC_R.label>
+  
+  <!-- EN: Trespasser Acid bullet -->
+  <Bullet_ODC_R_Acid.label>TODO</Bullet_ODC_R_Acid.label>
+  
+  <!-- EN: Trespasser Cryo bullet -->
+  <Bullet_ODC_R_Cryo.label>TODO</Bullet_ODC_R_Cryo.label>
+  
+  <!-- EN: Trespasser EMP bullet -->
+  <Bullet_ODC_R_EMP.label>TODO</Bullet_ODC_R_EMP.label>
+  
+  <!-- EN: Trespasser Fire bullet -->
+  <Bullet_ODC_R_Fire.label>TODO</Bullet_ODC_R_Fire.label>
+  
+  <!-- EN: Inheritance bullet -->
+  <Bullet_ODC_RF.label>TODO</Bullet_ODC_RF.label>
+  
+  <!-- EN: Boomshooter rocket -->
+  <Bullet_ODC_RL.label>TODO</Bullet_ODC_RL.label>
+  
+  <!-- EN: Boomshooter rocket -->
+  <Bullet_ODC_RL_Acid.label>TODO</Bullet_ODC_RL_Acid.label>
+  
+  <!-- EN: Boomshooter rocket -->
+  <Bullet_ODC_RL_Cryo.label>TODO</Bullet_ODC_RL_Cryo.label>
+  
+  <!-- EN: Boomshooter rocket -->
+  <Bullet_ODC_RL_EMP.label>TODO</Bullet_ODC_RL_EMP.label>
+  
+  <!-- EN: Boomshooter rocket -->
+  <Bullet_ODC_RL_Fire.label>TODO</Bullet_ODC_RL_Fire.label>
+  
+  <!-- EN: Conspirator blast -->
+  <Bullet_ODC_S.label>TODO</Bullet_ODC_S.label>
+  
+  <!-- EN: Conspirator blast -->
+  <Bullet_ODC_S_Acid.label>TODO</Bullet_ODC_S_Acid.label>
+  
+  <!-- EN: Conspirator bullet -->
+  <Bullet_ODC_S_Cryo.label>TODO</Bullet_ODC_S_Cryo.label>
+  
+  <!-- EN: Conspirator bullet -->
+  <Bullet_ODC_S_EMP.label>TODO</Bullet_ODC_S_EMP.label>
+  
+  <!-- EN: Conspirator bullet -->
+  <Bullet_ODC_S_Fire.label>TODO</Bullet_ODC_S_Fire.label>
+  
+  <!-- EN: Misfit bullet -->
+  <Bullet_ODC_SMG.label>TODO</Bullet_ODC_SMG.label>
+  
+  <!-- EN: Smuggler bullet -->
+  <Bullet_ODC_SR.label>TODO</Bullet_ODC_SR.label>
+  
+  <!-- EN: Thoughtless - Emergent -->
+  <ODC_AssaultRifle_A.label>TODO</ODC_AssaultRifle_A.label>
+  <!-- EN: Moded Assault Rifle used by Obsidia Drifters. -->
+  <ODC_AssaultRifle_A.description>TODO</ODC_AssaultRifle_A.description>
+  <!-- EN: stock -->
+  <ODC_AssaultRifle_A.tools.stock.label>TODO</ODC_AssaultRifle_A.tools.stock.label>
+  <!-- EN: barrel -->
+  <ODC_AssaultRifle_A.tools.barrel.label>TODO</ODC_AssaultRifle_A.tools.barrel.label>
+  <!-- EN: Thoughtless - Emergent -->
+  <ODC_AssaultRifle_A.verbs.Verb_Shoot.label>TODO</ODC_AssaultRifle_A.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Thoughtless - Apex -->
+  <ODC_AssaultRifle_B.label>TODO</ODC_AssaultRifle_B.label>
+  <!-- EN: Specialised Assault Rifle used by Obsidia Drifters. -->
+  <ODC_AssaultRifle_B.description>TODO</ODC_AssaultRifle_B.description>
+  <!-- EN: stock -->
+  <ODC_AssaultRifle_B.tools.stock.label>TODO</ODC_AssaultRifle_B.tools.stock.label>
+  <!-- EN: barrel -->
+  <ODC_AssaultRifle_B.tools.barrel.label>TODO</ODC_AssaultRifle_B.tools.barrel.label>
+  <!-- EN: Thoughtless - Apex -->
+  <ODC_AssaultRifle_B.verbs.Verb_Shoot.label>TODO</ODC_AssaultRifle_B.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Purpose -->
+  <ODC_Pistol.label>TODO</ODC_Pistol.label>
+  <!-- EN: Common Auto Pistol used bby Obsidia Drifters. -->
+  <ODC_Pistol.description>TODO</ODC_Pistol.description>
+  <!-- EN: grip -->
+  <ODC_Pistol.tools.grip.label>TODO</ODC_Pistol.tools.grip.label>
+  <!-- EN: barrel -->
+  <ODC_Pistol.tools.barrel.label>TODO</ODC_Pistol.tools.barrel.label>
+  <!-- EN: Purpose -->
+  <ODC_Pistol.verbs.Verb_Shoot.label>TODO</ODC_Pistol.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Trespasser - Emergent -->
+  <ODC_Revolver.label>TODO</ODC_Revolver.label>
+  <!-- EN: Moded Revolver used by Obsidia Drifters. -->
+  <ODC_Revolver.description>TODO</ODC_Revolver.description>
+  <!-- EN: grip -->
+  <ODC_Revolver.tools.grip.label>TODO</ODC_Revolver.tools.grip.label>
+  <!-- EN: barrel -->
+  <ODC_Revolver.tools.barrel.label>TODO</ODC_Revolver.tools.barrel.label>
+  <!-- EN: Trespasser - Emergent -->
+  <ODC_Revolver.verbs.Verb_Shoot.label>TODO</ODC_Revolver.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Trespasser - Apex(Acid) -->
+  <ODC_Revolver_Acid.label>TODO</ODC_Revolver_Acid.label>
+  <!-- EN: Specialised Revolver used by Obsidia Drifters. Charged with Acid damage. -->
+  <ODC_Revolver_Acid.description>TODO</ODC_Revolver_Acid.description>
+  <!-- EN: grip -->
+  <ODC_Revolver_Acid.tools.grip.label>TODO</ODC_Revolver_Acid.tools.grip.label>
+  <!-- EN: barrel -->
+  <ODC_Revolver_Acid.tools.barrel.label>TODO</ODC_Revolver_Acid.tools.barrel.label>
+  <!-- EN: Trespasser - Apex(Acid) -->
+  <ODC_Revolver_Acid.verbs.Verb_Shoot.label>TODO</ODC_Revolver_Acid.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Trespasser - Apex(Cryo) -->
+  <ODC_Revolver_Cryo.label>TODO</ODC_Revolver_Cryo.label>
+  <!-- EN: Specialised Revolver used by Obsidia Drifters. Charged with Cryo damage. -->
+  <ODC_Revolver_Cryo.description>TODO</ODC_Revolver_Cryo.description>
+  <!-- EN: grip -->
+  <ODC_Revolver_Cryo.tools.grip.label>TODO</ODC_Revolver_Cryo.tools.grip.label>
+  <!-- EN: barrel -->
+  <ODC_Revolver_Cryo.tools.barrel.label>TODO</ODC_Revolver_Cryo.tools.barrel.label>
+  <!-- EN: Trespasser - Apex(Cryo) -->
+  <ODC_Revolver_Cryo.verbs.Verb_Shoot.label>TODO</ODC_Revolver_Cryo.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Trespasser - Apex(EMP) -->
+  <ODC_Revolver_EMP.label>TODO</ODC_Revolver_EMP.label>
+  <!-- EN: Specialised Revolver used by Obsidia Drifters. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
+  <ODC_Revolver_EMP.description>TODO</ODC_Revolver_EMP.description>
+  <!-- EN: grip -->
+  <ODC_Revolver_EMP.tools.grip.label>TODO</ODC_Revolver_EMP.tools.grip.label>
+  <!-- EN: barrel -->
+  <ODC_Revolver_EMP.tools.barrel.label>TODO</ODC_Revolver_EMP.tools.barrel.label>
+  <!-- EN: Trespasser - Apex(EMP) -->
+  <ODC_Revolver_EMP.verbs.Verb_Shoot.label>TODO</ODC_Revolver_EMP.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Trespasser - Apex(Fire) -->
+  <ODC_Revolver_Fire.label>TODO</ODC_Revolver_Fire.label>
+  <!-- EN: Specialised Revolver used by Obsidia Drifters. Charged with Fire damage. -->
+  <ODC_Revolver_Fire.description>TODO</ODC_Revolver_Fire.description>
+  <!-- EN: grip -->
+  <ODC_Revolver_Fire.tools.grip.label>TODO</ODC_Revolver_Fire.tools.grip.label>
+  <!-- EN: barrel -->
+  <ODC_Revolver_Fire.tools.barrel.label>TODO</ODC_Revolver_Fire.tools.barrel.label>
+  <!-- EN: Trespasser - Apex(Fire) -->
+  <ODC_Revolver_Fire.verbs.Verb_Shoot.label>TODO</ODC_Revolver_Fire.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Inheritance -->
+  <ODC_Rifle.label>TODO</ODC_Rifle.label>
+  <!-- EN: Common Rifle used by Obsidia Drifters. -->
+  <ODC_Rifle.description>TODO</ODC_Rifle.description>
+  <!-- EN: stock -->
+  <ODC_Rifle.tools.stock.label>TODO</ODC_Rifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <ODC_Rifle.tools.barrel.label>TODO</ODC_Rifle.tools.barrel.label>
+  <!-- EN: Inheritance -->
+  <ODC_Rifle.verbs.Verb_Shoot.label>TODO</ODC_Rifle.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Boomshooter - Emergent -->
+  <ODC_RocketLauncher.label>TODO</ODC_RocketLauncher.label>
+  <!-- EN: Moded Rocket Launcher used by Obsidia Drifters. -->
+  <ODC_RocketLauncher.description>TODO</ODC_RocketLauncher.description>
+  <!-- EN: barrel -->
+  <ODC_RocketLauncher.tools.barrel.label>TODO</ODC_RocketLauncher.tools.barrel.label>
+  <!-- EN: Boomshooter - Emergent -->
+  <ODC_RocketLauncher.verbs.Verb_Shoot.label>TODO</ODC_RocketLauncher.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Boomshooter - Apex(Acid) -->
+  <ODC_RocketLauncher_Acid.label>TODO</ODC_RocketLauncher_Acid.label>
+  <!-- EN: Specialised Rocket Launcher used by Obsidia Drifters. Charged with Acid damage. -->
+  <ODC_RocketLauncher_Acid.description>TODO</ODC_RocketLauncher_Acid.description>
+  <!-- EN: barrel -->
+  <ODC_RocketLauncher_Acid.tools.barrel.label>TODO</ODC_RocketLauncher_Acid.tools.barrel.label>
+  <!-- EN: Boomshooter - Apex(Acid) -->
+  <ODC_RocketLauncher_Acid.verbs.Verb_Shoot.label>TODO</ODC_RocketLauncher_Acid.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Boomshooter - Apex(Cryo) -->
+  <ODC_RocketLauncher_Cryo.label>TODO</ODC_RocketLauncher_Cryo.label>
+  <!-- EN: Specialised Rocket Launcher used by Obsidia Drifters. Charged with Cryo damage. -->
+  <ODC_RocketLauncher_Cryo.description>TODO</ODC_RocketLauncher_Cryo.description>
+  <!-- EN: barrel -->
+  <ODC_RocketLauncher_Cryo.tools.barrel.label>TODO</ODC_RocketLauncher_Cryo.tools.barrel.label>
+  <!-- EN: Boomshooter - Apex(Cryo) -->
+  <ODC_RocketLauncher_Cryo.verbs.Verb_Shoot.label>TODO</ODC_RocketLauncher_Cryo.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Boomshooter - Apex(EMP) -->
+  <ODC_RocketLauncher_EMP.label>TODO</ODC_RocketLauncher_EMP.label>
+  <!-- EN: Specialised Rocket Launcher used by Obsidia Drifters. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
+  <ODC_RocketLauncher_EMP.description>TODO</ODC_RocketLauncher_EMP.description>
+  <!-- EN: barrel -->
+  <ODC_RocketLauncher_EMP.tools.barrel.label>TODO</ODC_RocketLauncher_EMP.tools.barrel.label>
+  <!-- EN: Boomshooter - Apex(EMP) -->
+  <ODC_RocketLauncher_EMP.verbs.Verb_Shoot.label>TODO</ODC_RocketLauncher_EMP.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Boomshooter - Apex(Fire) -->
+  <ODC_RocketLauncher_Fire.label>TODO</ODC_RocketLauncher_Fire.label>
+  <!-- EN: Specialised Rocket Launcher used by Obsidia Drifters. Charged with Fire damage. -->
+  <ODC_RocketLauncher_Fire.description>TODO</ODC_RocketLauncher_Fire.description>
+  <!-- EN: barrel -->
+  <ODC_RocketLauncher_Fire.tools.barrel.label>TODO</ODC_RocketLauncher_Fire.tools.barrel.label>
+  <!-- EN: Boomshooter - Apex(Fire) -->
+  <ODC_RocketLauncher_Fire.verbs.Verb_Shoot.label>TODO</ODC_RocketLauncher_Fire.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Conspirator - Emergent -->
+  <ODC_Shotgun.label>TODO</ODC_Shotgun.label>
+  <!-- EN: Moded Shotgun used by Obsidia Drifters. -->
+  <ODC_Shotgun.description>TODO</ODC_Shotgun.description>
+  <!-- EN: stock -->
+  <ODC_Shotgun.tools.stock.label>TODO</ODC_Shotgun.tools.stock.label>
+  <!-- EN: barrel -->
+  <ODC_Shotgun.tools.barrel.label>TODO</ODC_Shotgun.tools.barrel.label>
+  <!-- EN: Conspirator - Emergent -->
+  <ODC_Shotgun.verbs.Verb_Shoot.label>TODO</ODC_Shotgun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Conspirator - Apex(Acid) -->
+  <ODC_Shotgun_Acid.label>TODO</ODC_Shotgun_Acid.label>
+  <!-- EN: Specialised Shotgun used by Obsidia Drifters. Charged with Acid damage. -->
+  <ODC_Shotgun_Acid.description>TODO</ODC_Shotgun_Acid.description>
+  <!-- EN: stock -->
+  <ODC_Shotgun_Acid.tools.stock.label>TODO</ODC_Shotgun_Acid.tools.stock.label>
+  <!-- EN: barrel -->
+  <ODC_Shotgun_Acid.tools.barrel.label>TODO</ODC_Shotgun_Acid.tools.barrel.label>
+  <!-- EN: Conspirator - Apex(Acid) -->
+  <ODC_Shotgun_Acid.verbs.Verb_Shoot.label>TODO</ODC_Shotgun_Acid.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Conspirator - Apex(Cryo) -->
+  <ODC_Shotgun_Cryo.label>TODO</ODC_Shotgun_Cryo.label>
+  <!-- EN: Specialised Shotgun used by Obsidia Drifters. Charged with Cryo damage. -->
+  <ODC_Shotgun_Cryo.description>TODO</ODC_Shotgun_Cryo.description>
+  <!-- EN: stock -->
+  <ODC_Shotgun_Cryo.tools.stock.label>TODO</ODC_Shotgun_Cryo.tools.stock.label>
+  <!-- EN: barrel -->
+  <ODC_Shotgun_Cryo.tools.barrel.label>TODO</ODC_Shotgun_Cryo.tools.barrel.label>
+  <!-- EN: Conspirator - Apex(Cryo) -->
+  <ODC_Shotgun_Cryo.verbs.Verb_Shoot.label>TODO</ODC_Shotgun_Cryo.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Conspirator - Apex(EMP) -->
+  <ODC_Shotgun_EMP.label>TODO</ODC_Shotgun_EMP.label>
+  <!-- EN: Specialised Shotgun used by Obsidia Drifters. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
+  <ODC_Shotgun_EMP.description>TODO</ODC_Shotgun_EMP.description>
+  <!-- EN: stock -->
+  <ODC_Shotgun_EMP.tools.stock.label>TODO</ODC_Shotgun_EMP.tools.stock.label>
+  <!-- EN: barrel -->
+  <ODC_Shotgun_EMP.tools.barrel.label>TODO</ODC_Shotgun_EMP.tools.barrel.label>
+  <!-- EN: Conspirator - Apex(EMP) -->
+  <ODC_Shotgun_EMP.verbs.Verb_Shoot.label>TODO</ODC_Shotgun_EMP.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Conspirator - Apex(Fire) -->
+  <ODC_Shotgun_Fire.label>TODO</ODC_Shotgun_Fire.label>
+  <!-- EN: Specialised Shotgun used by Obsidia Drifters. Charged with Fire damage. -->
+  <ODC_Shotgun_Fire.description>TODO</ODC_Shotgun_Fire.description>
+  <!-- EN: stock -->
+  <ODC_Shotgun_Fire.tools.stock.label>TODO</ODC_Shotgun_Fire.tools.stock.label>
+  <!-- EN: barrel -->
+  <ODC_Shotgun_Fire.tools.barrel.label>TODO</ODC_Shotgun_Fire.tools.barrel.label>
+  <!-- EN: Conspirator - Apex(Fire) -->
+  <ODC_Shotgun_Fire.verbs.Verb_Shoot.label>TODO</ODC_Shotgun_Fire.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Misfit - Emergent -->
+  <ODC_SMG_A.label>TODO</ODC_SMG_A.label>
+  <!-- EN: Moded SMG used by Obsidia Drifters. -->
+  <ODC_SMG_A.description>TODO</ODC_SMG_A.description>
+  <!-- EN: grip -->
+  <ODC_SMG_A.tools.grip.label>TODO</ODC_SMG_A.tools.grip.label>
+  <!-- EN: barrel -->
+  <ODC_SMG_A.tools.barrel.label>TODO</ODC_SMG_A.tools.barrel.label>
+  <!-- EN: Misfit - Emergent -->
+  <ODC_SMG_A.verbs.Verb_Shoot.label>TODO</ODC_SMG_A.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Misfit - Apex -->
+  <ODC_SMG_B.label>TODO</ODC_SMG_B.label>
+  <!-- EN: Specialised SMG used by Obsidia Drifters. -->
+  <ODC_SMG_B.description>TODO</ODC_SMG_B.description>
+  <!-- EN: stock -->
+  <ODC_SMG_B.tools.stock.label>TODO</ODC_SMG_B.tools.stock.label>
+  <!-- EN: barrel -->
+  <ODC_SMG_B.tools.barrel.label>TODO</ODC_SMG_B.tools.barrel.label>
+  <!-- EN: Misfit - Apex -->
+  <ODC_SMG_B.verbs.Verb_Shoot.label>TODO</ODC_SMG_B.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Smuggler - Emergent -->
+  <ODC_SniperRifle_A.label>TODO</ODC_SniperRifle_A.label>
+  <!-- EN: Moded Sniper Rifle used by Obsidia Drifters. -->
+  <ODC_SniperRifle_A.description>TODO</ODC_SniperRifle_A.description>
+  <!-- EN: stock -->
+  <ODC_SniperRifle_A.tools.stock.label>TODO</ODC_SniperRifle_A.tools.stock.label>
+  <!-- EN: barrel -->
+  <ODC_SniperRifle_A.tools.barrel.label>TODO</ODC_SniperRifle_A.tools.barrel.label>
+  <!-- EN: Smuggler - Emergent -->
+  <ODC_SniperRifle_A.verbs.Verb_Shoot.label>TODO</ODC_SniperRifle_A.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Smuggler - Apex -->
+  <ODC_SniperRifle_B.label>TODO</ODC_SniperRifle_B.label>
+  <!-- EN: Specialised Sniper Rifle used by Obsidia Drifters. -->
+  <ODC_SniperRifle_B.description>TODO</ODC_SniperRifle_B.description>
+  <!-- EN: stock -->
+  <ODC_SniperRifle_B.tools.stock.label>TODO</ODC_SniperRifle_B.tools.stock.label>
+  <!-- EN: barrel -->
+  <ODC_SniperRifle_B.tools.barrel.label>TODO</ODC_SniperRifle_B.tools.barrel.label>
+  <!-- EN: Smuggler - Apex -->
+  <ODC_SniperRifle_B.verbs.Verb_Shoot.label>TODO</ODC_SniperRifle_B.verbs.Verb_Shoot.label>
+  
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: obsidia tox caterpillar -->
+  <OE_Caterpillar_Tox.label>TODO</OE_Caterpillar_Tox.label>
+  <!-- EN: Caterpillar is a genetically engineered creature. Scientists planned to create a small, peaceful creature that would serve as a convenient source of meat.\n\nThis specimen adapted to life at pollution areas. -->
+  <OE_Caterpillar_Tox.description>TODO</OE_Caterpillar_Tox.description>
+  <!-- EN: mandibles -->
+  <OE_Caterpillar_Tox.tools.mandibles.label>TODO</OE_Caterpillar_Tox.tools.mandibles.label>
+  <!-- EN: head -->
+  <OE_Caterpillar_Tox.tools.head.label>TODO</OE_Caterpillar_Tox.tools.head.label>
+  
+</LanguageData>

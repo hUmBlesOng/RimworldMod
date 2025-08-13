@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Blast bullet -->
+  <Bullet_OCC.label>TODO</Bullet_OCC.label>
+  
+  <!-- EN: Wendigo blast arrow -->
+  <Bullet_OCC_B.label>TODO</Bullet_OCC_B.label>
+  
+  <!-- EN: Reforged Wendigo blast arrow -->
+  <Bullet_OCC_B_M.label>TODO</Bullet_OCC_B_M.label>
+  
+  <!-- EN: Reforged blast bullet -->
+  <Bullet_OCC_M.label>TODO</Bullet_OCC_M.label>
+  
+  <!-- EN: Behemoth rocket -->
+  <Bullet_OCC_RL.label>TODO</Bullet_OCC_RL.label>
+  
+  <!-- EN: Reforged Behemoth rocket -->
+  <Bullet_OCC_RL_M.label>TODO</Bullet_OCC_RL_M.label>
+  
+  <!-- EN: Scylla -->
+  <OCC_AR.label>TODO</OCC_AR.label>
+  <!-- EN: Regular Assault Rifle used by the OCC Knights. Slow weapon are designed to use blast bullets.\n\nIt's remanufactured weapon based on OMC Assault Rifle. -->
+  <OCC_AR.description>TODO</OCC_AR.description>
+  <!-- EN: stock -->
+  <OCC_AR.tools.stock.label>TODO</OCC_AR.tools.stock.label>
+  <!-- EN: barrel -->
+  <OCC_AR.tools.barrel.label>TODO</OCC_AR.tools.barrel.label>
+  <!-- EN: Scylla -->
+  <OCC_AR.verbs.Verb_Shoot.label>TODO</OCC_AR.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Reforged Scylla -->
+  <OCC_AR_M.label>TODO</OCC_AR_M.label>
+  <!-- EN: Reforged Assault Rifle used by OCC Paladins. Slow weapon are designed to use blast bullets.\n\nIt's remanufactured weapon based on OMC Assault Rifle. -->
+  <OCC_AR_M.description>TODO</OCC_AR_M.description>
+  <!-- EN: stock -->
+  <OCC_AR_M.tools.stock.label>TODO</OCC_AR_M.tools.stock.label>
+  <!-- EN: barrel -->
+  <OCC_AR_M.tools.barrel.label>TODO</OCC_AR_M.tools.barrel.label>
+  <!-- EN: Reforged Scylla -->
+  <OCC_AR_M.verbs.Verb_Shoot.label>TODO</OCC_AR_M.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Wendigo -->
+  <OCC_Bow.label>TODO</OCC_Bow.label>
+  <!-- EN: Regular Bow used by the OCC Knights. Slow weapon are designed to use blast bullets.\n\nIt's remanufactured weapon based on OEC Bow. -->
+  <OCC_Bow.description>TODO</OCC_Bow.description>
+  <!-- EN: limb -->
+  <OCC_Bow.tools.limb.label>TODO</OCC_Bow.tools.limb.label>
+  <!-- EN: Wendigo -->
+  <OCC_Bow.verbs.Verb_Shoot.label>TODO</OCC_Bow.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Reforged Wendigo -->
+  <OCC_Bow_M.label>TODO</OCC_Bow_M.label>
+  <!-- EN: Reforged Bow used by OCC Paladins. Slow weapon are designed to use blast bullets.\n\nIt's remanufactured weapon based on OEC Bow. -->
+  <OCC_Bow_M.description>TODO</OCC_Bow_M.description>
+  <!-- EN: limb -->
+  <OCC_Bow_M.tools.limb.label>TODO</OCC_Bow_M.tools.limb.label>
+  <!-- EN: Reforged Wendigo -->
+  <OCC_Bow_M.verbs.Verb_Shoot.label>TODO</OCC_Bow_M.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Hydra -->
+  <OCC_Minigun.label>TODO</OCC_Minigun.label>
+  <!-- EN: Regular Minigun used by the OCC Knights. Slow weapon are designed to use blast bullets. -->
+  <OCC_Minigun.description>TODO</OCC_Minigun.description>
+  <!-- EN: barrels -->
+  <OCC_Minigun.tools.barrels.label>TODO</OCC_Minigun.tools.barrels.label>
+  <!-- EN: Hydra -->
+  <OCC_Minigun.verbs.Verb_Shoot.label>TODO</OCC_Minigun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Reforged Hydra -->
+  <OCC_Minigun_M.label>TODO</OCC_Minigun_M.label>
+  <!-- EN: Reforged Minigun used by OCC Paladins. Slow weapon are designed to use blast bullets. -->
+  <OCC_Minigun_M.description>TODO</OCC_Minigun_M.description>
+  <!-- EN: barrels -->
+  <OCC_Minigun_M.tools.barrels.label>TODO</OCC_Minigun_M.tools.barrels.label>
+  <!-- EN: Reforged Hydra -->
+  <OCC_Minigun_M.verbs.Verb_Shoot.label>TODO</OCC_Minigun_M.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Chimera -->
+  <OCC_MultiCannon.label>TODO</OCC_MultiCannon.label>
+  <!-- EN: Regular Multi-Cannon used by the OCC Knights. Slow weapon are designed to use blast bullets. -->
+  <OCC_MultiCannon.description>TODO</OCC_MultiCannon.description>
+  <!-- EN: barrels -->
+  <OCC_MultiCannon.tools.barrels.label>TODO</OCC_MultiCannon.tools.barrels.label>
+  <!-- EN: Chimera -->
+  <OCC_MultiCannon.verbs.Verb_Shoot.label>TODO</OCC_MultiCannon.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Reforged Chimera -->
+  <OCC_MultiCannon_M.label>TODO</OCC_MultiCannon_M.label>
+  <!-- EN: Reforged Multi-Cannon used by OCC Paladins. Slow weapon are designed to use blast bullets. -->
+  <OCC_MultiCannon_M.description>TODO</OCC_MultiCannon_M.description>
+  <!-- EN: barrels -->
+  <OCC_MultiCannon_M.tools.barrels.label>TODO</OCC_MultiCannon_M.tools.barrels.label>
+  <!-- EN: Reforged Chimera -->
+  <OCC_MultiCannon_M.verbs.Verb_Shoot.label>TODO</OCC_MultiCannon_M.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Hornet -->
+  <OCC_Revolver.label>TODO</OCC_Revolver.label>
+  <!-- EN: Regular Revolver used by the OCC Knights. Slow weapon are designed to use blast bullets. -->
+  <OCC_Revolver.description>TODO</OCC_Revolver.description>
+  <!-- EN: grip -->
+  <OCC_Revolver.tools.grip.label>TODO</OCC_Revolver.tools.grip.label>
+  <!-- EN: barrel -->
+  <OCC_Revolver.tools.barrel.label>TODO</OCC_Revolver.tools.barrel.label>
+  <!-- EN: Hornet -->
+  <OCC_Revolver.verbs.Verb_Shoot.label>TODO</OCC_Revolver.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Reforged Hornet -->
+  <OCC_Revolver_M.label>TODO</OCC_Revolver_M.label>
+  <!-- EN: Reforged Revolver used by OCC Paladins. Slow weapon are designed to use blast bullets. -->
+  <OCC_Revolver_M.description>TODO</OCC_Revolver_M.description>
+  <!-- EN: grip -->
+  <OCC_Revolver_M.tools.grip.label>TODO</OCC_Revolver_M.tools.grip.label>
+  <!-- EN: barrel -->
+  <OCC_Revolver_M.tools.barrel.label>TODO</OCC_Revolver_M.tools.barrel.label>
+  <!-- EN: Reforged Hornet -->
+  <OCC_Revolver_M.verbs.Verb_Shoot.label>TODO</OCC_Revolver_M.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Cerberus -->
+  <OCC_Rifle.label>TODO</OCC_Rifle.label>
+  <!-- EN: Regular Rifle used by the OCC Knights. Slow weapon are designed to use blast bullets. -->
+  <OCC_Rifle.description>TODO</OCC_Rifle.description>
+  <!-- EN: stock -->
+  <OCC_Rifle.tools.stock.label>TODO</OCC_Rifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <OCC_Rifle.tools.barrel.label>TODO</OCC_Rifle.tools.barrel.label>
+  <!-- EN: Cerberus -->
+  <OCC_Rifle.verbs.Verb_Shoot.label>TODO</OCC_Rifle.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Reforged Cerberus -->
+  <OCC_Rifle_M.label>TODO</OCC_Rifle_M.label>
+  <!-- EN: Reforged Rifle used by OCC Paladins. Slow weapon are designed to use blast bullets. -->
+  <OCC_Rifle_M.description>TODO</OCC_Rifle_M.description>
+  <!-- EN: stock -->
+  <OCC_Rifle_M.tools.stock.label>TODO</OCC_Rifle_M.tools.stock.label>
+  <!-- EN: barrel -->
+  <OCC_Rifle_M.tools.barrel.label>TODO</OCC_Rifle_M.tools.barrel.label>
+  <!-- EN: Reforged Cerberus -->
+  <OCC_Rifle_M.verbs.Verb_Shoot.label>TODO</OCC_Rifle_M.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Behemoth -->
+  <OCC_RocketLauncher.label>TODO</OCC_RocketLauncher.label>
+  <!-- EN: Regular Rocket Launcher used by the OCC Knights. Slow weapon are designed to use blast bullets. -->
+  <OCC_RocketLauncher.description>TODO</OCC_RocketLauncher.description>
+  <!-- EN: barrel -->
+  <OCC_RocketLauncher.tools.barrel.label>TODO</OCC_RocketLauncher.tools.barrel.label>
+  <!-- EN: Behemoth -->
+  <OCC_RocketLauncher.verbs.Verb_Shoot.label>TODO</OCC_RocketLauncher.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Reforged Behemoth -->
+  <OCC_RocketLauncher_M.label>TODO</OCC_RocketLauncher_M.label>
+  <!-- EN: Reforged Rocket Launcher used by OCC Paladins. Slow weapon are designed to use blast bullets. -->
+  <OCC_RocketLauncher_M.description>TODO</OCC_RocketLauncher_M.description>
+  <!-- EN: barrel -->
+  <OCC_RocketLauncher_M.tools.barrel.label>TODO</OCC_RocketLauncher_M.tools.barrel.label>
+  <!-- EN: Reforged Behemoth -->
+  <OCC_RocketLauncher_M.verbs.Verb_Shoot.label>TODO</OCC_RocketLauncher_M.verbs.Verb_Shoot.label>
+  
+</LanguageData>

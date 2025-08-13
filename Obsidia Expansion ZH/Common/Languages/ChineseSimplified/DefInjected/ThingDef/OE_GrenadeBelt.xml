@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: OCC grenade -->
+  <Grenade_GrenadeBelt_OCC.label>TODO</Grenade_GrenadeBelt_OCC.label>
+  
+  <!-- EN: ODC grenade -->
+  <Grenade_GrenadeBelt_ODC.label>TODO</Grenade_GrenadeBelt_ODC.label>
+  
+  <!-- EN: OMG grenade -->
+  <Grenade_GrenadeBelt_OMG.label>TODO</Grenade_GrenadeBelt_OMG.label>
+  
+  <!-- EN: OTC grenade(Acid) -->
+  <Grenade_GrenadeBelt_OTC_Acid.label>TODO</Grenade_GrenadeBelt_OTC_Acid.label>
+  
+  <!-- EN: OTC grenade(Cryo) -->
+  <Grenade_GrenadeBelt_OTC_Cryo.label>TODO</Grenade_GrenadeBelt_OTC_Cryo.label>
+  
+  <!-- EN: OTC grenade(EMP) -->
+  <Grenade_GrenadeBelt_OTC_EMP.label>TODO</Grenade_GrenadeBelt_OTC_EMP.label>
+  
+  <!-- EN: OTC grenade(Fire) -->
+  <Grenade_GrenadeBelt_OTC_Fire.label>TODO</Grenade_GrenadeBelt_OTC_Fire.label>
+  
+  <!-- EN: OCC grenade belt -->
+  <OCC_GrenadeBelt.label>TODO</OCC_GrenadeBelt.label>
+  <!-- EN: A grenade belt loaded with explosives that deal powerful Blast damage on explode. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. Designed and modified for use by OCC Paladins.\n\nCan be reloaded using Obsidia Ammo Kit. -->
+  <OCC_GrenadeBelt.description>TODO</OCC_GrenadeBelt.description>
+  <!-- EN: grenade -->
+  <OCC_GrenadeBelt.comps.CompApparelReloadable.chargeNoun>TODO</OCC_GrenadeBelt.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OCC_GrenadeBelt.comps.CompApparelReloadable.cooldownGerund>TODO</OCC_GrenadeBelt.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: throw blast grenade -->
+  <OCC_GrenadeBelt.verbs.throw_blast_grenade.label>TODO</OCC_GrenadeBelt.verbs.throw_blast_grenade.label>
+  
+  <!-- EN: ODC grenade belt -->
+  <ODC_GrenadeBelt.label>TODO</ODC_GrenadeBelt.label>
+  <!-- EN: A grenade belt loaded with explosives that deal powerful Stun damage on explode. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. Designed for use by Obsidia Drifters.\n\nCan be reloaded using Obsidia Ammo Kit. -->
+  <ODC_GrenadeBelt.description>TODO</ODC_GrenadeBelt.description>
+  <!-- EN: grenade -->
+  <ODC_GrenadeBelt.comps.CompApparelReloadable.chargeNoun>TODO</ODC_GrenadeBelt.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <ODC_GrenadeBelt.comps.CompApparelReloadable.cooldownGerund>TODO</ODC_GrenadeBelt.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: throw stun grenade -->
+  <ODC_GrenadeBelt.verbs.throw_stun_grenade.label>TODO</ODC_GrenadeBelt.verbs.throw_stun_grenade.label>
+  
+  <!-- EN: Mercenaries grenade belt -->
+  <OMG_GrenadeBelt.label>TODO</OMG_GrenadeBelt.label>
+  <!-- EN: A grenade belt loaded with explosives that deal powerful Necrobane damage on explode. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. Designed for use by Mercenaries.\n\nCan be reloaded using Obsidia Ammo Kit. -->
+  <OMG_GrenadeBelt.description>TODO</OMG_GrenadeBelt.description>
+  <!-- EN: grenade -->
+  <OMG_GrenadeBelt.comps.CompApparelReloadable.chargeNoun>TODO</OMG_GrenadeBelt.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OMG_GrenadeBelt.comps.CompApparelReloadable.cooldownGerund>TODO</OMG_GrenadeBelt.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: throw necrobane grenade -->
+  <OMG_GrenadeBelt.verbs.throw_necrobane_grenade.label>TODO</OMG_GrenadeBelt.verbs.throw_necrobane_grenade.label>
+  
+  <!-- EN: OTC grenade belt(Acid) -->
+  <OTC_GrenadeBelt_Acid.label>TODO</OTC_GrenadeBelt_Acid.label>
+  <!-- EN: A grenade belt loaded with explosives that deal powerful Acid damage on explode. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. Designed and modified for use by OTC Engineers.\n\nCan be reloaded using Obsidia Ammo Kit. -->
+  <OTC_GrenadeBelt_Acid.description>TODO</OTC_GrenadeBelt_Acid.description>
+  <!-- EN: grenade -->
+  <OTC_GrenadeBelt_Acid.comps.CompApparelReloadable.chargeNoun>TODO</OTC_GrenadeBelt_Acid.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OTC_GrenadeBelt_Acid.comps.CompApparelReloadable.cooldownGerund>TODO</OTC_GrenadeBelt_Acid.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: throw acid grenade -->
+  <OTC_GrenadeBelt_Acid.verbs.throw_acid_grenade.label>TODO</OTC_GrenadeBelt_Acid.verbs.throw_acid_grenade.label>
+  
+  <!-- EN: OTC grenade belt(Cryo) -->
+  <OTC_GrenadeBelt_Cryo.label>TODO</OTC_GrenadeBelt_Cryo.label>
+  <!-- EN: A grenade belt loaded with explosives that deal powerful Cryo damage on explode. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. Designed and modified for use by OTC Engineers.\n\nCan be reloaded using Obsidia Ammo Kit. -->
+  <OTC_GrenadeBelt_Cryo.description>TODO</OTC_GrenadeBelt_Cryo.description>
+  <!-- EN: grenade -->
+  <OTC_GrenadeBelt_Cryo.comps.CompApparelReloadable.chargeNoun>TODO</OTC_GrenadeBelt_Cryo.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OTC_GrenadeBelt_Cryo.comps.CompApparelReloadable.cooldownGerund>TODO</OTC_GrenadeBelt_Cryo.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: throw cryo grenade -->
+  <OTC_GrenadeBelt_Cryo.verbs.throw_cryo_grenade.label>TODO</OTC_GrenadeBelt_Cryo.verbs.throw_cryo_grenade.label>
+  
+  <!-- EN: OTC grenade belt(EMP) -->
+  <OTC_GrenadeBelt_EMP.label>TODO</OTC_GrenadeBelt_EMP.label>
+  <!-- EN: A grenade belt loaded with explosives that deal powerful EMP damage on explode. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. Designed and modified for use by OTC Engineers.\n\nCan be reloaded using Obsidia Ammo Kit. -->
+  <OTC_GrenadeBelt_EMP.description>TODO</OTC_GrenadeBelt_EMP.description>
+  <!-- EN: grenade -->
+  <OTC_GrenadeBelt_EMP.comps.CompApparelReloadable.chargeNoun>TODO</OTC_GrenadeBelt_EMP.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OTC_GrenadeBelt_EMP.comps.CompApparelReloadable.cooldownGerund>TODO</OTC_GrenadeBelt_EMP.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: throw EMP grenade -->
+  <OTC_GrenadeBelt_EMP.verbs.throw_EMP_grenade.label>TODO</OTC_GrenadeBelt_EMP.verbs.throw_EMP_grenade.label>
+  
+  <!-- EN: OTC grenade belt(Fire) -->
+  <OTC_GrenadeBelt_Fire.label>TODO</OTC_GrenadeBelt_Fire.label>
+  <!-- EN: A grenade belt loaded with explosives that deal powerful Fire damage on explode. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. Designed and modified for use by OTC Engineers.\n\nCan be reloaded using Obsidia Ammo Kit. -->
+  <OTC_GrenadeBelt_Fire.description>TODO</OTC_GrenadeBelt_Fire.description>
+  <!-- EN: grenade -->
+  <OTC_GrenadeBelt_Fire.comps.CompApparelReloadable.chargeNoun>TODO</OTC_GrenadeBelt_Fire.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OTC_GrenadeBelt_Fire.comps.CompApparelReloadable.cooldownGerund>TODO</OTC_GrenadeBelt_Fire.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: throw fire grenade -->
+  <OTC_GrenadeBelt_Fire.verbs.throw_fire_grenade.label>TODO</OTC_GrenadeBelt_Fire.verbs.throw_fire_grenade.label>
+  
+</LanguageData>

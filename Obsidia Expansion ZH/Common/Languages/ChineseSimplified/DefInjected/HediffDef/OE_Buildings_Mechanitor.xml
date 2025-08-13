@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: combat boost -->
+  <OE_MechCombatBoost.label>TODO</OE_MechCombatBoost.label>
+  <!-- EN: This mechanoid's armor and targeting are being enhanced by a nearby mech combat antenna. -->
+  <OE_MechCombatBoost.description>TODO</OE_MechCombatBoost.description>
+  
+  <!-- EN: mech corruption -->
+  <OE_MechCorrupterBoost.label>TODO</OE_MechCorrupterBoost.label>
+  <!-- EN: This mechanoid's speed, armor and targeting are being reduced by a nearby mech corrupter antenna. -->
+  <OE_MechCorrupterBoost.description>TODO</OE_MechCorrupterBoost.description>
+  
+  <!-- EN: efficiency boost -->
+  <OE_MechWorkerBoost.label>TODO</OE_MechWorkerBoost.label>
+  <!-- EN: This mechanoid's energy efficiency, move and work speed are being enhanced by a nearby mech efficiency antenna. -->
+  <OE_MechWorkerBoost.description>TODO</OE_MechWorkerBoost.description>
+  
+</LanguageData>

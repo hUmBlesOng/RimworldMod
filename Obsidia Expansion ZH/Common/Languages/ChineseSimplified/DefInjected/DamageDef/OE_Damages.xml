@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blast -->
+  <OCCBlast.label>TODO</OCCBlast.label>
+  <!-- EN: {0} has been blasted to death. -->
+  <OCCBlast.deathMessage>TODO</OCCBlast.deathMessage>
+  
+  <!-- EN: unstable toxins -->
+  <OEUnstableToxins.label>TODO</OEUnstableToxins.label>
+  <!-- EN: {0} has overdosed on unstable toxins. -->
+  <OEUnstableToxins.deathMessage>TODO</OEUnstableToxins.deathMessage>
+  
+  <!-- EN: necrobane -->
+  <OMGNecrobane.label>TODO</OMGNecrobane.label>
+  <!-- EN: {0} has fallen to necrobane... yet walks again. -->
+  <OMGNecrobane.deathMessage>TODO</OMGNecrobane.deathMessage>
+  
+  <!-- EN: acid -->
+  <OTCAcid.label>TODO</OTCAcid.label>
+  <!-- EN: {0} has dissolved in acid burns. -->
+  <OTCAcid.deathMessage>TODO</OTCAcid.deathMessage>
+  
+  <!-- EN: cryo -->
+  <OTCCryo.label>TODO</OTCCryo.label>
+  <!-- EN: {0} has succumbed to frostbite. -->
+  <OTCCryo.deathMessage>TODO</OTCCryo.deathMessage>
+  
+</LanguageData>

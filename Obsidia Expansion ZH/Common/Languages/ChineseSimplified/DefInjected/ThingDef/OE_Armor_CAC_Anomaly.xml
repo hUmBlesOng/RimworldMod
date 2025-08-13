@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: disruptor flare -->
+  <CAC_DisruptorFlare.label>TODO</CAC_DisruptorFlare.label>
+  
+  <!-- EN: Grieving Turret -->
+  <CAC_Gun_TacticalTurret.label>TODO</CAC_Gun_TacticalTurret.label>
+  <!-- EN: Reconstructed CAC Shotgun for turrets. -->
+  <CAC_Gun_TacticalTurret.description>TODO</CAC_Gun_TacticalTurret.description>
+  <!-- EN: Grieving Turret -->
+  <CAC_Gun_TacticalTurret.verbs.Verb_Shoot.label>TODO</CAC_Gun_TacticalTurret.verbs.Verb_Shoot.label>
+  
+  <!-- EN: CAC Cultist Heavy Armor(Goblin) -->
+  <CAC_HeavyArmor_Turret.label>TODO</CAC_HeavyArmor_Turret.label>
+  <!-- EN: Heavy power armor, excellent protects the owner. Designed and modified for use by CAC Cultists.\n\nModified with the pack that allows the user to deploy a battery-powered turret. -->
+  <CAC_HeavyArmor_Turret.description>TODO</CAC_HeavyArmor_Turret.description>
+  <!-- EN: incendiary -->
+  <CAC_HeavyArmor_Turret.comps.CompApparelReloadable.chargeNoun>TODO</CAC_HeavyArmor_Turret.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CAC_HeavyArmor_Turret.comps.CompApparelReloadable.cooldownGerund>TODO</CAC_HeavyArmor_Turret.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: deploy turret -->
+  <CAC_HeavyArmor_Turret.verbs.deploy_turret.label>TODO</CAC_HeavyArmor_Turret.verbs.deploy_turret.label>
+  
+  <!-- EN: CAC Cultist Light Armor(Goblin) -->
+  <CAC_LightArmor_Turret.label>TODO</CAC_LightArmor_Turret.label>
+  <!-- EN: Light power armor, well protects the owner. Designed and modified for use by CAC Cultists.\n\nModified with the pack that allows the user to deploy a battery-powered turret. -->
+  <CAC_LightArmor_Turret.description>TODO</CAC_LightArmor_Turret.description>
+  <!-- EN: incendiary -->
+  <CAC_LightArmor_Turret.comps.CompApparelReloadable.chargeNoun>TODO</CAC_LightArmor_Turret.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CAC_LightArmor_Turret.comps.CompApparelReloadable.cooldownGerund>TODO</CAC_LightArmor_Turret.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: deploy turret -->
+  <CAC_LightArmor_Turret.verbs.deploy_turret.label>TODO</CAC_LightArmor_Turret.verbs.deploy_turret.label>
+  
+  <!-- EN: CAC Priest Armor -->
+  <CAC_PriestArmor.label>TODO</CAC_PriestArmor.label>
+  <!-- EN: Heavy power armor, excellent protects the owner. Designed and modified for use by CAC Priests.\n\nIt has a built-in module with a flare dispenser. -->
+  <CAC_PriestArmor.description>TODO</CAC_PriestArmor.description>
+  <!-- EN: flare -->
+  <CAC_PriestArmor.comps.CompApparelReloadable.chargeNoun>TODO</CAC_PriestArmor.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <CAC_PriestArmor.comps.CompApparelReloadable.cooldownGerund>TODO</CAC_PriestArmor.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: deploy flare -->
+  <CAC_PriestArmor.verbs.deploy_flare.label>TODO</CAC_PriestArmor.verbs.deploy_flare.label>
+  
+  <!-- EN: CAC tactical turret -->
+  <CAC_Turret_TacticalTurret.label>TODO</CAC_Turret_TacticalTurret.label>
+  <!-- EN: An automatic CAC Shotgun-equipped turret. It will stop functioning once its battery runs out. -->
+  <CAC_Turret_TacticalTurret.description>TODO</CAC_Turret_TacticalTurret.description>
+  <!-- EN: Battery power -->
+  <CAC_Turret_TacticalTurret.comps.CompMechPowerCell.labelOverride>TODO</CAC_Turret_TacticalTurret.comps.CompMechPowerCell.labelOverride>
+  <!-- EN: This turret has a limited battery life. Once it runs out, it will stop working entirely. -->
+  <CAC_Turret_TacticalTurret.comps.CompMechPowerCell.tooltipOverride>TODO</CAC_Turret_TacticalTurret.comps.CompMechPowerCell.tooltipOverride>
+  
+  <!-- EN: CAC turret pack capsule -->
+  <Grenade_Armor_CAC_TurretPack.label>TODO</Grenade_Armor_CAC_TurretPack.label>
+  
+</LanguageData>

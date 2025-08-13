@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: deadlife capsule -->
+  <Grenade_OMG_Deadlife.label>TODO</Grenade_OMG_Deadlife.label>
+  
+  <!-- EN: disruptor flare -->
+  <OMG_DisruptorFlare.label>TODO</OMG_DisruptorFlare.label>
+  
+  <!-- EN: Mercenary Helmet(Firemark) -->
+  <OMG_Trophy_Helmet_Firemark.label>TODO</OMG_Trophy_Helmet_Firemark.label>
+  <!-- EN: Highly modified heavy power armor Helmet, excellent protects the owner. Designed for use by Mercenaries.\n\nThis variation provides a built-in module with a flyer dispenser.\n\nThis modification deprives item's quality levels. -->
+  <OMG_Trophy_Helmet_Firemark.description>TODO</OMG_Trophy_Helmet_Firemark.description>
+  <!-- EN: charge -->
+  <OMG_Trophy_Helmet_Firemark.comps.CompApparelReloadable.chargeNoun>TODO</OMG_Trophy_Helmet_Firemark.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OMG_Trophy_Helmet_Firemark.comps.CompApparelReloadable.cooldownGerund>TODO</OMG_Trophy_Helmet_Firemark.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: Mercenary Helmet(Firemark) -->
+  <OMG_Trophy_Helmet_Firemark.verbs.Verb_LaunchProjectileStaticPsychic.label>TODO</OMG_Trophy_Helmet_Firemark.verbs.Verb_LaunchProjectileStaticPsychic.label>
+  
+  <!-- EN: Mercenary Helmet(Fleshcrafter) -->
+  <OMG_Trophy_Helmet_Fleshcrafter.label>TODO</OMG_Trophy_Helmet_Fleshcrafter.label>
+  <!-- EN: Highly modified heavy power armor Helmet, excellent protects the owner. Designed for use by Mercenaries.\n\nThis variation provides the owner with power of Biomutation lance.\n\nThis modification deprives item's quality levels. -->
+  <OMG_Trophy_Helmet_Fleshcrafter.description>TODO</OMG_Trophy_Helmet_Fleshcrafter.description>
+  <!-- EN: charge -->
+  <OMG_Trophy_Helmet_Fleshcrafter.comps.CompApparelReloadable.chargeNoun>TODO</OMG_Trophy_Helmet_Fleshcrafter.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OMG_Trophy_Helmet_Fleshcrafter.comps.CompApparelReloadable.cooldownGerund>TODO</OMG_Trophy_Helmet_Fleshcrafter.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: Mercenary Helmet(Fleshcrafter) -->
+  <OMG_Trophy_Helmet_Fleshcrafter.verbs.Verb_CastTargetEffectBiomutationLance.label>TODO</OMG_Trophy_Helmet_Fleshcrafter.verbs.Verb_CastTargetEffectBiomutationLance.label>
+  
+  <!-- EN: Mercenary Helmet(Necrospark) -->
+  <OMG_Trophy_Helmet_Necrospark.label>TODO</OMG_Trophy_Helmet_Necrospark.label>
+  <!-- EN: Highly modified heavy power armor Helmet, excellent protects the owner. Designed for use by Mercenaries.\n\nThis variation provides a built-in module with a deadlife pack.\n\nThis modification deprives item's quality levels. -->
+  <OMG_Trophy_Helmet_Necrospark.description>TODO</OMG_Trophy_Helmet_Necrospark.description>
+  <!-- EN: charge -->
+  <OMG_Trophy_Helmet_Necrospark.comps.CompApparelReloadable.chargeNoun>TODO</OMG_Trophy_Helmet_Necrospark.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OMG_Trophy_Helmet_Necrospark.comps.CompApparelReloadable.cooldownGerund>TODO</OMG_Trophy_Helmet_Necrospark.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: Mercenary Helmet(Necrospark) -->
+  <OMG_Trophy_Helmet_Necrospark.verbs.Verb_LaunchProjectileStatic.label>TODO</OMG_Trophy_Helmet_Necrospark.verbs.Verb_LaunchProjectileStatic.label>
+  
+  <!-- EN: deadlife capsule -->
+  <Shell_OMG_Deadlife.label>TODO</Shell_OMG_Deadlife.label>
+  
+</LanguageData>

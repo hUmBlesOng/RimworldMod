@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Unique bond Assault Rifle -->
+  <OE_Bond_AssaultRifle_Unique.label>TODO</OE_Bond_AssaultRifle_Unique.label>
+  <!-- EN: Unique bond a Assault Rifle. -->
+  <OE_Bond_AssaultRifle_Unique.description>TODO</OE_Bond_AssaultRifle_Unique.description>
+  <!-- EN: Unique bonding a Assault Rifle. -->
+  <OE_Bond_AssaultRifle_Unique.jobString>TODO</OE_Bond_AssaultRifle_Unique.jobString>
+  
+  <!-- EN: Unique bond Beam Repeater -->
+  <OE_Bond_BeamRepeater_Unique.label>TODO</OE_Bond_BeamRepeater_Unique.label>
+  <!-- EN: Unique bond a Beam Repeater. -->
+  <OE_Bond_BeamRepeater_Unique.description>TODO</OE_Bond_BeamRepeater_Unique.description>
+  <!-- EN: Unique bonding a Beam Repeater. -->
+  <OE_Bond_BeamRepeater_Unique.jobString>TODO</OE_Bond_BeamRepeater_Unique.jobString>
+  
+  <!-- EN: Unique bond Bolt-action Rifle -->
+  <OE_Bond_BoltActionRifle_Unique.label>TODO</OE_Bond_BoltActionRifle_Unique.label>
+  <!-- EN: Unique bond a Bolt-action Rifle. -->
+  <OE_Bond_BoltActionRifle_Unique.description>TODO</OE_Bond_BoltActionRifle_Unique.description>
+  <!-- EN: Unique bonding a Bolt-action Rifle. -->
+  <OE_Bond_BoltActionRifle_Unique.jobString>TODO</OE_Bond_BoltActionRifle_Unique.jobString>
+  
+  <!-- EN: Unique bond Greatbow -->
+  <OE_Bond_Bow_Great_Unique.label>TODO</OE_Bond_Bow_Great_Unique.label>
+  <!-- EN: Unique bond a Greatbow. -->
+  <OE_Bond_Bow_Great_Unique.description>TODO</OE_Bond_Bow_Great_Unique.description>
+  <!-- EN: Unique bonding a Greatbow. -->
+  <OE_Bond_Bow_Great_Unique.jobString>TODO</OE_Bond_Bow_Great_Unique.jobString>
+  
+  <!-- EN: Unique bond Chain Shotgun -->
+  <OE_Bond_ChainShotgun_Unique.label>TODO</OE_Bond_ChainShotgun_Unique.label>
+  <!-- EN: Unique bond a Chain Shotgun. -->
+  <OE_Bond_ChainShotgun_Unique.description>TODO</OE_Bond_ChainShotgun_Unique.description>
+  <!-- EN: Unique bonding a Chain Shotgun. -->
+  <OE_Bond_ChainShotgun_Unique.jobString>TODO</OE_Bond_ChainShotgun_Unique.jobString>
+  
+  <!-- EN: Unique bond Charge Lance -->
+  <OE_Bond_ChargeLance_Unique.label>TODO</OE_Bond_ChargeLance_Unique.label>
+  <!-- EN: Unique bond a Charge Lance. -->
+  <OE_Bond_ChargeLance_Unique.description>TODO</OE_Bond_ChargeLance_Unique.description>
+  <!-- EN: Unique bonding a Charge Lance. -->
+  <OE_Bond_ChargeLance_Unique.jobString>TODO</OE_Bond_ChargeLance_Unique.jobString>
+  
+  <!-- EN: Unique bond Charge Rifle -->
+  <OE_Bond_ChargeRifle_Unique.label>TODO</OE_Bond_ChargeRifle_Unique.label>
+  <!-- EN: Unique bond a Charge Rifle. -->
+  <OE_Bond_ChargeRifle_Unique.description>TODO</OE_Bond_ChargeRifle_Unique.description>
+  <!-- EN: Unique bonding a Charge Rifle. -->
+  <OE_Bond_ChargeRifle_Unique.jobString>TODO</OE_Bond_ChargeRifle_Unique.jobString>
+  
+  <!-- EN: Unique bond Heavy SMG -->
+  <OE_Bond_HeavySMG_Unique.label>TODO</OE_Bond_HeavySMG_Unique.label>
+  <!-- EN: Unique bond a Heavy SMG. -->
+  <OE_Bond_HeavySMG_Unique.description>TODO</OE_Bond_HeavySMG_Unique.description>
+  <!-- EN: Unique bonding a Heavy SMG. -->
+  <OE_Bond_HeavySMG_Unique.jobString>TODO</OE_Bond_HeavySMG_Unique.jobString>
+  
+  <!-- EN: Unique bond Hellcat Rifle -->
+  <OE_Bond_HellcatRifle_Unique.label>TODO</OE_Bond_HellcatRifle_Unique.label>
+  <!-- EN: Unique bond a Hellcat Rifle. -->
+  <OE_Bond_HellcatRifle_Unique.description>TODO</OE_Bond_HellcatRifle_Unique.description>
+  <!-- EN: Unique bonding a Hellcat Rifle. -->
+  <OE_Bond_HellcatRifle_Unique.jobString>TODO</OE_Bond_HellcatRifle_Unique.jobString>
+  
+  <!-- EN: Unique bond LMG -->
+  <OE_Bond_LMG_Unique.label>TODO</OE_Bond_LMG_Unique.label>
+  <!-- EN: Unique bond a LMG. -->
+  <OE_Bond_LMG_Unique.description>TODO</OE_Bond_LMG_Unique.description>
+  <!-- EN: Unique bonding a LMG. -->
+  <OE_Bond_LMG_Unique.jobString>TODO</OE_Bond_LMG_Unique.jobString>
+  
+  <!-- EN: Unique bond Minigun -->
+  <OE_Bond_Minigun_Unique.label>TODO</OE_Bond_Minigun_Unique.label>
+  <!-- EN: Unique bond a Minigun. -->
+  <OE_Bond_Minigun_Unique.description>TODO</OE_Bond_Minigun_Unique.description>
+  <!-- EN: Unique bonding a Minigun. -->
+  <OE_Bond_Minigun_Unique.jobString>TODO</OE_Bond_Minigun_Unique.jobString>
+  
+  <!-- EN: Unique bond Revolver -->
+  <OE_Bond_Revolver_Unique.label>TODO</OE_Bond_Revolver_Unique.label>
+  <!-- EN: Unique bond a Revolver. -->
+  <OE_Bond_Revolver_Unique.description>TODO</OE_Bond_Revolver_Unique.description>
+  <!-- EN: Unique bonding a Revolver. -->
+  <OE_Bond_Revolver_Unique.jobString>TODO</OE_Bond_Revolver_Unique.jobString>
+  
+  <!-- EN: Unique bond Sniper Rifle -->
+  <OE_Bond_SniperRifle_Unique.label>TODO</OE_Bond_SniperRifle_Unique.label>
+  <!-- EN: Unique bond a Sniper Rifle. -->
+  <OE_Bond_SniperRifle_Unique.description>TODO</OE_Bond_SniperRifle_Unique.description>
+  <!-- EN: Unique bonding a Sniper Rifle. -->
+  <OE_Bond_SniperRifle_Unique.jobString>TODO</OE_Bond_SniperRifle_Unique.jobString>
+  
+  <!-- EN: Reset Unique Assault Rifle -->
+  <OE_Reset_AssaultRifle_Unique_P.label>TODO</OE_Reset_AssaultRifle_Unique_P.label>
+  <!-- EN: Reset an Unique Assault Rifle.\n\nWarning! Item Quality and Unique traits will be changed. -->
+  <OE_Reset_AssaultRifle_Unique_P.description>TODO</OE_Reset_AssaultRifle_Unique_P.description>
+  <!-- EN: Resetting a Unique Assault Rifle. -->
+  <OE_Reset_AssaultRifle_Unique_P.jobString>TODO</OE_Reset_AssaultRifle_Unique_P.jobString>
+  
+  <!-- EN: Reset Unique Beam Repeater -->
+  <OE_Reset_BeamRepeater_Unique_P.label>TODO</OE_Reset_BeamRepeater_Unique_P.label>
+  <!-- EN: Reset an Unique Beam Repeater.\n\nWarning! Item Quality and Unique traits will be changed. -->
+  <OE_Reset_BeamRepeater_Unique_P.description>TODO</OE_Reset_BeamRepeater_Unique_P.description>
+  <!-- EN: Resetting a Unique Beam Repeater. -->
+  <OE_Reset_BeamRepeater_Unique_P.jobString>TODO</OE_Reset_BeamRepeater_Unique_P.jobString>
+  
+  <!-- EN: Reset Unique Bolt-action Rifle -->
+  <OE_Reset_BoltActionRifle_Unique_P.label>TODO</OE_Reset_BoltActionRifle_Unique_P.label>
+  <!-- EN: Reset an Unique Bolt-action Rifle.\n\nWarning! Item Quality and Unique traits will be changed. -->
+  <OE_Reset_BoltActionRifle_Unique_P.description>TODO</OE_Reset_BoltActionRifle_Unique_P.description>
+  <!-- EN: Resetting a Unique Bolt-action Rifle. -->
+  <OE_Reset_BoltActionRifle_Unique_P.jobString>TODO</OE_Reset_BoltActionRifle_Unique_P.jobString>
+  
+  <!-- EN: Reset Unique Greatbow -->
+  <OE_Reset_Bow_Great_Unique_P.label>TODO</OE_Reset_Bow_Great_Unique_P.label>
+  <!-- EN: Reset an Unique Greatbow.\n\nWarning! Item Quality and Unique traits will be changed. -->
+  <OE_Reset_Bow_Great_Unique_P.description>TODO</OE_Reset_Bow_Great_Unique_P.description>
+  <!-- EN: Resetting a Unique Greatbow. -->
+  <OE_Reset_Bow_Great_Unique_P.jobString>TODO</OE_Reset_Bow_Great_Unique_P.jobString>
+  
+  <!-- EN: Reset Unique Chain Shotgun -->
+  <OE_Reset_ChainShotgun_Unique_P.label>TODO</OE_Reset_ChainShotgun_Unique_P.label>
+  <!-- EN: Reset an Unique Chain Shotgun.\n\nWarning! Item Quality and Unique traits will be changed. -->
+  <OE_Reset_ChainShotgun_Unique_P.description>TODO</OE_Reset_ChainShotgun_Unique_P.description>
+  <!-- EN: Resetting a Unique Chain Shotgun. -->
+  <OE_Reset_ChainShotgun_Unique_P.jobString>TODO</OE_Reset_ChainShotgun_Unique_P.jobString>
+  
+  <!-- EN: Reset Unique Charge Lance -->
+  <OE_Reset_ChargeLance_Unique_P.label>TODO</OE_Reset_ChargeLance_Unique_P.label>
+  <!-- EN: Reset an Unique Charge Lance.\n\nWarning! Item Quality and Unique traits will be changed. -->
+  <OE_Reset_ChargeLance_Unique_P.description>TODO</OE_Reset_ChargeLance_Unique_P.description>
+  <!-- EN: Resetting a Unique Charge Lance. -->
+  <OE_Reset_ChargeLance_Unique_P.jobString>TODO</OE_Reset_ChargeLance_Unique_P.jobString>
+  
+  <!-- EN: Reset Unique Charge Rifle -->
+  <OE_Reset_ChargeRifle_Unique_P.label>TODO</OE_Reset_ChargeRifle_Unique_P.label>
+  <!-- EN: Reset an Unique Charge Rifle.\n\nWarning! Item Quality and Unique traits will be changed. -->
+  <OE_Reset_ChargeRifle_Unique_P.description>TODO</OE_Reset_ChargeRifle_Unique_P.description>
+  <!-- EN: Resetting a Unique Charge Rifle. -->
+  <OE_Reset_ChargeRifle_Unique_P.jobString>TODO</OE_Reset_ChargeRifle_Unique_P.jobString>
+  
+  <!-- EN: Reset Unique Heavy SMG -->
+  <OE_Reset_HeavySMG_Unique_P.label>TODO</OE_Reset_HeavySMG_Unique_P.label>
+  <!-- EN: Reset an Unique Heavy SMG.\n\nWarning! Item Quality and Unique traits will be changed. -->
+  <OE_Reset_HeavySMG_Unique_P.description>TODO</OE_Reset_HeavySMG_Unique_P.description>
+  <!-- EN: Resetting a Unique Heavy SMG. -->
+  <OE_Reset_HeavySMG_Unique_P.jobString>TODO</OE_Reset_HeavySMG_Unique_P.jobString>
+  
+  <!-- EN: Reset Unique Hellcat Rifle -->
+  <OE_Reset_HellcatRifle_Unique_P.label>TODO</OE_Reset_HellcatRifle_Unique_P.label>
+  <!-- EN: Reset an Unique Hellcat Rifle.\n\nWarning! Item Quality and Unique traits will be changed. -->
+  <OE_Reset_HellcatRifle_Unique_P.description>TODO</OE_Reset_HellcatRifle_Unique_P.description>
+  <!-- EN: Resetting a Unique Hellcat Rifle. -->
+  <OE_Reset_HellcatRifle_Unique_P.jobString>TODO</OE_Reset_HellcatRifle_Unique_P.jobString>
+  
+  <!-- EN: Reset Unique LMG -->
+  <OE_Reset_LMG_Unique_P.label>TODO</OE_Reset_LMG_Unique_P.label>
+  <!-- EN: Reset an Unique LMG.\n\nWarning! Item Quality and Unique traits will be changed. -->
+  <OE_Reset_LMG_Unique_P.description>TODO</OE_Reset_LMG_Unique_P.description>
+  <!-- EN: Resetting a Unique LMG. -->
+  <OE_Reset_LMG_Unique_P.jobString>TODO</OE_Reset_LMG_Unique_P.jobString>
+  
+  <!-- EN: Reset Unique Minigun -->
+  <OE_Reset_Minigun_Unique_P.label>TODO</OE_Reset_Minigun_Unique_P.label>
+  <!-- EN: Reset an Unique Minigun.\n\nWarning! Item Quality and Unique traits will be changed. -->
+  <OE_Reset_Minigun_Unique_P.description>TODO</OE_Reset_Minigun_Unique_P.description>
+  <!-- EN: Resetting a Unique Minigun. -->
+  <OE_Reset_Minigun_Unique_P.jobString>TODO</OE_Reset_Minigun_Unique_P.jobString>
+  
+  <!-- EN: Reset Unique Revolver -->
+  <OE_Reset_Revolver_Unique_P.label>TODO</OE_Reset_Revolver_Unique_P.label>
+  <!-- EN: Reset an Unique Revolver.\n\nWarning! Item Quality and Unique traits will be changed. -->
+  <OE_Reset_Revolver_Unique_P.description>TODO</OE_Reset_Revolver_Unique_P.description>
+  <!-- EN: Resetting a Unique Revolver. -->
+  <OE_Reset_Revolver_Unique_P.jobString>TODO</OE_Reset_Revolver_Unique_P.jobString>
+  
+  <!-- EN: Reset Unique Sniper Rifle -->
+  <OE_Reset_SniperRifle_Unique_P.label>TODO</OE_Reset_SniperRifle_Unique_P.label>
+  <!-- EN: Reset an Unique Sniper Rifle.\n\nWarning! Item Quality and Unique traits will be changed. -->
+  <OE_Reset_SniperRifle_Unique_P.description>TODO</OE_Reset_SniperRifle_Unique_P.description>
+  <!-- EN: Resetting a Unique Sniper Rifle. -->
+  <OE_Reset_SniperRifle_Unique_P.jobString>TODO</OE_Reset_SniperRifle_Unique_P.jobString>
+  
+</LanguageData>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Persona Genesis Prototype(Fire) -->
+  <OTC_BigAxe_P_Fire.label>TODO</OTC_BigAxe_P_Fire.label>
+  <!-- EN: Persona Experimental Big Axe used by OTC Engineers. Charged with Fire damage. -->
+  <OTC_BigAxe_P_Fire.description>TODO</OTC_BigAxe_P_Fire.description>
+  <!-- EN: handle -->
+  <OTC_BigAxe_P_Fire.tools.handle.label>TODO</OTC_BigAxe_P_Fire.tools.handle.label>
+  <!-- EN: edge -->
+  <OTC_BigAxe_P_Fire.tools.edge.label>TODO</OTC_BigAxe_P_Fire.tools.edge.label>
+  
+  <!-- EN: Persona Nemesis Prototype(Fire) -->
+  <OTC_ChainAxe_P_Fire.label>TODO</OTC_ChainAxe_P_Fire.label>
+  <!-- EN: Persona Experimental ChainAxe used by OTC Engineers. Charged with Fire damage. -->
+  <OTC_ChainAxe_P_Fire.description>TODO</OTC_ChainAxe_P_Fire.description>
+  <!-- EN: handle -->
+  <OTC_ChainAxe_P_Fire.tools.handle.label>TODO</OTC_ChainAxe_P_Fire.tools.handle.label>
+  <!-- EN: chain -->
+  <OTC_ChainAxe_P_Fire.tools.chain.label>TODO</OTC_ChainAxe_P_Fire.tools.chain.label>
+  
+  <!-- EN: Persona Nemesis Prototype(Fire) -->
+  <OTC_Hammer_P_Fire.label>TODO</OTC_Hammer_P_Fire.label>
+  <!-- EN: Persona Experimental Hammer used by OTC Engineers. Charged with Fire damage. -->
+  <OTC_Hammer_P_Fire.description>TODO</OTC_Hammer_P_Fire.description>
+  <!-- EN: handle -->
+  <OTC_Hammer_P_Fire.tools.handle.label>TODO</OTC_Hammer_P_Fire.tools.handle.label>
+  <!-- EN: head -->
+  <OTC_Hammer_P_Fire.tools.head.label>TODO</OTC_Hammer_P_Fire.tools.head.label>
+  
+</LanguageData>

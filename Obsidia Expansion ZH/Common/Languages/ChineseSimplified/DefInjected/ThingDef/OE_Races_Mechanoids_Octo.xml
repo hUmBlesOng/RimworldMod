@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Octo-Bot -->
+  <OE_Mech_Octo.label>TODO</OE_Mech_Octo.label>
+  <!-- EN: A mechanoid designed as worker. Lacking a ranged weapon, it can make only weak melee attacks. Octo-Bot is designed to perform a large number of tasks such as construction, crafting, hauling, mining, smithing, and tailoring. -->
+  <OE_Mech_Octo.description>TODO</OE_Mech_Octo.description>
+  <!-- EN: head -->
+  <OE_Mech_Octo.tools.head-0.label>TODO</OE_Mech_Octo.tools.head-0.label>
+  <!-- EN: tentacle -->
+  <OE_Mech_Octo.tools.tentacle.label>TODO</OE_Mech_Octo.tools.tentacle.label>
+  <!-- EN: head -->
+  <OE_Mech_Octo.tools.head-1.label>TODO</OE_Mech_Octo.tools.head-1.label>
+  
+</LanguageData>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Humunculus bullet -->
+  <Bullet_EGO_P.label>TODO</Bullet_EGO_P.label>
+  
+  <!-- EN: Corrupter blast -->
+  <Bullet_EGO_S.label>TODO</Bullet_EGO_S.label>
+  
+  <!-- EN: Toxocyst bullet -->
+  <Bullet_EGO_SMG.label>TODO</Bullet_EGO_SMG.label>
+  
+  <!-- EN: Patagius bullet -->
+  <Bullet_EGO_SR.label>TODO</Bullet_EGO_SR.label>
+  
+  <!-- EN: Humunculus -->
+  <EGO_Pistol.label>TODO</EGO_Pistol.label>
+  <!-- EN: Amalgam Pistol used by Undyings. Amalgams are hybrids of EGO seed and Obsidia technology. Specially gestated weapon charged with Cryo and Acid damages.\n\nThis modification deprives item's quality levels. -->
+  <EGO_Pistol.description>TODO</EGO_Pistol.description>
+  <!-- EN: charge -->
+  <EGO_Pistol.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</EGO_Pistol.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <EGO_Pistol.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</EGO_Pistol.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Humunculus -->
+  <EGO_Pistol.comps.CompUniqueWeapon.namerLabels.0>TODO</EGO_Pistol.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: fang -->
+  <EGO_Pistol.tools.fang.label>TODO</EGO_Pistol.tools.fang.label>
+  <!-- EN: Humunculus -->
+  <EGO_Pistol.verbs.Verb_Shoot.label>TODO</EGO_Pistol.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Corrupter -->
+  <EGO_Shotgun.label>TODO</EGO_Shotgun.label>
+  <!-- EN: Amalgam Shotgun used by Undyings. Amalgams are hybrids of EGO seed and Obsidia technology. Specially gestated weapon charged with Cryo and Acid damages.\n\nThis modification deprives item's quality levels. -->
+  <EGO_Shotgun.description>TODO</EGO_Shotgun.description>
+  <!-- EN: charge -->
+  <EGO_Shotgun.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</EGO_Shotgun.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <EGO_Shotgun.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</EGO_Shotgun.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Corrupter -->
+  <EGO_Shotgun.comps.CompUniqueWeapon.namerLabels.0>TODO</EGO_Shotgun.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: fang -->
+  <EGO_Shotgun.tools.fang.label>TODO</EGO_Shotgun.tools.fang.label>
+  <!-- EN: Corrupter -->
+  <EGO_Shotgun.verbs.Verb_Shoot.label>TODO</EGO_Shotgun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Toxocyst -->
+  <EGO_SMG.label>TODO</EGO_SMG.label>
+  <!-- EN: Amalgam SMG used by Undyings. Amalgams are hybrids of EGO seed and Obsidia technology. Specially gestated weapon charged with Cryo and Acid damages.\n\nThis modification deprives item's quality levels. -->
+  <EGO_SMG.description>TODO</EGO_SMG.description>
+  <!-- EN: charge -->
+  <EGO_SMG.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</EGO_SMG.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <EGO_SMG.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</EGO_SMG.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Toxocyst -->
+  <EGO_SMG.comps.CompUniqueWeapon.namerLabels.0>TODO</EGO_SMG.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: fang -->
+  <EGO_SMG.tools.fang.label>TODO</EGO_SMG.tools.fang.label>
+  <!-- EN: Toxocyst -->
+  <EGO_SMG.verbs.Verb_Shoot.label>TODO</EGO_SMG.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Patagius -->
+  <EGO_SniperRifle.label>TODO</EGO_SniperRifle.label>
+  <!-- EN: Amalgam Sniper Rifle used by Undyings. Amalgams are hybrids of EGO seed and Obsidia technology. Specially gestated weapon charged with Cryo and Acid damages.\n\nThis modification deprives item's quality levels. -->
+  <EGO_SniperRifle.description>TODO</EGO_SniperRifle.description>
+  <!-- EN: charge -->
+  <EGO_SniperRifle.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</EGO_SniperRifle.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <EGO_SniperRifle.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</EGO_SniperRifle.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Patagius -->
+  <EGO_SniperRifle.comps.CompUniqueWeapon.namerLabels.0>TODO</EGO_SniperRifle.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: fang -->
+  <EGO_SniperRifle.tools.fang.label>TODO</EGO_SniperRifle.tools.fang.label>
+  <!-- EN: Patagius -->
+  <EGO_SniperRifle.verbs.Verb_Shoot.label>TODO</EGO_SniperRifle.verbs.Verb_Shoot.label>
+  
+</LanguageData>

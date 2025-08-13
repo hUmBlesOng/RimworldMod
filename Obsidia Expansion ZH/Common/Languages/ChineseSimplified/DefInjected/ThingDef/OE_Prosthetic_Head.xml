@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bionic ear -->
+  <OE_ProstheticEar.label>TODO</OE_ProstheticEar.label>
+  <!-- EN: Obsidia bionic ear. It is better than a biological ear in almost every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a small strain on the body. -->
+  <OE_ProstheticEar.description>TODO</OE_ProstheticEar.description>
+  
+  <!-- EN: cultist bionic ear -->
+  <OE_ProstheticEar_CAC.label>TODO</OE_ProstheticEar_CAC.label>
+  <!-- EN: Obsidia cultist bionic ear. It is much better than a biological ear in every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a perceptible strain on the body. -->
+  <OE_ProstheticEar_CAC.description>TODO</OE_ProstheticEar_CAC.description>
+  
+  <!-- EN: advanced bionic ear -->
+  <OE_ProstheticEar_M.label>TODO</OE_ProstheticEar_M.label>
+  <!-- EN: Obsidian advanced bionic ear. It is much better than a biological ear in almost every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a strain on the body. -->
+  <OE_ProstheticEar_M.description>TODO</OE_ProstheticEar_M.description>
+  
+  <!-- EN: heroic bionic ear -->
+  <OE_ProstheticEar_OES.label>TODO</OE_ProstheticEar_OES.label>
+  <!-- EN: Obsidia heroic bionic ear. It is much better than a biological ear in every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a perceptible strain on the body. -->
+  <OE_ProstheticEar_OES.description>TODO</OE_ProstheticEar_OES.description>
+  
+  <!-- EN: bionic eye -->
+  <OE_ProstheticEye.label>TODO</OE_ProstheticEye.label>
+  <!-- EN: Obsidia bionic eye. It is better than a biological eye in almost every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a small strain on the body. -->
+  <OE_ProstheticEye.description>TODO</OE_ProstheticEye.description>
+  
+  <!-- EN: cultist bionic eye -->
+  <OE_ProstheticEye_CAC.label>TODO</OE_ProstheticEye_CAC.label>
+  <!-- EN: Obsidia cultist bionic eye. It is much better than a biological eye in every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a perceptible strain on the body. -->
+  <OE_ProstheticEye_CAC.description>TODO</OE_ProstheticEye_CAC.description>
+  
+  <!-- EN: advanced bionic eye -->
+  <OE_ProstheticEye_M.label>TODO</OE_ProstheticEye_M.label>
+  <!-- EN: Obsidian advanced bionic eye. It is much better than a biological eye in almost every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a strain on the body. -->
+  <OE_ProstheticEye_M.description>TODO</OE_ProstheticEye_M.description>
+  
+  <!-- EN: heroic bionic eye -->
+  <OE_ProstheticEye_OES.label>TODO</OE_ProstheticEye_OES.label>
+  <!-- EN: Obsidia heroic bionic eye. It is much better than a biological eye in every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a perceptible strain on the body. -->
+  <OE_ProstheticEye_OES.description>TODO</OE_ProstheticEye_OES.description>
+  
+  <!-- EN: bionic jaw -->
+  <OE_ProstheticJaw.label>TODO</OE_ProstheticJaw.label>
+  <!-- EN: Obsidia bionic jaw. It is better than a biological jaw in almost every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a small strain on the body. -->
+  <OE_ProstheticJaw.description>TODO</OE_ProstheticJaw.description>
+  
+  <!-- EN: cultist bionic jaw -->
+  <OE_ProstheticJaw_CAC.label>TODO</OE_ProstheticJaw_CAC.label>
+  <!-- EN: Obsidia cultist bionic jaw. It is much better than a biological jaw in every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a perceptible strain on the body. -->
+  <OE_ProstheticJaw_CAC.description>TODO</OE_ProstheticJaw_CAC.description>
+  
+  <!-- EN: advanced bionic jaw -->
+  <OE_ProstheticJaw_M.label>TODO</OE_ProstheticJaw_M.label>
+  <!-- EN: Obsidian advanced bionic jaw. It is much better than a biological jaw in almost every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a strain on the body. -->
+  <OE_ProstheticJaw_M.description>TODO</OE_ProstheticJaw_M.description>
+  
+  <!-- EN: heroic bionic jaw -->
+  <OE_ProstheticJaw_OES.label>TODO</OE_ProstheticJaw_OES.label>
+  <!-- EN: Obsidia heroic bionic jaw. It is much better than a biological jaw in every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a perceptible strain on the body. -->
+  <OE_ProstheticJaw_OES.description>TODO</OE_ProstheticJaw_OES.description>
+  
+</LanguageData>

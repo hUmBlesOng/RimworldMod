@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hemogen slime -->
+  <OE_Slime_Hemogen.label>TODO</OE_Slime_Hemogen.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nHemogen slime production type, produces 3 Hemogen every 2 days. -->
+  <OE_Slime_Hemogen.description>TODO</OE_Slime_Hemogen.description>
+  <!-- EN: mouth -->
+  <OE_Slime_Hemogen.tools.mouth.label>TODO</OE_Slime_Hemogen.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_Slime_Hemogen.tools.head.label>TODO</OE_Slime_Hemogen.tools.head.label>
+  
+  <!-- EN: Syntherius of Sin slime -->
+  <OE_Slime_SyntheriusOfSin.label>TODO</OE_Slime_SyntheriusOfSin.label>
+  <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nSyntherius slime production type, produces 1 Syntherius Of Sin every 30 days. -->
+  <OE_Slime_SyntheriusOfSin.description>TODO</OE_Slime_SyntheriusOfSin.description>
+  <!-- EN: mouth -->
+  <OE_Slime_SyntheriusOfSin.tools.mouth.label>TODO</OE_Slime_SyntheriusOfSin.tools.mouth.label>
+  <!-- EN: head -->
+  <OE_Slime_SyntheriusOfSin.tools.head.label>TODO</OE_Slime_SyntheriusOfSin.tools.head.label>
+  
+</LanguageData>

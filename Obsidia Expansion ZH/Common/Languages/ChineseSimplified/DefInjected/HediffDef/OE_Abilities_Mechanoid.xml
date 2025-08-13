@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Chaos -->
+  <OE_Chaos.label>TODO</OE_Chaos.label>
+  <!-- EN: Mental debuffs from the effects of the Chaos. -->
+  <OE_Chaos.description>TODO</OE_Chaos.description>
+  <!-- EN: chaos -->
+  <OE_Chaos.labelNoun>TODO</OE_Chaos.labelNoun>
+  
+  <!-- EN: Redline -->
+  <OE_Redline.label>TODO</OE_Redline.label>
+  <!-- EN: A special Dominator's mode that raises their combat potential and movespeed. -->
+  <OE_Redline.description>TODO</OE_Redline.description>
+  <!-- EN: redline -->
+  <OE_Redline.labelNoun>TODO</OE_Redline.labelNoun>
+  <!-- EN: reboot -->
+  <OE_Redline.stages.reboot.label>TODO</OE_Redline.stages.reboot.label>
+  
+  <!-- EN: Reboot -->
+  <OE_RedlineAftereffect.label>TODO</OE_RedlineAftereffect.label>
+  <!-- EN: Rebooting Dominator's core systems after using the Redline ability. -->
+  <OE_RedlineAftereffect.description>TODO</OE_RedlineAftereffect.description>
+  
+  <!-- EN: Vanguard -->
+  <OE_Vanguard.label>TODO</OE_Vanguard.label>
+  <!-- EN: A special Dominator's program that reducing incoming damage with small reducing movespeed. -->
+  <OE_Vanguard.description>TODO</OE_Vanguard.description>
+  <!-- EN: vanguard -->
+  <OE_Vanguard.labelNoun>TODO</OE_Vanguard.labelNoun>
+  
+</LanguageData>

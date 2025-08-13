@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: obsidia kid helmet -->
+  <OE_Helmet_Kid.label>TODO</OE_Helmet_Kid.label>
+  <!-- EN: Light helmet, well protects the owner. Designed for use by Obsidia Empire kids. -->
+  <OE_Helmet_Kid.description>TODO</OE_Helmet_Kid.description>
+  
+  <!-- EN: obsidia kid helmet(Space Griffin) -->
+  <OE_Helmet_Kid_Spacer.label>TODO</OE_Helmet_Kid_Spacer.label>
+  <!-- EN: Light helmet, well protects the owner. Designed for use by Obsidia Empire kids.\n\nPressure-sealed version designed to keep the occupant alive in outer space. -->
+  <OE_Helmet_Kid_Spacer.description>TODO</OE_Helmet_Kid_Spacer.description>
+  
+</LanguageData>

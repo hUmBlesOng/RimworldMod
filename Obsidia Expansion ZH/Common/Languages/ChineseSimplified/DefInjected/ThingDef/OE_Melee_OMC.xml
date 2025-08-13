@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Furious -->
+  <OMC_Axe.label>TODO</OMC_Axe.label>
+  <!-- EN: Regular Axe used by OMC Soldiers. -->
+  <OMC_Axe.description>TODO</OMC_Axe.description>
+  <!-- EN: handle -->
+  <OMC_Axe.tools.handle.label>TODO</OMC_Axe.tools.handle.label>
+  <!-- EN: edge -->
+  <OMC_Axe.tools.edge.label>TODO</OMC_Axe.tools.edge.label>
+  
+  <!-- EN: Furious MK-II -->
+  <OMC_Axe_M.label>TODO</OMC_Axe_M.label>
+  <!-- EN: Modified Axe used by OMC Officers. -->
+  <OMC_Axe_M.description>TODO</OMC_Axe_M.description>
+  <!-- EN: handle -->
+  <OMC_Axe_M.tools.handle.label>TODO</OMC_Axe_M.tools.handle.label>
+  <!-- EN: edge -->
+  <OMC_Axe_M.tools.edge.label>TODO</OMC_Axe_M.tools.edge.label>
+  
+  <!-- EN: Delimiter -->
+  <OMC_Sword.label>TODO</OMC_Sword.label>
+  <!-- EN: Regular Sword used by OMC Soldiers. -->
+  <OMC_Sword.description>TODO</OMC_Sword.description>
+  <!-- EN: handle -->
+  <OMC_Sword.tools.handle.label>TODO</OMC_Sword.tools.handle.label>
+  <!-- EN: point -->
+  <OMC_Sword.tools.point.label>TODO</OMC_Sword.tools.point.label>
+  <!-- EN: edge -->
+  <OMC_Sword.tools.edge.label>TODO</OMC_Sword.tools.edge.label>
+  
+  <!-- EN: Delimiter MK-II -->
+  <OMC_Sword_M.label>TODO</OMC_Sword_M.label>
+  <!-- EN: Modified Sword used by OMC Officers. -->
+  <OMC_Sword_M.description>TODO</OMC_Sword_M.description>
+  <!-- EN: handle -->
+  <OMC_Sword_M.tools.handle.label>TODO</OMC_Sword_M.tools.handle.label>
+  <!-- EN: point -->
+  <OMC_Sword_M.tools.point.label>TODO</OMC_Sword_M.tools.point.label>
+  <!-- EN: edge -->
+  <OMC_Sword_M.tools.edge.label>TODO</OMC_Sword_M.tools.edge.label>
+  
+  <!-- EN: Bloodspiller -->
+  <OMC_Whip.label>TODO</OMC_Whip.label>
+  <!-- EN: Regular Whip used by OMC Soldiers. -->
+  <OMC_Whip.description>TODO</OMC_Whip.description>
+  <!-- EN: handle -->
+  <OMC_Whip.tools.handle.label>TODO</OMC_Whip.tools.handle.label>
+  <!-- EN: Bloodspiller -->
+  <OMC_Whip.verbs.Verb_Shoot.label>TODO</OMC_Whip.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Bloodspiller(Acid) -->
+  <OMC_Whip_Acid.label>TODO</OMC_Whip_Acid.label>
+  <!-- EN: Regular Whip used by OMC Soldiers.\n\nIt's remanufactured weapon using OTC technologies. Charged with Acid damage. -->
+  <OMC_Whip_Acid.description>TODO</OMC_Whip_Acid.description>
+  <!-- EN: handle -->
+  <OMC_Whip_Acid.tools.handle.label>TODO</OMC_Whip_Acid.tools.handle.label>
+  <!-- EN: Bloodspiller(Acid) -->
+  <OMC_Whip_Acid.verbs.Verb_Shoot.label>TODO</OMC_Whip_Acid.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Bloodspiller(Cryo) -->
+  <OMC_Whip_Cryo.label>TODO</OMC_Whip_Cryo.label>
+  <!-- EN: Regular Whip used by OMC Soldiers.\n\nIt's remanufactured weapon using OTC technologies. Charged with Cryo damage. -->
+  <OMC_Whip_Cryo.description>TODO</OMC_Whip_Cryo.description>
+  <!-- EN: handle -->
+  <OMC_Whip_Cryo.tools.handle.label>TODO</OMC_Whip_Cryo.tools.handle.label>
+  <!-- EN: Bloodspiller(Cryo) -->
+  <OMC_Whip_Cryo.verbs.Verb_Shoot.label>TODO</OMC_Whip_Cryo.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Bloodspiller(EMP) -->
+  <OMC_Whip_EMP.label>TODO</OMC_Whip_EMP.label>
+  <!-- EN: Regular Whip used by OMC Soldiers.\n\nIt's remanufactured weapon using OTC technologies. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
+  <OMC_Whip_EMP.description>TODO</OMC_Whip_EMP.description>
+  <!-- EN: handle -->
+  <OMC_Whip_EMP.tools.handle.label>TODO</OMC_Whip_EMP.tools.handle.label>
+  <!-- EN: Bloodspiller(EMP) -->
+  <OMC_Whip_EMP.verbs.Verb_Shoot.label>TODO</OMC_Whip_EMP.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Bloodspiller(Fire) -->
+  <OMC_Whip_Fire.label>TODO</OMC_Whip_Fire.label>
+  <!-- EN: Regular Whip used by OMC Soldiers.\n\nIt's remanufactured weapon using OTC technologies. Charged with Fire damage. -->
+  <OMC_Whip_Fire.description>TODO</OMC_Whip_Fire.description>
+  <!-- EN: handle -->
+  <OMC_Whip_Fire.tools.handle.label>TODO</OMC_Whip_Fire.tools.handle.label>
+  <!-- EN: Bloodspiller(Fire) -->
+  <OMC_Whip_Fire.verbs.Verb_Shoot.label>TODO</OMC_Whip_Fire.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Bloodspiller MK-II -->
+  <OMC_Whip_M.label>TODO</OMC_Whip_M.label>
+  <!-- EN: Modified Whip used by OMC Officers. -->
+  <OMC_Whip_M.description>TODO</OMC_Whip_M.description>
+  <!-- EN: handle -->
+  <OMC_Whip_M.tools.handle.label>TODO</OMC_Whip_M.tools.handle.label>
+  <!-- EN: Bloodspiller MK-II -->
+  <OMC_Whip_M.verbs.Verb_Shoot.label>TODO</OMC_Whip_M.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Bloodspiller MK-II(Acid) -->
+  <OMC_Whip_M_Acid.label>TODO</OMC_Whip_M_Acid.label>
+  <!-- EN: Modified Whip used by OMC Officers.\n\nIt's remanufactured weapon using OTC technologies. Charged with Acid damage. -->
+  <OMC_Whip_M_Acid.description>TODO</OMC_Whip_M_Acid.description>
+  <!-- EN: handle -->
+  <OMC_Whip_M_Acid.tools.handle.label>TODO</OMC_Whip_M_Acid.tools.handle.label>
+  <!-- EN: Bloodspiller MK-II(Acid) -->
+  <OMC_Whip_M_Acid.verbs.Verb_Shoot.label>TODO</OMC_Whip_M_Acid.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Bloodspiller MK-II(Cryo) -->
+  <OMC_Whip_M_Cryo.label>TODO</OMC_Whip_M_Cryo.label>
+  <!-- EN: Modified Whip used by OMC Officers.\n\nIt's remanufactured weapon using OTC technologies. Charged with Cryo damage. -->
+  <OMC_Whip_M_Cryo.description>TODO</OMC_Whip_M_Cryo.description>
+  <!-- EN: handle -->
+  <OMC_Whip_M_Cryo.tools.handle.label>TODO</OMC_Whip_M_Cryo.tools.handle.label>
+  <!-- EN: Bloodspiller MK-II(Cryo) -->
+  <OMC_Whip_M_Cryo.verbs.Verb_Shoot.label>TODO</OMC_Whip_M_Cryo.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Bloodspiller MK-II(EMP) -->
+  <OMC_Whip_M_EMP.label>TODO</OMC_Whip_M_EMP.label>
+  <!-- EN: Modified Whip used by OMC Officers.\n\nIt's remanufactured weapon using OTC technologies. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
+  <OMC_Whip_M_EMP.description>TODO</OMC_Whip_M_EMP.description>
+  <!-- EN: handle -->
+  <OMC_Whip_M_EMP.tools.handle.label>TODO</OMC_Whip_M_EMP.tools.handle.label>
+  <!-- EN: Bloodspiller MK-II(EMP) -->
+  <OMC_Whip_M_EMP.verbs.Verb_Shoot.label>TODO</OMC_Whip_M_EMP.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Bloodspiller MK-II(Fire) -->
+  <OMC_Whip_M_Fire.label>TODO</OMC_Whip_M_Fire.label>
+  <!-- EN: Modified Whip used by OMC Officers.\n\nIt's remanufactured weapon using OTC technologies. Charged with Fire damage. -->
+  <OMC_Whip_M_Fire.description>TODO</OMC_Whip_M_Fire.description>
+  <!-- EN: handle -->
+  <OMC_Whip_M_Fire.tools.handle.label>TODO</OMC_Whip_M_Fire.tools.handle.label>
+  <!-- EN: Bloodspiller MK-II(Fire) -->
+  <OMC_Whip_M_Fire.verbs.Verb_Shoot.label>TODO</OMC_Whip_M_Fire.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Bloodspiller wave -->
+  <Wave_OMC_W.label>TODO</Wave_OMC_W.label>
+  
+  <!-- EN: Bloodspiller Acid wave -->
+  <Wave_OMC_W_Acid.label>TODO</Wave_OMC_W_Acid.label>
+  
+  <!-- EN: Bloodspiller Cryo wave -->
+  <Wave_OMC_W_Cryo.label>TODO</Wave_OMC_W_Cryo.label>
+  
+  <!-- EN: Bloodspiller EMP wave -->
+  <Wave_OMC_W_EMP.label>TODO</Wave_OMC_W_EMP.label>
+  
+  <!-- EN: Bloodspiller Fire wave -->
+  <Wave_OMC_W_Fire.label>TODO</Wave_OMC_W_Fire.label>
+  
+  <!-- EN: Bloodspiller MK-II wave -->
+  <Wave_OMC_W_M.label>TODO</Wave_OMC_W_M.label>
+  
+  <!-- EN: Bloodspiller MK-II Acid wave -->
+  <Wave_OMC_W_M_Acid.label>TODO</Wave_OMC_W_M_Acid.label>
+  
+  <!-- EN: Bloodspiller MK-II Cryo wave -->
+  <Wave_OMC_W_M_Cryo.label>TODO</Wave_OMC_W_M_Cryo.label>
+  
+  <!-- EN: Bloodspiller MK-II EMP wave -->
+  <Wave_OMC_W_M_EMP.label>TODO</Wave_OMC_W_M_EMP.label>
+  
+  <!-- EN: Bloodspiller MK-II Fire wave -->
+  <Wave_OMC_W_M_Fire.label>TODO</Wave_OMC_W_M_Fire.label>
+  
+</LanguageData>

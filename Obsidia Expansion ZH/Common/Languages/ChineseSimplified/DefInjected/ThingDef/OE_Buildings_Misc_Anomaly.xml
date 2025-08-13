@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: EGO inhibitor -->
+  <OE_EGOInhibitor.label>TODO</OE_EGOInhibitor.label>
+  <!-- EN: A device that emits a specially tuned field which numbs the neural activity of captured entities. Uses the EGO seed as a catalyst. As long as it is powered, it improves the containment strength of any holding platform that it is pointed at. The electric field does not affect humans or normal animals. -->
+  <OE_EGOInhibitor.description>TODO</OE_EGOInhibitor.description>
+  
+  <!-- EN: obsidia holding platform -->
+  <OE_HoldingPlatform.label>TODO</OE_HoldingPlatform.label>
+  <!-- EN: An obsidia heavy platform for holding dangerous entities. The corners have eyelets where strong chains can be attached.\n\nDowned entities can be captured and secured on a holding platform, where they can be studied for Anomaly knowledge. Increase containment strength by building strong walls and doors, and other special containment devices.\n\nContainment efficiency is 125%. -->
+  <OE_HoldingPlatform.description>TODO</OE_HoldingPlatform.description>
+  
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: obsidia cooler -->
+  <OE_Cooler.label>TODO</OE_Cooler.label>
+  <!-- EN: An Obsidia device that converts electricity into cool air. Can be used to cool down rooms during summer, or to create a walk-in freezer. -->
+  <OE_Cooler.description>TODO</OE_Cooler.description>
+  
+  <!-- EN: obsidia heater -->
+  <OE_Heater.label>TODO</OE_Heater.label>
+  <!-- EN: An Obsidia device that converts electricity into heat. Can be used to heat rooms during winter. -->
+  <OE_Heater.description>TODO</OE_Heater.description>
+  
+  <!-- EN: obsidia wall cooler -->
+  <OE_WallCooler.label>TODO</OE_WallCooler.label>
+  <!-- EN: A wall-mounted Obsidia device that converts electricity into cool air. Can be used to cool down rooms during summer, or to create a walk-in freezer. -->
+  <OE_WallCooler.description>TODO</OE_WallCooler.description>
+  
+  <!-- EN: obsidia wall heater -->
+  <OE_WallHeater.label>TODO</OE_WallHeater.label>
+  <!-- EN: A wall-mounted Obsidia device that converts electricity into heat. Can be used to heat rooms during winter. -->
+  <OE_WallHeater.description>TODO</OE_WallHeater.description>
+  
+</LanguageData>

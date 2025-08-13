@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: obsidia colonial gene bank -->
+  <OE_ColonialGeneBank.label>TODO</OE_ColonialGeneBank.label>
+  <!-- EN: This obsidia building can store huge amount of genepacks and make them usable to create new xenogerms, when placed near a gene assembler. Large gene libraries require many gene banks.\n\nWhen powered, gene banks prevent genepacks from deteriorating and will slowly repair deterioration. -->
+  <OE_ColonialGeneBank.description>TODO</OE_ColonialGeneBank.description>
+  
+  <!-- EN: obsidia colonial gene processor -->
+  <OE_ColonialGeneProcessor.label>TODO</OE_ColonialGeneProcessor.label>
+  <!-- EN: An advanced genetic analysis and enhancement system developed by the Obsidia Colonies. When positioned near a gene assembler, it boosts the maximum genetic complexity of xenogerms you can create. Installing multiple processors further raises this complexity threshold, enabling the design of more intricate and powerful genetic structures. -->
+  <OE_ColonialGeneProcessor.description>TODO</OE_ColonialGeneProcessor.description>
+  <!-- EN: Gene complexity increase -->
+  <OE_ColonialGeneProcessor.comps.CompInspectStringGeneProcessor.inspectString>TODO</OE_ColonialGeneProcessor.comps.CompInspectStringGeneProcessor.inspectString>
+  
+</LanguageData>

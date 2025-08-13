@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install Krekeros Curse -->
+  <OE_InstallIImplant_Special_A.label>TODO</OE_InstallIImplant_Special_A.label>
+  <!-- EN: Install a Krekeros Curse. -->
+  <OE_InstallIImplant_Special_A.description>TODO</OE_InstallIImplant_Special_A.description>
+  <!-- EN: Installing Krekeros Curse. -->
+  <OE_InstallIImplant_Special_A.jobString>TODO</OE_InstallIImplant_Special_A.jobString>
+  
+  <!-- EN: install Kokoplays MB Arcane -->
+  <OE_InstallIImplant_Special_B.label>TODO</OE_InstallIImplant_Special_B.label>
+  <!-- EN: Install a Kokoplays MB Arcane. -->
+  <OE_InstallIImplant_Special_B.description>TODO</OE_InstallIImplant_Special_B.description>
+  <!-- EN: Installing Kokoplays MB Arcane. -->
+  <OE_InstallIImplant_Special_B.jobString>TODO</OE_InstallIImplant_Special_B.jobString>
+  
+  <!-- EN: remove Krekeros Curse -->
+  <OE_RemoveImplant_Special_A.label>TODO</OE_RemoveImplant_Special_A.label>
+  <!-- EN: Remove a Krekeros Curse. -->
+  <OE_RemoveImplant_Special_A.description>TODO</OE_RemoveImplant_Special_A.description>
+  <!-- EN: Removing Krekeros Curse. -->
+  <OE_RemoveImplant_Special_A.jobString>TODO</OE_RemoveImplant_Special_A.jobString>
+  
+  <!-- EN: remove Kokoplays MB Arcane -->
+  <OE_RemoveImplant_Special_B.label>TODO</OE_RemoveImplant_Special_B.label>
+  <!-- EN: Remove a Kokoplays MB Arcane. -->
+  <OE_RemoveImplant_Special_B.description>TODO</OE_RemoveImplant_Special_B.description>
+  <!-- EN: Removing Kokoplays MB Arcane. -->
+  <OE_RemoveImplant_Special_B.jobString>TODO</OE_RemoveImplant_Special_B.jobString>
+  
+</LanguageData>

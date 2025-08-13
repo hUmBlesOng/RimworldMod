@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: install bionic ear -->
+  <OE_InstallProstheticEar.label>TODO</OE_InstallProstheticEar.label>
+  <!-- EN: Install a bionic ear. -->
+  <OE_InstallProstheticEar.description>TODO</OE_InstallProstheticEar.description>
+  <!-- EN: Installing bionic ear. -->
+  <OE_InstallProstheticEar.jobString>TODO</OE_InstallProstheticEar.jobString>
+  
+  <!-- EN: install cultist bionic ear -->
+  <OE_InstallProstheticEar_CAC.label>TODO</OE_InstallProstheticEar_CAC.label>
+  <!-- EN: Install a cultist bionic ear. -->
+  <OE_InstallProstheticEar_CAC.description>TODO</OE_InstallProstheticEar_CAC.description>
+  <!-- EN: Installing bionic ear. -->
+  <OE_InstallProstheticEar_CAC.jobString>TODO</OE_InstallProstheticEar_CAC.jobString>
+  
+  <!-- EN: install advanced bionic ear -->
+  <OE_InstallProstheticEar_M.label>TODO</OE_InstallProstheticEar_M.label>
+  <!-- EN: Install an advanced bionic ear. -->
+  <OE_InstallProstheticEar_M.description>TODO</OE_InstallProstheticEar_M.description>
+  <!-- EN: Installing bionic ear. -->
+  <OE_InstallProstheticEar_M.jobString>TODO</OE_InstallProstheticEar_M.jobString>
+  
+  <!-- EN: install heroic bionic ear -->
+  <OE_InstallProstheticEar_OES.label>TODO</OE_InstallProstheticEar_OES.label>
+  <!-- EN: Install a heroic bionic ear. -->
+  <OE_InstallProstheticEar_OES.description>TODO</OE_InstallProstheticEar_OES.description>
+  <!-- EN: Installing bionic ear. -->
+  <OE_InstallProstheticEar_OES.jobString>TODO</OE_InstallProstheticEar_OES.jobString>
+  
+  <!-- EN: install bionic eye -->
+  <OE_InstallProstheticEye.label>TODO</OE_InstallProstheticEye.label>
+  <!-- EN: Install a bionic eye. -->
+  <OE_InstallProstheticEye.description>TODO</OE_InstallProstheticEye.description>
+  <!-- EN: Installing bionic eye. -->
+  <OE_InstallProstheticEye.jobString>TODO</OE_InstallProstheticEye.jobString>
+  
+  <!-- EN: install cultist bionic eye -->
+  <OE_InstallProstheticEye_CAC.label>TODO</OE_InstallProstheticEye_CAC.label>
+  <!-- EN: Install a cultist bionic eye. -->
+  <OE_InstallProstheticEye_CAC.description>TODO</OE_InstallProstheticEye_CAC.description>
+  <!-- EN: Installing bionic eye. -->
+  <OE_InstallProstheticEye_CAC.jobString>TODO</OE_InstallProstheticEye_CAC.jobString>
+  
+  <!-- EN: install advanced bionic eye -->
+  <OE_InstallProstheticEye_M.label>TODO</OE_InstallProstheticEye_M.label>
+  <!-- EN: Install an advanced bionic eye. -->
+  <OE_InstallProstheticEye_M.description>TODO</OE_InstallProstheticEye_M.description>
+  <!-- EN: Installing bionic eye. -->
+  <OE_InstallProstheticEye_M.jobString>TODO</OE_InstallProstheticEye_M.jobString>
+  
+  <!-- EN: install heroic bionic eye -->
+  <OE_InstallProstheticEye_OES.label>TODO</OE_InstallProstheticEye_OES.label>
+  <!-- EN: Install a heroic bionic eye. -->
+  <OE_InstallProstheticEye_OES.description>TODO</OE_InstallProstheticEye_OES.description>
+  <!-- EN: Installing bionic eye. -->
+  <OE_InstallProstheticEye_OES.jobString>TODO</OE_InstallProstheticEye_OES.jobString>
+  
+  <!-- EN: install bionic jaw -->
+  <OE_InstallProstheticJaw.label>TODO</OE_InstallProstheticJaw.label>
+  <!-- EN: Install a bionic jaw. -->
+  <OE_InstallProstheticJaw.description>TODO</OE_InstallProstheticJaw.description>
+  <!-- EN: Installing bionic jaw. -->
+  <OE_InstallProstheticJaw.jobString>TODO</OE_InstallProstheticJaw.jobString>
+  
+  <!-- EN: install cultist bionic jaw -->
+  <OE_InstallProstheticJaw_CAC.label>TODO</OE_InstallProstheticJaw_CAC.label>
+  <!-- EN: Install a cultist bionic jaw. -->
+  <OE_InstallProstheticJaw_CAC.description>TODO</OE_InstallProstheticJaw_CAC.description>
+  <!-- EN: Installing bionic jaw. -->
+  <OE_InstallProstheticJaw_CAC.jobString>TODO</OE_InstallProstheticJaw_CAC.jobString>
+  
+  <!-- EN: install advanced bionic jaw -->
+  <OE_InstallProstheticJaw_M.label>TODO</OE_InstallProstheticJaw_M.label>
+  <!-- EN: Install an advanced bionic jaw. -->
+  <OE_InstallProstheticJaw_M.description>TODO</OE_InstallProstheticJaw_M.description>
+  <!-- EN: Installing bionic jaw. -->
+  <OE_InstallProstheticJaw_M.jobString>TODO</OE_InstallProstheticJaw_M.jobString>
+  
+  <!-- EN: install heroic bionic jaw -->
+  <OE_InstallProstheticJaw_OES.label>TODO</OE_InstallProstheticJaw_OES.label>
+  <!-- EN: Install a heroic bionic jaw. -->
+  <OE_InstallProstheticJaw_OES.description>TODO</OE_InstallProstheticJaw_OES.description>
+  <!-- EN: Installing bionic jaw. -->
+  <OE_InstallProstheticJaw_OES.jobString>TODO</OE_InstallProstheticJaw_OES.jobString>
+  
+  <!-- EN: remove bionic ear -->
+  <OE_RemoveProstheticEar.label>TODO</OE_RemoveProstheticEar.label>
+  <!-- EN: Remove a bionic ear. -->
+  <OE_RemoveProstheticEar.description>TODO</OE_RemoveProstheticEar.description>
+  <!-- EN: Removing bionic ear. -->
+  <OE_RemoveProstheticEar.jobString>TODO</OE_RemoveProstheticEar.jobString>
+  
+  <!-- EN: remove cultist bionic ear -->
+  <OE_RemoveProstheticEar_CAC.label>TODO</OE_RemoveProstheticEar_CAC.label>
+  <!-- EN: Remove a cultist bionic ear. -->
+  <OE_RemoveProstheticEar_CAC.description>TODO</OE_RemoveProstheticEar_CAC.description>
+  <!-- EN: Removing cultist bionic ear. -->
+  <OE_RemoveProstheticEar_CAC.jobString>TODO</OE_RemoveProstheticEar_CAC.jobString>
+  
+  <!-- EN: remove advanced bionic ear -->
+  <OE_RemoveProstheticEar_M.label>TODO</OE_RemoveProstheticEar_M.label>
+  <!-- EN: Remove an advanced bionic ear. -->
+  <OE_RemoveProstheticEar_M.description>TODO</OE_RemoveProstheticEar_M.description>
+  <!-- EN: Removing advanced bionic ear. -->
+  <OE_RemoveProstheticEar_M.jobString>TODO</OE_RemoveProstheticEar_M.jobString>
+  
+  <!-- EN: remove heroic bionic ear -->
+  <OE_RemoveProstheticEar_OES.label>TODO</OE_RemoveProstheticEar_OES.label>
+  <!-- EN: Remove a heroic bionic ear. -->
+  <OE_RemoveProstheticEar_OES.description>TODO</OE_RemoveProstheticEar_OES.description>
+  <!-- EN: Removing heroic bionic ear. -->
+  <OE_RemoveProstheticEar_OES.jobString>TODO</OE_RemoveProstheticEar_OES.jobString>
+  
+  <!-- EN: remove bionic eye -->
+  <OE_RemoveProstheticEye.label>TODO</OE_RemoveProstheticEye.label>
+  <!-- EN: Remove a bionic eye. -->
+  <OE_RemoveProstheticEye.description>TODO</OE_RemoveProstheticEye.description>
+  <!-- EN: Removing bionic eye. -->
+  <OE_RemoveProstheticEye.jobString>TODO</OE_RemoveProstheticEye.jobString>
+  
+  <!-- EN: remove cultist bionic eye -->
+  <OE_RemoveProstheticEye_CAC.label>TODO</OE_RemoveProstheticEye_CAC.label>
+  <!-- EN: Remove a cultist bionic eye. -->
+  <OE_RemoveProstheticEye_CAC.description>TODO</OE_RemoveProstheticEye_CAC.description>
+  <!-- EN: Removing cultist bionic eye. -->
+  <OE_RemoveProstheticEye_CAC.jobString>TODO</OE_RemoveProstheticEye_CAC.jobString>
+  
+  <!-- EN: remove advanced bionic eye -->
+  <OE_RemoveProstheticEye_M.label>TODO</OE_RemoveProstheticEye_M.label>
+  <!-- EN: Remove an advanced bionic eye. -->
+  <OE_RemoveProstheticEye_M.description>TODO</OE_RemoveProstheticEye_M.description>
+  <!-- EN: Removing advanced bionic eye. -->
+  <OE_RemoveProstheticEye_M.jobString>TODO</OE_RemoveProstheticEye_M.jobString>
+  
+  <!-- EN: remove heroic bionic eye -->
+  <OE_RemoveProstheticEye_OES.label>TODO</OE_RemoveProstheticEye_OES.label>
+  <!-- EN: Remove a heroic bionic eye. -->
+  <OE_RemoveProstheticEye_OES.description>TODO</OE_RemoveProstheticEye_OES.description>
+  <!-- EN: Removing heroic bionic eye. -->
+  <OE_RemoveProstheticEye_OES.jobString>TODO</OE_RemoveProstheticEye_OES.jobString>
+  
+  <!-- EN: remove bionic jaw -->
+  <OE_RemoveProstheticJaw.label>TODO</OE_RemoveProstheticJaw.label>
+  <!-- EN: Remove a bionic jaw. -->
+  <OE_RemoveProstheticJaw.description>TODO</OE_RemoveProstheticJaw.description>
+  <!-- EN: Removing bionic jaw. -->
+  <OE_RemoveProstheticJaw.jobString>TODO</OE_RemoveProstheticJaw.jobString>
+  
+  <!-- EN: remove cultist bionic jaw -->
+  <OE_RemoveProstheticJaw_CAC.label>TODO</OE_RemoveProstheticJaw_CAC.label>
+  <!-- EN: Remove a cultist bionic jaw. -->
+  <OE_RemoveProstheticJaw_CAC.description>TODO</OE_RemoveProstheticJaw_CAC.description>
+  <!-- EN: Removing cultist bionic jaw. -->
+  <OE_RemoveProstheticJaw_CAC.jobString>TODO</OE_RemoveProstheticJaw_CAC.jobString>
+  
+  <!-- EN: remove advanced bionic jaw -->
+  <OE_RemoveProstheticJaw_M.label>TODO</OE_RemoveProstheticJaw_M.label>
+  <!-- EN: Remove an advanced bionic jaw. -->
+  <OE_RemoveProstheticJaw_M.description>TODO</OE_RemoveProstheticJaw_M.description>
+  <!-- EN: Removing advanced bionic jaw. -->
+  <OE_RemoveProstheticJaw_M.jobString>TODO</OE_RemoveProstheticJaw_M.jobString>
+  
+  <!-- EN: remove heroic bionic jaw -->
+  <OE_RemoveProstheticJaw_OES.label>TODO</OE_RemoveProstheticJaw_OES.label>
+  <!-- EN: Remove a heroic bionic jaw. -->
+  <OE_RemoveProstheticJaw_OES.description>TODO</OE_RemoveProstheticJaw_OES.description>
+  <!-- EN: Removing heroic bionic jaw. -->
+  <OE_RemoveProstheticJaw_OES.jobString>TODO</OE_RemoveProstheticJaw_OES.jobString>
+  
+</LanguageData>

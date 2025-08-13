@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: waste scorpid -->
+  <OE_Scorpid_Tox.label>TODO</OE_Scorpid_Tox.label>
+  <!-- EN: One of the oldest creatures of Obsidia. Scorpid is a huge insectoid with a durable chitinous shell, powerful claws and a poisonous sting.\n\nThis specimen adapted to life at pollution areas. -->
+  <OE_Scorpid_Tox.description>TODO</OE_Scorpid_Tox.description>
+  <!-- EN: left claw -->
+  <OE_Scorpid_Tox.tools.left_claw.label>TODO</OE_Scorpid_Tox.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <OE_Scorpid_Tox.tools.right_claw.label>TODO</OE_Scorpid_Tox.tools.right_claw.label>
+  <!-- EN: sting -->
+  <OE_Scorpid_Tox.tools.sting.label>TODO</OE_Scorpid_Tox.tools.sting.label>
+  <!-- EN: head -->
+  <OE_Scorpid_Tox.tools.head.label>TODO</OE_Scorpid_Tox.tools.head.label>
+  
+</LanguageData>

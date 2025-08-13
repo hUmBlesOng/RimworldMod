@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Dragonbane Bite -->
+  <EGO_Trophy_Dragonbane_A.label>TODO</EGO_Trophy_Dragonbane_A.label>
+  <!-- EN: Dr. Alexander Isaacs never intended to slay dragons—only to understand them. Yet, in the depths of his relentless experiments, something unnatural took shape. A weapon born not of craftsmanship, but of twisted science and forgotten wills, thirsting for the very essence it was made to destroy.\n\nGestated Amalgam weapon charged with Cryo and Acid damages.\n\nKnife born from an unholy fusion, carrying the potential to evolve further. -->
+  <EGO_Trophy_Dragonbane_A.description>TODO</EGO_Trophy_Dragonbane_A.description>
+  <!-- EN: handle -->
+  <EGO_Trophy_Dragonbane_A.tools.handle.label>TODO</EGO_Trophy_Dragonbane_A.tools.handle.label>
+  <!-- EN: blade -->
+  <EGO_Trophy_Dragonbane_A.tools.blade.label>TODO</EGO_Trophy_Dragonbane_A.tools.blade.label>
+  <!-- EN: point -->
+  <EGO_Trophy_Dragonbane_A.tools.point.label>TODO</EGO_Trophy_Dragonbane_A.tools.point.label>
+  
+  <!-- EN: Dragonbane Strike -->
+  <EGO_Trophy_Dragonbane_B.label>TODO</EGO_Trophy_Dragonbane_B.label>
+  <!-- EN: Dr. Alexander Isaacs never intended to slay dragons—only to understand them. Yet, in the depths of his relentless experiments, something unnatural took shape. A weapon born not of craftsmanship, but of twisted science and forgotten wills, thirsting for the very essence it was made to destroy.\n\nGestated Amalgam weapon charged with Cryo and Acid damages.\n\nThis modification deprives item's quality levels.\n\nKnife with enhanced armor penetration. Its evolution is not yet over. -->
+  <EGO_Trophy_Dragonbane_B.description>TODO</EGO_Trophy_Dragonbane_B.description>
+  <!-- EN: handle -->
+  <EGO_Trophy_Dragonbane_B.tools.handle.label>TODO</EGO_Trophy_Dragonbane_B.tools.handle.label>
+  <!-- EN: blade -->
+  <EGO_Trophy_Dragonbane_B.tools.blade.label>TODO</EGO_Trophy_Dragonbane_B.tools.blade.label>
+  <!-- EN: point -->
+  <EGO_Trophy_Dragonbane_B.tools.point.label>TODO</EGO_Trophy_Dragonbane_B.tools.point.label>
+  
+  <!-- EN: Dragonbane Slash -->
+  <EGO_Trophy_Dragonbane_C.label>TODO</EGO_Trophy_Dragonbane_C.label>
+  <!-- EN: Dr. Alexander Isaacs never intended to slay dragons—only to understand them. Yet, in the depths of his relentless experiments, something unnatural took shape. A weapon born not of craftsmanship, but of twisted science and forgotten wills, thirsting for the very essence it was made to destroy.\n\nGestated Amalgam weapon charged with Cryo and Acid damages.\n\nThis modification deprives item's quality levels.\n\nSword of increased power, though its newfound weight slows each strike. Its evolution is not yet over. -->
+  <EGO_Trophy_Dragonbane_C.description>TODO</EGO_Trophy_Dragonbane_C.description>
+  <!-- EN: handle -->
+  <EGO_Trophy_Dragonbane_C.tools.handle.label>TODO</EGO_Trophy_Dragonbane_C.tools.handle.label>
+  <!-- EN: point -->
+  <EGO_Trophy_Dragonbane_C.tools.point.label>TODO</EGO_Trophy_Dragonbane_C.tools.point.label>
+  <!-- EN: edge -->
+  <EGO_Trophy_Dragonbane_C.tools.edge.label>TODO</EGO_Trophy_Dragonbane_C.tools.edge.label>
+  
+  <!-- EN: Dragonbane Warblade -->
+  <EGO_Trophy_Dragonbane_D.label>TODO</EGO_Trophy_Dragonbane_D.label>
+  <!-- EN: Dr. Alexander Isaacs never intended to slay dragons—only to understand them. Yet, in the depths of his relentless experiments, something unnatural took shape. A weapon born not of craftsmanship, but of twisted science and forgotten wills, thirsting for the very essence it was made to destroy.\n\nGestated Amalgam weapon charged with Cryo, Acid and Flame damages.\n\nThis modification deprives item's quality levels.\n\nSword that now burns with unnatural flame, igniting both flesh and fate. Its evolution is not yet over. -->
+  <EGO_Trophy_Dragonbane_D.description>TODO</EGO_Trophy_Dragonbane_D.description>
+  <!-- EN: handle -->
+  <EGO_Trophy_Dragonbane_D.tools.handle.label>TODO</EGO_Trophy_Dragonbane_D.tools.handle.label>
+  <!-- EN: point -->
+  <EGO_Trophy_Dragonbane_D.tools.point.label>TODO</EGO_Trophy_Dragonbane_D.tools.point.label>
+  <!-- EN: edge -->
+  <EGO_Trophy_Dragonbane_D.tools.edge.label>TODO</EGO_Trophy_Dragonbane_D.tools.edge.label>
+  
+  <!-- EN: Dragonbane Tyrant -->
+  <EGO_Trophy_Dragonbane_E.label>TODO</EGO_Trophy_Dragonbane_E.label>
+  <!-- EN: Dr. Alexander Isaacs never intended to slay dragons—only to understand them. Yet, in the depths of his relentless experiments, something unnatural took shape. A weapon born not of craftsmanship, but of twisted science and forgotten wills, thirsting for the very essence it was made to destroy.\n\nGestated Amalgam weapon charged with Cryo, Acid and Flame damages.\n\nThis modification deprives item's quality levels.\n\nBig Sword of devastating force, slowed by its own monstrous size. Its evolution is not yet over. -->
+  <EGO_Trophy_Dragonbane_E.description>TODO</EGO_Trophy_Dragonbane_E.description>
+  <!-- EN: handle -->
+  <EGO_Trophy_Dragonbane_E.tools.handle.label>TODO</EGO_Trophy_Dragonbane_E.tools.handle.label>
+  <!-- EN: point -->
+  <EGO_Trophy_Dragonbane_E.tools.point.label>TODO</EGO_Trophy_Dragonbane_E.tools.point.label>
+  <!-- EN: edge -->
+  <EGO_Trophy_Dragonbane_E.tools.edge.label>TODO</EGO_Trophy_Dragonbane_E.tools.edge.label>
+  
+  <!-- EN: Dragonbane Obliterator -->
+  <EGO_Trophy_Dragonbane_F.label>TODO</EGO_Trophy_Dragonbane_F.label>
+  <!-- EN: Dr. Alexander Isaacs never intended to slay dragons—only to understand them. Yet, in the depths of his relentless experiments, something unnatural took shape. A weapon born not of craftsmanship, but of twisted science and forgotten wills, thirsting for the very essence it was made to destroy.\n\nGestated Amalgam weapon charged with Cryo, Acid and Flame damages.\n\nThis modification deprives item's quality levels.\n\nSpear infused with elemental energy, striking with unnatural force. Its evolution is not yet over. -->
+  <EGO_Trophy_Dragonbane_F.description>TODO</EGO_Trophy_Dragonbane_F.description>
+  <!-- EN: shaft -->
+  <EGO_Trophy_Dragonbane_F.tools.shaft.label>TODO</EGO_Trophy_Dragonbane_F.tools.shaft.label>
+  <!-- EN: point -->
+  <EGO_Trophy_Dragonbane_F.tools.point.label>TODO</EGO_Trophy_Dragonbane_F.tools.point.label>
+  
+  <!-- EN: Dragonbane Godslayer -->
+  <EGO_Trophy_Dragonbane_G.label>TODO</EGO_Trophy_Dragonbane_G.label>
+  <!-- EN: Dr. Alexander Isaacs never intended to slay dragons—only to understand them. Yet, in the depths of his relentless experiments, something unnatural took shape. A weapon born not of craftsmanship, but of twisted science and forgotten wills, thirsting for the very essence it was made to destroy.\n\nGestated Amalgam weapon charged with Cryo, Acid and Flame damages.\n\nThis modification deprives item's quality levels.\n\nSpear that awakens hidden forces, its power shaped by the universe itself. The final evolution. -->
+  <EGO_Trophy_Dragonbane_G.description>TODO</EGO_Trophy_Dragonbane_G.description>
+  <!-- EN: shaft -->
+  <EGO_Trophy_Dragonbane_G.tools.shaft.label>TODO</EGO_Trophy_Dragonbane_G.tools.shaft.label>
+  <!-- EN: point -->
+  <EGO_Trophy_Dragonbane_G.tools.point.label>TODO</EGO_Trophy_Dragonbane_G.tools.point.label>
+  
+</LanguageData>

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Paragon Nimbus Prototype(Cryo) -->
+  <OTC_Bow_P_Cryo.label>TODO</OTC_Bow_P_Cryo.label>
+  <!-- EN: Paragon Experimental Bow used by OTC Engineers. Balanced weapon with Cryo charges.\n\nIt's remanufactured weapon based on OEC Bow. -->
+  <OTC_Bow_P_Cryo.description>TODO</OTC_Bow_P_Cryo.description>
+  <!-- EN: charge -->
+  <OTC_Bow_P_Cryo.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OTC_Bow_P_Cryo.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OTC_Bow_P_Cryo.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OTC_Bow_P_Cryo.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Nimbus Prototype(Cryo) -->
+  <OTC_Bow_P_Cryo.comps.CompUniqueWeapon.namerLabels.0>TODO</OTC_Bow_P_Cryo.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: limb -->
+  <OTC_Bow_P_Cryo.tools.limb.label>TODO</OTC_Bow_P_Cryo.tools.limb.label>
+  <!-- EN: Paragon Nimbus Prototype(Cryo) -->
+  <OTC_Bow_P_Cryo.verbs.Verb_Shoot.label>TODO</OTC_Bow_P_Cryo.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Paragon Meteor Prototype(Cryo) -->
+  <OTC_GrenadeLauncher_P_Cryo.label>TODO</OTC_GrenadeLauncher_P_Cryo.label>
+  <!-- EN: Paragon Experimental Grenade Launcher used by OTC Engineers. Balanced weapon with Cryo charges. -->
+  <OTC_GrenadeLauncher_P_Cryo.description>TODO</OTC_GrenadeLauncher_P_Cryo.description>
+  <!-- EN: charge -->
+  <OTC_GrenadeLauncher_P_Cryo.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OTC_GrenadeLauncher_P_Cryo.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OTC_GrenadeLauncher_P_Cryo.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OTC_GrenadeLauncher_P_Cryo.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Meteor Prototype(Cryo) -->
+  <OTC_GrenadeLauncher_P_Cryo.comps.CompUniqueWeapon.namerLabels.0>TODO</OTC_GrenadeLauncher_P_Cryo.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: barrel -->
+  <OTC_GrenadeLauncher_P_Cryo.tools.barrel.label>TODO</OTC_GrenadeLauncher_P_Cryo.tools.barrel.label>
+  <!-- EN: Paragon Meteor Prototype(Cryo) -->
+  <OTC_GrenadeLauncher_P_Cryo.verbs.Verb_Shoot.label>TODO</OTC_GrenadeLauncher_P_Cryo.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Paragon Pulsar Prototype(Cryo) -->
+  <OTC_MultiCannon_P_Cryo.label>TODO</OTC_MultiCannon_P_Cryo.label>
+  <!-- EN: Paragon Experimental Multi-Cannon used by OTC Engineers. Balanced weapon with Cryo charges.\n\nIt's remanufactured weapon based on OCC Multi-Cannon. -->
+  <OTC_MultiCannon_P_Cryo.description>TODO</OTC_MultiCannon_P_Cryo.description>
+  <!-- EN: charge -->
+  <OTC_MultiCannon_P_Cryo.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OTC_MultiCannon_P_Cryo.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OTC_MultiCannon_P_Cryo.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OTC_MultiCannon_P_Cryo.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Pulsar Prototype(Cryo) -->
+  <OTC_MultiCannon_P_Cryo.comps.CompUniqueWeapon.namerLabels.0>TODO</OTC_MultiCannon_P_Cryo.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: barrels -->
+  <OTC_MultiCannon_P_Cryo.tools.barrels.label>TODO</OTC_MultiCannon_P_Cryo.tools.barrels.label>
+  <!-- EN: Paragon Pulsar Prototype(Cryo) -->
+  <OTC_MultiCannon_P_Cryo.verbs.Verb_Shoot.label>TODO</OTC_MultiCannon_P_Cryo.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Paragon Celestial Prototype(Cryo) -->
+  <OTC_Pistol_P_Cryo.label>TODO</OTC_Pistol_P_Cryo.label>
+  <!-- EN: Paragon Experimental Pistol used by OTC Engineers. Balanced weapon with Cryo charges. -->
+  <OTC_Pistol_P_Cryo.description>TODO</OTC_Pistol_P_Cryo.description>
+  <!-- EN: charge -->
+  <OTC_Pistol_P_Cryo.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OTC_Pistol_P_Cryo.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OTC_Pistol_P_Cryo.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OTC_Pistol_P_Cryo.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Celestial Prototype(Cryo) -->
+  <OTC_Pistol_P_Cryo.comps.CompUniqueWeapon.namerLabels.0>TODO</OTC_Pistol_P_Cryo.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: grip -->
+  <OTC_Pistol_P_Cryo.tools.grip.label>TODO</OTC_Pistol_P_Cryo.tools.grip.label>
+  <!-- EN: barrel -->
+  <OTC_Pistol_P_Cryo.tools.barrel.label>TODO</OTC_Pistol_P_Cryo.tools.barrel.label>
+  <!-- EN: Paragon Celestial Prototype(Cryo) -->
+  <OTC_Pistol_P_Cryo.verbs.Verb_Shoot.label>TODO</OTC_Pistol_P_Cryo.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Paragon Quasar Prototype(Cryo) -->
+  <OTC_Shotgun_P_Cryo.label>TODO</OTC_Shotgun_P_Cryo.label>
+  <!-- EN: Paragon Experimental Shotgun used by OTC Engineers. Balanced weapon with Cryo charges. -->
+  <OTC_Shotgun_P_Cryo.description>TODO</OTC_Shotgun_P_Cryo.description>
+  <!-- EN: charge -->
+  <OTC_Shotgun_P_Cryo.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OTC_Shotgun_P_Cryo.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OTC_Shotgun_P_Cryo.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OTC_Shotgun_P_Cryo.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Quasar Prototype(Cryo) -->
+  <OTC_Shotgun_P_Cryo.comps.CompUniqueWeapon.namerLabels.0>TODO</OTC_Shotgun_P_Cryo.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: stock -->
+  <OTC_Shotgun_P_Cryo.tools.stock.label>TODO</OTC_Shotgun_P_Cryo.tools.stock.label>
+  <!-- EN: barrel -->
+  <OTC_Shotgun_P_Cryo.tools.barrel.label>TODO</OTC_Shotgun_P_Cryo.tools.barrel.label>
+  <!-- EN: Paragon Quasar Prototype(Cryo) -->
+  <OTC_Shotgun_P_Cryo.verbs.Verb_Shoot.label>TODO</OTC_Shotgun_P_Cryo.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Paragon Equalizer Prototype(Cryo) -->
+  <OTC_SMG_P_Cryo.label>TODO</OTC_SMG_P_Cryo.label>
+  <!-- EN: Paragon Experimental SMG used by OTC Engineers. Balanced weapon with Cryo charges. -->
+  <OTC_SMG_P_Cryo.description>TODO</OTC_SMG_P_Cryo.description>
+  <!-- EN: charge -->
+  <OTC_SMG_P_Cryo.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OTC_SMG_P_Cryo.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OTC_SMG_P_Cryo.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OTC_SMG_P_Cryo.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Equalizer Prototype(Cryo) -->
+  <OTC_SMG_P_Cryo.comps.CompUniqueWeapon.namerLabels.0>TODO</OTC_SMG_P_Cryo.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: stock -->
+  <OTC_SMG_P_Cryo.tools.stock.label>TODO</OTC_SMG_P_Cryo.tools.stock.label>
+  <!-- EN: barrel -->
+  <OTC_SMG_P_Cryo.tools.barrel.label>TODO</OTC_SMG_P_Cryo.tools.barrel.label>
+  <!-- EN: Paragon Equalizer Prototype(Cryo) -->
+  <OTC_SMG_P_Cryo.verbs.Verb_Shoot.label>TODO</OTC_SMG_P_Cryo.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Paragon Nova Prototype(Cryo) -->
+  <OTC_SniperRifle_P_Cryo.label>TODO</OTC_SniperRifle_P_Cryo.label>
+  <!-- EN: Paragon Experimental Sniper Rifle used by OTC Engineers. Balanced weapon with Cryo charges.\n\nIt's remanufactured weapon based on OMC Sniper Rifle. -->
+  <OTC_SniperRifle_P_Cryo.description>TODO</OTC_SniperRifle_P_Cryo.description>
+  <!-- EN: charge -->
+  <OTC_SniperRifle_P_Cryo.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OTC_SniperRifle_P_Cryo.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OTC_SniperRifle_P_Cryo.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OTC_SniperRifle_P_Cryo.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Nova Prototype(Cryo) -->
+  <OTC_SniperRifle_P_Cryo.comps.CompUniqueWeapon.namerLabels.0>TODO</OTC_SniperRifle_P_Cryo.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: stock -->
+  <OTC_SniperRifle_P_Cryo.tools.stock.label>TODO</OTC_SniperRifle_P_Cryo.tools.stock.label>
+  <!-- EN: barrel -->
+  <OTC_SniperRifle_P_Cryo.tools.barrel.label>TODO</OTC_SniperRifle_P_Cryo.tools.barrel.label>
+  <!-- EN: Paragon Nova Prototype(Cryo) -->
+  <OTC_SniperRifle_P_Cryo.verbs.Verb_Shoot.label>TODO</OTC_SniperRifle_P_Cryo.verbs.Verb_Shoot.label>
+  
+</LanguageData>

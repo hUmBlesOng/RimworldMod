@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Striker bullet -->
+  <Bullet_OMC_AR.label>TODO</Bullet_OMC_AR.label>
+  
+  <!-- EN: Striker MK-II bullet -->
+  <Bullet_OMC_AR_M.label>TODO</Bullet_OMC_AR_M.label>
+  
+  <!-- EN: Impaler bullet -->
+  <Bullet_OMC_P.label>TODO</Bullet_OMC_P.label>
+  
+  <!-- EN: Impaler MK-II bullet -->
+  <Bullet_OMC_P_M.label>TODO</Bullet_OMC_P_M.label>
+  
+  <!-- EN: Merciless bullet -->
+  <Bullet_OMC_R.label>TODO</Bullet_OMC_R.label>
+  
+  <!-- EN: Merciless MK-II bullet -->
+  <Bullet_OMC_R_M.label>TODO</Bullet_OMC_R_M.label>
+  
+  <!-- EN: Giant's Bane rocket -->
+  <Bullet_OMC_RL.label>TODO</Bullet_OMC_RL.label>
+  
+  <!-- EN: Giant's Bane MK-II rocket -->
+  <Bullet_OMC_RL_M.label>TODO</Bullet_OMC_RL_M.label>
+  
+  <!-- EN: Doom blast -->
+  <Bullet_OMC_S.label>TODO</Bullet_OMC_S.label>
+  
+  <!-- EN: Doom MK-II blast -->
+  <Bullet_OMC_S_M.label>TODO</Bullet_OMC_S_M.label>
+  
+  <!-- EN: Skullmasher bullet -->
+  <Bullet_OMC_SR.label>TODO</Bullet_OMC_SR.label>
+  
+  <!-- EN: Skullmasher MK-II bullet -->
+  <Bullet_OMC_SR_M.label>TODO</Bullet_OMC_SR_M.label>
+  
+  <!-- EN: Hellscream blast -->
+  <Bullet_OMC_SS.label>TODO</Bullet_OMC_SS.label>
+  
+  <!-- EN: Hellscream MK-II blast -->
+  <Bullet_OMC_SS_M.label>TODO</Bullet_OMC_SS_M.label>
+  
+  <!-- EN: Striker -->
+  <OMC_AR.label>TODO</OMC_AR.label>
+  <!-- EN: Regular Assault Rifle used by OMC Soldiers. Rapid-fire and multiple-charge weapons with reduced damage. -->
+  <OMC_AR.description>TODO</OMC_AR.description>
+  <!-- EN: stock -->
+  <OMC_AR.tools.stock.label>TODO</OMC_AR.tools.stock.label>
+  <!-- EN: barrel -->
+  <OMC_AR.tools.barrel.label>TODO</OMC_AR.tools.barrel.label>
+  <!-- EN: Striker -->
+  <OMC_AR.verbs.Verb_Shoot.label>TODO</OMC_AR.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Striker MK-II -->
+  <OMC_AR_M.label>TODO</OMC_AR_M.label>
+  <!-- EN: Modified Assault Rifle used by OMC Officers. Rapid-fire and multiple-charge weapons with reduced damage. -->
+  <OMC_AR_M.description>TODO</OMC_AR_M.description>
+  <!-- EN: stock -->
+  <OMC_AR_M.tools.stock.label>TODO</OMC_AR_M.tools.stock.label>
+  <!-- EN: barrel -->
+  <OMC_AR_M.tools.barrel.label>TODO</OMC_AR_M.tools.barrel.label>
+  <!-- EN: Striker MK-II -->
+  <OMC_AR_M.verbs.Verb_Shoot.label>TODO</OMC_AR_M.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Impaler -->
+  <OMC_Pistol.label>TODO</OMC_Pistol.label>
+  <!-- EN: Regular Auto Pistol used by OMC Soldiers. Rapid-fire and multiple-charge weapons with reduced damage. -->
+  <OMC_Pistol.description>TODO</OMC_Pistol.description>
+  <!-- EN: grip -->
+  <OMC_Pistol.tools.grip.label>TODO</OMC_Pistol.tools.grip.label>
+  <!-- EN: barrel -->
+  <OMC_Pistol.tools.barrel.label>TODO</OMC_Pistol.tools.barrel.label>
+  <!-- EN: Impaler -->
+  <OMC_Pistol.verbs.Verb_Shoot.label>TODO</OMC_Pistol.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Impaler MK-II -->
+  <OMC_Pistol_M.label>TODO</OMC_Pistol_M.label>
+  <!-- EN: Modified Auto Pistol used by OMC Officers. Rapid-fire and multiple-charge weapons with reduced damage. -->
+  <OMC_Pistol_M.description>TODO</OMC_Pistol_M.description>
+  <!-- EN: grip -->
+  <OMC_Pistol_M.tools.grip.label>TODO</OMC_Pistol_M.tools.grip.label>
+  <!-- EN: barrel -->
+  <OMC_Pistol_M.tools.barrel.label>TODO</OMC_Pistol_M.tools.barrel.label>
+  <!-- EN: Impaler MK-II -->
+  <OMC_Pistol_M.verbs.Verb_Shoot.label>TODO</OMC_Pistol_M.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Merciless -->
+  <OMC_Revolver.label>TODO</OMC_Revolver.label>
+  <!-- EN: Regular Revolver used by OMC Soldiers. Rapid-fire and multiple-charge weapons with reduced damage.\n\nIt's remanufactured weapon based on OEC Revolver. -->
+  <OMC_Revolver.description>TODO</OMC_Revolver.description>
+  <!-- EN: grip -->
+  <OMC_Revolver.tools.grip.label>TODO</OMC_Revolver.tools.grip.label>
+  <!-- EN: barrel -->
+  <OMC_Revolver.tools.barrel.label>TODO</OMC_Revolver.tools.barrel.label>
+  <!-- EN: Merciless -->
+  <OMC_Revolver.verbs.Verb_Shoot.label>TODO</OMC_Revolver.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Merciless MK-II -->
+  <OMC_Revolver_M.label>TODO</OMC_Revolver_M.label>
+  <!-- EN: Modified Revolver used by OMC Soldiers. Rapid-fire and multiple-charge weapons with reduced damage.\n\nIt's remanufactured weapon based on OEC Revolver. -->
+  <OMC_Revolver_M.description>TODO</OMC_Revolver_M.description>
+  <!-- EN: grip -->
+  <OMC_Revolver_M.tools.grip.label>TODO</OMC_Revolver_M.tools.grip.label>
+  <!-- EN: barrel -->
+  <OMC_Revolver_M.tools.barrel.label>TODO</OMC_Revolver_M.tools.barrel.label>
+  <!-- EN: Merciless MK-II -->
+  <OMC_Revolver_M.verbs.Verb_Shoot.label>TODO</OMC_Revolver_M.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Giant's Bane -->
+  <OMC_RocketLauncher.label>TODO</OMC_RocketLauncher.label>
+  <!-- EN: Regular Rocket Launcher used by OMC Soldiers. Rapid-fire and multiple-charge weapons with reduced damage.\n\nIt's remanufactured weapon based on OCC Rocket Launcher. -->
+  <OMC_RocketLauncher.description>TODO</OMC_RocketLauncher.description>
+  <!-- EN: barrel -->
+  <OMC_RocketLauncher.tools.barrel.label>TODO</OMC_RocketLauncher.tools.barrel.label>
+  <!-- EN: Giant's Bane -->
+  <OMC_RocketLauncher.verbs.Verb_Shoot.label>TODO</OMC_RocketLauncher.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Giant's Bane MK-II -->
+  <OMC_RocketLauncher_M.label>TODO</OMC_RocketLauncher_M.label>
+  <!-- EN: Modified Rocket Launcher used by OMC Soldiers. Rapid-fire and multiple-charge weapons with reduced damage.\n\nIt's remanufactured weapon based on OCC Rocket Launcher. -->
+  <OMC_RocketLauncher_M.description>TODO</OMC_RocketLauncher_M.description>
+  <!-- EN: barrel -->
+  <OMC_RocketLauncher_M.tools.barrel.label>TODO</OMC_RocketLauncher_M.tools.barrel.label>
+  <!-- EN: Giant's Bane MK-II -->
+  <OMC_RocketLauncher_M.verbs.Verb_Shoot.label>TODO</OMC_RocketLauncher_M.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Doom -->
+  <OMC_Shotgun.label>TODO</OMC_Shotgun.label>
+  <!-- EN: Regular Auto Shotgun used by OMC Soldiers. Rapid-fire and multiple-charge weapons with reduced damage. -->
+  <OMC_Shotgun.description>TODO</OMC_Shotgun.description>
+  <!-- EN: stock -->
+  <OMC_Shotgun.tools.stock.label>TODO</OMC_Shotgun.tools.stock.label>
+  <!-- EN: barrel -->
+  <OMC_Shotgun.tools.barrel.label>TODO</OMC_Shotgun.tools.barrel.label>
+  <!-- EN: Doom -->
+  <OMC_Shotgun.verbs.Verb_Shoot.label>TODO</OMC_Shotgun.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Doom MK-II -->
+  <OMC_Shotgun_M.label>TODO</OMC_Shotgun_M.label>
+  <!-- EN: Modified Auto Shotgun used by OMC Officers. Rapid-fire and multiple-charge weapons with reduced damage. -->
+  <OMC_Shotgun_M.description>TODO</OMC_Shotgun_M.description>
+  <!-- EN: stock -->
+  <OMC_Shotgun_M.tools.stock.label>TODO</OMC_Shotgun_M.tools.stock.label>
+  <!-- EN: barrel -->
+  <OMC_Shotgun_M.tools.barrel.label>TODO</OMC_Shotgun_M.tools.barrel.label>
+  <!-- EN: Doom MK-II -->
+  <OMC_Shotgun_M.verbs.Verb_Shoot.label>TODO</OMC_Shotgun_M.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Hellscream -->
+  <OMC_ShotgunS.label>TODO</OMC_ShotgunS.label>
+  <!-- EN: Regular Shotgun Sidearm used by OMC Soldiers. Rapid-fire and multiple-charge weapons with reduced damage. -->
+  <OMC_ShotgunS.description>TODO</OMC_ShotgunS.description>
+  <!-- EN: grip -->
+  <OMC_ShotgunS.tools.grip.label>TODO</OMC_ShotgunS.tools.grip.label>
+  <!-- EN: barrel -->
+  <OMC_ShotgunS.tools.barrel.label>TODO</OMC_ShotgunS.tools.barrel.label>
+  <!-- EN: Hellscream -->
+  <OMC_ShotgunS.verbs.Verb_Shoot.label>TODO</OMC_ShotgunS.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Hellscream MK-II -->
+  <OMC_ShotgunS_M.label>TODO</OMC_ShotgunS_M.label>
+  <!-- EN: Modified Shotgun Sidearm used by OMC Officers. Rapid-fire and multiple-charge weapons with reduced damage. -->
+  <OMC_ShotgunS_M.description>TODO</OMC_ShotgunS_M.description>
+  <!-- EN: grip -->
+  <OMC_ShotgunS_M.tools.grip.label>TODO</OMC_ShotgunS_M.tools.grip.label>
+  <!-- EN: barrel -->
+  <OMC_ShotgunS_M.tools.barrel.label>TODO</OMC_ShotgunS_M.tools.barrel.label>
+  <!-- EN: Hellscream MK-II -->
+  <OMC_ShotgunS_M.verbs.Verb_Shoot.label>TODO</OMC_ShotgunS_M.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Skullmasher -->
+  <OMC_SniperRifle.label>TODO</OMC_SniperRifle.label>
+  <!-- EN: Regular Auto Sniper Rifle used by OMC Soldiers. Rapid-fire and multiple-charge weapons with reduced damage. -->
+  <OMC_SniperRifle.description>TODO</OMC_SniperRifle.description>
+  <!-- EN: stock -->
+  <OMC_SniperRifle.tools.stock.label>TODO</OMC_SniperRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <OMC_SniperRifle.tools.barrel.label>TODO</OMC_SniperRifle.tools.barrel.label>
+  <!-- EN: Skullmasher -->
+  <OMC_SniperRifle.verbs.Verb_Shoot.label>TODO</OMC_SniperRifle.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Skullmasher MK-II -->
+  <OMC_SniperRifle_M.label>TODO</OMC_SniperRifle_M.label>
+  <!-- EN: Modified Auto Sniper Rifle used by OMC Officers. Rapid-fire and multiple-charge weapons with reduced damage. -->
+  <OMC_SniperRifle_M.description>TODO</OMC_SniperRifle_M.description>
+  <!-- EN: stock -->
+  <OMC_SniperRifle_M.tools.stock.label>TODO</OMC_SniperRifle_M.tools.stock.label>
+  <!-- EN: barrel -->
+  <OMC_SniperRifle_M.tools.barrel.label>TODO</OMC_SniperRifle_M.tools.barrel.label>
+  <!-- EN: Skullmasher MK-II -->
+  <OMC_SniperRifle_M.verbs.Verb_Shoot.label>TODO</OMC_SniperRifle_M.verbs.Verb_Shoot.label>
+  
+</LanguageData>

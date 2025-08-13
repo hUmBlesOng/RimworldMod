@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Paragon Prototype sX-01a -->
+  <OMC_Trophy_Pistol_P.label>TODO</OMC_Trophy_Pistol_P.label>
+  <!-- EN: Prototype of a new paragon pistol that uses an AI module to improve accuracy.\n\nThis is a rare trophy weapon.\n\nFeature: built-in accuracy stabilization module. -->
+  <OMC_Trophy_Pistol_P.description>TODO</OMC_Trophy_Pistol_P.description>
+  <!-- EN: charge -->
+  <OMC_Trophy_Pistol_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OMC_Trophy_Pistol_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OMC_Trophy_Pistol_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OMC_Trophy_Pistol_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <!-- EN: Paragon Prototype sX-01a -->
+  <OMC_Trophy_Pistol_P.comps.CompUniqueWeapon.namerLabels.0>TODO</OMC_Trophy_Pistol_P.comps.CompUniqueWeapon.namerLabels.0>
+  <!-- EN: grip -->
+  <OMC_Trophy_Pistol_P.tools.grip.label>TODO</OMC_Trophy_Pistol_P.tools.grip.label>
+  <!-- EN: barrel -->
+  <OMC_Trophy_Pistol_P.tools.barrel.label>TODO</OMC_Trophy_Pistol_P.tools.barrel.label>
+  <!-- EN: Paragon Prototype sX-01a -->
+  <OMC_Trophy_Pistol_P.verbs.Verb_Shoot.label>TODO</OMC_Trophy_Pistol_P.verbs.Verb_Shoot.label>
+  
+</LanguageData>

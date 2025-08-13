@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grand redline -->
+  <OE_LordRedline.label>TODO</OE_LordRedline.label>
+  <!-- EN: A special Chaos Lord's mode that raises their combat potential and movespeed. -->
+  <OE_LordRedline.description>TODO</OE_LordRedline.description>
+  <!-- EN: grand redline -->
+  <OE_LordRedline.labelNoun>TODO</OE_LordRedline.labelNoun>
+  
+  <!-- EN: Cursed -->
+  <OE_QueenCurse.label>TODO</OE_QueenCurse.label>
+  <!-- EN: The curse fully disarms the target and increases incoming damage. The curse has a very long duration. -->
+  <OE_QueenCurse.description>TODO</OE_QueenCurse.description>
+  <!-- EN: cursed -->
+  <OE_QueenCurse.labelNoun>TODO</OE_QueenCurse.labelNoun>
+  
+</LanguageData>

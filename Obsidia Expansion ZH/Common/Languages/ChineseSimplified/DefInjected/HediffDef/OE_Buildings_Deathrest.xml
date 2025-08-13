@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: battlecraft rush -->
+  <OE_BattlecraftRush.label>TODO</OE_BattlecraftRush.label>
+  <!-- EN: Combat stats is enhanced because this person used a battlecraft pump while deathresting. This effect lasts until the next deathrest. -->
+  <OE_BattlecraftRush.description>TODO</OE_BattlecraftRush.description>
+  <!-- EN: Lasts until the next deathrest. -->
+  <OE_BattlecraftRush.extraTooltip>TODO</OE_BattlecraftRush.extraTooltip>
+  
+  <!-- EN: perfectioning rush -->
+  <OE_PerfectioningRush.label>TODO</OE_PerfectioningRush.label>
+  <!-- EN: Working stats is enhanced because this person used a perfectioning pump while deathresting. This effect lasts until the next deathrest. -->
+  <OE_PerfectioningRush.description>TODO</OE_PerfectioningRush.description>
+  <!-- EN: Lasts until the next deathrest. -->
+  <OE_PerfectioningRush.extraTooltip>TODO</OE_PerfectioningRush.extraTooltip>
+  
+</LanguageData>

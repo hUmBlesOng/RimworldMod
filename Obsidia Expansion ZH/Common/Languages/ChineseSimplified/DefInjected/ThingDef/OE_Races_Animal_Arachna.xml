@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: tundra arachna -->
+  <OE_Arachna_Blue.label>TODO</OE_Arachna_Blue.label>
+  <!-- EN: Obsidia Arachna are huge arthropod. These strong and fast creatures prefer to form small hunting groups. They are very difficult to tame and almost impossible to train. Also, many are mistaken in thinking that Arachnas produce webs.\n\nTundra Arachna prefers cold climates. -->
+  <OE_Arachna_Blue.description>TODO</OE_Arachna_Blue.description>
+  <!-- EN: left first leg -->
+  <OE_Arachna_Blue.tools.left_first_leg.label>TODO</OE_Arachna_Blue.tools.left_first_leg.label>
+  <!-- EN: right first leg -->
+  <OE_Arachna_Blue.tools.right_first_leg.label>TODO</OE_Arachna_Blue.tools.right_first_leg.label>
+  <!-- EN: head -->
+  <OE_Arachna_Blue.tools.head.label>TODO</OE_Arachna_Blue.tools.head.label>
+  
+  <!-- EN: jungle arachna -->
+  <OE_Arachna_Green.label>TODO</OE_Arachna_Green.label>
+  <!-- EN: Obsidia Arachna are huge arthropod. These strong and fast creatures prefer to form small hunting groups. They are very difficult to tame and almost impossible to train. Also, many are mistaken in thinking that Arachnas produce webs.\n\nJungle Arachna prefers temperate climates. -->
+  <OE_Arachna_Green.description>TODO</OE_Arachna_Green.description>
+  <!-- EN: left first leg -->
+  <OE_Arachna_Green.tools.left_first_leg.label>TODO</OE_Arachna_Green.tools.left_first_leg.label>
+  <!-- EN: right first leg -->
+  <OE_Arachna_Green.tools.right_first_leg.label>TODO</OE_Arachna_Green.tools.right_first_leg.label>
+  <!-- EN: head -->
+  <OE_Arachna_Green.tools.head.label>TODO</OE_Arachna_Green.tools.head.label>
+  
+  <!-- EN: dune arachna -->
+  <OE_Arachna_Red.label>TODO</OE_Arachna_Red.label>
+  <!-- EN: Obsidia Arachna are huge arthropod. These strong and fast creatures prefer to form small hunting groups. They are very difficult to tame and almost impossible to train. Also, many are mistaken in thinking that Arachnas produce webs.\n\nDune Arachna prefers hot climates. -->
+  <OE_Arachna_Red.description>TODO</OE_Arachna_Red.description>
+  <!-- EN: left first leg -->
+  <OE_Arachna_Red.tools.left_first_leg.label>TODO</OE_Arachna_Red.tools.left_first_leg.label>
+  <!-- EN: right first leg -->
+  <OE_Arachna_Red.tools.right_first_leg.label>TODO</OE_Arachna_Red.tools.right_first_leg.label>
+  <!-- EN: head -->
+  <OE_Arachna_Red.tools.head.label>TODO</OE_Arachna_Red.tools.head.label>
+  
+  <!-- EN: swamp arachna -->
+  <OE_Arachna_Yellow.label>TODO</OE_Arachna_Yellow.label>
+  <!-- EN: Obsidia Arachna are huge arthropod. These strong and fast creatures prefer to form small hunting groups. They are very difficult to tame and almost impossible to train. Also, many are mistaken in thinking that Arachnas produce webs.\n\nSwamp Arachna prefers temperate climates. -->
+  <OE_Arachna_Yellow.description>TODO</OE_Arachna_Yellow.description>
+  <!-- EN: left first leg -->
+  <OE_Arachna_Yellow.tools.left_first_leg.label>TODO</OE_Arachna_Yellow.tools.left_first_leg.label>
+  <!-- EN: right first leg -->
+  <OE_Arachna_Yellow.tools.right_first_leg.label>TODO</OE_Arachna_Yellow.tools.right_first_leg.label>
+  <!-- EN: head -->
+  <OE_Arachna_Yellow.tools.head.label>TODO</OE_Arachna_Yellow.tools.head.label>
+  
+</LanguageData>

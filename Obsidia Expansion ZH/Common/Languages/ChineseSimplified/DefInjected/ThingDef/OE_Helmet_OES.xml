@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Heroic Eidolon Helmet(Gladiator) -->
+  <OES_Helmet_Melee.label>TODO</OES_Helmet_Melee.label>
+  <!-- EN: Heavy power armor Helmet, excellent protects the owner. Designed for use by Eidolons, once called Heroes! Reveals the full potential of its owner.\n\nThis modification intended for melee weapon user and deprives item's quality levels. -->
+  <OES_Helmet_Melee.description>TODO</OES_Helmet_Melee.description>
+  
+  <!-- EN: Heroic Eidolon Helmet(Ranger) -->
+  <OES_Helmet_Ranged.label>TODO</OES_Helmet_Ranged.label>
+  <!-- EN: Heavy power armor Helmet, excellent protects the owner. Designed for use by Eidolons, once called Heroes! Reveals the full potential of its owner.\n\nThis modification intended for ranged weapon user and deprives item's quality levels. -->
+  <OES_Helmet_Ranged.description>TODO</OES_Helmet_Ranged.description>
+  
+</LanguageData>

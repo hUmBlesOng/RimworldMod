@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: slime heart (Unconf.) -->
+  <OE_SlimeHeart.label>TODO</OE_SlimeHeart.label>
+  <!-- EN: A hyper-advanced slime core with correct configuration and the addition of materials it is able to grow a real slime. It's a lost technology from Obsidia, developed by mad scientist and slime master Rimuru Tempest. -->
+  <OE_SlimeHeart.description>TODO</OE_SlimeHeart.description>
+  
+  <!-- EN: ambrosia slime heart (Сonf.) -->
+  <OE_SlimeHeart_Ambrosia.label>TODO</OE_SlimeHeart_Ambrosia.label>
+  <!-- EN: A hyper-advanced slime core with configuration to grow up into Ambrosia slime in 7 days. Ambrosia slime produces 15 Ambrosia every 12 days.\n\nWarning! Slime is formed untamed. -->
+  <OE_SlimeHeart_Ambrosia.description>TODO</OE_SlimeHeart_Ambrosia.description>
+  
+  <!-- EN: beer slime heart (Сonf.) -->
+  <OE_SlimeHeart_Beer.label>TODO</OE_SlimeHeart_Beer.label>
+  <!-- EN: A hyper-advanced slime core with configuration to grow up into Beer slime in 7 days. Beer slime produces 25 Beer every 5 days.\n\nWarning! Slime is formed untamed. -->
+  <OE_SlimeHeart_Beer.description>TODO</OE_SlimeHeart_Beer.description>
+  
+  <!-- EN: bone slime heart (Сonf.) -->
+  <OE_SlimeHeart_Bone.label>TODO</OE_SlimeHeart_Bone.label>
+  <!-- EN: A hyper-advanced slime core with configuration to grow up into Bone slime in 7 days. Bone slime battle type, with increased intelligence for training.\n\nWarning! Slime is formed untamed. -->
+  <OE_SlimeHeart_Bone.description>TODO</OE_SlimeHeart_Bone.description>
+  
+  <!-- EN: chemfuel slime heart (Сonf.) -->
+  <OE_SlimeHeart_Chemfuel.label>TODO</OE_SlimeHeart_Chemfuel.label>
+  <!-- EN: A hyper-advanced slime core with configuration to grow up into Chemfuel slime in 7 days. Chemfuel slime produces 125 Chemfuel every 5 days.\n\nWarning! Slime is formed untamed. -->
+  <OE_SlimeHeart_Chemfuel.description>TODO</OE_SlimeHeart_Chemfuel.description>
+  
+  <!-- EN: fungus slime heart (Сonf.) -->
+  <OE_SlimeHeart_Fungus.label>TODO</OE_SlimeHeart_Fungus.label>
+  <!-- EN: A hyper-advanced slime core with configuration to grow up into Fungus slime in 7 days. Fungus slime produces 35 Raw Fungus every 12 days.\n\nWarning! Slime is formed untamed. -->
+  <OE_SlimeHeart_Fungus.description>TODO</OE_SlimeHeart_Fungus.description>
+  
+  <!-- EN: gold slime heart (Сonf.) -->
+  <OE_SlimeHeart_Gold.label>TODO</OE_SlimeHeart_Gold.label>
+  <!-- EN: A hyper-advanced slime core with configuration to grow up into Gold slime in 7 days. Gold slime produces 40 Gold every 18 days.\n\nWarning! Slime is formed untamed. -->
+  <OE_SlimeHeart_Gold.description>TODO</OE_SlimeHeart_Gold.description>
+  
+  <!-- EN: hauler slime heart (Сonf.) -->
+  <OE_SlimeHeart_Hauler.label>TODO</OE_SlimeHeart_Hauler.label>
+  <!-- EN: A hyper-advanced slime core with configuration to grow up into Hauler slime in 7 days. Hauler slime pack type, with high intelligence and exceptional carrying capacity.\n\nWarning! Slime is formed untamed. -->
+  <OE_SlimeHeart_Hauler.description>TODO</OE_SlimeHeart_Hauler.description>
+  
+  <!-- EN: herbal slime heart (Сonf.) -->
+  <OE_SlimeHeart_Herbal.label>TODO</OE_SlimeHeart_Herbal.label>
+  <!-- EN: A hyper-advanced slime core with configuration to grow up into Herbal slime in 7 days. Herbal slime produces 3 Herbal medicine every 12 days.\n\nWarning! Slime is formed untamed. -->
+  <OE_SlimeHeart_Herbal.description>TODO</OE_SlimeHeart_Herbal.description>
+  
+  <!-- EN: jade slime heart (Сonf.) -->
+  <OE_SlimeHeart_Jade.label>TODO</OE_SlimeHeart_Jade.label>
+  <!-- EN: A hyper-advanced slime core with configuration to grow up into Jade slime in 7 days. Jade slime produces 30 Jade every 18 days.\n\nWarning! Slime is formed untamed. -->
+  <OE_SlimeHeart_Jade.description>TODO</OE_SlimeHeart_Jade.description>
+  
+  <!-- EN: jelly slime heart (Сonf.) -->
+  <OE_SlimeHeart_Jelly.label>TODO</OE_SlimeHeart_Jelly.label>
+  <!-- EN: A hyper-advanced slime core with configuration to grow up into Jelly slime in 7 days. Jelly slime produces 250 Insect Jelly every 5 days.\n\nWarning! Slime is formed untamed. -->
+  <OE_SlimeHeart_Jelly.description>TODO</OE_SlimeHeart_Jelly.description>
+  
+  <!-- EN: jumy slime heart (Сonf.) -->
+  <OE_SlimeHeart_Jumy.label>TODO</OE_SlimeHeart_Jumy.label>
+  <!-- EN: A hyper-advanced slime core with configuration to grow up into Jumy slime in 7 days. Jumy slime produces 15 Jumy Berries every 12 days.\n\nWarning! Slime is formed untamed. -->
+  <OE_SlimeHeart_Jumy.description>TODO</OE_SlimeHeart_Jumy.description>
+  
+  <!-- EN: mythril slime heart (Сonf.) -->
+  <OE_SlimeHeart_Mythril.label>TODO</OE_SlimeHeart_Mythril.label>
+  <!-- EN: A hyper-advanced slime core with configuration to grow up into Mythril slime in 7 days. Mythril slime produces 20 Mythril every 18 days.\n\nWarning! Slime is formed untamed. -->
+  <OE_SlimeHeart_Mythril.description>TODO</OE_SlimeHeart_Mythril.description>
+  
+  <!-- EN: neutroamine slime heart (Сonf.) -->
+  <OE_SlimeHeart_Neutroamine.label>TODO</OE_SlimeHeart_Neutroamine.label>
+  <!-- EN: A hyper-advanced slime core with configuration to grow up into Neutroamine slime in 7 days. Neutroamine slime produces 5 Neutroamine every 5 days.\n\nWarning! Slime is formed untamed. -->
+  <OE_SlimeHeart_Neutroamine.description>TODO</OE_SlimeHeart_Neutroamine.description>
+  
+  <!-- EN: obsidian slime heart (Сonf.) -->
+  <OE_SlimeHeart_Obsidian.label>TODO</OE_SlimeHeart_Obsidian.label>
+  <!-- EN: A hyper-advanced slime core with configuration to grow up into Obsidian slime in 7 days. Obsidian slime produces 30 Obsidian every 10 days.\n\nWarning! Slime is formed untamed. -->
+  <OE_SlimeHeart_Obsidian.description>TODO</OE_SlimeHeart_Obsidian.description>
+  
+  <!-- EN: platinum slime heart (Сonf.) -->
+  <OE_SlimeHeart_Platinum.label>TODO</OE_SlimeHeart_Platinum.label>
+  <!-- EN: A hyper-advanced slime core with configuration to grow up into Platinum slime in 7 days. Platinum slime produces 30 Platinum every 10 days.\n\nWarning! Slime is formed untamed. -->
+  <OE_SlimeHeart_Platinum.description>TODO</OE_SlimeHeart_Platinum.description>
+  
+  <!-- EN: silver slime heart (Сonf.) -->
+  <OE_SlimeHeart_Silver.label>TODO</OE_SlimeHeart_Silver.label>
+  <!-- EN: A hyper-advanced slime core with configuration to grow up into Silver slime in 7 days. Silver slime produces 100 Silver every 10 days.\n\nWarning! Slime is formed untamed. -->
+  <OE_SlimeHeart_Silver.description>TODO</OE_SlimeHeart_Silver.description>
+  
+  <!-- EN: steel slime heart (Сonf.) -->
+  <OE_SlimeHeart_Steel.label>TODO</OE_SlimeHeart_Steel.label>
+  <!-- EN: A hyper-advanced slime core with configuration to grow up into Steel slime in 7 days. Steel slime produces 150 Steel every 10 days.\n\nWarning! Slime is formed untamed. -->
+  <OE_SlimeHeart_Steel.description>TODO</OE_SlimeHeart_Steel.description>
+  
+  <!-- EN: syntherius slime heart (Сonf.) -->
+  <OE_SlimeHeart_Syntherius.label>TODO</OE_SlimeHeart_Syntherius.label>
+  <!-- EN: A hyper-advanced slime core with configuration to grow up into Syntherius slime in 7 days. Syntherius slime produces 1 Syntherius every 18 days.\n\nWarning! Slime is formed untamed. -->
+  <OE_SlimeHeart_Syntherius.description>TODO</OE_SlimeHeart_Syntherius.description>
+  
+  <!-- EN: uranium slime heart (Сonf.) -->
+  <OE_SlimeHeart_Uranium.label>TODO</OE_SlimeHeart_Uranium.label>
+  <!-- EN: A hyper-advanced slime core with configuration to grow up into Uranium slime in 7 days. Uranium slime produces 45 Uranium every 10 days.\n\nWarning! Slime is formed untamed. -->
+  <OE_SlimeHeart_Uranium.description>TODO</OE_SlimeHeart_Uranium.description>
+  
+</LanguageData>

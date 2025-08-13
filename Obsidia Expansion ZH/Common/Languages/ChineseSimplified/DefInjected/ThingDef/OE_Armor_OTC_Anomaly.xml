@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: OTC turret pack capsule -->
+  <Grenade_Armor_OTC_TurretPack_Acid.label>TODO</Grenade_Armor_OTC_TurretPack_Acid.label>
+  
+  <!-- EN: OTC turret pack capsule -->
+  <Grenade_Armor_OTC_TurretPack_Cryo.label>TODO</Grenade_Armor_OTC_TurretPack_Cryo.label>
+  
+  <!-- EN: OTC turret pack capsule -->
+  <Grenade_Armor_OTC_TurretPack_EMP.label>TODO</Grenade_Armor_OTC_TurretPack_EMP.label>
+  
+  <!-- EN: OTC turret pack capsule -->
+  <Grenade_Armor_OTC_TurretPack_Fire.label>TODO</Grenade_Armor_OTC_TurretPack_Fire.label>
+  
+  <!-- EN: OTC Engineer Armor(Goblin) -->
+  <OTC_Armor_M_Turret.label>TODO</OTC_Armor_M_Turret.label>
+  <!-- EN: Light power armor, well protects the owner with little mobility restriction. Designed and modified for use by OTC Engineers.\n\nModified with the pack that allows the user to deploy a battery-powered turret. -->
+  <OTC_Armor_M_Turret.description>TODO</OTC_Armor_M_Turret.description>
+  <!-- EN: incendiary -->
+  <OTC_Armor_M_Turret.comps.CompApparelReloadable.chargeNoun>TODO</OTC_Armor_M_Turret.comps.CompApparelReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <OTC_Armor_M_Turret.comps.CompApparelReloadable.cooldownGerund>TODO</OTC_Armor_M_Turret.comps.CompApparelReloadable.cooldownGerund>
+  <!-- EN: deploy acid turret -->
+  <OTC_Armor_M_Turret.verbs.deploy_acid_turret.label>TODO</OTC_Armor_M_Turret.verbs.deploy_acid_turret.label>
+  <!-- EN: deploy cryo turret -->
+  <OTC_Armor_M_Turret.verbs.deploy_cryo_turret.label>TODO</OTC_Armor_M_Turret.verbs.deploy_cryo_turret.label>
+  <!-- EN: deploy fire turret -->
+  <OTC_Armor_M_Turret.verbs.deploy_fire_turret.label>TODO</OTC_Armor_M_Turret.verbs.deploy_fire_turret.label>
+  <!-- EN: deploy EMP turret -->
+  <OTC_Armor_M_Turret.verbs.deploy_EMP_turret.label>TODO</OTC_Armor_M_Turret.verbs.deploy_EMP_turret.label>
+  
+  <!-- EN: Celestial Prototype Turret(Acid) -->
+  <OTC_Gun_TacticalTurret_Acid.label>TODO</OTC_Gun_TacticalTurret_Acid.label>
+  <!-- EN: Reconstructed OTC Pistol for turrets. Balanced weapon with Acid charges. -->
+  <OTC_Gun_TacticalTurret_Acid.description>TODO</OTC_Gun_TacticalTurret_Acid.description>
+  <!-- EN: Celestial Prototype Turret(Acid) -->
+  <OTC_Gun_TacticalTurret_Acid.verbs.Verb_Shoot.label>TODO</OTC_Gun_TacticalTurret_Acid.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Celestial Prototype Turret(Cryo) -->
+  <OTC_Gun_TacticalTurret_Cryo.label>TODO</OTC_Gun_TacticalTurret_Cryo.label>
+  <!-- EN: Reconstructed OTC Pistol for turrets. Balanced weapon with Cryo charges. -->
+  <OTC_Gun_TacticalTurret_Cryo.description>TODO</OTC_Gun_TacticalTurret_Cryo.description>
+  <!-- EN: Celestial Prototype Turret(Cryo) -->
+  <OTC_Gun_TacticalTurret_Cryo.verbs.Verb_Shoot.label>TODO</OTC_Gun_TacticalTurret_Cryo.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Celestial Prototype Turret(EMP) -->
+  <OTC_Gun_TacticalTurret_EMP.label>TODO</OTC_Gun_TacticalTurret_EMP.label>
+  <!-- EN: Reconstructed OTC Pistol for turrets. Balanced weapon with EMP charges. -->
+  <OTC_Gun_TacticalTurret_EMP.description>TODO</OTC_Gun_TacticalTurret_EMP.description>
+  <!-- EN: Celestial Prototype Turret(EMP) -->
+  <OTC_Gun_TacticalTurret_EMP.verbs.Verb_Shoot.label>TODO</OTC_Gun_TacticalTurret_EMP.verbs.Verb_Shoot.label>
+  
+  <!-- EN: Celestial Prototype Turret(Fire) -->
+  <OTC_Gun_TacticalTurret_Fire.label>TODO</OTC_Gun_TacticalTurret_Fire.label>
+  <!-- EN: Reconstructed OTC Pistol for turrets. Balanced weapon with Fire charges. -->
+  <OTC_Gun_TacticalTurret_Fire.description>TODO</OTC_Gun_TacticalTurret_Fire.description>
+  <!-- EN: Celestial Prototype Turret(Fire) -->
+  <OTC_Gun_TacticalTurret_Fire.verbs.Verb_Shoot.label>TODO</OTC_Gun_TacticalTurret_Fire.verbs.Verb_Shoot.label>
+  
+  <!-- EN: OTC tactical acid turret -->
+  <OTC_Turret_TacticalTurret_Acid.label>TODO</OTC_Turret_TacticalTurret_Acid.label>
+  <!-- EN: An automatic OTC Acid Pistol-equipped turret. It will stop functioning once its battery runs out. -->
+  <OTC_Turret_TacticalTurret_Acid.description>TODO</OTC_Turret_TacticalTurret_Acid.description>
+  <!-- EN: Battery power -->
+  <OTC_Turret_TacticalTurret_Acid.comps.CompMechPowerCell.labelOverride>TODO</OTC_Turret_TacticalTurret_Acid.comps.CompMechPowerCell.labelOverride>
+  <!-- EN: This turret has a limited battery life. Once it runs out, it will stop working entirely. -->
+  <OTC_Turret_TacticalTurret_Acid.comps.CompMechPowerCell.tooltipOverride>TODO</OTC_Turret_TacticalTurret_Acid.comps.CompMechPowerCell.tooltipOverride>
+  
+  <!-- EN: OTC tactical cryo turret -->
+  <OTC_Turret_TacticalTurret_Cryo.label>TODO</OTC_Turret_TacticalTurret_Cryo.label>
+  <!-- EN: An automatic OTC Cryo Pistol-equipped turret. It will stop functioning once its battery runs out. -->
+  <OTC_Turret_TacticalTurret_Cryo.description>TODO</OTC_Turret_TacticalTurret_Cryo.description>
+  <!-- EN: Battery power -->
+  <OTC_Turret_TacticalTurret_Cryo.comps.CompMechPowerCell.labelOverride>TODO</OTC_Turret_TacticalTurret_Cryo.comps.CompMechPowerCell.labelOverride>
+  <!-- EN: This turret has a limited battery life. Once it runs out, it will stop working entirely. -->
+  <OTC_Turret_TacticalTurret_Cryo.comps.CompMechPowerCell.tooltipOverride>TODO</OTC_Turret_TacticalTurret_Cryo.comps.CompMechPowerCell.tooltipOverride>
+  
+  <!-- EN: OTC tactical EMP turret -->
+  <OTC_Turret_TacticalTurret_EMP.label>TODO</OTC_Turret_TacticalTurret_EMP.label>
+  <!-- EN: An automatic OTC EMP Pistol-equipped turret. It will stop functioning once its battery runs out. -->
+  <OTC_Turret_TacticalTurret_EMP.description>TODO</OTC_Turret_TacticalTurret_EMP.description>
+  <!-- EN: Battery power -->
+  <OTC_Turret_TacticalTurret_EMP.comps.CompMechPowerCell.labelOverride>TODO</OTC_Turret_TacticalTurret_EMP.comps.CompMechPowerCell.labelOverride>
+  <!-- EN: This turret has a limited battery life. Once it runs out, it will stop working entirely. -->
+  <OTC_Turret_TacticalTurret_EMP.comps.CompMechPowerCell.tooltipOverride>TODO</OTC_Turret_TacticalTurret_EMP.comps.CompMechPowerCell.tooltipOverride>
+  
+  <!-- EN: OTC tactical fire turret -->
+  <OTC_Turret_TacticalTurret_Fire.label>TODO</OTC_Turret_TacticalTurret_Fire.label>
+  <!-- EN: An automatic OTC Fire Pistol-equipped turret. It will stop functioning once its battery runs out. -->
+  <OTC_Turret_TacticalTurret_Fire.description>TODO</OTC_Turret_TacticalTurret_Fire.description>
+  <!-- EN: Battery power -->
+  <OTC_Turret_TacticalTurret_Fire.comps.CompMechPowerCell.labelOverride>TODO</OTC_Turret_TacticalTurret_Fire.comps.CompMechPowerCell.labelOverride>
+  <!-- EN: This turret has a limited battery life. Once it runs out, it will stop working entirely. -->
+  <OTC_Turret_TacticalTurret_Fire.comps.CompMechPowerCell.tooltipOverride>TODO</OTC_Turret_TacticalTurret_Fire.comps.CompMechPowerCell.tooltipOverride>
+  
+</LanguageData>

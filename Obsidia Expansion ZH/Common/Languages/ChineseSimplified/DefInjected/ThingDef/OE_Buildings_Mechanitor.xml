@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mech combat obsidia antenna -->
+  <OE_MechCombatAntenna.label>TODO</OE_MechCombatAntenna.label>
+  <!-- EN: A remote mech combat enhancement device. Any mechanoids in its effect radius will improves combat stats. -->
+  <OE_MechCombatAntenna.description>TODO</OE_MechCombatAntenna.description>
+  
+  <!-- EN: mech corrupter obsidia antenna -->
+  <OE_MechCorrupterAntenna.label>TODO</OE_MechCorrupterAntenna.label>
+  <!-- EN: A remote mech deterioration device. Any mechanoids in its effect radius will deteriorate combat stats. -->
+  <OE_MechCorrupterAntenna.description>TODO</OE_MechCorrupterAntenna.description>
+  
+  <!-- EN: obsidia mech recharger -->
+  <OE_MechRecharger.label>TODO</OE_MechRecharger.label>
+  <!-- EN: Obsidia Mech Recharger is a compact and versatile unit. Mechanoids of all standard classified sizes can recharge here.\n\nDuring recharge, this recharger produces toxic wastepacks and stores them internally. Haulers must remove the wastepacks from time to time. -->
+  <OE_MechRecharger.description>TODO</OE_MechRecharger.description>
+  
+  <!-- EN: mech efficiency obsidia antenna -->
+  <OE_MechWorkerAntenna.label>TODO</OE_MechWorkerAntenna.label>
+  <!-- EN: A remote mech efficiency device. Any mechanoids in its effect radius will improves working stats. -->
+  <OE_MechWorkerAntenna.description>TODO</OE_MechWorkerAntenna.description>
+  
+</LanguageData>

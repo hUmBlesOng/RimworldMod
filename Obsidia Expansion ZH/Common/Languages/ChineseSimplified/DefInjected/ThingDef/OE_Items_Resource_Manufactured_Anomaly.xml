@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: joltixin serum -->
+  <OE_JoltixinSerum.label>TODO</OE_JoltixinSerum.label>
+  <!-- EN: A capsule of thick fluid containing a mixture concentrated combat stimulant Joltixin. Intended for use by gunners. -->
+  <OE_JoltixinSerum.description>TODO</OE_JoltixinSerum.description>
+  <!-- EN: Use {0_label} -->
+  <OE_JoltixinSerum.comps.CompUsable.useLabel>TODO</OE_JoltixinSerum.comps.CompUsable.useLabel>
+  <!-- EN: Ingest {0} -->
+  <OE_JoltixinSerum.ingestible.ingestCommandString>TODO</OE_JoltixinSerum.ingestible.ingestCommandString>
+  <!-- EN: Ingesting {0}. -->
+  <OE_JoltixinSerum.ingestible.ingestReportString>TODO</OE_JoltixinSerum.ingestible.ingestReportString>
+  
+  <!-- EN: torraxin serum -->
+  <OE_TorraxinSerum.label>TODO</OE_TorraxinSerum.label>
+  <!-- EN: A capsule of thick fluid containing a mixture concentrated combat stimulant Torraxin. Intended for use by melee fighters. -->
+  <OE_TorraxinSerum.description>TODO</OE_TorraxinSerum.description>
+  <!-- EN: Use {0_label} -->
+  <OE_TorraxinSerum.comps.CompUsable.useLabel>TODO</OE_TorraxinSerum.comps.CompUsable.useLabel>
+  <!-- EN: Ingest {0} -->
+  <OE_TorraxinSerum.ingestible.ingestCommandString>TODO</OE_TorraxinSerum.ingestible.ingestCommandString>
+  <!-- EN: Ingesting {0}. -->
+  <OE_TorraxinSerum.ingestible.ingestReportString>TODO</OE_TorraxinSerum.ingestible.ingestReportString>
+  
+</LanguageData>

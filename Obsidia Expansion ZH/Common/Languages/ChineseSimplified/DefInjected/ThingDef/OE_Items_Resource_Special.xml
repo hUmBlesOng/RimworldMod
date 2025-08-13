@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arachna core -->
+  <OE_ArachnaCore.label>TODO</OE_ArachnaCore.label>
+  <!-- EN: A hyper-advanced computer core containing the AI persona of the Arachne Queen. It's unknown how the Crimson Arachna Cult got it, but with proper tuning it has huge potential. -->
+  <OE_ArachnaCore.description>TODO</OE_ArachnaCore.description>
+  <!-- EN: Analyze the arachna core. -->
+  <OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.activateDescString>TODO</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <!-- EN: Analyze... -->
+  <OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.activateLabelString>TODO</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <!-- EN: By studying the Arachna Core, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
+  <OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.completedLetter>TODO</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.completedLetter>
+  <!-- EN: Arachna Core studied: {RESEARCH} unlocked -->
+  <OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.completedLetterLabel>TODO</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <!-- EN: Choose who should analyze this -->
+  <OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.guiLabelString>TODO</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <!-- EN: Can be analyzed by a colonist. -->
+  <OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.inspectString>TODO</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.inspectString>
+  <!-- EN: Analyze arachna core -->
+  <OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.jobString>TODO</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.jobString>
+  
+  <!-- EN: mutated EGO seed – Elder Direwolf -->
+  <OE_EGOSeed_Elder_Direwolf.label>TODO</OE_EGOSeed_Elder_Direwolf.label>
+  <!-- EN: Once the seed of an EGO tree, this specimen mutated under unknown conditions after entering the body of an Elder Direwolf. It sprouted within the host, forming an amalgam symbiosis. It can no longer be used to grow an EGO tree. -->
+  <OE_EGOSeed_Elder_Direwolf.description>TODO</OE_EGOSeed_Elder_Direwolf.description>
+  
+  <!-- EN: mutated EGO seed – Elder Ogren -->
+  <OE_EGOSeed_Elder_Ogren.label>TODO</OE_EGOSeed_Elder_Ogren.label>
+  <!-- EN: Once the seed of an EGO tree, this specimen mutated under unknown conditions after entering the body of an Elder Ogren. It sprouted within the host, forming an amalgam symbiosis. It can no longer be used to grow an EGO tree. -->
+  <OE_EGOSeed_Elder_Ogren.description>TODO</OE_EGOSeed_Elder_Ogren.description>
+  
+  <!-- EN: mutated EGO seed – Elder Raptor -->
+  <OE_EGOSeed_Elder_Raptor.label>TODO</OE_EGOSeed_Elder_Raptor.label>
+  <!-- EN: Once the seed of an EGO tree, this specimen mutated under unknown conditions after entering the body of an Elder Raptor. It sprouted within the host, forming an amalgam symbiosis. It can no longer be used to grow an EGO tree. -->
+  <OE_EGOSeed_Elder_Raptor.description>TODO</OE_EGOSeed_Elder_Raptor.description>
+  
+  <!-- EN: mutated EGO seed – Elder Tionant -->
+  <OE_EGOSeed_Elder_Tionant.label>TODO</OE_EGOSeed_Elder_Tionant.label>
+  <!-- EN: Once the seed of an EGO tree, this specimen mutated under unknown conditions after entering the body of an Elder Tionant. It sprouted within the host, forming an amalgam symbiosis. It can no longer be used to grow an EGO tree. -->
+  <OE_EGOSeed_Elder_Tionant.description>TODO</OE_EGOSeed_Elder_Tionant.description>
+  
+  <!-- EN: compressed syntherius -->
+  <OE_SyntheriusPack.label>TODO</OE_SyntheriusPack.label>
+  <!-- EN: A batch of syntherius hermetically compressed into a special container for safe transportation and storage.\n\nFor further use, be sure to decompresse it. -->
+  <OE_SyntheriusPack.description>TODO</OE_SyntheriusPack.description>
+  <!-- EN: Decompresse syntherius -->
+  <OE_SyntheriusPack.comps.CompUsable.useLabel>TODO</OE_SyntheriusPack.comps.CompUsable.useLabel>
+  
+  <!-- EN: ustable power stone -->
+  <OE_UnstableStone.label>TODO</OE_UnstableStone.label>
+  <!-- EN: An unstable power stone from legends. By studying it, you can be able to stabilize and use its power. -->
+  <OE_UnstableStone.description>TODO</OE_UnstableStone.description>
+  <!-- EN: Analyze the Ustable Power Stone. -->
+  <OE_UnstableStone.comps.CompAnalyzableUnlockResearch.activateDescString>TODO</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <!-- EN: Analyze... -->
+  <OE_UnstableStone.comps.CompAnalyzableUnlockResearch.activateLabelString>TODO</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <!-- EN: By studying the Ustable Power Stone, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
+  <OE_UnstableStone.comps.CompAnalyzableUnlockResearch.completedLetter>TODO</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.completedLetter>
+  <!-- EN: Ustable Power Stone studied: {RESEARCH} unlocked -->
+  <OE_UnstableStone.comps.CompAnalyzableUnlockResearch.completedLetterLabel>TODO</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <!-- EN: Choose who should analyze this -->
+  <OE_UnstableStone.comps.CompAnalyzableUnlockResearch.guiLabelString>TODO</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <!-- EN: Can be analyzed by a colonist. -->
+  <OE_UnstableStone.comps.CompAnalyzableUnlockResearch.inspectString>TODO</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.inspectString>
+  <!-- EN: Analyze Ustable Power Stone -->
+  <OE_UnstableStone.comps.CompAnalyzableUnlockResearch.jobString>TODO</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.jobString>
+  
+</LanguageData>

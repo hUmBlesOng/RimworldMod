@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: CAC Cultist Heavy Helmet(Lord) -->
+  <CAC_HeavyHelmet_Prestige.label>TODO</CAC_HeavyHelmet_Prestige.label>
+  <!-- EN: Heavy power armor Helmet, excellent protects the owner. Designed and modified for use by CAC Cultists.\n\nModified for improves psychic powers to the owner. -->
+  <CAC_HeavyHelmet_Prestige.description>TODO</CAC_HeavyHelmet_Prestige.description>
+  
+  <!-- EN: CAC Cultist Light Helmet(Lord) -->
+  <CAC_LightHelmet_Prestige.label>TODO</CAC_LightHelmet_Prestige.label>
+  <!-- EN: Light power armor Helmet, well protects the owner. Designed and modified for use by CAC Cultists.\n\nModified for improves psychic powers to the owner. -->
+  <CAC_LightHelmet_Prestige.description>TODO</CAC_LightHelmet_Prestige.description>
+  
+</LanguageData>
