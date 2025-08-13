@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Chaos Lord -->
-  <OE_Mech_ChaosLord.label>TODO</OE_Mech_ChaosLord.label>
-  
+  <OE_Mech_ChaosLord.label>混沌领主</OE_Mech_ChaosLord.label>
+
   <!-- EN: Chaos Lord -->
-  <OE_Mech_NewChaosLord.label>TODO</OE_Mech_NewChaosLord.label>
-  
+  <OE_Mech_NewChaosLord.label>混沌领主</OE_Mech_NewChaosLord.label>
+
 </LanguageData>

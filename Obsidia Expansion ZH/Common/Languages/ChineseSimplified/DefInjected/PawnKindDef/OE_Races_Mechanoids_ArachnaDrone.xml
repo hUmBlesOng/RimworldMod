@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Arachna Drone -->
-  <OE_Mech_ArachnaDrone.label>TODO</OE_Mech_ArachnaDrone.label>
+  <OE_Mech_ArachnaDrone.label>蛛形无人机</OE_Mech_ArachnaDrone.label>
   <!-- EN: Arachna Drones -->
-  <OE_Mech_ArachnaDrone.labelPlural>TODO</OE_Mech_ArachnaDrone.labelPlural>
-  
+  <OE_Mech_ArachnaDrone.labelPlural>蛛形无人机</OE_Mech_ArachnaDrone.labelPlural>
+
   <!-- EN: Crimson Arachna Drone -->
-  <OE_Mech_CrimsonArachnaDrone.label>TODO</OE_Mech_CrimsonArachnaDrone.label>
+  <OE_Mech_CrimsonArachnaDrone.label>猩红蛛形无人机</OE_Mech_CrimsonArachnaDrone.label>
   <!-- EN: Crimson Arachna Drones -->
-  <OE_Mech_CrimsonArachnaDrone.labelPlural>TODO</OE_Mech_CrimsonArachnaDrone.labelPlural>
-  
+  <OE_Mech_CrimsonArachnaDrone.labelPlural>猩红蛛形无人机</OE_Mech_CrimsonArachnaDrone.labelPlural>
+
 </LanguageData>

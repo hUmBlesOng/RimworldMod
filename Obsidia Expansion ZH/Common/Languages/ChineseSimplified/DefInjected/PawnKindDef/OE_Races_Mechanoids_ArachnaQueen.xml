@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Arachna Queen -->
-  <OE_Mech_ArachnaQueen.label>TODO</OE_Mech_ArachnaQueen.label>
-  
+  <OE_Mech_ArachnaQueen.label>蛛形女王</OE_Mech_ArachnaQueen.label>
+
   <!-- EN: Crimson Arachna -->
-  <OE_Mech_CrimsonArachna.label>TODO</OE_Mech_CrimsonArachna.label>
-  
+  <OE_Mech_CrimsonArachna.label>猩红蛛形</OE_Mech_CrimsonArachna.label>
+
   <!-- EN: Arachna Queen -->
-  <OE_Mech_NewArachnaQueen.label>TODO</OE_Mech_NewArachnaQueen.label>
-  
+  <OE_Mech_NewArachnaQueen.label>蛛形女王</OE_Mech_NewArachnaQueen.label>
+
 </LanguageData>
