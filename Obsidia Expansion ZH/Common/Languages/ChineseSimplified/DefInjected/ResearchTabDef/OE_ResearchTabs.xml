@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Obsidia Expansion -->
-  <ObsidiaExpansion.label>TODO</ObsidiaExpansion.label>
+  <ObsidiaExpansion.label>黑曜石扩展</ObsidiaExpansion.label>
   <!-- EN: Unlock advanced Obsidia Expansion technologies by researching at a Hi-tech research bench with Multi-analyzer. You can only have one active project at a time. -->
-  <ObsidiaExpansion.generalDescription>TODO</ObsidiaExpansion.generalDescription>
+  <ObsidiaExpansion.generalDescription>通过在高科技研究台配合多重分析仪进行研究，解锁黑曜石扩展的先进技术。您只能同时进行一个活动项目。</ObsidiaExpansion.generalDescription>
   <!-- EN: Obsidia Expansion research projects -->
-  <ObsidiaExpansion.generalTitle>TODO</ObsidiaExpansion.generalTitle>
+  <ObsidiaExpansion.generalTitle>黑曜石扩展研究项目</ObsidiaExpansion.generalTitle>
   
 </LanguageData>

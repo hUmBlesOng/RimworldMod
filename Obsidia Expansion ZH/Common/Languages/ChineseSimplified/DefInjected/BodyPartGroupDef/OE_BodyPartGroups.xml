@@ -1,47 +1,47 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: left arachna arm -->
-  <OE_ReturnedLeftLimb.label>TODO</OE_ReturnedLeftLimb.label>
+  <OE_ReturnedLeftLimb.label>左蜘蛛臂</OE_ReturnedLeftLimb.label>
   <!-- EN: arachna arm -->
-  <OE_ReturnedLeftLimb.labelShort>TODO</OE_ReturnedLeftLimb.labelShort>
+  <OE_ReturnedLeftLimb.labelShort>蜘蛛臂</OE_ReturnedLeftLimb.labelShort>
   
   <!-- EN: right arachna arm -->
-  <OE_ReturnedRightLimb.label>TODO</OE_ReturnedRightLimb.label>
+  <OE_ReturnedRightLimb.label>右蜘蛛臂</OE_ReturnedRightLimb.label>
   <!-- EN: arachna arm -->
-  <OE_ReturnedRightLimb.labelShort>TODO</OE_ReturnedRightLimb.labelShort>
+  <OE_ReturnedRightLimb.labelShort>蜘蛛臂</OE_ReturnedRightLimb.labelShort>
   
   <!-- EN: left arm claws -->
-  <OELeftArmClawAttackTool.label>TODO</OELeftArmClawAttackTool.label>
+  <OELeftArmClawAttackTool.label>左臂爪</OELeftArmClawAttackTool.label>
   <!-- EN: claws -->
-  <OELeftArmClawAttackTool.labelShort>TODO</OELeftArmClawAttackTool.labelShort>
+  <OELeftArmClawAttackTool.labelShort>爪</OELeftArmClawAttackTool.labelShort>
   
   <!-- EN: left sickle claws -->
-  <OELeftFootClawAttackTool.label>TODO</OELeftFootClawAttackTool.label>
+  <OELeftFootClawAttackTool.label>左镰刀爪</OELeftFootClawAttackTool.label>
   <!-- EN: claws -->
-  <OELeftFootClawAttackTool.labelShort>TODO</OELeftFootClawAttackTool.labelShort>
+  <OELeftFootClawAttackTool.labelShort>爪</OELeftFootClawAttackTool.labelShort>
   
   <!-- EN: left insect claws -->
-  <OELeftInsectClawAttackTool.label>TODO</OELeftInsectClawAttackTool.label>
+  <OELeftInsectClawAttackTool.label>左昆虫爪</OELeftInsectClawAttackTool.label>
   <!-- EN: claws -->
-  <OELeftInsectClawAttackTool.labelShort>TODO</OELeftInsectClawAttackTool.labelShort>
+  <OELeftInsectClawAttackTool.labelShort>爪</OELeftInsectClawAttackTool.labelShort>
   
   <!-- EN: right arm claws -->
-  <OERightArmClawAttackTool.label>TODO</OERightArmClawAttackTool.label>
+  <OERightArmClawAttackTool.label>右臂爪</OERightArmClawAttackTool.label>
   <!-- EN: claws -->
-  <OERightArmClawAttackTool.labelShort>TODO</OERightArmClawAttackTool.labelShort>
+  <OERightArmClawAttackTool.labelShort>爪</OERightArmClawAttackTool.labelShort>
   
   <!-- EN: right sickle claws -->
-  <OERightFootClawAttackTool.label>TODO</OERightFootClawAttackTool.label>
+  <OERightFootClawAttackTool.label>右镰刀爪</OERightFootClawAttackTool.label>
   <!-- EN: claws -->
-  <OERightFootClawAttackTool.labelShort>TODO</OERightFootClawAttackTool.labelShort>
+  <OERightFootClawAttackTool.labelShort>爪</OERightFootClawAttackTool.labelShort>
   
   <!-- EN: right insect claws -->
-  <OERightInsectClawAttackTool.label>TODO</OERightInsectClawAttackTool.label>
+  <OERightInsectClawAttackTool.label>右昆虫爪</OERightInsectClawAttackTool.label>
   <!-- EN: claws -->
-  <OERightInsectClawAttackTool.labelShort>TODO</OERightInsectClawAttackTool.labelShort>
+  <OERightInsectClawAttackTool.labelShort>爪</OERightInsectClawAttackTool.labelShort>
   
   <!-- EN: sting -->
-  <OESting.label>TODO</OESting.label>
+  <OESting.label>螫针</OESting.label>
   
 </LanguageData>

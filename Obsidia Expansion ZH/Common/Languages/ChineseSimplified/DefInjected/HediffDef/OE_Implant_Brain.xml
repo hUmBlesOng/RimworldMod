@@ -1,32 +1,32 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: cyberware AI interface -->
-  <OE_ImplantBrain_Interface.label>TODO</OE_ImplantBrain_Interface.label>
+  <OE_ImplantBrain_Interface.label>赛博义体AI接口</OE_ImplantBrain_Interface.label>
   <!-- EN: An installed cyberware AI interface. Required for further installation of cyberware AI helpers. -->
-  <OE_ImplantBrain_Interface.description>TODO</OE_ImplantBrain_Interface.description>
+  <OE_ImplantBrain_Interface.description>已安装的赛博义体AI接口。进一步安装赛博义体AI助手的必要条件。</OE_ImplantBrain_Interface.description>
   <!-- EN: a cyberware AI interface -->
-  <OE_ImplantBrain_Interface.labelNoun>TODO</OE_ImplantBrain_Interface.labelNoun>
+  <OE_ImplantBrain_Interface.labelNoun>一个赛博义体AI接口</OE_ImplantBrain_Interface.labelNoun>
   
   <!-- EN: brain implant - Suppression -->
-  <OE_ImplantBrain_Prisoner.label>TODO</OE_ImplantBrain_Prisoner.label>
+  <OE_ImplantBrain_Prisoner.label>大脑植入物 - 压制</OE_ImplantBrain_Prisoner.label>
   <!-- EN: An installed brain implant - Suppression. -->
-  <OE_ImplantBrain_Prisoner.description>TODO</OE_ImplantBrain_Prisoner.description>
+  <OE_ImplantBrain_Prisoner.description>已安装的大脑植入物 - 压制。</OE_ImplantBrain_Prisoner.description>
   <!-- EN: a brain implant - Suppression -->
-  <OE_ImplantBrain_Prisoner.labelNoun>TODO</OE_ImplantBrain_Prisoner.labelNoun>
+  <OE_ImplantBrain_Prisoner.labelNoun>一个大脑植入物 - 压制</OE_ImplantBrain_Prisoner.labelNoun>
   
   <!-- EN: brain implant - Psychically deaf -->
-  <OE_ImplantBrain_Psydeaf.label>TODO</OE_ImplantBrain_Psydeaf.label>
+  <OE_ImplantBrain_Psydeaf.label>大脑植入物 - 心灵失聪</OE_ImplantBrain_Psydeaf.label>
   <!-- EN: An installed brain implant - Psychically deaf. -->
-  <OE_ImplantBrain_Psydeaf.description>TODO</OE_ImplantBrain_Psydeaf.description>
+  <OE_ImplantBrain_Psydeaf.description>已安装的大脑植入物 - 心灵失聪。</OE_ImplantBrain_Psydeaf.description>
   <!-- EN: a brain implant - Psychically deaf -->
-  <OE_ImplantBrain_Psydeaf.labelNoun>TODO</OE_ImplantBrain_Psydeaf.labelNoun>
+  <OE_ImplantBrain_Psydeaf.labelNoun>一个大脑植入物 - 心灵失聪</OE_ImplantBrain_Psydeaf.labelNoun>
   
   <!-- EN: brain implant - Sacrifice -->
-  <OE_ImplantBrain_Slave.label>TODO</OE_ImplantBrain_Slave.label>
+  <OE_ImplantBrain_Slave.label>大脑植入物 - 牺牲</OE_ImplantBrain_Slave.label>
   <!-- EN: An installed brain implant - Sacrifice. -->
-  <OE_ImplantBrain_Slave.description>TODO</OE_ImplantBrain_Slave.description>
+  <OE_ImplantBrain_Slave.description>已安装的大脑植入物 - 牺牲。</OE_ImplantBrain_Slave.description>
   <!-- EN: a brain implant - Sacrifice -->
-  <OE_ImplantBrain_Slave.labelNoun>TODO</OE_ImplantBrain_Slave.labelNoun>
+  <OE_ImplantBrain_Slave.labelNoun>一个大脑植入物 - 牺牲</OE_ImplantBrain_Slave.labelNoun>
   
 </LanguageData>

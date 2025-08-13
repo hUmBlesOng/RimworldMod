@@ -1,19 +1,19 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: CAC - Ghoul Bionics -->
-  <CACGhoulBionics.label>TODO</CACGhoulBionics.label>
+  <CACGhoulBionics.label>CAC - 食尸鬼仿生学</CACGhoulBionics.label>
   <!-- EN: Research advanced of Crimson Arachna Cult ghoul's bionics technology. -->
-  <CACGhoulBionics.description>TODO</CACGhoulBionics.description>
+  <CACGhoulBionics.description>研究深红蜘蛛教团食尸鬼仿生技术的高级内容。</CACGhoulBionics.description>
   
   <!-- EN: CAC - Nano Technologies -->
-  <CACSerum.label>TODO</CACSerum.label>
+  <CACSerum.label>CAC - 纳米技术</CACSerum.label>
   <!-- EN: Research experimental of Crimson Arachna Cult serum's technology. -->
-  <CACSerum.description>TODO</CACSerum.description>
+  <CACSerum.description>研究深红蜘蛛教团血清技术的实验内容。</CACSerum.description>
   
   <!-- EN: OE - Containment -->
-  <OEContainment.label>TODO</OEContainment.label>
+  <OEContainment.label>OE - 收容</OEContainment.label>
   <!-- EN: Research basics of Obsidia сontainment technology. -->
-  <OEContainment.description>TODO</OEContainment.description>
+  <OEContainment.description>研究黑曜石收容技术的基础。</OEContainment.description>
   
 </LanguageData>

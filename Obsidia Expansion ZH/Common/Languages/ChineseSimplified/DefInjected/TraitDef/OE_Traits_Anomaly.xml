@@ -2,20 +2,27 @@
 <LanguageData>
   
   <!-- EN: ritual master -->
-  <OERitualist.degreeDatas.ritual_master.label>TODO</OERitualist.degreeDatas.ritual_master.label>
+  <OERitualist.degreeDatas.ritual_master.label>仪式大师</OERitualist.degreeDatas.ritual_master.label>
+  
   <!-- EN: Rituals energize {PAWN_nameDef}, who executes them with precision and passion. -->
-  <OERitualist.degreeDatas.ritual_master.description>TODO</OERitualist.degreeDatas.ritual_master.description>
+  <OERitualist.degreeDatas.ritual_master.description>仪式让 {PAWN_nameDef} 精力充沛，{PAWN_pronoun} 以精准和热情完成仪式。</OERitualist.degreeDatas.ritual_master.description>
+  
   <!-- EN: ceremonial adept -->
-  <OERitualist.degreeDatas.ceremonial_adept.label>TODO</OERitualist.degreeDatas.ceremonial_adept.label>
+  <OERitualist.degreeDatas.ceremonial_adept.label>仪式专家</OERitualist.degreeDatas.ceremonial_adept.label>
+  
   <!-- EN: {PAWN_nameDef} performs rituals efficiently and without hesitation. -->
-  <OERitualist.degreeDatas.ceremonial_adept.description>TODO</OERitualist.degreeDatas.ceremonial_adept.description>
+  <OERitualist.degreeDatas.ceremonial_adept.description>{PAWN_nameDef} 高效且毫不犹豫地执行仪式。</OERitualist.degreeDatas.ceremonial_adept.description>
+  
   <!-- EN: unsteady speaker -->
-  <OERitualist.degreeDatas.unsteady_speaker.label>TODO</OERitualist.degreeDatas.unsteady_speaker.label>
+  <OERitualist.degreeDatas.unsteady_speaker.label>不稳定的演讲者</OERitualist.degreeDatas.unsteady_speaker.label>
+  
   <!-- EN: Rituals don’t come naturally to {PAWN_nameDef}, who often falters in rhythm. -->
-  <OERitualist.degreeDatas.unsteady_speaker.description>TODO</OERitualist.degreeDatas.unsteady_speaker.description>
+  <OERitualist.degreeDatas.unsteady_speaker.description>仪式对 {PAWN_nameDef} 来说并不自然，{PAWN_pronoun} 经常在节奏上出现问题。</OERitualist.degreeDatas.unsteady_speaker.description>
+  
   <!-- EN: reluctant vessel -->
-  <OERitualist.degreeDatas.reluctant_vessel.label>TODO</OERitualist.degreeDatas.reluctant_vessel.label>
+  <OERitualist.degreeDatas.reluctant_vessel.label>勉强的容器</OERitualist.degreeDatas.reluctant_vessel.label>
+  
   <!-- EN: {PAWN_nameDef} resents the sacred rites and performs them poorly. -->
-  <OERitualist.degreeDatas.reluctant_vessel.description>TODO</OERitualist.degreeDatas.reluctant_vessel.description>
+  <OERitualist.degreeDatas.reluctant_vessel.description>{PAWN_nameDef} 对神圣仪式感到抗拒，并且表现得很差。</OERitualist.degreeDatas.reluctant_vessel.description>
   
 </LanguageData>

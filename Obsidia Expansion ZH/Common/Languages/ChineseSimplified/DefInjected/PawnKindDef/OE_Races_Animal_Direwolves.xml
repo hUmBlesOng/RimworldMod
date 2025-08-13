@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: direwolf -->
-  <OE_Direwolf.label>TODO</OE_Direwolf.label>
+  <OE_Direwolf.label>恐狼</OE_Direwolf.label>
   <!-- EN: direwolves -->
-  <OE_Direwolf.labelPlural>TODO</OE_Direwolf.labelPlural>
+  <OE_Direwolf.labelPlural>恐狼</OE_Direwolf.labelPlural>
   <!-- EN: direwolf puppy -->
-  <OE_Direwolf.lifeStages.direwolf_puppy.label>TODO</OE_Direwolf.lifeStages.direwolf_puppy.label>
+  <OE_Direwolf.lifeStages.direwolf_puppy.label>恐狼幼崽</OE_Direwolf.lifeStages.direwolf_puppy.label>
   <!-- EN: direwolf puppies -->
-  <OE_Direwolf.lifeStages.direwolf_puppy.labelPlural>TODO</OE_Direwolf.lifeStages.direwolf_puppy.labelPlural>
+  <OE_Direwolf.lifeStages.direwolf_puppy.labelPlural>恐狼幼崽</OE_Direwolf.lifeStages.direwolf_puppy.labelPlural>
   
 </LanguageData>

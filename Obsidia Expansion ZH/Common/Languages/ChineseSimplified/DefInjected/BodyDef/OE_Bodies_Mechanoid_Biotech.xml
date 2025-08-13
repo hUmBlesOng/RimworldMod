@@ -1,83 +1,83 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: mechanical arachna drone -->
-  <OEMechanicalArachnaDrone.label>TODO</OEMechanicalArachnaDrone.label>
+  <OEMechanicalArachnaDrone.label>机械蜘蛛无人机</OEMechanicalArachnaDrone.label>
   <!-- EN: left first sight sensor -->
-  <OEMechanicalArachnaDrone.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_first_sight_sensor.customLabel>TODO</OEMechanicalArachnaDrone.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_first_sight_sensor.customLabel>
+  <OEMechanicalArachnaDrone.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_first_sight_sensor.customLabel>左第一视觉传感器</OEMechanicalArachnaDrone.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_first_sight_sensor.customLabel>
   <!-- EN: left second sight sensor -->
-  <OEMechanicalArachnaDrone.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_second_sight_sensor.customLabel>TODO</OEMechanicalArachnaDrone.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_second_sight_sensor.customLabel>
+  <OEMechanicalArachnaDrone.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_second_sight_sensor.customLabel>左第二视觉传感器</OEMechanicalArachnaDrone.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_second_sight_sensor.customLabel>
   <!-- EN: right first sight sensor -->
-  <OEMechanicalArachnaDrone.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_first_sight_sensor.customLabel>TODO</OEMechanicalArachnaDrone.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_first_sight_sensor.customLabel>
+  <OEMechanicalArachnaDrone.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_first_sight_sensor.customLabel>右第一视觉传感器</OEMechanicalArachnaDrone.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_first_sight_sensor.customLabel>
   <!-- EN: right second sight sensor -->
-  <OEMechanicalArachnaDrone.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_second_sight_sensor.customLabel>TODO</OEMechanicalArachnaDrone.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_second_sight_sensor.customLabel>
+  <OEMechanicalArachnaDrone.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_second_sight_sensor.customLabel>右第二视觉传感器</OEMechanicalArachnaDrone.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_second_sight_sensor.customLabel>
   <!-- EN: left hearing sensor -->
-  <OEMechanicalArachnaDrone.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>TODO</OEMechanicalArachnaDrone.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <OEMechanicalArachnaDrone.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>左听觉传感器</OEMechanicalArachnaDrone.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
   <!-- EN: right hearing sensor -->
-  <OEMechanicalArachnaDrone.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>TODO</OEMechanicalArachnaDrone.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <OEMechanicalArachnaDrone.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>右听觉传感器</OEMechanicalArachnaDrone.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
   <!-- EN: left first leg -->
-  <OEMechanicalArachnaDrone.corePart.parts.left_first_leg.customLabel>TODO</OEMechanicalArachnaDrone.corePart.parts.left_first_leg.customLabel>
+  <OEMechanicalArachnaDrone.corePart.parts.left_first_leg.customLabel>左第一腿</OEMechanicalArachnaDrone.corePart.parts.left_first_leg.customLabel>
   <!-- EN: left second leg -->
-  <OEMechanicalArachnaDrone.corePart.parts.left_second_leg.customLabel>TODO</OEMechanicalArachnaDrone.corePart.parts.left_second_leg.customLabel>
+  <OEMechanicalArachnaDrone.corePart.parts.left_second_leg.customLabel>左第二腿</OEMechanicalArachnaDrone.corePart.parts.left_second_leg.customLabel>
   <!-- EN: right first leg -->
-  <OEMechanicalArachnaDrone.corePart.parts.right_first_leg.customLabel>TODO</OEMechanicalArachnaDrone.corePart.parts.right_first_leg.customLabel>
+  <OEMechanicalArachnaDrone.corePart.parts.right_first_leg.customLabel>右第一腿</OEMechanicalArachnaDrone.corePart.parts.right_first_leg.customLabel>
   <!-- EN: right second leg -->
-  <OEMechanicalArachnaDrone.corePart.parts.right_second_leg.customLabel>TODO</OEMechanicalArachnaDrone.corePart.parts.right_second_leg.customLabel>
+  <OEMechanicalArachnaDrone.corePart.parts.right_second_leg.customLabel>右第二腿</OEMechanicalArachnaDrone.corePart.parts.right_second_leg.customLabel>
   
   <!-- EN: mechanical arachna queen -->
-  <OEMechanicalArachnaQueen.label>TODO</OEMechanicalArachnaQueen.label>
+  <OEMechanicalArachnaQueen.label>机械蜘蛛女王</OEMechanicalArachnaQueen.label>
   <!-- EN: left first sight sensor -->
-  <OEMechanicalArachnaQueen.corePart.parts.MechanicalNeck.parts.OEMechanicalHeadLarge.parts.left_first_sight_sensor.customLabel>TODO</OEMechanicalArachnaQueen.corePart.parts.MechanicalNeck.parts.OEMechanicalHeadLarge.parts.left_first_sight_sensor.customLabel>
+  <OEMechanicalArachnaQueen.corePart.parts.MechanicalNeck.parts.OEMechanicalHeadLarge.parts.left_first_sight_sensor.customLabel>左第一视觉传感器</OEMechanicalArachnaQueen.corePart.parts.MechanicalNeck.parts.OEMechanicalHeadLarge.parts.left_first_sight_sensor.customLabel>
   <!-- EN: left second sight sensor -->
-  <OEMechanicalArachnaQueen.corePart.parts.MechanicalNeck.parts.OEMechanicalHeadLarge.parts.left_second_sight_sensor.customLabel>TODO</OEMechanicalArachnaQueen.corePart.parts.MechanicalNeck.parts.OEMechanicalHeadLarge.parts.left_second_sight_sensor.customLabel>
+  <OEMechanicalArachnaQueen.corePart.parts.MechanicalNeck.parts.OEMechanicalHeadLarge.parts.left_second_sight_sensor.customLabel>左第二视觉传感器</OEMechanicalArachnaQueen.corePart.parts.MechanicalNeck.parts.OEMechanicalHeadLarge.parts.left_second_sight_sensor.customLabel>
   <!-- EN: right first sight sensor -->
-  <OEMechanicalArachnaQueen.corePart.parts.MechanicalNeck.parts.OEMechanicalHeadLarge.parts.right_first_sight_sensor.customLabel>TODO</OEMechanicalArachnaQueen.corePart.parts.MechanicalNeck.parts.OEMechanicalHeadLarge.parts.right_first_sight_sensor.customLabel>
+  <OEMechanicalArachnaQueen.corePart.parts.MechanicalNeck.parts.OEMechanicalHeadLarge.parts.right_first_sight_sensor.customLabel>右第一视觉传感器</OEMechanicalArachnaQueen.corePart.parts.MechanicalNeck.parts.OEMechanicalHeadLarge.parts.right_first_sight_sensor.customLabel>
   <!-- EN: right second sight sensor -->
-  <OEMechanicalArachnaQueen.corePart.parts.MechanicalNeck.parts.OEMechanicalHeadLarge.parts.right_second_sight_sensor.customLabel>TODO</OEMechanicalArachnaQueen.corePart.parts.MechanicalNeck.parts.OEMechanicalHeadLarge.parts.right_second_sight_sensor.customLabel>
+  <OEMechanicalArachnaQueen.corePart.parts.MechanicalNeck.parts.OEMechanicalHeadLarge.parts.right_second_sight_sensor.customLabel>右第二视觉传感器</OEMechanicalArachnaQueen.corePart.parts.MechanicalNeck.parts.OEMechanicalHeadLarge.parts.right_second_sight_sensor.customLabel>
   <!-- EN: left hearing sensor -->
-  <OEMechanicalArachnaQueen.corePart.parts.MechanicalNeck.parts.OEMechanicalHeadLarge.parts.left_hearing_sensor.customLabel>TODO</OEMechanicalArachnaQueen.corePart.parts.MechanicalNeck.parts.OEMechanicalHeadLarge.parts.left_hearing_sensor.customLabel>
+  <OEMechanicalArachnaQueen.corePart.parts.MechanicalNeck.parts.OEMechanicalHeadLarge.parts.left_hearing_sensor.customLabel>左听觉传感器</OEMechanicalArachnaQueen.corePart.parts.MechanicalNeck.parts.OEMechanicalHeadLarge.parts.left_hearing_sensor.customLabel>
   <!-- EN: right hearing sensor -->
-  <OEMechanicalArachnaQueen.corePart.parts.MechanicalNeck.parts.OEMechanicalHeadLarge.parts.right_hearing_sensor.customLabel>TODO</OEMechanicalArachnaQueen.corePart.parts.MechanicalNeck.parts.OEMechanicalHeadLarge.parts.right_hearing_sensor.customLabel>
+  <OEMechanicalArachnaQueen.corePart.parts.MechanicalNeck.parts.OEMechanicalHeadLarge.parts.right_hearing_sensor.customLabel>右听觉传感器</OEMechanicalArachnaQueen.corePart.parts.MechanicalNeck.parts.OEMechanicalHeadLarge.parts.right_hearing_sensor.customLabel>
   <!-- EN: left first leg -->
-  <OEMechanicalArachnaQueen.corePart.parts.left_first_leg.customLabel>TODO</OEMechanicalArachnaQueen.corePart.parts.left_first_leg.customLabel>
+  <OEMechanicalArachnaQueen.corePart.parts.left_first_leg.customLabel>左第一腿</OEMechanicalArachnaQueen.corePart.parts.left_first_leg.customLabel>
   <!-- EN: left first foot -->
-  <OEMechanicalArachnaQueen.corePart.parts.left_first_leg.parts.left_first_foot.customLabel>TODO</OEMechanicalArachnaQueen.corePart.parts.left_first_leg.parts.left_first_foot.customLabel>
+  <OEMechanicalArachnaQueen.corePart.parts.left_first_leg.parts.left_first_foot.customLabel>左第一脚</OEMechanicalArachnaQueen.corePart.parts.left_first_leg.parts.left_first_foot.customLabel>
   <!-- EN: left second leg -->
-  <OEMechanicalArachnaQueen.corePart.parts.left_second_leg.customLabel>TODO</OEMechanicalArachnaQueen.corePart.parts.left_second_leg.customLabel>
+  <OEMechanicalArachnaQueen.corePart.parts.left_second_leg.customLabel>左第二腿</OEMechanicalArachnaQueen.corePart.parts.left_second_leg.customLabel>
   <!-- EN: left second foot -->
-  <OEMechanicalArachnaQueen.corePart.parts.left_second_leg.parts.left_second_foot.customLabel>TODO</OEMechanicalArachnaQueen.corePart.parts.left_second_leg.parts.left_second_foot.customLabel>
+  <OEMechanicalArachnaQueen.corePart.parts.left_second_leg.parts.left_second_foot.customLabel>左第二脚</OEMechanicalArachnaQueen.corePart.parts.left_second_leg.parts.left_second_foot.customLabel>
   <!-- EN: right first leg -->
-  <OEMechanicalArachnaQueen.corePart.parts.right_first_leg.customLabel>TODO</OEMechanicalArachnaQueen.corePart.parts.right_first_leg.customLabel>
+  <OEMechanicalArachnaQueen.corePart.parts.right_first_leg.customLabel>右第一腿</OEMechanicalArachnaQueen.corePart.parts.right_first_leg.customLabel>
   <!-- EN: right first foot -->
-  <OEMechanicalArachnaQueen.corePart.parts.right_first_leg.parts.right_first_foot.customLabel>TODO</OEMechanicalArachnaQueen.corePart.parts.right_first_leg.parts.right_first_foot.customLabel>
+  <OEMechanicalArachnaQueen.corePart.parts.right_first_leg.parts.right_first_foot.customLabel>右第一脚</OEMechanicalArachnaQueen.corePart.parts.right_first_leg.parts.right_first_foot.customLabel>
   <!-- EN: right second leg -->
-  <OEMechanicalArachnaQueen.corePart.parts.right_second_leg.customLabel>TODO</OEMechanicalArachnaQueen.corePart.parts.right_second_leg.customLabel>
+  <OEMechanicalArachnaQueen.corePart.parts.right_second_leg.customLabel>右第二腿</OEMechanicalArachnaQueen.corePart.parts.right_second_leg.customLabel>
   <!-- EN: right second foot -->
-  <OEMechanicalArachnaQueen.corePart.parts.right_second_leg.parts.right_second_foot.customLabel>TODO</OEMechanicalArachnaQueen.corePart.parts.right_second_leg.parts.right_second_foot.customLabel>
+  <OEMechanicalArachnaQueen.corePart.parts.right_second_leg.parts.right_second_foot.customLabel>右第二脚</OEMechanicalArachnaQueen.corePart.parts.right_second_leg.parts.right_second_foot.customLabel>
   
   <!-- EN: mechanical octo -->
-  <OEMechanicalOcto.label>TODO</OEMechanicalOcto.label>
+  <OEMechanicalOcto.label>机械章鱼</OEMechanicalOcto.label>
   <!-- EN: left sight sensor -->
-  <OEMechanicalOcto.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>TODO</OEMechanicalOcto.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <OEMechanicalOcto.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>左视觉传感器</OEMechanicalOcto.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <!-- EN: right sight sensor -->
-  <OEMechanicalOcto.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>TODO</OEMechanicalOcto.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <OEMechanicalOcto.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>右视觉传感器</OEMechanicalOcto.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
   <!-- EN: hearing sensor -->
-  <OEMechanicalOcto.corePart.parts.MechanicalHead.parts.hearing_sensor.customLabel>TODO</OEMechanicalOcto.corePart.parts.MechanicalHead.parts.hearing_sensor.customLabel>
+  <OEMechanicalOcto.corePart.parts.MechanicalHead.parts.hearing_sensor.customLabel>听觉传感器</OEMechanicalOcto.corePart.parts.MechanicalHead.parts.hearing_sensor.customLabel>
   <!-- EN: first tentacle -->
-  <OEMechanicalOcto.corePart.parts.first_tentacle.customLabel>TODO</OEMechanicalOcto.corePart.parts.first_tentacle.customLabel>
+  <OEMechanicalOcto.corePart.parts.first_tentacle.customLabel>第一触手</OEMechanicalOcto.corePart.parts.first_tentacle.customLabel>
   <!-- EN: second tentacle -->
-  <OEMechanicalOcto.corePart.parts.second_tentacle.customLabel>TODO</OEMechanicalOcto.corePart.parts.second_tentacle.customLabel>
+  <OEMechanicalOcto.corePart.parts.second_tentacle.customLabel>第二触手</OEMechanicalOcto.corePart.parts.second_tentacle.customLabel>
   <!-- EN: third tentacle -->
-  <OEMechanicalOcto.corePart.parts.third_tentacle.customLabel>TODO</OEMechanicalOcto.corePart.parts.third_tentacle.customLabel>
+  <OEMechanicalOcto.corePart.parts.third_tentacle.customLabel>第三触手</OEMechanicalOcto.corePart.parts.third_tentacle.customLabel>
   <!-- EN: fourth tentacle -->
-  <OEMechanicalOcto.corePart.parts.fourth_tentacle.customLabel>TODO</OEMechanicalOcto.corePart.parts.fourth_tentacle.customLabel>
+  <OEMechanicalOcto.corePart.parts.fourth_tentacle.customLabel>第四触手</OEMechanicalOcto.corePart.parts.fourth_tentacle.customLabel>
   <!-- EN: fifth tentacle -->
-  <OEMechanicalOcto.corePart.parts.fifth_tentacle.customLabel>TODO</OEMechanicalOcto.corePart.parts.fifth_tentacle.customLabel>
+  <OEMechanicalOcto.corePart.parts.fifth_tentacle.customLabel>第五触手</OEMechanicalOcto.corePart.parts.fifth_tentacle.customLabel>
   <!-- EN: sixth tentacle -->
-  <OEMechanicalOcto.corePart.parts.sixth_tentacle.customLabel>TODO</OEMechanicalOcto.corePart.parts.sixth_tentacle.customLabel>
+  <OEMechanicalOcto.corePart.parts.sixth_tentacle.customLabel>第六触手</OEMechanicalOcto.corePart.parts.sixth_tentacle.customLabel>
   <!-- EN: seventh tentacle -->
-  <OEMechanicalOcto.corePart.parts.seventh_tentacle.customLabel>TODO</OEMechanicalOcto.corePart.parts.seventh_tentacle.customLabel>
+  <OEMechanicalOcto.corePart.parts.seventh_tentacle.customLabel>第七触手</OEMechanicalOcto.corePart.parts.seventh_tentacle.customLabel>
   <!-- EN: eighth tentacle -->
-  <OEMechanicalOcto.corePart.parts.eighth_tentacle.customLabel>TODO</OEMechanicalOcto.corePart.parts.eighth_tentacle.customLabel>
+  <OEMechanicalOcto.corePart.parts.eighth_tentacle.customLabel>第八触手</OEMechanicalOcto.corePart.parts.eighth_tentacle.customLabel>
   
 </LanguageData>

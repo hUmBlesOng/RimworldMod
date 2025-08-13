@@ -1,25 +1,25 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: CAC Acolyte -->
-  <CAC_Acolyte_Prestige.label>TODO</CAC_Acolyte_Prestige.label>
+  <CAC_Acolyte_Prestige.label>CAC侍祭</CAC_Acolyte_Prestige.label>
   
   <!-- EN: CAC Apostle -->
-  <CAC_Apostle_Prestige.label>TODO</CAC_Apostle_Prestige.label>
+  <CAC_Apostle_Prestige.label>CAC使徒</CAC_Apostle_Prestige.label>
   
   <!-- EN: CAC Confessor -->
-  <CAC_Confessor_Prestige.label>TODO</CAC_Confessor_Prestige.label>
+  <CAC_Confessor_Prestige.label>CAC忏悔者</CAC_Confessor_Prestige.label>
   
   <!-- EN: CAC Deacon -->
-  <CAC_Deacon_Prestige.label>TODO</CAC_Deacon_Prestige.label>
+  <CAC_Deacon_Prestige.label>CAC执事</CAC_Deacon_Prestige.label>
   
   <!-- EN: CAC Disciple -->
-  <CAC_Disciple_Prestige.label>TODO</CAC_Disciple_Prestige.label>
+  <CAC_Disciple_Prestige.label>CAC门徒</CAC_Disciple_Prestige.label>
   
   <!-- EN: CAC Pontifex -->
-  <CAC_Pontifex_Prestige.label>TODO</CAC_Pontifex_Prestige.label>
+  <CAC_Pontifex_Prestige.label>CAC主教</CAC_Pontifex_Prestige.label>
   
   <!-- EN: CAC Prefect -->
-  <CAC_Prefect_Prestige.label>TODO</CAC_Prefect_Prestige.label>
+  <CAC_Prefect_Prestige.label>CAC长官</CAC_Prefect_Prestige.label>
   
 </LanguageData>

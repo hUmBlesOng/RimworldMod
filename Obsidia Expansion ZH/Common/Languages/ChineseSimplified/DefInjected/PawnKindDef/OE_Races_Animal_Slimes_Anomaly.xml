@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: bioferrite slime -->
-  <OE_Slime_Bioferrite.label>TODO</OE_Slime_Bioferrite.label>
+  <OE_Slime_Bioferrite.label>生物铁史莱姆</OE_Slime_Bioferrite.label>
   <!-- EN: bioferrite slimes -->
-  <OE_Slime_Bioferrite.labelPlural>TODO</OE_Slime_Bioferrite.labelPlural>
+  <OE_Slime_Bioferrite.labelPlural>生物铁史莱姆</OE_Slime_Bioferrite.labelPlural>
   
 </LanguageData>

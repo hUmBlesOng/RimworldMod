@@ -1,18 +1,18 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef] representative of one of the most popular Obsidia mecha fan clubs. Becoming a full-fledged mechanitor is able to reveal hiden potential. Possesses excellent creative skills. -->
-  <OE_Mechanitor.description>TODO</OE_Mechanitor.description>
+  <OE_Mechanitor.description>[PAWN_nameDef]是最受欢迎的黑曜石机甲粉丝俱乐部之一的代表。成为合格的机械师后能够发挥隐藏的潜力。拥有出色的创造技能。</OE_Mechanitor.description>
   <!-- EN: obsidia mechanitor -->
-  <OE_Mechanitor.title>TODO</OE_Mechanitor.title>
+  <OE_Mechanitor.title>黑曜石机械师</OE_Mechanitor.title>
   <!-- EN: mechanitor -->
-  <OE_Mechanitor.titleShort>TODO</OE_Mechanitor.titleShort>
+  <OE_Mechanitor.titleShort>机械师</OE_Mechanitor.titleShort>
   
   <!-- EN: [PAWN_nameDef] former employee of Obsidia robotics foundries. Specialized in chassis design and autonomous systems. Possesses outstanding artistic talent. -->
-  <OE_Mecharchitect.description>TODO</OE_Mecharchitect.description>
+  <OE_Mecharchitect.description>[PAWN_nameDef]黑曜石机器人铸造厂的前雇员。专攻底盘设计和自主系统。拥有杰出的艺术天赋。</OE_Mecharchitect.description>
   <!-- EN: obsidia mech-architect -->
-  <OE_Mecharchitect.title>TODO</OE_Mecharchitect.title>
+  <OE_Mecharchitect.title>黑曜石机械建筑师</OE_Mecharchitect.title>
   <!-- EN: mech-architect -->
-  <OE_Mecharchitect.titleShort>TODO</OE_Mecharchitect.titleShort>
+  <OE_Mecharchitect.titleShort>机械建筑师</OE_Mecharchitect.titleShort>
   
 </LanguageData>

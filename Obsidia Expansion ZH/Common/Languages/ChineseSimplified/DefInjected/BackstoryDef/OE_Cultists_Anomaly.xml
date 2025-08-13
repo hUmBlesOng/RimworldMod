@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef] led bloodlit rituals in the name of the Crimson Arachna Cult. Driven by unwavering conviction, they inspired dread and awe through chanting, fire, and sacrifice. -->
-  <OE_Zealot.description>TODO</OE_Zealot.description>
+  <OE_Zealot.description>[PAWN_nameDef]以深红蜘蛛教团的名义领导血腥仪式。凭借坚定不移的信念，他们通过吟唱、火焰和献祭激发恐惧和敬畏。</OE_Zealot.description>
   <!-- EN: crimson arachna zealot -->
-  <OE_Zealot.title>TODO</OE_Zealot.title>
+  <OE_Zealot.title>深红蜘蛛狂热者</OE_Zealot.title>
   <!-- EN: zealot -->
-  <OE_Zealot.titleShort>TODO</OE_Zealot.titleShort>
+  <OE_Zealot.titleShort>狂热者</OE_Zealot.titleShort>
   
 </LanguageData>

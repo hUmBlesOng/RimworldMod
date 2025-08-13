@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: amalgam {0} -->
-  <OE_AmalgamAptitude.label>TODO</OE_AmalgamAptitude.label>
+  <OE_AmalgamAptitude.label>融合体{0}</OE_AmalgamAptitude.label>
   <!-- EN: The carrier of this amalgam gene has increased aptitude in {0} by 8. Aptitude acts like an offset on skill level. Additionally, one level of passion is added to {0}. -->
-  <OE_AmalgamAptitude.description>TODO</OE_AmalgamAptitude.description>
+  <OE_AmalgamAptitude.description>携带这种融合体基因的人在{0}方面的天赋提高了8点。天赋表现为技能等级的偏移量。此外，{0}增加了一级热情。</OE_AmalgamAptitude.description>
   
 </LanguageData>

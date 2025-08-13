@@ -1,12 +1,16 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN:
     <li>questDescription->[asker_nameFull], a seasoned [asker_royalTitleInCurrentFaction] from [asker_faction_name], just barely escaped a deadly ambush. With [asker_possessive] enemies hot on [asker_possessive] trail, [asker_pronoun] needs backup fast. Protect [asker_objective] at [map_definite] until reinforcements arrive, and [asker_pronoun] promises a cut of [royalFavorReward] [asker_faction_royalFavorLabel].\nThe group of [enemyFaction_pawnsPlural] is composed of:\n[raid/raidPawnKinds]\n\n[asker_nameDef] is too busy dodging bullets to give more details.</li>
     <li>questDescription->[asker_nameFull], one of the slickest [asker_royalTitleInCurrentFaction] in [asker_faction_name], barely slipped away from an ambush gone wrong. Now, [asker_possessive] enemies are closing in fast, and [asker_pronoun] needs help staying alive until backup comes. Meet [asker_nameDef] at [map_definite], keep [asker_pronoun] safe, and you'll be rewarded with [royalFavorReward] [asker_faction_royalFavorLabel].\nThe group of [enemyFaction_pawnsPlural] is composed of:\n[raid/raidPawnKinds]\n\n[asker_nameDef] is too shaken up to give more details.</li>
-    <li>questDescription->[asker_nameFull], a key figure in [asker_faction_name], walked into a trap. With [asker_possessive] guards dead and [asker_pronoun] on the run, there’s little time to lose. [asker_pronoun] needs backup at [map_definite] to fend off the enemies until the heat dies down. [asker_pronoun] promises [royalFavorReward] [asker_faction_royalFavorLabel] in exchange.\nThe group of [enemyFaction_pawnsPlural] is composed of:\n[raid/raidPawnKinds]\n\n[asker_nameDef] is too frantic to explain more.</li>
+    <li>questDescription->[asker_nameFull], a key figure in [asker_faction_name], walked into a trap. With [asker_possessive] guards dead and [asker_pronoun] on the run, there's little time to lose. [asker_pronoun] needs backup at [map_definite] to fend off the enemies until the heat dies down. [asker_pronoun] promises [royalFavorReward] [asker_faction_royalFavorLabel] in exchange.\nThe group of [enemyFaction_pawnsPlural] is composed of:\n[raid/raidPawnKinds]\n\n[asker_nameDef] is too frantic to explain more.</li>
   -->
-  <OE_Quest_HuntedAgent.questDescriptionRules.rulesStrings>TODO</OE_Quest_HuntedAgent.questDescriptionRules.rulesStrings>
+  <OE_Quest_HuntedAgent.questDescriptionRules.rulesStrings>
+    <li>questDescription->[asker_nameFull]，来自[asker_faction_name]的一位经验丰富的[asker_royalTitleInCurrentFaction]，刚刚勉强逃脱了一次致命伏击。在[asker_possessive]敌人紧追不舍的情况下，[asker_pronoun]急需支援。在[map_definite]保护[asker_objective]直到援军到达，[asker_pronoun]承诺给予[royalFavorReward][asker_faction_royalFavorLabel]作为回报。\n[enemyFaction_pawnsPlural]小组由以下成员组成：\n[raid/raidPawnKinds]\n\n[asker_nameDef]忙于躲避子弹，无法提供更多细节。</li>
+    <li>questDescription->[asker_nameFull]，[asker_faction_name]中最狡猾的[asker_royalTitleInCurrentFaction]之一，勉强摆脱了一次失败的伏击。现在，[asker_possessive]敌人正在快速逼近，[asker_pronoun]需要帮助在援军到来前活下来。在[map_definite]与[asker_nameDef]会面，保护[asker_pronoun]的安全，你将获得[royalFavorReward][asker_faction_royalFavorLabel]作为奖励。\n[enemyFaction_pawnsPlural]小组由以下成员组成：\n[raid/raidPawnKinds]\n\n[asker_nameDef]过于震惊，无法提供更多细节。</li>
+    <li>questDescription->[asker_nameFull]，[asker_faction_name]中的一位关键人物，落入了陷阱。在[asker_possessive]卫兵死亡且[asker_pronoun]在逃亡中，时间紧迫。[asker_pronoun]需要在[map_definite]的支援以击退敌人直到风头过去。[asker_pronoun]承诺给予[royalFavorReward][asker_faction_royalFavorLabel]作为交换。\n[enemyFaction_pawnsPlural]小组由以下成员组成：\n[raid/raidPawnKinds]\n\n[asker_nameDef]过于慌乱，无法进一步解释。</li>
+  </OE_Quest_HuntedAgent.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Saving [askerIndef]</li>
     <li>questName->Helping [askerIndef]</li>
@@ -19,51 +23,64 @@
     <li>askerAdj->frantic</li>
     <li>askerAdj->hunted</li>
     <li>askerIndef->agent</li>
+    <li>askerIndef->operative</li>
+  -->
+  <OE_Quest_HuntedAgent.questNameRules.rulesStrings>
+    <li>questName->拯救[askerIndef]</li>
+    <li>questName->帮助[askerIndef]</li>
+    <li>questName->[askerAdj]的[askerIndef]</li>
+    <li>questName->[askerIndef]被[enemyFaction_pawnsPlural]追击</li>
+    <li>questName->[enemyFaction_pawnsPlural]猎杀[askerIndef]</li>
+    <li>questName->战火之中</li>
+    <li>questName->最后防线</li>
+    <li>askerAdj->绝望的</li>
+    <li>askerAdj->疯狂的</li>
+    <li>askerAdj->被猎杀的</li>
+    <li>askerIndef->特工</li>
     <li>askerIndef->[asker_nameFull]</li>
     <li>askerIndef->[asker_royalTitleInCurrentFaction]</li>
-  -->
-  <OE_Quest_HuntedAgent.questNameRules.rulesStrings>TODO</OE_Quest_HuntedAgent.questNameRules.rulesStrings>
+  </OE_Quest_HuntedAgent.questNameRules.rulesStrings>
   <!-- EN: {BASELABEL} chasing [../asker_nameDef] -->
-  <OE_Quest_HuntedAgent.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterLabel.value.slateRef>TODO</OE_Quest_HuntedAgent.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterLabel.value.slateRef>
+  <OE_Quest_HuntedAgent.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterLabel.value.slateRef>{BASELABEL} 追击[../asker_nameDef]</OE_Quest_HuntedAgent.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterLabel.value.slateRef>
   <!-- EN: {BASETEXT}\n              \nThe [enemyFaction_pawnsPlural] have come to get [../asker_nameDef]. -->
-  <OE_Quest_HuntedAgent.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterText.value.slateRef>TODO</OE_Quest_HuntedAgent.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterText.value.slateRef>
+  <OE_Quest_HuntedAgent.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterText.value.slateRef>{BASETEXT}\n              \n[enemyFaction_pawnsPlural]已经来抓[../asker_nameDef]了。</OE_Quest_HuntedAgent.root.nodes.Delay.node.nodes.Util_Raid.parms.customLetterText.value.slateRef>
   <!-- EN: Should depart on shuttle -->
-  <OE_Quest_HuntedAgent.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>TODO</OE_Quest_HuntedAgent.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>
+  <OE_Quest_HuntedAgent.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>应当乘坐穿梭机离开</OE_Quest_HuntedAgent.root.nodes.ShuttleDelay.node.nodes.InspectString.inspectString.slateRef>
   <!-- EN: Shuttle arrived -->
-  <OE_Quest_HuntedAgent.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>TODO</OE_Quest_HuntedAgent.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>
+  <OE_Quest_HuntedAgent.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>穿梭机到达</OE_Quest_HuntedAgent.root.nodes.ShuttleDelay.node.nodes.Letter.label.slateRef>
   <!-- EN: The shuttle has arrived to collect [asker_nameDef]. -->
-  <OE_Quest_HuntedAgent.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>TODO</OE_Quest_HuntedAgent.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>
+  <OE_Quest_HuntedAgent.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>穿梭机已到达，准备接走[asker_nameDef]。</OE_Quest_HuntedAgent.root.nodes.ShuttleDelay.node.nodes.Letter.text.slateRef>
   <!-- EN: Guest died: {SUBJECT_definite} -->
-  <OE_Quest_HuntedAgent.root.nodes.askerDestroyed.node.nodes.Letter.label.slateRef>TODO</OE_Quest_HuntedAgent.root.nodes.askerDestroyed.node.nodes.Letter.label.slateRef>
+  <OE_Quest_HuntedAgent.root.nodes.askerDestroyed.node.nodes.Letter.label.slateRef>客人死亡：{SUBJECT_definite}</OE_Quest_HuntedAgent.root.nodes.askerDestroyed.node.nodes.Letter.label.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has died. [failLetterEndingCommon] -->
-  <OE_Quest_HuntedAgent.root.nodes.askerDestroyed.node.nodes.Letter.text.slateRef>TODO</OE_Quest_HuntedAgent.root.nodes.askerDestroyed.node.nodes.Letter.text.slateRef>
+  <OE_Quest_HuntedAgent.root.nodes.askerDestroyed.node.nodes.Letter.text.slateRef>你被委托保护的{SUBJECT_definite}已经死亡。[failLetterEndingCommon]</OE_Quest_HuntedAgent.root.nodes.askerDestroyed.node.nodes.Letter.text.slateRef>
   <!-- EN: Unauthorized surgery: {SUBJECT_definite} -->
-  <OE_Quest_HuntedAgent.root.nodes.askerSurgeryViolation.node.nodes.Letter.label.slateRef>TODO</OE_Quest_HuntedAgent.root.nodes.askerSurgeryViolation.node.nodes.Letter.label.slateRef>
+  <OE_Quest_HuntedAgent.root.nodes.askerSurgeryViolation.node.nodes.Letter.label.slateRef>未经授权的手术：{SUBJECT_definite}</OE_Quest_HuntedAgent.root.nodes.askerSurgeryViolation.node.nodes.Letter.label.slateRef>
   <!-- EN: Unauthorized, violating surgery has been performed on {SUBJECT_definite}, who you were charged to protect. Because of this violation, [asker_pronoun] will now attempt to leave. [failLetterEndingCommon] -->
-  <OE_Quest_HuntedAgent.root.nodes.askerSurgeryViolation.node.nodes.Letter.text.slateRef>TODO</OE_Quest_HuntedAgent.root.nodes.askerSurgeryViolation.node.nodes.Letter.text.slateRef>
+  <OE_Quest_HuntedAgent.root.nodes.askerSurgeryViolation.node.nodes.Letter.text.slateRef>对你被委托保护的{SUBJECT_definite}进行了未经授权的侵犯性手术。由于这种违规行为，[asker_pronoun]现在将尝试离开。[failLetterEndingCommon]</OE_Quest_HuntedAgent.root.nodes.askerSurgeryViolation.node.nodes.Letter.text.slateRef>
   <!-- EN: Xenogerm absorbed: {SUBJECT_definite} -->
-  <OE_Quest_HuntedAgent.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.label.slateRef>TODO</OE_Quest_HuntedAgent.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.label.slateRef>
+  <OE_Quest_HuntedAgent.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.label.slateRef>异种基因被吸收：{SUBJECT_definite}</OE_Quest_HuntedAgent.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.label.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has had {SUBJECT_possessive} xenogerm forcibly absorbed. Because of this violation, {SUBJECT_pronoun} will now attempt to leave. [failLetterEndingCommon] -->
-  <OE_Quest_HuntedAgent.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.text.slateRef>TODO</OE_Quest_HuntedAgent.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.text.slateRef>
+  <OE_Quest_HuntedAgent.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.text.slateRef>你被委托保护的{SUBJECT_definite}的异种基因被强制吸收。由于这种违规行为，{SUBJECT_pronoun}现在将尝试离开。[failLetterEndingCommon]</OE_Quest_HuntedAgent.root.nodes.askerXenogermAbsorbed.node.nodes.Letter.text.slateRef>
   <!-- EN: Captured: {SUBJECT_definite} -->
-  <OE_Quest_HuntedAgent.root.nodes.askerArrested.node.nodes.Letter.label.slateRef>TODO</OE_Quest_HuntedAgent.root.nodes.askerArrested.node.nodes.Letter.label.slateRef>
+  <OE_Quest_HuntedAgent.root.nodes.askerArrested.node.nodes.Letter.label.slateRef>被俘虏：{SUBJECT_definite}</OE_Quest_HuntedAgent.root.nodes.askerArrested.node.nodes.Letter.label.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to host, has been arrested. [failLetterEndingCommon] -->
-  <OE_Quest_HuntedAgent.root.nodes.askerArrested.node.nodes.Letter.text.slateRef>TODO</OE_Quest_HuntedAgent.root.nodes.askerArrested.node.nodes.Letter.text.slateRef>
+  <OE_Quest_HuntedAgent.root.nodes.askerArrested.node.nodes.Letter.text.slateRef>你被委托接待的{SUBJECT_definite}已被逮捕。[failLetterEndingCommon]</OE_Quest_HuntedAgent.root.nodes.askerArrested.node.nodes.Letter.text.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
-  <OE_Quest_HuntedAgent.root.nodes.askerLeftMap.node.nodes.Letter.label.slateRef>TODO</OE_Quest_HuntedAgent.root.nodes.askerLeftMap.node.nodes.Letter.label.slateRef>
+  <OE_Quest_HuntedAgent.root.nodes.askerLeftMap.node.nodes.Letter.label.slateRef>客人失踪：{SUBJECT_definite}</OE_Quest_HuntedAgent.root.nodes.askerLeftMap.node.nodes.Letter.label.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has left the designated settlement. [failLetterEndingCommon] -->
-  <OE_Quest_HuntedAgent.root.nodes.askerLeftMap.node.nodes.Letter.text.slateRef>TODO</OE_Quest_HuntedAgent.root.nodes.askerLeftMap.node.nodes.Letter.text.slateRef>
+  <OE_Quest_HuntedAgent.root.nodes.askerLeftMap.node.nodes.Letter.text.slateRef>你被委托保护的{SUBJECT_definite}已经离开了指定的定居点。[failLetterEndingCommon]</OE_Quest_HuntedAgent.root.nodes.askerLeftMap.node.nodes.Letter.text.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
-  <OE_Quest_HuntedAgent.root.nodes.askerRanWild.node.nodes.Letter.label.slateRef>TODO</OE_Quest_HuntedAgent.root.nodes.askerRanWild.node.nodes.Letter.label.slateRef>
+  <OE_Quest_HuntedAgent.root.nodes.askerRanWild.node.nodes.Letter.label.slateRef>客人失踪：{SUBJECT_definite}</OE_Quest_HuntedAgent.root.nodes.askerRanWild.node.nodes.Letter.label.slateRef>
   <!-- EN: {SUBJECT_definite}, who you were charged to protect, has run wild. [failLetterEndingCommon] -->
-  <OE_Quest_HuntedAgent.root.nodes.askerRanWild.node.nodes.Letter.text.slateRef>TODO</OE_Quest_HuntedAgent.root.nodes.askerRanWild.node.nodes.Letter.text.slateRef>
+  <OE_Quest_HuntedAgent.root.nodes.askerRanWild.node.nodes.Letter.text.slateRef>你被委托保护的{SUBJECT_definite}已经失控狂奔。[failLetterEndingCommon]</OE_Quest_HuntedAgent.root.nodes.askerRanWild.node.nodes.Letter.text.slateRef>
   <!-- EN: Shuttle destroyed -->
-  <OE_Quest_HuntedAgent.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.label.slateRef>TODO</OE_Quest_HuntedAgent.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.label.slateRef>
+  <OE_Quest_HuntedAgent.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.label.slateRef>穿梭机被摧毁</OE_Quest_HuntedAgent.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.label.slateRef>
   <!-- EN: The shuttle sent to collect [asker_nameDef] has been destroyed. [asker_pronoun] will now leave on foot. [failLetterEndingCommon] -->
-  <OE_Quest_HuntedAgent.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.text.slateRef>TODO</OE_Quest_HuntedAgent.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.text.slateRef>
+  <OE_Quest_HuntedAgent.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.text.slateRef>派来接走[asker_nameDef]的穿梭机已被摧毁。[asker_pronoun]现在将步行离开。[failLetterEndingCommon]</OE_Quest_HuntedAgent.root.nodes.pickupShipThingDestroyed.node.nodes.Letter.text.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <OE_Quest_HuntedAgent.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.label.slateRef>TODO</OE_Quest_HuntedAgent.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.label.slateRef>
+  <OE_Quest_HuntedAgent.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.label.slateRef>任务失败：[resolvedQuestName]</OE_Quest_HuntedAgent.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.label.slateRef>
   <!-- EN: The shuttle sent to collect [asker_nameDef] has departed without [asker_objective]. [asker_pronoun] will now leave on foot. [failLetterEndingCommon] -->
-  <OE_Quest_HuntedAgent.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.text.slateRef>TODO</OE_Quest_HuntedAgent.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.text.slateRef>
+  <OE_Quest_HuntedAgent.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.text.slateRef>派来接走[asker_nameDef]的穿梭机已经在没有接到[asker_objective]的情况下离开了。[asker_pronoun]现在将步行离开。[failLetterEndingCommon]</OE_Quest_HuntedAgent.root.nodes.pickupShipThingSentUnsatisfied.node.nodes.Letter.text.slateRef>
   
 </LanguageData>

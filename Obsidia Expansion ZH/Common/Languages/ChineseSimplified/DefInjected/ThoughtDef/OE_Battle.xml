@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: joltixin withdrawal -->
-  <OE_JoltixinWithdrawal.stages.joltixin_withdrawal.label>TODO</OE_JoltixinWithdrawal.stages.joltixin_withdrawal.label>
+  <OE_JoltixinWithdrawal.stages.joltixin_withdrawal.label>乔尔提辛戒断</OE_JoltixinWithdrawal.stages.joltixin_withdrawal.label>
   <!-- EN: I feel my weakness. I never thought it was so hard without stimpacks. -->
-  <OE_JoltixinWithdrawal.stages.joltixin_withdrawal.description>TODO</OE_JoltixinWithdrawal.stages.joltixin_withdrawal.description>
+  <OE_JoltixinWithdrawal.stages.joltixin_withdrawal.description>我感到虚弱。我从未想过没有兴奋剂会这么难熬。</OE_JoltixinWithdrawal.stages.joltixin_withdrawal.description>
   
   <!-- EN: torraxin withdrawal -->
-  <OE_TorraxinWithdrawal.stages.torraxin_withdrawal.label>TODO</OE_TorraxinWithdrawal.stages.torraxin_withdrawal.label>
+  <OE_TorraxinWithdrawal.stages.torraxin_withdrawal.label>托拉辛戒断</OE_TorraxinWithdrawal.stages.torraxin_withdrawal.label>
   <!-- EN: I feel my weakness. I never thought it was so hard without stimpacks. -->
-  <OE_TorraxinWithdrawal.stages.torraxin_withdrawal.description>TODO</OE_TorraxinWithdrawal.stages.torraxin_withdrawal.description>
+  <OE_TorraxinWithdrawal.stages.torraxin_withdrawal.description>我感到虚弱。我从未想过没有兴奋剂会这么难熬。</OE_TorraxinWithdrawal.stages.torraxin_withdrawal.description>
   
 </LanguageData>

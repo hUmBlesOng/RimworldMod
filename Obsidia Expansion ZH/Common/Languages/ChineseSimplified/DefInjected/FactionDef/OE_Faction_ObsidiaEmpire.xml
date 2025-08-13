@@ -1,19 +1,19 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Obsidia Empire -->
-  <ObsidiaEmpire.label>TODO</ObsidiaEmpire.label>
+  <ObsidiaEmpire.label>黑曜石帝国</ObsidiaEmpire.label>
   <!-- EN: An ultratech colonists society from Obsidia planet, organized along military lines. They lived for thousands of years in their home solar system, researching and using the rarest materials in their technologies. But having reached a peak in researchment, it was time for them to leave their homeworld and begin a galactic expansion!\n\nThey also reject the rest of the factions, and in order to open trade, you must first gain their trust. -->
-  <ObsidiaEmpire.description>TODO</ObsidiaEmpire.description>
+  <ObsidiaEmpire.description>来自黑曜石星球的超高科技殖民者社会，按军事路线组织。他们在家乡太阳系生活了数千年，研究并在技术中使用最稀有的材料。但在研究达到顶峰后，是时候离开家园开始银河扩张了！\n\n他们也拒绝其他派系，要想开展贸易，你必须首先获得他们的信任。</ObsidiaEmpire.description>
   <!-- EN: consul -->
-  <ObsidiaEmpire.leaderTitle>TODO</ObsidiaEmpire.leaderTitle>
+  <ObsidiaEmpire.leaderTitle>执政官</ObsidiaEmpire.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <ObsidiaEmpire.messageDefendersAttacking>TODO</ObsidiaEmpire.messageDefendersAttacking>
+  <ObsidiaEmpire.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</ObsidiaEmpire.messageDefendersAttacking>
   <!-- EN: obsidian -->
-  <ObsidiaEmpire.pawnSingular>TODO</ObsidiaEmpire.pawnSingular>
+  <ObsidiaEmpire.pawnSingular>黑曜石</ObsidiaEmpire.pawnSingular>
   <!-- EN: obsidians -->
-  <ObsidiaEmpire.pawnsPlural>TODO</ObsidiaEmpire.pawnsPlural>
+  <ObsidiaEmpire.pawnsPlural>黑曜石</ObsidiaEmpire.pawnsPlural>
   <!-- EN: dominance -->
-  <ObsidiaEmpire.royalFavorLabel>TODO</ObsidiaEmpire.royalFavorLabel>
+  <ObsidiaEmpire.royalFavorLabel>统治力</ObsidiaEmpire.royalFavorLabel>
   
 </LanguageData>

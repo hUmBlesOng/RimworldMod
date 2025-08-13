@@ -1,195 +1,195 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: arachna-like -->
-  <OEArachnaLike.label>TODO</OEArachnaLike.label>
+  <OEArachnaLike.label>蛛形纲-like</OEArachnaLike.label>
   <!-- EN: left first eye -->
-  <OEArachnaLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_first_eye.customLabel>TODO</OEArachnaLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_first_eye.customLabel>
+  <OEArachnaLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_first_eye.customLabel>左第一眼</OEArachnaLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_first_eye.customLabel>
   <!-- EN: left second eye -->
-  <OEArachnaLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_second_eye.customLabel>TODO</OEArachnaLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_second_eye.customLabel>
+  <OEArachnaLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_second_eye.customLabel>左第二眼</OEArachnaLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_second_eye.customLabel>
   <!-- EN: left third eye -->
-  <OEArachnaLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_third_eye.customLabel>TODO</OEArachnaLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_third_eye.customLabel>
+  <OEArachnaLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_third_eye.customLabel>左第三眼</OEArachnaLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_third_eye.customLabel>
   <!-- EN: right first eye -->
-  <OEArachnaLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_first_eye.customLabel>TODO</OEArachnaLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_first_eye.customLabel>
+  <OEArachnaLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_first_eye.customLabel>右第一眼</OEArachnaLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_first_eye.customLabel>
   <!-- EN: right second eye -->
-  <OEArachnaLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_second_eye.customLabel>TODO</OEArachnaLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_second_eye.customLabel>
+  <OEArachnaLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_second_eye.customLabel>右第二眼</OEArachnaLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_second_eye.customLabel>
   <!-- EN: right third eye -->
-  <OEArachnaLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_third_eye.customLabel>TODO</OEArachnaLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_third_eye.customLabel>
+  <OEArachnaLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_third_eye.customLabel>右第三眼</OEArachnaLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_third_eye.customLabel>
   <!-- EN: left first leg -->
-  <OEArachnaLike.corePart.parts.left_first_leg.customLabel>TODO</OEArachnaLike.corePart.parts.left_first_leg.customLabel>
+  <OEArachnaLike.corePart.parts.left_first_leg.customLabel>左第一腿</OEArachnaLike.corePart.parts.left_first_leg.customLabel>
   <!-- EN: left second leg -->
-  <OEArachnaLike.corePart.parts.left_second_leg.customLabel>TODO</OEArachnaLike.corePart.parts.left_second_leg.customLabel>
+  <OEArachnaLike.corePart.parts.left_second_leg.customLabel>左第二腿</OEArachnaLike.corePart.parts.left_second_leg.customLabel>
   <!-- EN: left third leg -->
-  <OEArachnaLike.corePart.parts.left_third_leg.customLabel>TODO</OEArachnaLike.corePart.parts.left_third_leg.customLabel>
+  <OEArachnaLike.corePart.parts.left_third_leg.customLabel>左第三腿</OEArachnaLike.corePart.parts.left_third_leg.customLabel>
   <!-- EN: left fourth leg -->
-  <OEArachnaLike.corePart.parts.left_fourth_leg.customLabel>TODO</OEArachnaLike.corePart.parts.left_fourth_leg.customLabel>
+  <OEArachnaLike.corePart.parts.left_fourth_leg.customLabel>左第四腿</OEArachnaLike.corePart.parts.left_fourth_leg.customLabel>
   <!-- EN: right first leg -->
-  <OEArachnaLike.corePart.parts.right_first_leg.customLabel>TODO</OEArachnaLike.corePart.parts.right_first_leg.customLabel>
+  <OEArachnaLike.corePart.parts.right_first_leg.customLabel>右第一腿</OEArachnaLike.corePart.parts.right_first_leg.customLabel>
   <!-- EN: right second leg -->
-  <OEArachnaLike.corePart.parts.right_second_leg.customLabel>TODO</OEArachnaLike.corePart.parts.right_second_leg.customLabel>
+  <OEArachnaLike.corePart.parts.right_second_leg.customLabel>右第二腿</OEArachnaLike.corePart.parts.right_second_leg.customLabel>
   <!-- EN: right third leg -->
-  <OEArachnaLike.corePart.parts.right_third_leg.customLabel>TODO</OEArachnaLike.corePart.parts.right_third_leg.customLabel>
+  <OEArachnaLike.corePart.parts.right_third_leg.customLabel>右第三腿</OEArachnaLike.corePart.parts.right_third_leg.customLabel>
   <!-- EN: right fourth leg -->
-  <OEArachnaLike.corePart.parts.right_fourth_leg.customLabel>TODO</OEArachnaLike.corePart.parts.right_fourth_leg.customLabel>
+  <OEArachnaLike.corePart.parts.right_fourth_leg.customLabel>右第四腿</OEArachnaLike.corePart.parts.right_fourth_leg.customLabel>
   
   <!-- EN: armagon-like -->
-  <OEArmagonLike.label>TODO</OEArmagonLike.label>
+  <OEArmagonLike.label>阿玛贡-like</OEArmagonLike.label>
   <!-- EN: big left eye -->
-  <OEArmagonLike.corePart.parts.Pronotum.parts.InsectHead.parts.big_left_eye.customLabel>TODO</OEArmagonLike.corePart.parts.Pronotum.parts.InsectHead.parts.big_left_eye.customLabel>
+  <OEArmagonLike.corePart.parts.Pronotum.parts.InsectHead.parts.big_left_eye.customLabel>左大眼</OEArmagonLike.corePart.parts.Pronotum.parts.InsectHead.parts.big_left_eye.customLabel>
   <!-- EN: small left eye -->
-  <OEArmagonLike.corePart.parts.Pronotum.parts.InsectHead.parts.small_left_eye.customLabel>TODO</OEArmagonLike.corePart.parts.Pronotum.parts.InsectHead.parts.small_left_eye.customLabel>
+  <OEArmagonLike.corePart.parts.Pronotum.parts.InsectHead.parts.small_left_eye.customLabel>左小眼</OEArmagonLike.corePart.parts.Pronotum.parts.InsectHead.parts.small_left_eye.customLabel>
   <!-- EN: big right eye -->
-  <OEArmagonLike.corePart.parts.Pronotum.parts.InsectHead.parts.big_right_eye.customLabel>TODO</OEArmagonLike.corePart.parts.Pronotum.parts.InsectHead.parts.big_right_eye.customLabel>
+  <OEArmagonLike.corePart.parts.Pronotum.parts.InsectHead.parts.big_right_eye.customLabel>右大眼</OEArmagonLike.corePart.parts.Pronotum.parts.InsectHead.parts.big_right_eye.customLabel>
   <!-- EN: small right eye -->
-  <OEArmagonLike.corePart.parts.Pronotum.parts.InsectHead.parts.small_right_eye.customLabel>TODO</OEArmagonLike.corePart.parts.Pronotum.parts.InsectHead.parts.small_right_eye.customLabel>
+  <OEArmagonLike.corePart.parts.Pronotum.parts.InsectHead.parts.small_right_eye.customLabel>右小眼</OEArmagonLike.corePart.parts.Pronotum.parts.InsectHead.parts.small_right_eye.customLabel>
   <!-- EN: big horn -->
-  <OEArmagonLike.corePart.parts.Pronotum.parts.InsectHead.parts.big_horn.customLabel>TODO</OEArmagonLike.corePart.parts.Pronotum.parts.InsectHead.parts.big_horn.customLabel>
+  <OEArmagonLike.corePart.parts.Pronotum.parts.InsectHead.parts.big_horn.customLabel>大角</OEArmagonLike.corePart.parts.Pronotum.parts.InsectHead.parts.big_horn.customLabel>
   <!-- EN: small horn -->
-  <OEArmagonLike.corePart.parts.Pronotum.parts.InsectHead.parts.small_horn.customLabel>TODO</OEArmagonLike.corePart.parts.Pronotum.parts.InsectHead.parts.small_horn.customLabel>
+  <OEArmagonLike.corePart.parts.Pronotum.parts.InsectHead.parts.small_horn.customLabel>小角</OEArmagonLike.corePart.parts.Pronotum.parts.InsectHead.parts.small_horn.customLabel>
   <!-- EN: front left leg -->
-  <OEArmagonLike.corePart.parts.front_left_leg.customLabel>TODO</OEArmagonLike.corePart.parts.front_left_leg.customLabel>
+  <OEArmagonLike.corePart.parts.front_left_leg.customLabel>左前腿</OEArmagonLike.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front right leg -->
-  <OEArmagonLike.corePart.parts.front_right_leg.customLabel>TODO</OEArmagonLike.corePart.parts.front_right_leg.customLabel>
+  <OEArmagonLike.corePart.parts.front_right_leg.customLabel>右前腿</OEArmagonLike.corePart.parts.front_right_leg.customLabel>
   <!-- EN: middle left leg -->
-  <OEArmagonLike.corePart.parts.middle_left_leg.customLabel>TODO</OEArmagonLike.corePart.parts.middle_left_leg.customLabel>
+  <OEArmagonLike.corePart.parts.middle_left_leg.customLabel>左中腿</OEArmagonLike.corePart.parts.middle_left_leg.customLabel>
   <!-- EN: middle right leg -->
-  <OEArmagonLike.corePart.parts.middle_right_leg.customLabel>TODO</OEArmagonLike.corePart.parts.middle_right_leg.customLabel>
+  <OEArmagonLike.corePart.parts.middle_right_leg.customLabel>右中腿</OEArmagonLike.corePart.parts.middle_right_leg.customLabel>
   <!-- EN: rear left leg -->
-  <OEArmagonLike.corePart.parts.rear_left_leg.customLabel>TODO</OEArmagonLike.corePart.parts.rear_left_leg.customLabel>
+  <OEArmagonLike.corePart.parts.rear_left_leg.customLabel>左后腿</OEArmagonLike.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear right leg -->
-  <OEArmagonLike.corePart.parts.rear_right_leg.customLabel>TODO</OEArmagonLike.corePart.parts.rear_right_leg.customLabel>
+  <OEArmagonLike.corePart.parts.rear_right_leg.customLabel>右后腿</OEArmagonLike.corePart.parts.rear_right_leg.customLabel>
   
   <!-- EN: bruul-like -->
-  <OEBruulLike.label>TODO</OEBruulLike.label>
+  <OEBruulLike.label>布鲁尔-like</OEBruulLike.label>
   <!-- EN: right hydrogen sac -->
-  <OEBruulLike.corePart.parts.right_hydrogen_sac.customLabel>TODO</OEBruulLike.corePart.parts.right_hydrogen_sac.customLabel>
+  <OEBruulLike.corePart.parts.right_hydrogen_sac.customLabel>右氢气囊</OEBruulLike.corePart.parts.right_hydrogen_sac.customLabel>
   <!-- EN: left hydrogen sac -->
-  <OEBruulLike.corePart.parts.left_hydrogen_sac.customLabel>TODO</OEBruulLike.corePart.parts.left_hydrogen_sac.customLabel>
+  <OEBruulLike.corePart.parts.left_hydrogen_sac.customLabel>左氢气囊</OEBruulLike.corePart.parts.left_hydrogen_sac.customLabel>
   <!-- EN: middle hydrogen sac -->
-  <OEBruulLike.corePart.parts.middle_hydrogen_sac.customLabel>TODO</OEBruulLike.corePart.parts.middle_hydrogen_sac.customLabel>
+  <OEBruulLike.corePart.parts.middle_hydrogen_sac.customLabel>中氢气囊</OEBruulLike.corePart.parts.middle_hydrogen_sac.customLabel>
   <!-- EN: left eye -->
-  <OEBruulLike.corePart.parts.Head.parts.left_eye.customLabel>TODO</OEBruulLike.corePart.parts.Head.parts.left_eye.customLabel>
+  <OEBruulLike.corePart.parts.Head.parts.left_eye.customLabel>左眼</OEBruulLike.corePart.parts.Head.parts.left_eye.customLabel>
   <!-- EN: right eye -->
-  <OEBruulLike.corePart.parts.Head.parts.right_eye.customLabel>TODO</OEBruulLike.corePart.parts.Head.parts.right_eye.customLabel>
+  <OEBruulLike.corePart.parts.Head.parts.right_eye.customLabel>右眼</OEBruulLike.corePart.parts.Head.parts.right_eye.customLabel>
   <!-- EN: first tentacle -->
-  <OEBruulLike.corePart.parts.first_tentacle.customLabel>TODO</OEBruulLike.corePart.parts.first_tentacle.customLabel>
+  <OEBruulLike.corePart.parts.first_tentacle.customLabel>第一触手</OEBruulLike.corePart.parts.first_tentacle.customLabel>
   <!-- EN: second tentacle -->
-  <OEBruulLike.corePart.parts.second_tentacle.customLabel>TODO</OEBruulLike.corePart.parts.second_tentacle.customLabel>
+  <OEBruulLike.corePart.parts.second_tentacle.customLabel>第二触手</OEBruulLike.corePart.parts.second_tentacle.customLabel>
   <!-- EN: third tentacle -->
-  <OEBruulLike.corePart.parts.third_tentacle.customLabel>TODO</OEBruulLike.corePart.parts.third_tentacle.customLabel>
+  <OEBruulLike.corePart.parts.third_tentacle.customLabel>第三触手</OEBruulLike.corePart.parts.third_tentacle.customLabel>
   <!-- EN: fourth tentacle -->
-  <OEBruulLike.corePart.parts.fourth_tentacle.customLabel>TODO</OEBruulLike.corePart.parts.fourth_tentacle.customLabel>
+  <OEBruulLike.corePart.parts.fourth_tentacle.customLabel>第四触手</OEBruulLike.corePart.parts.fourth_tentacle.customLabel>
   <!-- EN: fifth tentacle -->
-  <OEBruulLike.corePart.parts.fifth_tentacle.customLabel>TODO</OEBruulLike.corePart.parts.fifth_tentacle.customLabel>
+  <OEBruulLike.corePart.parts.fifth_tentacle.customLabel>第五触手</OEBruulLike.corePart.parts.fifth_tentacle.customLabel>
   <!-- EN: sixth tentacle -->
-  <OEBruulLike.corePart.parts.sixth_tentacle.customLabel>TODO</OEBruulLike.corePart.parts.sixth_tentacle.customLabel>
+  <OEBruulLike.corePart.parts.sixth_tentacle.customLabel>第六触手</OEBruulLike.corePart.parts.sixth_tentacle.customLabel>
   <!-- EN: seventh tentacle -->
-  <OEBruulLike.corePart.parts.seventh_tentacle.customLabel>TODO</OEBruulLike.corePart.parts.seventh_tentacle.customLabel>
+  <OEBruulLike.corePart.parts.seventh_tentacle.customLabel>第七触手</OEBruulLike.corePart.parts.seventh_tentacle.customLabel>
   <!-- EN: eighth tentacle -->
-  <OEBruulLike.corePart.parts.eighth_tentacle.customLabel>TODO</OEBruulLike.corePart.parts.eighth_tentacle.customLabel>
+  <OEBruulLike.corePart.parts.eighth_tentacle.customLabel>第八触手</OEBruulLike.corePart.parts.eighth_tentacle.customLabel>
   
   <!-- EN: raptor-like -->
-  <OERaptorLike.label>TODO</OERaptorLike.label>
+  <OERaptorLike.label>猛禽-like</OERaptorLike.label>
   <!-- EN: left lung -->
-  <OERaptorLike.corePart.parts.left_lung.customLabel>TODO</OERaptorLike.corePart.parts.left_lung.customLabel>
+  <OERaptorLike.corePart.parts.left_lung.customLabel>左肺</OERaptorLike.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
-  <OERaptorLike.corePart.parts.right_lung.customLabel>TODO</OERaptorLike.corePart.parts.right_lung.customLabel>
+  <OERaptorLike.corePart.parts.right_lung.customLabel>右肺</OERaptorLike.corePart.parts.right_lung.customLabel>
   <!-- EN: left kidney -->
-  <OERaptorLike.corePart.parts.left_kidney.customLabel>TODO</OERaptorLike.corePart.parts.left_kidney.customLabel>
+  <OERaptorLike.corePart.parts.left_kidney.customLabel>左肾</OERaptorLike.corePart.parts.left_kidney.customLabel>
   <!-- EN: right kidney -->
-  <OERaptorLike.corePart.parts.right_kidney.customLabel>TODO</OERaptorLike.corePart.parts.right_kidney.customLabel>
+  <OERaptorLike.corePart.parts.right_kidney.customLabel>右肾</OERaptorLike.corePart.parts.right_kidney.customLabel>
   <!-- EN: left eye -->
-  <OERaptorLike.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>TODO</OERaptorLike.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <OERaptorLike.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>左眼</OERaptorLike.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
   <!-- EN: right eye -->
-  <OERaptorLike.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>TODO</OERaptorLike.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <OERaptorLike.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>右眼</OERaptorLike.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
   <!-- EN: left leg -->
-  <OERaptorLike.corePart.parts.left_leg.customLabel>TODO</OERaptorLike.corePart.parts.left_leg.customLabel>
+  <OERaptorLike.corePart.parts.left_leg.customLabel>左腿</OERaptorLike.corePart.parts.left_leg.customLabel>
   <!-- EN: left foot -->
-  <OERaptorLike.corePart.parts.left_leg.parts.left_foot.customLabel>TODO</OERaptorLike.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <OERaptorLike.corePart.parts.left_leg.parts.left_foot.customLabel>左脚</OERaptorLike.corePart.parts.left_leg.parts.left_foot.customLabel>
   <!-- EN: left claw -->
-  <OERaptorLike.corePart.parts.left_leg.parts.left_claw.customLabel>TODO</OERaptorLike.corePart.parts.left_leg.parts.left_claw.customLabel>
+  <OERaptorLike.corePart.parts.left_leg.parts.left_claw.customLabel>左爪</OERaptorLike.corePart.parts.left_leg.parts.left_claw.customLabel>
   <!-- EN: right leg -->
-  <OERaptorLike.corePart.parts.right_leg.customLabel>TODO</OERaptorLike.corePart.parts.right_leg.customLabel>
+  <OERaptorLike.corePart.parts.right_leg.customLabel>右腿</OERaptorLike.corePart.parts.right_leg.customLabel>
   <!-- EN: right foot -->
-  <OERaptorLike.corePart.parts.right_leg.parts.right_foot.customLabel>TODO</OERaptorLike.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <OERaptorLike.corePart.parts.right_leg.parts.right_foot.customLabel>右脚</OERaptorLike.corePart.parts.right_leg.parts.right_foot.customLabel>
   <!-- EN: right claw -->
-  <OERaptorLike.corePart.parts.right_leg.parts.right_claw.customLabel>TODO</OERaptorLike.corePart.parts.right_leg.parts.right_claw.customLabel>
+  <OERaptorLike.corePart.parts.right_leg.parts.right_claw.customLabel>右爪</OERaptorLike.corePart.parts.right_leg.parts.right_claw.customLabel>
   <!-- EN: left shoulder -->
-  <OERaptorLike.corePart.parts.left_shoulder.customLabel>TODO</OERaptorLike.corePart.parts.left_shoulder.customLabel>
+  <OERaptorLike.corePart.parts.left_shoulder.customLabel>左肩</OERaptorLike.corePart.parts.left_shoulder.customLabel>
   <!-- EN: left arm -->
-  <OERaptorLike.corePart.parts.left_shoulder.parts.left_arm.customLabel>TODO</OERaptorLike.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <OERaptorLike.corePart.parts.left_shoulder.parts.left_arm.customLabel>左臂</OERaptorLike.corePart.parts.left_shoulder.parts.left_arm.customLabel>
   <!-- EN: left front claw -->
-  <OERaptorLike.corePart.parts.left_shoulder.parts.left_arm.parts.left_front_claw.customLabel>TODO</OERaptorLike.corePart.parts.left_shoulder.parts.left_arm.parts.left_front_claw.customLabel>
+  <OERaptorLike.corePart.parts.left_shoulder.parts.left_arm.parts.left_front_claw.customLabel>左前爪</OERaptorLike.corePart.parts.left_shoulder.parts.left_arm.parts.left_front_claw.customLabel>
   <!-- EN: right shoulder -->
-  <OERaptorLike.corePart.parts.right_shoulder.customLabel>TODO</OERaptorLike.corePart.parts.right_shoulder.customLabel>
+  <OERaptorLike.corePart.parts.right_shoulder.customLabel>右肩</OERaptorLike.corePart.parts.right_shoulder.customLabel>
   <!-- EN: right arm -->
-  <OERaptorLike.corePart.parts.right_shoulder.parts.right_arm.customLabel>TODO</OERaptorLike.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <OERaptorLike.corePart.parts.right_shoulder.parts.right_arm.customLabel>右臂</OERaptorLike.corePart.parts.right_shoulder.parts.right_arm.customLabel>
   <!-- EN: right front claw -->
-  <OERaptorLike.corePart.parts.right_shoulder.parts.right_arm.parts.right_front_claw.customLabel>TODO</OERaptorLike.corePart.parts.right_shoulder.parts.right_arm.parts.right_front_claw.customLabel>
+  <OERaptorLike.corePart.parts.right_shoulder.parts.right_arm.parts.right_front_claw.customLabel>右前爪</OERaptorLike.corePart.parts.right_shoulder.parts.right_arm.parts.right_front_claw.customLabel>
   
   <!-- EN: scorpid-like -->
-  <OEScorpidLike.label>TODO</OEScorpidLike.label>
+  <OEScorpidLike.label>蝎子-like</OEScorpidLike.label>
   <!-- EN: left first eye -->
-  <OEScorpidLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_first_eye.customLabel>TODO</OEScorpidLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_first_eye.customLabel>
+  <OEScorpidLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_first_eye.customLabel>左第一眼</OEScorpidLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_first_eye.customLabel>
   <!-- EN: left second eye -->
-  <OEScorpidLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_second_eye.customLabel>TODO</OEScorpidLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_second_eye.customLabel>
+  <OEScorpidLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_second_eye.customLabel>左第二眼</OEScorpidLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_second_eye.customLabel>
   <!-- EN: left third eye -->
-  <OEScorpidLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_third_eye.customLabel>TODO</OEScorpidLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_third_eye.customLabel>
+  <OEScorpidLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_third_eye.customLabel>左第三眼</OEScorpidLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_third_eye.customLabel>
   <!-- EN: right first eye -->
-  <OEScorpidLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_first_eye.customLabel>TODO</OEScorpidLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_first_eye.customLabel>
+  <OEScorpidLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_first_eye.customLabel>右第一眼</OEScorpidLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_first_eye.customLabel>
   <!-- EN: right second eye -->
-  <OEScorpidLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_second_eye.customLabel>TODO</OEScorpidLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_second_eye.customLabel>
+  <OEScorpidLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_second_eye.customLabel>右第二眼</OEScorpidLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_second_eye.customLabel>
   <!-- EN: right third eye -->
-  <OEScorpidLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_third_eye.customLabel>TODO</OEScorpidLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_third_eye.customLabel>
+  <OEScorpidLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_third_eye.customLabel>右第三眼</OEScorpidLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_third_eye.customLabel>
   <!-- EN: left insect claw -->
-  <OEScorpidLike.corePart.parts.left_insect_claw.customLabel>TODO</OEScorpidLike.corePart.parts.left_insect_claw.customLabel>
+  <OEScorpidLike.corePart.parts.left_insect_claw.customLabel>左昆虫爪</OEScorpidLike.corePart.parts.left_insect_claw.customLabel>
   <!-- EN: right insect claw -->
-  <OEScorpidLike.corePart.parts.right_insect_claw.customLabel>TODO</OEScorpidLike.corePart.parts.right_insect_claw.customLabel>
+  <OEScorpidLike.corePart.parts.right_insect_claw.customLabel>右昆虫爪</OEScorpidLike.corePart.parts.right_insect_claw.customLabel>
   <!-- EN: front left leg -->
-  <OEScorpidLike.corePart.parts.front_left_leg.customLabel>TODO</OEScorpidLike.corePart.parts.front_left_leg.customLabel>
+  <OEScorpidLike.corePart.parts.front_left_leg.customLabel>左前腿</OEScorpidLike.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front right leg -->
-  <OEScorpidLike.corePart.parts.front_right_leg.customLabel>TODO</OEScorpidLike.corePart.parts.front_right_leg.customLabel>
+  <OEScorpidLike.corePart.parts.front_right_leg.customLabel>右前腿</OEScorpidLike.corePart.parts.front_right_leg.customLabel>
   <!-- EN: middle left leg -->
-  <OEScorpidLike.corePart.parts.middle_left_leg.customLabel>TODO</OEScorpidLike.corePart.parts.middle_left_leg.customLabel>
+  <OEScorpidLike.corePart.parts.middle_left_leg.customLabel>左中腿</OEScorpidLike.corePart.parts.middle_left_leg.customLabel>
   <!-- EN: middle right leg -->
-  <OEScorpidLike.corePart.parts.middle_right_leg.customLabel>TODO</OEScorpidLike.corePart.parts.middle_right_leg.customLabel>
+  <OEScorpidLike.corePart.parts.middle_right_leg.customLabel>右中腿</OEScorpidLike.corePart.parts.middle_right_leg.customLabel>
   <!-- EN: rear left leg -->
-  <OEScorpidLike.corePart.parts.rear_left_leg.customLabel>TODO</OEScorpidLike.corePart.parts.rear_left_leg.customLabel>
+  <OEScorpidLike.corePart.parts.rear_left_leg.customLabel>左后腿</OEScorpidLike.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear right leg -->
-  <OEScorpidLike.corePart.parts.rear_right_leg.customLabel>TODO</OEScorpidLike.corePart.parts.rear_right_leg.customLabel>
+  <OEScorpidLike.corePart.parts.rear_right_leg.customLabel>右后腿</OEScorpidLike.corePart.parts.rear_right_leg.customLabel>
   
   <!-- EN: slime-like -->
-  <OESlimeLike.label>TODO</OESlimeLike.label>
+  <OESlimeLike.label>史莱姆-like</OESlimeLike.label>
   <!-- EN: left eye -->
-  <OESlimeLike.corePart.parts.left_eye.customLabel>TODO</OESlimeLike.corePart.parts.left_eye.customLabel>
+  <OESlimeLike.corePart.parts.left_eye.customLabel>左眼</OESlimeLike.corePart.parts.left_eye.customLabel>
   <!-- EN: right eye -->
-  <OESlimeLike.corePart.parts.right_eye.customLabel>TODO</OESlimeLike.corePart.parts.right_eye.customLabel>
+  <OESlimeLike.corePart.parts.right_eye.customLabel>右眼</OESlimeLike.corePart.parts.right_eye.customLabel>
   
   <!-- EN: tionant-like -->
-  <OETionantLike.label>TODO</OETionantLike.label>
+  <OETionantLike.label>提欧南特-like</OETionantLike.label>
   <!-- EN: big left eye -->
-  <OETionantLike.corePart.parts.Pronotum.parts.InsectHead.parts.big_left_eye.customLabel>TODO</OETionantLike.corePart.parts.Pronotum.parts.InsectHead.parts.big_left_eye.customLabel>
+  <OETionantLike.corePart.parts.Pronotum.parts.InsectHead.parts.big_left_eye.customLabel>左大眼</OETionantLike.corePart.parts.Pronotum.parts.InsectHead.parts.big_left_eye.customLabel>
   <!-- EN: small left eye -->
-  <OETionantLike.corePart.parts.Pronotum.parts.InsectHead.parts.small_left_eye.customLabel>TODO</OETionantLike.corePart.parts.Pronotum.parts.InsectHead.parts.small_left_eye.customLabel>
+  <OETionantLike.corePart.parts.Pronotum.parts.InsectHead.parts.small_left_eye.customLabel>左小眼</OETionantLike.corePart.parts.Pronotum.parts.InsectHead.parts.small_left_eye.customLabel>
   <!-- EN: big right eye -->
-  <OETionantLike.corePart.parts.Pronotum.parts.InsectHead.parts.big_right_eye.customLabel>TODO</OETionantLike.corePart.parts.Pronotum.parts.InsectHead.parts.big_right_eye.customLabel>
+  <OETionantLike.corePart.parts.Pronotum.parts.InsectHead.parts.big_right_eye.customLabel>右大眼</OETionantLike.corePart.parts.Pronotum.parts.InsectHead.parts.big_right_eye.customLabel>
   <!-- EN: small right eye -->
-  <OETionantLike.corePart.parts.Pronotum.parts.InsectHead.parts.small_right_eye.customLabel>TODO</OETionantLike.corePart.parts.Pronotum.parts.InsectHead.parts.small_right_eye.customLabel>
+  <OETionantLike.corePart.parts.Pronotum.parts.InsectHead.parts.small_right_eye.customLabel>右小眼</OETionantLike.corePart.parts.Pronotum.parts.InsectHead.parts.small_right_eye.customLabel>
   <!-- EN: left antenna -->
-  <OETionantLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>TODO</OETionantLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+  <OETionantLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>左触角</OETionantLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
   <!-- EN: right antenna -->
-  <OETionantLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>TODO</OETionantLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+  <OETionantLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>右触角</OETionantLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
   <!-- EN: left insect claw -->
-  <OETionantLike.corePart.parts.Pronotum.parts.left_insect_claw.customLabel>TODO</OETionantLike.corePart.parts.Pronotum.parts.left_insect_claw.customLabel>
+  <OETionantLike.corePart.parts.Pronotum.parts.left_insect_claw.customLabel>左昆虫爪</OETionantLike.corePart.parts.Pronotum.parts.left_insect_claw.customLabel>
   <!-- EN: right insect claw -->
-  <OETionantLike.corePart.parts.Pronotum.parts.right_insect_claw.customLabel>TODO</OETionantLike.corePart.parts.Pronotum.parts.right_insect_claw.customLabel>
+  <OETionantLike.corePart.parts.Pronotum.parts.right_insect_claw.customLabel>右昆虫爪</OETionantLike.corePart.parts.Pronotum.parts.right_insect_claw.customLabel>
   <!-- EN: front left leg -->
-  <OETionantLike.corePart.parts.Pronotum.parts.front_left_leg.customLabel>TODO</OETionantLike.corePart.parts.Pronotum.parts.front_left_leg.customLabel>
+  <OETionantLike.corePart.parts.Pronotum.parts.front_left_leg.customLabel>左前腿</OETionantLike.corePart.parts.Pronotum.parts.front_left_leg.customLabel>
   <!-- EN: front right leg -->
-  <OETionantLike.corePart.parts.Pronotum.parts.front_right_leg.customLabel>TODO</OETionantLike.corePart.parts.Pronotum.parts.front_right_leg.customLabel>
+  <OETionantLike.corePart.parts.Pronotum.parts.front_right_leg.customLabel>右前腿</OETionantLike.corePart.parts.Pronotum.parts.front_right_leg.customLabel>
   <!-- EN: rear left leg -->
-  <OETionantLike.corePart.parts.Pronotum.parts.rear_left_leg.customLabel>TODO</OETionantLike.corePart.parts.Pronotum.parts.rear_left_leg.customLabel>
+  <OETionantLike.corePart.parts.Pronotum.parts.rear_left_leg.customLabel>左后腿</OETionantLike.corePart.parts.Pronotum.parts.rear_left_leg.customLabel>
   <!-- EN: rear right leg -->
-  <OETionantLike.corePart.parts.Pronotum.parts.rear_right_leg.customLabel>TODO</OETionantLike.corePart.parts.Pronotum.parts.rear_right_leg.customLabel>
+  <OETionantLike.corePart.parts.Pronotum.parts.rear_right_leg.customLabel>右后腿</OETionantLike.corePart.parts.Pronotum.parts.rear_right_leg.customLabel>
   
 </LanguageData>

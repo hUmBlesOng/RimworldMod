@@ -1,54 +1,54 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: joltixin addiction -->
-  <OE_JoltixinAddiction.label>TODO</OE_JoltixinAddiction.label>
+  <OE_JoltixinAddiction.label>电流素成瘾</OE_JoltixinAddiction.label>
   <!-- EN: Because of an joltixin addiction, this person needs to regularly consume joltixin to avoid withdrawal symptoms. -->
-  <OE_JoltixinAddiction.description>TODO</OE_JoltixinAddiction.description>
+  <OE_JoltixinAddiction.description>由于电流素成瘾，此人需要定期摄入电流素以避免戒断症状。</OE_JoltixinAddiction.description>
   <!-- EN: withdrawal -->
-  <OE_JoltixinAddiction.stages.withdrawal.label>TODO</OE_JoltixinAddiction.stages.withdrawal.label>
+  <OE_JoltixinAddiction.stages.withdrawal.label>戒断</OE_JoltixinAddiction.stages.withdrawal.label>
   
   <!-- EN: joltixin side effect -->
-  <OE_JoltixinAftereffect.label>TODO</OE_JoltixinAftereffect.label>
+  <OE_JoltixinAftereffect.label>电流素副作用</OE_JoltixinAftereffect.label>
   <!-- EN: Joltixin side effect. Affect about 12 hours. -->
-  <OE_JoltixinAftereffect.description>TODO</OE_JoltixinAftereffect.description>
+  <OE_JoltixinAftereffect.description>电流素副作用。影响约12小时。</OE_JoltixinAftereffect.description>
   
   <!-- EN: joltixin boosted -->
-  <OE_JoltixinHigh.label>TODO</OE_JoltixinHigh.label>
+  <OE_JoltixinHigh.label>电流素增强</OE_JoltixinHigh.label>
   <!-- EN: Joltixin in the bloodstream. Boosts ranged combat stats. Effect weakens over time. -->
-  <OE_JoltixinHigh.description>TODO</OE_JoltixinHigh.description>
+  <OE_JoltixinHigh.description>血液中的电流素。提升远程战斗属性。效果随时间减弱。</OE_JoltixinHigh.description>
   <!-- EN: side effect kicking in -->
-  <OE_JoltixinHigh.stages.side_effect_kicking_in.label>TODO</OE_JoltixinHigh.stages.side_effect_kicking_in.label>
+  <OE_JoltixinHigh.stages.side_effect_kicking_in.label>副作用开始发作</OE_JoltixinHigh.stages.side_effect_kicking_in.label>
   <!-- EN: first stage -->
-  <OE_JoltixinHigh.stages.first_stage.label>TODO</OE_JoltixinHigh.stages.first_stage.label>
+  <OE_JoltixinHigh.stages.first_stage.label>第一阶段</OE_JoltixinHigh.stages.first_stage.label>
   <!-- EN: second stage -->
-  <OE_JoltixinHigh.stages.second_stage.label>TODO</OE_JoltixinHigh.stages.second_stage.label>
+  <OE_JoltixinHigh.stages.second_stage.label>第二阶段</OE_JoltixinHigh.stages.second_stage.label>
   <!-- EN: third stage -->
-  <OE_JoltixinHigh.stages.third_stage.label>TODO</OE_JoltixinHigh.stages.third_stage.label>
+  <OE_JoltixinHigh.stages.third_stage.label>第三阶段</OE_JoltixinHigh.stages.third_stage.label>
   
   <!-- EN: torraxin addiction -->
-  <OE_TorraxinAddiction.label>TODO</OE_TorraxinAddiction.label>
+  <OE_TorraxinAddiction.label>托拉素成瘾</OE_TorraxinAddiction.label>
   <!-- EN: Because of an torraxin addiction, this person needs to regularly consume torraxin to avoid withdrawal symptoms. -->
-  <OE_TorraxinAddiction.description>TODO</OE_TorraxinAddiction.description>
+  <OE_TorraxinAddiction.description>由于托拉素成瘾，此人需要定期摄入托拉素以避免戒断症状。</OE_TorraxinAddiction.description>
   <!-- EN: withdrawal -->
-  <OE_TorraxinAddiction.stages.withdrawal.label>TODO</OE_TorraxinAddiction.stages.withdrawal.label>
+  <OE_TorraxinAddiction.stages.withdrawal.label>戒断</OE_TorraxinAddiction.stages.withdrawal.label>
   
   <!-- EN: torraxin side effect -->
-  <OE_TorraxinAftereffect.label>TODO</OE_TorraxinAftereffect.label>
+  <OE_TorraxinAftereffect.label>托拉素副作用</OE_TorraxinAftereffect.label>
   <!-- EN: Torraxin side effect. Affect about 12 hours. -->
-  <OE_TorraxinAftereffect.description>TODO</OE_TorraxinAftereffect.description>
+  <OE_TorraxinAftereffect.description>托拉素副作用。影响约12小时。</OE_TorraxinAftereffect.description>
   
   <!-- EN: torraxin boosted -->
-  <OE_TorraxinHigh.label>TODO</OE_TorraxinHigh.label>
+  <OE_TorraxinHigh.label>托拉素增强</OE_TorraxinHigh.label>
   <!-- EN: Torraxin in the bloodstream. Boosts melee combat stats. Effect weakens over time. -->
-  <OE_TorraxinHigh.description>TODO</OE_TorraxinHigh.description>
+  <OE_TorraxinHigh.description>血液中的托拉素。提升近战战斗属性。效果随时间减弱。</OE_TorraxinHigh.description>
   <!-- EN: side effect kicking in -->
-  <OE_TorraxinHigh.stages.side_effect_kicking_in.label>TODO</OE_TorraxinHigh.stages.side_effect_kicking_in.label>
+  <OE_TorraxinHigh.stages.side_effect_kicking_in.label>副作用开始发作</OE_TorraxinHigh.stages.side_effect_kicking_in.label>
   <!-- EN: first stage -->
-  <OE_TorraxinHigh.stages.first_stage.label>TODO</OE_TorraxinHigh.stages.first_stage.label>
+  <OE_TorraxinHigh.stages.first_stage.label>第一阶段</OE_TorraxinHigh.stages.first_stage.label>
   <!-- EN: second stage -->
-  <OE_TorraxinHigh.stages.second_stage.label>TODO</OE_TorraxinHigh.stages.second_stage.label>
+  <OE_TorraxinHigh.stages.second_stage.label>第二阶段</OE_TorraxinHigh.stages.second_stage.label>
   <!-- EN: third stage -->
-  <OE_TorraxinHigh.stages.third_stage.label>TODO</OE_TorraxinHigh.stages.third_stage.label>
+  <OE_TorraxinHigh.stages.third_stage.label>第三阶段</OE_TorraxinHigh.stages.third_stage.label>
   
 </LanguageData>

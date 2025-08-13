@@ -1,81 +1,81 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: cyberware - Melee -->
-  <OE_CyberwareHead_Melee.label>TODO</OE_CyberwareHead_Melee.label>
+  <OE_CyberwareHead_Melee.label>赛博义体 - 近战</OE_CyberwareHead_Melee.label>
   <!-- EN: An installed cyberware - Melee.\n\nThis cyberware can be installed up to 3 times to increase its effect. -->
-  <OE_CyberwareHead_Melee.description>TODO</OE_CyberwareHead_Melee.description>
+  <OE_CyberwareHead_Melee.description>已安装的赛博义体 - 近战。\n\n此赛博义体最多可安装3次以增强效果。</OE_CyberwareHead_Melee.description>
   <!-- EN: a cyberware - Melee -->
-  <OE_CyberwareHead_Melee.labelNoun>TODO</OE_CyberwareHead_Melee.labelNoun>
+  <OE_CyberwareHead_Melee.labelNoun>一个赛博义体 - 近战</OE_CyberwareHead_Melee.labelNoun>
   
   <!-- EN: cyberware - Optimist -->
-  <OE_CyberwareHead_Optimist.label>TODO</OE_CyberwareHead_Optimist.label>
+  <OE_CyberwareHead_Optimist.label>赛博义体 - 乐观主义</OE_CyberwareHead_Optimist.label>
   <!-- EN: An installed cyberware - Optimist.\n\nThis cyberware can be installed up to 3 times to increase its effect. -->
-  <OE_CyberwareHead_Optimist.description>TODO</OE_CyberwareHead_Optimist.description>
+  <OE_CyberwareHead_Optimist.description>已安装的赛博义体 - 乐观主义。\n\n此赛博义体最多可安装3次以增强效果。</OE_CyberwareHead_Optimist.description>
   <!-- EN: a cyberware - Optimist -->
-  <OE_CyberwareHead_Optimist.labelNoun>TODO</OE_CyberwareHead_Optimist.labelNoun>
+  <OE_CyberwareHead_Optimist.labelNoun>一个赛博义体 - 乐观主义</OE_CyberwareHead_Optimist.labelNoun>
   
   <!-- EN: cyberware - Pessimist -->
-  <OE_CyberwareHead_Pessimist.label>TODO</OE_CyberwareHead_Pessimist.label>
+  <OE_CyberwareHead_Pessimist.label>赛博义体 - 悲观主义</OE_CyberwareHead_Pessimist.label>
   <!-- EN: An installed cyberware - Pessimist.\n\nThis cyberware can be installed up to 3 times to increase its effect. -->
-  <OE_CyberwareHead_Pessimist.description>TODO</OE_CyberwareHead_Pessimist.description>
+  <OE_CyberwareHead_Pessimist.description>已安装的赛博义体 - 悲观主义。\n\n此赛博义体最多可安装3次以增强效果。</OE_CyberwareHead_Pessimist.description>
   <!-- EN: a cyberware - Pessimist -->
-  <OE_CyberwareHead_Pessimist.labelNoun>TODO</OE_CyberwareHead_Pessimist.labelNoun>
+  <OE_CyberwareHead_Pessimist.labelNoun>一个赛博义体 - 悲观主义</OE_CyberwareHead_Pessimist.labelNoun>
   
   <!-- EN: cyberware - Ranger -->
-  <OE_CyberwareHead_Ranged.label>TODO</OE_CyberwareHead_Ranged.label>
+  <OE_CyberwareHead_Ranged.label>赛博义体 - 游侠</OE_CyberwareHead_Ranged.label>
   <!-- EN: An installed cyberware - Ranger.\n\nThis cyberware can be installed up to 3 times to increase its effect. -->
-  <OE_CyberwareHead_Ranged.description>TODO</OE_CyberwareHead_Ranged.description>
+  <OE_CyberwareHead_Ranged.description>已安装的赛博义体 - 游侠。\n\n此赛博义体最多可安装3次以增强效果。</OE_CyberwareHead_Ranged.description>
   <!-- EN: a cyberware - Ranger -->
-  <OE_CyberwareHead_Ranged.labelNoun>TODO</OE_CyberwareHead_Ranged.labelNoun>
+  <OE_CyberwareHead_Ranged.labelNoun>一个赛博义体 - 游侠</OE_CyberwareHead_Ranged.labelNoun>
   
   <!-- EN: cyberware - Relaxing -->
-  <OE_CyberwareHead_Relaxing.label>TODO</OE_CyberwareHead_Relaxing.label>
+  <OE_CyberwareHead_Relaxing.label>赛博义体 - 放松</OE_CyberwareHead_Relaxing.label>
   <!-- EN: An installed cyberware - Relaxing.\n\nThis cyberware can be installed up to 3 times to increase its effect. -->
-  <OE_CyberwareHead_Relaxing.description>TODO</OE_CyberwareHead_Relaxing.description>
+  <OE_CyberwareHead_Relaxing.description>已安装的赛博义体 - 放松。\n\n此赛博义体最多可安装3次以增强效果。</OE_CyberwareHead_Relaxing.description>
   <!-- EN: a cyberware - Relaxing -->
-  <OE_CyberwareHead_Relaxing.labelNoun>TODO</OE_CyberwareHead_Relaxing.labelNoun>
+  <OE_CyberwareHead_Relaxing.labelNoun>一个赛博义体 - 放松</OE_CyberwareHead_Relaxing.labelNoun>
   
   <!-- EN: cyberware - Workout -->
-  <OE_CyberwareHead_Workout.label>TODO</OE_CyberwareHead_Workout.label>
+  <OE_CyberwareHead_Workout.label>赛博义体 - 锻炼</OE_CyberwareHead_Workout.label>
   <!-- EN: An installed cyberware - Workout.\n\nThis cyberware can be installed up to 3 times to increase its effect. -->
-  <OE_CyberwareHead_Workout.description>TODO</OE_CyberwareHead_Workout.description>
+  <OE_CyberwareHead_Workout.description>已安装的赛博义体 - 锻炼。\n\n此赛博义体最多可安装3次以增强效果。</OE_CyberwareHead_Workout.description>
   <!-- EN: a cyberware - Workout -->
-  <OE_CyberwareHead_Workout.labelNoun>TODO</OE_CyberwareHead_Workout.labelNoun>
+  <OE_CyberwareHead_Workout.labelNoun>一个赛博义体 - 锻炼</OE_CyberwareHead_Workout.labelNoun>
   
   <!-- EN: cyberware - Beastmaster -->
-  <OE_CyberwareNeck_Beastmaster.label>TODO</OE_CyberwareNeck_Beastmaster.label>
+  <OE_CyberwareNeck_Beastmaster.label>赛博义体 - 驯兽师</OE_CyberwareNeck_Beastmaster.label>
   <!-- EN: An installed cyberware - Beastmaster.\n\nThis cyberware can be installed up to 5 times to increase its effect. -->
-  <OE_CyberwareNeck_Beastmaster.description>TODO</OE_CyberwareNeck_Beastmaster.description>
+  <OE_CyberwareNeck_Beastmaster.description>已安装的赛博义体 - 驯兽师。\n\n此赛博义体最多可安装5次以增强效果。</OE_CyberwareNeck_Beastmaster.description>
   <!-- EN: a cyberware - Beastmaster -->
-  <OE_CyberwareNeck_Beastmaster.labelNoun>TODO</OE_CyberwareNeck_Beastmaster.labelNoun>
+  <OE_CyberwareNeck_Beastmaster.labelNoun>一个赛博义体 - 驯兽师</OE_CyberwareNeck_Beastmaster.labelNoun>
   
   <!-- EN: cyberware - Obsidian-will -->
-  <OE_CyberwareNeck_ObsidianWill.label>TODO</OE_CyberwareNeck_ObsidianWill.label>
+  <OE_CyberwareNeck_ObsidianWill.label>赛博义体 - 黑曜石意志</OE_CyberwareNeck_ObsidianWill.label>
   <!-- EN: An installed cyberware - Obsidian-will.\n\nThis cyberware can be installed up to 10 times to increase its effect. -->
-  <OE_CyberwareNeck_ObsidianWill.description>TODO</OE_CyberwareNeck_ObsidianWill.description>
+  <OE_CyberwareNeck_ObsidianWill.description>已安装的赛博义体 - 黑曜石意志。\n\n此赛博义体最多可安装10次以增强效果。</OE_CyberwareNeck_ObsidianWill.description>
   <!-- EN: a cyberware - Obsidian-will -->
-  <OE_CyberwareNeck_ObsidianWill.labelNoun>TODO</OE_CyberwareNeck_ObsidianWill.labelNoun>
+  <OE_CyberwareNeck_ObsidianWill.labelNoun>一个赛博义体 - 黑曜石意志</OE_CyberwareNeck_ObsidianWill.labelNoun>
   
   <!-- EN: cyberware - Recruiter -->
-  <OE_CyberwareNeck_Recruiter.label>TODO</OE_CyberwareNeck_Recruiter.label>
+  <OE_CyberwareNeck_Recruiter.label>赛博义体 - 招募者</OE_CyberwareNeck_Recruiter.label>
   <!-- EN: An installed cyberware - Recruiter.\n\nThis cyberware can be installed up to 5 times to increase its effect. -->
-  <OE_CyberwareNeck_Recruiter.description>TODO</OE_CyberwareNeck_Recruiter.description>
+  <OE_CyberwareNeck_Recruiter.description>已安装的赛博义体 - 招募者。\n\n此赛博义体最多可安装5次以增强效果。</OE_CyberwareNeck_Recruiter.description>
   <!-- EN: a cyberware - Recruiter -->
-  <OE_CyberwareNeck_Recruiter.labelNoun>TODO</OE_CyberwareNeck_Recruiter.labelNoun>
+  <OE_CyberwareNeck_Recruiter.labelNoun>一个赛博义体 - 招募者</OE_CyberwareNeck_Recruiter.labelNoun>
   
   <!-- EN: cyberware - Social -->
-  <OE_CyberwareNeck_Social.label>TODO</OE_CyberwareNeck_Social.label>
+  <OE_CyberwareNeck_Social.label>赛博义体 - 社交</OE_CyberwareNeck_Social.label>
   <!-- EN: An installed cyberware - Social.\n\nThis cyberware can be installed up to 5 times to increase its effect. -->
-  <OE_CyberwareNeck_Social.description>TODO</OE_CyberwareNeck_Social.description>
+  <OE_CyberwareNeck_Social.description>已安装的赛博义体 - 社交。\n\n此赛博义体最多可安装5次以增强效果。</OE_CyberwareNeck_Social.description>
   <!-- EN: a cyberware - Social -->
-  <OE_CyberwareNeck_Social.labelNoun>TODO</OE_CyberwareNeck_Social.labelNoun>
+  <OE_CyberwareNeck_Social.labelNoun>一个赛博义体 - 社交</OE_CyberwareNeck_Social.labelNoun>
   
   <!-- EN: cyberware - Trader -->
-  <OE_CyberwareNeck_Trader.label>TODO</OE_CyberwareNeck_Trader.label>
+  <OE_CyberwareNeck_Trader.label>赛博义体 - 商人</OE_CyberwareNeck_Trader.label>
   <!-- EN: An installed cyberware - Trader.\n\nThis cyberware can be installed up to 5 times to increase its effect. -->
-  <OE_CyberwareNeck_Trader.description>TODO</OE_CyberwareNeck_Trader.description>
+  <OE_CyberwareNeck_Trader.description>已安装的赛博义体 - 商人。\n\n此赛博义体最多可安装5次以增强效果。</OE_CyberwareNeck_Trader.description>
   <!-- EN: a cyberware - Trader -->
-  <OE_CyberwareNeck_Trader.labelNoun>TODO</OE_CyberwareNeck_Trader.labelNoun>
+  <OE_CyberwareNeck_Trader.labelNoun>一个赛博义体 - 商人</OE_CyberwareNeck_Trader.labelNoun>
   
 </LanguageData>

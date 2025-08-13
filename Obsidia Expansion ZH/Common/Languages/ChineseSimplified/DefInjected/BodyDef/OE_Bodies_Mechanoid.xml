@@ -1,82 +1,82 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: dominator -->
-  <OEDominator.label>TODO</OEDominator.label>
+  <OEDominator.label>支配者</OEDominator.label>
   <!-- EN: left sight sensor -->
-  <OEDominator.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.left_sight_sensor.customLabel>TODO</OEDominator.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.left_sight_sensor.customLabel>
+  <OEDominator.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.left_sight_sensor.customLabel>左视觉传感器</OEDominator.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.left_sight_sensor.customLabel>
   <!-- EN: right sight sensor -->
-  <OEDominator.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.right_sight_sensor.customLabel>TODO</OEDominator.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.right_sight_sensor.customLabel>
+  <OEDominator.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.right_sight_sensor.customLabel>右视觉传感器</OEDominator.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.right_sight_sensor.customLabel>
   <!-- EN: left hearing sensor -->
-  <OEDominator.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.left_hearing_sensor.customLabel>TODO</OEDominator.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.left_hearing_sensor.customLabel>
+  <OEDominator.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.left_hearing_sensor.customLabel>左听觉传感器</OEDominator.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.left_hearing_sensor.customLabel>
   <!-- EN: right hearing sensor -->
-  <OEDominator.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.right_hearing_sensor.customLabel>TODO</OEDominator.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.right_hearing_sensor.customLabel>
+  <OEDominator.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.right_hearing_sensor.customLabel>右听觉传感器</OEDominator.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.right_hearing_sensor.customLabel>
   <!-- EN: left mechanical shoulder -->
-  <OEDominator.corePart.parts.left_mechanical_shoulder.customLabel>TODO</OEDominator.corePart.parts.left_mechanical_shoulder.customLabel>
+  <OEDominator.corePart.parts.left_mechanical_shoulder.customLabel>左机械肩</OEDominator.corePart.parts.left_mechanical_shoulder.customLabel>
   <!-- EN: left arm -->
-  <OEDominator.corePart.parts.left_mechanical_shoulder.parts.left_arm.customLabel>TODO</OEDominator.corePart.parts.left_mechanical_shoulder.parts.left_arm.customLabel>
+  <OEDominator.corePart.parts.left_mechanical_shoulder.parts.left_arm.customLabel>左臂</OEDominator.corePart.parts.left_mechanical_shoulder.parts.left_arm.customLabel>
   <!-- EN: left hand -->
-  <OEDominator.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.customLabel>TODO</OEDominator.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <OEDominator.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.customLabel>左手</OEDominator.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.customLabel>
   <!-- EN: left pinky -->
-  <OEDominator.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>TODO</OEDominator.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <OEDominator.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>左小指</OEDominator.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
   <!-- EN: left middle finger -->
-  <OEDominator.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>TODO</OEDominator.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <OEDominator.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>左中指</OEDominator.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
   <!-- EN: left index finger -->
-  <OEDominator.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>TODO</OEDominator.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <OEDominator.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>左食指</OEDominator.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
   <!-- EN: left thumb -->
-  <OEDominator.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>TODO</OEDominator.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <OEDominator.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>左拇指</OEDominator.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
   <!-- EN: right mechanical shoulder -->
-  <OEDominator.corePart.parts.right_mechanical_shoulder.customLabel>TODO</OEDominator.corePart.parts.right_mechanical_shoulder.customLabel>
+  <OEDominator.corePart.parts.right_mechanical_shoulder.customLabel>右机械肩</OEDominator.corePart.parts.right_mechanical_shoulder.customLabel>
   <!-- EN: right arm -->
-  <OEDominator.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>TODO</OEDominator.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>
+  <OEDominator.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>右臂</OEDominator.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>
   <!-- EN: right hand -->
-  <OEDominator.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>TODO</OEDominator.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <OEDominator.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>右手</OEDominator.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>
   <!-- EN: right pinky -->
-  <OEDominator.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>TODO</OEDominator.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <OEDominator.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>右小指</OEDominator.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
   <!-- EN: right middle finger -->
-  <OEDominator.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>TODO</OEDominator.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <OEDominator.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>右中指</OEDominator.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
   <!-- EN: right index finger -->
-  <OEDominator.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>TODO</OEDominator.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <OEDominator.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>右食指</OEDominator.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
   <!-- EN: right thumb -->
-  <OEDominator.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>TODO</OEDominator.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <OEDominator.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>右拇指</OEDominator.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
   <!-- EN: left leg -->
-  <OEDominator.corePart.parts.left_leg.customLabel>TODO</OEDominator.corePart.parts.left_leg.customLabel>
+  <OEDominator.corePart.parts.left_leg.customLabel>左腿</OEDominator.corePart.parts.left_leg.customLabel>
   <!-- EN: left foot -->
-  <OEDominator.corePart.parts.left_leg.parts.left_foot.customLabel>TODO</OEDominator.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <OEDominator.corePart.parts.left_leg.parts.left_foot.customLabel>左脚</OEDominator.corePart.parts.left_leg.parts.left_foot.customLabel>
   <!-- EN: right leg -->
-  <OEDominator.corePart.parts.right_leg.customLabel>TODO</OEDominator.corePart.parts.right_leg.customLabel>
+  <OEDominator.corePart.parts.right_leg.customLabel>右腿</OEDominator.corePart.parts.right_leg.customLabel>
   <!-- EN: right foot -->
-  <OEDominator.corePart.parts.right_leg.parts.right_foot.customLabel>TODO</OEDominator.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <OEDominator.corePart.parts.right_leg.parts.right_foot.customLabel>右脚</OEDominator.corePart.parts.right_leg.parts.right_foot.customLabel>
   
   <!-- EN: mechanical arachna -->
-  <OEMechanicalArachna.label>TODO</OEMechanicalArachna.label>
+  <OEMechanicalArachna.label>机械蜘蛛</OEMechanicalArachna.label>
   <!-- EN: left first sight sensor -->
-  <OEMechanicalArachna.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.left_first_sight_sensor.customLabel>TODO</OEMechanicalArachna.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.left_first_sight_sensor.customLabel>
+  <OEMechanicalArachna.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.left_first_sight_sensor.customLabel>左第一视觉传感器</OEMechanicalArachna.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.left_first_sight_sensor.customLabel>
   <!-- EN: left second sight sensor -->
-  <OEMechanicalArachna.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.left_second_sight_sensor.customLabel>TODO</OEMechanicalArachna.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.left_second_sight_sensor.customLabel>
+  <OEMechanicalArachna.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.left_second_sight_sensor.customLabel>左第二视觉传感器</OEMechanicalArachna.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.left_second_sight_sensor.customLabel>
   <!-- EN: right first sight sensor -->
-  <OEMechanicalArachna.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.right_first_sight_sensor.customLabel>TODO</OEMechanicalArachna.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.right_first_sight_sensor.customLabel>
+  <OEMechanicalArachna.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.right_first_sight_sensor.customLabel>右第一视觉传感器</OEMechanicalArachna.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.right_first_sight_sensor.customLabel>
   <!-- EN: right second sight sensor -->
-  <OEMechanicalArachna.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.right_second_sight_sensor.customLabel>TODO</OEMechanicalArachna.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.right_second_sight_sensor.customLabel>
+  <OEMechanicalArachna.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.right_second_sight_sensor.customLabel>右第二视觉传感器</OEMechanicalArachna.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.right_second_sight_sensor.customLabel>
   <!-- EN: left hearing sensor -->
-  <OEMechanicalArachna.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.left_hearing_sensor.customLabel>TODO</OEMechanicalArachna.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.left_hearing_sensor.customLabel>
+  <OEMechanicalArachna.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.left_hearing_sensor.customLabel>左听觉传感器</OEMechanicalArachna.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.left_hearing_sensor.customLabel>
   <!-- EN: right hearing sensor -->
-  <OEMechanicalArachna.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.right_hearing_sensor.customLabel>TODO</OEMechanicalArachna.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.right_hearing_sensor.customLabel>
+  <OEMechanicalArachna.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.right_hearing_sensor.customLabel>右听觉传感器</OEMechanicalArachna.corePart.parts.MechanicalNeck.parts.OEMechanicalHead.parts.right_hearing_sensor.customLabel>
   <!-- EN: left first leg -->
-  <OEMechanicalArachna.corePart.parts.left_first_leg.customLabel>TODO</OEMechanicalArachna.corePart.parts.left_first_leg.customLabel>
+  <OEMechanicalArachna.corePart.parts.left_first_leg.customLabel>左第一腿</OEMechanicalArachna.corePart.parts.left_first_leg.customLabel>
   <!-- EN: left first foot -->
-  <OEMechanicalArachna.corePart.parts.left_first_leg.parts.left_first_foot.customLabel>TODO</OEMechanicalArachna.corePart.parts.left_first_leg.parts.left_first_foot.customLabel>
+  <OEMechanicalArachna.corePart.parts.left_first_leg.parts.left_first_foot.customLabel>左第一脚</OEMechanicalArachna.corePart.parts.left_first_leg.parts.left_first_foot.customLabel>
   <!-- EN: left second leg -->
-  <OEMechanicalArachna.corePart.parts.left_second_leg.customLabel>TODO</OEMechanicalArachna.corePart.parts.left_second_leg.customLabel>
+  <OEMechanicalArachna.corePart.parts.left_second_leg.customLabel>左第二腿</OEMechanicalArachna.corePart.parts.left_second_leg.customLabel>
   <!-- EN: left second foot -->
-  <OEMechanicalArachna.corePart.parts.left_second_leg.parts.left_second_foot.customLabel>TODO</OEMechanicalArachna.corePart.parts.left_second_leg.parts.left_second_foot.customLabel>
+  <OEMechanicalArachna.corePart.parts.left_second_leg.parts.left_second_foot.customLabel>左第二脚</OEMechanicalArachna.corePart.parts.left_second_leg.parts.left_second_foot.customLabel>
   <!-- EN: right first leg -->
-  <OEMechanicalArachna.corePart.parts.right_first_leg.customLabel>TODO</OEMechanicalArachna.corePart.parts.right_first_leg.customLabel>
+  <OEMechanicalArachna.corePart.parts.right_first_leg.customLabel>右第一腿</OEMechanicalArachna.corePart.parts.right_first_leg.customLabel>
   <!-- EN: right first foot -->
-  <OEMechanicalArachna.corePart.parts.right_first_leg.parts.right_first_foot.customLabel>TODO</OEMechanicalArachna.corePart.parts.right_first_leg.parts.right_first_foot.customLabel>
+  <OEMechanicalArachna.corePart.parts.right_first_leg.parts.right_first_foot.customLabel>右第一脚</OEMechanicalArachna.corePart.parts.right_first_leg.parts.right_first_foot.customLabel>
   <!-- EN: right second leg -->
-  <OEMechanicalArachna.corePart.parts.right_second_leg.customLabel>TODO</OEMechanicalArachna.corePart.parts.right_second_leg.customLabel>
+  <OEMechanicalArachna.corePart.parts.right_second_leg.customLabel>右第二腿</OEMechanicalArachna.corePart.parts.right_second_leg.customLabel>
   <!-- EN: right second foot -->
-  <OEMechanicalArachna.corePart.parts.right_second_leg.parts.right_second_foot.customLabel>TODO</OEMechanicalArachna.corePart.parts.right_second_leg.parts.right_second_foot.customLabel>
+  <OEMechanicalArachna.corePart.parts.right_second_leg.parts.right_second_foot.customLabel>右第二脚</OEMechanicalArachna.corePart.parts.right_second_leg.parts.right_second_foot.customLabel>
   
 </LanguageData>

@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: luraxin withdrawal -->
-  <OE_LuraxinWithdrawal.stages.luraxin_withdrawal.label>TODO</OE_LuraxinWithdrawal.stages.luraxin_withdrawal.label>
+  <OE_LuraxinWithdrawal.stages.luraxin_withdrawal.label>卢拉辛戒断</OE_LuraxinWithdrawal.stages.luraxin_withdrawal.label>
   <!-- EN: I feel my weakness. I never thought it was so hard without stimpacks. -->
-  <OE_LuraxinWithdrawal.stages.luraxin_withdrawal.description>TODO</OE_LuraxinWithdrawal.stages.luraxin_withdrawal.description>
+  <OE_LuraxinWithdrawal.stages.luraxin_withdrawal.description>我感到虚弱。我从未想过没有兴奋剂会这么难熬。</OE_LuraxinWithdrawal.stages.luraxin_withdrawal.description>
   
 </LanguageData>

@@ -1,28 +1,28 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: hex tile -->
-  <OE_Floor_Tile_MetalHex.label>TODO</OE_Floor_Tile_MetalHex.label>
+  <OE_Floor_Tile_MetalHex.label>六角地砖</OE_Floor_Tile_MetalHex.label>
   
   <!-- EN: wood planks -->
-  <OE_Floor_Tile_Wood.label>TODO</OE_Floor_Tile_Wood.label>
+  <OE_Floor_Tile_Wood.label>木板</OE_Floor_Tile_Wood.label>
   
   <!-- EN: obsidia ceiling lamps -->
-  <OE_Lighting_Ceiling.label>TODO</OE_Lighting_Ceiling.label>
+  <OE_Lighting_Ceiling.label>黑曜石吸顶灯</OE_Lighting_Ceiling.label>
   
   <!-- EN: obsidia LED lights strip -->
-  <OE_Lighting_Strip.label>TODO</OE_Lighting_Strip.label>
+  <OE_Lighting_Strip.label>黑曜石LED灯带</OE_Lighting_Strip.label>
   
   <!-- EN: big Obsidia turrets -->
-  <OE_Turrets_Big.label>TODO</OE_Turrets_Big.label>
+  <OE_Turrets_Big.label>大型黑曜石炮塔</OE_Turrets_Big.label>
   
   <!-- EN: EGO Obsidia turrets -->
-  <OE_Turrets_EGO.label>TODO</OE_Turrets_EGO.label>
+  <OE_Turrets_EGO.label>EGO黑曜石炮塔</OE_Turrets_EGO.label>
   
   <!-- EN: small Obsidia turrets -->
-  <OE_Turrets_Small.label>TODO</OE_Turrets_Small.label>
+  <OE_Turrets_Small.label>小型黑曜石炮塔</OE_Turrets_Small.label>
   
   <!-- EN: small Obsidia powered turrets -->
-  <OE_Turrets_SmallPowered.label>TODO</OE_Turrets_SmallPowered.label>
+  <OE_Turrets_SmallPowered.label>小型黑曜石动力炮塔</OE_Turrets_SmallPowered.label>
   
 </LanguageData>

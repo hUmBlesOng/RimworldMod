@@ -1,32 +1,32 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef] representative of Obsidia spiritual circles. Dedicated their life to inner harmony, healing, and understanding the unseen. Gifted in speech and medicine. -->
-  <OE_Mindseeker.description>TODO</OE_Mindseeker.description>
+  <OE_Mindseeker.description>[PAWN_nameDef]黑曜石精神圈的代表。致力于内在和谐、治疗和理解无形之物。在演讲和医学方面有天赋。</OE_Mindseeker.description>
   <!-- EN: obsidia mindseeker -->
-  <OE_Mindseeker.title>TODO</OE_Mindseeker.title>
+  <OE_Mindseeker.title>黑曜石心灵探索者</OE_Mindseeker.title>
   <!-- EN: mindseeker -->
-  <OE_Mindseeker.titleShort>TODO</OE_Mindseeker.titleShort>
+  <OE_Mindseeker.titleShort>心灵探索者</OE_Mindseeker.titleShort>
   
   <!-- EN: [PAWN_nameDef] representative of one of the ancient genera of Obsidia. Instead of participating in political clashes for power, chose the path of conquering new lands. Has excellent intellectual abilities and a sense of beauty. -->
-  <OE_Psy.description>TODO</OE_Psy.description>
+  <OE_Psy.description>[PAWN_nameDef]黑曜石古代氏族之一的代表。没有参与争夺权力的政治冲突，而是选择了征服新土地的道路。拥有出色的知识能力和美感。</OE_Psy.description>
   <!-- EN: obsidia psycaster -->
-  <OE_Psy.title>TODO</OE_Psy.title>
+  <OE_Psy.title>黑曜石灵能者</OE_Psy.title>
   <!-- EN: psycaster -->
-  <OE_Psy.titleShort>TODO</OE_Psy.titleShort>
+  <OE_Psy.titleShort>灵能者</OE_Psy.titleShort>
   
   <!-- EN: [PAWN_nameDef] underwent intensive combat and psi-training under the Obsidia Inquisition. Trained to inspire allies and eliminate enemies with righteous fury. Skilled in melee combat and social influence. -->
-  <OE_Soldier_MeleePsy.description>TODO</OE_Soldier_MeleePsy.description>
+  <OE_Soldier_MeleePsy.description>[PAWN_nameDef]在黑曜石宗教裁判所接受了密集的战斗和灵能训练。受训以正义的愤怒激励盟友并消灭敌人。擅长近战和社交影响。</OE_Soldier_MeleePsy.description>
   <!-- EN: obsidia warpriest -->
-  <OE_Soldier_MeleePsy.title>TODO</OE_Soldier_MeleePsy.title>
+  <OE_Soldier_MeleePsy.title>黑曜石战争牧师</OE_Soldier_MeleePsy.title>
   <!-- EN: warpriest -->
-  <OE_Soldier_MeleePsy.titleShort>TODO</OE_Soldier_MeleePsy.titleShort>
+  <OE_Soldier_MeleePsy.titleShort>战争牧师</OE_Soldier_MeleePsy.titleShort>
   
   <!-- EN: [PAWN_nameDef] descendant of Obsidia nobility who chose the path of a psi-warrior. Completed specialized military training focused on precision and tactical superiority. Highly skilled in ranged combat and intellectual pursuits. -->
-  <OE_Soldier_RangedPsy.description>TODO</OE_Soldier_RangedPsy.description>
+  <OE_Soldier_RangedPsy.description>[PAWN_nameDef]黑曜石贵族的后裔，选择了灵能战士的道路。完成了专注于精确性和战术优势的专门军事训练。在远程战斗和知识追求方面技能高超。</OE_Soldier_RangedPsy.description>
   <!-- EN: obsidia reaver -->
-  <OE_Soldier_RangedPsy.title>TODO</OE_Soldier_RangedPsy.title>
+  <OE_Soldier_RangedPsy.title>黑曜石掠夺者</OE_Soldier_RangedPsy.title>
   <!-- EN: reaver -->
-  <OE_Soldier_RangedPsy.titleShort>TODO</OE_Soldier_RangedPsy.titleShort>
+  <OE_Soldier_RangedPsy.titleShort>掠夺者</OE_Soldier_RangedPsy.titleShort>
   
 </LanguageData>

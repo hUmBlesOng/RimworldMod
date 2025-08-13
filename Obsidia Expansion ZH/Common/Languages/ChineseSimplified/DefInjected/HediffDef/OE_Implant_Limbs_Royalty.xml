@@ -1,20 +1,20 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: arm implant - Assassin -->
-  <OE_ImplantArm_Assassin.label>TODO</OE_ImplantArm_Assassin.label>
+  <OE_ImplantArm_Assassin.label>手臂植入物 - 刺客</OE_ImplantArm_Assassin.label>
   <!-- EN: An installed arm implant - Assassin. -->
-  <OE_ImplantArm_Assassin.description>TODO</OE_ImplantArm_Assassin.description>
+  <OE_ImplantArm_Assassin.description>已安装的手臂植入物 - 刺客。</OE_ImplantArm_Assassin.description>
   <!-- EN: knife -->
-  <OE_ImplantArm_Assassin.comps.HediffComp_VerbGiver.tools.knife.label>TODO</OE_ImplantArm_Assassin.comps.HediffComp_VerbGiver.tools.knife.label>
+  <OE_ImplantArm_Assassin.comps.HediffComp_VerbGiver.tools.knife.label>刀</OE_ImplantArm_Assassin.comps.HediffComp_VerbGiver.tools.knife.label>
   <!-- EN: an arm implant - Assassin -->
-  <OE_ImplantArm_Assassin.labelNoun>TODO</OE_ImplantArm_Assassin.labelNoun>
+  <OE_ImplantArm_Assassin.labelNoun>一个手臂植入物 - 刺客</OE_ImplantArm_Assassin.labelNoun>
   
   <!-- EN: hand implant - Psy -->
-  <OE_ImplantHand_Psy.label>TODO</OE_ImplantHand_Psy.label>
+  <OE_ImplantHand_Psy.label>手部植入物 - 心灵</OE_ImplantHand_Psy.label>
   <!-- EN: An installed hand implant - Psy. -->
-  <OE_ImplantHand_Psy.description>TODO</OE_ImplantHand_Psy.description>
+  <OE_ImplantHand_Psy.description>已安装的手部植入物 - 心灵。</OE_ImplantHand_Psy.description>
   <!-- EN: a hand implant - Psy -->
-  <OE_ImplantHand_Psy.labelNoun>TODO</OE_ImplantHand_Psy.labelNoun>
+  <OE_ImplantHand_Psy.labelNoun>一个手部植入物 - 心灵</OE_ImplantHand_Psy.labelNoun>
   
 </LanguageData>

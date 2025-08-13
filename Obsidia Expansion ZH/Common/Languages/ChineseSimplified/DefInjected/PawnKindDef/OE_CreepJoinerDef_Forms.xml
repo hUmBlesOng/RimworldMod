@@ -1,39 +1,39 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: forsaken cultist -->
-  <CAC_ForsakenCultist.label>TODO</CAC_ForsakenCultist.label>
+  <CAC_ForsakenCultist.label>被遗弃的教徒</CAC_ForsakenCultist.label>
   <!-- EN: Non-aggressive Crimson Arachna cultist is approaching your colony. -->
-  <CAC_ForsakenCultist.letterLabel>TODO</CAC_ForsakenCultist.letterLabel>
+  <CAC_ForsakenCultist.letterLabel>非攻击性的猩红蜘蛛教徒正接近你的殖民地。</CAC_ForsakenCultist.letterLabel>
   <!-- EN: {PAWN_nameDef} was a child who born and lived {PAWN_possessive} entire life in the Crimson Arachna Cult. According to {PAWN_nameDef} words {PAWN_pronoun} became disillusioned with their beliefs and ran away from the cult to see the world.\n\nNow {PAWN_pronoun} begs to join your colony. -->
-  <CAC_ForsakenCultist.letterPrompt>TODO</CAC_ForsakenCultist.letterPrompt>
+  <CAC_ForsakenCultist.letterPrompt>{PAWN_nameDef}是一个在猩红蜘蛛教派中出生并度过{PAWN_possessive}一生的孩子。根据{PAWN_nameDef}的话，{PAWN_pronoun}对他们的信仰感到幻灭，逃离了教派去看世界。\n\n现在{PAWN_pronoun}恳求加入你的殖民地。</CAC_ForsakenCultist.letterPrompt>
   
   <!-- EN: escaped subject -->
-  <OCC_EscapedSubject.label>TODO</OCC_EscapedSubject.label>
+  <OCC_EscapedSubject.label>逃脱的实验体</OCC_EscapedSubject.label>
   <!-- EN: Very scared looking Obsidia Empire Knight is approaching your colony. -->
-  <OCC_EscapedSubject.letterLabel>TODO</OCC_EscapedSubject.letterLabel>
+  <OCC_EscapedSubject.letterLabel>看起来非常害怕的黑曜石帝国骑士正接近你的殖民地。</OCC_EscapedSubject.letterLabel>
   <!-- EN: {PAWN_nameDef} becoming a volunteer in experiments to improve the people of the Obsidia Empire, not knowing what horrors were hidden behind these experiments. Couldn't stand it {PAWN_pronoun} decided to run away. Caught the right moment and get into the security arsenal, stealing the OCC equipment and escaping from the research complex. Having escaped from {PAWN_possessive} pursuers, {PAWN_nameDef} came across your settlement.\n\n{PAWN_pronoun} says that {PAWN_pronoun} knows that {PAWN_possessive} skills are needed here and wants to stay for a while. -->
-  <OCC_EscapedSubject.letterPrompt>TODO</OCC_EscapedSubject.letterPrompt>
+  <OCC_EscapedSubject.letterPrompt>{PAWN_nameDef}自愿参加改善黑曜石帝国人民的实验，不知道这些实验背后隐藏着什么恐怖。{PAWN_pronoun}无法忍受，决定逃跑。抓住合适的时机进入安全军械库，偷取OCC装备并从研究综合体逃脱。摆脱{PAWN_possessive}追捕者后，{PAWN_nameDef}偶然发现了你的定居点。\n\n{PAWN_pronoun}说{PAWN_pronoun}知道{PAWN_possessive}技能在这里是需要的，想待一段时间。</OCC_EscapedSubject.letterPrompt>
   
   <!-- EN: lost drifter -->
-  <ODC_LostDrifter.label>TODO</ODC_LostDrifter.label>
+  <ODC_LostDrifter.label>迷失的流浪者</ODC_LostDrifter.label>
   <!-- EN: A hungry drifter is approaching your colony. -->
-  <ODC_LostDrifter.letterLabel>TODO</ODC_LostDrifter.letterLabel>
+  <ODC_LostDrifter.letterLabel>一个饥饿的流浪者正接近你的殖民地。</ODC_LostDrifter.letterLabel>
   <!-- EN: After the raid on {PAWN_possessive} trade caravan {PAWN_nameDef} separated from it. After several weeks of wandering, the hungry {PAWN_nameDef} came across your settlement.\n\n{PAWN_pronoun} asks to stay in your colony for a while - at least until {PAWN_pronoun} has recovered {PAWN_possessive} strength. -->
-  <ODC_LostDrifter.letterPrompt>TODO</ODC_LostDrifter.letterPrompt>
+  <ODC_LostDrifter.letterPrompt>在袭击{PAWN_possessive}贸易商队后，{PAWN_nameDef}与之分离。经过几周的流浪，饥饿的{PAWN_nameDef}偶然发现了你的定居点。\n\n{PAWN_pronoun}请求在你的殖民地待一段时间——至少直到{PAWN_pronoun}恢复{PAWN_possessive}体力。</ODC_LostDrifter.letterPrompt>
   
   <!-- EN: escaped subject -->
-  <OMC_EscapedSubject.label>TODO</OMC_EscapedSubject.label>
+  <OMC_EscapedSubject.label>逃脱的实验体</OMC_EscapedSubject.label>
   <!-- EN: Very scared looking Obsidia Empire Soldier is approaching your colony. -->
-  <OMC_EscapedSubject.letterLabel>TODO</OMC_EscapedSubject.letterLabel>
+  <OMC_EscapedSubject.letterLabel>看起来非常害怕的黑曜石帝国士兵正接近你的殖民地。</OMC_EscapedSubject.letterLabel>
   <!-- EN: {PAWN_nameDef} becoming a volunteer in experiments to improve the people of the Obsidia Empire, not knowing what horrors were hidden behind these experiments. Couldn't stand it {PAWN_pronoun} decided to run away. Caught the right moment and get into the security arsenal, stealing the OMC equipment and escaping from the research complex. Having escaped from {PAWN_possessive} pursuers, {PAWN_nameDef} came across your settlement.\n\n{PAWN_pronoun} says that {PAWN_pronoun} knows that {PAWN_possessive} skills are needed here and wants to stay for a while. -->
-  <OMC_EscapedSubject.letterPrompt>TODO</OMC_EscapedSubject.letterPrompt>
+  <OMC_EscapedSubject.letterPrompt>{PAWN_nameDef}自愿参加改善黑曜石帝国人民的实验，不知道这些实验背后隐藏着什么恐怖。{PAWN_pronoun}无法忍受，决定逃跑。抓住合适的时机进入安全军械库，偷取OMC装备并从研究综合体逃脱。摆脱{PAWN_possessive}追捕者后，{PAWN_nameDef}偶然发现了你的定居点。\n\n{PAWN_pronoun}说{PAWN_pronoun}知道{PAWN_possessive}技能在这里是需要的，想待一段时间。</OMC_EscapedSubject.letterPrompt>
   
   <!-- EN: escaped subject -->
-  <OTC_EscapedSubject.label>TODO</OTC_EscapedSubject.label>
+  <OTC_EscapedSubject.label>逃脱的实验体</OTC_EscapedSubject.label>
   <!-- EN: Very scared looking Obsidia Empire Mechanic is approaching your colony. -->
-  <OTC_EscapedSubject.letterLabel>TODO</OTC_EscapedSubject.letterLabel>
+  <OTC_EscapedSubject.letterLabel>看起来非常害怕的黑曜石帝国机械师正接近你的殖民地。</OTC_EscapedSubject.letterLabel>
   <!-- EN: {PAWN_nameDef} becoming a volunteer in experiments to improve the people of the Obsidia Empire, not knowing what horrors were hidden behind these experiments. Couldn't stand it {PAWN_pronoun} decided to run away. Caught the right moment and get into the security arsenal, stealing the OTC equipment and escaping from the research complex. Having escaped from {PAWN_possessive} pursuers, {PAWN_nameDef} came across your settlement.\n\n{PAWN_pronoun} says that {PAWN_pronoun} knows that {PAWN_possessive} skills are needed here and wants to stay for a while. -->
-  <OTC_EscapedSubject.letterPrompt>TODO</OTC_EscapedSubject.letterPrompt>
+  <OTC_EscapedSubject.letterPrompt>{PAWN_nameDef}自愿参加改善黑曜石帝国人民的实验，不知道这些实验背后隐藏着什么恐怖。{PAWN_pronoun}无法忍受，决定逃跑。抓住合适的时机进入安全军械库，偷取OTC装备并从研究综合体逃脱。摆脱{PAWN_possessive}追捕者后，{PAWN_nameDef}偶然发现了你的定居点。\n\n{PAWN_pronoun}说{PAWN_pronoun}知道{PAWN_possessive}技能在这里是需要的，想待一段时间。</OTC_EscapedSubject.letterPrompt>
   
 </LanguageData>

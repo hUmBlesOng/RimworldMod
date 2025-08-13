@@ -1,19 +1,19 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Obsidia Empire Sins -->
-  <ObsidiaEmpireSins.label>TODO</ObsidiaEmpireSins.label>
+  <ObsidiaEmpireSins.label>黑曜石帝国罪恶</ObsidiaEmpireSins.label>
   <!-- EN: This group of the chosen ones, they saved, protected and inspired the entire Empire, they were a true sword and an unshakable shield for everyone - Obsidia Empire Heroes... But they were called so before, now they are forgotten, rejected and abandoned by their own Empire and the people for whom they did everything - Eidolons... They no longer bathe in the rays of their own glory, but having gained hatred they have found a new goal - themselves. -->
-  <ObsidiaEmpireSins.description>TODO</ObsidiaEmpireSins.description>
+  <ObsidiaEmpireSins.description>这群被选中者，他们拯救、保护并激励了整个帝国，他们是每个人真正的利剑和不可动摇的盾牌——黑曜石帝国英雄...但他们以前被称为这个，现在他们被自己的帝国和他们为之付出一切的人们遗忘、拒绝和抛弃——幻影...他们不再沐浴在自己荣耀的光芒中，但获得了仇恨后，他们找到了新目标——他们自己。</ObsidiaEmpireSins.description>
   <!-- EN: Obsidia Empire Eidolons -->
-  <ObsidiaEmpireSins.fixedName>TODO</ObsidiaEmpireSins.fixedName>
+  <ObsidiaEmpireSins.fixedName>黑曜石帝国幻影</ObsidiaEmpireSins.fixedName>
   <!-- EN: archsin -->
-  <ObsidiaEmpireSins.leaderTitle>TODO</ObsidiaEmpireSins.leaderTitle>
+  <ObsidiaEmpireSins.leaderTitle>大罪</ObsidiaEmpireSins.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <ObsidiaEmpireSins.messageDefendersAttacking>TODO</ObsidiaEmpireSins.messageDefendersAttacking>
+  <ObsidiaEmpireSins.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</ObsidiaEmpireSins.messageDefendersAttacking>
   <!-- EN: eidolon -->
-  <ObsidiaEmpireSins.pawnSingular>TODO</ObsidiaEmpireSins.pawnSingular>
+  <ObsidiaEmpireSins.pawnSingular>幻影</ObsidiaEmpireSins.pawnSingular>
   <!-- EN: eidolons -->
-  <ObsidiaEmpireSins.pawnsPlural>TODO</ObsidiaEmpireSins.pawnsPlural>
+  <ObsidiaEmpireSins.pawnsPlural>幻影</ObsidiaEmpireSins.pawnsPlural>
   
 </LanguageData>

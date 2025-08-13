@@ -1,29 +1,29 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: blast -->
-  <OCCBlast.label>TODO</OCCBlast.label>
+  <OCCBlast.label>爆炸</OCCBlast.label>
   <!-- EN: {0} has been blasted to death. -->
-  <OCCBlast.deathMessage>TODO</OCCBlast.deathMessage>
+  <OCCBlast.deathMessage>{0}被炸死了。</OCCBlast.deathMessage>
   
   <!-- EN: unstable toxins -->
-  <OEUnstableToxins.label>TODO</OEUnstableToxins.label>
+  <OEUnstableToxins.label>不稳定毒素</OEUnstableToxins.label>
   <!-- EN: {0} has overdosed on unstable toxins. -->
-  <OEUnstableToxins.deathMessage>TODO</OEUnstableToxins.deathMessage>
+  <OEUnstableToxins.deathMessage>{0}因不稳定毒素过量而死亡。</OEUnstableToxins.deathMessage>
   
   <!-- EN: necrobane -->
-  <OMGNecrobane.label>TODO</OMGNecrobane.label>
+  <OMGNecrobane.label>死灵bane</OMGNecrobane.label>
   <!-- EN: {0} has fallen to necrobane... yet walks again. -->
-  <OMGNecrobane.deathMessage>TODO</OMGNecrobane.deathMessage>
+  <OMGNecrobane.deathMessage>{0}死于死灵bane...却又重新行走。</OMGNecrobane.deathMessage>
   
   <!-- EN: acid -->
-  <OTCAcid.label>TODO</OTCAcid.label>
+  <OTCAcid.label>酸液</OTCAcid.label>
   <!-- EN: {0} has dissolved in acid burns. -->
-  <OTCAcid.deathMessage>TODO</OTCAcid.deathMessage>
+  <OTCAcid.deathMessage>{0}被酸液烧蚀溶解了。</OTCAcid.deathMessage>
   
   <!-- EN: cryo -->
-  <OTCCryo.label>TODO</OTCCryo.label>
+  <OTCCryo.label>冷冻</OTCCryo.label>
   <!-- EN: {0} has succumbed to frostbite. -->
-  <OTCCryo.deathMessage>TODO</OTCCryo.deathMessage>
+  <OTCCryo.deathMessage>{0}因冻伤而死亡。</OTCCryo.deathMessage>
   
 </LanguageData>

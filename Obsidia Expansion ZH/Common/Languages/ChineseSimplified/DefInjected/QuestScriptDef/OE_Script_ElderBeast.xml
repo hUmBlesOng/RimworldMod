@@ -1,11 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription->Colonists reported hearing something strange nearby — a deep, animalistic sound echoing through the land.\n\nThey couldn’t identify what creature made it, but it sounded large.\n\nVery large.Something is out there... and it might be coming this way.</li>
-    <li>questDescription->It began with a sound — low, primal, and impossibly distant. It echoed across the trees, through rock and bone, as if the land itself remembered the beast.\n\nAnimals have fled. The air is colder. Even the wind seems to avoid the forest now.\n\nSomething ancient is stirring — watching, listening, drawing closer. You don’t know what it is… only that it was never meant to return.</li>
+    <li>questDescription->Colonists reported hearing something strange nearby — a deep, animalistic sound echoing through the land.\n\nThey couldn't identify what creature made it, but it sounded large.\n\nVery large.Something is out there... and it might be coming this way.</li>
+    <li>questDescription->It began with a sound — low, primal, and impossibly distant. It echoed across the trees, through rock and bone, as if the land itself remembered the beast.\n\nAnimals have fled. The air is colder. Even the wind seems to avoid the forest now.\n\nSomething ancient is stirring — watching, listening, drawing closer. You don't know what it is… only that it was never meant to return.</li>
   -->
-  <OE_Quest_ElderBeast.questDescriptionRules.rulesStrings>TODO</OE_Quest_ElderBeast.questDescriptionRules.rulesStrings>
+  <OE_Quest_ElderBeast.questDescriptionRules.rulesStrings>
+    <li>questDescription->殖民者报告在附近听到了奇怪的声音——一种深沉的、野兽般的声音在大地上回响。\n\n他们无法辨认出是哪种生物发出的，但听起来很大。\n\n非常大。有什么东西在那里……而且可能正朝这边来。</li>
+    <li>questDescription->一切始于一个声音——低沉、原始，且遥不可及。它在树木间回响，穿越岩石和骨骼，仿佛大地本身还记得那头野兽。\n\n动物们已经逃散。空气更加寒冷。甚至连风似乎也在避开森林。\n\n某种古老的东西正在苏醒——在观察，在倾听，在靠近。你不知道那是什么……只知道它本不应该回来。</li>
+  </OE_Quest_ElderBeast.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[beastAdjective] [beastNoun]</li>
     <li>beastAdjective->Bone-chilling</li>
@@ -16,22 +19,31 @@
     <li>beastNoun->Howl</li>
     <li>beastNoun->Roar</li>
   -->
-  <OE_Quest_ElderBeast.questNameRules.rulesStrings>TODO</OE_Quest_ElderBeast.questNameRules.rulesStrings>
+  <OE_Quest_ElderBeast.questNameRules.rulesStrings>
+    <li>questName->[beastAdjective][beastNoun]</li>
+    <li>beastAdjective->刺骨的</li>
+    <li>beastAdjective->回响的</li>
+    <li>beastAdjective->遥远的</li>
+    <li>beastAdjective->低沉的</li>
+    <li>beastAdjective->古老的</li>
+    <li>beastNoun->嚎叫</li>
+    <li>beastNoun->咆哮</li>
+  </OE_Quest_ElderBeast.questNameRules.rulesStrings>
   <!-- EN: Elder Beast Approaching -->
-  <OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-0.nodes.PawnsArrive.customLetterLabel.slateRef>TODO</OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-0.nodes.PawnsArrive.customLetterLabel.slateRef>
+  <OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-0.nodes.PawnsArrive.customLetterLabel.slateRef>古老野兽接近中</OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-0.nodes.PawnsArrive.customLetterLabel.slateRef>
   <!-- EN: [elderbeast_label] is approaching the colony — it appears extremely dangerous, but not aggressive… for now. You must decide how to respond:\n\n-leave it alone;\n-attempt to tame it;\n-hunt it for rare and valuable trophies. -->
-  <OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-0.nodes.PawnsArrive.customLetterText.slateRef>TODO</OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-0.nodes.PawnsArrive.customLetterText.slateRef>
+  <OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-0.nodes.PawnsArrive.customLetterText.slateRef>[elderbeast_label]正在接近殖民地——它看起来极其危险，但暂时不具攻击性。你必须决定如何应对：\n\n-置之不理；\n-尝试驯服它；\n-猎杀它以获得稀有而珍贵的战利品。</OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-0.nodes.PawnsArrive.customLetterText.slateRef>
   <!-- EN: Elder Beast Approaching -->
-  <OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-1.nodes.PawnsArrive.customLetterLabel.slateRef>TODO</OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-1.nodes.PawnsArrive.customLetterLabel.slateRef>
+  <OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-1.nodes.PawnsArrive.customLetterLabel.slateRef>古老野兽接近中</OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-1.nodes.PawnsArrive.customLetterLabel.slateRef>
   <!-- EN: [elderbeast_label] is approaching the colony — it appears extremely dangerous, but not aggressive… for now. You must decide how to respond:\n\n-leave it alone;\n-attempt to tame it;\n-hunt it for rare and valuable trophies. -->
-  <OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-1.nodes.PawnsArrive.customLetterText.slateRef>TODO</OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-1.nodes.PawnsArrive.customLetterText.slateRef>
+  <OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-1.nodes.PawnsArrive.customLetterText.slateRef>[elderbeast_label]正在接近殖民地——它看起来极其危险，但暂时不具攻击性。你必须决定如何应对：\n\n-置之不理；\n-尝试驯服它；\n-猎杀它以获得稀有而珍贵的战利品。</OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-1.nodes.PawnsArrive.customLetterText.slateRef>
   <!-- EN: Elder Beast Approaching -->
-  <OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-2.nodes.PawnsArrive.customLetterLabel.slateRef>TODO</OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-2.nodes.PawnsArrive.customLetterLabel.slateRef>
+  <OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-2.nodes.PawnsArrive.customLetterLabel.slateRef>古老野兽接近中</OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-2.nodes.PawnsArrive.customLetterLabel.slateRef>
   <!-- EN: [elderbeast_label] is approaching the colony — it appears extremely dangerous, but not aggressive… for now. You must decide how to respond:\n\n-leave it alone;\n-attempt to tame it;\n-hunt it for rare and valuable trophies. -->
-  <OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-2.nodes.PawnsArrive.customLetterText.slateRef>TODO</OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-2.nodes.PawnsArrive.customLetterText.slateRef>
+  <OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-2.nodes.PawnsArrive.customLetterText.slateRef>[elderbeast_label]正在接近殖民地——它看起来极其危险，但暂时不具攻击性。你必须决定如何应对：\n\n-置之不理；\n-尝试驯服它；\n-猎杀它以获得稀有而珍贵的战利品。</OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-2.nodes.PawnsArrive.customLetterText.slateRef>
   <!-- EN: Elder Beast Approaching -->
-  <OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-3.nodes.PawnsArrive.customLetterLabel.slateRef>TODO</OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-3.nodes.PawnsArrive.customLetterLabel.slateRef>
+  <OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-3.nodes.PawnsArrive.customLetterLabel.slateRef>古老野兽接近中</OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-3.nodes.PawnsArrive.customLetterLabel.slateRef>
   <!-- EN: [elderbeast_label] is approaching the colony — it appears extremely dangerous, but not aggressive… for now. You must decide how to respond:\n\n-leave it alone;\n-attempt to tame it;\n-hunt it for rare and valuable trophies. -->
-  <OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-3.nodes.PawnsArrive.customLetterText.slateRef>TODO</OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-3.nodes.PawnsArrive.customLetterText.slateRef>
+  <OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-3.nodes.PawnsArrive.customLetterText.slateRef>[elderbeast_label]正在接近殖民地——它看起来极其危险，但暂时不具攻击性。你必须决定如何应对：\n\n-置之不理；\n-尝试驯服它；\n-猎杀它以获得稀有而珍贵的战利品。</OE_Quest_ElderBeast.root.nodes.Delay-0.node.nodes.RandomNode.nodes.Sequence-3.nodes.PawnsArrive.customLetterText.slateRef>
   
 </LanguageData>

@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: limb -->
-  <OE_ReturnedLimb.label>TODO</OE_ReturnedLimb.label>
+  <OE_ReturnedLimb.label>肢体</OE_ReturnedLimb.label>
   
   <!-- EN: thorax -->
-  <OEThoraxLarge.label>TODO</OEThoraxLarge.label>
+  <OEThoraxLarge.label>胸部</OEThoraxLarge.label>
   
 </LanguageData>

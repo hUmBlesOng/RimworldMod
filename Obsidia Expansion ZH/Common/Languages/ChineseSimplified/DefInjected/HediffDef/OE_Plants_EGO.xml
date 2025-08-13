@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: gas addiction -->
-  <OE_GasAddiction.label>TODO</OE_GasAddiction.label>
+  <OE_GasAddiction.label>气体成瘾</OE_GasAddiction.label>
   <!-- EN: A chemical addiction to gases. -->
-  <OE_GasAddiction.description>TODO</OE_GasAddiction.description>
+  <OE_GasAddiction.description>对气体的化学成瘾。</OE_GasAddiction.description>
   
 </LanguageData>

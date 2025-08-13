@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: mutation - Automancer -->
-  <EGO_Mutation_Mechanitor.label>TODO</EGO_Mutation_Mechanitor.label>
+  <EGO_Mutation_Mechanitor.label>突变 - 自动法师</EGO_Mutation_Mechanitor.label>
   <!-- EN: An implanted mutation - Automancer.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
-  <EGO_Mutation_Mechanitor.description>TODO</EGO_Mutation_Mechanitor.description>
+  <EGO_Mutation_Mechanitor.description>已植入的突变 - 自动法师。\n\n此突变最多可植入15次以增强效果。</EGO_Mutation_Mechanitor.description>
   <!-- EN: a mutation - Automancer -->
-  <EGO_Mutation_Mechanitor.labelNoun>TODO</EGO_Mutation_Mechanitor.labelNoun>
+  <EGO_Mutation_Mechanitor.labelNoun>一个突变 - 自动法师</EGO_Mutation_Mechanitor.labelNoun>
   
 </LanguageData>

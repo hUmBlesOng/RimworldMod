@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Chaos slimes -->
-  <OE_ChaosSlimeDiscovered.label>TODO</OE_ChaosSlimeDiscovered.label>
+  <OE_ChaosSlimeDiscovered.label>混沌史莱姆</OE_ChaosSlimeDiscovered.label>
   <!-- EN: Chaos slime - under the influence of an unknown force from the outside, they began to fuse their bodies into something single. -->
-  <OE_ChaosSlimeDiscovered.description>TODO</OE_ChaosSlimeDiscovered.description>
+  <OE_ChaosSlimeDiscovered.description>混沌史莱姆 - 在外界未知力量的影响下，它们开始将身体融合成单一的东西。</OE_ChaosSlimeDiscovered.description>
   
   <!-- EN: Cyber Arachna -->
-  <OE_CyberArachnaDiscovered.label>TODO</OE_CyberArachnaDiscovered.label>
+  <OE_CyberArachnaDiscovered.label>赛博蜘蛛</OE_CyberArachnaDiscovered.label>
   
   <!-- EN: Returned -->
-  <OE_ReturnedDiscovered.label>TODO</OE_ReturnedDiscovered.label>
+  <OE_ReturnedDiscovered.label>归来者</OE_ReturnedDiscovered.label>
   
 </LanguageData>

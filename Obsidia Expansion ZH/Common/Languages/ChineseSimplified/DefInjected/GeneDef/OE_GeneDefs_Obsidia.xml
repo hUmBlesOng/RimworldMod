@@ -1,88 +1,88 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: acid resistant -->
-  <OE_AcidResistant.label>TODO</OE_AcidResistant.label>
+  <OE_AcidResistant.label>抗酸性</OE_AcidResistant.label>
   <!-- EN: Carriers of this gene are resistant to acid damage from any source. They only take 25% of the acid damage. -->
-  <OE_AcidResistant.description>TODO</OE_AcidResistant.description>
+  <OE_AcidResistant.description>携带该基因的人对任何来源的酸性伤害都有抵抗力。他们只会受到25%的酸性伤害。</OE_AcidResistant.description>
   <!-- EN: acidproof -->
-  <OE_AcidResistant.labelShortAdj>TODO</OE_AcidResistant.labelShortAdj>
+  <OE_AcidResistant.labelShortAdj>防酸</OE_AcidResistant.labelShortAdj>
   <!-- EN: antitox -->
-  <OE_AcidResistant.symbolPack.prefixSymbols.0.symbol>TODO</OE_AcidResistant.symbolPack.prefixSymbols.0.symbol>
+  <OE_AcidResistant.symbolPack.prefixSymbols.0.symbol>抗毒素</OE_AcidResistant.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: rough -->
-  <OE_AcidResistant.symbolPack.prefixSymbols.1.symbol>TODO</OE_AcidResistant.symbolPack.prefixSymbols.1.symbol>
+  <OE_AcidResistant.symbolPack.prefixSymbols.1.symbol>粗糙</OE_AcidResistant.symbolPack.prefixSymbols.1.symbol>
   
   <!-- EN: acid weakness -->
-  <OE_AcidWeakness.label>TODO</OE_AcidWeakness.label>
+  <OE_AcidWeakness.label>酸性弱点</OE_AcidWeakness.label>
   <!-- EN: Carriers of this gene have biological compounds in their skin that react painfully to acid damage. They are unusually sensitive to acid. Damage from acid is multiplied by 4. -->
-  <OE_AcidWeakness.description>TODO</OE_AcidWeakness.description>
+  <OE_AcidWeakness.description>携带该基因的人皮肤中有生物化合物，会对酸性伤害产生痛苦反应。他们对酸异常敏感。酸性伤害增加4倍。</OE_AcidWeakness.description>
   <!-- EN: sensitiveskin -->
-  <OE_AcidWeakness.labelShortAdj>TODO</OE_AcidWeakness.labelShortAdj>
+  <OE_AcidWeakness.labelShortAdj>敏感皮肤</OE_AcidWeakness.labelShortAdj>
   <!-- EN: sensitive -->
-  <OE_AcidWeakness.symbolPack.prefixSymbols.0.symbol>TODO</OE_AcidWeakness.symbolPack.prefixSymbols.0.symbol>
+  <OE_AcidWeakness.symbolPack.prefixSymbols.0.symbol>敏感</OE_AcidWeakness.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: thinskin -->
-  <OE_AcidWeakness.symbolPack.prefixSymbols.1.symbol>TODO</OE_AcidWeakness.symbolPack.prefixSymbols.1.symbol>
+  <OE_AcidWeakness.symbolPack.prefixSymbols.1.symbol>薄皮</OE_AcidWeakness.symbolPack.prefixSymbols.1.symbol>
   
   <!-- EN: blast resistant -->
-  <OE_BlastResistant.label>TODO</OE_BlastResistant.label>
+  <OE_BlastResistant.label>抗爆性</OE_BlastResistant.label>
   <!-- EN: Carriers of this gene take less injuries than others from the blast damage. They have thickened, densified bones, nearly-solid ribcages, and strengthened binding factors in joints and flesh. They only take 25% of the blast damage. -->
-  <OE_BlastResistant.description>TODO</OE_BlastResistant.description>
+  <OE_BlastResistant.description>携带该基因的人受到爆炸伤害时受伤较少。他们有增厚、致密的骨骼，几乎实心的胸腔，以及关节和肌肉中的增强结合因子。他们只会受到25%的爆炸伤害。</OE_BlastResistant.description>
   <!-- EN: blastproof -->
-  <OE_BlastResistant.labelShortAdj>TODO</OE_BlastResistant.labelShortAdj>
+  <OE_BlastResistant.labelShortAdj>防爆</OE_BlastResistant.labelShortAdj>
   <!-- EN: tough -->
-  <OE_BlastResistant.symbolPack.prefixSymbols.0.symbol>TODO</OE_BlastResistant.symbolPack.prefixSymbols.0.symbol>
+  <OE_BlastResistant.symbolPack.prefixSymbols.0.symbol>坚韧</OE_BlastResistant.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: stout -->
-  <OE_BlastResistant.symbolPack.prefixSymbols.1.symbol>TODO</OE_BlastResistant.symbolPack.prefixSymbols.1.symbol>
+  <OE_BlastResistant.symbolPack.prefixSymbols.1.symbol>强壮</OE_BlastResistant.symbolPack.prefixSymbols.1.symbol>
   
   <!-- EN: blast weakness -->
-  <OE_BlastWeakness.label>TODO</OE_BlastWeakness.label>
+  <OE_BlastWeakness.label>爆性弱点</OE_BlastWeakness.label>
   <!-- EN: Carriers of this gene take greater injuries than others from the blast damage. They have thin, brittle bones and less binding molecules in joints and flesh. Damage from blast is multiplied by 4. -->
-  <OE_BlastWeakness.description>TODO</OE_BlastWeakness.description>
+  <OE_BlastWeakness.description>携带该基因的人受到爆炸伤害时受伤较多。他们有薄脆的骨骼和关节肌肉中的结合分子较少。爆炸伤害增加4倍。</OE_BlastWeakness.description>
   <!-- EN: thinskin -->
-  <OE_BlastWeakness.labelShortAdj>TODO</OE_BlastWeakness.labelShortAdj>
+  <OE_BlastWeakness.labelShortAdj>薄皮</OE_BlastWeakness.labelShortAdj>
   <!-- EN: frail -->
-  <OE_BlastWeakness.symbolPack.prefixSymbols.0.symbol>TODO</OE_BlastWeakness.symbolPack.prefixSymbols.0.symbol>
+  <OE_BlastWeakness.symbolPack.prefixSymbols.0.symbol>脆弱</OE_BlastWeakness.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: thin -->
-  <OE_BlastWeakness.symbolPack.prefixSymbols.1.symbol>TODO</OE_BlastWeakness.symbolPack.prefixSymbols.1.symbol>
+  <OE_BlastWeakness.symbolPack.prefixSymbols.1.symbol>薄</OE_BlastWeakness.symbolPack.prefixSymbols.1.symbol>
   
   <!-- EN: cryo resistant -->
-  <OE_CryoResistant.label>TODO</OE_CryoResistant.label>
+  <OE_CryoResistant.label>抗冷冻性</OE_CryoResistant.label>
   <!-- EN: Carriers of this gene have special fast-acting sweat glands and cold-resistant skin. They only take 25% of the сryo damage. -->
-  <OE_CryoResistant.description>TODO</OE_CryoResistant.description>
+  <OE_CryoResistant.description>携带该基因的人有特殊的快速汗腺和抗冻皮肤。他们只会受到25%的冷冻伤害。</OE_CryoResistant.description>
   <!-- EN: cryoproof -->
-  <OE_CryoResistant.labelShortAdj>TODO</OE_CryoResistant.labelShortAdj>
+  <OE_CryoResistant.labelShortAdj>防冻</OE_CryoResistant.labelShortAdj>
   <!-- EN: dry -->
-  <OE_CryoResistant.symbolPack.prefixSymbols.0.symbol>TODO</OE_CryoResistant.symbolPack.prefixSymbols.0.symbol>
+  <OE_CryoResistant.symbolPack.prefixSymbols.0.symbol>干燥</OE_CryoResistant.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: warm -->
-  <OE_CryoResistant.symbolPack.prefixSymbols.1.symbol>TODO</OE_CryoResistant.symbolPack.prefixSymbols.1.symbol>
+  <OE_CryoResistant.symbolPack.prefixSymbols.1.symbol>温暖</OE_CryoResistant.symbolPack.prefixSymbols.1.symbol>
   
   <!-- EN: cryo weakness -->
-  <OE_CryoWeakness.label>TODO</OE_CryoWeakness.label>
+  <OE_CryoWeakness.label>冷冻弱点</OE_CryoWeakness.label>
   <!-- EN: Carriers have wet, thin skin which freezes easily from сryo damage, and their immune systems react very poorly to this kind of threat. Damage from сryo is multiplied by 4. -->
-  <OE_CryoWeakness.description>TODO</OE_CryoWeakness.description>
+  <OE_CryoWeakness.description>携带者有湿薄的皮肤，容易受到冷冻伤害，免疫系统对这种威胁反应很差。冷冻伤害增加4倍。</OE_CryoWeakness.description>
   <!-- EN: wetskin -->
-  <OE_CryoWeakness.labelShortAdj>TODO</OE_CryoWeakness.labelShortAdj>
+  <OE_CryoWeakness.labelShortAdj>湿皮肤</OE_CryoWeakness.labelShortAdj>
   <!-- EN: wet -->
-  <OE_CryoWeakness.symbolPack.prefixSymbols.0.symbol>TODO</OE_CryoWeakness.symbolPack.prefixSymbols.0.symbol>
+  <OE_CryoWeakness.symbolPack.prefixSymbols.0.symbol>湿</OE_CryoWeakness.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: freeze -->
-  <OE_CryoWeakness.symbolPack.prefixSymbols.1.symbol>TODO</OE_CryoWeakness.symbolPack.prefixSymbols.1.symbol>
+  <OE_CryoWeakness.symbolPack.prefixSymbols.1.symbol>冻结</OE_CryoWeakness.symbolPack.prefixSymbols.1.symbol>
   
   <!-- EN: mental break resistant -->
-  <OE_MentalBreakResistant.label>TODO</OE_MentalBreakResistant.label>
+  <OE_MentalBreakResistant.label>抗精神崩溃</OE_MentalBreakResistant.label>
   <!-- EN: Carriers of this gene is mentally tough and won't break down under stresses that would crack most people. -->
-  <OE_MentalBreakResistant.description>TODO</OE_MentalBreakResistant.description>
+  <OE_MentalBreakResistant.description>携带该基因的人精神坚韧，不会在大多数人都会崩溃的压力下崩溃。</OE_MentalBreakResistant.description>
   <!-- EN: mental stability -->
-  <OE_MentalBreakResistant.labelShortAdj>TODO</OE_MentalBreakResistant.labelShortAdj>
+  <OE_MentalBreakResistant.labelShortAdj>精神稳定</OE_MentalBreakResistant.labelShortAdj>
   <!-- EN: mental -->
-  <OE_MentalBreakResistant.symbolPack.prefixSymbols.0.symbol>TODO</OE_MentalBreakResistant.symbolPack.prefixSymbols.0.symbol>
+  <OE_MentalBreakResistant.symbolPack.prefixSymbols.0.symbol>精神</OE_MentalBreakResistant.symbolPack.prefixSymbols.0.symbol>
   
   <!-- EN: mental break weakness -->
-  <OE_MentalBreakWeakness.label>TODO</OE_MentalBreakWeakness.label>
+  <OE_MentalBreakWeakness.label>精神崩溃弱点</OE_MentalBreakWeakness.label>
   <!-- EN: Carriers of this gene tends to crack under pressure. -->
-  <OE_MentalBreakWeakness.description>TODO</OE_MentalBreakWeakness.description>
+  <OE_MentalBreakWeakness.description>携带该基因的人容易在压力下崩溃。</OE_MentalBreakWeakness.description>
   <!-- EN: mental instability -->
-  <OE_MentalBreakWeakness.labelShortAdj>TODO</OE_MentalBreakWeakness.labelShortAdj>
+  <OE_MentalBreakWeakness.labelShortAdj>精神不稳定</OE_MentalBreakWeakness.labelShortAdj>
   <!-- EN: mental -->
-  <OE_MentalBreakWeakness.symbolPack.prefixSymbols.0.symbol>TODO</OE_MentalBreakWeakness.symbolPack.prefixSymbols.0.symbol>
+  <OE_MentalBreakWeakness.symbolPack.prefixSymbols.0.symbol>精神</OE_MentalBreakWeakness.symbolPack.prefixSymbols.0.symbol>
   
 </LanguageData>

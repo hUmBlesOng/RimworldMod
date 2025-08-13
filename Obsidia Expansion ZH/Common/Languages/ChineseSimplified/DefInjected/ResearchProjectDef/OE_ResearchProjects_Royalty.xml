@@ -1,19 +1,19 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: OEC - Regular Armor -->
-  <OECArmor.label>TODO</OECArmor.label>
+  <OECArmor.label>OEC - 常规装甲</OECArmor.label>
   <!-- EN: Craft regular Obsidia Exalted Corpus hunters light power armor. -->
-  <OECArmor.description>TODO</OECArmor.description>
+  <OECArmor.description>制作常规黑曜石尊贵团体猎人轻型动力装甲。</OECArmor.description>
   
   <!-- EN: OEC - Exalted Equipment -->
-  <OECGearMod.label>TODO</OECGearMod.label>
+  <OECGearMod.label>OEC - 尊贵装备</OECGearMod.label>
   <!-- EN: Exaltation Obsidia Exalted Corpus inquisitors equipment. -->
-  <OECGearMod.description>TODO</OECGearMod.description>
+  <OECGearMod.description>尊贵化黑曜石尊贵团体审判官装备。</OECGearMod.description>
   
   <!-- EN: OEC - Regular Weapons -->
-  <OECWeapons.label>TODO</OECWeapons.label>
+  <OECWeapons.label>OEC - 常规武器</OECWeapons.label>
   <!-- EN: Craft regular Obsidia Exalted Corpus hunters psy weapons. -->
-  <OECWeapons.description>TODO</OECWeapons.description>
+  <OECWeapons.description>制作常规黑曜石尊贵团体猎人灵能武器。</OECWeapons.description>
   
 </LanguageData>

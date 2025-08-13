@@ -1,18 +1,18 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: battlecraft rush -->
-  <OE_BattlecraftRush.label>TODO</OE_BattlecraftRush.label>
+  <OE_BattlecraftRush.label>战技冲刺</OE_BattlecraftRush.label>
   <!-- EN: Combat stats is enhanced because this person used a battlecraft pump while deathresting. This effect lasts until the next deathrest. -->
-  <OE_BattlecraftRush.description>TODO</OE_BattlecraftRush.description>
+  <OE_BattlecraftRush.description>由于此人在死亡休眠期间使用了战技泵，战斗属性得到增强。此效果持续到下一次死亡休眠。</OE_BattlecraftRush.description>
   <!-- EN: Lasts until the next deathrest. -->
-  <OE_BattlecraftRush.extraTooltip>TODO</OE_BattlecraftRush.extraTooltip>
+  <OE_BattlecraftRush.extraTooltip>持续到下一次死亡休眠。</OE_BattlecraftRush.extraTooltip>
   
   <!-- EN: perfectioning rush -->
-  <OE_PerfectioningRush.label>TODO</OE_PerfectioningRush.label>
+  <OE_PerfectioningRush.label>完美冲刺</OE_PerfectioningRush.label>
   <!-- EN: Working stats is enhanced because this person used a perfectioning pump while deathresting. This effect lasts until the next deathrest. -->
-  <OE_PerfectioningRush.description>TODO</OE_PerfectioningRush.description>
+  <OE_PerfectioningRush.description>由于此人在死亡休眠期间使用了完美泵，工作属性得到增强。此效果持续到下一次死亡休眠。</OE_PerfectioningRush.description>
   <!-- EN: Lasts until the next deathrest. -->
-  <OE_PerfectioningRush.extraTooltip>TODO</OE_PerfectioningRush.extraTooltip>
+  <OE_PerfectioningRush.extraTooltip>持续到下一次死亡休眠。</OE_PerfectioningRush.extraTooltip>
   
 </LanguageData>

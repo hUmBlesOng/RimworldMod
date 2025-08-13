@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef] served as a voice of Crimson Arachna Cult, delivering sacred doctrine to fringe worlds through visions, ritual oratory, and whispered revelations. Their words sow both devotion and dread. -->
-  <OE_Herald.description>TODO</OE_Herald.description>
+  <OE_Herald.description>[PAWN_nameDef]担任深红蜘蛛教团的代言人，通过幻象、仪式演讲和低语启示向边缘世界传播神圣教义。他们的话语既播下虔诚也播下恐惧。</OE_Herald.description>
   <!-- EN: crimson arachna herald -->
-  <OE_Herald.title>TODO</OE_Herald.title>
+  <OE_Herald.title>深红蜘蛛使者</OE_Herald.title>
   <!-- EN: herald -->
-  <OE_Herald.titleShort>TODO</OE_Herald.titleShort>
+  <OE_Herald.titleShort>使者</OE_Herald.titleShort>
   
 </LanguageData>

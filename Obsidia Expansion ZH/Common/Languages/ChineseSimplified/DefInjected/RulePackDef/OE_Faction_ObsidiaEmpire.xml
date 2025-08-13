@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN:
@@ -26,6 +26,30 @@
     <li>OES->the Continuum</li>
     <li>OES->the Architect</li>
   -->
-  <OENamerFaction.rulePack.rulesStrings>TODO</OENamerFaction.rulePack.rulesStrings>
+  <OENamerFaction.rulePack.rulesStrings>
+    <li>r_name(p=2)->黑曜石[OES]的[OEF]</li>
+    <li>r_name(p=2)->[OES]之[OEF]</li>
+    <li>OEF(p=4)->帝国</li>
+    <li>OEF->帝国</li>
+    <li>OEF->领地</li>
+    <li>OEF->君主国</li>
+    <li>OEF->主权国</li>
+    <li>OEF->霸权</li>
+    <li>OEF->军团</li>
+    <li>OEF->指令</li>
+    <li>OEF->监督者</li>
+    <li>OES(p=4)->太阳</li>
+    <li>OES->月亮</li>
+    <li>OES->宇宙</li>
+    <li>OES->完美</li>
+    <li>OES->永恒</li>
+    <li>OES->征服者</li>
+    <li>OES->领主</li>
+    <li>OES->星辰</li>
+    <li>OES->无限</li>
+    <li>OES->飞升</li>
+    <li>OES->连续体</li>
+    <li>OES->建筑师</li>
+  </OENamerFaction.rulePack.rulesStrings>
   
 </LanguageData>

@@ -1,34 +1,34 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: elder jump -->
-  <OE_ElderJump.label>TODO</OE_ElderJump.label>
+  <OE_ElderJump.label>长者跳跃</OE_ElderJump.label>
   <!-- EN: Jumps towards its target. -->
-  <OE_ElderJump.description>TODO</OE_ElderJump.description>
+  <OE_ElderJump.description>向目标跳跃。</OE_ElderJump.description>
   
   <!-- EN: elder direwolf power -->
-  <OE_ElderPower_Direwolf.label>TODO</OE_ElderPower_Direwolf.label>
+  <OE_ElderPower_Direwolf.label>长者恐狼之力</OE_ElderPower_Direwolf.label>
   <!-- EN: Unleash the power of the elder direwolf, empowering your strikes and lending supernatural speed to your movements. -->
-  <OE_ElderPower_Direwolf.description>TODO</OE_ElderPower_Direwolf.description>
+  <OE_ElderPower_Direwolf.description>释放长者恐狼的力量，强化你的攻击并赋予你超自然的速度。</OE_ElderPower_Direwolf.description>
   
   <!-- EN: elder ogren power -->
-  <OE_ElderPower_Ogren.label>TODO</OE_ElderPower_Ogren.label>
+  <OE_ElderPower_Ogren.label>长者食人魔之力</OE_ElderPower_Ogren.label>
   <!-- EN: Unleash the power of the elder ogren, empowering each blow and hardening flesh like stone. -->
-  <OE_ElderPower_Ogren.description>TODO</OE_ElderPower_Ogren.description>
+  <OE_ElderPower_Ogren.description>释放长者食人魔的力量，强化每次打击并使肉体如石头般坚硬。</OE_ElderPower_Ogren.description>
   
   <!-- EN: elder raptor power -->
-  <OE_ElderPower_Raptor.label>TODO</OE_ElderPower_Raptor.label>
+  <OE_ElderPower_Raptor.label>长者迅猛龙之力</OE_ElderPower_Raptor.label>
   <!-- EN: Unleash the power of the elder raptor, gaining deadly precision, blinding speed, and brutal efficiency in close combat. -->
-  <OE_ElderPower_Raptor.description>TODO</OE_ElderPower_Raptor.description>
+  <OE_ElderPower_Raptor.description>释放长者迅猛龙的力量，获得致命的精准度、令人目眩的速度和近战中的残酷效率。</OE_ElderPower_Raptor.description>
   
   <!-- EN: elder tionant power -->
-  <OE_ElderPower_Tionant.label>TODO</OE_ElderPower_Tionant.label>
+  <OE_ElderPower_Tionant.label>长者提昂坦之力</OE_ElderPower_Tionant.label>
   <!-- EN: Unleash the power of the elder tionant, amplifying your strength and accelerating the mending of wounds. -->
-  <OE_ElderPower_Tionant.description>TODO</OE_ElderPower_Tionant.description>
+  <OE_ElderPower_Tionant.description>释放长者提昂坦的力量，增强你的力量并加速伤口愈合。</OE_ElderPower_Tionant.description>
   
   <!-- EN: elder provoke -->
-  <OE_ElderProvoke.label>TODO</OE_ElderProvoke.label>
+  <OE_ElderProvoke.label>长者挑衅</OE_ElderProvoke.label>
   <!-- EN: A thunderous roar compels nearby creatures to turn their focus toward the source, drawn by an overwhelming, primal force. -->
-  <OE_ElderProvoke.description>TODO</OE_ElderProvoke.description>
+  <OE_ElderProvoke.description>一声雷鸣般的咆哮迫使附近生物将注意力转向声源，被一种压倒性的原始力量所吸引。</OE_ElderProvoke.description>
   
 </LanguageData>

@@ -1,19 +1,19 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: obsidia empire exotic goods trader -->
-  <Caravan_ObsidiaEmpire_Exotic.label>TODO</Caravan_ObsidiaEmpire_Exotic.label>
+  <Caravan_ObsidiaEmpire_Exotic.label>黑曜石帝国奇异商品贸易商</Caravan_ObsidiaEmpire_Exotic.label>
   
   <!-- EN: obsidia empire combat supplier -->
-  <Caravan_ObsidiaEmpire_Gunsmith.label>TODO</Caravan_ObsidiaEmpire_Gunsmith.label>
+  <Caravan_ObsidiaEmpire_Gunsmith.label>黑曜石帝国作战供应商</Caravan_ObsidiaEmpire_Gunsmith.label>
   
   <!-- EN: obsidia empire medical trader -->
-  <Caravan_ObsidiaEmpire_Medic.label>TODO</Caravan_ObsidiaEmpire_Medic.label>
+  <Caravan_ObsidiaEmpire_Medic.label>黑曜石帝国医疗贸易商</Caravan_ObsidiaEmpire_Medic.label>
   
   <!-- EN: obsidia empire slaver -->
-  <Caravan_ObsidiaEmpire_Slaver.label>TODO</Caravan_ObsidiaEmpire_Slaver.label>
+  <Caravan_ObsidiaEmpire_Slaver.label>黑曜石帝国奴隶贩子</Caravan_ObsidiaEmpire_Slaver.label>
   
   <!-- EN: obsidia empire goods trader -->
-  <Caravan_ObsidiaEmpire_Standard.label>TODO</Caravan_ObsidiaEmpire_Standard.label>
+  <Caravan_ObsidiaEmpire_Standard.label>黑曜石帝国商品贸易商</Caravan_ObsidiaEmpire_Standard.label>
   
 </LanguageData>

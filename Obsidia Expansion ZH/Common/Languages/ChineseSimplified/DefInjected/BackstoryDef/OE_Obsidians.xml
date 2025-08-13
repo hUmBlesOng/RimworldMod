@@ -1,74 +1,74 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef] mastered the arts of form and function in Obsidia’s creative guilds. Able to turn even discarded scrap into breathtaking works. Has an eye for beauty, but little interest in fieldwork. -->
-  <OE_Artisan.description>TODO</OE_Artisan.description>
+  <OE_Artisan.description>[PAWN_nameDef]在黑曜石的创意公会中掌握了形式与功能的艺术。能够将废弃的废料转化为令人惊叹的作品。对美有眼光，但对实地工作兴趣不大。</OE_Artisan.description>
   <!-- EN: obsidia artisan -->
-  <OE_Artisan.title>TODO</OE_Artisan.title>
+  <OE_Artisan.title>黑曜石工匠</OE_Artisan.title>
   <!-- EN: artisan -->
-  <OE_Artisan.titleShort>TODO</OE_Artisan.titleShort>
+  <OE_Artisan.titleShort>工匠</OE_Artisan.titleShort>
   
   <!-- EN: [PAWN_nameDef] devoted years to caring for Obsidia’s wounded, orphans, and beasts of burden. Soft-spoken and patient, but ill-suited for combat roles. -->
-  <OE_Caretaker.description>TODO</OE_Caretaker.description>
+  <OE_Caretaker.description>[PAWN_nameDef]多年来致力于照顾黑曜石的伤员、孤儿和役畜。说话轻柔且有耐心，但不适合战斗角色。</OE_Caretaker.description>
   <!-- EN: obsidia caretaker -->
-  <OE_Caretaker.title>TODO</OE_Caretaker.title>
+  <OE_Caretaker.title>黑曜石看护者</OE_Caretaker.title>
   <!-- EN: caretaker -->
-  <OE_Caretaker.titleShort>TODO</OE_Caretaker.titleShort>
+  <OE_Caretaker.titleShort>看护者</OE_Caretaker.titleShort>
   
   <!-- EN: [PAWN_nameDef] completed Obsidia Colonists course. Possesses all the necessary skills to support life in the colony. -->
-  <OE_Colonist.description>TODO</OE_Colonist.description>
+  <OE_Colonist.description>[PAWN_nameDef]完成了黑曜石殖民者课程。拥有支持殖民地生活所需的所有技能。</OE_Colonist.description>
   <!-- EN: obsidia colonist -->
-  <OE_Colonist.title>TODO</OE_Colonist.title>
+  <OE_Colonist.title>黑曜石殖民者</OE_Colonist.title>
   <!-- EN: colonist -->
-  <OE_Colonist.titleShort>TODO</OE_Colonist.titleShort>
+  <OE_Colonist.titleShort>殖民者</OE_Colonist.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked on critical infrastructure during the collapse of the Obsidia core systems. Skilled at building and repairing, but tends to avoid social entanglements. -->
-  <OE_Engineer.description>TODO</OE_Engineer.description>
+  <OE_Engineer.description>[PAWN_nameDef]在黑曜石核心系统崩溃期间从事关键基础设施工作。擅长建设和维修，但倾向于避免社交纠葛。</OE_Engineer.description>
   <!-- EN: obsidia engineer -->
-  <OE_Engineer.title>TODO</OE_Engineer.title>
+  <OE_Engineer.title>黑曜石工程师</OE_Engineer.title>
   <!-- EN: engineer -->
-  <OE_Engineer.titleShort>TODO</OE_Engineer.titleShort>
+  <OE_Engineer.titleShort>工程师</OE_Engineer.titleShort>
   
   <!-- EN: [PAWN_nameDef] spent countless hours in databanks and echo-archives, studying Obsidia’s forgotten legacies. Brilliant with theory—awkward with social and tools. -->
-  <OE_Scholar.description>TODO</OE_Scholar.description>
+  <OE_Scholar.description>[PAWN_nameDef]在数据库和回音档案馆中度过了无数小时，研究黑曜石被遗忘的遗产。理论方面很出色——但在社交和工具使用方面很笨拙。</OE_Scholar.description>
   <!-- EN: obsidia scholar -->
-  <OE_Scholar.title>TODO</OE_Scholar.title>
+  <OE_Scholar.title>黑曜石学者</OE_Scholar.title>
   <!-- EN: scholar -->
-  <OE_Scholar.titleShort>TODO</OE_Scholar.titleShort>
+  <OE_Scholar.titleShort>学者</OE_Scholar.titleShort>
   
   <!-- EN: [PAWN_nameDef] completed Obsidia Scientists course. Possesses all the necessary skills for the development and improvement the colony. -->
-  <OE_Scientist.description>TODO</OE_Scientist.description>
+  <OE_Scientist.description>[PAWN_nameDef]完成了黑曜石科学家课程。拥有开发和改善殖民地所需的所有技能。</OE_Scientist.description>
   <!-- EN: obsidia scientist -->
-  <OE_Scientist.title>TODO</OE_Scientist.title>
+  <OE_Scientist.title>黑曜石科学家</OE_Scientist.title>
   <!-- EN: scientist -->
-  <OE_Scientist.titleShort>TODO</OE_Scientist.titleShort>
+  <OE_Scientist.titleShort>科学家</OE_Scientist.titleShort>
   
   <!-- EN: [PAWN_nameDef] completed combat Obsidia Warriors course. Trained in close combat and medicine to keep his comrades healthy. -->
-  <OE_Soldier_Melee.description>TODO</OE_Soldier_Melee.description>
+  <OE_Soldier_Melee.description>[PAWN_nameDef]完成了黑曜石战士战斗课程。接受近战和医学训练以保持战友健康。</OE_Soldier_Melee.description>
   <!-- EN: obsidia warrior -->
-  <OE_Soldier_Melee.title>TODO</OE_Soldier_Melee.title>
+  <OE_Soldier_Melee.title>黑曜石战士</OE_Soldier_Melee.title>
   <!-- EN: warrior -->
-  <OE_Soldier_Melee.titleShort>TODO</OE_Soldier_Melee.titleShort>
+  <OE_Soldier_Melee.titleShort>战士</OE_Soldier_Melee.titleShort>
   
   <!-- EN: [PAWN_nameDef] completed combat Obsidia Gunners courses. Trained in ranged combat and construction skills to maintain vehicles and buildings. -->
-  <OE_Soldier_Ranged.description>TODO</OE_Soldier_Ranged.description>
+  <OE_Soldier_Ranged.description>[PAWN_nameDef]完成了黑曜石炮手战斗课程。接受远程战斗和建设技能培训以维护车辆和建筑物。</OE_Soldier_Ranged.description>
   <!-- EN: obsidia gunner -->
-  <OE_Soldier_Ranged.title>TODO</OE_Soldier_Ranged.title>
+  <OE_Soldier_Ranged.title>黑曜石炮手</OE_Soldier_Ranged.title>
   <!-- EN: gunner -->
-  <OE_Soldier_Ranged.titleShort>TODO</OE_Soldier_Ranged.titleShort>
+  <OE_Soldier_Ranged.titleShort>炮手</OE_Soldier_Ranged.titleShort>
   
   <!-- EN: [PAWN_nameDef] traveled between scattered Obsidia enclaves, negotiating deals and uncovering rare goods. Learned to read people well—but rarely touched a tool or weapon. -->
-  <OE_Trader.description>TODO</OE_Trader.description>
+  <OE_Trader.description>[PAWN_nameDef]在分散的黑曜石飞地之间旅行，谈判交易并发掘稀有商品。学会了很好地读懂人心——但很少接触工具或武器。</OE_Trader.description>
   <!-- EN: obsidia trader -->
-  <OE_Trader.title>TODO</OE_Trader.title>
+  <OE_Trader.title>黑曜石商人</OE_Trader.title>
   <!-- EN: trader -->
-  <OE_Trader.titleShort>TODO</OE_Trader.titleShort>
+  <OE_Trader.titleShort>商人</OE_Trader.titleShort>
   
   <!-- EN: [PAWN_nameDef] completed Obsidia Workers course. Possesses all the necessary skills to build a colony and extract useful resources. -->
-  <OE_Worker.description>TODO</OE_Worker.description>
+  <OE_Worker.description>[PAWN_nameDef]完成了黑曜石工人课程。拥有建设和提取有用资源所需的所有技能。</OE_Worker.description>
   <!-- EN: obsidia worker -->
-  <OE_Worker.title>TODO</OE_Worker.title>
+  <OE_Worker.title>黑曜石工人</OE_Worker.title>
   <!-- EN: worker -->
-  <OE_Worker.titleShort>TODO</OE_Worker.titleShort>
+  <OE_Worker.titleShort>工人</OE_Worker.titleShort>
   
 </LanguageData>

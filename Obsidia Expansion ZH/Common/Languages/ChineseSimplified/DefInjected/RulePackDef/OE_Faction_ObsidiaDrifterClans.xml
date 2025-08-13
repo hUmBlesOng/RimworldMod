@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN:
@@ -20,7 +20,25 @@
     <li>OES->Opportunity</li>
     <li>OES->the Exchange</li>
   -->
-  <ObsidiaPilgrimClanNamerFaction.rulePack.rulesStrings>TODO</ObsidiaPilgrimClanNamerFaction.rulePack.rulesStrings>
+  <ObsidiaPilgrimClanNamerFaction.rulePack.rulesStrings>
+    <li>r_name(p=2)->黑曜石[OES]的[OEF]</li>
+    <li>r_name(p=2)->[OES]之[OEF]</li>
+    <li>OEF(p=4)->朝圣者</li>
+    <li>OEF->氏族</li>
+    <li>OEF->公司</li>
+    <li>OEF->贸易商</li>
+    <li>OEF->财团</li>
+    <li>OEF->商队</li>
+    <li>OES(p=4)->利润</li>
+    <li>OES->诚实</li>
+    <li>OES->利益</li>
+    <li>OES->折扣</li>
+    <li>OES->贸易</li>
+    <li>OES->硬币</li>
+    <li>OES->财富</li>
+    <li>OES->机会</li>
+    <li>OES->交易所</li>
+  </ObsidiaPilgrimClanNamerFaction.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=2)->Obsidia [OEF] of [OES]</li>
@@ -41,7 +59,25 @@
     <li>OES->Hope</li>
     <li>OES->the Free</li>
   -->
-  <ObsidiaRenegadeClanNamerFaction.rulePack.rulesStrings>TODO</ObsidiaRenegadeClanNamerFaction.rulePack.rulesStrings>
+  <ObsidiaRenegadeClanNamerFaction.rulePack.rulesStrings>
+    <li>r_name(p=2)->黑曜石[OES]的[OEF]</li>
+    <li>r_name(p=2)->[OES]之[OEF]</li>
+    <li>OEF(p=4)->叛徒</li>
+    <li>OEF->氏族</li>
+    <li>OEF->社区</li>
+    <li>OEF->哨兵</li>
+    <li>OEF->誓言守护者</li>
+    <li>OEF->前线</li>
+    <li>OES(p=4)->荣誉</li>
+    <li>OES->职责</li>
+    <li>OES->平等</li>
+    <li>OES->法官</li>
+    <li>OES->保护</li>
+    <li>OES->帮助</li>
+    <li>OES->正义</li>
+    <li>OES->希望</li>
+    <li>OES->自由</li>
+  </ObsidiaRenegadeClanNamerFaction.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=2)->Obsidia [OEF] of [OES]</li>
@@ -62,6 +98,24 @@
     <li>OES->Despair</li>
     <li>OES->Devastation</li>
   -->
-  <ObsidiaSyndicateClanNamerFaction.rulePack.rulesStrings>TODO</ObsidiaSyndicateClanNamerFaction.rulePack.rulesStrings>
+  <ObsidiaSyndicateClanNamerFaction.rulePack.rulesStrings>
+    <li>r_name(p=2)->黑曜石[OES]的[OEF]</li>
+    <li>r_name(p=2)->[OES]之[OEF]</li>
+    <li>OEF(p=4)->辛迪加</li>
+    <li>OEF->氏族</li>
+    <li>OEF->帮派</li>
+    <li>OEF->胡狼</li>
+    <li>OEF->破坏者</li>
+    <li>OEF->掠夺者</li>
+    <li>OES(p=4)->放逐</li>
+    <li>OES->杀戮</li>
+    <li>OES->鲜血</li>
+    <li>OES->无政府</li>
+    <li>OES->恐怖</li>
+    <li>OES->恶棍</li>
+    <li>OES->裂隙</li>
+    <li>OES->绝望</li>
+    <li>OES->毁灭</li>
+  </ObsidiaSyndicateClanNamerFaction.rulePack.rulesStrings>
   
 </LanguageData>

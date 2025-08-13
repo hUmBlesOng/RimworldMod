@@ -1,23 +1,23 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: deep catcher -->
-  <OEFisherman.degreeDatas.deep_catcher.label>TODO</OEFisherman.degreeDatas.deep_catcher.label>
+  <OEFisherman.degreeDatas.deep_catcher.label>深水捕手</OEFisherman.degreeDatas.deep_catcher.label>
   <!-- EN: {PAWN_nameDef} fishes with care and focus, often reeling in more with every cast. -->
-  <OEFisherman.degreeDatas.deep_catcher.description>TODO</OEFisherman.degreeDatas.deep_catcher.description>
+  <OEFisherman.degreeDatas.deep_catcher.description>{PAWN_nameDef} 钓鱼时小心专注，每次抛竿往往能收获更多。</OEFisherman.degreeDatas.deep_catcher.description>
   <!-- EN: quick hook -->
-  <OEFisherman.degreeDatas.quick_hook.label>TODO</OEFisherman.degreeDatas.quick_hook.label>
+  <OEFisherman.degreeDatas.quick_hook.label>快速钓手</OEFisherman.degreeDatas.quick_hook.label>
   <!-- EN: {PAWN_nameDef} casts fast and often, though some fish may slip the hook. -->
-  <OEFisherman.degreeDatas.quick_hook.description>TODO</OEFisherman.degreeDatas.quick_hook.description>
+  <OEFisherman.degreeDatas.quick_hook.description>{PAWN_nameDef} 抛竿快速且频繁，尽管有些鱼可能会脱钩。</OEFisherman.degreeDatas.quick_hook.description>
   
   <!-- EN: clumsy flier -->
-  <OEPilotingBad.degreeDatas.clumsy_flier.label>TODO</OEPilotingBad.degreeDatas.clumsy_flier.label>
+  <OEPilotingBad.degreeDatas.clumsy_flier.label>笨拙飞行员</OEPilotingBad.degreeDatas.clumsy_flier.label>
   <!-- EN: Every time {PAWN_nameDef} touches the controls, someone checks the escape pods-just in case. -->
-  <OEPilotingBad.degreeDatas.clumsy_flier.description>TODO</OEPilotingBad.degreeDatas.clumsy_flier.description>
+  <OEPilotingBad.degreeDatas.clumsy_flier.description>每当 {PAWN_nameDef} 触摸控制装置时，都会有人检查逃生舱——以防万一。</OEPilotingBad.degreeDatas.clumsy_flier.description>
   
   <!-- EN: ace pilot -->
-  <OEPilotingGood.degreeDatas.ace_pilot.label>TODO</OEPilotingGood.degreeDatas.ace_pilot.label>
+  <OEPilotingGood.degreeDatas.ace_pilot.label>王牌飞行员</OEPilotingGood.degreeDatas.ace_pilot.label>
   <!-- EN: Born to fly, {PAWN_nameDef} turns even the most stubborn ship into a dancing starbird. -->
-  <OEPilotingGood.degreeDatas.ace_pilot.description>TODO</OEPilotingGood.degreeDatas.ace_pilot.description>
+  <OEPilotingGood.degreeDatas.ace_pilot.description>天生会飞行，{PAWN_nameDef} 能让即使最固执的飞船变成舞蹈的星鸟。</OEPilotingGood.degreeDatas.ace_pilot.description>
   
 </LanguageData>

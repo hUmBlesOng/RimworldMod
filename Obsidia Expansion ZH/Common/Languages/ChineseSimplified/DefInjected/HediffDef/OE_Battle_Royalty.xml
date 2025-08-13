@@ -1,29 +1,29 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: luraxin addiction -->
-  <OE_LuraxinAddiction.label>TODO</OE_LuraxinAddiction.label>
+  <OE_LuraxinAddiction.label>卢拉素成瘾</OE_LuraxinAddiction.label>
   <!-- EN: Because of an luraxin addiction, this person needs to regularly consume luraxin to avoid withdrawal symptoms. -->
-  <OE_LuraxinAddiction.description>TODO</OE_LuraxinAddiction.description>
+  <OE_LuraxinAddiction.description>由于卢拉素成瘾，此人需要定期摄入卢拉素以避免戒断症状。</OE_LuraxinAddiction.description>
   <!-- EN: withdrawal -->
-  <OE_LuraxinAddiction.stages.withdrawal.label>TODO</OE_LuraxinAddiction.stages.withdrawal.label>
+  <OE_LuraxinAddiction.stages.withdrawal.label>戒断</OE_LuraxinAddiction.stages.withdrawal.label>
   
   <!-- EN: luraxin side effect -->
-  <OE_LuraxinAftereffect.label>TODO</OE_LuraxinAftereffect.label>
+  <OE_LuraxinAftereffect.label>卢拉素副作用</OE_LuraxinAftereffect.label>
   <!-- EN: Luraxin side effect. Affect about 12 hours. -->
-  <OE_LuraxinAftereffect.description>TODO</OE_LuraxinAftereffect.description>
+  <OE_LuraxinAftereffect.description>卢拉素副作用。影响约12小时。</OE_LuraxinAftereffect.description>
   
   <!-- EN: luraxin boosted -->
-  <OE_LuraxinHigh.label>TODO</OE_LuraxinHigh.label>
+  <OE_LuraxinHigh.label>卢拉素增强</OE_LuraxinHigh.label>
   <!-- EN: Luraxin in the bloodstream. Boosts psycasts stats. Effect weakens over time. -->
-  <OE_LuraxinHigh.description>TODO</OE_LuraxinHigh.description>
+  <OE_LuraxinHigh.description>血液中的卢拉素。提升心灵能力属性。效果随时间减弱。</OE_LuraxinHigh.description>
   <!-- EN: side effect kicking in -->
-  <OE_LuraxinHigh.stages.side_effect_kicking_in.label>TODO</OE_LuraxinHigh.stages.side_effect_kicking_in.label>
+  <OE_LuraxinHigh.stages.side_effect_kicking_in.label>副作用开始发作</OE_LuraxinHigh.stages.side_effect_kicking_in.label>
   <!-- EN: first stage -->
-  <OE_LuraxinHigh.stages.first_stage.label>TODO</OE_LuraxinHigh.stages.first_stage.label>
+  <OE_LuraxinHigh.stages.first_stage.label>第一阶段</OE_LuraxinHigh.stages.first_stage.label>
   <!-- EN: second stage -->
-  <OE_LuraxinHigh.stages.second_stage.label>TODO</OE_LuraxinHigh.stages.second_stage.label>
+  <OE_LuraxinHigh.stages.second_stage.label>第二阶段</OE_LuraxinHigh.stages.second_stage.label>
   <!-- EN: third stage -->
-  <OE_LuraxinHigh.stages.third_stage.label>TODO</OE_LuraxinHigh.stages.third_stage.label>
+  <OE_LuraxinHigh.stages.third_stage.label>第三阶段</OE_LuraxinHigh.stages.third_stage.label>
   
 </LanguageData>

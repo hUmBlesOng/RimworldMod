@@ -1,24 +1,24 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: blue tionant -->
-  <OE_Tionant_Blue.label>TODO</OE_Tionant_Blue.label>
+  <OE_Tionant_Blue.label>蓝色提欧南特</OE_Tionant_Blue.label>
   <!-- EN: blue tionants -->
-  <OE_Tionant_Blue.labelPlural>TODO</OE_Tionant_Blue.labelPlural>
+  <OE_Tionant_Blue.labelPlural>蓝色提欧南特</OE_Tionant_Blue.labelPlural>
   
   <!-- EN: green tionant -->
-  <OE_Tionant_Green.label>TODO</OE_Tionant_Green.label>
+  <OE_Tionant_Green.label>绿色提欧南特</OE_Tionant_Green.label>
   <!-- EN: green tionants -->
-  <OE_Tionant_Green.labelPlural>TODO</OE_Tionant_Green.labelPlural>
+  <OE_Tionant_Green.labelPlural>绿色提欧南特</OE_Tionant_Green.labelPlural>
   
   <!-- EN: red tionant -->
-  <OE_Tionant_Red.label>TODO</OE_Tionant_Red.label>
+  <OE_Tionant_Red.label>红色提欧南特</OE_Tionant_Red.label>
   <!-- EN: red tionants -->
-  <OE_Tionant_Red.labelPlural>TODO</OE_Tionant_Red.labelPlural>
+  <OE_Tionant_Red.labelPlural>红色提欧南特</OE_Tionant_Red.labelPlural>
   
   <!-- EN: yellow tionant -->
-  <OE_Tionant_Yellow.label>TODO</OE_Tionant_Yellow.label>
+  <OE_Tionant_Yellow.label>黄色提欧南特</OE_Tionant_Yellow.label>
   <!-- EN: yellow tionants -->
-  <OE_Tionant_Yellow.labelPlural>TODO</OE_Tionant_Yellow.labelPlural>
+  <OE_Tionant_Yellow.labelPlural>黄色提欧南特</OE_Tionant_Yellow.labelPlural>
   
 </LanguageData>

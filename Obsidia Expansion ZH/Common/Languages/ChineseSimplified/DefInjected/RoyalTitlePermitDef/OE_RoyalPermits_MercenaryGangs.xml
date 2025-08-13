@@ -1,55 +1,55 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: call mercenary battalion -->
-  <OMG_Battalion_CallAid.label>TODO</OMG_Battalion_CallAid.label>
+  <OMG_Battalion_CallAid.label>呼叫雇佣兵营</OMG_Battalion_CallAid.label>
   <!-- EN: Call a group of 18 Mercenary Enforcers to aid you in battle. -->
-  <OMG_Battalion_CallAid.description>TODO</OMG_Battalion_CallAid.description>
+  <OMG_Battalion_CallAid.description>呼叫18名雇佣执法者协助你战斗。</OMG_Battalion_CallAid.description>
   
   <!-- EN: call mercenary orbital salvo -->
-  <OMG_CallOrbitalSalvo.label>TODO</OMG_CallOrbitalSalvo.label>
+  <OMG_CallOrbitalSalvo.label>呼叫雇佣兵轨道齐射</OMG_CallOrbitalSalvo.label>
   <!-- EN: Call a salvo of orbital strikes around a target position. -->
-  <OMG_CallOrbitalSalvo.description>TODO</OMG_CallOrbitalSalvo.description>
+  <OMG_CallOrbitalSalvo.description>在目标位置周围呼叫轨道打击。</OMG_CallOrbitalSalvo.description>
   
   <!-- EN: call mercenary duo -->
-  <OMG_Duo_CallAid.label>TODO</OMG_Duo_CallAid.label>
+  <OMG_Duo_CallAid.label>呼叫雇佣兵二人组</OMG_Duo_CallAid.label>
   <!-- EN: Call a group of 2 Mercenary Enforcers to aid you in battle. -->
-  <OMG_Duo_CallAid.description>TODO</OMG_Duo_CallAid.description>
+  <OMG_Duo_CallAid.description>呼叫2名雇佣执法者协助你战斗。</OMG_Duo_CallAid.description>
   
   <!-- EN: call mercenary platoon -->
-  <OMG_Platoon_CallAid.label>TODO</OMG_Platoon_CallAid.label>
+  <OMG_Platoon_CallAid.label>呼叫雇佣兵排</OMG_Platoon_CallAid.label>
   <!-- EN: Call a group of 12 Mercenary Enforcers to aid you in battle. -->
-  <OMG_Platoon_CallAid.description>TODO</OMG_Platoon_CallAid.description>
+  <OMG_Platoon_CallAid.description>呼叫12名雇佣执法者协助你战斗。</OMG_Platoon_CallAid.description>
   
   <!-- EN: call mercenary psy-duo -->
-  <OMG_PsyDuo_CallAid.label>TODO</OMG_PsyDuo_CallAid.label>
+  <OMG_PsyDuo_CallAid.label>呼叫雇佣兵心灵二人组</OMG_PsyDuo_CallAid.label>
   <!-- EN: Call a group of 2 Mercenary Battlemasters to aid you in battle. -->
-  <OMG_PsyDuo_CallAid.description>TODO</OMG_PsyDuo_CallAid.description>
+  <OMG_PsyDuo_CallAid.description>呼叫2名雇佣战地大师协助你战斗。</OMG_PsyDuo_CallAid.description>
   
   <!-- EN: call mercenary psy-squad -->
-  <OMG_PsySquad_CallAid.label>TODO</OMG_PsySquad_CallAid.label>
+  <OMG_PsySquad_CallAid.label>呼叫雇佣兵心灵小队</OMG_PsySquad_CallAid.label>
   <!-- EN: Call a group of 4 Mercenary Battlemasters to aid you in battle. -->
-  <OMG_PsySquad_CallAid.description>TODO</OMG_PsySquad_CallAid.description>
+  <OMG_PsySquad_CallAid.description>呼叫4名雇佣战地大师协助你战斗。</OMG_PsySquad_CallAid.description>
   
   <!-- EN: call mercenary psy-team -->
-  <OMG_PsyTeam_CallAid.label>TODO</OMG_PsyTeam_CallAid.label>
+  <OMG_PsyTeam_CallAid.label>呼叫雇佣兵心灵团队</OMG_PsyTeam_CallAid.label>
   <!-- EN: Call a group of 8 Mercenary Battlemasters to aid you in battle. -->
-  <OMG_PsyTeam_CallAid.description>TODO</OMG_PsyTeam_CallAid.description>
+  <OMG_PsyTeam_CallAid.description>呼叫8名雇佣战地大师协助你战斗。</OMG_PsyTeam_CallAid.description>
   
   <!-- EN: call mercenary squad -->
-  <OMG_Squad_CallAid.label>TODO</OMG_Squad_CallAid.label>
+  <OMG_Squad_CallAid.label>呼叫雇佣兵小队</OMG_Squad_CallAid.label>
   <!-- EN: Call a group of 4 Mercenary Enforcers to aid you in battle. -->
-  <OMG_Squad_CallAid.description>TODO</OMG_Squad_CallAid.description>
+  <OMG_Squad_CallAid.description>呼叫4名雇佣执法者协助你战斗。</OMG_Squad_CallAid.description>
   
   <!-- EN: call mercenary team -->
-  <OMG_Team_CallAid.label>TODO</OMG_Team_CallAid.label>
+  <OMG_Team_CallAid.label>呼叫雇佣兵团队</OMG_Team_CallAid.label>
   <!-- EN: Call a group of 8 Mercenary Enforcers to aid you in battle. -->
-  <OMG_Team_CallAid.description>TODO</OMG_Team_CallAid.description>
+  <OMG_Team_CallAid.description>呼叫8名雇佣执法者协助你战斗。</OMG_Team_CallAid.description>
   
   <!-- EN: trade with exotic goods trader -->
-  <OMG_TradeCaravan_Exotic.label>TODO</OMG_TradeCaravan_Exotic.label>
+  <OMG_TradeCaravan_Exotic.label>与奇异商品贸易商交易</OMG_TradeCaravan_Exotic.label>
   
   <!-- EN: trade with goods trader -->
-  <OMG_TradeCaravan_Standard.label>TODO</OMG_TradeCaravan_Standard.label>
+  <OMG_TradeCaravan_Standard.label>与商品贸易商交易</OMG_TradeCaravan_Standard.label>
   
 </LanguageData>

@@ -1,7 +1,7 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Nomads squad led by {LEADERKIND_label} armed with ODC gear. -->
-  <OE_Beacongroup_ODC.leaderDescription>TODO</OE_Beacongroup_ODC.leaderDescription>
+  <OE_Beacongroup_ODC.leaderDescription>由{LEADERKIND_label}领导的装备ODC装备的游牧民小队。</OE_Beacongroup_ODC.leaderDescription>
   
 </LanguageData>

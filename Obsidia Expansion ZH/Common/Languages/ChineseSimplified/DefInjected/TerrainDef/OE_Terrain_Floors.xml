@@ -1,71 +1,71 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: crystal tilled soil -->
-  <OE_Crystal_TilledSoil.label>TODO</OE_Crystal_TilledSoil.label>
+  <OE_Crystal_TilledSoil.label>水晶耕作土壤</OE_Crystal_TilledSoil.label>
   <!-- EN: Triple efficient tilled soil with Sinterius. Costly but effective Obsidia technique. -->
-  <OE_Crystal_TilledSoil.description>TODO</OE_Crystal_TilledSoil.description>
+  <OE_Crystal_TilledSoil.description>使用辛特瑞斯制作的三倍效率耕作土壤。昂贵但有效的黑曜石技术。</OE_Crystal_TilledSoil.description>
   <!-- EN: dirt -->
-  <OE_Crystal_TilledSoil.tools.dirt.label>TODO</OE_Crystal_TilledSoil.tools.dirt.label>
+  <OE_Crystal_TilledSoil.tools.dirt.label>泥土</OE_Crystal_TilledSoil.tools.dirt.label>
   
   <!-- EN: dragonian floor -->
-  <OE_DragonianPlankFloor.label>TODO</OE_DragonianPlankFloor.label>
+  <OE_DragonianPlankFloor.label>龙族地板</OE_DragonianPlankFloor.label>
   <!-- EN: Dragonian floor is highly prized by Obsidia nobility because of its luxury. Mostly used in hunting lodges. -->
-  <OE_DragonianPlankFloor.description>TODO</OE_DragonianPlankFloor.description>
+  <OE_DragonianPlankFloor.description>龙族地板因其奢华而受到黑曜石贵族的高度珍视。主要用于狩猎小屋。</OE_DragonianPlankFloor.description>
   
   <!-- EN: empyrium matrix tile -->
-  <OE_EmpyriumHexTile.label>TODO</OE_EmpyriumHexTile.label>
+  <OE_EmpyriumHexTile.label>安匹瑞姆矩阵地砖</OE_EmpyriumHexTile.label>
   <!-- EN: Empyrium matrix tile is the most luxurious of the bunch and provides a cleanliness bonus. Highly prized by Obsidia nobility. -->
-  <OE_EmpyriumHexTile.description>TODO</OE_EmpyriumHexTile.description>
+  <OE_EmpyriumHexTile.description>安匹瑞姆矩阵地砖是最奢华的，提供清洁度加成。深受黑曜石贵族珍爱。</OE_EmpyriumHexTile.description>
   
   <!-- EN: empyrium tile -->
-  <OE_EmpyriumTile.label>TODO</OE_EmpyriumTile.label>
+  <OE_EmpyriumTile.label>安匹瑞姆地砖</OE_EmpyriumTile.label>
   <!-- EN: Empyrium tile is the most luxurious of the bunch and provides a cleanliness bonus. Highly prized by Obsidia nobility. -->
-  <OE_EmpyriumTile.description>TODO</OE_EmpyriumTile.description>
+  <OE_EmpyriumTile.description>安匹瑞姆地砖是最奢华的，提供清洁度加成。深受黑曜石贵族珍爱。</OE_EmpyriumTile.description>
   
   <!-- EN: fungi floor -->
-  <OE_FungiPlankFloor.label>TODO</OE_FungiPlankFloor.label>
+  <OE_FungiPlankFloor.label>真菌地板</OE_FungiPlankFloor.label>
   <!-- EN: Excellent fungi wood flooring, beautiful enough, clean and universal due to its low chance of burning. Very easy to install. -->
-  <OE_FungiPlankFloor.description>TODO</OE_FungiPlankFloor.description>
+  <OE_FungiPlankFloor.description>优质的真菌木地板，足够美丽、干净且通用，因为它燃烧几率低。非常容易安装。</OE_FungiPlankFloor.description>
   
   <!-- EN: mythril matrix tile -->
-  <OE_MythrilHexTile.label>TODO</OE_MythrilHexTile.label>
+  <OE_MythrilHexTile.label>秘银矩阵地砖</OE_MythrilHexTile.label>
   <!-- EN: Mythril matrix tile is the most luxurious of the bunch and provides a cleanliness bonus. Highly prized by Obsidia nobility. -->
-  <OE_MythrilHexTile.description>TODO</OE_MythrilHexTile.description>
+  <OE_MythrilHexTile.description>秘银矩阵地砖是最奢华的，提供清洁度加成。深受黑曜石贵族珍爱。</OE_MythrilHexTile.description>
   
   <!-- EN: mythril tile -->
-  <OE_MythrilTile.label>TODO</OE_MythrilTile.label>
+  <OE_MythrilTile.label>秘银地砖</OE_MythrilTile.label>
   <!-- EN: Mythril tile is the most luxurious of the bunch and provides a cleanliness bonus. Highly prized by Obsidia nobility. -->
-  <OE_MythrilTile.description>TODO</OE_MythrilTile.description>
+  <OE_MythrilTile.description>秘银地砖是最奢华的，提供清洁度加成。深受黑曜石贵族珍爱。</OE_MythrilTile.description>
   
   <!-- EN: obsidian matrix tile -->
-  <OE_ObsidianHexTile.label>TODO</OE_ObsidianHexTile.label>
+  <OE_ObsidianHexTile.label>黑曜石矩阵地砖</OE_ObsidianHexTile.label>
   <!-- EN: Standard obsidian matrix tile is beautiful and clean. Very difficult to lay. -->
-  <OE_ObsidianHexTile.description>TODO</OE_ObsidianHexTile.description>
+  <OE_ObsidianHexTile.description>标准黑曜石矩阵地砖美观且干净。铺设非常困难。</OE_ObsidianHexTile.description>
   
   <!-- EN: obsidian tile -->
-  <OE_ObsidianTile.label>TODO</OE_ObsidianTile.label>
+  <OE_ObsidianTile.label>黑曜石地砖</OE_ObsidianTile.label>
   <!-- EN: Standard obsidian floor is beautiful and clean. Very difficult to lay. -->
-  <OE_ObsidianTile.description>TODO</OE_ObsidianTile.description>
+  <OE_ObsidianTile.description>标准黑曜石地板美观且干净。铺设非常困难。</OE_ObsidianTile.description>
   
   <!-- EN: orichalcum matrix tile -->
-  <OE_OrichalcumHexTile.label>TODO</OE_OrichalcumHexTile.label>
+  <OE_OrichalcumHexTile.label>奥利哈刚矩阵地砖</OE_OrichalcumHexTile.label>
   <!-- EN: Orichalcum matrix tile is the most luxurious of the bunch and provides a cleanliness bonus. Highly prized by Obsidia nobility. -->
-  <OE_OrichalcumHexTile.description>TODO</OE_OrichalcumHexTile.description>
+  <OE_OrichalcumHexTile.description>奥利哈刚矩阵地砖是最奢华的，提供清洁度加成。深受黑曜石贵族珍爱。</OE_OrichalcumHexTile.description>
   
   <!-- EN: orichalcum tile -->
-  <OE_OrichalcumTile.label>TODO</OE_OrichalcumTile.label>
+  <OE_OrichalcumTile.label>奥利哈刚地砖</OE_OrichalcumTile.label>
   <!-- EN: Orichalcum tile is the most luxurious of the bunch and provides a cleanliness bonus. Highly prized by Obsidia nobility. -->
-  <OE_OrichalcumTile.description>TODO</OE_OrichalcumTile.description>
+  <OE_OrichalcumTile.description>奥利哈刚地砖是最奢华的，提供清洁度加成。深受黑曜石贵族珍爱。</OE_OrichalcumTile.description>
   
   <!-- EN: platinum matrix tile -->
-  <OE_PlatinumHexTile.label>TODO</OE_PlatinumHexTile.label>
+  <OE_PlatinumHexTile.label>铂金矩阵地砖</OE_PlatinumHexTile.label>
   <!-- EN: Sterile platinum matrix tile with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build, but quick to clean. -->
-  <OE_PlatinumHexTile.description>TODO</OE_PlatinumHexTile.description>
+  <OE_PlatinumHexTile.description>无菌铂金矩阵地砖，具有特殊的清洁增强属性。超洁净房间可改善医院和研究实验室的结果。这种地砖建造非常缓慢，但清洁很快。</OE_PlatinumHexTile.description>
   
   <!-- EN: platinum tile -->
-  <OE_PlatinumTile.label>TODO</OE_PlatinumTile.label>
+  <OE_PlatinumTile.label>铂金地砖</OE_PlatinumTile.label>
   <!-- EN: Standard platinum floor is beautiful and clean. Very difficult to lay. -->
-  <OE_PlatinumTile.description>TODO</OE_PlatinumTile.description>
+  <OE_PlatinumTile.description>标准铂金地板美观且干净。铺设非常困难。</OE_PlatinumTile.description>
   
 </LanguageData>

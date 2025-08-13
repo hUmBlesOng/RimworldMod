@@ -1,46 +1,46 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: gestating things at an obsidia amalgam vat -->
-  <OE_UseAmalgamVat.label>TODO</OE_UseAmalgamVat.label>
+  <OE_UseAmalgamVat.label>在黑曜石融合缸中培育物品</OE_UseAmalgamVat.label>
   <!-- EN: gestating at -->
-  <OE_UseAmalgamVat.gerund>TODO</OE_UseAmalgamVat.gerund>
+  <OE_UseAmalgamVat.gerund>正在培育于</OE_UseAmalgamVat.gerund>
   <!-- EN: gestate -->
-  <OE_UseAmalgamVat.verb>TODO</OE_UseAmalgamVat.verb>
+  <OE_UseAmalgamVat.verb>培育</OE_UseAmalgamVat.verb>
   
   <!-- EN: assembling things at an obsidia armor station -->
-  <OE_UseArmorStation.label>TODO</OE_UseArmorStation.label>
+  <OE_UseArmorStation.label>在黑曜石护甲工作站组装物品</OE_UseArmorStation.label>
   <!-- EN: assembling at -->
-  <OE_UseArmorStation.gerund>TODO</OE_UseArmorStation.gerund>
+  <OE_UseArmorStation.gerund>正在组装于</OE_UseArmorStation.gerund>
   <!-- EN: craft -->
-  <OE_UseArmorStation.verb>TODO</OE_UseArmorStation.verb>
+  <OE_UseArmorStation.verb>制作</OE_UseArmorStation.verb>
   
   <!-- EN: assembling things at an obsidia bionic table -->
-  <OE_UseBionicWorkbench.label>TODO</OE_UseBionicWorkbench.label>
+  <OE_UseBionicWorkbench.label>在黑曜石仿生工作台组装物品</OE_UseBionicWorkbench.label>
   <!-- EN: assembling at -->
-  <OE_UseBionicWorkbench.gerund>TODO</OE_UseBionicWorkbench.gerund>
+  <OE_UseBionicWorkbench.gerund>正在组装于</OE_UseBionicWorkbench.gerund>
   <!-- EN: craft -->
-  <OE_UseBionicWorkbench.verb>TODO</OE_UseBionicWorkbench.verb>
+  <OE_UseBionicWorkbench.verb>制作</OE_UseBionicWorkbench.verb>
   
   <!-- EN: bound weapon at an obsidia armament table -->
-  <OE_UsePersonaWorkbench.label>TODO</OE_UsePersonaWorkbench.label>
+  <OE_UsePersonaWorkbench.label>在黑曜石武器绑定台绑定武器</OE_UsePersonaWorkbench.label>
   <!-- EN: bonding at -->
-  <OE_UsePersonaWorkbench.gerund>TODO</OE_UsePersonaWorkbench.gerund>
+  <OE_UsePersonaWorkbench.gerund>正在绑定于</OE_UsePersonaWorkbench.gerund>
   <!-- EN: bond -->
-  <OE_UsePersonaWorkbench.verb>TODO</OE_UsePersonaWorkbench.verb>
+  <OE_UsePersonaWorkbench.verb>绑定</OE_UsePersonaWorkbench.verb>
   
   <!-- EN: synthesis things at an obsidia synthesis printer -->
-  <OE_UseSynthesisPrinter.label>TODO</OE_UseSynthesisPrinter.label>
+  <OE_UseSynthesisPrinter.label>在黑曜石合成打印机中合成物品</OE_UseSynthesisPrinter.label>
   <!-- EN: synthesis at -->
-  <OE_UseSynthesisPrinter.gerund>TODO</OE_UseSynthesisPrinter.gerund>
+  <OE_UseSynthesisPrinter.gerund>正在合成于</OE_UseSynthesisPrinter.gerund>
   <!-- EN: synthesis -->
-  <OE_UseSynthesisPrinter.verb>TODO</OE_UseSynthesisPrinter.verb>
+  <OE_UseSynthesisPrinter.verb>合成</OE_UseSynthesisPrinter.verb>
   
   <!-- EN: assembling things at an obsidia weapon workbench -->
-  <OE_UseWeaponWorkbench.label>TODO</OE_UseWeaponWorkbench.label>
+  <OE_UseWeaponWorkbench.label>在黑曜石武器工作台组装物品</OE_UseWeaponWorkbench.label>
   <!-- EN: assembling at -->
-  <OE_UseWeaponWorkbench.gerund>TODO</OE_UseWeaponWorkbench.gerund>
+  <OE_UseWeaponWorkbench.gerund>正在组装于</OE_UseWeaponWorkbench.gerund>
   <!-- EN: craft -->
-  <OE_UseWeaponWorkbench.verb>TODO</OE_UseWeaponWorkbench.verb>
+  <OE_UseWeaponWorkbench.verb>制作</OE_UseWeaponWorkbench.verb>
   
 </LanguageData>
