@@ -2,113 +2,113 @@
 <LanguageData>
   
   <!-- EN: Oni -->
-  <OCC_BigHammer.label>TODO</OCC_BigHammer.label>
+  <OCC_BigHammer.label>鬼神</OCC_BigHammer.label>
   <!-- EN: Regular Big Hammer used by the OCC Knights. -->
-  <OCC_BigHammer.description>TODO</OCC_BigHammer.description>
+  <OCC_BigHammer.description>OCC骑士使用的常规大锤。</OCC_BigHammer.description>
   <!-- EN: handle -->
-  <OCC_BigHammer.tools.handle.label>TODO</OCC_BigHammer.tools.handle.label>
+  <OCC_BigHammer.tools.handle.label>手柄</OCC_BigHammer.tools.handle.label>
   <!-- EN: head -->
-  <OCC_BigHammer.tools.head.label>TODO</OCC_BigHammer.tools.head.label>
+  <OCC_BigHammer.tools.head.label>锤头</OCC_BigHammer.tools.head.label>
   
   <!-- EN: Reforged Oni -->
-  <OCC_BigHammer_M.label>TODO</OCC_BigHammer_M.label>
+  <OCC_BigHammer_M.label>重铸鬼神</OCC_BigHammer_M.label>
   <!-- EN: Reforged Big Hammer used by OCC Paladins. -->
-  <OCC_BigHammer_M.description>TODO</OCC_BigHammer_M.description>
+  <OCC_BigHammer_M.description>OCC圣骑士使用的重铸大锤。</OCC_BigHammer_M.description>
   <!-- EN: handle -->
-  <OCC_BigHammer_M.tools.handle.label>TODO</OCC_BigHammer_M.tools.handle.label>
+  <OCC_BigHammer_M.tools.handle.label>手柄</OCC_BigHammer_M.tools.handle.label>
   <!-- EN: head -->
-  <OCC_BigHammer_M.tools.head.label>TODO</OCC_BigHammer_M.tools.head.label>
+  <OCC_BigHammer_M.tools.head.label>锤头</OCC_BigHammer_M.tools.head.label>
   
   <!-- EN: Shikigami -->
-  <OCC_BigSword.label>TODO</OCC_BigSword.label>
+  <OCC_BigSword.label>式神</OCC_BigSword.label>
   <!-- EN: Regular Longsword used by the OCC Knights. -->
-  <OCC_BigSword.description>TODO</OCC_BigSword.description>
+  <OCC_BigSword.description>OCC骑士使用的常规长剑。</OCC_BigSword.description>
   <!-- EN: handle -->
-  <OCC_BigSword.tools.handle.label>TODO</OCC_BigSword.tools.handle.label>
+  <OCC_BigSword.tools.handle.label>手柄</OCC_BigSword.tools.handle.label>
   <!-- EN: point -->
-  <OCC_BigSword.tools.point.label>TODO</OCC_BigSword.tools.point.label>
+  <OCC_BigSword.tools.point.label>剑尖</OCC_BigSword.tools.point.label>
   <!-- EN: edge -->
-  <OCC_BigSword.tools.edge.label>TODO</OCC_BigSword.tools.edge.label>
+  <OCC_BigSword.tools.edge.label>剑刃</OCC_BigSword.tools.edge.label>
   
   <!-- EN: Reforged Shikigami -->
-  <OCC_BigSword_M.label>TODO</OCC_BigSword_M.label>
+  <OCC_BigSword_M.label>重铸式神</OCC_BigSword_M.label>
   <!-- EN: Reforged Longsword used by OCC Paladins. -->
-  <OCC_BigSword_M.description>TODO</OCC_BigSword_M.description>
+  <OCC_BigSword_M.description>OCC圣骑士使用的重铸长剑。</OCC_BigSword_M.description>
   <!-- EN: handle -->
-  <OCC_BigSword_M.tools.handle.label>TODO</OCC_BigSword_M.tools.handle.label>
+  <OCC_BigSword_M.tools.handle.label>手柄</OCC_BigSword_M.tools.handle.label>
   <!-- EN: point -->
-  <OCC_BigSword_M.tools.point.label>TODO</OCC_BigSword_M.tools.point.label>
+  <OCC_BigSword_M.tools.point.label>剑尖</OCC_BigSword_M.tools.point.label>
   <!-- EN: edge -->
-  <OCC_BigSword_M.tools.edge.label>TODO</OCC_BigSword_M.tools.edge.label>
+  <OCC_BigSword_M.tools.edge.label>剑刃</OCC_BigSword_M.tools.edge.label>
   
   <!-- EN: Typhon -->
-  <OCC_PowerFist.label>TODO</OCC_PowerFist.label>
+  <OCC_PowerFist.label>泰丰</OCC_PowerFist.label>
   <!-- EN: Regular Power Fist used by the OCC Knights. -->
-  <OCC_PowerFist.description>TODO</OCC_PowerFist.description>
+  <OCC_PowerFist.description>OCC骑士使用的常规动力拳套。</OCC_PowerFist.description>
   <!-- EN: gauntlet -->
-  <OCC_PowerFist.tools.gauntlet.label>TODO</OCC_PowerFist.tools.gauntlet.label>
+  <OCC_PowerFist.tools.gauntlet.label>拳套</OCC_PowerFist.tools.gauntlet.label>
   
   <!-- EN: Typhon(Acid) -->
-  <OCC_PowerFist_Acid.label>TODO</OCC_PowerFist_Acid.label>
+  <OCC_PowerFist_Acid.label>泰丰（酸性）</OCC_PowerFist_Acid.label>
   <!-- EN: Regular Power Fist used by the OCC Knights.\n\nIt's remanufactured weapon using OTC technologies. Charged with Acid damage. -->
-  <OCC_PowerFist_Acid.description>TODO</OCC_PowerFist_Acid.description>
+  <OCC_PowerFist_Acid.description>OCC骑士使用的常规动力拳套。\n\n这是使用OTC技术重新制造的武器。充能酸性伤害。</OCC_PowerFist_Acid.description>
   <!-- EN: gauntlet -->
-  <OCC_PowerFist_Acid.tools.gauntlet.label>TODO</OCC_PowerFist_Acid.tools.gauntlet.label>
+  <OCC_PowerFist_Acid.tools.gauntlet.label>拳套</OCC_PowerFist_Acid.tools.gauntlet.label>
   
   <!-- EN: Typhon(Cryo) -->
-  <OCC_PowerFist_Cryo.label>TODO</OCC_PowerFist_Cryo.label>
+  <OCC_PowerFist_Cryo.label>泰丰（冷冻）</OCC_PowerFist_Cryo.label>
   <!-- EN: Regular Power Fist used by the OCC Knights.\n\nIt's remanufactured weapon using OTC technologies. Charged with Cryo damage. -->
-  <OCC_PowerFist_Cryo.description>TODO</OCC_PowerFist_Cryo.description>
+  <OCC_PowerFist_Cryo.description>OCC骑士使用的常规动力拳套。\n\n这是使用OTC技术重新制造的武器。充能冷冻伤害。</OCC_PowerFist_Cryo.description>
   <!-- EN: gauntlet -->
-  <OCC_PowerFist_Cryo.tools.gauntlet.label>TODO</OCC_PowerFist_Cryo.tools.gauntlet.label>
+  <OCC_PowerFist_Cryo.tools.gauntlet.label>拳套</OCC_PowerFist_Cryo.tools.gauntlet.label>
   
   <!-- EN: Typhon(EMP) -->
-  <OCC_PowerFist_EMP.label>TODO</OCC_PowerFist_EMP.label>
+  <OCC_PowerFist_EMP.label>泰丰（电磁）</OCC_PowerFist_EMP.label>
   <!-- EN: Regular Power Fist used by the OCC Knights.\n\nIt's remanufactured weapon using OTC technologies. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
-  <OCC_PowerFist_EMP.description>TODO</OCC_PowerFist_EMP.description>
+  <OCC_PowerFist_EMP.description>OCC骑士使用的常规动力拳套。\n\n这是使用OTC技术重新制造的武器。充能电磁伤害。\n\n警告！电磁伤害并非旨在摧毁血肉之躯。</OCC_PowerFist_EMP.description>
   <!-- EN: gauntlet -->
-  <OCC_PowerFist_EMP.tools.gauntlet.label>TODO</OCC_PowerFist_EMP.tools.gauntlet.label>
+  <OCC_PowerFist_EMP.tools.gauntlet.label>拳套</OCC_PowerFist_EMP.tools.gauntlet.label>
   
   <!-- EN: Typhon(Fire) -->
-  <OCC_PowerFist_Fire.label>TODO</OCC_PowerFist_Fire.label>
+  <OCC_PowerFist_Fire.label>泰丰（火焰）</OCC_PowerFist_Fire.label>
   <!-- EN: Regular Power Fist used by the OCC Knights.\n\nIt's remanufactured weapon using OTC technologies. Charged with Fire damage. -->
-  <OCC_PowerFist_Fire.description>TODO</OCC_PowerFist_Fire.description>
+  <OCC_PowerFist_Fire.description>OCC骑士使用的常规动力拳套。\n\n这是使用OTC技术重新制造的武器。充能火焰伤害。</OCC_PowerFist_Fire.description>
   <!-- EN: gauntlet -->
-  <OCC_PowerFist_Fire.tools.gauntlet.label>TODO</OCC_PowerFist_Fire.tools.gauntlet.label>
+  <OCC_PowerFist_Fire.tools.gauntlet.label>拳套</OCC_PowerFist_Fire.tools.gauntlet.label>
   
   <!-- EN: Reforged Typhon -->
-  <OCC_PowerFist_M.label>TODO</OCC_PowerFist_M.label>
+  <OCC_PowerFist_M.label>重铸泰丰</OCC_PowerFist_M.label>
   <!-- EN: Reforged Power Fist used by OCC Paladins. -->
-  <OCC_PowerFist_M.description>TODO</OCC_PowerFist_M.description>
+  <OCC_PowerFist_M.description>OCC圣骑士使用的重铸动力拳套。</OCC_PowerFist_M.description>
   <!-- EN: gauntlet -->
-  <OCC_PowerFist_M.tools.gauntlet.label>TODO</OCC_PowerFist_M.tools.gauntlet.label>
+  <OCC_PowerFist_M.tools.gauntlet.label>拳套</OCC_PowerFist_M.tools.gauntlet.label>
   
   <!-- EN: Reforged Typhon(Acid) -->
-  <OCC_PowerFist_M_Acid.label>TODO</OCC_PowerFist_M_Acid.label>
+  <OCC_PowerFist_M_Acid.label>重铸泰丰（酸性）</OCC_PowerFist_M_Acid.label>
   <!-- EN: Reforged Power Fist used by OCC Paladins.\n\nIt's remanufactured weapon using OTC technologies. Charged with Acid damage. -->
-  <OCC_PowerFist_M_Acid.description>TODO</OCC_PowerFist_M_Acid.description>
+  <OCC_PowerFist_M_Acid.description>OCC圣骑士使用的重铸动力拳套。\n\n这是使用OTC技术重新制造的武器。充能酸性伤害。</OCC_PowerFist_M_Acid.description>
   <!-- EN: gauntlet -->
-  <OCC_PowerFist_M_Acid.tools.gauntlet.label>TODO</OCC_PowerFist_M_Acid.tools.gauntlet.label>
+  <OCC_PowerFist_M_Acid.tools.gauntlet.label>拳套</OCC_PowerFist_M_Acid.tools.gauntlet.label>
   
   <!-- EN: Reforged Typhon(Cryo) -->
-  <OCC_PowerFist_M_Cryo.label>TODO</OCC_PowerFist_M_Cryo.label>
+  <OCC_PowerFist_M_Cryo.label>重铸泰丰（冷冻）</OCC_PowerFist_M_Cryo.label>
   <!-- EN: Reforged Power Fist used by OCC Paladins.\n\nIt's remanufactured weapon using OTC technologies. Charged with Cryo damage. -->
-  <OCC_PowerFist_M_Cryo.description>TODO</OCC_PowerFist_M_Cryo.description>
+  <OCC_PowerFist_M_Cryo.description>OCC圣骑士使用的重铸动力拳套。\n\n这是使用OTC技术重新制造的武器。充能冷冻伤害。</OCC_PowerFist_M_Cryo.description>
   <!-- EN: gauntlet -->
-  <OCC_PowerFist_M_Cryo.tools.gauntlet.label>TODO</OCC_PowerFist_M_Cryo.tools.gauntlet.label>
+  <OCC_PowerFist_M_Cryo.tools.gauntlet.label>拳套</OCC_PowerFist_M_Cryo.tools.gauntlet.label>
   
   <!-- EN: Reforged Typhon(EMP) -->
-  <OCC_PowerFist_M_EMP.label>TODO</OCC_PowerFist_M_EMP.label>
+  <OCC_PowerFist_M_EMP.label>重铸泰丰（电磁）</OCC_PowerFist_M_EMP.label>
   <!-- EN: Reforged Power Fist used by OCC Paladins.\n\nIt's remanufactured weapon using OTC technologies. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
-  <OCC_PowerFist_M_EMP.description>TODO</OCC_PowerFist_M_EMP.description>
+  <OCC_PowerFist_M_EMP.description>OCC圣骑士使用的重铸动力拳套。\n\n这是使用OTC技术重新制造的武器。充能电磁伤害。\n\n警告！电磁伤害并非旨在摧毁血肉之躯。</OCC_PowerFist_M_EMP.description>
   <!-- EN: gauntlet -->
-  <OCC_PowerFist_M_EMP.tools.gauntlet.label>TODO</OCC_PowerFist_M_EMP.tools.gauntlet.label>
+  <OCC_PowerFist_M_EMP.tools.gauntlet.label>拳套</OCC_PowerFist_M_EMP.tools.gauntlet.label>
   
   <!-- EN: Reforged Typhon(Fire) -->
-  <OCC_PowerFist_M_Fire.label>TODO</OCC_PowerFist_M_Fire.label>
+  <OCC_PowerFist_M_Fire.label>重铸泰丰（火焰）</OCC_PowerFist_M_Fire.label>
   <!-- EN: Reforged Power Fist used by OCC Paladins.\n\nIt's remanufactured weapon using OTC technologies. Charged with Fire damage. -->
-  <OCC_PowerFist_M_Fire.description>TODO</OCC_PowerFist_M_Fire.description>
+  <OCC_PowerFist_M_Fire.description>OCC圣骑士使用的重铸动力拳套。\n\n这是使用OTC技术重新制造的武器。充能火焰伤害。</OCC_PowerFist_M_Fire.description>
   <!-- EN: gauntlet -->
-  <OCC_PowerFist_M_Fire.tools.gauntlet.label>TODO</OCC_PowerFist_M_Fire.tools.gauntlet.label>
+  <OCC_PowerFist_M_Fire.tools.gauntlet.label>拳套</OCC_PowerFist_M_Fire.tools.gauntlet.label>
   
 </LanguageData>

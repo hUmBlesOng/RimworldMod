@@ -1,50 +1,50 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Prototype sX-01a bullet -->
-  <Bullet_OMC_Trophy_P.label>TODO</Bullet_OMC_Trophy_P.label>
+  <Bullet_OMC_Trophy_P.label>原型sX-01a子弹</Bullet_OMC_Trophy_P.label>
   
   <!-- EN: Inlaid Prototype sX-01a bullet -->
-  <Bullet_OMC_Trophy_P_I.label>TODO</Bullet_OMC_Trophy_P_I.label>
+  <Bullet_OMC_Trophy_P_I.label>镶嵌原型sX-01a子弹</Bullet_OMC_Trophy_P_I.label>
   
   <!-- EN: Empress's Blessing -->
-  <OMC_Trophy_Chainsword.label>TODO</OMC_Trophy_Chainsword.label>
+  <OMC_Trophy_Chainsword.label>女皇的祝福</OMC_Trophy_Chainsword.label>
   <!-- EN: The good old chainsword is designed to destroy the enemies of Obsidia Empire.\n\nThis is a rare trophy weapon.\n\nFeature: a built-in module that improves combat performance. -->
-  <OMC_Trophy_Chainsword.description>TODO</OMC_Trophy_Chainsword.description>
+  <OMC_Trophy_Chainsword.description>这把经典的链锯剑专为摧毁黑曜石帝国的敌人而设计。\n\n这是一种稀有的战利品武器。\n\n特性：内置模块，提高战斗表现。</OMC_Trophy_Chainsword.description>
   <!-- EN: handle -->
-  <OMC_Trophy_Chainsword.tools.handle.label>TODO</OMC_Trophy_Chainsword.tools.handle.label>
+  <OMC_Trophy_Chainsword.tools.handle.label>握把</OMC_Trophy_Chainsword.tools.handle.label>
   <!-- EN: chain -->
-  <OMC_Trophy_Chainsword.tools.chain.label>TODO</OMC_Trophy_Chainsword.tools.chain.label>
+  <OMC_Trophy_Chainsword.tools.chain.label>链条</OMC_Trophy_Chainsword.tools.chain.label>
   
   <!-- EN: Inlaid Empress's Blessing -->
-  <OMC_Trophy_Chainsword_I.label>TODO</OMC_Trophy_Chainsword_I.label>
+  <OMC_Trophy_Chainsword_I.label>镶嵌女皇的祝福</OMC_Trophy_Chainsword_I.label>
   <!-- EN: The good old chainsword is designed to destroy the enemies of Obsidia Empire.\n\nThis is a rare trophy weapon.\n\nFeature: a built-in module that improves combat performance.\n\nInlaid with Insight Power Stone: Weapon bonus stats increased. -->
-  <OMC_Trophy_Chainsword_I.description>TODO</OMC_Trophy_Chainsword_I.description>
+  <OMC_Trophy_Chainsword_I.description>这把经典的链锯剑专为摧毁黑曜石帝国的敌人而设计。\n\n这是一种稀有的战利品武器。\n\n特性：内置模块，提高战斗表现。\n\n镶嵌洞察宝石：武器奖励属性提升。</OMC_Trophy_Chainsword_I.description>
   <!-- EN: handle -->
-  <OMC_Trophy_Chainsword_I.tools.handle.label>TODO</OMC_Trophy_Chainsword_I.tools.handle.label>
+  <OMC_Trophy_Chainsword_I.tools.handle.label>握把</OMC_Trophy_Chainsword_I.tools.handle.label>
   <!-- EN: chain -->
-  <OMC_Trophy_Chainsword_I.tools.chain.label>TODO</OMC_Trophy_Chainsword_I.tools.chain.label>
+  <OMC_Trophy_Chainsword_I.tools.chain.label>链条</OMC_Trophy_Chainsword_I.tools.chain.label>
   
   <!-- EN: Prototype sX-01a -->
-  <OMC_Trophy_Pistol.label>TODO</OMC_Trophy_Pistol.label>
+  <OMC_Trophy_Pistol.label>原型sX-01a</OMC_Trophy_Pistol.label>
   <!-- EN: Prototype of a new pistol that uses an AI module to improve accuracy.\n\nThis is a rare trophy weapon.\n\nFeature: built-in accuracy stabilization module. -->
-  <OMC_Trophy_Pistol.description>TODO</OMC_Trophy_Pistol.description>
+  <OMC_Trophy_Pistol.description>使用AI模块提高精度的新型手枪原型。\n\n这是一种稀有的战利品武器。\n\n特性：内置精度稳定模块。</OMC_Trophy_Pistol.description>
   <!-- EN: grip -->
-  <OMC_Trophy_Pistol.tools.grip.label>TODO</OMC_Trophy_Pistol.tools.grip.label>
+  <OMC_Trophy_Pistol.tools.grip.label>握把</OMC_Trophy_Pistol.tools.grip.label>
   <!-- EN: barrel -->
-  <OMC_Trophy_Pistol.tools.barrel.label>TODO</OMC_Trophy_Pistol.tools.barrel.label>
+  <OMC_Trophy_Pistol.tools.barrel.label>枪管</OMC_Trophy_Pistol.tools.barrel.label>
   <!-- EN: Prototype sX-01a -->
-  <OMC_Trophy_Pistol.verbs.Verb_Shoot.label>TODO</OMC_Trophy_Pistol.verbs.Verb_Shoot.label>
+  <OMC_Trophy_Pistol.verbs.Verb_Shoot.label>原型sX-01a</OMC_Trophy_Pistol.verbs.Verb_Shoot.label>
   
   <!-- EN: Inlaid Prototype sX-01a -->
-  <OMC_Trophy_Pistol_I.label>TODO</OMC_Trophy_Pistol_I.label>
+  <OMC_Trophy_Pistol_I.label>镶嵌原型sX-01a</OMC_Trophy_Pistol_I.label>
   <!-- EN: Prototype of a new pistol that uses an AI module to improve accuracy.\n\nThis is a rare trophy weapon.\n\nFeature: built-in accuracy stabilization module.\n\nInlaid with Vitality Power Stone: Weapon operational stats increased. -->
-  <OMC_Trophy_Pistol_I.description>TODO</OMC_Trophy_Pistol_I.description>
+  <OMC_Trophy_Pistol_I.description>使用AI模块提高精度的新型手枪原型。\n\n这是一种稀有的战利品武器。\n\n特性：内置精度稳定模块。\n\n镶嵌活力宝石：武器操作属性提升。</OMC_Trophy_Pistol_I.description>
   <!-- EN: grip -->
-  <OMC_Trophy_Pistol_I.tools.grip.label>TODO</OMC_Trophy_Pistol_I.tools.grip.label>
+  <OMC_Trophy_Pistol_I.tools.grip.label>握把</OMC_Trophy_Pistol_I.tools.grip.label>
   <!-- EN: barrel -->
-  <OMC_Trophy_Pistol_I.tools.barrel.label>TODO</OMC_Trophy_Pistol_I.tools.barrel.label>
+  <OMC_Trophy_Pistol_I.tools.barrel.label>枪管</OMC_Trophy_Pistol_I.tools.barrel.label>
   <!-- EN: Inlaid Prototype sX-01a -->
-  <OMC_Trophy_Pistol_I.verbs.Verb_Shoot.label>TODO</OMC_Trophy_Pistol_I.verbs.Verb_Shoot.label>
+  <OMC_Trophy_Pistol_I.verbs.Verb_Shoot.label>镶嵌原型sX-01a</OMC_Trophy_Pistol_I.verbs.Verb_Shoot.label>
   
 </LanguageData>

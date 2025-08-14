@@ -2,108 +2,108 @@
 <LanguageData>
   
   <!-- EN: Bequest - Apex -->
-  <ODC_BigSword.label>TODO</ODC_BigSword.label>
+  <ODC_BigSword.label>遗赠 - 巅峰</ODC_BigSword.label>
   <!-- EN: Specialised Big Sword used by Obsidia Drifters. -->
-  <ODC_BigSword.description>TODO</ODC_BigSword.description>
+  <ODC_BigSword.description>黑曜石漂流者使用的专业大剑。</ODC_BigSword.description>
   <!-- EN: handle -->
-  <ODC_BigSword.tools.handle.label>TODO</ODC_BigSword.tools.handle.label>
+  <ODC_BigSword.tools.handle.label>手柄</ODC_BigSword.tools.handle.label>
   <!-- EN: point -->
-  <ODC_BigSword.tools.point.label>TODO</ODC_BigSword.tools.point.label>
+  <ODC_BigSword.tools.point.label>剑尖</ODC_BigSword.tools.point.label>
   <!-- EN: edge -->
-  <ODC_BigSword.tools.edge.label>TODO</ODC_BigSword.tools.edge.label>
+  <ODC_BigSword.tools.edge.label>剑刃</ODC_BigSword.tools.edge.label>
   
   <!-- EN: Guillotine - Apex -->
-  <ODC_DualSword.label>TODO</ODC_DualSword.label>
+  <ODC_DualSword.label>断头台 - 巅峰</ODC_DualSword.label>
   <!-- EN: Specialised Dual Sword used by Obsidia Drifters. -->
-  <ODC_DualSword.description>TODO</ODC_DualSword.description>
+  <ODC_DualSword.description>黑曜石漂流者使用的专业双剑。</ODC_DualSword.description>
   <!-- EN: shaft -->
-  <ODC_DualSword.tools.shaft.label>TODO</ODC_DualSword.tools.shaft.label>
+  <ODC_DualSword.tools.shaft.label>剑柄</ODC_DualSword.tools.shaft.label>
   <!-- EN: edge -->
-  <ODC_DualSword.tools.edge.label>TODO</ODC_DualSword.tools.edge.label>
+  <ODC_DualSword.tools.edge.label>剑刃</ODC_DualSword.tools.edge.label>
   
   <!-- EN: Scar -->
-  <ODC_Knife.label>TODO</ODC_Knife.label>
+  <ODC_Knife.label>伤疤</ODC_Knife.label>
   <!-- EN: Common Knife used by Obsidia Drifters. -->
-  <ODC_Knife.description>TODO</ODC_Knife.description>
+  <ODC_Knife.description>黑曜石漂流者使用的普通匕首。</ODC_Knife.description>
   <!-- EN: handle -->
-  <ODC_Knife.tools.handle.label>TODO</ODC_Knife.tools.handle.label>
+  <ODC_Knife.tools.handle.label>手柄</ODC_Knife.tools.handle.label>
   <!-- EN: blade -->
-  <ODC_Knife.tools.blade.label>TODO</ODC_Knife.tools.blade.label>
+  <ODC_Knife.tools.blade.label>刀刃</ODC_Knife.tools.blade.label>
   <!-- EN: point -->
-  <ODC_Knife.tools.point.label>TODO</ODC_Knife.tools.point.label>
+  <ODC_Knife.tools.point.label>刀尖</ODC_Knife.tools.point.label>
   
   <!-- EN: Imperfect - Emergent -->
-  <ODC_Rapier.label>TODO</ODC_Rapier.label>
+  <ODC_Rapier.label>不完美 - 新兴</ODC_Rapier.label>
   <!-- EN: Moded Rapier used by Obsidia Drifters. -->
-  <ODC_Rapier.description>TODO</ODC_Rapier.description>
+  <ODC_Rapier.description>黑曜石漂流者使用的改装细剑。</ODC_Rapier.description>
   <!-- EN: handle -->
-  <ODC_Rapier.tools.handle.label>TODO</ODC_Rapier.tools.handle.label>
+  <ODC_Rapier.tools.handle.label>手柄</ODC_Rapier.tools.handle.label>
   <!-- EN: point -->
-  <ODC_Rapier.tools.point.label>TODO</ODC_Rapier.tools.point.label>
+  <ODC_Rapier.tools.point.label>剑尖</ODC_Rapier.tools.point.label>
   
   <!-- EN: Enigma - Apex(Acid) -->
-  <ODC_Rapier_Acid.label>TODO</ODC_Rapier_Acid.label>
+  <ODC_Rapier_Acid.label>谜题 - 巅峰（酸性）</ODC_Rapier_Acid.label>
   <!-- EN: Specialised Rapier used by Obsidia Drifters. Charged with Acid damage. -->
-  <ODC_Rapier_Acid.description>TODO</ODC_Rapier_Acid.description>
+  <ODC_Rapier_Acid.description>黑曜石漂流者使用的专业细剑。充能酸性伤害。</ODC_Rapier_Acid.description>
   <!-- EN: handle -->
-  <ODC_Rapier_Acid.tools.handle.label>TODO</ODC_Rapier_Acid.tools.handle.label>
+  <ODC_Rapier_Acid.tools.handle.label>手柄</ODC_Rapier_Acid.tools.handle.label>
   <!-- EN: point -->
-  <ODC_Rapier_Acid.tools.point.label>TODO</ODC_Rapier_Acid.tools.point.label>
+  <ODC_Rapier_Acid.tools.point.label>剑尖</ODC_Rapier_Acid.tools.point.label>
   
   <!-- EN: Enigma - Apex(Cryo) -->
-  <ODC_Rapier_Cryo.label>TODO</ODC_Rapier_Cryo.label>
+  <ODC_Rapier_Cryo.label>谜题 - 巅峰（冷冻）</ODC_Rapier_Cryo.label>
   <!-- EN: Specialised Rapier used by Obsidia Drifters. Charged with Cryo damage. -->
-  <ODC_Rapier_Cryo.description>TODO</ODC_Rapier_Cryo.description>
+  <ODC_Rapier_Cryo.description>黑曜石漂流者使用的专业细剑。充能冷冻伤害。</ODC_Rapier_Cryo.description>
   <!-- EN: handle -->
-  <ODC_Rapier_Cryo.tools.handle.label>TODO</ODC_Rapier_Cryo.tools.handle.label>
+  <ODC_Rapier_Cryo.tools.handle.label>手柄</ODC_Rapier_Cryo.tools.handle.label>
   <!-- EN: point -->
-  <ODC_Rapier_Cryo.tools.point.label>TODO</ODC_Rapier_Cryo.tools.point.label>
+  <ODC_Rapier_Cryo.tools.point.label>剑尖</ODC_Rapier_Cryo.tools.point.label>
   
   <!-- EN: Enigma - Apex(EMP) -->
-  <ODC_Rapier_EMP.label>TODO</ODC_Rapier_EMP.label>
+  <ODC_Rapier_EMP.label>谜题 - 巅峰（电磁）</ODC_Rapier_EMP.label>
   <!-- EN: Specialised Rapier used by Obsidia Drifters. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
-  <ODC_Rapier_EMP.description>TODO</ODC_Rapier_EMP.description>
+  <ODC_Rapier_EMP.description>黑曜石漂流者使用的专业细剑。充能电磁伤害。\n\n警告！电磁伤害并非旨在摧毁血肉之躯。</ODC_Rapier_EMP.description>
   <!-- EN: handle -->
-  <ODC_Rapier_EMP.tools.handle.label>TODO</ODC_Rapier_EMP.tools.handle.label>
+  <ODC_Rapier_EMP.tools.handle.label>手柄</ODC_Rapier_EMP.tools.handle.label>
   <!-- EN: point -->
-  <ODC_Rapier_EMP.tools.point.label>TODO</ODC_Rapier_EMP.tools.point.label>
+  <ODC_Rapier_EMP.tools.point.label>剑尖</ODC_Rapier_EMP.tools.point.label>
   
   <!-- EN: Enigma - Apex(Fire) -->
-  <ODC_Rapier_Fire.label>TODO</ODC_Rapier_Fire.label>
+  <ODC_Rapier_Fire.label>谜题 - 巅峰（火焰）</ODC_Rapier_Fire.label>
   <!-- EN: Specialised Rapier used by Obsidia Drifters. Charged with Fire damage. -->
-  <ODC_Rapier_Fire.description>TODO</ODC_Rapier_Fire.description>
+  <ODC_Rapier_Fire.description>黑曜石漂流者使用的专业细剑。充能火焰伤害。</ODC_Rapier_Fire.description>
   <!-- EN: handle -->
-  <ODC_Rapier_Fire.tools.handle.label>TODO</ODC_Rapier_Fire.tools.handle.label>
+  <ODC_Rapier_Fire.tools.handle.label>手柄</ODC_Rapier_Fire.tools.handle.label>
   <!-- EN: point -->
-  <ODC_Rapier_Fire.tools.point.label>TODO</ODC_Rapier_Fire.tools.point.label>
+  <ODC_Rapier_Fire.tools.point.label>剑尖</ODC_Rapier_Fire.tools.point.label>
   
   <!-- EN: Defiant - Apex -->
-  <ODC_RapierGuard.label>TODO</ODC_RapierGuard.label>
+  <ODC_RapierGuard.label>反抗 - 巅峰</ODC_RapierGuard.label>
   <!-- EN: Specialised Rapier used by Obsidia Drifters. -->
-  <ODC_RapierGuard.description>TODO</ODC_RapierGuard.description>
+  <ODC_RapierGuard.description>黑曜石漂流者使用的专业细剑。</ODC_RapierGuard.description>
   <!-- EN: handle -->
-  <ODC_RapierGuard.tools.handle.label>TODO</ODC_RapierGuard.tools.handle.label>
+  <ODC_RapierGuard.tools.handle.label>手柄</ODC_RapierGuard.tools.handle.label>
   <!-- EN: point -->
-  <ODC_RapierGuard.tools.point.label>TODO</ODC_RapierGuard.tools.point.label>
+  <ODC_RapierGuard.tools.point.label>剑尖</ODC_RapierGuard.tools.point.label>
   
   <!-- EN: Mercy - Emergent -->
-  <ODC_Sword.label>TODO</ODC_Sword.label>
+  <ODC_Sword.label>仁慈 - 新兴</ODC_Sword.label>
   <!-- EN: Moded Sword used by Obsidia Drifters. -->
-  <ODC_Sword.description>TODO</ODC_Sword.description>
+  <ODC_Sword.description>黑曜石漂流者使用的改装剑。</ODC_Sword.description>
   <!-- EN: handle -->
-  <ODC_Sword.tools.handle.label>TODO</ODC_Sword.tools.handle.label>
+  <ODC_Sword.tools.handle.label>手柄</ODC_Sword.tools.handle.label>
   <!-- EN: point -->
-  <ODC_Sword.tools.point.label>TODO</ODC_Sword.tools.point.label>
+  <ODC_Sword.tools.point.label>剑尖</ODC_Sword.tools.point.label>
   <!-- EN: edge -->
-  <ODC_Sword.tools.edge.label>TODO</ODC_Sword.tools.edge.label>
+  <ODC_Sword.tools.edge.label>剑刃</ODC_Sword.tools.edge.label>
   
   <!-- EN: Basher -->
-  <ODC_Tonfa.label>TODO</ODC_Tonfa.label>
+  <ODC_Tonfa.label>打击者</ODC_Tonfa.label>
   <!-- EN: Common Tonfa used by Obsidia Drifters. -->
-  <ODC_Tonfa.description>TODO</ODC_Tonfa.description>
+  <ODC_Tonfa.description>黑曜石漂流者使用的普通棍棒。</ODC_Tonfa.description>
   <!-- EN: handle -->
-  <ODC_Tonfa.tools.handle.label>TODO</ODC_Tonfa.tools.handle.label>
+  <ODC_Tonfa.tools.handle.label>手柄</ODC_Tonfa.tools.handle.label>
   <!-- EN: head -->
-  <ODC_Tonfa.tools.head.label>TODO</ODC_Tonfa.tools.head.label>
+  <ODC_Tonfa.tools.head.label>头部</ODC_Tonfa.tools.head.label>
   
 </LanguageData>

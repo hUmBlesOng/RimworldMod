@@ -1,48 +1,48 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: elder tionant (blue) -->
-  <OE_Elder_Tionant_Blue.label>TODO</OE_Elder_Tionant_Blue.label>
+  <OE_Elder_Tionant_Blue.label>远古提奥南特（蓝色）</OE_Elder_Tionant_Blue.label>
   <!-- EN: Tionants are the scourge of Obsidia. In ancient times, these creatures terrorized the entire planet, the ancient Obsidia humans worshiped them as gods, but several thousand years ago they disappeared without a trace... But suddenly, a hundred years ago, these creatures again declared themselves. Continuing their terror on the planet. The reason for their disappearance and reappearance is not yet clear, since the Tionants are very difficult to study.\n\nYet one Tionant stood apart—older, darker, and far more silent than its kin. Its presence carries an eerie weight, as if time itself slows in reverence. Witnesses speak of a beast that watches from the edge of the world, patient and knowing, its movements filled with ancient intent. Scholars believe it endured something no other did during the Tionants’ long disappearance—an encounter with a dormant EGO Seed, reshaping its essence without breaking it.\n\nElder Tionants are even rarer and more dangerous than the typical Tionant.\n\nBut despite all this, Tionants have one useful feature. Blue Tionants produce a healing jelly with their bodies. -->
-  <OE_Elder_Tionant_Blue.description>TODO</OE_Elder_Tionant_Blue.description>
+  <OE_Elder_Tionant_Blue.description>提奥南特是黑曜石的祸害。在古代，这些生物恐吓着整个星球，古代黑曜石人类将它们崇拜为神，但几千年前它们毫无踪迹地消失了……但突然间，一百年前，这些生物再次出现了。继续在星球上制造恐怖。它们消失和重现的原因尚不清楚，因为提奥南特很难研究。\n\n但有一只提奥南特与众不同——更年老、更黑暗，比它的同类更加沉默。它的存在带着诡异的重量，仿佛时间本身都在敬畏中放缓。目击者描述了一只从世界边缘观察的野兽，耐心而睿智，它的行动充满了古老的意图。学者们相信，在提奥南特长期消失期间，它经历了其他个体没有经历的事情——与沉睡的EGO种子相遇，重塑了它的本质而没有破坏它。\n\n远古提奥南特比普通的提奥南特更加稀有和危险。\n\n但尽管如此，提奥南特有一个有用的特点。蓝色提奥南特用它们的身体产生治疗果冻。</OE_Elder_Tionant_Blue.description>
   <!-- EN: left claw -->
-  <OE_Elder_Tionant_Blue.tools.left_claw.label>TODO</OE_Elder_Tionant_Blue.tools.left_claw.label>
+  <OE_Elder_Tionant_Blue.tools.left_claw.label>左钳</OE_Elder_Tionant_Blue.tools.left_claw.label>
   <!-- EN: right claw -->
-  <OE_Elder_Tionant_Blue.tools.right_claw.label>TODO</OE_Elder_Tionant_Blue.tools.right_claw.label>
+  <OE_Elder_Tionant_Blue.tools.right_claw.label>右钳</OE_Elder_Tionant_Blue.tools.right_claw.label>
   <!-- EN: head -->
-  <OE_Elder_Tionant_Blue.tools.head.label>TODO</OE_Elder_Tionant_Blue.tools.head.label>
+  <OE_Elder_Tionant_Blue.tools.head.label>头部</OE_Elder_Tionant_Blue.tools.head.label>
   
   <!-- EN: elder tionant (green) -->
-  <OE_Elder_Tionant_Green.label>TODO</OE_Elder_Tionant_Green.label>
+  <OE_Elder_Tionant_Green.label>远古提奥南特（绿色）</OE_Elder_Tionant_Green.label>
   <!-- EN: Tionants are the scourge of Obsidia. In ancient times, these creatures terrorized the entire planet, the ancient Obsidia humans worshiped them as gods, but several thousand years ago they disappeared without a trace... But suddenly, a hundred years ago, these creatures again declared themselves. Continuing their terror on the planet. The reason for their disappearance and reappearance is not yet clear, since the Tionants are very difficult to study.\n\nYet one Tionant stood apart—older, darker, and far more silent than its kin. Its presence carries an eerie weight, as if time itself slows in reverence. Witnesses speak of a beast that watches from the edge of the world, patient and knowing, its movements filled with ancient intent. Scholars believe it endured something no other did during the Tionants’ long disappearance—an encounter with a dormant EGO Seed, reshaping its essence without breaking it.\n\nElder Tionants are even rarer and more dangerous than the typical Tionant.\n\nBut despite all this, Tionants have one useful feature. Green Tionants produce a nutritious vegetable jelly with their bodies. -->
-  <OE_Elder_Tionant_Green.description>TODO</OE_Elder_Tionant_Green.description>
+  <OE_Elder_Tionant_Green.description>提奥南特是黑曜石的祸害。在古代，这些生物恐吓着整个星球，古代黑曜石人类将它们崇拜为神，但几千年前它们毫无踪迹地消失了……但突然间，一百年前，这些生物再次出现了。继续在星球上制造恐怖。它们消失和重现的原因尚不清楚，因为提奥南特很难研究。\n\n但有一只提奥南特与众不同——更年老、更黑暗，比它的同类更加沉默。它的存在带着诡异的重量，仿佛时间本身都在敬畏中放缓。目击者描述了一只从世界边缘观察的野兽，耐心而睿智，它的行动充满了古老的意图。学者们相信，在提奥南特长期消失期间，它经历了其他个体没有经历的事情——与沉睡的EGO种子相遇，重塑了它的本质而没有破坏它。\n\n远古提奥南特比普通的提奥南特更加稀有和危险。\n\n但尽管如此，提奥南特有一个有用的特点。绿色提奥南特用它们的身体产生营养蔬菜果冻。</OE_Elder_Tionant_Green.description>
   <!-- EN: left claw -->
-  <OE_Elder_Tionant_Green.tools.left_claw.label>TODO</OE_Elder_Tionant_Green.tools.left_claw.label>
+  <OE_Elder_Tionant_Green.tools.left_claw.label>左钳</OE_Elder_Tionant_Green.tools.left_claw.label>
   <!-- EN: right claw -->
-  <OE_Elder_Tionant_Green.tools.right_claw.label>TODO</OE_Elder_Tionant_Green.tools.right_claw.label>
+  <OE_Elder_Tionant_Green.tools.right_claw.label>右钳</OE_Elder_Tionant_Green.tools.right_claw.label>
   <!-- EN: head -->
-  <OE_Elder_Tionant_Green.tools.head.label>TODO</OE_Elder_Tionant_Green.tools.head.label>
+  <OE_Elder_Tionant_Green.tools.head.label>头部</OE_Elder_Tionant_Green.tools.head.label>
   
   <!-- EN: elder tionant (red) -->
-  <OE_Elder_Tionant_Red.label>TODO</OE_Elder_Tionant_Red.label>
+  <OE_Elder_Tionant_Red.label>远古提奥南特（红色）</OE_Elder_Tionant_Red.label>
   <!-- EN: Tionants are the scourge of Obsidia. In ancient times, these creatures terrorized the entire planet, the ancient Obsidia humans worshiped them as gods, but several thousand years ago they disappeared without a trace... But suddenly, a hundred years ago, these creatures again declared themselves. Continuing their terror on the planet. The reason for their disappearance and reappearance is not yet clear, since the Tionants are very difficult to study.\n\nYet one Tionant stood apart—older, darker, and far more silent than its kin. Its presence carries an eerie weight, as if time itself slows in reverence. Witnesses speak of a beast that watches from the edge of the world, patient and knowing, its movements filled with ancient intent. Scholars believe it endured something no other did during the Tionants’ long disappearance—an encounter with a dormant EGO Seed, reshaping its essence without breaking it.\n\nElder Tionants are even rarer and more dangerous than the typical Tionant.\n\nBut despite all this, Tionants have one useful feature. Red Tionantes produce nutritious meat-based jelly with their bodies. -->
-  <OE_Elder_Tionant_Red.description>TODO</OE_Elder_Tionant_Red.description>
+  <OE_Elder_Tionant_Red.description>提奥南特是黑曜石的祸害。在古代，这些生物恐吓着整个星球，古代黑曜石人类将它们崇拜为神，但几千年前它们毫无踪迹地消失了……但突然间，一百年前，这些生物再次出现了。继续在星球上制造恐怖。它们消失和重现的原因尚不清楚，因为提奥南特很难研究。\n\n但有一只提奥南特与众不同——更年老、更黑暗，比它的同类更加沉默。它的存在带着诡异的重量，仿佛时间本身都在敬畏中放缓。目击者描述了一只从世界边缘观察的野兽，耐心而睿智，它的行动充满了古老的意图。学者们相信，在提奥南特长期消失期间，它经历了其他个体没有经历的事情——与沉睡的EGO种子相遇，重塑了它的本质而没有破坏它。\n\n远古提奥南特比普通的提奥南特更加稀有和危险。\n\n但尽管如此，提奥南特有一个有用的特点。红色提奥南特用它们的身体产生营养肉基果冻。</OE_Elder_Tionant_Red.description>
   <!-- EN: left claw -->
-  <OE_Elder_Tionant_Red.tools.left_claw.label>TODO</OE_Elder_Tionant_Red.tools.left_claw.label>
+  <OE_Elder_Tionant_Red.tools.left_claw.label>左钳</OE_Elder_Tionant_Red.tools.left_claw.label>
   <!-- EN: right claw -->
-  <OE_Elder_Tionant_Red.tools.right_claw.label>TODO</OE_Elder_Tionant_Red.tools.right_claw.label>
+  <OE_Elder_Tionant_Red.tools.right_claw.label>右钳</OE_Elder_Tionant_Red.tools.right_claw.label>
   <!-- EN: head -->
-  <OE_Elder_Tionant_Red.tools.head.label>TODO</OE_Elder_Tionant_Red.tools.head.label>
+  <OE_Elder_Tionant_Red.tools.head.label>头部</OE_Elder_Tionant_Red.tools.head.label>
   
   <!-- EN: elder tionant (yellow) -->
-  <OE_Elder_Tionant_Yellow.label>TODO</OE_Elder_Tionant_Yellow.label>
+  <OE_Elder_Tionant_Yellow.label>远古提奥南特（黄色）</OE_Elder_Tionant_Yellow.label>
   <!-- EN: Tionants are the scourge of Obsidia. In ancient times, these creatures terrorized the entire planet, the ancient Obsidia humans worshiped them as gods, but several thousand years ago they disappeared without a trace... But suddenly, a hundred years ago, these creatures again declared themselves. Continuing their terror on the planet. The reason for their disappearance and reappearance is not yet clear, since the Tionants are very difficult to study.\n\nYet one Tionant stood apart—older, darker, and far more silent than its kin. Its presence carries an eerie weight, as if time itself slows in reverence. Witnesses speak of a beast that watches from the edge of the world, patient and knowing, its movements filled with ancient intent. Scholars believe it endured something no other did during the Tionants’ long disappearance—an encounter with a dormant EGO Seed, reshaping its essence without breaking it.\n\nElder Tionants are even rarer and more dangerous than the typical Tionant.\n\nBut despite all this, Tionants have one useful feature. Yellow Thionants produce a nutritious animal jelly with their bodies. -->
-  <OE_Elder_Tionant_Yellow.description>TODO</OE_Elder_Tionant_Yellow.description>
+  <OE_Elder_Tionant_Yellow.description>提奥南特是黑曜石的祸害。在古代，这些生物恐吓着整个星球，古代黑曜石人类将它们崇拜为神，但几千年前它们毫无踪迹地消失了……但突然间，一百年前，这些生物再次出现了。继续在星球上制造恐怖。它们消失和重现的原因尚不清楚，因为提奥南特很难研究。\n\n但有一只提奥南特与众不同——更年老、更黑暗，比它的同类更加沉默。它的存在带着诡异的重量，仿佛时间本身都在敬畏中放缓。目击者描述了一只从世界边缘观察的野兽，耐心而睿智，它的行动充满了古老的意图。学者们相信，在提奥南特长期消失期间，它经历了其他个体没有经历的事情——与沉睡的EGO种子相遇，重塑了它的本质而没有破坏它。\n\n远古提奥南特比普通的提奥南特更加稀有和危险。\n\n但尽管如此，提奥南特有一个有用的特点。黄色提奥南特用它们的身体产生营养动物果冻。</OE_Elder_Tionant_Yellow.description>
   <!-- EN: left claw -->
-  <OE_Elder_Tionant_Yellow.tools.left_claw.label>TODO</OE_Elder_Tionant_Yellow.tools.left_claw.label>
+  <OE_Elder_Tionant_Yellow.tools.left_claw.label>左钳</OE_Elder_Tionant_Yellow.tools.left_claw.label>
   <!-- EN: right claw -->
-  <OE_Elder_Tionant_Yellow.tools.right_claw.label>TODO</OE_Elder_Tionant_Yellow.tools.right_claw.label>
+  <OE_Elder_Tionant_Yellow.tools.right_claw.label>右钳</OE_Elder_Tionant_Yellow.tools.right_claw.label>
   <!-- EN: head -->
-  <OE_Elder_Tionant_Yellow.tools.head.label>TODO</OE_Elder_Tionant_Yellow.tools.head.label>
+  <OE_Elder_Tionant_Yellow.tools.head.label>头部</OE_Elder_Tionant_Yellow.tools.head.label>
   
 </LanguageData>

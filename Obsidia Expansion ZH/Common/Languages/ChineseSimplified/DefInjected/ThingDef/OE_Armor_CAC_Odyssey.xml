@@ -1,36 +1,36 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: CAC Cultist Heavy Armor(Swarmling) -->
-  <CAC_HeavyArmor_Swarmling.label>TODO</CAC_HeavyArmor_Swarmling.label>
+  <CAC_HeavyArmor_Swarmling.label>CAC教派重型护甲（虫群）</CAC_HeavyArmor_Swarmling.label>
   <!-- EN: Heavy power armor, excellent protects the owner. Designed and modified for use by CAC Cultists.\n\nModified with the pack that allows the user to deploy a battery-powered drones. -->
-  <CAC_HeavyArmor_Swarmling.description>TODO</CAC_HeavyArmor_Swarmling.description>
+  <CAC_HeavyArmor_Swarmling.description>重型动力护甲，出色地保护穿戴者。由CAC教派设计和改良。\n\n增加了可部署电池供电无人机的背包的改良版本。</CAC_HeavyArmor_Swarmling.description>
   <!-- EN: incendiary -->
-  <CAC_HeavyArmor_Swarmling.comps.CompApparelReloadable.chargeNoun>TODO</CAC_HeavyArmor_Swarmling.comps.CompApparelReloadable.chargeNoun>
+  <CAC_HeavyArmor_Swarmling.comps.CompApparelReloadable.chargeNoun>燃烧弹</CAC_HeavyArmor_Swarmling.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <CAC_HeavyArmor_Swarmling.comps.CompApparelReloadable.cooldownGerund>TODO</CAC_HeavyArmor_Swarmling.comps.CompApparelReloadable.cooldownGerund>
+  <CAC_HeavyArmor_Swarmling.comps.CompApparelReloadable.cooldownGerund>冷却中</CAC_HeavyArmor_Swarmling.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: deploy swarmling drone -->
-  <CAC_HeavyArmor_Swarmling.verbs.deploy_swarmling_drone.label>TODO</CAC_HeavyArmor_Swarmling.verbs.deploy_swarmling_drone.label>
+  <CAC_HeavyArmor_Swarmling.verbs.deploy_swarmling_drone.label>部署虫群无人机</CAC_HeavyArmor_Swarmling.verbs.deploy_swarmling_drone.label>
   
   <!-- EN: CAC Cultist Light Armor(Swarmling) -->
-  <CAC_LightArmor_Swarmling.label>TODO</CAC_LightArmor_Swarmling.label>
+  <CAC_LightArmor_Swarmling.label>CAC教派轻型护甲（虫群）</CAC_LightArmor_Swarmling.label>
   <!-- EN: Light power armor, well protects the owner. Designed and modified for use by CAC Cultists.\n\nModified with the pack that allows the user to deploy a battery-powered drones. -->
-  <CAC_LightArmor_Swarmling.description>TODO</CAC_LightArmor_Swarmling.description>
+  <CAC_LightArmor_Swarmling.description>轻型动力护甲，良好地保护穿戴者。由CAC教派设计和改良。\n\n增加了可部署电池供电无人机的背包的改良版本。</CAC_LightArmor_Swarmling.description>
   <!-- EN: incendiary -->
-  <CAC_LightArmor_Swarmling.comps.CompApparelReloadable.chargeNoun>TODO</CAC_LightArmor_Swarmling.comps.CompApparelReloadable.chargeNoun>
+  <CAC_LightArmor_Swarmling.comps.CompApparelReloadable.chargeNoun>燃烧弹</CAC_LightArmor_Swarmling.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <CAC_LightArmor_Swarmling.comps.CompApparelReloadable.cooldownGerund>TODO</CAC_LightArmor_Swarmling.comps.CompApparelReloadable.cooldownGerund>
+  <CAC_LightArmor_Swarmling.comps.CompApparelReloadable.cooldownGerund>冷却中</CAC_LightArmor_Swarmling.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: deploy swarmling drone -->
-  <CAC_LightArmor_Swarmling.verbs.deploy_swarmling_drone.label>TODO</CAC_LightArmor_Swarmling.verbs.deploy_swarmling_drone.label>
+  <CAC_LightArmor_Swarmling.verbs.deploy_swarmling_drone.label>部署虫群无人机</CAC_LightArmor_Swarmling.verbs.deploy_swarmling_drone.label>
   
   <!-- EN: Cultist Swarmling Drone -->
-  <CAC_Swarmling_Drone.label>TODO</CAC_Swarmling_Drone.label>
+  <CAC_Swarmling_Drone.label>教派虫群无人机</CAC_Swarmling_Drone.label>
   <!-- EN: Cultist Swarmling Drone - small autonomous mechanoid built for efficient elimination. Swarmling Drones are powered by a long-lasting battery. -->
-  <CAC_Swarmling_Drone.description>TODO</CAC_Swarmling_Drone.description>
+  <CAC_Swarmling_Drone.description>教派虫群无人机 - 为高效清除而建造的小型自主机械体。虫群无人机由长效电池供电。</CAC_Swarmling_Drone.description>
   <!-- EN: stinger -->
-  <CAC_Swarmling_Drone.tools.stinger.label>TODO</CAC_Swarmling_Drone.tools.stinger.label>
+  <CAC_Swarmling_Drone.tools.stinger.label>螫刺</CAC_Swarmling_Drone.tools.stinger.label>
   
   <!-- EN: CAC swarmling pack capsule -->
-  <Grenade_Armor_CAC_SwarmlingPack.label>TODO</Grenade_Armor_CAC_SwarmlingPack.label>
+  <Grenade_Armor_CAC_SwarmlingPack.label>CAC虫群背包胶囊</Grenade_Armor_CAC_SwarmlingPack.label>
   
 </LanguageData>

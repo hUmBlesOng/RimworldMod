@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: rare arcade machine "rimotroops" -->
-  <OE_JoyArcadeMachine.label>TODO</OE_JoyArcadeMachine.label>
+  <OE_JoyArcadeMachine.label>稀有街机"边缘部队"</OE_JoyArcadeMachine.label>
   <!-- EN: Old rare Obsidia arcade machine with installed rimotroops game. -->
-  <OE_JoyArcadeMachine.description>TODO</OE_JoyArcadeMachine.description>
+  <OE_JoyArcadeMachine.description>古老的稀有黑曜石街机，安装了边缘部队游戏。</OE_JoyArcadeMachine.description>
   
   <!-- EN: rimopoly table -->
-  <OE_JoyTable.label>TODO</OE_JoyTable.label>
+  <OE_JoyTable.label>边缘大亨桌游</OE_JoyTable.label>
   <!-- EN: A table designed for playing Obsidia board game where players balance unions and the labor market in order to become greatest in rimopoly! -->
-  <OE_JoyTable.description>TODO</OE_JoyTable.description>
+  <OE_JoyTable.description>一张专为玩黑曜石棋盘游戏而设计的桌子，玩家在游戏中平衡工会和劳动力市场，以成为边缘大亨游戏中的最强者！</OE_JoyTable.description>
   
 </LanguageData>

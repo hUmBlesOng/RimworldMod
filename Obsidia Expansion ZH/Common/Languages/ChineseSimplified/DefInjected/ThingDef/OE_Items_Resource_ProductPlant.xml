@@ -1,56 +1,56 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: dragonian wood -->
-  <OE_DragonianWoodLog.label>TODO</OE_DragonianWoodLog.label>
+  <OE_DragonianWoodLog.label>龙族木材</OE_DragonianWoodLog.label>
   <!-- EN: Rare type of wood. Very valuable, durable and beautiful, yet heavy. -->
-  <OE_DragonianWoodLog.description>TODO</OE_DragonianWoodLog.description>
+  <OE_DragonianWoodLog.description>稀有木材。非常珍贵、耐用且美丽，但很重。</OE_DragonianWoodLog.description>
   <!-- EN: dragonian wooden -->
-  <OE_DragonianWoodLog.stuffProps.stuffAdjective>TODO</OE_DragonianWoodLog.stuffProps.stuffAdjective>
+  <OE_DragonianWoodLog.stuffProps.stuffAdjective>龙族木制</OE_DragonianWoodLog.stuffProps.stuffAdjective>
   <!-- EN: log -->
-  <OE_DragonianWoodLog.tools.log.label>TODO</OE_DragonianWoodLog.tools.log.label>
+  <OE_DragonianWoodLog.tools.log.label>原木</OE_DragonianWoodLog.tools.log.label>
   
   <!-- EN: EGO seed -->
-  <OE_EGOSeed.label>TODO</OE_EGOSeed.label>
+  <OE_EGOSeed.label>EGO种子</OE_EGOSeed.label>
   <!-- EN: The seed of an EGO tree. It can be planted to create a new EGO tree. Also used in genetic experiments or for amalgam gestating. -->
-  <OE_EGOSeed.description>TODO</OE_EGOSeed.description>
+  <OE_EGOSeed.description>EGO树的种子。可以种植以创建新的EGO树。也用于基因实验或融合体培育。</OE_EGOSeed.description>
   <!-- EN: Analyze the EGO seed. -->
-  <OE_EGOSeed.comps.CompAnalyzableUnlockResearch.activateDescString>TODO</OE_EGOSeed.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <OE_EGOSeed.comps.CompAnalyzableUnlockResearch.activateDescString>分析EGO种子。</OE_EGOSeed.comps.CompAnalyzableUnlockResearch.activateDescString>
   <!-- EN: Analyze... -->
-  <OE_EGOSeed.comps.CompAnalyzableUnlockResearch.activateLabelString>TODO</OE_EGOSeed.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <OE_EGOSeed.comps.CompAnalyzableUnlockResearch.activateLabelString>分析...</OE_EGOSeed.comps.CompAnalyzableUnlockResearch.activateLabelString>
   <!-- EN: By studying the EGO Seed, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
-  <OE_EGOSeed.comps.CompAnalyzableUnlockResearch.completedLetter>TODO</OE_EGOSeed.comps.CompAnalyzableUnlockResearch.completedLetter>
+  <OE_EGOSeed.comps.CompAnalyzableUnlockResearch.completedLetter>通过研究EGO种子，{PAWN_labelShort}获得了研究项目{RESEARCH}所需的知识。\n\n您的研究人员现在可以使用研究台开始研究如何实际使用这项技术。</OE_EGOSeed.comps.CompAnalyzableUnlockResearch.completedLetter>
   <!-- EN: EGO Seed studied: {RESEARCH} unlocked -->
-  <OE_EGOSeed.comps.CompAnalyzableUnlockResearch.completedLetterLabel>TODO</OE_EGOSeed.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <OE_EGOSeed.comps.CompAnalyzableUnlockResearch.completedLetterLabel>EGO种子已研究：{RESEARCH}已解锁</OE_EGOSeed.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
   <!-- EN: Choose who should analyze this -->
-  <OE_EGOSeed.comps.CompAnalyzableUnlockResearch.guiLabelString>TODO</OE_EGOSeed.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <OE_EGOSeed.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</OE_EGOSeed.comps.CompAnalyzableUnlockResearch.guiLabelString>
   <!-- EN: Can be analyzed by a colonist. -->
-  <OE_EGOSeed.comps.CompAnalyzableUnlockResearch.inspectString>TODO</OE_EGOSeed.comps.CompAnalyzableUnlockResearch.inspectString>
+  <OE_EGOSeed.comps.CompAnalyzableUnlockResearch.inspectString>可由殖民者分析。</OE_EGOSeed.comps.CompAnalyzableUnlockResearch.inspectString>
   <!-- EN: Analyze EGO seed -->
-  <OE_EGOSeed.comps.CompAnalyzableUnlockResearch.jobString>TODO</OE_EGOSeed.comps.CompAnalyzableUnlockResearch.jobString>
+  <OE_EGOSeed.comps.CompAnalyzableUnlockResearch.jobString>分析EGO种子</OE_EGOSeed.comps.CompAnalyzableUnlockResearch.jobString>
   
   <!-- EN: fungal wood -->
-  <OE_FungalWoodLog.label>TODO</OE_FungalWoodLog.label>
+  <OE_FungalWoodLog.label>真菌木材</OE_FungalWoodLog.label>
   <!-- EN: Unique wood. More durable and less flammable, while being lighter. -->
-  <OE_FungalWoodLog.description>TODO</OE_FungalWoodLog.description>
+  <OE_FungalWoodLog.description>独特木材。更耐用且不易燃，同时更轻。</OE_FungalWoodLog.description>
   <!-- EN: fungal wooden -->
-  <OE_FungalWoodLog.stuffProps.stuffAdjective>TODO</OE_FungalWoodLog.stuffProps.stuffAdjective>
+  <OE_FungalWoodLog.stuffProps.stuffAdjective>真菌木制</OE_FungalWoodLog.stuffProps.stuffAdjective>
   <!-- EN: log -->
-  <OE_FungalWoodLog.tools.log.label>TODO</OE_FungalWoodLog.tools.log.label>
+  <OE_FungalWoodLog.tools.log.label>原木</OE_FungalWoodLog.tools.log.label>
   
   <!-- EN: jumy berries -->
-  <OE_Jumy_Berries.label>TODO</OE_Jumy_Berries.label>
+  <OE_Jumy_Berries.label>多汁浆果</OE_Jumy_Berries.label>
   <!-- EN: Small Obsidias berries are tasty and sweet. -->
-  <OE_Jumy_Berries.description>TODO</OE_Jumy_Berries.description>
+  <OE_Jumy_Berries.description>小黑曜石浆果美味香甜。</OE_Jumy_Berries.description>
   
   <!-- EN: pearlapple fruit -->
-  <OE_Pearlapple_Fruit.label>TODO</OE_Pearlapple_Fruit.label>
+  <OE_Pearlapple_Fruit.label>珍珠苹果</OE_Pearlapple_Fruit.label>
   <!-- EN: Obsidias juicy crystal fruit that can be used as a meat substitute. -->
-  <OE_Pearlapple_Fruit.description>TODO</OE_Pearlapple_Fruit.description>
+  <OE_Pearlapple_Fruit.description>黑曜石多汁水晶果实，可用作肉类替代品。</OE_Pearlapple_Fruit.description>
   
   <!-- EN: syntherius -->
-  <OE_Syntherius.label>TODO</OE_Syntherius.label>
+  <OE_Syntherius.label>合成素</OE_Syntherius.label>
   <!-- EN: Unique Obsidias resource. Used to synthesize other resources, craft weapons, and other industries in Obsidia. -->
-  <OE_Syntherius.description>TODO</OE_Syntherius.description>
+  <OE_Syntherius.description>独特的黑曜石资源。用于合成其他资源、制造武器和黑曜石的其他工业。</OE_Syntherius.description>
   
 </LanguageData>

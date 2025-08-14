@@ -1,34 +1,34 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: OCC turret pack capsule -->
-  <Grenade_Armor_OCC_TurretPack.label>TODO</Grenade_Armor_OCC_TurretPack.label>
+  <Grenade_Armor_OCC_TurretPack.label>OCC炮塔背包胶囊</Grenade_Armor_OCC_TurretPack.label>
   
   <!-- EN: OCC Paladin Armor(Goblin) -->
-  <OCC_Armor_M_Turret.label>TODO</OCC_Armor_M_Turret.label>
+  <OCC_Armor_M_Turret.label>OCC圣骑士护甲（哥布林）</OCC_Armor_M_Turret.label>
   <!-- EN: Heavy power armor, excellent protects the owner with little mobility restriction. Designed and modified for use by OCC Paladins.\n\nModified with the pack that allows the user to deploy a battery-powered turret. -->
-  <OCC_Armor_M_Turret.description>TODO</OCC_Armor_M_Turret.description>
+  <OCC_Armor_M_Turret.description>重型动力护甲，出色地保护穿戴者，且对行动限制很小。由OCC圣骑士设计和改良。\n\n增加了可部署电池供电炮塔的背包的改良版本。</OCC_Armor_M_Turret.description>
   <!-- EN: incendiary -->
-  <OCC_Armor_M_Turret.comps.CompApparelReloadable.chargeNoun>TODO</OCC_Armor_M_Turret.comps.CompApparelReloadable.chargeNoun>
+  <OCC_Armor_M_Turret.comps.CompApparelReloadable.chargeNoun>燃烧弹</OCC_Armor_M_Turret.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OCC_Armor_M_Turret.comps.CompApparelReloadable.cooldownGerund>TODO</OCC_Armor_M_Turret.comps.CompApparelReloadable.cooldownGerund>
+  <OCC_Armor_M_Turret.comps.CompApparelReloadable.cooldownGerund>冷却中</OCC_Armor_M_Turret.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: deploy turret -->
-  <OCC_Armor_M_Turret.verbs.deploy_turret.label>TODO</OCC_Armor_M_Turret.verbs.deploy_turret.label>
+  <OCC_Armor_M_Turret.verbs.deploy_turret.label>部署炮塔</OCC_Armor_M_Turret.verbs.deploy_turret.label>
   
   <!-- EN: Reforged Hornet Turret -->
-  <OCC_Gun_TacticalTurret.label>TODO</OCC_Gun_TacticalTurret.label>
+  <OCC_Gun_TacticalTurret.label>重铸黄蜂炮塔</OCC_Gun_TacticalTurret.label>
   <!-- EN: Reconstructed OCC Revolver for turrets. -->
-  <OCC_Gun_TacticalTurret.description>TODO</OCC_Gun_TacticalTurret.description>
+  <OCC_Gun_TacticalTurret.description>为炮塔重构的OCC左轮手枪。</OCC_Gun_TacticalTurret.description>
   <!-- EN: Reforged Hornet Turret -->
-  <OCC_Gun_TacticalTurret.verbs.Verb_Shoot.label>TODO</OCC_Gun_TacticalTurret.verbs.Verb_Shoot.label>
+  <OCC_Gun_TacticalTurret.verbs.Verb_Shoot.label>重铸黄蜂炮塔</OCC_Gun_TacticalTurret.verbs.Verb_Shoot.label>
   
   <!-- EN: OCC tactical turret -->
-  <OCC_Turret_TacticalTurret.label>TODO</OCC_Turret_TacticalTurret.label>
+  <OCC_Turret_TacticalTurret.label>OCC战术炮塔</OCC_Turret_TacticalTurret.label>
   <!-- EN: An automatic OCC Revolver-equipped turret. It will stop functioning once its battery runs out. -->
-  <OCC_Turret_TacticalTurret.description>TODO</OCC_Turret_TacticalTurret.description>
+  <OCC_Turret_TacticalTurret.description>一种自动OCC左轮手枪炮塔。电池耗尽后将停止运作。</OCC_Turret_TacticalTurret.description>
   <!-- EN: Battery power -->
-  <OCC_Turret_TacticalTurret.comps.CompMechPowerCell.labelOverride>TODO</OCC_Turret_TacticalTurret.comps.CompMechPowerCell.labelOverride>
+  <OCC_Turret_TacticalTurret.comps.CompMechPowerCell.labelOverride>电池供电</OCC_Turret_TacticalTurret.comps.CompMechPowerCell.labelOverride>
   <!-- EN: This turret has a limited battery life. Once it runs out, it will stop working entirely. -->
-  <OCC_Turret_TacticalTurret.comps.CompMechPowerCell.tooltipOverride>TODO</OCC_Turret_TacticalTurret.comps.CompMechPowerCell.tooltipOverride>
+  <OCC_Turret_TacticalTurret.comps.CompMechPowerCell.tooltipOverride>该炮塔电池寿命有限。一旦耗尽，将完全停止工作。</OCC_Turret_TacticalTurret.comps.CompMechPowerCell.tooltipOverride>
   
 </LanguageData>

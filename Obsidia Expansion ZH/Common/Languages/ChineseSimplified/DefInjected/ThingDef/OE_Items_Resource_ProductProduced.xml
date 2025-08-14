@@ -1,44 +1,44 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: obsidia ammo kit -->
-  <OE_AmmoKit.label>TODO</OE_AmmoKit.label>
+  <OE_AmmoKit.label>黑曜石弹药包</OE_AmmoKit.label>
   <!-- EN: Universal set of ammo used in Obsidia weaponry. -->
-  <OE_AmmoKit.description>TODO</OE_AmmoKit.description>
+  <OE_AmmoKit.description>黑曜石武器中使用的通用弹药套装。</OE_AmmoKit.description>
   
   <!-- EN: cultist kit -->
-  <OE_CultistKit.label>TODO</OE_CultistKit.label>
+  <OE_CultistKit.label>邪教徒套装</OE_CultistKit.label>
   <!-- EN: Universal set of strange resources and components from cultists gear. Can be used in cultist technologies. -->
-  <OE_CultistKit.description>TODO</OE_CultistKit.description>
+  <OE_CultistKit.description>来自邪教徒装备的奇异资源和组件的通用套装。可用于邪教徒技术。</OE_CultistKit.description>
   
   <!-- EN: Drifters modernization kit -->
-  <OE_DriftersKit.label>TODO</OE_DriftersKit.label>
+  <OE_DriftersKit.label>漂流者现代化套件</OE_DriftersKit.label>
   <!-- EN: Universal set of components for upgrading Obsidia Drifters Clans gear from a simple to an modded version. -->
-  <OE_DriftersKit.description>TODO</OE_DriftersKit.description>
+  <OE_DriftersKit.description>用于将黑曜石漂流者部族装备从简单版本升级到改装版本的通用组件套装。</OE_DriftersKit.description>
   
   <!-- EN: EGO amalgamation core -->
-  <OE_EGOAmalgamationCore.label>TODO</OE_EGOAmalgamationCore.label>
+  <OE_EGOAmalgamationCore.label>EGO融合核心</OE_EGOAmalgamationCore.label>
   <!-- EN: Universal seed infused with advanced symbiotic properties. Can be used to create amalgam technologies. -->
-  <OE_EGOAmalgamationCore.description>TODO</OE_EGOAmalgamationCore.description>
+  <OE_EGOAmalgamationCore.description>注入了先进共生特性的通用种子。可用于创造融合技术。</OE_EGOAmalgamationCore.description>
   
   <!-- EN: heroic kit -->
-  <OE_HeroicKit.label>TODO</OE_HeroicKit.label>
+  <OE_HeroicKit.label>英雄套装</OE_HeroicKit.label>
   <!-- EN: Universal set of rare resources and components from the heroic gear. Can be used to restore lost heroic technologies. -->
-  <OE_HeroicKit.description>TODO</OE_HeroicKit.description>
+  <OE_HeroicKit.description>来自英雄装备的稀有资源和组件的通用套装。可用于恢复失落的英雄技术。</OE_HeroicKit.description>
   
   <!-- EN: jumyline candies -->
-  <OE_Jumyline_Candies.label>TODO</OE_Jumyline_Candies.label>
+  <OE_Jumyline_Candies.label>多汁糖果</OE_Jumyline_Candies.label>
   <!-- EN: These small but very sweet candies are coocked from selected Jumy berries and delicious chocolate. -->
-  <OE_Jumyline_Candies.description>TODO</OE_Jumyline_Candies.description>
+  <OE_Jumyline_Candies.description>这些小而非常甜的糖果由精选的多汁浆果和美味的巧克力制成。</OE_Jumyline_Candies.description>
   
   <!-- EN: mercenaries modernization kit -->
-  <OE_MercenaryKit.label>TODO</OE_MercenaryKit.label>
+  <OE_MercenaryKit.label>雇佣兵现代化套件</OE_MercenaryKit.label>
   <!-- EN: Universal set of highly modified components for building and upgrading Obsidia Mercenary Gangs gear. -->
-  <OE_MercenaryKit.description>TODO</OE_MercenaryKit.description>
+  <OE_MercenaryKit.description>用于建造和升级黑曜石雇佣兵帮派装备的高度改装组件通用套装。</OE_MercenaryKit.description>
   
   <!-- EN: modernization kit -->
-  <OE_ModernizationKit.label>TODO</OE_ModernizationKit.label>
+  <OE_ModernizationKit.label>现代化套件</OE_ModernizationKit.label>
   <!-- EN: Universal set of components for upgrading Obsidia gear from a simple to an modded version. -->
-  <OE_ModernizationKit.description>TODO</OE_ModernizationKit.description>
+  <OE_ModernizationKit.description>用于将黑曜石装备从简单版本升级到改装版本的通用组件套装。</OE_ModernizationKit.description>
   
 </LanguageData>

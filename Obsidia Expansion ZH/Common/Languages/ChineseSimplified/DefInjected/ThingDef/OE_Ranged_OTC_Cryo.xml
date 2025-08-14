@@ -1,188 +1,188 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Nimbus Cryo arrow -->
-  <Bullet_OTC_B_Cryo.label>TODO</Bullet_OTC_B_Cryo.label>
+  <Bullet_OTC_B_Cryo.label>宁巴斯冷冻箭</Bullet_OTC_B_Cryo.label>
   
   <!-- EN: Nimbus Prototype Cryo arrow -->
-  <Bullet_OTC_B_M_Cryo.label>TODO</Bullet_OTC_B_M_Cryo.label>
+  <Bullet_OTC_B_M_Cryo.label>宁巴斯原型冷冻箭</Bullet_OTC_B_M_Cryo.label>
   
   <!-- EN: Meteor Cryo grenade -->
-  <Bullet_OTC_GL_Cryo.label>TODO</Bullet_OTC_GL_Cryo.label>
+  <Bullet_OTC_GL_Cryo.label>流星冷冻手榴弹</Bullet_OTC_GL_Cryo.label>
   
   <!-- EN: Meteor Prototype Cryo grenade -->
-  <Bullet_OTC_GL_M_Cryo.label>TODO</Bullet_OTC_GL_M_Cryo.label>
+  <Bullet_OTC_GL_M_Cryo.label>流星原型冷冻手榴弹</Bullet_OTC_GL_M_Cryo.label>
   
   <!-- EN: Pulsar Cryo energy ball -->
-  <Bullet_OTC_MC_Cryo.label>TODO</Bullet_OTC_MC_Cryo.label>
+  <Bullet_OTC_MC_Cryo.label>脉冲冷冻能量球</Bullet_OTC_MC_Cryo.label>
   
   <!-- EN: Pulsar Prototype Cryo energy ball -->
-  <Bullet_OTC_MC_M_Cryo.label>TODO</Bullet_OTC_MC_M_Cryo.label>
+  <Bullet_OTC_MC_M_Cryo.label>脉冲原型冷冻能量球</Bullet_OTC_MC_M_Cryo.label>
   
   <!-- EN: Celestial Cryo energy bullet -->
-  <Bullet_OTC_P_Cryo.label>TODO</Bullet_OTC_P_Cryo.label>
+  <Bullet_OTC_P_Cryo.label>天体冷冻能量弹</Bullet_OTC_P_Cryo.label>
   
   <!-- EN: Celestial Prototype Cryo energy bullet -->
-  <Bullet_OTC_P_M_Cryo.label>TODO</Bullet_OTC_P_M_Cryo.label>
+  <Bullet_OTC_P_M_Cryo.label>天体原型冷冻能量弹</Bullet_OTC_P_M_Cryo.label>
   
   <!-- EN: Quasar Cryo energy ball -->
-  <Bullet_OTC_S_Cryo.label>TODO</Bullet_OTC_S_Cryo.label>
+  <Bullet_OTC_S_Cryo.label>类星体冷冻能量球</Bullet_OTC_S_Cryo.label>
   
   <!-- EN: Quasar Prototype Cryo energy ball -->
-  <Bullet_OTC_S_M_Cryo.label>TODO</Bullet_OTC_S_M_Cryo.label>
+  <Bullet_OTC_S_M_Cryo.label>类星体原型冷冻能量球</Bullet_OTC_S_M_Cryo.label>
   
   <!-- EN: Equalizer Cryo energy bullet -->
-  <Bullet_OTC_SMG_Cryo.label>TODO</Bullet_OTC_SMG_Cryo.label>
+  <Bullet_OTC_SMG_Cryo.label>平衡者冷冻能量弹</Bullet_OTC_SMG_Cryo.label>
   
   <!-- EN: Equalizer Prototype Cryo energy bullet -->
-  <Bullet_OTC_SMG_M_Cryo.label>TODO</Bullet_OTC_SMG_M_Cryo.label>
+  <Bullet_OTC_SMG_M_Cryo.label>平衡者原型冷冻能量弹</Bullet_OTC_SMG_M_Cryo.label>
   
   <!-- EN: Nova Cryo energy ball -->
-  <Bullet_OTC_SR_Cryo.label>TODO</Bullet_OTC_SR_Cryo.label>
+  <Bullet_OTC_SR_Cryo.label>新星冷冻能量球</Bullet_OTC_SR_Cryo.label>
   
   <!-- EN: Nova Prototype Cryo energy ball -->
-  <Bullet_OTC_SR_M_Cryo.label>TODO</Bullet_OTC_SR_M_Cryo.label>
+  <Bullet_OTC_SR_M_Cryo.label>新星原型冷冻能量球</Bullet_OTC_SR_M_Cryo.label>
   
   <!-- EN: Nimbus(Cryo) -->
-  <OTC_Bow_Cryo.label>TODO</OTC_Bow_Cryo.label>
+  <OTC_Bow_Cryo.label>宁巴斯（冷冻）</OTC_Bow_Cryo.label>
   <!-- EN: Regular Bow used by OTC Mechanics. Balanced weapon with Cryo charges.\n\nIt's remanufactured weapon based on OEC Bow. -->
-  <OTC_Bow_Cryo.description>TODO</OTC_Bow_Cryo.description>
+  <OTC_Bow_Cryo.description>OTC机械师使用的常规弓。带有冷冻充能的平衡武器。\n\n这是基于OEC弓的再制造武器。</OTC_Bow_Cryo.description>
   <!-- EN: limb -->
-  <OTC_Bow_Cryo.tools.limb.label>TODO</OTC_Bow_Cryo.tools.limb.label>
+  <OTC_Bow_Cryo.tools.limb.label>弓臂</OTC_Bow_Cryo.tools.limb.label>
   <!-- EN: Nimbus(Cryo) -->
-  <OTC_Bow_Cryo.verbs.Verb_Shoot.label>TODO</OTC_Bow_Cryo.verbs.Verb_Shoot.label>
+  <OTC_Bow_Cryo.verbs.Verb_Shoot.label>宁巴斯（冷冻）</OTC_Bow_Cryo.verbs.Verb_Shoot.label>
   
   <!-- EN: Nimbus Prototype(Cryo) -->
-  <OTC_Bow_M_Cryo.label>TODO</OTC_Bow_M_Cryo.label>
+  <OTC_Bow_M_Cryo.label>宁巴斯原型（冷冻）</OTC_Bow_M_Cryo.label>
   <!-- EN: Experimental Bow used by OTC Engineers. Balanced weapon with Cryo charges.\n\nIt's remanufactured weapon based on OEC Bow. -->
-  <OTC_Bow_M_Cryo.description>TODO</OTC_Bow_M_Cryo.description>
+  <OTC_Bow_M_Cryo.description>OTC工程师使用的实验性弓。带有冷冻充能的平衡武器。\n\n这是基于OEC弓的再制造武器。</OTC_Bow_M_Cryo.description>
   <!-- EN: limb -->
-  <OTC_Bow_M_Cryo.tools.limb.label>TODO</OTC_Bow_M_Cryo.tools.limb.label>
+  <OTC_Bow_M_Cryo.tools.limb.label>弓臂</OTC_Bow_M_Cryo.tools.limb.label>
   <!-- EN: Nimbus Prototype(Cryo) -->
-  <OTC_Bow_M_Cryo.verbs.Verb_Shoot.label>TODO</OTC_Bow_M_Cryo.verbs.Verb_Shoot.label>
+  <OTC_Bow_M_Cryo.verbs.Verb_Shoot.label>宁巴斯原型（冷冻）</OTC_Bow_M_Cryo.verbs.Verb_Shoot.label>
   
   <!-- EN: Meteor(Cryo) -->
-  <OTC_GrenadeLauncher_Cryo.label>TODO</OTC_GrenadeLauncher_Cryo.label>
+  <OTC_GrenadeLauncher_Cryo.label>流星（冷冻）</OTC_GrenadeLauncher_Cryo.label>
   <!-- EN: Regular Grenade Launcher used by OTC Mechanics. Balanced weapon with Cryo charges. -->
-  <OTC_GrenadeLauncher_Cryo.description>TODO</OTC_GrenadeLauncher_Cryo.description>
+  <OTC_GrenadeLauncher_Cryo.description>OTC机械师使用的常规榴弹发射器。带有冷冻充能的平衡武器。</OTC_GrenadeLauncher_Cryo.description>
   <!-- EN: barrel -->
-  <OTC_GrenadeLauncher_Cryo.tools.barrel.label>TODO</OTC_GrenadeLauncher_Cryo.tools.barrel.label>
+  <OTC_GrenadeLauncher_Cryo.tools.barrel.label>枪管</OTC_GrenadeLauncher_Cryo.tools.barrel.label>
   <!-- EN: Meteor(Cryo) -->
-  <OTC_GrenadeLauncher_Cryo.verbs.Verb_Shoot.label>TODO</OTC_GrenadeLauncher_Cryo.verbs.Verb_Shoot.label>
+  <OTC_GrenadeLauncher_Cryo.verbs.Verb_Shoot.label>流星（冷冻）</OTC_GrenadeLauncher_Cryo.verbs.Verb_Shoot.label>
   
   <!-- EN: Meteor Prototype(Cryo) -->
-  <OTC_GrenadeLauncher_M_Cryo.label>TODO</OTC_GrenadeLauncher_M_Cryo.label>
+  <OTC_GrenadeLauncher_M_Cryo.label>流星原型（冷冻）</OTC_GrenadeLauncher_M_Cryo.label>
   <!-- EN: Experimental Grenade Launcher used by OTC Engineers. Balanced weapon with Cryo charges. -->
-  <OTC_GrenadeLauncher_M_Cryo.description>TODO</OTC_GrenadeLauncher_M_Cryo.description>
+  <OTC_GrenadeLauncher_M_Cryo.description>OTC工程师使用的实验性榴弹发射器。带有冷冻充能的平衡武器。</OTC_GrenadeLauncher_M_Cryo.description>
   <!-- EN: barrel -->
-  <OTC_GrenadeLauncher_M_Cryo.tools.barrel.label>TODO</OTC_GrenadeLauncher_M_Cryo.tools.barrel.label>
+  <OTC_GrenadeLauncher_M_Cryo.tools.barrel.label>枪管</OTC_GrenadeLauncher_M_Cryo.tools.barrel.label>
   <!-- EN: Meteor Prototype(Cryo) -->
-  <OTC_GrenadeLauncher_M_Cryo.verbs.Verb_Shoot.label>TODO</OTC_GrenadeLauncher_M_Cryo.verbs.Verb_Shoot.label>
+  <OTC_GrenadeLauncher_M_Cryo.verbs.Verb_Shoot.label>流星原型（冷冻）</OTC_GrenadeLauncher_M_Cryo.verbs.Verb_Shoot.label>
   
   <!-- EN: Pulsar(Cryo) -->
-  <OTC_MultiCannon_Cryo.label>TODO</OTC_MultiCannon_Cryo.label>
+  <OTC_MultiCannon_Cryo.label>脉冲（冷冻）</OTC_MultiCannon_Cryo.label>
   <!-- EN: Regular Multi-Cannon used by OTC Mechanics. Balanced weapon with Cryo charges.\n\nIt's remanufactured weapon based on OCC Multi-Cannon. -->
-  <OTC_MultiCannon_Cryo.description>TODO</OTC_MultiCannon_Cryo.description>
+  <OTC_MultiCannon_Cryo.description>OTC机械师使用的常规多管火炮。带有冷冻充能的平衡武器。\n\n这是基于OCC多管火炮的再制造武器。</OTC_MultiCannon_Cryo.description>
   <!-- EN: barrels -->
-  <OTC_MultiCannon_Cryo.tools.barrels.label>TODO</OTC_MultiCannon_Cryo.tools.barrels.label>
+  <OTC_MultiCannon_Cryo.tools.barrels.label>枪管</OTC_MultiCannon_Cryo.tools.barrels.label>
   <!-- EN: Pulsar(Cryo) -->
-  <OTC_MultiCannon_Cryo.verbs.Verb_Shoot.label>TODO</OTC_MultiCannon_Cryo.verbs.Verb_Shoot.label>
+  <OTC_MultiCannon_Cryo.verbs.Verb_Shoot.label>脉冲（冷冻）</OTC_MultiCannon_Cryo.verbs.Verb_Shoot.label>
   
   <!-- EN: Pulsar Prototype(Cryo) -->
-  <OTC_MultiCannon_M_Cryo.label>TODO</OTC_MultiCannon_M_Cryo.label>
+  <OTC_MultiCannon_M_Cryo.label>脉冲原型（冷冻）</OTC_MultiCannon_M_Cryo.label>
   <!-- EN: Experimental Multi-Cannon used by OTC Engineers. Balanced weapon with Cryo charges.\n\nIt's remanufactured weapon based on OCC Multi-Cannon. -->
-  <OTC_MultiCannon_M_Cryo.description>TODO</OTC_MultiCannon_M_Cryo.description>
+  <OTC_MultiCannon_M_Cryo.description>OTC工程师使用的实验性多管火炮。带有冷冻充能的平衡武器。\n\n这是基于OCC多管火炮的再制造武器。</OTC_MultiCannon_M_Cryo.description>
   <!-- EN: barrels -->
-  <OTC_MultiCannon_M_Cryo.tools.barrels.label>TODO</OTC_MultiCannon_M_Cryo.tools.barrels.label>
+  <OTC_MultiCannon_M_Cryo.tools.barrels.label>枪管</OTC_MultiCannon_M_Cryo.tools.barrels.label>
   <!-- EN: Pulsar Prototype(Cryo) -->
-  <OTC_MultiCannon_M_Cryo.verbs.Verb_Shoot.label>TODO</OTC_MultiCannon_M_Cryo.verbs.Verb_Shoot.label>
+  <OTC_MultiCannon_M_Cryo.verbs.Verb_Shoot.label>脉冲原型（冷冻）</OTC_MultiCannon_M_Cryo.verbs.Verb_Shoot.label>
   
   <!-- EN: Celestial(Cryo) -->
-  <OTC_Pistol_Cryo.label>TODO</OTC_Pistol_Cryo.label>
+  <OTC_Pistol_Cryo.label>天体（冷冻）</OTC_Pistol_Cryo.label>
   <!-- EN: Regular Pistol used by OTC Mechanics. Balanced weapon with Cryo charges. -->
-  <OTC_Pistol_Cryo.description>TODO</OTC_Pistol_Cryo.description>
+  <OTC_Pistol_Cryo.description>OTC机械师使用的常规手枪。带有冷冻充能的平衡武器。</OTC_Pistol_Cryo.description>
   <!-- EN: grip -->
-  <OTC_Pistol_Cryo.tools.grip.label>TODO</OTC_Pistol_Cryo.tools.grip.label>
+  <OTC_Pistol_Cryo.tools.grip.label>握把</OTC_Pistol_Cryo.tools.grip.label>
   <!-- EN: barrel -->
-  <OTC_Pistol_Cryo.tools.barrel.label>TODO</OTC_Pistol_Cryo.tools.barrel.label>
+  <OTC_Pistol_Cryo.tools.barrel.label>枪管</OTC_Pistol_Cryo.tools.barrel.label>
   <!-- EN: Celestial(Cryo) -->
-  <OTC_Pistol_Cryo.verbs.Verb_Shoot.label>TODO</OTC_Pistol_Cryo.verbs.Verb_Shoot.label>
+  <OTC_Pistol_Cryo.verbs.Verb_Shoot.label>天体（冷冻）</OTC_Pistol_Cryo.verbs.Verb_Shoot.label>
   
   <!-- EN: Celestial Prototype(Cryo) -->
-  <OTC_Pistol_M_Cryo.label>TODO</OTC_Pistol_M_Cryo.label>
+  <OTC_Pistol_M_Cryo.label>天体原型（冷冻）</OTC_Pistol_M_Cryo.label>
   <!-- EN: Experimental Pistol used by OTC Engineers. Balanced weapon with Cryo charges. -->
-  <OTC_Pistol_M_Cryo.description>TODO</OTC_Pistol_M_Cryo.description>
+  <OTC_Pistol_M_Cryo.description>OTC工程师使用的实验性手枪。带有冷冻充能的平衡武器。</OTC_Pistol_M_Cryo.description>
   <!-- EN: grip -->
-  <OTC_Pistol_M_Cryo.tools.grip.label>TODO</OTC_Pistol_M_Cryo.tools.grip.label>
+  <OTC_Pistol_M_Cryo.tools.grip.label>握把</OTC_Pistol_M_Cryo.tools.grip.label>
   <!-- EN: barrel -->
-  <OTC_Pistol_M_Cryo.tools.barrel.label>TODO</OTC_Pistol_M_Cryo.tools.barrel.label>
+  <OTC_Pistol_M_Cryo.tools.barrel.label>枪管</OTC_Pistol_M_Cryo.tools.barrel.label>
   <!-- EN: Celestial Prototype(Cryo) -->
-  <OTC_Pistol_M_Cryo.verbs.Verb_Shoot.label>TODO</OTC_Pistol_M_Cryo.verbs.Verb_Shoot.label>
+  <OTC_Pistol_M_Cryo.verbs.Verb_Shoot.label>天体原型（冷冻）</OTC_Pistol_M_Cryo.verbs.Verb_Shoot.label>
   
   <!-- EN: Quasar(Cryo) -->
-  <OTC_Shotgun_Cryo.label>TODO</OTC_Shotgun_Cryo.label>
+  <OTC_Shotgun_Cryo.label>类星体（冷冻）</OTC_Shotgun_Cryo.label>
   <!-- EN: Regular Shotgun used by OTC Mechanics. Balanced weapon with Cryo charges. -->
-  <OTC_Shotgun_Cryo.description>TODO</OTC_Shotgun_Cryo.description>
+  <OTC_Shotgun_Cryo.description>OTC机械师使用的常规霰弹枪。带有冷冻充能的平衡武器。</OTC_Shotgun_Cryo.description>
   <!-- EN: stock -->
-  <OTC_Shotgun_Cryo.tools.stock.label>TODO</OTC_Shotgun_Cryo.tools.stock.label>
+  <OTC_Shotgun_Cryo.tools.stock.label>枪托</OTC_Shotgun_Cryo.tools.stock.label>
   <!-- EN: barrel -->
-  <OTC_Shotgun_Cryo.tools.barrel.label>TODO</OTC_Shotgun_Cryo.tools.barrel.label>
+  <OTC_Shotgun_Cryo.tools.barrel.label>枪管</OTC_Shotgun_Cryo.tools.barrel.label>
   <!-- EN: Quasar(Cryo) -->
-  <OTC_Shotgun_Cryo.verbs.Verb_Shoot.label>TODO</OTC_Shotgun_Cryo.verbs.Verb_Shoot.label>
+  <OTC_Shotgun_Cryo.verbs.Verb_Shoot.label>类星体（冷冻）</OTC_Shotgun_Cryo.verbs.Verb_Shoot.label>
   
   <!-- EN: Quasar Prototype(Cryo) -->
-  <OTC_Shotgun_M_Cryo.label>TODO</OTC_Shotgun_M_Cryo.label>
+  <OTC_Shotgun_M_Cryo.label>类星体原型（冷冻）</OTC_Shotgun_M_Cryo.label>
   <!-- EN: Experimental Shotgun used by OTC Engineers. Balanced weapon with Cryo charges. -->
-  <OTC_Shotgun_M_Cryo.description>TODO</OTC_Shotgun_M_Cryo.description>
+  <OTC_Shotgun_M_Cryo.description>OTC工程师使用的实验性霰弹枪。带有冷冻充能的平衡武器。</OTC_Shotgun_M_Cryo.description>
   <!-- EN: stock -->
-  <OTC_Shotgun_M_Cryo.tools.stock.label>TODO</OTC_Shotgun_M_Cryo.tools.stock.label>
+  <OTC_Shotgun_M_Cryo.tools.stock.label>枪托</OTC_Shotgun_M_Cryo.tools.stock.label>
   <!-- EN: barrel -->
-  <OTC_Shotgun_M_Cryo.tools.barrel.label>TODO</OTC_Shotgun_M_Cryo.tools.barrel.label>
+  <OTC_Shotgun_M_Cryo.tools.barrel.label>枪管</OTC_Shotgun_M_Cryo.tools.barrel.label>
   <!-- EN: Quasar Prototype(Cryo) -->
-  <OTC_Shotgun_M_Cryo.verbs.Verb_Shoot.label>TODO</OTC_Shotgun_M_Cryo.verbs.Verb_Shoot.label>
+  <OTC_Shotgun_M_Cryo.verbs.Verb_Shoot.label>类星体原型（冷冻）</OTC_Shotgun_M_Cryo.verbs.Verb_Shoot.label>
   
   <!-- EN: Equalizer(Cryo) -->
-  <OTC_SMG_Cryo.label>TODO</OTC_SMG_Cryo.label>
+  <OTC_SMG_Cryo.label>平衡者（冷冻）</OTC_SMG_Cryo.label>
   <!-- EN: Regular SMG used by OTC Mechanics. Balanced weapon with Cryo charges. -->
-  <OTC_SMG_Cryo.description>TODO</OTC_SMG_Cryo.description>
+  <OTC_SMG_Cryo.description>OTC机械师使用的常规冲锋枪。带有冷冻充能的平衡武器。</OTC_SMG_Cryo.description>
   <!-- EN: stock -->
-  <OTC_SMG_Cryo.tools.stock.label>TODO</OTC_SMG_Cryo.tools.stock.label>
+  <OTC_SMG_Cryo.tools.stock.label>枪托</OTC_SMG_Cryo.tools.stock.label>
   <!-- EN: barrel -->
-  <OTC_SMG_Cryo.tools.barrel.label>TODO</OTC_SMG_Cryo.tools.barrel.label>
+  <OTC_SMG_Cryo.tools.barrel.label>枪管</OTC_SMG_Cryo.tools.barrel.label>
   <!-- EN: Equalizer(Cryo) -->
-  <OTC_SMG_Cryo.verbs.Verb_Shoot.label>TODO</OTC_SMG_Cryo.verbs.Verb_Shoot.label>
+  <OTC_SMG_Cryo.verbs.Verb_Shoot.label>平衡者（冷冻）</OTC_SMG_Cryo.verbs.Verb_Shoot.label>
   
   <!-- EN: Equalizer Prototype(Cryo) -->
-  <OTC_SMG_M_Cryo.label>TODO</OTC_SMG_M_Cryo.label>
+  <OTC_SMG_M_Cryo.label>平衡者原型（冷冻）</OTC_SMG_M_Cryo.label>
   <!-- EN: Experimental SMG used by OTC Engineers. Balanced weapon with Cryo charges. -->
-  <OTC_SMG_M_Cryo.description>TODO</OTC_SMG_M_Cryo.description>
+  <OTC_SMG_M_Cryo.description>OTC工程师使用的实验性冲锋枪。带有冷冻充能的平衡武器。</OTC_SMG_M_Cryo.description>
   <!-- EN: stock -->
-  <OTC_SMG_M_Cryo.tools.stock.label>TODO</OTC_SMG_M_Cryo.tools.stock.label>
+  <OTC_SMG_M_Cryo.tools.stock.label>枪托</OTC_SMG_M_Cryo.tools.stock.label>
   <!-- EN: barrel -->
-  <OTC_SMG_M_Cryo.tools.barrel.label>TODO</OTC_SMG_M_Cryo.tools.barrel.label>
+  <OTC_SMG_M_Cryo.tools.barrel.label>枪管</OTC_SMG_M_Cryo.tools.barrel.label>
   <!-- EN: Equalizer Prototype(Cryo) -->
-  <OTC_SMG_M_Cryo.verbs.Verb_Shoot.label>TODO</OTC_SMG_M_Cryo.verbs.Verb_Shoot.label>
+  <OTC_SMG_M_Cryo.verbs.Verb_Shoot.label>平衡者原型（冷冻）</OTC_SMG_M_Cryo.verbs.Verb_Shoot.label>
   
   <!-- EN: Nova(Cryo) -->
-  <OTC_SniperRifle_Cryo.label>TODO</OTC_SniperRifle_Cryo.label>
+  <OTC_SniperRifle_Cryo.label>新星（冷冻）</OTC_SniperRifle_Cryo.label>
   <!-- EN: Regular Sniper Rifle used by OTC Mechanics. Balanced weapon with Cryo charges.\n\nIt's remanufactured weapon based on OMC Sniper Rifle. -->
-  <OTC_SniperRifle_Cryo.description>TODO</OTC_SniperRifle_Cryo.description>
+  <OTC_SniperRifle_Cryo.description>OTC机械师使用的常规狙击步枪。带有冷冻充能的平衡武器。\n\n这是基于OMC狙击步枪的再制造武器。</OTC_SniperRifle_Cryo.description>
   <!-- EN: stock -->
-  <OTC_SniperRifle_Cryo.tools.stock.label>TODO</OTC_SniperRifle_Cryo.tools.stock.label>
+  <OTC_SniperRifle_Cryo.tools.stock.label>枪托</OTC_SniperRifle_Cryo.tools.stock.label>
   <!-- EN: barrel -->
-  <OTC_SniperRifle_Cryo.tools.barrel.label>TODO</OTC_SniperRifle_Cryo.tools.barrel.label>
+  <OTC_SniperRifle_Cryo.tools.barrel.label>枪管</OTC_SniperRifle_Cryo.tools.barrel.label>
   <!-- EN: Nova(Cryo) -->
-  <OTC_SniperRifle_Cryo.verbs.Verb_Shoot.label>TODO</OTC_SniperRifle_Cryo.verbs.Verb_Shoot.label>
+  <OTC_SniperRifle_Cryo.verbs.Verb_Shoot.label>新星（冷冻）</OTC_SniperRifle_Cryo.verbs.Verb_Shoot.label>
   
   <!-- EN: Nova Prototype(Cryo) -->
-  <OTC_SniperRifle_M_Cryo.label>TODO</OTC_SniperRifle_M_Cryo.label>
+  <OTC_SniperRifle_M_Cryo.label>新星原型（冷冻）</OTC_SniperRifle_M_Cryo.label>
   <!-- EN: Experimental Sniper Rifle used by OTC Engineers. Balanced weapon with Cryo charges.\n\nIt's remanufactured weapon based on OMC Sniper Rifle. -->
-  <OTC_SniperRifle_M_Cryo.description>TODO</OTC_SniperRifle_M_Cryo.description>
+  <OTC_SniperRifle_M_Cryo.description>OTC工程师使用的实验性狙击步枪。带有冷冻充能的平衡武器。\n\n这是基于OMC狙击步枪的再制造武器。</OTC_SniperRifle_M_Cryo.description>
   <!-- EN: stock -->
-  <OTC_SniperRifle_M_Cryo.tools.stock.label>TODO</OTC_SniperRifle_M_Cryo.tools.stock.label>
+  <OTC_SniperRifle_M_Cryo.tools.stock.label>枪托</OTC_SniperRifle_M_Cryo.tools.stock.label>
   <!-- EN: barrel -->
-  <OTC_SniperRifle_M_Cryo.tools.barrel.label>TODO</OTC_SniperRifle_M_Cryo.tools.barrel.label>
+  <OTC_SniperRifle_M_Cryo.tools.barrel.label>枪管</OTC_SniperRifle_M_Cryo.tools.barrel.label>
   <!-- EN: Nova Prototype(Cryo) -->
-  <OTC_SniperRifle_M_Cryo.verbs.Verb_Shoot.label>TODO</OTC_SniperRifle_M_Cryo.verbs.Verb_Shoot.label>
+  <OTC_SniperRifle_M_Cryo.verbs.Verb_Shoot.label>新星原型（冷冻）</OTC_SniperRifle_M_Cryo.verbs.Verb_Shoot.label>
   
 </LanguageData>

@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: obsidia tox caterpillar -->
-  <OE_Caterpillar_Tox.label>TODO</OE_Caterpillar_Tox.label>
+  <OE_Caterpillar_Tox.label>黑曜石毒素毛虫</OE_Caterpillar_Tox.label>
   <!-- EN: Caterpillar is a genetically engineered creature. Scientists planned to create a small, peaceful creature that would serve as a convenient source of meat.\n\nThis specimen adapted to life at pollution areas. -->
-  <OE_Caterpillar_Tox.description>TODO</OE_Caterpillar_Tox.description>
+  <OE_Caterpillar_Tox.description>毛虫是一种基因工程生物。科学家计划创造一种小型、温顺的生物，作为方便的肉食来源。\n\n这个样本适应了污染区域的生活。</OE_Caterpillar_Tox.description>
   <!-- EN: mandibles -->
-  <OE_Caterpillar_Tox.tools.mandibles.label>TODO</OE_Caterpillar_Tox.tools.mandibles.label>
+  <OE_Caterpillar_Tox.tools.mandibles.label>颚</OE_Caterpillar_Tox.tools.mandibles.label>
   <!-- EN: head -->
-  <OE_Caterpillar_Tox.tools.head.label>TODO</OE_Caterpillar_Tox.tools.head.label>
+  <OE_Caterpillar_Tox.tools.head.label>头部</OE_Caterpillar_Tox.tools.head.label>
   
 </LanguageData>

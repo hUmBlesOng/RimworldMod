@@ -1,55 +1,55 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Paragon Prototype sX-02a -->
-  <OE_Trophy_RepairPistol_P.label>TODO</OE_Trophy_RepairPistol_P.label>
+  <OE_Trophy_RepairPistol_P.label>卓越原型sX-02a</OE_Trophy_RepairPistol_P.label>
   <!-- EN: Prototype of a new paragon repair pistol that equipped with a tools synthesizator which make most construction jobs easier.\n\nThis is a rare trophy weapon.\n\nFeature: a built-in module that improves construction skills. -->
-  <OE_Trophy_RepairPistol_P.description>TODO</OE_Trophy_RepairPistol_P.description>
+  <OE_Trophy_RepairPistol_P.description>配备工具合成器的新型卓越维修手枪原型，使大多数建筑工作变得更加容易。\n\n这是一种稀有的战利品武器。\n\n特性：内置模块，提高建筑技能。</OE_Trophy_RepairPistol_P.description>
   <!-- EN: charge -->
-  <OE_Trophy_RepairPistol_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OE_Trophy_RepairPistol_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <OE_Trophy_RepairPistol_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OE_Trophy_RepairPistol_P.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OE_Trophy_RepairPistol_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OE_Trophy_RepairPistol_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <OE_Trophy_RepairPistol_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OE_Trophy_RepairPistol_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: Paragon Prototype sX-02a -->
-  <OE_Trophy_RepairPistol_P.comps.CompUniqueWeapon.namerLabels.0>TODO</OE_Trophy_RepairPistol_P.comps.CompUniqueWeapon.namerLabels.0>
+  <OE_Trophy_RepairPistol_P.comps.CompUniqueWeapon.namerLabels.0>卓越原型sX-02a</OE_Trophy_RepairPistol_P.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: grip -->
-  <OE_Trophy_RepairPistol_P.tools.grip.label>TODO</OE_Trophy_RepairPistol_P.tools.grip.label>
+  <OE_Trophy_RepairPistol_P.tools.grip.label>握把</OE_Trophy_RepairPistol_P.tools.grip.label>
   <!-- EN: barrel -->
-  <OE_Trophy_RepairPistol_P.tools.barrel.label>TODO</OE_Trophy_RepairPistol_P.tools.barrel.label>
+  <OE_Trophy_RepairPistol_P.tools.barrel.label>枪管</OE_Trophy_RepairPistol_P.tools.barrel.label>
   <!-- EN: Paragon Prototype sX-02a -->
-  <OE_Trophy_RepairPistol_P.verbs.Verb_Shoot.label>TODO</OE_Trophy_RepairPistol_P.verbs.Verb_Shoot.label>
+  <OE_Trophy_RepairPistol_P.verbs.Verb_Shoot.label>卓越原型sX-02a</OE_Trophy_RepairPistol_P.verbs.Verb_Shoot.label>
   
   <!-- EN: Paragon Ashisogi Jizō -->
-  <OE_Trophy_SampleCollector_P.label>TODO</OE_Trophy_SampleCollector_P.label>
+  <OE_Trophy_SampleCollector_P.label>卓越镇魂地藏</OE_Trophy_SampleCollector_P.label>
   <!-- EN: One of the forgotten research objects of Mayuri Kurotsuchi. The darts of this paragon weapon contain an unstable toxin that randomly affects the target. It is not recommended to use in combat, since the effects can randomly debuff or buff the target.\n\nThis is a rare trophy weapon.\n\nFeature: deals unstable toxin damage that applies various random effects. -->
-  <OE_Trophy_SampleCollector_P.description>TODO</OE_Trophy_SampleCollector_P.description>
+  <OE_Trophy_SampleCollector_P.description>黑崎狂三郎被遗忘的研究对象之一。这件卓越武器的飞镖含有不稳定的毒素，会随机影响目标。不建议在战斗中使用，因为效果可能会随机削弱或增强目标。\n\n这是一种稀有的战利品武器。\n\n特性：造成不稳定的毒素伤害，产生各种随机效果。</OE_Trophy_SampleCollector_P.description>
   <!-- EN: charge -->
-  <OE_Trophy_SampleCollector_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OE_Trophy_SampleCollector_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <OE_Trophy_SampleCollector_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OE_Trophy_SampleCollector_P.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OE_Trophy_SampleCollector_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OE_Trophy_SampleCollector_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <OE_Trophy_SampleCollector_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OE_Trophy_SampleCollector_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: Paragon Ashisogi Jizō -->
-  <OE_Trophy_SampleCollector_P.comps.CompUniqueWeapon.namerLabels.0>TODO</OE_Trophy_SampleCollector_P.comps.CompUniqueWeapon.namerLabels.0>
+  <OE_Trophy_SampleCollector_P.comps.CompUniqueWeapon.namerLabels.0>卓越镇魂地藏</OE_Trophy_SampleCollector_P.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: grip -->
-  <OE_Trophy_SampleCollector_P.tools.grip.label>TODO</OE_Trophy_SampleCollector_P.tools.grip.label>
+  <OE_Trophy_SampleCollector_P.tools.grip.label>握把</OE_Trophy_SampleCollector_P.tools.grip.label>
   <!-- EN: barrel -->
-  <OE_Trophy_SampleCollector_P.tools.barrel.label>TODO</OE_Trophy_SampleCollector_P.tools.barrel.label>
+  <OE_Trophy_SampleCollector_P.tools.barrel.label>枪管</OE_Trophy_SampleCollector_P.tools.barrel.label>
   <!-- EN: Paragon Ashisogi Jizō -->
-  <OE_Trophy_SampleCollector_P.verbs.Verb_Shoot.label>TODO</OE_Trophy_SampleCollector_P.verbs.Verb_Shoot.label>
+  <OE_Trophy_SampleCollector_P.verbs.Verb_Shoot.label>卓越镇魂地藏</OE_Trophy_SampleCollector_P.verbs.Verb_Shoot.label>
   
   <!-- EN: Paragon Titanstrike -->
-  <OE_Trophy_UnstableGun_P.label>TODO</OE_Trophy_UnstableGun_P.label>
+  <OE_Trophy_UnstableGun_P.label>卓越泰坦打击</OE_Trophy_UnstableGun_P.label>
   <!-- EN: This is a prohibited paragon weapon in Obsidia Empire and can only be obtained illegally. Due to a poorly designed energy delivery system, the weapon is quite weak, but there is a 5% chance that the weapon can release a huge amount of energy at once, causing incredible damage.\n\nThis is a rare trophy weapon.\n\nFeature: has a 5% chance of dealing incredible damage. -->
-  <OE_Trophy_UnstableGun_P.description>TODO</OE_Trophy_UnstableGun_P.description>
+  <OE_Trophy_UnstableGun_P.description>这是黑曜石帝国禁止的卓越武器，只能通过非法途径获得。由于能量传输系统设计不良，武器相当脆弱，但有5%的几率武器能一次性释放巨大能量，造成难以置信的伤害。\n\n这是一种稀有的战利品武器。\n\n特性：有5%几率造成难以置信的伤害。</OE_Trophy_UnstableGun_P.description>
   <!-- EN: charge -->
-  <OE_Trophy_UnstableGun_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OE_Trophy_UnstableGun_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <OE_Trophy_UnstableGun_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OE_Trophy_UnstableGun_P.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OE_Trophy_UnstableGun_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OE_Trophy_UnstableGun_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <OE_Trophy_UnstableGun_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OE_Trophy_UnstableGun_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: Paragon Titanstrike -->
-  <OE_Trophy_UnstableGun_P.comps.CompUniqueWeapon.namerLabels.0>TODO</OE_Trophy_UnstableGun_P.comps.CompUniqueWeapon.namerLabels.0>
+  <OE_Trophy_UnstableGun_P.comps.CompUniqueWeapon.namerLabels.0>卓越泰坦打击</OE_Trophy_UnstableGun_P.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: grip -->
-  <OE_Trophy_UnstableGun_P.tools.grip.label>TODO</OE_Trophy_UnstableGun_P.tools.grip.label>
+  <OE_Trophy_UnstableGun_P.tools.grip.label>握把</OE_Trophy_UnstableGun_P.tools.grip.label>
   <!-- EN: barrel -->
-  <OE_Trophy_UnstableGun_P.tools.barrel.label>TODO</OE_Trophy_UnstableGun_P.tools.barrel.label>
+  <OE_Trophy_UnstableGun_P.tools.barrel.label>枪管</OE_Trophy_UnstableGun_P.tools.barrel.label>
   <!-- EN: Paragon Titanstrike -->
-  <OE_Trophy_UnstableGun_P.verbs.Verb_Shoot.label>TODO</OE_Trophy_UnstableGun_P.verbs.Verb_Shoot.label>
+  <OE_Trophy_UnstableGun_P.verbs.Verb_Shoot.label>卓越泰坦打击</OE_Trophy_UnstableGun_P.verbs.Verb_Shoot.label>
   
 </LanguageData>

@@ -1,25 +1,25 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: OMG swarmling pack capsule -->
-  <Grenade_Armor_OMG_SwarmlingPack.label>TODO</Grenade_Armor_OMG_SwarmlingPack.label>
+  <Grenade_Armor_OMG_SwarmlingPack.label>OMG虫群背包胶囊</Grenade_Armor_OMG_SwarmlingPack.label>
   
   <!-- EN: Mercenary Armor(Swarmling) -->
-  <OMG_Armor_Swarmling.label>TODO</OMG_Armor_Swarmling.label>
+  <OMG_Armor_Swarmling.label>雇佣兵护甲（虫群）</OMG_Armor_Swarmling.label>
   <!-- EN: Highly modified heavy power armor, excellent protects the owner. Designed for use by Mercenaries.\n\nThis modification with the pack that allows the user to deploy a battery-powered drones and deprives item's quality levels. -->
-  <OMG_Armor_Swarmling.description>TODO</OMG_Armor_Swarmling.description>
+  <OMG_Armor_Swarmling.description>高度改良的重型动力护甲，出色地保护穿戴者。专为雇佣兵设计。\n\n此改装增加了可部署电池供电无人机的背包，会剥夺物品的品质等级。</OMG_Armor_Swarmling.description>
   <!-- EN: incendiary -->
-  <OMG_Armor_Swarmling.comps.CompApparelReloadable.chargeNoun>TODO</OMG_Armor_Swarmling.comps.CompApparelReloadable.chargeNoun>
+  <OMG_Armor_Swarmling.comps.CompApparelReloadable.chargeNoun>燃烧弹</OMG_Armor_Swarmling.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OMG_Armor_Swarmling.comps.CompApparelReloadable.cooldownGerund>TODO</OMG_Armor_Swarmling.comps.CompApparelReloadable.cooldownGerund>
+  <OMG_Armor_Swarmling.comps.CompApparelReloadable.cooldownGerund>冷却中</OMG_Armor_Swarmling.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: deploy swarmling drone -->
-  <OMG_Armor_Swarmling.verbs.deploy_swarmling_drone.label>TODO</OMG_Armor_Swarmling.verbs.deploy_swarmling_drone.label>
+  <OMG_Armor_Swarmling.verbs.deploy_swarmling_drone.label>部署虫群无人机</OMG_Armor_Swarmling.verbs.deploy_swarmling_drone.label>
   
   <!-- EN: Mercenary Swarmling Drone -->
-  <OMG_Swarmling_Drone.label>TODO</OMG_Swarmling_Drone.label>
+  <OMG_Swarmling_Drone.label>雇佣兵虫群无人机</OMG_Swarmling_Drone.label>
   <!-- EN: Mercenary Swarmling Drone - small autonomous mechanoid built for efficient elimination. Swarmling Drones are powered by a long-lasting battery. -->
-  <OMG_Swarmling_Drone.description>TODO</OMG_Swarmling_Drone.description>
+  <OMG_Swarmling_Drone.description>雇佣兵虫群无人机 - 为高效清除而建造的小型自主机械体。虫群无人机由长效电池供电。</OMG_Swarmling_Drone.description>
   <!-- EN: stinger -->
-  <OMG_Swarmling_Drone.tools.stinger.label>TODO</OMG_Swarmling_Drone.tools.stinger.label>
+  <OMG_Swarmling_Drone.tools.stinger.label>螫刺</OMG_Swarmling_Drone.tools.stinger.label>
   
 </LanguageData>

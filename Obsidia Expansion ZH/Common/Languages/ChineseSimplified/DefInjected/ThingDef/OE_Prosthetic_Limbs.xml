@@ -1,44 +1,44 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: bionic arm -->
-  <OE_ProstheticArm.label>TODO</OE_ProstheticArm.label>
+  <OE_ProstheticArm.label>仿生手臂</OE_ProstheticArm.label>
   <!-- EN: Obsidia bionic arm. It is better than a biological arm in almost every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a small strain on the body. -->
-  <OE_ProstheticArm.description>TODO</OE_ProstheticArm.description>
+  <OE_ProstheticArm.description>黑曜石仿生手臂。几乎在各个方面都比生物手臂更好。即使受到伤害，也会随时间自我修复。使用这种假体会对身体造成轻微负担。</OE_ProstheticArm.description>
   
   <!-- EN: cultist bionic arm -->
-  <OE_ProstheticArm_CAC.label>TODO</OE_ProstheticArm_CAC.label>
+  <OE_ProstheticArm_CAC.label>邪教徒仿生手臂</OE_ProstheticArm_CAC.label>
   <!-- EN: Obsidia cultist bionic arm. It is much better than a biological arm in every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a perceptible strain on the body. -->
-  <OE_ProstheticArm_CAC.description>TODO</OE_ProstheticArm_CAC.description>
+  <OE_ProstheticArm_CAC.description>黑曜石邪教徒仿生手臂。在各个方面都比生物手臂好得多。即使受到伤害，也会随时间自我修复。使用这种假体会对身体造成明显负担。</OE_ProstheticArm_CAC.description>
   
   <!-- EN: advanced bionic arm -->
-  <OE_ProstheticArm_M.label>TODO</OE_ProstheticArm_M.label>
+  <OE_ProstheticArm_M.label>高级仿生手臂</OE_ProstheticArm_M.label>
   <!-- EN: Obsidian advanced bionic arm. It is much better than a biological arm in almost every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a strain on the body. -->
-  <OE_ProstheticArm_M.description>TODO</OE_ProstheticArm_M.description>
+  <OE_ProstheticArm_M.description>黑曜石高级仿生手臂。几乎在各个方面都比生物手臂好得多。即使受到伤害，也会随时间自我修复。使用这种假体会对身体造成负担。</OE_ProstheticArm_M.description>
   
   <!-- EN: heroic bionic arm -->
-  <OE_ProstheticArm_OES.label>TODO</OE_ProstheticArm_OES.label>
+  <OE_ProstheticArm_OES.label>英雄仿生手臂</OE_ProstheticArm_OES.label>
   <!-- EN: Obsidia heroic bionic arm. It is much better than a biological arm in every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a perceptible strain on the body. -->
-  <OE_ProstheticArm_OES.description>TODO</OE_ProstheticArm_OES.description>
+  <OE_ProstheticArm_OES.description>黑曜石英雄仿生手臂。在各个方面都比生物手臂好得多。即使受到伤害，也会随时间自我修复。使用这种假体会对身体造成明显负担。</OE_ProstheticArm_OES.description>
   
   <!-- EN: bionic leg -->
-  <OE_ProstheticLeg.label>TODO</OE_ProstheticLeg.label>
+  <OE_ProstheticLeg.label>仿生腿</OE_ProstheticLeg.label>
   <!-- EN: Obsidia bionic leg. It is better than a biological leg in almost every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a small strain on the body. -->
-  <OE_ProstheticLeg.description>TODO</OE_ProstheticLeg.description>
+  <OE_ProstheticLeg.description>黑曜石仿生腿。几乎在各个方面都比生物腿更好。即使受到伤害，也会随时间自我修复。使用这种假体会对身体造成轻微负担。</OE_ProstheticLeg.description>
   
   <!-- EN: cultist bionic leg -->
-  <OE_ProstheticLeg_CAC.label>TODO</OE_ProstheticLeg_CAC.label>
+  <OE_ProstheticLeg_CAC.label>邪教徒仿生腿</OE_ProstheticLeg_CAC.label>
   <!-- EN: Obsidia cultist bionic leg. It is much better than a biological leg in every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a perceptible strain on the body. -->
-  <OE_ProstheticLeg_CAC.description>TODO</OE_ProstheticLeg_CAC.description>
+  <OE_ProstheticLeg_CAC.description>黑曜石邪教徒仿生腿。在各个方面都比生物腿好得多。即使受到伤害，也会随时间自我修复。使用这种假体会对身体造成明显负担。</OE_ProstheticLeg_CAC.description>
   
   <!-- EN: advanced bionic leg -->
-  <OE_ProstheticLeg_M.label>TODO</OE_ProstheticLeg_M.label>
+  <OE_ProstheticLeg_M.label>高级仿生腿</OE_ProstheticLeg_M.label>
   <!-- EN: Obsidian advanced bionic leg. It is much better than a biological leg in almost every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a strain on the body. -->
-  <OE_ProstheticLeg_M.description>TODO</OE_ProstheticLeg_M.description>
+  <OE_ProstheticLeg_M.description>黑曜石高级仿生腿。几乎在各个方面都比生物腿好得多。即使受到伤害，也会随时间自我修复。使用这种假体会对身体造成负担。</OE_ProstheticLeg_M.description>
   
   <!-- EN: heroic bionic leg -->
-  <OE_ProstheticLeg_OES.label>TODO</OE_ProstheticLeg_OES.label>
+  <OE_ProstheticLeg_OES.label>英雄仿生腿</OE_ProstheticLeg_OES.label>
   <!-- EN: Obsidia heroic bionic leg. It is much better than a biological leg in every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a perceptible strain on the body. -->
-  <OE_ProstheticLeg_OES.description>TODO</OE_ProstheticLeg_OES.description>
+  <OE_ProstheticLeg_OES.description>黑曜石英雄仿生腿。在各个方面都比生物腿好得多。即使受到伤害，也会随时间自我修复。使用这种假体会对身体造成明显负担。</OE_ProstheticLeg_OES.description>
   
 </LanguageData>

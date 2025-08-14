@@ -1,69 +1,69 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: arachna core -->
-  <OE_ArachnaCore.label>TODO</OE_ArachnaCore.label>
+  <OE_ArachnaCore.label>蛛后核心</OE_ArachnaCore.label>
   <!-- EN: A hyper-advanced computer core containing the AI persona of the Arachne Queen. It's unknown how the Crimson Arachna Cult got it, but with proper tuning it has huge potential. -->
-  <OE_ArachnaCore.description>TODO</OE_ArachnaCore.description>
+  <OE_ArachnaCore.description>包含蛛后AI人格的超先进计算机核心。猩红蛛族教派是如何获得它的尚不清楚，但经过适当调校后具有巨大潜力。</OE_ArachnaCore.description>
   <!-- EN: Analyze the arachna core. -->
-  <OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.activateDescString>TODO</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.activateDescString>分析蛛后核心。</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.activateDescString>
   <!-- EN: Analyze... -->
-  <OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.activateLabelString>TODO</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.activateLabelString>分析...</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.activateLabelString>
   <!-- EN: By studying the Arachna Core, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
-  <OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.completedLetter>TODO</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.completedLetter>
+  <OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.completedLetter>通过研究蛛后核心，{PAWN_labelShort}获得了研究项目{RESEARCH}所需的知识。\n\n您的研究人员现在可以使用研究台开始研究如何实际使用这项技术。</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.completedLetter>
   <!-- EN: Arachna Core studied: {RESEARCH} unlocked -->
-  <OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.completedLetterLabel>TODO</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.completedLetterLabel>蛛后核心已研究：{RESEARCH}已解锁</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
   <!-- EN: Choose who should analyze this -->
-  <OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.guiLabelString>TODO</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.guiLabelString>
   <!-- EN: Can be analyzed by a colonist. -->
-  <OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.inspectString>TODO</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.inspectString>
+  <OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.inspectString>可由殖民者分析。</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.inspectString>
   <!-- EN: Analyze arachna core -->
-  <OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.jobString>TODO</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.jobString>
+  <OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.jobString>分析蛛后核心</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.jobString>
   
   <!-- EN: mutated EGO seed – Elder Direwolf -->
-  <OE_EGOSeed_Elder_Direwolf.label>TODO</OE_EGOSeed_Elder_Direwolf.label>
+  <OE_EGOSeed_Elder_Direwolf.label>变异的EGO种子 - 年长恐狼</OE_EGOSeed_Elder_Direwolf.label>
   <!-- EN: Once the seed of an EGO tree, this specimen mutated under unknown conditions after entering the body of an Elder Direwolf. It sprouted within the host, forming an amalgam symbiosis. It can no longer be used to grow an EGO tree. -->
-  <OE_EGOSeed_Elder_Direwolf.description>TODO</OE_EGOSeed_Elder_Direwolf.description>
+  <OE_EGOSeed_Elder_Direwolf.description>曾经是EGO树的种子，这个标本在进入年长恐狼体内后在未知条件下发生变异。它在宿主体内发芽，形成了融合共生体。不能再用于种植EGO树。</OE_EGOSeed_Elder_Direwolf.description>
   
   <!-- EN: mutated EGO seed – Elder Ogren -->
-  <OE_EGOSeed_Elder_Ogren.label>TODO</OE_EGOSeed_Elder_Ogren.label>
+  <OE_EGOSeed_Elder_Ogren.label>变异的EGO种子 - 年长奥格林</OE_EGOSeed_Elder_Ogren.label>
   <!-- EN: Once the seed of an EGO tree, this specimen mutated under unknown conditions after entering the body of an Elder Ogren. It sprouted within the host, forming an amalgam symbiosis. It can no longer be used to grow an EGO tree. -->
-  <OE_EGOSeed_Elder_Ogren.description>TODO</OE_EGOSeed_Elder_Ogren.description>
+  <OE_EGOSeed_Elder_Ogren.description>曾经是EGO树的种子，这个标本在进入年长奥格林体内后在未知条件下发生变异。它在宿主体内发芽，形成了融合共生体。不能再用于种植EGO树。</OE_EGOSeed_Elder_Ogren.description>
   
   <!-- EN: mutated EGO seed – Elder Raptor -->
-  <OE_EGOSeed_Elder_Raptor.label>TODO</OE_EGOSeed_Elder_Raptor.label>
+  <OE_EGOSeed_Elder_Raptor.label>变异的EGO种子 - 年长猛禽</OE_EGOSeed_Elder_Raptor.label>
   <!-- EN: Once the seed of an EGO tree, this specimen mutated under unknown conditions after entering the body of an Elder Raptor. It sprouted within the host, forming an amalgam symbiosis. It can no longer be used to grow an EGO tree. -->
-  <OE_EGOSeed_Elder_Raptor.description>TODO</OE_EGOSeed_Elder_Raptor.description>
+  <OE_EGOSeed_Elder_Raptor.description>曾经是EGO树的种子，这个标本在进入年长猛禽体内后在未知条件下发生变异。它在宿主体内发芽，形成了融合共生体。不能再用于种植EGO树。</OE_EGOSeed_Elder_Raptor.description>
   
   <!-- EN: mutated EGO seed – Elder Tionant -->
-  <OE_EGOSeed_Elder_Tionant.label>TODO</OE_EGOSeed_Elder_Tionant.label>
+  <OE_EGOSeed_Elder_Tionant.label>变异的EGO种子 - 年长提欧南特</OE_EGOSeed_Elder_Tionant.label>
   <!-- EN: Once the seed of an EGO tree, this specimen mutated under unknown conditions after entering the body of an Elder Tionant. It sprouted within the host, forming an amalgam symbiosis. It can no longer be used to grow an EGO tree. -->
-  <OE_EGOSeed_Elder_Tionant.description>TODO</OE_EGOSeed_Elder_Tionant.description>
+  <OE_EGOSeed_Elder_Tionant.description>曾经是EGO树的种子，这个标本在进入年长提欧南特体内后在未知条件下发生变异。它在宿主体内发芽，形成了融合共生体。不能再用于种植EGO树。</OE_EGOSeed_Elder_Tionant.description>
   
   <!-- EN: compressed syntherius -->
-  <OE_SyntheriusPack.label>TODO</OE_SyntheriusPack.label>
+  <OE_SyntheriusPack.label>压缩合成素</OE_SyntheriusPack.label>
   <!-- EN: A batch of syntherius hermetically compressed into a special container for safe transportation and storage.\n\nFor further use, be sure to decompresse it. -->
-  <OE_SyntheriusPack.description>TODO</OE_SyntheriusPack.description>
+  <OE_SyntheriusPack.description>一批合成素被密封压缩到特殊容器中以便安全运输和储存。\n\n如需进一步使用，请务必进行解压。</OE_SyntheriusPack.description>
   <!-- EN: Decompresse syntherius -->
-  <OE_SyntheriusPack.comps.CompUsable.useLabel>TODO</OE_SyntheriusPack.comps.CompUsable.useLabel>
+  <OE_SyntheriusPack.comps.CompUsable.useLabel>解压合成素</OE_SyntheriusPack.comps.CompUsable.useLabel>
   
   <!-- EN: ustable power stone -->
-  <OE_UnstableStone.label>TODO</OE_UnstableStone.label>
+  <OE_UnstableStone.label>不稳定的能量石</OE_UnstableStone.label>
   <!-- EN: An unstable power stone from legends. By studying it, you can be able to stabilize and use its power. -->
-  <OE_UnstableStone.description>TODO</OE_UnstableStone.description>
+  <OE_UnstableStone.description>传说中的不稳定能量石。通过研究它，您可以稳定并利用其力量。</OE_UnstableStone.description>
   <!-- EN: Analyze the Ustable Power Stone. -->
-  <OE_UnstableStone.comps.CompAnalyzableUnlockResearch.activateDescString>TODO</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <OE_UnstableStone.comps.CompAnalyzableUnlockResearch.activateDescString>分析不稳定能量石。</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.activateDescString>
   <!-- EN: Analyze... -->
-  <OE_UnstableStone.comps.CompAnalyzableUnlockResearch.activateLabelString>TODO</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <OE_UnstableStone.comps.CompAnalyzableUnlockResearch.activateLabelString>分析...</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.activateLabelString>
   <!-- EN: By studying the Ustable Power Stone, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
-  <OE_UnstableStone.comps.CompAnalyzableUnlockResearch.completedLetter>TODO</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.completedLetter>
+  <OE_UnstableStone.comps.CompAnalyzableUnlockResearch.completedLetter>通过研究不稳定能量石，{PAWN_labelShort}获得了研究项目{RESEARCH}所需的知识。\n\n您的研究人员现在可以使用研究台开始研究如何实际使用这项技术。</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.completedLetter>
   <!-- EN: Ustable Power Stone studied: {RESEARCH} unlocked -->
-  <OE_UnstableStone.comps.CompAnalyzableUnlockResearch.completedLetterLabel>TODO</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <OE_UnstableStone.comps.CompAnalyzableUnlockResearch.completedLetterLabel>不稳定能量石已研究：{RESEARCH}已解锁</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
   <!-- EN: Choose who should analyze this -->
-  <OE_UnstableStone.comps.CompAnalyzableUnlockResearch.guiLabelString>TODO</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <OE_UnstableStone.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.guiLabelString>
   <!-- EN: Can be analyzed by a colonist. -->
-  <OE_UnstableStone.comps.CompAnalyzableUnlockResearch.inspectString>TODO</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.inspectString>
+  <OE_UnstableStone.comps.CompAnalyzableUnlockResearch.inspectString>可由殖民者分析。</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.inspectString>
   <!-- EN: Analyze Ustable Power Stone -->
-  <OE_UnstableStone.comps.CompAnalyzableUnlockResearch.jobString>TODO</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.jobString>
+  <OE_UnstableStone.comps.CompAnalyzableUnlockResearch.jobString>分析不稳定能量石</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.jobString>
   
 </LanguageData>

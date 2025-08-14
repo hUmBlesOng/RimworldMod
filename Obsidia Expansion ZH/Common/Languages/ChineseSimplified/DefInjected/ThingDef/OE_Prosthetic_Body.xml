@@ -1,24 +1,24 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: bionic spine -->
-  <OE_ProstheticSpine.label>TODO</OE_ProstheticSpine.label>
+  <OE_ProstheticSpine.label>仿生脊柱</OE_ProstheticSpine.label>
   <!-- EN: Obsidia bionic spine. It is better than a biological spine in almost every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a small strain on the body. -->
-  <OE_ProstheticSpine.description>TODO</OE_ProstheticSpine.description>
+  <OE_ProstheticSpine.description>黑曜石仿生脊柱。几乎在各个方面都比生物脊柱更好。即使受到伤害，也会随时间自我修复。使用这种假体会对身体造成轻微负担。</OE_ProstheticSpine.description>
   
   <!-- EN: cultist bionic spine -->
-  <OE_ProstheticSpine_CAC.label>TODO</OE_ProstheticSpine_CAC.label>
+  <OE_ProstheticSpine_CAC.label>邪教徒仿生脊柱</OE_ProstheticSpine_CAC.label>
   <!-- EN: Obsidia cultist bionic spine. It is much better than a biological spine in every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a perceptible strain on the body. -->
-  <OE_ProstheticSpine_CAC.description>TODO</OE_ProstheticSpine_CAC.description>
+  <OE_ProstheticSpine_CAC.description>黑曜石邪教徒仿生脊柱。在各个方面都比生物脊柱好得多。即使受到伤害，也会随时间自我修复。使用这种假体会对身体造成明显负担。</OE_ProstheticSpine_CAC.description>
   
   <!-- EN: advanced bionic spine -->
-  <OE_ProstheticSpine_M.label>TODO</OE_ProstheticSpine_M.label>
+  <OE_ProstheticSpine_M.label>高级仿生脊柱</OE_ProstheticSpine_M.label>
   <!-- EN: Obsidian advanced bionic spine. It is much better than a biological spine in almost every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a strain on the body. -->
-  <OE_ProstheticSpine_M.description>TODO</OE_ProstheticSpine_M.description>
+  <OE_ProstheticSpine_M.description>黑曜石高级仿生脊柱。几乎在各个方面都比生物脊柱好得多。即使受到伤害，也会随时间自我修复。使用这种假体会对身体造成负担。</OE_ProstheticSpine_M.description>
   
   <!-- EN: heroic bionic spine -->
-  <OE_ProstheticSpine_OES.label>TODO</OE_ProstheticSpine_OES.label>
+  <OE_ProstheticSpine_OES.label>英雄仿生脊柱</OE_ProstheticSpine_OES.label>
   <!-- EN: Obsidia heroic bionic spine. It is much better than a biological spine in every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a perceptible strain on the body. -->
-  <OE_ProstheticSpine_OES.description>TODO</OE_ProstheticSpine_OES.description>
+  <OE_ProstheticSpine_OES.description>黑曜石英雄仿生脊柱。在各个方面都比生物脊柱好得多。即使受到伤害，也会随时间自我修复。使用这种假体会对身体造成明显负担。</OE_ProstheticSpine_OES.description>
   
 </LanguageData>

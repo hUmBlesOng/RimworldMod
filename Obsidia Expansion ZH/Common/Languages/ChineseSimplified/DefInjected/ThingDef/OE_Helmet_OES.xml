@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Heroic Eidolon Helmet(Gladiator) -->
-  <OES_Helmet_Melee.label>TODO</OES_Helmet_Melee.label>
+  <OES_Helmet_Melee.label>英雄幻影头盔（角斗士）</OES_Helmet_Melee.label>
   <!-- EN: Heavy power armor Helmet, excellent protects the owner. Designed for use by Eidolons, once called Heroes! Reveals the full potential of its owner.\n\nThis modification intended for melee weapon user and deprives item's quality levels. -->
-  <OES_Helmet_Melee.description>TODO</OES_Helmet_Melee.description>
+  <OES_Helmet_Melee.description>重型动力装甲头盔，为使用者提供出色的保护。专为幻影设计使用，曾经被称为英雄！释放使用者的全部潜能。\n\n此改装专为近战武器使用者设计，剥夺了物品的品质等级。</OES_Helmet_Melee.description>
   
   <!-- EN: Heroic Eidolon Helmet(Ranger) -->
-  <OES_Helmet_Ranged.label>TODO</OES_Helmet_Ranged.label>
+  <OES_Helmet_Ranged.label>英雄幻影头盔（游侠）</OES_Helmet_Ranged.label>
   <!-- EN: Heavy power armor Helmet, excellent protects the owner. Designed for use by Eidolons, once called Heroes! Reveals the full potential of its owner.\n\nThis modification intended for ranged weapon user and deprives item's quality levels. -->
-  <OES_Helmet_Ranged.description>TODO</OES_Helmet_Ranged.description>
+  <OES_Helmet_Ranged.description>重型动力装甲头盔，为使用者提供出色的保护。专为幻影设计使用，曾经被称为英雄！释放使用者的全部潜能。\n\n此改装专为远程武器使用者设计，剥夺了物品的品质等级。</OES_Helmet_Ranged.description>
   
 </LanguageData>

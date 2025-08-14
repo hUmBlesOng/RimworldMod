@@ -1,104 +1,104 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: bionic heart -->
-  <OE_ProstheticHeart.label>TODO</OE_ProstheticHeart.label>
+  <OE_ProstheticHeart.label>仿生心脏</OE_ProstheticHeart.label>
   <!-- EN: Obsidia bionic heart. It is better than a biological heart in almost every way. The use of this prosthesis puts a small strain on the body. -->
-  <OE_ProstheticHeart.description>TODO</OE_ProstheticHeart.description>
+  <OE_ProstheticHeart.description>黑曜石仿生心脏。几乎在各个方面都比生物心脏更好。使用这种假体会对身体造成轻微负担。</OE_ProstheticHeart.description>
   
   <!-- EN: cultist bionic heart -->
-  <OE_ProstheticHeart_CAC.label>TODO</OE_ProstheticHeart_CAC.label>
+  <OE_ProstheticHeart_CAC.label>邪教徒仿生心脏</OE_ProstheticHeart_CAC.label>
   <!-- EN: Obsidia cultist bionic heart. It is much better than a biological heart in every way. The use of this prosthesis puts a perceptible strain on the body. -->
-  <OE_ProstheticHeart_CAC.description>TODO</OE_ProstheticHeart_CAC.description>
+  <OE_ProstheticHeart_CAC.description>黑曜石邪教徒仿生心脏。在各个方面都比生物心脏好得多。使用这种假体会对身体造成明显负担。</OE_ProstheticHeart_CAC.description>
   
   <!-- EN: advanced bionic heart -->
-  <OE_ProstheticHeart_M.label>TODO</OE_ProstheticHeart_M.label>
+  <OE_ProstheticHeart_M.label>高级仿生心脏</OE_ProstheticHeart_M.label>
   <!-- EN: Obsidian advanced bionic heart. It is much better than a biological heart in almost every way. The use of this prosthesis puts a strain on the body. -->
-  <OE_ProstheticHeart_M.description>TODO</OE_ProstheticHeart_M.description>
+  <OE_ProstheticHeart_M.description>黑曜石高级仿生心脏。几乎在各个方面都比生物心脏好得多。使用这种假体会对身体造成负担。</OE_ProstheticHeart_M.description>
   
   <!-- EN: heroic bionic heart -->
-  <OE_ProstheticHeart_OES.label>TODO</OE_ProstheticHeart_OES.label>
+  <OE_ProstheticHeart_OES.label>英雄仿生心脏</OE_ProstheticHeart_OES.label>
   <!-- EN: Obsidia heroic bionic heart. It is much better than a biological heart in every way. The use of this prosthesis puts a perceptible strain on the body. -->
-  <OE_ProstheticHeart_OES.description>TODO</OE_ProstheticHeart_OES.description>
+  <OE_ProstheticHeart_OES.description>黑曜石英雄仿生心脏。在各个方面都比生物心脏好得多。使用这种假体会对身体造成明显负担。</OE_ProstheticHeart_OES.description>
   
   <!-- EN: bionic kidney -->
-  <OE_ProstheticKidney.label>TODO</OE_ProstheticKidney.label>
+  <OE_ProstheticKidney.label>仿生肾脏</OE_ProstheticKidney.label>
   <!-- EN: Obsidia bionic kidney. It is better than a biological kidney in almost every way. The use of this prosthesis puts a small strain on the body. -->
-  <OE_ProstheticKidney.description>TODO</OE_ProstheticKidney.description>
+  <OE_ProstheticKidney.description>黑曜石仿生肾脏。几乎在各个方面都比生物肾脏更好。使用这种假体会对身体造成轻微负担。</OE_ProstheticKidney.description>
   
   <!-- EN: cultist bionic kidney -->
-  <OE_ProstheticKidney_CAC.label>TODO</OE_ProstheticKidney_CAC.label>
+  <OE_ProstheticKidney_CAC.label>邪教徒仿生肾脏</OE_ProstheticKidney_CAC.label>
   <!-- EN: Obsidia cultist bionic kidney. It is much better than a biological kidney in every way. The use of this prosthesis puts a perceptible strain on the body. -->
-  <OE_ProstheticKidney_CAC.description>TODO</OE_ProstheticKidney_CAC.description>
+  <OE_ProstheticKidney_CAC.description>黑曜石邪教徒仿生肾脏。在各个方面都比生物肾脏好得多。使用这种假体会对身体造成明显负担。</OE_ProstheticKidney_CAC.description>
   
   <!-- EN: advanced bionic kidney -->
-  <OE_ProstheticKidney_M.label>TODO</OE_ProstheticKidney_M.label>
+  <OE_ProstheticKidney_M.label>高级仿生肾脏</OE_ProstheticKidney_M.label>
   <!-- EN: Obsidian advanced bionic kidney. It is much better than a biological kidney in almost every way. The use of this prosthesis puts a strain on the body. -->
-  <OE_ProstheticKidney_M.description>TODO</OE_ProstheticKidney_M.description>
+  <OE_ProstheticKidney_M.description>黑曜石高级仿生肾脏。几乎在各个方面都比生物肾脏好得多。使用这种假体会对身体造成负担。</OE_ProstheticKidney_M.description>
   
   <!-- EN: heroic bionic kidney -->
-  <OE_ProstheticKidney_OES.label>TODO</OE_ProstheticKidney_OES.label>
+  <OE_ProstheticKidney_OES.label>英雄仿生肾脏</OE_ProstheticKidney_OES.label>
   <!-- EN: Obsidia heroic bionic kidney. It is much better than a biological kidney in every way. The use of this prosthesis puts a perceptible strain on the body. -->
-  <OE_ProstheticKidney_OES.description>TODO</OE_ProstheticKidney_OES.description>
+  <OE_ProstheticKidney_OES.description>黑曜石英雄仿生肾脏。在各个方面都比生物肾脏好得多。使用这种假体会对身体造成明显负担。</OE_ProstheticKidney_OES.description>
   
   <!-- EN: bionic liver -->
-  <OE_ProstheticLiver.label>TODO</OE_ProstheticLiver.label>
+  <OE_ProstheticLiver.label>仿生肝脏</OE_ProstheticLiver.label>
   <!-- EN: Obsidia bionic liver. It is better than a biological liver in almost every way. The use of this prosthesis puts a small strain on the body. -->
-  <OE_ProstheticLiver.description>TODO</OE_ProstheticLiver.description>
+  <OE_ProstheticLiver.description>黑曜石仿生肝脏。几乎在各个方面都比生物肝脏更好。使用这种假体会对身体造成轻微负担。</OE_ProstheticLiver.description>
   
   <!-- EN: cultist bionic liver -->
-  <OE_ProstheticLiver_CAC.label>TODO</OE_ProstheticLiver_CAC.label>
+  <OE_ProstheticLiver_CAC.label>邪教徒仿生肝脏</OE_ProstheticLiver_CAC.label>
   <!-- EN: Obsidia cultist bionic liver. It is much better than a biological liver in every way. The use of this prosthesis puts a perceptible strain on the body. -->
-  <OE_ProstheticLiver_CAC.description>TODO</OE_ProstheticLiver_CAC.description>
+  <OE_ProstheticLiver_CAC.description>黑曜石邪教徒仿生肝脏。在各个方面都比生物肝脏好得多。使用这种假体会对身体造成明显负担。</OE_ProstheticLiver_CAC.description>
   
   <!-- EN: advanced bionic liver -->
-  <OE_ProstheticLiver_M.label>TODO</OE_ProstheticLiver_M.label>
+  <OE_ProstheticLiver_M.label>高级仿生肝脏</OE_ProstheticLiver_M.label>
   <!-- EN: Obsidian advanced bionic liver. It is much better than a biological liver in almost every way. The use of this prosthesis puts a strain on the body. -->
-  <OE_ProstheticLiver_M.description>TODO</OE_ProstheticLiver_M.description>
+  <OE_ProstheticLiver_M.description>黑曜石高级仿生肝脏。几乎在各个方面都比生物肝脏好得多。使用这种假体会对身体造成负担。</OE_ProstheticLiver_M.description>
   
   <!-- EN: heroic bionic liver -->
-  <OE_ProstheticLiver_OES.label>TODO</OE_ProstheticLiver_OES.label>
+  <OE_ProstheticLiver_OES.label>英雄仿生肝脏</OE_ProstheticLiver_OES.label>
   <!-- EN: Obsidia heroic bionic liver. It is much better than a biological liver in every way. The use of this prosthesis puts a perceptible strain on the body. -->
-  <OE_ProstheticLiver_OES.description>TODO</OE_ProstheticLiver_OES.description>
+  <OE_ProstheticLiver_OES.description>黑曜石英雄仿生肝脏。在各个方面都比生物肝脏好得多。使用这种假体会对身体造成明显负担。</OE_ProstheticLiver_OES.description>
   
   <!-- EN: bionic lung -->
-  <OE_ProstheticLung.label>TODO</OE_ProstheticLung.label>
+  <OE_ProstheticLung.label>仿生肺</OE_ProstheticLung.label>
   <!-- EN: Obsidia bionic lung. It is better than a biological lung in almost every way. The use of this prosthesis puts a small strain on the body. -->
-  <OE_ProstheticLung.description>TODO</OE_ProstheticLung.description>
+  <OE_ProstheticLung.description>黑曜石仿生肺。几乎在各个方面都比生物肺更好。使用这种假体会对身体造成轻微负担。</OE_ProstheticLung.description>
   
   <!-- EN: cultist bionic lung -->
-  <OE_ProstheticLung_CAC.label>TODO</OE_ProstheticLung_CAC.label>
+  <OE_ProstheticLung_CAC.label>邪教徒仿生肺</OE_ProstheticLung_CAC.label>
   <!-- EN: Obsidia cultist bionic lung. It is much better than a biological lung in every way. The use of this prosthesis puts a perceptible strain on the body. -->
-  <OE_ProstheticLung_CAC.description>TODO</OE_ProstheticLung_CAC.description>
+  <OE_ProstheticLung_CAC.description>黑曜石邪教徒仿生肺。在各个方面都比生物肺好得多。使用这种假体会对身体造成明显负担。</OE_ProstheticLung_CAC.description>
   
   <!-- EN: advanced bionic lung -->
-  <OE_ProstheticLung_M.label>TODO</OE_ProstheticLung_M.label>
+  <OE_ProstheticLung_M.label>高级仿生肺</OE_ProstheticLung_M.label>
   <!-- EN: Obsidian advanced bionic lung. It is much better than a biological lung in almost every way. The use of this prosthesis puts a strain on the body. -->
-  <OE_ProstheticLung_M.description>TODO</OE_ProstheticLung_M.description>
+  <OE_ProstheticLung_M.description>黑曜石高级仿生肺。几乎在各个方面都比生物肺好得多。使用这种假体会对身体造成负担。</OE_ProstheticLung_M.description>
   
   <!-- EN: heroic bionic lung -->
-  <OE_ProstheticLung_OES.label>TODO</OE_ProstheticLung_OES.label>
+  <OE_ProstheticLung_OES.label>英雄仿生肺</OE_ProstheticLung_OES.label>
   <!-- EN: Obsidia heroic bionic lung. It is much better than a biological lung in every way. The use of this prosthesis puts a perceptible strain on the body. -->
-  <OE_ProstheticLung_OES.description>TODO</OE_ProstheticLung_OES.description>
+  <OE_ProstheticLung_OES.description>黑曜石英雄仿生肺。在各个方面都比生物肺好得多。使用这种假体会对身体造成明显负担。</OE_ProstheticLung_OES.description>
   
   <!-- EN: bionic stomach -->
-  <OE_ProstheticStomach.label>TODO</OE_ProstheticStomach.label>
+  <OE_ProstheticStomach.label>仿生胃</OE_ProstheticStomach.label>
   <!-- EN: Obsidia bionic stomach. It is better than a biological stomach in almost every way. The use of this prosthesis puts a small strain on the body. -->
-  <OE_ProstheticStomach.description>TODO</OE_ProstheticStomach.description>
+  <OE_ProstheticStomach.description>黑曜石仿生胃。几乎在各个方面都比生物胃更好。使用这种假体会对身体造成轻微负担。</OE_ProstheticStomach.description>
   
   <!-- EN: cultist bionic stomach -->
-  <OE_ProstheticStomach_CAC.label>TODO</OE_ProstheticStomach_CAC.label>
+  <OE_ProstheticStomach_CAC.label>邪教徒仿生胃</OE_ProstheticStomach_CAC.label>
   <!-- EN: Obsidia cultist bionic stomach. It is much better than a biological stomach in every way. The use of this prosthesis puts a perceptible strain on the body. -->
-  <OE_ProstheticStomach_CAC.description>TODO</OE_ProstheticStomach_CAC.description>
+  <OE_ProstheticStomach_CAC.description>黑曜石邪教徒仿生胃。在各个方面都比生物胃好得多。使用这种假体会对身体造成明显负担。</OE_ProstheticStomach_CAC.description>
   
   <!-- EN: advanced bionic stomach -->
-  <OE_ProstheticStomach_M.label>TODO</OE_ProstheticStomach_M.label>
+  <OE_ProstheticStomach_M.label>高级仿生胃</OE_ProstheticStomach_M.label>
   <!-- EN: Obsidian advanced bionic stomach. It is much better than a biological stomach in almost every way. The use of this prosthesis puts a strain on the body. -->
-  <OE_ProstheticStomach_M.description>TODO</OE_ProstheticStomach_M.description>
+  <OE_ProstheticStomach_M.description>黑曜石高级仿生胃。几乎在各个方面都比生物胃好得多。使用这种假体会对身体造成负担。</OE_ProstheticStomach_M.description>
   
   <!-- EN: heroic bionic stomach -->
-  <OE_ProstheticStomach_OES.label>TODO</OE_ProstheticStomach_OES.label>
+  <OE_ProstheticStomach_OES.label>英雄仿生胃</OE_ProstheticStomach_OES.label>
   <!-- EN: Obsidia heroic bionic stomach. It is much better than a biological stomach in every way. The use of this prosthesis puts a perceptible strain on the body. -->
-  <OE_ProstheticStomach_OES.description>TODO</OE_ProstheticStomach_OES.description>
+  <OE_ProstheticStomach_OES.description>黑曜石英雄仿生胃。在各个方面都比生物胃好得多。使用这种假体会对身体造成明显负担。</OE_ProstheticStomach_OES.description>
   
 </LanguageData>

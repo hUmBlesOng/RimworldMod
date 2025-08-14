@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: CAC Cultist Heavy Helmet(Overseer) -->
-  <CAC_HeavyHelmet_Mechanitor.label>TODO</CAC_HeavyHelmet_Mechanitor.label>
+  <CAC_HeavyHelmet_Mechanitor.label>CAC邪教徒重型头盔(监督者)</CAC_HeavyHelmet_Mechanitor.label>
   <!-- EN: Heavy power armor Helmet, excellent protects the owner. Designed and modified for use by CAC Cultists.\n\nModified for improves Mechanoids Control abilities. -->
-  <CAC_HeavyHelmet_Mechanitor.description>TODO</CAC_HeavyHelmet_Mechanitor.description>
+  <CAC_HeavyHelmet_Mechanitor.description>重型动力装甲头盔，出色地保护佩戴者。由CAC邪教徒设计和改装。\n\n改装后提高了控制机械体的能力。</CAC_HeavyHelmet_Mechanitor.description>
   
   <!-- EN: CAC Cultist Light Helmet(Overseer) -->
-  <CAC_LightHelmet_Mechanitor.label>TODO</CAC_LightHelmet_Mechanitor.label>
+  <CAC_LightHelmet_Mechanitor.label>CAC邪教徒轻型头盔(监督者)</CAC_LightHelmet_Mechanitor.label>
   <!-- EN: Light power armor Helmet, well protects the owner. Designed and modified for use by CAC Cultists.\n\nModified for improves Mechanoids Control abilities. -->
-  <CAC_LightHelmet_Mechanitor.description>TODO</CAC_LightHelmet_Mechanitor.description>
+  <CAC_LightHelmet_Mechanitor.description>轻型动力装甲头盔，很好地保护佩戴者。由CAC邪教徒设计和改装。\n\n改装后提高了控制机械体的能力。</CAC_LightHelmet_Mechanitor.description>
   
 </LanguageData>

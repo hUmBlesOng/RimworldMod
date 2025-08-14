@@ -1,18 +1,18 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: obsidia battlecraft pump -->
-  <OE_BattlecraftPump.label>TODO</OE_BattlecraftPump.label>
+  <OE_BattlecraftPump.label>黑曜石战技泵</OE_BattlecraftPump.label>
   <!-- EN: This device enhances the combat stats of a deathresting person by chemical stimulation of nervous system. It must be connected to a deathrest casket to function.\n\nThis building needs to consume hemogen to function. -->
-  <OE_BattlecraftPump.description>TODO</OE_BattlecraftPump.description>
+  <OE_BattlecraftPump.description>该设备通过化学刺激神经系统来增强死亡休眠中人员的战斗属性。必须连接到死亡休眠舱才能运作。\n\n该建筑需要消耗血原质才能运作。</OE_BattlecraftPump.description>
   <!-- EN: Hemogen -->
-  <OE_BattlecraftPump.comps.CompRefuelable.fuelLabel>TODO</OE_BattlecraftPump.comps.CompRefuelable.fuelLabel>
+  <OE_BattlecraftPump.comps.CompRefuelable.fuelLabel>血原质</OE_BattlecraftPump.comps.CompRefuelable.fuelLabel>
   
   <!-- EN: obsidia perfectioning pump -->
-  <OE_PerfectioningPump.label>TODO</OE_PerfectioningPump.label>
+  <OE_PerfectioningPump.label>黑曜石完美泵</OE_PerfectioningPump.label>
   <!-- EN: This device enhances the working stats of a deathresting person by chemical stimulation of nervous system. It must be connected to a deathrest casket to function.\n\nThis building needs to consume hemogen to function. -->
-  <OE_PerfectioningPump.description>TODO</OE_PerfectioningPump.description>
+  <OE_PerfectioningPump.description>该设备通过化学刺激神经系统来增强死亡休眠中人员的工作属性。必须连接到死亡休眠舱才能运作。\n\n该建筑需要消耗血原质才能运作。</OE_PerfectioningPump.description>
   <!-- EN: Hemogen -->
-  <OE_PerfectioningPump.comps.CompRefuelable.fuelLabel>TODO</OE_PerfectioningPump.comps.CompRefuelable.fuelLabel>
+  <OE_PerfectioningPump.comps.CompRefuelable.fuelLabel>血原质</OE_PerfectioningPump.comps.CompRefuelable.fuelLabel>
   
 </LanguageData>

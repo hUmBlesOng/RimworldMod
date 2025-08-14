@@ -1,31 +1,31 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Persona Souleater -->
-  <CAC_BigScythe_P.label>TODO</CAC_BigScythe_P.label>
+  <CAC_BigScythe_P.label>人格噬魂者</CAC_BigScythe_P.label>
   <!-- EN: Persona Big Scythe used by CAC Cultists. Specially modified weapon with increased power but difficult to handle. -->
-  <CAC_BigScythe_P.description>TODO</CAC_BigScythe_P.description>
+  <CAC_BigScythe_P.description>CAC邪教徒使用的人格大镰刀。经过特殊改装的武器，威力增强但难以操控。</CAC_BigScythe_P.description>
   <!-- EN: handle -->
-  <CAC_BigScythe_P.tools.handle.label>TODO</CAC_BigScythe_P.tools.handle.label>
+  <CAC_BigScythe_P.tools.handle.label>手柄</CAC_BigScythe_P.tools.handle.label>
   <!-- EN: edge -->
-  <CAC_BigScythe_P.tools.edge.label>TODO</CAC_BigScythe_P.tools.edge.label>
+  <CAC_BigScythe_P.tools.edge.label>刀刃</CAC_BigScythe_P.tools.edge.label>
   
   <!-- EN: Persona Souldrinker -->
-  <CAC_Scythe_P.label>TODO</CAC_Scythe_P.label>
+  <CAC_Scythe_P.label>人格饮魂者</CAC_Scythe_P.label>
   <!-- EN: Persona Scythe used by CAC Cultists. Specially modified weapon with increased power but difficult to handle. -->
-  <CAC_Scythe_P.description>TODO</CAC_Scythe_P.description>
+  <CAC_Scythe_P.description>CAC邪教徒使用的人格镰刀。经过特殊改装的武器，威力增强但难以操控。</CAC_Scythe_P.description>
   <!-- EN: handle -->
-  <CAC_Scythe_P.tools.handle.label>TODO</CAC_Scythe_P.tools.handle.label>
+  <CAC_Scythe_P.tools.handle.label>手柄</CAC_Scythe_P.tools.handle.label>
   <!-- EN: edge -->
-  <CAC_Scythe_P.tools.edge.label>TODO</CAC_Scythe_P.tools.edge.label>
+  <CAC_Scythe_P.tools.edge.label>刀刃</CAC_Scythe_P.tools.edge.label>
   
   <!-- EN: Persona Apathy -->
-  <CAC_Thurible_P.label>TODO</CAC_Thurible_P.label>
+  <CAC_Thurible_P.label>人格冷漠</CAC_Thurible_P.label>
   <!-- EN: Persona Thurible used by CAC Cultists. Specially modified weapon with increased power but difficult to handle. -->
-  <CAC_Thurible_P.description>TODO</CAC_Thurible_P.description>
+  <CAC_Thurible_P.description>CAC邪教徒使用的人格香炉。经过特殊改装的武器，威力增强但难以操控。</CAC_Thurible_P.description>
   <!-- EN: handle -->
-  <CAC_Thurible_P.tools.handle.label>TODO</CAC_Thurible_P.tools.handle.label>
+  <CAC_Thurible_P.tools.handle.label>手柄</CAC_Thurible_P.tools.handle.label>
   <!-- EN: Persona Apathy -->
-  <CAC_Thurible_P.verbs.Verb_Shoot.label>TODO</CAC_Thurible_P.verbs.Verb_Shoot.label>
+  <CAC_Thurible_P.verbs.Verb_Shoot.label>人格冷漠</CAC_Thurible_P.verbs.Verb_Shoot.label>
   
 </LanguageData>

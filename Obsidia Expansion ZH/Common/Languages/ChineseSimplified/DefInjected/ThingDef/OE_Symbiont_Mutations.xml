@@ -1,60 +1,60 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: mutation - Colossus -->
-  <EGO_Mutation_Armor.label>TODO</EGO_Mutation_Armor.label>
+  <EGO_Mutation_Armor.label>突变 - 巨像</EGO_Mutation_Armor.label>
   <!-- EN: Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improve resistance to damage across the whole body.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
-  <EGO_Mutation_Armor.description>TODO</EGO_Mutation_Armor.description>
+  <EGO_Mutation_Armor.description>突变是一种融合科技适应性改造，能够改变共生体，增强其与宿主的结合并赋予增强能力。其目的是实现更高的性能并提高全身对伤害的抵抗力。\n\n植入需要 - 共生体。\n\n这种突变最多可植入15次以增强效果。</EGO_Mutation_Armor.description>
   <!-- EN: Implant {0_label} -->
-  <EGO_Mutation_Armor.comps.CompUsableImplant.useLabel>TODO</EGO_Mutation_Armor.comps.CompUsableImplant.useLabel>
+  <EGO_Mutation_Armor.comps.CompUsableImplant.useLabel>植入{0_label}</EGO_Mutation_Armor.comps.CompUsableImplant.useLabel>
   
   <!-- EN: mutation - Demigod -->
-  <EGO_Mutation_Body.label>TODO</EGO_Mutation_Body.label>
+  <EGO_Mutation_Body.label>突变 - 半神</EGO_Mutation_Body.label>
   <!-- EN: Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improvements body stats.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
-  <EGO_Mutation_Body.description>TODO</EGO_Mutation_Body.description>
+  <EGO_Mutation_Body.description>突变是一种融合科技适应性改造，能够改变共生体，增强其与宿主的结合并赋予增强能力。其目的是实现更高的性能并改善身体属性。\n\n植入需要 - 共生体。\n\n这种突变最多可植入15次以增强效果。</EGO_Mutation_Body.description>
   <!-- EN: Implant {0_label} -->
-  <EGO_Mutation_Body.comps.CompUsableImplant.useLabel>TODO</EGO_Mutation_Body.comps.CompUsableImplant.useLabel>
+  <EGO_Mutation_Body.comps.CompUsableImplant.useLabel>植入{0_label}</EGO_Mutation_Body.comps.CompUsableImplant.useLabel>
   
   <!-- EN: mutation - Metabolism -->
-  <EGO_Mutation_Hunger.label>TODO</EGO_Mutation_Hunger.label>
+  <EGO_Mutation_Hunger.label>突变 - 新陈代谢</EGO_Mutation_Hunger.label>
   <!-- EN: Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improve hunger rate.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
-  <EGO_Mutation_Hunger.description>TODO</EGO_Mutation_Hunger.description>
+  <EGO_Mutation_Hunger.description>突变是一种融合科技适应性改造，能够改变共生体，增强其与宿主的结合并赋予增强能力。其目的是实现更高的性能并改善饥饿率。\n\n植入需要 - 共生体。\n\n这种突变最多可植入15次以增强效果。</EGO_Mutation_Hunger.description>
   <!-- EN: Implant {0_label} -->
-  <EGO_Mutation_Hunger.comps.CompUsableImplant.useLabel>TODO</EGO_Mutation_Hunger.comps.CompUsableImplant.useLabel>
+  <EGO_Mutation_Hunger.comps.CompUsableImplant.useLabel>植入{0_label}</EGO_Mutation_Hunger.comps.CompUsableImplant.useLabel>
   
   <!-- EN: mutation - Berserker -->
-  <EGO_Mutation_Melee.label>TODO</EGO_Mutation_Melee.label>
+  <EGO_Mutation_Melee.label>突变 - 狂战士</EGO_Mutation_Melee.label>
   <!-- EN: Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improvements melee skills.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
-  <EGO_Mutation_Melee.description>TODO</EGO_Mutation_Melee.description>
+  <EGO_Mutation_Melee.description>突变是一种融合科技适应性改造，能够改变共生体，增强其与宿主的结合并赋予增强能力。其目的是实现更高的性能并改善近战技能。\n\n植入需要 - 共生体。\n\n这种突变最多可植入15次以增强效果。</EGO_Mutation_Melee.description>
   <!-- EN: Implant {0_label} -->
-  <EGO_Mutation_Melee.comps.CompUsableImplant.useLabel>TODO</EGO_Mutation_Melee.comps.CompUsableImplant.useLabel>
+  <EGO_Mutation_Melee.comps.CompUsableImplant.useLabel>植入{0_label}</EGO_Mutation_Melee.comps.CompUsableImplant.useLabel>
   
   <!-- EN: mutation - Ballista -->
-  <EGO_Mutation_Ranged.label>TODO</EGO_Mutation_Ranged.label>
+  <EGO_Mutation_Ranged.label>突变 - 弩炮</EGO_Mutation_Ranged.label>
   <!-- EN: Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improvements shooting skills.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
-  <EGO_Mutation_Ranged.description>TODO</EGO_Mutation_Ranged.description>
+  <EGO_Mutation_Ranged.description>突变是一种融合科技适应性改造，能够改变共生体，增强其与宿主的结合并赋予增强能力。其目的是实现更高的性能并改善射击技能。\n\n植入需要 - 共生体。\n\n这种突变最多可植入15次以增强效果。</EGO_Mutation_Ranged.description>
   <!-- EN: Implant {0_label} -->
-  <EGO_Mutation_Ranged.comps.CompUsableImplant.useLabel>TODO</EGO_Mutation_Ranged.comps.CompUsableImplant.useLabel>
+  <EGO_Mutation_Ranged.comps.CompUsableImplant.useLabel>植入{0_label}</EGO_Mutation_Ranged.comps.CompUsableImplant.useLabel>
   
   <!-- EN: mutation - Endurer -->
-  <EGO_Mutation_Temperature.label>TODO</EGO_Mutation_Temperature.label>
+  <EGO_Mutation_Temperature.label>突变 - 忍耐者</EGO_Mutation_Temperature.label>
   <!-- EN: Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improve adaptability to comfortable temperatures.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
-  <EGO_Mutation_Temperature.description>TODO</EGO_Mutation_Temperature.description>
+  <EGO_Mutation_Temperature.description>突变是一种融合科技适应性改造，能够改变共生体，增强其与宿主的结合并赋予增强能力。其目的是实现更高的性能并提高对舒适温度的适应性。\n\n植入需要 - 共生体。\n\n这种突变最多可植入15次以增强效果。</EGO_Mutation_Temperature.description>
   <!-- EN: Implant {0_label} -->
-  <EGO_Mutation_Temperature.comps.CompUsableImplant.useLabel>TODO</EGO_Mutation_Temperature.comps.CompUsableImplant.useLabel>
+  <EGO_Mutation_Temperature.comps.CompUsableImplant.useLabel>植入{0_label}</EGO_Mutation_Temperature.comps.CompUsableImplant.useLabel>
   
   <!-- EN: mutation - Unshaken -->
-  <EGO_Mutation_Will.label>TODO</EGO_Mutation_Will.label>
+  <EGO_Mutation_Will.label>突变 - 坚定不移</EGO_Mutation_Will.label>
   <!-- EN: Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improve mental break threshold.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
-  <EGO_Mutation_Will.description>TODO</EGO_Mutation_Will.description>
+  <EGO_Mutation_Will.description>突变是一种融合科技适应性改造，能够改变共生体，增强其与宿主的结合并赋予增强能力。其目的是实现更高的性能并提高心理崩溃阈值。\n\n植入需要 - 共生体。\n\n这种突变最多可植入15次以增强效果。</EGO_Mutation_Will.description>
   <!-- EN: Implant {0_label} -->
-  <EGO_Mutation_Will.comps.CompUsableImplant.useLabel>TODO</EGO_Mutation_Will.comps.CompUsableImplant.useLabel>
+  <EGO_Mutation_Will.comps.CompUsableImplant.useLabel>植入{0_label}</EGO_Mutation_Will.comps.CompUsableImplant.useLabel>
   
   <!-- EN: mutation - Constructor -->
-  <EGO_Mutation_Worker.label>TODO</EGO_Mutation_Worker.label>
+  <EGO_Mutation_Worker.label>突变 - 建造者</EGO_Mutation_Worker.label>
   <!-- EN: Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improvements working skills.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
-  <EGO_Mutation_Worker.description>TODO</EGO_Mutation_Worker.description>
+  <EGO_Mutation_Worker.description>突变是一种融合科技适应性改造，能够改变共生体，增强其与宿主的结合并赋予增强能力。其目的是实现更高的性能并改善工作技能。\n\n植入需要 - 共生体。\n\n这种突变最多可植入15次以增强效果。</EGO_Mutation_Worker.description>
   <!-- EN: Implant {0_label} -->
-  <EGO_Mutation_Worker.comps.CompUsableImplant.useLabel>TODO</EGO_Mutation_Worker.comps.CompUsableImplant.useLabel>
+  <EGO_Mutation_Worker.comps.CompUsableImplant.useLabel>植入{0_label}</EGO_Mutation_Worker.comps.CompUsableImplant.useLabel>
   
 </LanguageData>

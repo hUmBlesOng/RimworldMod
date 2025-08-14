@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: waste arachna -->
-  <OE_Arachna_Tox.label>TODO</OE_Arachna_Tox.label>
+  <OE_Arachna_Tox.label>废土蜘蛛</OE_Arachna_Tox.label>
   <!-- EN: Obsidia Arachna are huge arthropod. These strong and fast creatures prefer to form small hunting groups. They are very difficult to tame and almost impossible to train. Also, many are mistaken in thinking that Arachnas produce webs.\n\nWaste Arachna prefers polluted areas. -->
-  <OE_Arachna_Tox.description>TODO</OE_Arachna_Tox.description>
+  <OE_Arachna_Tox.description>黑曜石蜘蛛是巨大的节肢动物。这些强壮而快速的生物喜欢组成小型狩猎群体。它们很难被驯服，几乎不可能训练。此外，许多人错误地认为蜘蛛会产丝。\n\n废土蜘蛛喜欢污染区域。</OE_Arachna_Tox.description>
   <!-- EN: left first leg -->
-  <OE_Arachna_Tox.tools.left_first_leg.label>TODO</OE_Arachna_Tox.tools.left_first_leg.label>
+  <OE_Arachna_Tox.tools.left_first_leg.label>左前腿</OE_Arachna_Tox.tools.left_first_leg.label>
   <!-- EN: right first leg -->
-  <OE_Arachna_Tox.tools.right_first_leg.label>TODO</OE_Arachna_Tox.tools.right_first_leg.label>
+  <OE_Arachna_Tox.tools.right_first_leg.label>右前腿</OE_Arachna_Tox.tools.right_first_leg.label>
   <!-- EN: head -->
-  <OE_Arachna_Tox.tools.head.label>TODO</OE_Arachna_Tox.tools.head.label>
+  <OE_Arachna_Tox.tools.head.label>头部</OE_Arachna_Tox.tools.head.label>
   
 </LanguageData>

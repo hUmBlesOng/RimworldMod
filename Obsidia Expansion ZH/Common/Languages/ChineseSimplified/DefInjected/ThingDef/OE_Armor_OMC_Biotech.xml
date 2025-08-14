@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: OMC Officer Armor(Overseer) -->
-  <OMC_Armor_M_Mechanitor.label>TODO</OMC_Armor_M_Mechanitor.label>
+  <OMC_Armor_M_Mechanitor.label>OMC军官护甲（监督者）</OMC_Armor_M_Mechanitor.label>
   <!-- EN: Medium power armor, perfectly protects the owner with little mobility restriction. Designed and modified for use by OMC Regular Officers.\n\nModified with the addition of a Mechanoids Control pack. -->
-  <OMC_Armor_M_Mechanitor.description>TODO</OMC_Armor_M_Mechanitor.description>
+  <OMC_Armor_M_Mechanitor.description>中型动力护甲，完美地保护穿戴者，且对行动限制很小。由OMC正规军官设计和改良。\n\n增加了机械体控制背包的改良版本。</OMC_Armor_M_Mechanitor.description>
   
 </LanguageData>

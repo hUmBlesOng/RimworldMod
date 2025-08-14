@@ -1,58 +1,58 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: azulium -->
-  <OE_Azulium.label>TODO</OE_Azulium.label>
+  <OE_Azulium.label>阿祖利姆</OE_Azulium.label>
   <!-- EN: A common antipsychotic medicine used to prevent mental breakdowns and improve overall mood. Obsidia technology, the drug is non-addictive and has no after-effects. -->
-  <OE_Azulium.description>TODO</OE_Azulium.description>
+  <OE_Azulium.description>一种常用的抗精神病药物，用于预防精神崩溃并改善整体情绪。黑曜石技术，该药物不会成瘾且无副作用。</OE_Azulium.description>
   <!-- EN: Take {0} -->
-  <OE_Azulium.ingestible.ingestCommandString>TODO</OE_Azulium.ingestible.ingestCommandString>
+  <OE_Azulium.ingestible.ingestCommandString>服用{0}</OE_Azulium.ingestible.ingestCommandString>
   <!-- EN: Taking {0}. -->
-  <OE_Azulium.ingestible.ingestReportString>TODO</OE_Azulium.ingestible.ingestReportString>
+  <OE_Azulium.ingestible.ingestReportString>正在服用{0}。</OE_Azulium.ingestible.ingestReportString>
   
   <!-- EN: cofagradol -->
-  <OE_Cofagradol.label>TODO</OE_Cofagradol.label>
+  <OE_Cofagradol.label>科法格拉多尔</OE_Cofagradol.label>
   <!-- EN: A unique medical specialty, a potent drug based on Luciferium, is used a concoction of mechanites that dramatically improve the body's functioning.\n\nDisables need: Rest. -->
-  <OE_Cofagradol.description>TODO</OE_Cofagradol.description>
+  <OE_Cofagradol.description>一种独特的医疗专用品，基于路西法素的强效药物，是一种机械分子混合物，能显著改善身体功能。\n\n禁用需求：休息。</OE_Cofagradol.description>
   <!-- EN: Take {0} -->
-  <OE_Cofagradol.ingestible.ingestCommandString>TODO</OE_Cofagradol.ingestible.ingestCommandString>
+  <OE_Cofagradol.ingestible.ingestCommandString>服用{0}</OE_Cofagradol.ingestible.ingestCommandString>
   <!-- EN: Taking {0}. -->
-  <OE_Cofagradol.ingestible.ingestReportString>TODO</OE_Cofagradol.ingestible.ingestReportString>
+  <OE_Cofagradol.ingestible.ingestReportString>正在服用{0}。</OE_Cofagradol.ingestible.ingestReportString>
   
   <!-- EN: cressadol -->
-  <OE_Cressadol.label>TODO</OE_Cressadol.label>
+  <OE_Cressadol.label>克雷斯萨多尔</OE_Cressadol.label>
   <!-- EN: A unique medical specialty, a potent drug based on Luciferium, is used a concoction of mechanites that dramatically improve the body's functioning.\n\nDisables need: Recreation. -->
-  <OE_Cressadol.description>TODO</OE_Cressadol.description>
+  <OE_Cressadol.description>一种独特的医疗专用品，基于路西法素的强效药物，是一种机械分子混合物，能显著改善身体功能。\n\n禁用需求：娱乐。</OE_Cressadol.description>
   <!-- EN: Take {0} -->
-  <OE_Cressadol.ingestible.ingestCommandString>TODO</OE_Cressadol.ingestible.ingestCommandString>
+  <OE_Cressadol.ingestible.ingestCommandString>服用{0}</OE_Cressadol.ingestible.ingestCommandString>
   <!-- EN: Taking {0}. -->
-  <OE_Cressadol.ingestible.ingestReportString>TODO</OE_Cressadol.ingestible.ingestReportString>
+  <OE_Cressadol.ingestible.ingestReportString>正在服用{0}。</OE_Cressadol.ingestible.ingestReportString>
   
   <!-- EN: florgadol -->
-  <OE_Florgadol.label>TODO</OE_Florgadol.label>
+  <OE_Florgadol.label>弗洛加多尔</OE_Florgadol.label>
   <!-- EN: A unique medical specialty, a potent drug based on Luciferium, is used a concoction of mechanites that dramatically improve the body's functioning.\n\nDisables need: Mood. -->
-  <OE_Florgadol.description>TODO</OE_Florgadol.description>
+  <OE_Florgadol.description>一种独特的医疗专用品，基于路西法素的强效药物，是一种机械分子混合物，能显著改善身体功能。\n\n禁用需求：情绪。</OE_Florgadol.description>
   <!-- EN: Take {0} -->
-  <OE_Florgadol.ingestible.ingestCommandString>TODO</OE_Florgadol.ingestible.ingestCommandString>
+  <OE_Florgadol.ingestible.ingestCommandString>服用{0}</OE_Florgadol.ingestible.ingestCommandString>
   <!-- EN: Taking {0}. -->
-  <OE_Florgadol.ingestible.ingestReportString>TODO</OE_Florgadol.ingestible.ingestReportString>
+  <OE_Florgadol.ingestible.ingestReportString>正在服用{0}。</OE_Florgadol.ingestible.ingestReportString>
   
   <!-- EN: garganadol -->
-  <OE_Garganadol.label>TODO</OE_Garganadol.label>
+  <OE_Garganadol.label>加尔加纳多尔</OE_Garganadol.label>
   <!-- EN: A unique medical specialty, a potent drug based on Luciferium, is used a concoction of mechanites that dramatically improve the body's functioning.\n\nDisables need: Food. -->
-  <OE_Garganadol.description>TODO</OE_Garganadol.description>
+  <OE_Garganadol.description>一种独特的医疗专用品，基于路西法素的强效药物，是一种机械分子混合物，能显著改善身体功能。\n\n禁用需求：食物。</OE_Garganadol.description>
   <!-- EN: Take {0} -->
-  <OE_Garganadol.ingestible.ingestCommandString>TODO</OE_Garganadol.ingestible.ingestCommandString>
+  <OE_Garganadol.ingestible.ingestCommandString>服用{0}</OE_Garganadol.ingestible.ingestCommandString>
   <!-- EN: Taking {0}. -->
-  <OE_Garganadol.ingestible.ingestReportString>TODO</OE_Garganadol.ingestible.ingestReportString>
+  <OE_Garganadol.ingestible.ingestReportString>正在服用{0}。</OE_Garganadol.ingestible.ingestReportString>
   
   <!-- EN: timbium -->
-  <OE_Timbium.label>TODO</OE_Timbium.label>
+  <OE_Timbium.label>提比姆</OE_Timbium.label>
   <!-- EN: Hard stimpack for workers, used by Obsidia workers to increase productivity. Obsidia technology, a stimpack can be addictive but has no after-effects. -->
-  <OE_Timbium.description>TODO</OE_Timbium.description>
+  <OE_Timbium.description>工人的强力兴奋剂，被黑曜石工人用来提高生产力。黑曜石技术，兴奋剂可能成瘾但无副作用。</OE_Timbium.description>
   <!-- EN: Take {0} -->
-  <OE_Timbium.ingestible.ingestCommandString>TODO</OE_Timbium.ingestible.ingestCommandString>
+  <OE_Timbium.ingestible.ingestCommandString>服用{0}</OE_Timbium.ingestible.ingestCommandString>
   <!-- EN: Taking {0}. -->
-  <OE_Timbium.ingestible.ingestReportString>TODO</OE_Timbium.ingestible.ingestReportString>
+  <OE_Timbium.ingestible.ingestReportString>正在服用{0}。</OE_Timbium.ingestible.ingestReportString>
   
 </LanguageData>

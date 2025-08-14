@@ -1,160 +1,160 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Blast bullet -->
-  <Bullet_OCC.label>TODO</Bullet_OCC.label>
+  <Bullet_OCC.label>爆炸子弹</Bullet_OCC.label>
   
   <!-- EN: Wendigo blast arrow -->
-  <Bullet_OCC_B.label>TODO</Bullet_OCC_B.label>
+  <Bullet_OCC_B.label>温迪戈爆炸箭</Bullet_OCC_B.label>
   
   <!-- EN: Reforged Wendigo blast arrow -->
-  <Bullet_OCC_B_M.label>TODO</Bullet_OCC_B_M.label>
+  <Bullet_OCC_B_M.label>重铸温迪戈爆炸箭</Bullet_OCC_B_M.label>
   
   <!-- EN: Reforged blast bullet -->
-  <Bullet_OCC_M.label>TODO</Bullet_OCC_M.label>
+  <Bullet_OCC_M.label>重铸爆炸子弹</Bullet_OCC_M.label>
   
   <!-- EN: Behemoth rocket -->
-  <Bullet_OCC_RL.label>TODO</Bullet_OCC_RL.label>
+  <Bullet_OCC_RL.label>巨兽火箭弹</Bullet_OCC_RL.label>
   
   <!-- EN: Reforged Behemoth rocket -->
-  <Bullet_OCC_RL_M.label>TODO</Bullet_OCC_RL_M.label>
+  <Bullet_OCC_RL_M.label>重铸巨兽火箭弹</Bullet_OCC_RL_M.label>
   
   <!-- EN: Scylla -->
-  <OCC_AR.label>TODO</OCC_AR.label>
+  <OCC_AR.label>斯库拉</OCC_AR.label>
   <!-- EN: Regular Assault Rifle used by the OCC Knights. Slow weapon are designed to use blast bullets.\n\nIt's remanufactured weapon based on OMC Assault Rifle. -->
-  <OCC_AR.description>TODO</OCC_AR.description>
+  <OCC_AR.description>OCC骑士使用的常规突击步枪。慢速武器，设计用于使用爆炸子弹。\n\n这是基于OMC突击步枪的再制造武器。</OCC_AR.description>
   <!-- EN: stock -->
-  <OCC_AR.tools.stock.label>TODO</OCC_AR.tools.stock.label>
+  <OCC_AR.tools.stock.label>枪托</OCC_AR.tools.stock.label>
   <!-- EN: barrel -->
-  <OCC_AR.tools.barrel.label>TODO</OCC_AR.tools.barrel.label>
+  <OCC_AR.tools.barrel.label>枪管</OCC_AR.tools.barrel.label>
   <!-- EN: Scylla -->
-  <OCC_AR.verbs.Verb_Shoot.label>TODO</OCC_AR.verbs.Verb_Shoot.label>
+  <OCC_AR.verbs.Verb_Shoot.label>斯库拉</OCC_AR.verbs.Verb_Shoot.label>
   
   <!-- EN: Reforged Scylla -->
-  <OCC_AR_M.label>TODO</OCC_AR_M.label>
+  <OCC_AR_M.label>重铸斯库拉</OCC_AR_M.label>
   <!-- EN: Reforged Assault Rifle used by OCC Paladins. Slow weapon are designed to use blast bullets.\n\nIt's remanufactured weapon based on OMC Assault Rifle. -->
-  <OCC_AR_M.description>TODO</OCC_AR_M.description>
+  <OCC_AR_M.description>OCC圣骑士使用的重铸突击步枪。慢速武器，设计用于使用爆炸子弹。\n\n这是基于OMC突击步枪的再制造武器。</OCC_AR_M.description>
   <!-- EN: stock -->
-  <OCC_AR_M.tools.stock.label>TODO</OCC_AR_M.tools.stock.label>
+  <OCC_AR_M.tools.stock.label>枪托</OCC_AR_M.tools.stock.label>
   <!-- EN: barrel -->
-  <OCC_AR_M.tools.barrel.label>TODO</OCC_AR_M.tools.barrel.label>
+  <OCC_AR_M.tools.barrel.label>枪管</OCC_AR_M.tools.barrel.label>
   <!-- EN: Reforged Scylla -->
-  <OCC_AR_M.verbs.Verb_Shoot.label>TODO</OCC_AR_M.verbs.Verb_Shoot.label>
+  <OCC_AR_M.verbs.Verb_Shoot.label>重铸斯库拉</OCC_AR_M.verbs.Verb_Shoot.label>
   
   <!-- EN: Wendigo -->
-  <OCC_Bow.label>TODO</OCC_Bow.label>
+  <OCC_Bow.label>温迪戈</OCC_Bow.label>
   <!-- EN: Regular Bow used by the OCC Knights. Slow weapon are designed to use blast bullets.\n\nIt's remanufactured weapon based on OEC Bow. -->
-  <OCC_Bow.description>TODO</OCC_Bow.description>
+  <OCC_Bow.description>OCC骑士使用的常规弓。慢速武器，设计用于使用爆炸子弹。\n\n这是基于OEC弓的再制造武器。</OCC_Bow.description>
   <!-- EN: limb -->
-  <OCC_Bow.tools.limb.label>TODO</OCC_Bow.tools.limb.label>
+  <OCC_Bow.tools.limb.label>弓臂</OCC_Bow.tools.limb.label>
   <!-- EN: Wendigo -->
-  <OCC_Bow.verbs.Verb_Shoot.label>TODO</OCC_Bow.verbs.Verb_Shoot.label>
+  <OCC_Bow.verbs.Verb_Shoot.label>温迪戈</OCC_Bow.verbs.Verb_Shoot.label>
   
   <!-- EN: Reforged Wendigo -->
-  <OCC_Bow_M.label>TODO</OCC_Bow_M.label>
+  <OCC_Bow_M.label>重铸温迪戈</OCC_Bow_M.label>
   <!-- EN: Reforged Bow used by OCC Paladins. Slow weapon are designed to use blast bullets.\n\nIt's remanufactured weapon based on OEC Bow. -->
-  <OCC_Bow_M.description>TODO</OCC_Bow_M.description>
+  <OCC_Bow_M.description>OCC圣骑士使用的重铸弓。慢速武器，设计用于使用爆炸子弹。\n\n这是基于OEC弓的再制造武器。</OCC_Bow_M.description>
   <!-- EN: limb -->
-  <OCC_Bow_M.tools.limb.label>TODO</OCC_Bow_M.tools.limb.label>
+  <OCC_Bow_M.tools.limb.label>弓臂</OCC_Bow_M.tools.limb.label>
   <!-- EN: Reforged Wendigo -->
-  <OCC_Bow_M.verbs.Verb_Shoot.label>TODO</OCC_Bow_M.verbs.Verb_Shoot.label>
+  <OCC_Bow_M.verbs.Verb_Shoot.label>重铸温迪戈</OCC_Bow_M.verbs.Verb_Shoot.label>
   
   <!-- EN: Hydra -->
-  <OCC_Minigun.label>TODO</OCC_Minigun.label>
+  <OCC_Minigun.label>海德拉</OCC_Minigun.label>
   <!-- EN: Regular Minigun used by the OCC Knights. Slow weapon are designed to use blast bullets. -->
-  <OCC_Minigun.description>TODO</OCC_Minigun.description>
+  <OCC_Minigun.description>OCC骑士使用的常规迷你枪。慢速武器，设计用于使用爆炸子弹。</OCC_Minigun.description>
   <!-- EN: barrels -->
-  <OCC_Minigun.tools.barrels.label>TODO</OCC_Minigun.tools.barrels.label>
+  <OCC_Minigun.tools.barrels.label>枪管</OCC_Minigun.tools.barrels.label>
   <!-- EN: Hydra -->
-  <OCC_Minigun.verbs.Verb_Shoot.label>TODO</OCC_Minigun.verbs.Verb_Shoot.label>
+  <OCC_Minigun.verbs.Verb_Shoot.label>海德拉</OCC_Minigun.verbs.Verb_Shoot.label>
   
   <!-- EN: Reforged Hydra -->
-  <OCC_Minigun_M.label>TODO</OCC_Minigun_M.label>
+  <OCC_Minigun_M.label>重铸海德拉</OCC_Minigun_M.label>
   <!-- EN: Reforged Minigun used by OCC Paladins. Slow weapon are designed to use blast bullets. -->
-  <OCC_Minigun_M.description>TODO</OCC_Minigun_M.description>
+  <OCC_Minigun_M.description>OCC圣骑士使用的重铸迷你枪。慢速武器，设计用于使用爆炸子弹。</OCC_Minigun_M.description>
   <!-- EN: barrels -->
-  <OCC_Minigun_M.tools.barrels.label>TODO</OCC_Minigun_M.tools.barrels.label>
+  <OCC_Minigun_M.tools.barrels.label>枪管</OCC_Minigun_M.tools.barrels.label>
   <!-- EN: Reforged Hydra -->
-  <OCC_Minigun_M.verbs.Verb_Shoot.label>TODO</OCC_Minigun_M.verbs.Verb_Shoot.label>
+  <OCC_Minigun_M.verbs.Verb_Shoot.label>重铸海德拉</OCC_Minigun_M.verbs.Verb_Shoot.label>
   
   <!-- EN: Chimera -->
-  <OCC_MultiCannon.label>TODO</OCC_MultiCannon.label>
+  <OCC_MultiCannon.label>奇美拉</OCC_MultiCannon.label>
   <!-- EN: Regular Multi-Cannon used by the OCC Knights. Slow weapon are designed to use blast bullets. -->
-  <OCC_MultiCannon.description>TODO</OCC_MultiCannon.description>
+  <OCC_MultiCannon.description>OCC骑士使用的常规多管火炮。慢速武器，设计用于使用爆炸子弹。</OCC_MultiCannon.description>
   <!-- EN: barrels -->
-  <OCC_MultiCannon.tools.barrels.label>TODO</OCC_MultiCannon.tools.barrels.label>
+  <OCC_MultiCannon.tools.barrels.label>枪管</OCC_MultiCannon.tools.barrels.label>
   <!-- EN: Chimera -->
-  <OCC_MultiCannon.verbs.Verb_Shoot.label>TODO</OCC_MultiCannon.verbs.Verb_Shoot.label>
+  <OCC_MultiCannon.verbs.Verb_Shoot.label>奇美拉</OCC_MultiCannon.verbs.Verb_Shoot.label>
   
   <!-- EN: Reforged Chimera -->
-  <OCC_MultiCannon_M.label>TODO</OCC_MultiCannon_M.label>
+  <OCC_MultiCannon_M.label>重铸奇美拉</OCC_MultiCannon_M.label>
   <!-- EN: Reforged Multi-Cannon used by OCC Paladins. Slow weapon are designed to use blast bullets. -->
-  <OCC_MultiCannon_M.description>TODO</OCC_MultiCannon_M.description>
+  <OCC_MultiCannon_M.description>OCC圣骑士使用的重铸多管火炮。慢速武器，设计用于使用爆炸子弹。</OCC_MultiCannon_M.description>
   <!-- EN: barrels -->
-  <OCC_MultiCannon_M.tools.barrels.label>TODO</OCC_MultiCannon_M.tools.barrels.label>
+  <OCC_MultiCannon_M.tools.barrels.label>枪管</OCC_MultiCannon_M.tools.barrels.label>
   <!-- EN: Reforged Chimera -->
-  <OCC_MultiCannon_M.verbs.Verb_Shoot.label>TODO</OCC_MultiCannon_M.verbs.Verb_Shoot.label>
+  <OCC_MultiCannon_M.verbs.Verb_Shoot.label>重铸奇美拉</OCC_MultiCannon_M.verbs.Verb_Shoot.label>
   
   <!-- EN: Hornet -->
-  <OCC_Revolver.label>TODO</OCC_Revolver.label>
+  <OCC_Revolver.label>大黄蜂</OCC_Revolver.label>
   <!-- EN: Regular Revolver used by the OCC Knights. Slow weapon are designed to use blast bullets. -->
-  <OCC_Revolver.description>TODO</OCC_Revolver.description>
+  <OCC_Revolver.description>OCC骑士使用的常规左轮手枪。慢速武器，设计用于使用爆炸子弹。</OCC_Revolver.description>
   <!-- EN: grip -->
-  <OCC_Revolver.tools.grip.label>TODO</OCC_Revolver.tools.grip.label>
+  <OCC_Revolver.tools.grip.label>握把</OCC_Revolver.tools.grip.label>
   <!-- EN: barrel -->
-  <OCC_Revolver.tools.barrel.label>TODO</OCC_Revolver.tools.barrel.label>
+  <OCC_Revolver.tools.barrel.label>枪管</OCC_Revolver.tools.barrel.label>
   <!-- EN: Hornet -->
-  <OCC_Revolver.verbs.Verb_Shoot.label>TODO</OCC_Revolver.verbs.Verb_Shoot.label>
+  <OCC_Revolver.verbs.Verb_Shoot.label>大黄蜂</OCC_Revolver.verbs.Verb_Shoot.label>
   
   <!-- EN: Reforged Hornet -->
-  <OCC_Revolver_M.label>TODO</OCC_Revolver_M.label>
+  <OCC_Revolver_M.label>重铸大黄蜂</OCC_Revolver_M.label>
   <!-- EN: Reforged Revolver used by OCC Paladins. Slow weapon are designed to use blast bullets. -->
-  <OCC_Revolver_M.description>TODO</OCC_Revolver_M.description>
+  <OCC_Revolver_M.description>OCC圣骑士使用的重铸左轮手枪。慢速武器，设计用于使用爆炸子弹。</OCC_Revolver_M.description>
   <!-- EN: grip -->
-  <OCC_Revolver_M.tools.grip.label>TODO</OCC_Revolver_M.tools.grip.label>
+  <OCC_Revolver_M.tools.grip.label>握把</OCC_Revolver_M.tools.grip.label>
   <!-- EN: barrel -->
-  <OCC_Revolver_M.tools.barrel.label>TODO</OCC_Revolver_M.tools.barrel.label>
+  <OCC_Revolver_M.tools.barrel.label>枪管</OCC_Revolver_M.tools.barrel.label>
   <!-- EN: Reforged Hornet -->
-  <OCC_Revolver_M.verbs.Verb_Shoot.label>TODO</OCC_Revolver_M.verbs.Verb_Shoot.label>
+  <OCC_Revolver_M.verbs.Verb_Shoot.label>重铸大黄蜂</OCC_Revolver_M.verbs.Verb_Shoot.label>
   
   <!-- EN: Cerberus -->
-  <OCC_Rifle.label>TODO</OCC_Rifle.label>
+  <OCC_Rifle.label>刻耳柏洛斯</OCC_Rifle.label>
   <!-- EN: Regular Rifle used by the OCC Knights. Slow weapon are designed to use blast bullets. -->
-  <OCC_Rifle.description>TODO</OCC_Rifle.description>
+  <OCC_Rifle.description>OCC骑士使用的常规步枪。慢速武器，设计用于使用爆炸子弹。</OCC_Rifle.description>
   <!-- EN: stock -->
-  <OCC_Rifle.tools.stock.label>TODO</OCC_Rifle.tools.stock.label>
+  <OCC_Rifle.tools.stock.label>枪托</OCC_Rifle.tools.stock.label>
   <!-- EN: barrel -->
-  <OCC_Rifle.tools.barrel.label>TODO</OCC_Rifle.tools.barrel.label>
+  <OCC_Rifle.tools.barrel.label>枪管</OCC_Rifle.tools.barrel.label>
   <!-- EN: Cerberus -->
-  <OCC_Rifle.verbs.Verb_Shoot.label>TODO</OCC_Rifle.verbs.Verb_Shoot.label>
+  <OCC_Rifle.verbs.Verb_Shoot.label>刻耳柏洛斯</OCC_Rifle.verbs.Verb_Shoot.label>
   
   <!-- EN: Reforged Cerberus -->
-  <OCC_Rifle_M.label>TODO</OCC_Rifle_M.label>
+  <OCC_Rifle_M.label>重铸刻耳柏洛斯</OCC_Rifle_M.label>
   <!-- EN: Reforged Rifle used by OCC Paladins. Slow weapon are designed to use blast bullets. -->
-  <OCC_Rifle_M.description>TODO</OCC_Rifle_M.description>
+  <OCC_Rifle_M.description>OCC圣骑士使用的重铸步枪。慢速武器，设计用于使用爆炸子弹。</OCC_Rifle_M.description>
   <!-- EN: stock -->
-  <OCC_Rifle_M.tools.stock.label>TODO</OCC_Rifle_M.tools.stock.label>
+  <OCC_Rifle_M.tools.stock.label>枪托</OCC_Rifle_M.tools.stock.label>
   <!-- EN: barrel -->
-  <OCC_Rifle_M.tools.barrel.label>TODO</OCC_Rifle_M.tools.barrel.label>
+  <OCC_Rifle_M.tools.barrel.label>枪管</OCC_Rifle_M.tools.barrel.label>
   <!-- EN: Reforged Cerberus -->
-  <OCC_Rifle_M.verbs.Verb_Shoot.label>TODO</OCC_Rifle_M.verbs.Verb_Shoot.label>
+  <OCC_Rifle_M.verbs.Verb_Shoot.label>重铸刻耳柏洛斯</OCC_Rifle_M.verbs.Verb_Shoot.label>
   
   <!-- EN: Behemoth -->
-  <OCC_RocketLauncher.label>TODO</OCC_RocketLauncher.label>
+  <OCC_RocketLauncher.label>巨兽</OCC_RocketLauncher.label>
   <!-- EN: Regular Rocket Launcher used by the OCC Knights. Slow weapon are designed to use blast bullets. -->
-  <OCC_RocketLauncher.description>TODO</OCC_RocketLauncher.description>
+  <OCC_RocketLauncher.description>OCC骑士使用的常规火箭发射器。慢速武器，设计用于使用爆炸子弹。</OCC_RocketLauncher.description>
   <!-- EN: barrel -->
-  <OCC_RocketLauncher.tools.barrel.label>TODO</OCC_RocketLauncher.tools.barrel.label>
+  <OCC_RocketLauncher.tools.barrel.label>枪管</OCC_RocketLauncher.tools.barrel.label>
   <!-- EN: Behemoth -->
-  <OCC_RocketLauncher.verbs.Verb_Shoot.label>TODO</OCC_RocketLauncher.verbs.Verb_Shoot.label>
+  <OCC_RocketLauncher.verbs.Verb_Shoot.label>巨兽</OCC_RocketLauncher.verbs.Verb_Shoot.label>
   
   <!-- EN: Reforged Behemoth -->
-  <OCC_RocketLauncher_M.label>TODO</OCC_RocketLauncher_M.label>
+  <OCC_RocketLauncher_M.label>重铸巨兽</OCC_RocketLauncher_M.label>
   <!-- EN: Reforged Rocket Launcher used by OCC Paladins. Slow weapon are designed to use blast bullets. -->
-  <OCC_RocketLauncher_M.description>TODO</OCC_RocketLauncher_M.description>
+  <OCC_RocketLauncher_M.description>OCC圣骑士使用的重铸火箭发射器。慢速武器，设计用于使用爆炸子弹。</OCC_RocketLauncher_M.description>
   <!-- EN: barrel -->
-  <OCC_RocketLauncher_M.tools.barrel.label>TODO</OCC_RocketLauncher_M.tools.barrel.label>
+  <OCC_RocketLauncher_M.tools.barrel.label>枪管</OCC_RocketLauncher_M.tools.barrel.label>
   <!-- EN: Reforged Behemoth -->
-  <OCC_RocketLauncher_M.verbs.Verb_Shoot.label>TODO</OCC_RocketLauncher_M.verbs.Verb_Shoot.label>
+  <OCC_RocketLauncher_M.verbs.Verb_Shoot.label>重铸巨兽</OCC_RocketLauncher_M.verbs.Verb_Shoot.label>
   
 </LanguageData>

@@ -1,89 +1,89 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Alpine Belladonna -->
-  <Plant_OE_Alpine_B.label>TODO</Plant_OE_Alpine_B.label>
+  <Plant_OE_Alpine_B.label>高山颠茄花</Plant_OE_Alpine_B.label>
   <!-- EN: Outlandish yellow flower of Obsidias Belladonna. Can be used as a night light. -->
-  <Plant_OE_Alpine_B.description>TODO</Plant_OE_Alpine_B.description>
+  <Plant_OE_Alpine_B.description>黑曜石颠茄的奇异黄色花朵。可用作夜灯。</Plant_OE_Alpine_B.description>
   
   <!-- EN: Bloody Belladonna -->
-  <Plant_OE_Bloody_B.label>TODO</Plant_OE_Bloody_B.label>
+  <Plant_OE_Bloody_B.label>血腥颠茄花</Plant_OE_Bloody_B.label>
   <!-- EN: Gloomy red flower of Obsidias Belladonna. Can be used as a night light. -->
-  <Plant_OE_Bloody_B.description>TODO</Plant_OE_Bloody_B.description>
+  <Plant_OE_Bloody_B.description>黑曜石颠茄的阴郁红色花朵。可用作夜灯。</Plant_OE_Bloody_B.description>
   
   <!-- EN: Coral Belladonna -->
-  <Plant_OE_Coral_B.label>TODO</Plant_OE_Coral_B.label>
+  <Plant_OE_Coral_B.label>珊瑚颠茄花</Plant_OE_Coral_B.label>
   <!-- EN: Outlandish pink flower of Obsidias Belladonna. Can be used as a night light. -->
-  <Plant_OE_Coral_B.description>TODO</Plant_OE_Coral_B.description>
+  <Plant_OE_Coral_B.description>黑曜石颠茄的奇异粉色花朵。可用作夜灯。</Plant_OE_Coral_B.description>
   
   <!-- EN: iglolia -->
-  <Plant_OE_Iglolia.label>TODO</Plant_OE_Iglolia.label>
+  <Plant_OE_Iglolia.label>冰叶花</Plant_OE_Iglolia.label>
   <!-- EN: A fast-growing vines that grows in Obsidias dense groves. Iglolia can be harvested for a wood-like material. The plant itself is not beautiful. -->
-  <Plant_OE_Iglolia.description>TODO</Plant_OE_Iglolia.description>
+  <Plant_OE_Iglolia.description>在黑曜石密林中生长的快速生长藤蔓。可以收获冰叶花获得类似木材的材料。植物本身并不美观。</Plant_OE_Iglolia.description>
   
   <!-- EN: Jumy -->
-  <Plant_OE_Jumy.label>TODO</Plant_OE_Jumy.label>
+  <Plant_OE_Jumy.label>浆果草</Plant_OE_Jumy.label>
   <!-- EN: Small Obsidias plant inside which grows handfuls tasty and sweet berries. -->
-  <Plant_OE_Jumy.description>TODO</Plant_OE_Jumy.description>
+  <Plant_OE_Jumy.description>黑曜石的小型植物，内部生长着美味甜美的浆果。</Plant_OE_Jumy.description>
   
   <!-- EN: jumy bush -->
-  <Plant_OE_JumyBush.label>TODO</Plant_OE_JumyBush.label>
+  <Plant_OE_JumyBush.label>浆果灌木</Plant_OE_JumyBush.label>
   <!-- EN: An artificially bred medium Obsidias plant inside which grows handfuls tasty and sweet berries. -->
-  <Plant_OE_JumyBush.description>TODO</Plant_OE_JumyBush.description>
+  <Plant_OE_JumyBush.description>人工培育的中型黑曜石植物，内部生长着美味甜美的浆果。</Plant_OE_JumyBush.description>
   
   <!-- EN: Dusk Lotus -->
-  <Plant_OE_Lotus_D.label>TODO</Plant_OE_Lotus_D.label>
+  <Plant_OE_Lotus_D.label>暮光莲花</Plant_OE_Lotus_D.label>
   <!-- EN: Beautiful dark flowers of the Obsidias Lotus. -->
-  <Plant_OE_Lotus_D.description>TODO</Plant_OE_Lotus_D.description>
+  <Plant_OE_Lotus_D.description>黑曜石莲花的美丽深色花朵。</Plant_OE_Lotus_D.description>
   
   <!-- EN: Sunny Lotus -->
-  <Plant_OE_Lotus_S.label>TODO</Plant_OE_Lotus_S.label>
+  <Plant_OE_Lotus_S.label>阳光莲花</Plant_OE_Lotus_S.label>
   <!-- EN: Beautiful light flowers of the Obsidias Lotus. -->
-  <Plant_OE_Lotus_S.description>TODO</Plant_OE_Lotus_S.description>
+  <Plant_OE_Lotus_S.description>黑曜石莲花的美丽浅色花朵。</Plant_OE_Lotus_S.description>
   
   <!-- EN: Moonplant -->
-  <Plant_OE_Moonplant.label>TODO</Plant_OE_Moonplant.label>
+  <Plant_OE_Moonplant.label>月光草</Plant_OE_Moonplant.label>
   <!-- EN: Obsidias mid-size crystal crop that yields silk net that is both difficult to tear and soft to the touch. These are used to make mooncloth. -->
-  <Plant_OE_Moonplant.description>TODO</Plant_OE_Moonplant.description>
+  <Plant_OE_Moonplant.description>黑曜石的中型水晶作物，产出既难以撕裂又触感柔软的丝网。这些用于制作月光布。</Plant_OE_Moonplant.description>
   
   <!-- EN: mycelium stump -->
-  <Plant_OE_MyceliumStump.label>TODO</Plant_OE_MyceliumStump.label>
+  <Plant_OE_MyceliumStump.label>菌丝树桩</Plant_OE_MyceliumStump.label>
   <!-- EN: An artificially bred symbiosis of tree and mycelium. Doesn't grow very fast, but can be an excellent source of raw fungus. -->
-  <Plant_OE_MyceliumStump.description>TODO</Plant_OE_MyceliumStump.description>
+  <Plant_OE_MyceliumStump.description>人工培育的树木与菌丝的共生体。生长不快，但可以成为优质的原始真菌来源。</Plant_OE_MyceliumStump.description>
   
   <!-- EN: Oasis Belladonna -->
-  <Plant_OE_Oasis_B.label>TODO</Plant_OE_Oasis_B.label>
+  <Plant_OE_Oasis_B.label>绿洲颠茄花</Plant_OE_Oasis_B.label>
   <!-- EN: Outlandish green flower of Obsidias Belladonna. Can be used as a night light. -->
-  <Plant_OE_Oasis_B.description>TODO</Plant_OE_Oasis_B.description>
+  <Plant_OE_Oasis_B.description>黑曜石颠茄的奇异绿色花朵。可用作夜灯。</Plant_OE_Oasis_B.description>
   
   <!-- EN: Pellashroom -->
-  <Plant_OE_Pellashroom.label>TODO</Plant_OE_Pellashroom.label>
+  <Plant_OE_Pellashroom.label>佩拉蘑菇</Plant_OE_Pellashroom.label>
   <!-- EN: Genetically modified Obsidias mushrooms. Produces a small amount of chemfuel. -->
-  <Plant_OE_Pellashroom.description>TODO</Plant_OE_Pellashroom.description>
+  <Plant_OE_Pellashroom.description>基因改造的黑曜石蘑菇。产出少量化合燃料。</Plant_OE_Pellashroom.description>
   
   <!-- EN: Dragonian tree -->
-  <Plant_OE_TreeDragonian.label>TODO</Plant_OE_TreeDragonian.label>
+  <Plant_OE_TreeDragonian.label>龙族树</Plant_OE_TreeDragonian.label>
   <!-- EN: According to ancient legends, these trees grow in the burial places of ancient dragon-like creatures that inhabited Obsidia long before people appeared there. Very rare and valuable Obsidias tree of medium size. This tree yields a small amount of very valuable, durable and beautiful wood.\n\nIt can grow even on rocky terrain. -->
-  <Plant_OE_TreeDragonian.description>TODO</Plant_OE_TreeDragonian.description>
+  <Plant_OE_TreeDragonian.description>根据古代传说，这些树木生长在人类出现之前就栖息在黑曜石上的古代龙类生物的埋葬地。非常稀有且珍贵的中型黑曜石树木。这种树产出少量非常珍贵、耐用且美观的木材。\n\n它甚至可以在岩石地形上生长。</Plant_OE_TreeDragonian.description>
   
   <!-- EN: Fungi tree -->
-  <Plant_OE_TreeFungi.label>TODO</Plant_OE_TreeFungi.label>
+  <Plant_OE_TreeFungi.label>真菌树</Plant_OE_TreeFungi.label>
   <!-- EN: Huge Obsidias mushrooms that yield unique wood. This wood is more durable and less flammable.\n\nThey do not require a lot of space for growth, they can grow at a short distance from each other. -->
-  <Plant_OE_TreeFungi.description>TODO</Plant_OE_TreeFungi.description>
+  <Plant_OE_TreeFungi.description>巨大的黑曜石蘑菇，产出独特的木材。这种木材更加耐用且不易燃。\n\n它们不需要很大的生长空间，可以彼此间短距离生长。</Plant_OE_TreeFungi.description>
   
   <!-- EN: Pearlapple tree -->
-  <Plant_OE_TreePearlapple.label>TODO</Plant_OE_TreePearlapple.label>
+  <Plant_OE_TreePearlapple.label>珍珠苹果树</Plant_OE_TreePearlapple.label>
   <!-- EN: Obsidias long-growing crystal tree bearing pearlapples. Pearlapple fruits used as a meat substitute. -->
-  <Plant_OE_TreePearlapple.description>TODO</Plant_OE_TreePearlapple.description>
+  <Plant_OE_TreePearlapple.description>黑曜石的长期生长水晶树，结珍珠苹果。珍珠苹果果实用作肉类替代品。</Plant_OE_TreePearlapple.description>
   
   <!-- EN: Syntherius tree -->
-  <Plant_OE_TreeSyntherius.label>TODO</Plant_OE_TreeSyntherius.label>
+  <Plant_OE_TreeSyntherius.label>合成树</Plant_OE_TreeSyntherius.label>
   <!-- EN: Strange and previously underestimated plant from Obsidias. Syntherius crystals grow inside the tree. Previously, it was used in jewelry, but after further exploring the possibilities of this plant, it became a key element in the production of Obsidia.\n\nThe plant is medium size, which allows it to be grown under a roof. -->
-  <Plant_OE_TreeSyntherius.description>TODO</Plant_OE_TreeSyntherius.description>
+  <Plant_OE_TreeSyntherius.description>来自黑曜石的奇异且此前被低估的植物。合成水晶在树内生长。以前用于珠宝制作，但在进一步探索这种植物的可能性后，它成为黑曜石生产的关键元素。\n\n这种植物是中等大小的，可以在屋顶下种植。</Plant_OE_TreeSyntherius.description>
   
   <!-- EN: Tundral Belladonna -->
-  <Plant_OE_Tundral_B.label>TODO</Plant_OE_Tundral_B.label>
+  <Plant_OE_Tundral_B.label>苔原颠茄花</Plant_OE_Tundral_B.label>
   <!-- EN: Outlandish blue flower of Obsidias Belladonna. Can be used as a night light. -->
-  <Plant_OE_Tundral_B.description>TODO</Plant_OE_Tundral_B.description>
+  <Plant_OE_Tundral_B.description>黑曜石颠茄的奇异蓝色花朵。可用作夜灯。</Plant_OE_Tundral_B.description>
   
 </LanguageData>

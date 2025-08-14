@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: OTC Engineer Armor(Overseer) -->
-  <OTC_Armor_M_Mechanitor.label>TODO</OTC_Armor_M_Mechanitor.label>
+  <OTC_Armor_M_Mechanitor.label>OTC工程师护甲（监督者）</OTC_Armor_M_Mechanitor.label>
   <!-- EN: Light power armor, well protects the owner with little mobility restriction. Designed and modified for use by OTC Engineers.\n\nModified with the addition of a Mechanoids Control pack. -->
-  <OTC_Armor_M_Mechanitor.description>TODO</OTC_Armor_M_Mechanitor.description>
+  <OTC_Armor_M_Mechanitor.description>轻型动力护甲，良好地保护穿戴者，且对行动限制很小。由OTC工程师设计和改良。\n\n增加了机械体控制背包的改良版本。</OTC_Armor_M_Mechanitor.description>
   
 </LanguageData>

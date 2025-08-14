@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: obsidia military uniform -->
-  <OE_Uniform_Military.label>TODO</OE_Uniform_Military.label>
+  <OE_Uniform_Military.label>黑曜石军事制服</OE_Uniform_Military.label>
   <!-- EN: Military uniform, perfectly protects and providing advanced skin sense feedback to the wearer. Designed for use by all Obsidia Empire militaries. -->
-  <OE_Uniform_Military.description>TODO</OE_Uniform_Military.description>
+  <OE_Uniform_Military.description>军事制服，提供完美防护并向穿戴者提供高级皮肤感知反馈。专供所有黑曜石帝国军队使用。</OE_Uniform_Military.description>
   
   <!-- EN: obsidia worker uniform -->
-  <OE_Uniform_Worker.label>TODO</OE_Uniform_Worker.label>
+  <OE_Uniform_Worker.label>黑曜石工人制服</OE_Uniform_Worker.label>
   <!-- EN: Worker uniform, good protects and providing performance improvement to the wearer. Designed for use by all Obsidia Empire workers. -->
-  <OE_Uniform_Worker.description>TODO</OE_Uniform_Worker.description>
+  <OE_Uniform_Worker.description>工人制服，提供良好防护并向穿戴者提供性能提升。专供所有黑曜石帝国工人使用。</OE_Uniform_Worker.description>
   
 </LanguageData>

@@ -1,26 +1,26 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Arachna Queen -->
-  <OE_Mech_ArachnaQueen.label>TODO</OE_Mech_ArachnaQueen.label>
+  <OE_Mech_ArachnaQueen.label>蜘蛛女王</OE_Mech_ArachnaQueen.label>
   <!-- EN: An ultra-tech and ultra-heavy mech with a built-in mech gestator. Fed with appropriate resources, the Arachna Queen can form small Arachna Drones combat mechs within its massive carapace and deploy them into combat\n\nThe Arachna Queen is the avatar's replica of the deity worshiped by the Crimson Arachna Cult. The Queen's Grasp and Queen's Curse abilities help her dominate the battlefield. Even her death has consequences for her enemies. -->
-  <OE_Mech_ArachnaQueen.description>TODO</OE_Mech_ArachnaQueen.description>
+  <OE_Mech_ArachnaQueen.description>一种超科技超重型机械体，内置机械培育器。通过适当的资源供给，蜘蛛女王可以在其巨大的甲壳内形成小型蜘蛛无人机战斗机械体并将其部署到战斗中\n\n蜘蛛女王是深红蜘蛛教派所崇拜神祇的化身复制品。女王之握和女王诅咒能力帮助她主宰战场。甚至她的死亡也会对敌人产生后果。</OE_Mech_ArachnaQueen.description>
   <!-- EN: front left leg -->
-  <OE_Mech_ArachnaQueen.tools.front_left_leg.label>TODO</OE_Mech_ArachnaQueen.tools.front_left_leg.label>
+  <OE_Mech_ArachnaQueen.tools.front_left_leg.label>左前腿</OE_Mech_ArachnaQueen.tools.front_left_leg.label>
   <!-- EN: front right leg -->
-  <OE_Mech_ArachnaQueen.tools.front_right_leg.label>TODO</OE_Mech_ArachnaQueen.tools.front_right_leg.label>
+  <OE_Mech_ArachnaQueen.tools.front_right_leg.label>右前腿</OE_Mech_ArachnaQueen.tools.front_right_leg.label>
   <!-- EN: head -->
-  <OE_Mech_ArachnaQueen.tools.head.label>TODO</OE_Mech_ArachnaQueen.tools.head.label>
+  <OE_Mech_ArachnaQueen.tools.head.label>头部</OE_Mech_ArachnaQueen.tools.head.label>
   
   <!-- EN: Crimson Arachna -->
-  <OE_Mech_CrimsonArachna.label>TODO</OE_Mech_CrimsonArachna.label>
+  <OE_Mech_CrimsonArachna.label>深红蜘蛛</OE_Mech_CrimsonArachna.label>
   <!-- EN: An ultra-tech and ultra-heavy mech with a built-in mech gestator. Fed with appropriate resources, the Crimson Arachna can form small Crimson Arachna Drones combat mechs within its massive carapace and deploy them into combat\n\nThe Crimson Arachna is the avatar of the deity worshiped by the Crimson Arachna Cult. The Queen's Grasp and Queen's Curse abilities help her dominate the battlefield. Even her death has consequences for her enemies. -->
-  <OE_Mech_CrimsonArachna.description>TODO</OE_Mech_CrimsonArachna.description>
+  <OE_Mech_CrimsonArachna.description>一种超科技超重型机械体，内置机械培育器。通过适当的资源供给，深红蜘蛛可以在其巨大的甲壳内形成小型深红蜘蛛无人机战斗机械体并将其部署到战斗中\n\n深红蜘蛛是深红蜘蛛教派所崇拜神祇的化身。女王之握和女王诅咒能力帮助她主宰战场。甚至她的死亡也会对敌人产生后果。</OE_Mech_CrimsonArachna.description>
   <!-- EN: front left leg -->
-  <OE_Mech_CrimsonArachna.tools.front_left_leg.label>TODO</OE_Mech_CrimsonArachna.tools.front_left_leg.label>
+  <OE_Mech_CrimsonArachna.tools.front_left_leg.label>左前腿</OE_Mech_CrimsonArachna.tools.front_left_leg.label>
   <!-- EN: front right leg -->
-  <OE_Mech_CrimsonArachna.tools.front_right_leg.label>TODO</OE_Mech_CrimsonArachna.tools.front_right_leg.label>
+  <OE_Mech_CrimsonArachna.tools.front_right_leg.label>右前腿</OE_Mech_CrimsonArachna.tools.front_right_leg.label>
   <!-- EN: head -->
-  <OE_Mech_CrimsonArachna.tools.head.label>TODO</OE_Mech_CrimsonArachna.tools.head.label>
+  <OE_Mech_CrimsonArachna.tools.head.label>头部</OE_Mech_CrimsonArachna.tools.head.label>
   
 </LanguageData>

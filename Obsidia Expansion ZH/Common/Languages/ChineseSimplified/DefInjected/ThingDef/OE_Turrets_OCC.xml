@@ -1,57 +1,57 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: OCC Behemoth Turret -->
-  <OCC_Turret_Big.label>TODO</OCC_Turret_Big.label>
+  <OCC_Turret_Big.label>OCC巨兽炮塔</OCC_Turret_Big.label>
   <!-- EN: An automatic OCC Rocket Launcher-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
-  <OCC_Turret_Big.description>TODO</OCC_Turret_Big.description>
+  <OCC_Turret_Big.description>一种自动OCC火箭发射器炮塔。需要黑曜石弹药包作为燃料。其简单的AI大脑无法直接控制，因此需要注意友军火力。</OCC_Turret_Big.description>
   <!-- EN: Fuel capacity -->
-  <OCC_Turret_Big.comps.CompRefuelable.fuelGizmoLabel>TODO</OCC_Turret_Big.comps.CompRefuelable.fuelGizmoLabel>
+  <OCC_Turret_Big.comps.CompRefuelable.fuelGizmoLabel>燃料容量</OCC_Turret_Big.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Shoots until run out of charges -->
-  <OCC_Turret_Big.comps.CompRefuelable.fuelLabel>TODO</OCC_Turret_Big.comps.CompRefuelable.fuelLabel>
+  <OCC_Turret_Big.comps.CompRefuelable.fuelLabel>射击直至耗尽充能</OCC_Turret_Big.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
-  <OCC_Turret_Big.comps.CompRefuelable.outOfFuelMessage>TODO</OCC_Turret_Big.comps.CompRefuelable.outOfFuelMessage>
+  <OCC_Turret_Big.comps.CompRefuelable.outOfFuelMessage>无法射击：需要黑曜石弹药包</OCC_Turret_Big.comps.CompRefuelable.outOfFuelMessage>
   
   <!-- EN: OCC Cerberus Turret -->
-  <OCC_Turret_Small.label>TODO</OCC_Turret_Small.label>
+  <OCC_Turret_Small.label>OCC地狱犬炮塔</OCC_Turret_Small.label>
   <!-- EN: An automatic OCC Rifle-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
-  <OCC_Turret_Small.description>TODO</OCC_Turret_Small.description>
+  <OCC_Turret_Small.description>一种自动OCC步枪炮塔。需要黑曜石弹药包作为燃料。其简单的AI大脑无法直接控制，因此需要注意友军火力。</OCC_Turret_Small.description>
   <!-- EN: Fuel capacity -->
-  <OCC_Turret_Small.comps.CompRefuelable.fuelGizmoLabel>TODO</OCC_Turret_Small.comps.CompRefuelable.fuelGizmoLabel>
+  <OCC_Turret_Small.comps.CompRefuelable.fuelGizmoLabel>燃料容量</OCC_Turret_Small.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Shoots until run out of charges -->
-  <OCC_Turret_Small.comps.CompRefuelable.fuelLabel>TODO</OCC_Turret_Small.comps.CompRefuelable.fuelLabel>
+  <OCC_Turret_Small.comps.CompRefuelable.fuelLabel>射击直至耗尽充能</OCC_Turret_Small.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
-  <OCC_Turret_Small.comps.CompRefuelable.outOfFuelMessage>TODO</OCC_Turret_Small.comps.CompRefuelable.outOfFuelMessage>
+  <OCC_Turret_Small.comps.CompRefuelable.outOfFuelMessage>无法射击：需要黑曜石弹药包</OCC_Turret_Small.comps.CompRefuelable.outOfFuelMessage>
   
   <!-- EN: OCC Cerberus Powered Turret -->
-  <OCC_Turret_SmallPowered.label>TODO</OCC_Turret_SmallPowered.label>
+  <OCC_Turret_SmallPowered.label>OCC地狱犬动力炮塔</OCC_Turret_SmallPowered.label>
   <!-- EN: An automatic OCC Rifle-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire.\n\nThis turret has a built-in generator. -->
-  <OCC_Turret_SmallPowered.description>TODO</OCC_Turret_SmallPowered.description>
+  <OCC_Turret_SmallPowered.description>一种自动OCC步枪炮塔。需要黑曜石弹药包作为燃料。其简单的AI大脑无法直接控制，因此需要注意友军火力。\n\n该炮塔内置发电机。</OCC_Turret_SmallPowered.description>
   <!-- EN: Fuel capacity -->
-  <OCC_Turret_SmallPowered.comps.CompRefuelable.fuelGizmoLabel>TODO</OCC_Turret_SmallPowered.comps.CompRefuelable.fuelGizmoLabel>
+  <OCC_Turret_SmallPowered.comps.CompRefuelable.fuelGizmoLabel>燃料容量</OCC_Turret_SmallPowered.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Shoots until run out of charges -->
-  <OCC_Turret_SmallPowered.comps.CompRefuelable.fuelLabel>TODO</OCC_Turret_SmallPowered.comps.CompRefuelable.fuelLabel>
+  <OCC_Turret_SmallPowered.comps.CompRefuelable.fuelLabel>射击直至耗尽充能</OCC_Turret_SmallPowered.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
-  <OCC_Turret_SmallPowered.comps.CompRefuelable.outOfFuelMessage>TODO</OCC_Turret_SmallPowered.comps.CompRefuelable.outOfFuelMessage>
+  <OCC_Turret_SmallPowered.comps.CompRefuelable.outOfFuelMessage>无法射击：需要黑曜石弹药包</OCC_Turret_SmallPowered.comps.CompRefuelable.outOfFuelMessage>
   
   <!-- EN: behemoth turret rocket -->
-  <OCC_TurretBullet_Big.label>TODO</OCC_TurretBullet_Big.label>
+  <OCC_TurretBullet_Big.label>巨兽炮塔火箭</OCC_TurretBullet_Big.label>
   
   <!-- EN: cerberus turret bullet -->
-  <OCC_TurretBullet_Small.label>TODO</OCC_TurretBullet_Small.label>
+  <OCC_TurretBullet_Small.label>地狱犬炮塔子弹</OCC_TurretBullet_Small.label>
   
   <!-- EN: Behemoth Turret -->
-  <OCC_TurretGun_Big.label>TODO</OCC_TurretGun_Big.label>
+  <OCC_TurretGun_Big.label>巨兽炮塔</OCC_TurretGun_Big.label>
   <!-- EN: Reconstructed OCC Rocket Launcher for turrets. Slow weapon are designed to use blast bullets. -->
-  <OCC_TurretGun_Big.description>TODO</OCC_TurretGun_Big.description>
+  <OCC_TurretGun_Big.description>为炮塔重构的OCC火箭发射器。慢速武器设计用于使用爆炸子弹。</OCC_TurretGun_Big.description>
   <!-- EN: Behemoth Turret -->
-  <OCC_TurretGun_Big.verbs.Verb_Shoot.label>TODO</OCC_TurretGun_Big.verbs.Verb_Shoot.label>
+  <OCC_TurretGun_Big.verbs.Verb_Shoot.label>巨兽炮塔</OCC_TurretGun_Big.verbs.Verb_Shoot.label>
   
   <!-- EN: Cerberus Turret -->
-  <OCC_TurretGun_Small.label>TODO</OCC_TurretGun_Small.label>
+  <OCC_TurretGun_Small.label>地狱犬炮塔</OCC_TurretGun_Small.label>
   <!-- EN: Reconstructed OCC Rifle for turrets. Slow weapon are designed to use blast bullets. -->
-  <OCC_TurretGun_Small.description>TODO</OCC_TurretGun_Small.description>
+  <OCC_TurretGun_Small.description>为炮塔重构的OCC步枪。慢速武器设计用于使用爆炸子弹。</OCC_TurretGun_Small.description>
   <!-- EN: Cerberus Turret -->
-  <OCC_TurretGun_Small.verbs.Verb_Shoot.label>TODO</OCC_TurretGun_Small.verbs.Verb_Shoot.label>
+  <OCC_TurretGun_Small.verbs.Verb_Shoot.label>地狱犬炮塔</OCC_TurretGun_Small.verbs.Verb_Shoot.label>
   
 </LanguageData>

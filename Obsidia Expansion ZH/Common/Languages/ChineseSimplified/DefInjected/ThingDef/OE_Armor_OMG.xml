@@ -1,29 +1,29 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Mercenary Armor(Corsair) -->
-  <OMG_Armor_Corsair.label>TODO</OMG_Armor_Corsair.label>
+  <OMG_Armor_Corsair.label>雇佣兵护甲（海盗）</OMG_Armor_Corsair.label>
   <!-- EN: Highly modified heavy power armor, excellent protects the owner. Designed for use by Mercenaries.\n\nThis modification with the addition of a Smokepop pack and deprives item's quality levels. -->
-  <OMG_Armor_Corsair.description>TODO</OMG_Armor_Corsair.description>
+  <OMG_Armor_Corsair.description>高度改良的重型动力护甲，出色地保护穿戴者。专为雇佣兵设计。\n\n此改装增加了烟雾弹背包，会剥夺物品的品质等级。</OMG_Armor_Corsair.description>
   <!-- EN: smokepop -->
-  <OMG_Armor_Corsair.comps.CompApparelReloadable.chargeNoun>TODO</OMG_Armor_Corsair.comps.CompApparelReloadable.chargeNoun>
+  <OMG_Armor_Corsair.comps.CompApparelReloadable.chargeNoun>烟雾弹</OMG_Armor_Corsair.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OMG_Armor_Corsair.comps.CompApparelReloadable.cooldownGerund>TODO</OMG_Armor_Corsair.comps.CompApparelReloadable.cooldownGerund>
+  <OMG_Armor_Corsair.comps.CompApparelReloadable.cooldownGerund>冷却中</OMG_Armor_Corsair.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: Mercenary Armor(Corsair) -->
-  <OMG_Armor_Corsair.verbs.Verb_SmokePop.label>TODO</OMG_Armor_Corsair.verbs.Verb_SmokePop.label>
+  <OMG_Armor_Corsair.verbs.Verb_SmokePop.label>雇佣兵护甲（海盗）</OMG_Armor_Corsair.verbs.Verb_SmokePop.label>
   
   <!-- EN: Mercenary Armor(Demolition) -->
-  <OMG_Armor_Demolition.label>TODO</OMG_Armor_Demolition.label>
+  <OMG_Armor_Demolition.label>雇佣兵护甲（爆破手）</OMG_Armor_Demolition.label>
   <!-- EN: Highly modified heavy power armor, excellent protects the owner. Designed for use by Mercenaries.\n\nThis modification with installing a Grenade Launcher and deprives item's quality levels. -->
-  <OMG_Armor_Demolition.description>TODO</OMG_Armor_Demolition.description>
+  <OMG_Armor_Demolition.description>高度改良的重型动力护甲，出色地保护穿戴者。专为雇佣兵设计。\n\n此改装安装了榴弹发射器，会剥夺物品的品质等级。</OMG_Armor_Demolition.description>
   <!-- EN: grenade -->
-  <OMG_Armor_Demolition.comps.CompApparelReloadable.chargeNoun>TODO</OMG_Armor_Demolition.comps.CompApparelReloadable.chargeNoun>
+  <OMG_Armor_Demolition.comps.CompApparelReloadable.chargeNoun>榴弹</OMG_Armor_Demolition.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OMG_Armor_Demolition.comps.CompApparelReloadable.cooldownGerund>TODO</OMG_Armor_Demolition.comps.CompApparelReloadable.cooldownGerund>
+  <OMG_Armor_Demolition.comps.CompApparelReloadable.cooldownGerund>冷却中</OMG_Armor_Demolition.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: Mercenary Armor(Demolition) -->
-  <OMG_Armor_Demolition.verbs.Verb_LaunchProjectileStatic.label>TODO</OMG_Armor_Demolition.verbs.Verb_LaunchProjectileStatic.label>
+  <OMG_Armor_Demolition.verbs.Verb_LaunchProjectileStatic.label>雇佣兵护甲（爆破手）</OMG_Armor_Demolition.verbs.Verb_LaunchProjectileStatic.label>
   
   <!-- EN: Mercenary Blast Grenade -->
-  <OMG_Grenade.label>TODO</OMG_Grenade.label>
+  <OMG_Grenade.label>雇佣兵爆破榴弹</OMG_Grenade.label>
   
 </LanguageData>

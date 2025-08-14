@@ -1,41 +1,41 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: obsidia fuel optimizer -->
-  <OE_FuelOptimizer.label>TODO</OE_FuelOptimizer.label>
+  <OE_FuelOptimizer.label>黑曜石燃料优化器</OE_FuelOptimizer.label>
   <!-- EN: An obsidian-engineered gravtech unit that refines and blends chemfuel with reactive compounds, reducing overall fuel consumption during flight. It reduces the fuel needed for gravship flight.\n\nA gravship can support two obsidia fuel optimizers. -->
-  <OE_FuelOptimizer.description>TODO</OE_FuelOptimizer.description>
+  <OE_FuelOptimizer.description>一种由黑曜石工程制造的重力技术装置，可精炼化学燃料并将其与反应化合物混合，从而减少飞行过程中的整体燃料消耗。它减少了重力飞船飞行所需的燃料。\n\n一艘重力飞船可以支持两个黑曜石燃料优化器。</OE_FuelOptimizer.description>
   
   <!-- EN: obsidia grav field extender -->
-  <OE_GravFieldExtender.label>TODO</OE_GravFieldExtender.label>
+  <OE_GravFieldExtender.label>黑曜石重力场扩展器</OE_GravFieldExtender.label>
   <!-- EN: A specialized obsidia device used to increase the size of a gravship. It extends the area in which substructure can be built, and increases the amount of substructure that a gravship can support. Must be built near a grav engine.\n\nA gravship can support up to four obsidia grav field extenders. -->
-  <OE_GravFieldExtender.description>TODO</OE_GravFieldExtender.description>
+  <OE_GravFieldExtender.description>一种专门用于增加重力飞船尺寸的黑曜石装置。它扩展了可以建造子结构的区域，并增加了重力飞船可以支持的子结构数量。必须建在重力引擎附近。\n\n一艘重力飞船最多可以支持四个黑曜石重力场扩展器。</OE_GravFieldExtender.description>
   
   <!-- EN: obsidia gravship hull -->
-  <OE_GravshipHull.label>TODO</OE_GravshipHull.label>
+  <OE_GravshipHull.label>黑曜石重力飞船船体</OE_GravshipHull.label>
   <!-- EN: Reinforced Obsidia hull segment with layered armor and airtight sealing. Designed for gravship integration, it prevents oxygen leaks in vacuum and connects directly to internal substructure, meaning it can only be built on a gravship. -->
-  <OE_GravshipHull.description>TODO</OE_GravshipHull.description>
+  <OE_GravshipHull.description>加固的黑曜石船体段，具有层压装甲和气密密封。专为重力飞船集成设计，可防止真空中氧气泄漏，并直接连接到内部子结构，这意味着它只能在重力飞船上建造。</OE_GravshipHull.description>
   
   <!-- EN: obsidia gravship shield tower -->
-  <OE_GravshipShieldTower.label>TODO</OE_GravshipShieldTower.label>
+  <OE_GravshipShieldTower.label>黑曜石重力飞船护盾塔</OE_GravshipShieldTower.label>
   <!-- EN: An obsidia gravship shield tower designed to protect a gravship. It uses modern Obsidia gravtech to project a focused deflection field that repels incoming projectiles with pulsed momentum barriers. It works against normal shots and mortars. Those inside can still shoot out.\n\nIt must be charged before use. One gravship can support five obsidia gravship shield towers. -->
-  <OE_GravshipShieldTower.description>TODO</OE_GravshipShieldTower.description>
+  <OE_GravshipShieldTower.description>一种设计用于保护重力飞船的黑曜石重力飞船护盾塔。它使用现代黑曜石重力技术投射聚焦偏转场，通过脉冲动量屏障击退来袭的抛射物。它对普通射击和迫击炮弹有效。内部的人仍然可以向外射击。\n\n使用前必须充电。一艘重力飞船可以支持五个黑曜石重力飞船护盾塔。</OE_GravshipShieldTower.description>
   <!-- EN: activate -->
-  <OE_GravshipShieldTower.comps.CompInteractable_GravshipShieldGenerator.jobString>TODO</OE_GravshipShieldTower.comps.CompInteractable_GravshipShieldGenerator.jobString>
+  <OE_GravshipShieldTower.comps.CompInteractable_GravshipShieldGenerator.jobString>激活</OE_GravshipShieldTower.comps.CompInteractable_GravshipShieldGenerator.jobString>
   
   <!-- EN: obsidia pilot console -->
-  <OE_PilotConsole.label>TODO</OE_PilotConsole.label>
+  <OE_PilotConsole.label>黑曜石飞行员控制台</OE_PilotConsole.label>
   <!-- EN: A small obsidia pilot console that allows launching and piloting a gravship. It draws power directly from the grav engine. -->
-  <OE_PilotConsole.description>TODO</OE_PilotConsole.description>
+  <OE_PilotConsole.description>一个小型黑曜石飞行员控制台，允许发射和驾驶重力飞船。它直接从重力引擎获取电力。</OE_PilotConsole.description>
   
   <!-- EN: colonial obsidia repulsorlift engine -->
-  <OE_RepulsorliftEngine_Large.label>TODO</OE_RepulsorliftEngine_Large.label>
+  <OE_RepulsorliftEngine_Large.label>殖民地黑曜石反重力引擎</OE_RepulsorliftEngine_Large.label>
   <!-- EN: A repulsorlift engine uses focused gravitic pulses to reduce planetary drag during flight. This massive colonial-era model is powered by chemfuel and greatly increases the range of a gravship. Requires gravship substructure and an unobstructed, roof-free area.\n\nA gravship can support up to four colonial obsidia repulsorlift engine. -->
-  <OE_RepulsorliftEngine_Large.description>TODO</OE_RepulsorliftEngine_Large.description>
+  <OE_RepulsorliftEngine_Large.description>反重力引擎使用聚焦的重力脉冲来减少飞行过程中的行星阻力。这种巨大的殖民时代型号由化学燃料驱动，大大增加了重力飞船的航程。需要重力飞船子结构和无障碍、无屋顶的区域。\n\n一艘重力飞船最多可以支持四个殖民地黑曜石反重力引擎。</OE_RepulsorliftEngine_Large.description>
   
   <!-- EN: small obsidia repulsorlift engine -->
-  <OE_RepulsorliftEngine_Small.label>TODO</OE_RepulsorliftEngine_Small.label>
+  <OE_RepulsorliftEngine_Small.label>小型黑曜石反重力引擎</OE_RepulsorliftEngine_Small.label>
   <!-- EN: A repulsorlift engine uses focused gravitic pulses to reduce planetary drag during flight. This compact Obsidia design is powered by chemfuel and increases the range of a gravship. Requires gravship substructure and an unobstructed, roof-free area.\n\nA gravship can support up to ten small obsidia repulsorlift engines. -->
-  <OE_RepulsorliftEngine_Small.description>TODO</OE_RepulsorliftEngine_Small.description>
+  <OE_RepulsorliftEngine_Small.description>反重力引擎使用聚焦的重力脉冲来减少飞行过程中的行星阻力。这种紧凑的黑曜石设计由化学燃料驱动，增加了重力飞船的航程。需要重力飞船子结构和无障碍、无屋顶的区域。\n\n一艘重力飞船最多可以支持十个小型黑曜石反重力引擎。</OE_RepulsorliftEngine_Small.description>
   
 </LanguageData>

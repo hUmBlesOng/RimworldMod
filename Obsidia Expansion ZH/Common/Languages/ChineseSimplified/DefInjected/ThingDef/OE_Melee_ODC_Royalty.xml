@@ -2,108 +2,108 @@
 <LanguageData>
   
   <!-- EN: Persona Bequest - Apex -->
-  <ODC_BigSword_P.label>TODO</ODC_BigSword_P.label>
+  <ODC_BigSword_P.label>人格遗赠 - 巅峰</ODC_BigSword_P.label>
   <!-- EN: Persona specialised Big Sword used by Obsidia Drifters. -->
-  <ODC_BigSword_P.description>TODO</ODC_BigSword_P.description>
+  <ODC_BigSword_P.description>黑曜石漂流者使用的人格专业大剑。</ODC_BigSword_P.description>
   <!-- EN: handle -->
-  <ODC_BigSword_P.tools.handle.label>TODO</ODC_BigSword_P.tools.handle.label>
+  <ODC_BigSword_P.tools.handle.label>手柄</ODC_BigSword_P.tools.handle.label>
   <!-- EN: point -->
-  <ODC_BigSword_P.tools.point.label>TODO</ODC_BigSword_P.tools.point.label>
+  <ODC_BigSword_P.tools.point.label>剑尖</ODC_BigSword_P.tools.point.label>
   <!-- EN: edge -->
-  <ODC_BigSword_P.tools.edge.label>TODO</ODC_BigSword_P.tools.edge.label>
+  <ODC_BigSword_P.tools.edge.label>剑刃</ODC_BigSword_P.tools.edge.label>
   
   <!-- EN: Persona Guillotine - Apex -->
-  <ODC_DualSword_P.label>TODO</ODC_DualSword_P.label>
+  <ODC_DualSword_P.label>人格断头台 - 巅峰</ODC_DualSword_P.label>
   <!-- EN: Persona specialised Dual Sword used by Obsidia Drifters. -->
-  <ODC_DualSword_P.description>TODO</ODC_DualSword_P.description>
+  <ODC_DualSword_P.description>黑曜石漂流者使用的人格专业双剑。</ODC_DualSword_P.description>
   <!-- EN: shaft -->
-  <ODC_DualSword_P.tools.shaft.label>TODO</ODC_DualSword_P.tools.shaft.label>
+  <ODC_DualSword_P.tools.shaft.label>剑柄</ODC_DualSword_P.tools.shaft.label>
   <!-- EN: edge -->
-  <ODC_DualSword_P.tools.edge.label>TODO</ODC_DualSword_P.tools.edge.label>
+  <ODC_DualSword_P.tools.edge.label>剑刃</ODC_DualSword_P.tools.edge.label>
   
   <!-- EN: Persona Scar -->
-  <ODC_Knife_P.label>TODO</ODC_Knife_P.label>
+  <ODC_Knife_P.label>人格伤疤</ODC_Knife_P.label>
   <!-- EN: Persona common Knife used by Obsidia Drifters. -->
-  <ODC_Knife_P.description>TODO</ODC_Knife_P.description>
+  <ODC_Knife_P.description>黑曜石漂流者使用的人格普通匕首。</ODC_Knife_P.description>
   <!-- EN: handle -->
-  <ODC_Knife_P.tools.handle.label>TODO</ODC_Knife_P.tools.handle.label>
+  <ODC_Knife_P.tools.handle.label>手柄</ODC_Knife_P.tools.handle.label>
   <!-- EN: blade -->
-  <ODC_Knife_P.tools.blade.label>TODO</ODC_Knife_P.tools.blade.label>
+  <ODC_Knife_P.tools.blade.label>刀刃</ODC_Knife_P.tools.blade.label>
   <!-- EN: point -->
-  <ODC_Knife_P.tools.point.label>TODO</ODC_Knife_P.tools.point.label>
+  <ODC_Knife_P.tools.point.label>刀尖</ODC_Knife_P.tools.point.label>
   
   <!-- EN: Persona Imperfect - Emergent -->
-  <ODC_Rapier_P.label>TODO</ODC_Rapier_P.label>
+  <ODC_Rapier_P.label>人格不完美 - 新兴</ODC_Rapier_P.label>
   <!-- EN: Persona moded Rapier used by Obsidia Drifters. -->
-  <ODC_Rapier_P.description>TODO</ODC_Rapier_P.description>
+  <ODC_Rapier_P.description>黑曜石漂流者使用的人格改装细剑。</ODC_Rapier_P.description>
   <!-- EN: handle -->
-  <ODC_Rapier_P.tools.handle.label>TODO</ODC_Rapier_P.tools.handle.label>
+  <ODC_Rapier_P.tools.handle.label>手柄</ODC_Rapier_P.tools.handle.label>
   <!-- EN: point -->
-  <ODC_Rapier_P.tools.point.label>TODO</ODC_Rapier_P.tools.point.label>
+  <ODC_Rapier_P.tools.point.label>剑尖</ODC_Rapier_P.tools.point.label>
   
   <!-- EN: Persona Enigma - Apex(Acid) -->
-  <ODC_Rapier_P_Acid.label>TODO</ODC_Rapier_P_Acid.label>
+  <ODC_Rapier_P_Acid.label>人格谜题 - 巅峰（酸性）</ODC_Rapier_P_Acid.label>
   <!-- EN: Persona specialised Rapier used by Obsidia Drifters. Charged with Acid damage. -->
-  <ODC_Rapier_P_Acid.description>TODO</ODC_Rapier_P_Acid.description>
+  <ODC_Rapier_P_Acid.description>黑曜石漂流者使用的人格专业细剑。充能酸性伤害。</ODC_Rapier_P_Acid.description>
   <!-- EN: handle -->
-  <ODC_Rapier_P_Acid.tools.handle.label>TODO</ODC_Rapier_P_Acid.tools.handle.label>
+  <ODC_Rapier_P_Acid.tools.handle.label>手柄</ODC_Rapier_P_Acid.tools.handle.label>
   <!-- EN: point -->
-  <ODC_Rapier_P_Acid.tools.point.label>TODO</ODC_Rapier_P_Acid.tools.point.label>
+  <ODC_Rapier_P_Acid.tools.point.label>剑尖</ODC_Rapier_P_Acid.tools.point.label>
   
   <!-- EN: Persona Enigma - Apex(Cryo) -->
-  <ODC_Rapier_P_Cryo.label>TODO</ODC_Rapier_P_Cryo.label>
+  <ODC_Rapier_P_Cryo.label>人格谜题 - 巅峰（冷冻）</ODC_Rapier_P_Cryo.label>
   <!-- EN: Persona specialised Rapier used by Obsidia Drifters. Charged with Cryo damage. -->
-  <ODC_Rapier_P_Cryo.description>TODO</ODC_Rapier_P_Cryo.description>
+  <ODC_Rapier_P_Cryo.description>黑曜石漂流者使用的人格专业细剑。充能冷冻伤害。</ODC_Rapier_P_Cryo.description>
   <!-- EN: handle -->
-  <ODC_Rapier_P_Cryo.tools.handle.label>TODO</ODC_Rapier_P_Cryo.tools.handle.label>
+  <ODC_Rapier_P_Cryo.tools.handle.label>手柄</ODC_Rapier_P_Cryo.tools.handle.label>
   <!-- EN: point -->
-  <ODC_Rapier_P_Cryo.tools.point.label>TODO</ODC_Rapier_P_Cryo.tools.point.label>
+  <ODC_Rapier_P_Cryo.tools.point.label>剑尖</ODC_Rapier_P_Cryo.tools.point.label>
   
   <!-- EN: Persona Enigma - Apex(EMP) -->
-  <ODC_Rapier_P_EMP.label>TODO</ODC_Rapier_P_EMP.label>
+  <ODC_Rapier_P_EMP.label>人格谜题 - 巅峰（电磁）</ODC_Rapier_P_EMP.label>
   <!-- EN: Persona specialised Rapier used by Obsidia Drifters. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
-  <ODC_Rapier_P_EMP.description>TODO</ODC_Rapier_P_EMP.description>
+  <ODC_Rapier_P_EMP.description>黑曜石漂流者使用的人格专业细剑。充能电磁伤害。\n\n警告！电磁伤害并非旨在摧毁血肉之躯。</ODC_Rapier_P_EMP.description>
   <!-- EN: handle -->
-  <ODC_Rapier_P_EMP.tools.handle.label>TODO</ODC_Rapier_P_EMP.tools.handle.label>
+  <ODC_Rapier_P_EMP.tools.handle.label>手柄</ODC_Rapier_P_EMP.tools.handle.label>
   <!-- EN: point -->
-  <ODC_Rapier_P_EMP.tools.point.label>TODO</ODC_Rapier_P_EMP.tools.point.label>
+  <ODC_Rapier_P_EMP.tools.point.label>剑尖</ODC_Rapier_P_EMP.tools.point.label>
   
   <!-- EN: Persona Enigma - Apex(Fire) -->
-  <ODC_Rapier_P_Fire.label>TODO</ODC_Rapier_P_Fire.label>
+  <ODC_Rapier_P_Fire.label>人格谜题 - 巅峰（火焰）</ODC_Rapier_P_Fire.label>
   <!-- EN: Persona specialised Rapier used by Obsidia Drifters. Charged with Fire damage. -->
-  <ODC_Rapier_P_Fire.description>TODO</ODC_Rapier_P_Fire.description>
+  <ODC_Rapier_P_Fire.description>黑曜石漂流者使用的人格专业细剑。充能火焰伤害。</ODC_Rapier_P_Fire.description>
   <!-- EN: handle -->
-  <ODC_Rapier_P_Fire.tools.handle.label>TODO</ODC_Rapier_P_Fire.tools.handle.label>
+  <ODC_Rapier_P_Fire.tools.handle.label>手柄</ODC_Rapier_P_Fire.tools.handle.label>
   <!-- EN: point -->
-  <ODC_Rapier_P_Fire.tools.point.label>TODO</ODC_Rapier_P_Fire.tools.point.label>
+  <ODC_Rapier_P_Fire.tools.point.label>剑尖</ODC_Rapier_P_Fire.tools.point.label>
   
   <!-- EN: Persona Defiant - Apex -->
-  <ODC_RapierGuard_P.label>TODO</ODC_RapierGuard_P.label>
+  <ODC_RapierGuard_P.label>人格反抗 - 巅峰</ODC_RapierGuard_P.label>
   <!-- EN: Persona specialised Rapier used by Obsidia Drifters. -->
-  <ODC_RapierGuard_P.description>TODO</ODC_RapierGuard_P.description>
+  <ODC_RapierGuard_P.description>黑曜石漂流者使用的人格专业细剑。</ODC_RapierGuard_P.description>
   <!-- EN: handle -->
-  <ODC_RapierGuard_P.tools.handle.label>TODO</ODC_RapierGuard_P.tools.handle.label>
+  <ODC_RapierGuard_P.tools.handle.label>手柄</ODC_RapierGuard_P.tools.handle.label>
   <!-- EN: point -->
-  <ODC_RapierGuard_P.tools.point.label>TODO</ODC_RapierGuard_P.tools.point.label>
+  <ODC_RapierGuard_P.tools.point.label>剑尖</ODC_RapierGuard_P.tools.point.label>
   
   <!-- EN: Persona Mercy - Emergent -->
-  <ODC_Sword_P.label>TODO</ODC_Sword_P.label>
+  <ODC_Sword_P.label>人格仁慈 - 新兴</ODC_Sword_P.label>
   <!-- EN: Persona moded Sword used by Obsidia Drifters. -->
-  <ODC_Sword_P.description>TODO</ODC_Sword_P.description>
+  <ODC_Sword_P.description>黑曜石漂流者使用的人格改装剑。</ODC_Sword_P.description>
   <!-- EN: handle -->
-  <ODC_Sword_P.tools.handle.label>TODO</ODC_Sword_P.tools.handle.label>
+  <ODC_Sword_P.tools.handle.label>手柄</ODC_Sword_P.tools.handle.label>
   <!-- EN: point -->
-  <ODC_Sword_P.tools.point.label>TODO</ODC_Sword_P.tools.point.label>
+  <ODC_Sword_P.tools.point.label>剑尖</ODC_Sword_P.tools.point.label>
   <!-- EN: edge -->
-  <ODC_Sword_P.tools.edge.label>TODO</ODC_Sword_P.tools.edge.label>
+  <ODC_Sword_P.tools.edge.label>剑刃</ODC_Sword_P.tools.edge.label>
   
   <!-- EN: Persona Basher -->
-  <ODC_Tonfa_P.label>TODO</ODC_Tonfa_P.label>
+  <ODC_Tonfa_P.label>人格打击者</ODC_Tonfa_P.label>
   <!-- EN: Persona common Tonfa used by Obsidia Drifters. -->
-  <ODC_Tonfa_P.description>TODO</ODC_Tonfa_P.description>
+  <ODC_Tonfa_P.description>黑曜石漂流者使用的人格普通警棍。</ODC_Tonfa_P.description>
   <!-- EN: handle -->
-  <ODC_Tonfa_P.tools.handle.label>TODO</ODC_Tonfa_P.tools.handle.label>
+  <ODC_Tonfa_P.tools.handle.label>手柄</ODC_Tonfa_P.tools.handle.label>
   <!-- EN: head -->
-  <ODC_Tonfa_P.tools.head.label>TODO</ODC_Tonfa_P.tools.head.label>
+  <ODC_Tonfa_P.tools.head.label>头部</ODC_Tonfa_P.tools.head.label>
   
 </LanguageData>

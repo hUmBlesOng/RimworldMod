@@ -1,49 +1,49 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Paragon Harvest -->
-  <ODC_Trophy_BladeLauncher_A_P.label>TODO</ODC_Trophy_BladeLauncher_A_P.label>
+  <ODC_Trophy_BladeLauncher_A_P.label>卓越收割</ODC_Trophy_BladeLauncher_A_P.label>
   <!-- EN: Rare heavy paragon blade launcher weapon used by Obsidia Drifters. This weapon was a working tool, but upgraded for ranged combat.\n\nThis is a rare trophy weapon.\n\nFeature: a built-in module that improves work skills. -->
-  <ODC_Trophy_BladeLauncher_A_P.description>TODO</ODC_Trophy_BladeLauncher_A_P.description>
+  <ODC_Trophy_BladeLauncher_A_P.description>黑曜石漂流者使用的稀有重型卓越刀片发射器武器。这把武器原本是工作工具，但经过升级用于远程战斗。\n\n这是一种稀有的战利品武器。\n\n特性：内置模块，提高工作技能。</ODC_Trophy_BladeLauncher_A_P.description>
   <!-- EN: charge -->
-  <ODC_Trophy_BladeLauncher_A_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</ODC_Trophy_BladeLauncher_A_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <ODC_Trophy_BladeLauncher_A_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_Trophy_BladeLauncher_A_P.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <ODC_Trophy_BladeLauncher_A_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</ODC_Trophy_BladeLauncher_A_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <ODC_Trophy_BladeLauncher_A_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_Trophy_BladeLauncher_A_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: Paragon Harvest -->
-  <ODC_Trophy_BladeLauncher_A_P.comps.CompUniqueWeapon.namerLabels.0>TODO</ODC_Trophy_BladeLauncher_A_P.comps.CompUniqueWeapon.namerLabels.0>
+  <ODC_Trophy_BladeLauncher_A_P.comps.CompUniqueWeapon.namerLabels.0>卓越收割</ODC_Trophy_BladeLauncher_A_P.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: saw -->
-  <ODC_Trophy_BladeLauncher_A_P.tools.saw.label>TODO</ODC_Trophy_BladeLauncher_A_P.tools.saw.label>
+  <ODC_Trophy_BladeLauncher_A_P.tools.saw.label>锯子</ODC_Trophy_BladeLauncher_A_P.tools.saw.label>
   <!-- EN: Paragon Harvest -->
-  <ODC_Trophy_BladeLauncher_A_P.verbs.Verb_Shoot.label>TODO</ODC_Trophy_BladeLauncher_A_P.verbs.Verb_Shoot.label>
+  <ODC_Trophy_BladeLauncher_A_P.verbs.Verb_Shoot.label>卓越收割</ODC_Trophy_BladeLauncher_A_P.verbs.Verb_Shoot.label>
   
   <!-- EN: Paragon Harvest - Emergent -->
-  <ODC_Trophy_BladeLauncher_B_P.label>TODO</ODC_Trophy_BladeLauncher_B_P.label>
+  <ODC_Trophy_BladeLauncher_B_P.label>卓越收割 - 新现</ODC_Trophy_BladeLauncher_B_P.label>
   <!-- EN: Rare heavy paragon blade launcher weapon used by Obsidia Drifters. This weapon was a working tool, but upgraded for ranged combat.\n\nThis is a rare trophy weapon.\n\nFeature: a built-in module that improves work skills. -->
-  <ODC_Trophy_BladeLauncher_B_P.description>TODO</ODC_Trophy_BladeLauncher_B_P.description>
+  <ODC_Trophy_BladeLauncher_B_P.description>黑曜石漂流者使用的稀有重型卓越刀片发射器武器。这把武器原本是工作工具，但经过升级用于远程战斗。\n\n这是一种稀有的战利品武器。\n\n特性：内置模块，提高工作技能。</ODC_Trophy_BladeLauncher_B_P.description>
   <!-- EN: charge -->
-  <ODC_Trophy_BladeLauncher_B_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</ODC_Trophy_BladeLauncher_B_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <ODC_Trophy_BladeLauncher_B_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_Trophy_BladeLauncher_B_P.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <ODC_Trophy_BladeLauncher_B_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</ODC_Trophy_BladeLauncher_B_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <ODC_Trophy_BladeLauncher_B_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_Trophy_BladeLauncher_B_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: Paragon Harvest - Emergent -->
-  <ODC_Trophy_BladeLauncher_B_P.comps.CompUniqueWeapon.namerLabels.0>TODO</ODC_Trophy_BladeLauncher_B_P.comps.CompUniqueWeapon.namerLabels.0>
+  <ODC_Trophy_BladeLauncher_B_P.comps.CompUniqueWeapon.namerLabels.0>卓越收割 - 新现</ODC_Trophy_BladeLauncher_B_P.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: saw -->
-  <ODC_Trophy_BladeLauncher_B_P.tools.saw.label>TODO</ODC_Trophy_BladeLauncher_B_P.tools.saw.label>
+  <ODC_Trophy_BladeLauncher_B_P.tools.saw.label>锯子</ODC_Trophy_BladeLauncher_B_P.tools.saw.label>
   <!-- EN: Paragon Harvest - Emergent -->
-  <ODC_Trophy_BladeLauncher_B_P.verbs.Verb_Shoot.label>TODO</ODC_Trophy_BladeLauncher_B_P.verbs.Verb_Shoot.label>
+  <ODC_Trophy_BladeLauncher_B_P.verbs.Verb_Shoot.label>卓越收割 - 新现</ODC_Trophy_BladeLauncher_B_P.verbs.Verb_Shoot.label>
   
   <!-- EN: Paragon Harvest - Apex -->
-  <ODC_Trophy_BladeLauncher_C_P.label>TODO</ODC_Trophy_BladeLauncher_C_P.label>
+  <ODC_Trophy_BladeLauncher_C_P.label>卓越收割 - 巅峰</ODC_Trophy_BladeLauncher_C_P.label>
   <!-- EN: Rare heavy paragon blade launcher weapon used by Obsidia Drifters. This weapon was a working tool, but upgraded for ranged combat.\n\nThis is a rare trophy weapon.\n\nFeature: a built-in module that improves work skills. -->
-  <ODC_Trophy_BladeLauncher_C_P.description>TODO</ODC_Trophy_BladeLauncher_C_P.description>
+  <ODC_Trophy_BladeLauncher_C_P.description>黑曜石漂流者使用的稀有重型卓越刀片发射器武器。这把武器原本是工作工具，但经过升级用于远程战斗。\n\n这是一种稀有的战利品武器。\n\n特性：内置模块，提高工作技能。</ODC_Trophy_BladeLauncher_C_P.description>
   <!-- EN: charge -->
-  <ODC_Trophy_BladeLauncher_C_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</ODC_Trophy_BladeLauncher_C_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <ODC_Trophy_BladeLauncher_C_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_Trophy_BladeLauncher_C_P.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <ODC_Trophy_BladeLauncher_C_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</ODC_Trophy_BladeLauncher_C_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <ODC_Trophy_BladeLauncher_C_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_Trophy_BladeLauncher_C_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: Paragon Harvest - Apex -->
-  <ODC_Trophy_BladeLauncher_C_P.comps.CompUniqueWeapon.namerLabels.0>TODO</ODC_Trophy_BladeLauncher_C_P.comps.CompUniqueWeapon.namerLabels.0>
+  <ODC_Trophy_BladeLauncher_C_P.comps.CompUniqueWeapon.namerLabels.0>卓越收割 - 巅峰</ODC_Trophy_BladeLauncher_C_P.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: saw -->
-  <ODC_Trophy_BladeLauncher_C_P.tools.saw.label>TODO</ODC_Trophy_BladeLauncher_C_P.tools.saw.label>
+  <ODC_Trophy_BladeLauncher_C_P.tools.saw.label>锯子</ODC_Trophy_BladeLauncher_C_P.tools.saw.label>
   <!-- EN: Paragon Harvest - Apex -->
-  <ODC_Trophy_BladeLauncher_C_P.verbs.Verb_Shoot.label>TODO</ODC_Trophy_BladeLauncher_C_P.verbs.Verb_Shoot.label>
+  <ODC_Trophy_BladeLauncher_C_P.verbs.Verb_Shoot.label>卓越收割 - 巅峰</ODC_Trophy_BladeLauncher_C_P.verbs.Verb_Shoot.label>
   
 </LanguageData>

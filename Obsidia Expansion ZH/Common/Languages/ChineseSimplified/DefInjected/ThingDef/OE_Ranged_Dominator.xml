@@ -1,85 +1,85 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Mech Harvest -->
-  <ODC_Dominator_BladeLauncher.label>TODO</ODC_Dominator_BladeLauncher.label>
+  <ODC_Dominator_BladeLauncher.label>机械体 收获</ODC_Dominator_BladeLauncher.label>
   <!-- EN: Reconstructed heavy ODC Blade Launcher for use by mechanoids. -->
-  <ODC_Dominator_BladeLauncher.description>TODO</ODC_Dominator_BladeLauncher.description>
+  <ODC_Dominator_BladeLauncher.description>为机械体使用而重构的重型ODC刀片发射器。</ODC_Dominator_BladeLauncher.description>
   <!-- EN: saw -->
-  <ODC_Dominator_BladeLauncher.tools.saw.label>TODO</ODC_Dominator_BladeLauncher.tools.saw.label>
+  <ODC_Dominator_BladeLauncher.tools.saw.label>锯子</ODC_Dominator_BladeLauncher.tools.saw.label>
   <!-- EN: Mech Harvest -->
-  <ODC_Dominator_BladeLauncher.verbs.Verb_Shoot.label>TODO</ODC_Dominator_BladeLauncher.verbs.Verb_Shoot.label>
+  <ODC_Dominator_BladeLauncher.verbs.Verb_Shoot.label>机械体 收获</ODC_Dominator_BladeLauncher.verbs.Verb_Shoot.label>
   
   <!-- EN: Mech Doom -->
-  <OMC_Dominator_Shotgun.label>TODO</OMC_Dominator_Shotgun.label>
+  <OMC_Dominator_Shotgun.label>机械体 末日</OMC_Dominator_Shotgun.label>
   <!-- EN: Reconstructed OMC Auto Shotgun for use by mechanoids. Rapid-fire and multiple-charge weapons with reduced damage. -->
-  <OMC_Dominator_Shotgun.description>TODO</OMC_Dominator_Shotgun.description>
+  <OMC_Dominator_Shotgun.description>为机械体使用而重构的OMC自动霰弹枪。速射和多发武器，但伤害降低。</OMC_Dominator_Shotgun.description>
   <!-- EN: barrel -->
-  <OMC_Dominator_Shotgun.tools.barrel.label>TODO</OMC_Dominator_Shotgun.tools.barrel.label>
+  <OMC_Dominator_Shotgun.tools.barrel.label>枪管</OMC_Dominator_Shotgun.tools.barrel.label>
   <!-- EN: Mech Doom -->
-  <OMC_Dominator_Shotgun.verbs.Verb_Shoot.label>TODO</OMC_Dominator_Shotgun.verbs.Verb_Shoot.label>
+  <OMC_Dominator_Shotgun.verbs.Verb_Shoot.label>机械体 末日</OMC_Dominator_Shotgun.verbs.Verb_Shoot.label>
   
   <!-- EN: Mech Void Shredder -->
-  <OMG_Dominator_Minigun.label>TODO</OMG_Dominator_Minigun.label>
+  <OMG_Dominator_Minigun.label>机械体 虚空撕裂者</OMG_Dominator_Minigun.label>
   <!-- EN: Reconstructed OMG Minigun for use by mechanoids. -->
-  <OMG_Dominator_Minigun.description>TODO</OMG_Dominator_Minigun.description>
+  <OMG_Dominator_Minigun.description>为机械体使用而重构的OMG迷你枪。</OMG_Dominator_Minigun.description>
   <!-- EN: barrel -->
-  <OMG_Dominator_Minigun.tools.barrel.label>TODO</OMG_Dominator_Minigun.tools.barrel.label>
+  <OMG_Dominator_Minigun.tools.barrel.label>枪管</OMG_Dominator_Minigun.tools.barrel.label>
   <!-- EN: Mech Void Shredder -->
-  <OMG_Dominator_Minigun.verbs.Verb_Shoot.label>TODO</OMG_Dominator_Minigun.verbs.Verb_Shoot.label>
+  <OMG_Dominator_Minigun.verbs.Verb_Shoot.label>机械体 虚空撕裂者</OMG_Dominator_Minigun.verbs.Verb_Shoot.label>
   
   <!-- EN: Mech Bytecrusher -->
-  <OMG_Dominator_Shotgun.label>TODO</OMG_Dominator_Shotgun.label>
+  <OMG_Dominator_Shotgun.label>机械体 字节粉碎者</OMG_Dominator_Shotgun.label>
   <!-- EN: Reconstructed OMG Shotgun for use by mechanoids. -->
-  <OMG_Dominator_Shotgun.description>TODO</OMG_Dominator_Shotgun.description>
+  <OMG_Dominator_Shotgun.description>为机械体使用而重构的OMG霰弹枪。</OMG_Dominator_Shotgun.description>
   <!-- EN: barrel -->
-  <OMG_Dominator_Shotgun.tools.barrel.label>TODO</OMG_Dominator_Shotgun.tools.barrel.label>
+  <OMG_Dominator_Shotgun.tools.barrel.label>枪管</OMG_Dominator_Shotgun.tools.barrel.label>
   <!-- EN: Mech Bytecrusher -->
-  <OMG_Dominator_Shotgun.verbs.Verb_Shoot.label>TODO</OMG_Dominator_Shotgun.verbs.Verb_Shoot.label>
+  <OMG_Dominator_Shotgun.verbs.Verb_Shoot.label>机械体 字节粉碎者</OMG_Dominator_Shotgun.verbs.Verb_Shoot.label>
   
   <!-- EN: Mech Etherstrike -->
-  <OMG_Dominator_SniperRifle.label>TODO</OMG_Dominator_SniperRifle.label>
+  <OMG_Dominator_SniperRifle.label>机械体 以太打击</OMG_Dominator_SniperRifle.label>
   <!-- EN: Reconstructed OMG Sniper Rifle for use by mechanoids. -->
-  <OMG_Dominator_SniperRifle.description>TODO</OMG_Dominator_SniperRifle.description>
+  <OMG_Dominator_SniperRifle.description>为机械体使用而重构的OMG狙击步枪。</OMG_Dominator_SniperRifle.description>
   <!-- EN: barrel -->
-  <OMG_Dominator_SniperRifle.tools.barrel.label>TODO</OMG_Dominator_SniperRifle.tools.barrel.label>
+  <OMG_Dominator_SniperRifle.tools.barrel.label>枪管</OMG_Dominator_SniperRifle.tools.barrel.label>
   <!-- EN: Mech Etherstrike -->
-  <OMG_Dominator_SniperRifle.verbs.Verb_Shoot.label>TODO</OMG_Dominator_SniperRifle.verbs.Verb_Shoot.label>
+  <OMG_Dominator_SniperRifle.verbs.Verb_Shoot.label>机械体 以太打击</OMG_Dominator_SniperRifle.verbs.Verb_Shoot.label>
   
   <!-- EN: Mech Pulsar(Acid) -->
-  <OTC_Dominator_MultiCannon_Acid.label>TODO</OTC_Dominator_MultiCannon_Acid.label>
+  <OTC_Dominator_MultiCannon_Acid.label>机械体 脉冲星（酸液）</OTC_Dominator_MultiCannon_Acid.label>
   <!-- EN: Reconstructed OTC Multi-Cannon for use by mechanoids. Balanced weapon with Acid charges. -->
-  <OTC_Dominator_MultiCannon_Acid.description>TODO</OTC_Dominator_MultiCannon_Acid.description>
+  <OTC_Dominator_MultiCannon_Acid.description>为机械体使用而重构的OTC多管火炮。平衡型武器，使用酸液弹药。</OTC_Dominator_MultiCannon_Acid.description>
   <!-- EN: barrels -->
-  <OTC_Dominator_MultiCannon_Acid.tools.barrels.label>TODO</OTC_Dominator_MultiCannon_Acid.tools.barrels.label>
+  <OTC_Dominator_MultiCannon_Acid.tools.barrels.label>枪管</OTC_Dominator_MultiCannon_Acid.tools.barrels.label>
   <!-- EN: Mech Pulsar(Acid) -->
-  <OTC_Dominator_MultiCannon_Acid.verbs.Verb_Shoot.label>TODO</OTC_Dominator_MultiCannon_Acid.verbs.Verb_Shoot.label>
+  <OTC_Dominator_MultiCannon_Acid.verbs.Verb_Shoot.label>机械体 脉冲星（酸液）</OTC_Dominator_MultiCannon_Acid.verbs.Verb_Shoot.label>
   
   <!-- EN: Mech Pulsar(Cryo) -->
-  <OTC_Dominator_MultiCannon_Cryo.label>TODO</OTC_Dominator_MultiCannon_Cryo.label>
+  <OTC_Dominator_MultiCannon_Cryo.label>机械体 脉冲星（冷冻）</OTC_Dominator_MultiCannon_Cryo.label>
   <!-- EN: Reconstructed OTC Multi-Cannon for use by mechanoids. Balanced weapon with Cryo charges. -->
-  <OTC_Dominator_MultiCannon_Cryo.description>TODO</OTC_Dominator_MultiCannon_Cryo.description>
+  <OTC_Dominator_MultiCannon_Cryo.description>为机械体使用而重构的OTC多管火炮。平衡型武器，使用冷冻弹药。</OTC_Dominator_MultiCannon_Cryo.description>
   <!-- EN: barrels -->
-  <OTC_Dominator_MultiCannon_Cryo.tools.barrels.label>TODO</OTC_Dominator_MultiCannon_Cryo.tools.barrels.label>
+  <OTC_Dominator_MultiCannon_Cryo.tools.barrels.label>枪管</OTC_Dominator_MultiCannon_Cryo.tools.barrels.label>
   <!-- EN: Mech Pulsar(Cryo) -->
-  <OTC_Dominator_MultiCannon_Cryo.verbs.Verb_Shoot.label>TODO</OTC_Dominator_MultiCannon_Cryo.verbs.Verb_Shoot.label>
+  <OTC_Dominator_MultiCannon_Cryo.verbs.Verb_Shoot.label>机械体 脉冲星（冷冻）</OTC_Dominator_MultiCannon_Cryo.verbs.Verb_Shoot.label>
   
   <!-- EN: Mech Pulsar(EMP) -->
-  <OTC_Dominator_MultiCannon_EMP.label>TODO</OTC_Dominator_MultiCannon_EMP.label>
+  <OTC_Dominator_MultiCannon_EMP.label>机械体 脉冲星（EMP）</OTC_Dominator_MultiCannon_EMP.label>
   <!-- EN: Reconstructed OTC Multi-Cannon for use by mechanoids. Balanced weapon with EMP charges.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
-  <OTC_Dominator_MultiCannon_EMP.description>TODO</OTC_Dominator_MultiCannon_EMP.description>
+  <OTC_Dominator_MultiCannon_EMP.description>为机械体使用而重构的OTC多管火炮。平衡型武器，使用EMP弹药。\n\n警告！EMP伤害并非旨在摧毁肉袋。</OTC_Dominator_MultiCannon_EMP.description>
   <!-- EN: barrels -->
-  <OTC_Dominator_MultiCannon_EMP.tools.barrels.label>TODO</OTC_Dominator_MultiCannon_EMP.tools.barrels.label>
+  <OTC_Dominator_MultiCannon_EMP.tools.barrels.label>枪管</OTC_Dominator_MultiCannon_EMP.tools.barrels.label>
   <!-- EN: Mech Pulsar(EMP) -->
-  <OTC_Dominator_MultiCannon_EMP.verbs.Verb_Shoot.label>TODO</OTC_Dominator_MultiCannon_EMP.verbs.Verb_Shoot.label>
+  <OTC_Dominator_MultiCannon_EMP.verbs.Verb_Shoot.label>机械体 脉冲星（EMP）</OTC_Dominator_MultiCannon_EMP.verbs.Verb_Shoot.label>
   
   <!-- EN: Mech Pulsar(Fire) -->
-  <OTC_Dominator_MultiCannon_Fire.label>TODO</OTC_Dominator_MultiCannon_Fire.label>
+  <OTC_Dominator_MultiCannon_Fire.label>机械体 脉冲星（火焰）</OTC_Dominator_MultiCannon_Fire.label>
   <!-- EN: Reconstructed OTC Multi-Cannon for use by mechanoids. Balanced weapon with Fire charges. -->
-  <OTC_Dominator_MultiCannon_Fire.description>TODO</OTC_Dominator_MultiCannon_Fire.description>
+  <OTC_Dominator_MultiCannon_Fire.description>为机械体使用而重构的OTC多管火炮。平衡型武器，使用火焰弹药。</OTC_Dominator_MultiCannon_Fire.description>
   <!-- EN: barrels -->
-  <OTC_Dominator_MultiCannon_Fire.tools.barrels.label>TODO</OTC_Dominator_MultiCannon_Fire.tools.barrels.label>
+  <OTC_Dominator_MultiCannon_Fire.tools.barrels.label>枪管</OTC_Dominator_MultiCannon_Fire.tools.barrels.label>
   <!-- EN: Mech Pulsar(Fire) -->
-  <OTC_Dominator_MultiCannon_Fire.verbs.Verb_Shoot.label>TODO</OTC_Dominator_MultiCannon_Fire.verbs.Verb_Shoot.label>
+  <OTC_Dominator_MultiCannon_Fire.verbs.Verb_Shoot.label>机械体 脉冲星（火焰）</OTC_Dominator_MultiCannon_Fire.verbs.Verb_Shoot.label>
   
 </LanguageData>

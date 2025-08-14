@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: arm implant - Assassin -->
-  <OE_ImplantArm_Assassin.label>TODO</OE_ImplantArm_Assassin.label>
+  <OE_ImplantArm_Assassin.label>手臂植入体 - 刺客</OE_ImplantArm_Assassin.label>
   <!-- EN: Obsidia arm implant combat-oriented mechanical knife installing into arm. Designed for armor penetration. -->
-  <OE_ImplantArm_Assassin.description>TODO</OE_ImplantArm_Assassin.description>
+  <OE_ImplantArm_Assassin.description>黑曜石手臂植入体，面向战斗的机械刀安装在手臂上。专为穿透护甲设计。</OE_ImplantArm_Assassin.description>
   
   <!-- EN: hand implant - Psy -->
-  <OE_ImplantHand_Psy.label>TODO</OE_ImplantHand_Psy.label>
+  <OE_ImplantHand_Psy.label>手部植入体 - 超能者</OE_ImplantHand_Psy.label>
   <!-- EN: Obsidia hand implant non-combat-oriented mechanical hand replacement for improvements psychic powers. -->
-  <OE_ImplantHand_Psy.description>TODO</OE_ImplantHand_Psy.description>
+  <OE_ImplantHand_Psy.description>黑曜石手部植入体，非战斗导向的机械手替代品，用于改善超能力量。</OE_ImplantHand_Psy.description>
   
 </LanguageData>

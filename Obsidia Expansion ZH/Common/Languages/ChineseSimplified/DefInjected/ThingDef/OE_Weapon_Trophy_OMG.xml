@@ -1,37 +1,37 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Neon Echo notes -->
-  <Bullet_OMG_Trophy_PG.label>TODO</Bullet_OMG_Trophy_PG.label>
+  <Bullet_OMG_Trophy_PG.label>霓虹回声音符</Bullet_OMG_Trophy_PG.label>
   
   <!-- EN: Platebreaker -->
-  <OMG_Trophy_Knife.label>TODO</OMG_Trophy_Knife.label>
+  <OMG_Trophy_Knife.label>破甲刃</OMG_Trophy_Knife.label>
   <!-- EN: Forged with the sole purpose of piercing through armor, Platebreaker is a weapon of war, able to exploit the weakest points in any protection. The dagger’s precision and strength make it lethal in the hands of a skilled warrior.\n\nSpecially modified weapon charged with Necrobane, Stun and EMP damages.\n\nThis modification deprives item's quality levels. -->
-  <OMG_Trophy_Knife.description>TODO</OMG_Trophy_Knife.description>
+  <OMG_Trophy_Knife.description>专门为了穿透护甲而锻造，破甲刃是一种战争武器，能够利用任何防护装备的最薄弱点。这把匕首的精确性和力量使其在熟练战士手中致命。\n\n经过特殊改装的武器，带有死灵克星、眩晕和EMP伤害。\n\n此改装剥夺了物品的品质等级。</OMG_Trophy_Knife.description>
   <!-- EN: handle -->
-  <OMG_Trophy_Knife.tools.handle.label>TODO</OMG_Trophy_Knife.tools.handle.label>
+  <OMG_Trophy_Knife.tools.handle.label>握把</OMG_Trophy_Knife.tools.handle.label>
   <!-- EN: blade -->
-  <OMG_Trophy_Knife.tools.blade.label>TODO</OMG_Trophy_Knife.tools.blade.label>
+  <OMG_Trophy_Knife.tools.blade.label>刀刃</OMG_Trophy_Knife.tools.blade.label>
   <!-- EN: point -->
-  <OMG_Trophy_Knife.tools.point.label>TODO</OMG_Trophy_Knife.tools.point.label>
+  <OMG_Trophy_Knife.tools.point.label>刀尖</OMG_Trophy_Knife.tools.point.label>
   
   <!-- EN: Neon Echo -->
-  <OMG_Trophy_PowerGuitar.label>TODO</OMG_Trophy_PowerGuitar.label>
+  <OMG_Trophy_PowerGuitar.label>霓虹回声</OMG_Trophy_PowerGuitar.label>
   <!-- EN: This cyber-guitar of unknown origin is surrounded by rumors, passed from one owner to the next. According to legends, it once had a life of its own and now carries a strange, haunting resonance.\n\nSpecially modified weapon charged with Necrobane, Stun and EMP damages.\n\nThis modification deprives item's quality levels. -->
-  <OMG_Trophy_PowerGuitar.description>TODO</OMG_Trophy_PowerGuitar.description>
+  <OMG_Trophy_PowerGuitar.description>这把来源不明的赛博吉他被传言包围，从一个主人传到另一个主人。根据传说，它曾经拥有自己的生命，现在带着一种奇怪而令人难忘的共鸣。\n\n经过特殊改装的武器，带有死灵克星、眩晕和EMP伤害。\n\n此改装剥夺了物品的品质等级。</OMG_Trophy_PowerGuitar.description>
   <!-- EN: inferno charge -->
-  <OMG_Trophy_PowerGuitar.comps.CompEquippableAbilityReloadable-0.chargeNoun>TODO</OMG_Trophy_PowerGuitar.comps.CompEquippableAbilityReloadable-0.chargeNoun>
+  <OMG_Trophy_PowerGuitar.comps.CompEquippableAbilityReloadable-0.chargeNoun>地狱充能</OMG_Trophy_PowerGuitar.comps.CompEquippableAbilityReloadable-0.chargeNoun>
   <!-- EN: on cooldown -->
-  <OMG_Trophy_PowerGuitar.comps.CompEquippableAbilityReloadable-0.cooldownGerund>TODO</OMG_Trophy_PowerGuitar.comps.CompEquippableAbilityReloadable-0.cooldownGerund>
+  <OMG_Trophy_PowerGuitar.comps.CompEquippableAbilityReloadable-0.cooldownGerund>冷却中</OMG_Trophy_PowerGuitar.comps.CompEquippableAbilityReloadable-0.cooldownGerund>
   <!-- EN: Neon Echo -->
-  <OMG_Trophy_PowerGuitar.comps.CompUniqueWeapon.namerLabels.0>TODO</OMG_Trophy_PowerGuitar.comps.CompUniqueWeapon.namerLabels.0>
+  <OMG_Trophy_PowerGuitar.comps.CompUniqueWeapon.namerLabels.0>霓虹回声</OMG_Trophy_PowerGuitar.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: charge -->
-  <OMG_Trophy_PowerGuitar.comps.CompEquippableAbilityReloadable-1.chargeNoun>TODO</OMG_Trophy_PowerGuitar.comps.CompEquippableAbilityReloadable-1.chargeNoun>
+  <OMG_Trophy_PowerGuitar.comps.CompEquippableAbilityReloadable-1.chargeNoun>充能</OMG_Trophy_PowerGuitar.comps.CompEquippableAbilityReloadable-1.chargeNoun>
   <!-- EN: on cooldown -->
-  <OMG_Trophy_PowerGuitar.comps.CompEquippableAbilityReloadable-1.cooldownGerund>TODO</OMG_Trophy_PowerGuitar.comps.CompEquippableAbilityReloadable-1.cooldownGerund>
+  <OMG_Trophy_PowerGuitar.comps.CompEquippableAbilityReloadable-1.cooldownGerund>冷却中</OMG_Trophy_PowerGuitar.comps.CompEquippableAbilityReloadable-1.cooldownGerund>
   <!-- EN: head -->
-  <OMG_Trophy_PowerGuitar.tools.head.label>TODO</OMG_Trophy_PowerGuitar.tools.head.label>
+  <OMG_Trophy_PowerGuitar.tools.head.label>琴头</OMG_Trophy_PowerGuitar.tools.head.label>
   <!-- EN: Neon Echo -->
-  <OMG_Trophy_PowerGuitar.verbs.Verb_Shoot.label>TODO</OMG_Trophy_PowerGuitar.verbs.Verb_Shoot.label>
+  <OMG_Trophy_PowerGuitar.verbs.Verb_Shoot.label>霓虹回声</OMG_Trophy_PowerGuitar.verbs.Verb_Shoot.label>
   
 </LanguageData>

@@ -1,21 +1,21 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Paragon Randy's Deck -->
-  <OTC_Trophy_Cards_P.label>TODO</OTC_Trophy_Cards_P.label>
+  <OTC_Trophy_Cards_P.label>卓越兰迪的卡组</OTC_Trophy_Cards_P.label>
   <!-- EN: Paragon deck of combat throwing cards designed by a certain engineer, Randy.\n\nThis is a rare trophy weapon.\n\nFeature: able to deal a random additional type of damage. -->
-  <OTC_Trophy_Cards_P.description>TODO</OTC_Trophy_Cards_P.description>
+  <OTC_Trophy_Cards_P.description>由某位工程师兰迪设计的卓越战斗投掷卡片组。\n\n这是一种稀有的战利品武器。\n\n特性：能够造成随机的额外类型伤害。</OTC_Trophy_Cards_P.description>
   <!-- EN: charge -->
-  <OTC_Trophy_Cards_P.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OTC_Trophy_Cards_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <OTC_Trophy_Cards_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OTC_Trophy_Cards_P.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OTC_Trophy_Cards_P.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OTC_Trophy_Cards_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <OTC_Trophy_Cards_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OTC_Trophy_Cards_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: Paragon Randy's Deck -->
-  <OTC_Trophy_Cards_P.comps.CompUniqueWeapon.namerLabels.0>TODO</OTC_Trophy_Cards_P.comps.CompUniqueWeapon.namerLabels.0>
+  <OTC_Trophy_Cards_P.comps.CompUniqueWeapon.namerLabels.0>卓越兰迪的卡组</OTC_Trophy_Cards_P.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: pouch -->
-  <OTC_Trophy_Cards_P.tools.pouch.label>TODO</OTC_Trophy_Cards_P.tools.pouch.label>
+  <OTC_Trophy_Cards_P.tools.pouch.label>卡包</OTC_Trophy_Cards_P.tools.pouch.label>
   <!-- EN: card -->
-  <OTC_Trophy_Cards_P.tools.card.label>TODO</OTC_Trophy_Cards_P.tools.card.label>
+  <OTC_Trophy_Cards_P.tools.card.label>卡片</OTC_Trophy_Cards_P.tools.card.label>
   <!-- EN: Paragon Randy's Deck -->
-  <OTC_Trophy_Cards_P.verbs.Verb_Shoot.label>TODO</OTC_Trophy_Cards_P.verbs.Verb_Shoot.label>
+  <OTC_Trophy_Cards_P.verbs.Verb_Shoot.label>卓越兰迪的卡组</OTC_Trophy_Cards_P.verbs.Verb_Shoot.label>
   
 </LanguageData>

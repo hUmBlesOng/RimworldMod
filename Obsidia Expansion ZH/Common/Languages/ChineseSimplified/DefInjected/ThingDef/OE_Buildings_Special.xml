@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: ancient NeuroSync obsidia antenna -->
-  <OE_AncientHeroicAntenna.label>TODO</OE_AncientHeroicAntenna.label>
+  <OE_AncientHeroicAntenna.label>远古神经同步黑曜石天线</OE_AncientHeroicAntenna.label>
   <!-- EN: This ancient antenna, once widespread across the Obsidia Empire during the Obsidia Empire Heroes times, was a vital tool used to maintain tireless vigilance and unwavering productivity among its people. This ancient artifact broadcasts a NeuroSync wave that directly affects the brain, eradicating sleep requirements and enhancing cognitive performance. Its field keeps those in range alert and motivated. -->
-  <OE_AncientHeroicAntenna.description>TODO</OE_AncientHeroicAntenna.description>
+  <OE_AncientHeroicAntenna.description>这种远古天线曾在黑曜石帝国英雄时代广泛分布于整个帝国，是维持人民不懈警戒和坚定生产力的重要工具。这件远古神器广播神经同步波，直接影响大脑，消除睡眠需求并增强认知能力。其力场使范围内的人员保持警觉和积极。</OE_AncientHeroicAntenna.description>
   
   <!-- EN: obsidia broken drill -->
-  <OE_BrokenDrill.label>TODO</OE_BrokenDrill.label>
+  <OE_BrokenDrill.label>黑曜石破损钻机</OE_BrokenDrill.label>
   <!-- EN: Old Obsidia deep drill prototype. Unusable for drilling rig for extracting minerals from deep under the surface. But still can disturb something living in the depths. -->
-  <OE_BrokenDrill.description>TODO</OE_BrokenDrill.description>
+  <OE_BrokenDrill.description>老旧的黑曜石深钻原型机。无法用于钻探设备从地表深处提取矿物。但仍可能惊扰深处的某些生物。</OE_BrokenDrill.description>
   
 </LanguageData>

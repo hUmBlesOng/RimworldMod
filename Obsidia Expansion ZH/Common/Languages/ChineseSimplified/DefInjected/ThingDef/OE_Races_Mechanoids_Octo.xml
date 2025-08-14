@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Octo-Bot -->
-  <OE_Mech_Octo.label>TODO</OE_Mech_Octo.label>
+  <OE_Mech_Octo.label>八爪机器人</OE_Mech_Octo.label>
   <!-- EN: A mechanoid designed as worker. Lacking a ranged weapon, it can make only weak melee attacks. Octo-Bot is designed to perform a large number of tasks such as construction, crafting, hauling, mining, smithing, and tailoring. -->
-  <OE_Mech_Octo.description>TODO</OE_Mech_Octo.description>
+  <OE_Mech_Octo.description>一种设计为工人的机械体。缺乏远程武器，只能进行微弱的近战攻击。八爪机器人被设计用来执行大量任务，如建筑、制造、搬运、采矿、锻造和裁缝。</OE_Mech_Octo.description>
   <!-- EN: head -->
-  <OE_Mech_Octo.tools.head-0.label>TODO</OE_Mech_Octo.tools.head-0.label>
+  <OE_Mech_Octo.tools.head-0.label>头部</OE_Mech_Octo.tools.head-0.label>
   <!-- EN: tentacle -->
-  <OE_Mech_Octo.tools.tentacle.label>TODO</OE_Mech_Octo.tools.tentacle.label>
+  <OE_Mech_Octo.tools.tentacle.label>触手</OE_Mech_Octo.tools.tentacle.label>
   <!-- EN: head -->
-  <OE_Mech_Octo.tools.head-1.label>TODO</OE_Mech_Octo.tools.head-1.label>
+  <OE_Mech_Octo.tools.head-1.label>头部</OE_Mech_Octo.tools.head-1.label>
   
 </LanguageData>

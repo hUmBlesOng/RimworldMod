@@ -1,23 +1,23 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Syntherius of Sin -->
-  <OE_SyntheriusOfSin.label>TODO</OE_SyntheriusOfSin.label>
+  <OE_SyntheriusOfSin.label>罪恶合成素</OE_SyntheriusOfSin.label>
   <!-- EN: A fragment of a strange Syntherius used at the heart of the Fallen Legion. -->
-  <OE_SyntheriusOfSin.description>TODO</OE_SyntheriusOfSin.description>
+  <OE_SyntheriusOfSin.description>堕落军团核心使用的奇异合成素碎片。</OE_SyntheriusOfSin.description>
   <!-- EN: Analyze the Syntherius Of Sin. -->
-  <OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.activateDescString>TODO</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.activateDescString>
+  <OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.activateDescString>分析罪恶合成素。</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.activateDescString>
   <!-- EN: Analyze... -->
-  <OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.activateLabelString>TODO</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.activateLabelString>
+  <OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.activateLabelString>分析...</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.activateLabelString>
   <!-- EN: By studying the {PARENT_label}, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology. -->
-  <OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.completedLetter>TODO</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.completedLetter>
+  <OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.completedLetter>通过研究{PARENT_label}，{PAWN_labelShort}获得了研究项目{RESEARCH}所需的知识。\n\n您的研究人员现在可以使用研究台开始研究如何实际使用这项技术。</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.completedLetter>
   <!-- EN: {PARENT_label} studied: {RESEARCH} unlocked -->
-  <OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.completedLetterLabel>TODO</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+  <OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.completedLetterLabel>{PARENT_label}已研究：{RESEARCH}已解锁</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
   <!-- EN: Choose who should analyze this -->
-  <OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.guiLabelString>TODO</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.guiLabelString>
+  <OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.guiLabelString>选择谁应该分析这个</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.guiLabelString>
   <!-- EN: Can be analyzed by a colonist. -->
-  <OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.inspectString>TODO</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.inspectString>
+  <OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.inspectString>可由殖民者分析。</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.inspectString>
   <!-- EN: Analyze Syntherius Of Sin -->
-  <OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.jobString>TODO</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.jobString>
+  <OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.jobString>分析罪恶合成素</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.jobString>
   
 </LanguageData>

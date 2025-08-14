@@ -1,31 +1,31 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Persona Genesis Prototype(EMP) -->
-  <OTC_BigAxe_P_EMP.label>TODO</OTC_BigAxe_P_EMP.label>
+  <OTC_BigAxe_P_EMP.label>人格起源原型（电磁）</OTC_BigAxe_P_EMP.label>
   <!-- EN: Persona Experimental Big Axe used by OTC Engineers. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
-  <OTC_BigAxe_P_EMP.description>TODO</OTC_BigAxe_P_EMP.description>
+  <OTC_BigAxe_P_EMP.description>OTC工程师使用的人格实验性大斧。充能电磁伤害。\n\n警告！电磁伤害并非旨在摧毁血肉之躯。</OTC_BigAxe_P_EMP.description>
   <!-- EN: handle -->
-  <OTC_BigAxe_P_EMP.tools.handle.label>TODO</OTC_BigAxe_P_EMP.tools.handle.label>
+  <OTC_BigAxe_P_EMP.tools.handle.label>手柄</OTC_BigAxe_P_EMP.tools.handle.label>
   <!-- EN: edge -->
-  <OTC_BigAxe_P_EMP.tools.edge.label>TODO</OTC_BigAxe_P_EMP.tools.edge.label>
+  <OTC_BigAxe_P_EMP.tools.edge.label>刀刃</OTC_BigAxe_P_EMP.tools.edge.label>
   
   <!-- EN: Persona Nemesis Prototype(EMP) -->
-  <OTC_ChainAxe_P_EMP.label>TODO</OTC_ChainAxe_P_EMP.label>
+  <OTC_ChainAxe_P_EMP.label>人格地狱灾星原型（电磁）</OTC_ChainAxe_P_EMP.label>
   <!-- EN: Persona Experimental ChainAxe used by OTC Engineers. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
-  <OTC_ChainAxe_P_EMP.description>TODO</OTC_ChainAxe_P_EMP.description>
+  <OTC_ChainAxe_P_EMP.description>OTC工程师使用的人格实验性链锯斧。充能电磁伤害。\n\n警告！电磁伤害并非旨在摧毁血肉之躯。</OTC_ChainAxe_P_EMP.description>
   <!-- EN: handle -->
-  <OTC_ChainAxe_P_EMP.tools.handle.label>TODO</OTC_ChainAxe_P_EMP.tools.handle.label>
+  <OTC_ChainAxe_P_EMP.tools.handle.label>手柄</OTC_ChainAxe_P_EMP.tools.handle.label>
   <!-- EN: chain -->
-  <OTC_ChainAxe_P_EMP.tools.chain.label>TODO</OTC_ChainAxe_P_EMP.tools.chain.label>
+  <OTC_ChainAxe_P_EMP.tools.chain.label>链条</OTC_ChainAxe_P_EMP.tools.chain.label>
   
   <!-- EN: Persona Nemesis Prototype(EMP) -->
-  <OTC_Hammer_P_EMP.label>TODO</OTC_Hammer_P_EMP.label>
+  <OTC_Hammer_P_EMP.label>人格复仇者原型（电磁）</OTC_Hammer_P_EMP.label>
   <!-- EN: Persona Experimental Hammer used by OTC Engineers. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
-  <OTC_Hammer_P_EMP.description>TODO</OTC_Hammer_P_EMP.description>
+  <OTC_Hammer_P_EMP.description>OTC工程师使用的人格实验性锤子。充能电磁伤害。\n\n警告！电磁伤害并非旨在摧毁血肉之躯。</OTC_Hammer_P_EMP.description>
   <!-- EN: handle -->
-  <OTC_Hammer_P_EMP.tools.handle.label>TODO</OTC_Hammer_P_EMP.tools.handle.label>
+  <OTC_Hammer_P_EMP.tools.handle.label>手柄</OTC_Hammer_P_EMP.tools.handle.label>
   <!-- EN: head -->
-  <OTC_Hammer_P_EMP.tools.head.label>TODO</OTC_Hammer_P_EMP.tools.head.label>
+  <OTC_Hammer_P_EMP.tools.head.label>锤头</OTC_Hammer_P_EMP.tools.head.label>
   
 </LanguageData>

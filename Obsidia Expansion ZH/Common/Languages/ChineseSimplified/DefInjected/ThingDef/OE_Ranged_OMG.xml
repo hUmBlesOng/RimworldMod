@@ -1,122 +1,122 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Void Shredder bullet -->
-  <Bullet_OMG_MG.label>TODO</Bullet_OMG_MG.label>
+  <Bullet_OMG_MG.label>虚空撕裂者子弹</Bullet_OMG_MG.label>
   
   <!-- EN: Nanofire bullet -->
-  <Bullet_OMG_P.label>TODO</Bullet_OMG_P.label>
+  <Bullet_OMG_P.label>纳米火焰子弹</Bullet_OMG_P.label>
   
   <!-- EN: Datashot bullet -->
-  <Bullet_OMG_R.label>TODO</Bullet_OMG_R.label>
+  <Bullet_OMG_R.label>数据射击子弹</Bullet_OMG_R.label>
   
   <!-- EN: Bytecrusher blast -->
-  <Bullet_OMG_S.label>TODO</Bullet_OMG_S.label>
+  <Bullet_OMG_S.label>字节粉碎爆炸</Bullet_OMG_S.label>
   
   <!-- EN: Etherstrike bullet -->
-  <Bullet_OMG_SR.label>TODO</Bullet_OMG_SR.label>
+  <Bullet_OMG_SR.label>以太打击子弹</Bullet_OMG_SR.label>
   
   <!-- EN: Void Shredder -->
-  <OMG_Minigun.label>TODO</OMG_Minigun.label>
+  <OMG_Minigun.label>虚空撕裂者</OMG_Minigun.label>
   <!-- EN: Highly modified Minigun used by Mercenaries. Specially modified weapon charged with Necrobane and EMP damages.\n\nThis modification deprives item's quality levels. -->
-  <OMG_Minigun.description>TODO</OMG_Minigun.description>
+  <OMG_Minigun.description>雇佣兵使用的高度改装迷你枪。经过特殊改装的武器，带有死灵毒素和EMP伤害。\n\n这种改装会剥夺物品的品质等级。</OMG_Minigun.description>
   <!-- EN: inferno charge -->
-  <OMG_Minigun.comps.CompEquippableAbilityReloadable-0.chargeNoun>TODO</OMG_Minigun.comps.CompEquippableAbilityReloadable-0.chargeNoun>
+  <OMG_Minigun.comps.CompEquippableAbilityReloadable-0.chargeNoun>地狱充能</OMG_Minigun.comps.CompEquippableAbilityReloadable-0.chargeNoun>
   <!-- EN: on cooldown -->
-  <OMG_Minigun.comps.CompEquippableAbilityReloadable-0.cooldownGerund>TODO</OMG_Minigun.comps.CompEquippableAbilityReloadable-0.cooldownGerund>
+  <OMG_Minigun.comps.CompEquippableAbilityReloadable-0.cooldownGerund>冷却中</OMG_Minigun.comps.CompEquippableAbilityReloadable-0.cooldownGerund>
   <!-- EN: Void Shredder -->
-  <OMG_Minigun.comps.CompUniqueWeapon.namerLabels.0>TODO</OMG_Minigun.comps.CompUniqueWeapon.namerLabels.0>
+  <OMG_Minigun.comps.CompUniqueWeapon.namerLabels.0>虚空撕裂者</OMG_Minigun.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: charge -->
-  <OMG_Minigun.comps.CompEquippableAbilityReloadable-1.chargeNoun>TODO</OMG_Minigun.comps.CompEquippableAbilityReloadable-1.chargeNoun>
+  <OMG_Minigun.comps.CompEquippableAbilityReloadable-1.chargeNoun>充能</OMG_Minigun.comps.CompEquippableAbilityReloadable-1.chargeNoun>
   <!-- EN: on cooldown -->
-  <OMG_Minigun.comps.CompEquippableAbilityReloadable-1.cooldownGerund>TODO</OMG_Minigun.comps.CompEquippableAbilityReloadable-1.cooldownGerund>
+  <OMG_Minigun.comps.CompEquippableAbilityReloadable-1.cooldownGerund>冷却中</OMG_Minigun.comps.CompEquippableAbilityReloadable-1.cooldownGerund>
   <!-- EN: barrels -->
-  <OMG_Minigun.tools.barrels.label>TODO</OMG_Minigun.tools.barrels.label>
+  <OMG_Minigun.tools.barrels.label>枪管</OMG_Minigun.tools.barrels.label>
   <!-- EN: Void Shredder -->
-  <OMG_Minigun.verbs.Verb_Shoot.label>TODO</OMG_Minigun.verbs.Verb_Shoot.label>
+  <OMG_Minigun.verbs.Verb_Shoot.label>虚空撕裂者</OMG_Minigun.verbs.Verb_Shoot.label>
   
   <!-- EN: Nanofire -->
-  <OMG_Pistol.label>TODO</OMG_Pistol.label>
+  <OMG_Pistol.label>纳米火焰</OMG_Pistol.label>
   <!-- EN: Highly modified Pistol used by Mercenaries. Specially modified weapon charged with Necrobane and EMP damages.\n\nThis modification deprives item's quality levels. -->
-  <OMG_Pistol.description>TODO</OMG_Pistol.description>
+  <OMG_Pistol.description>雇佣兵使用的高度改装手枪。经过特殊改装的武器，带有死灵毒素和EMP伤害。\n\n这种改装会剥夺物品的品质等级。</OMG_Pistol.description>
   <!-- EN: ignite charge -->
-  <OMG_Pistol.comps.CompEquippableAbilityReloadable-0.chargeNoun>TODO</OMG_Pistol.comps.CompEquippableAbilityReloadable-0.chargeNoun>
+  <OMG_Pistol.comps.CompEquippableAbilityReloadable-0.chargeNoun>点燃充能</OMG_Pistol.comps.CompEquippableAbilityReloadable-0.chargeNoun>
   <!-- EN: on cooldown -->
-  <OMG_Pistol.comps.CompEquippableAbilityReloadable-0.cooldownGerund>TODO</OMG_Pistol.comps.CompEquippableAbilityReloadable-0.cooldownGerund>
+  <OMG_Pistol.comps.CompEquippableAbilityReloadable-0.cooldownGerund>冷却中</OMG_Pistol.comps.CompEquippableAbilityReloadable-0.cooldownGerund>
   <!-- EN: Nanofire -->
-  <OMG_Pistol.comps.CompUniqueWeapon.namerLabels.0>TODO</OMG_Pistol.comps.CompUniqueWeapon.namerLabels.0>
+  <OMG_Pistol.comps.CompUniqueWeapon.namerLabels.0>纳米火焰</OMG_Pistol.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: charge -->
-  <OMG_Pistol.comps.CompEquippableAbilityReloadable-1.chargeNoun>TODO</OMG_Pistol.comps.CompEquippableAbilityReloadable-1.chargeNoun>
+  <OMG_Pistol.comps.CompEquippableAbilityReloadable-1.chargeNoun>充能</OMG_Pistol.comps.CompEquippableAbilityReloadable-1.chargeNoun>
   <!-- EN: on cooldown -->
-  <OMG_Pistol.comps.CompEquippableAbilityReloadable-1.cooldownGerund>TODO</OMG_Pistol.comps.CompEquippableAbilityReloadable-1.cooldownGerund>
+  <OMG_Pistol.comps.CompEquippableAbilityReloadable-1.cooldownGerund>冷却中</OMG_Pistol.comps.CompEquippableAbilityReloadable-1.cooldownGerund>
   <!-- EN: grip -->
-  <OMG_Pistol.tools.grip.label>TODO</OMG_Pistol.tools.grip.label>
+  <OMG_Pistol.tools.grip.label>握把</OMG_Pistol.tools.grip.label>
   <!-- EN: barrel -->
-  <OMG_Pistol.tools.barrel.label>TODO</OMG_Pistol.tools.barrel.label>
+  <OMG_Pistol.tools.barrel.label>枪管</OMG_Pistol.tools.barrel.label>
   <!-- EN: Nanofire -->
-  <OMG_Pistol.verbs.Verb_Shoot.label>TODO</OMG_Pistol.verbs.Verb_Shoot.label>
+  <OMG_Pistol.verbs.Verb_Shoot.label>纳米火焰</OMG_Pistol.verbs.Verb_Shoot.label>
   
   <!-- EN: Datashot -->
-  <OMG_Revolver.label>TODO</OMG_Revolver.label>
+  <OMG_Revolver.label>数据射击</OMG_Revolver.label>
   <!-- EN: Highly modified Revolver used by Mercenaries. Specially modified weapon charged with Necrobane and EMP damages.\n\nThis modification deprives item's quality levels. -->
-  <OMG_Revolver.description>TODO</OMG_Revolver.description>
+  <OMG_Revolver.description>雇佣兵使用的高度改装左轮手枪。经过特殊改装的武器，带有死灵毒素和EMP伤害。\n\n这种改装会剥夺物品的品质等级。</OMG_Revolver.description>
   <!-- EN: ignite charge -->
-  <OMG_Revolver.comps.CompEquippableAbilityReloadable-0.chargeNoun>TODO</OMG_Revolver.comps.CompEquippableAbilityReloadable-0.chargeNoun>
+  <OMG_Revolver.comps.CompEquippableAbilityReloadable-0.chargeNoun>点燃充能</OMG_Revolver.comps.CompEquippableAbilityReloadable-0.chargeNoun>
   <!-- EN: on cooldown -->
-  <OMG_Revolver.comps.CompEquippableAbilityReloadable-0.cooldownGerund>TODO</OMG_Revolver.comps.CompEquippableAbilityReloadable-0.cooldownGerund>
+  <OMG_Revolver.comps.CompEquippableAbilityReloadable-0.cooldownGerund>冷却中</OMG_Revolver.comps.CompEquippableAbilityReloadable-0.cooldownGerund>
   <!-- EN: Datashot -->
-  <OMG_Revolver.comps.CompUniqueWeapon.namerLabels.0>TODO</OMG_Revolver.comps.CompUniqueWeapon.namerLabels.0>
+  <OMG_Revolver.comps.CompUniqueWeapon.namerLabels.0>数据射击</OMG_Revolver.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: charge -->
-  <OMG_Revolver.comps.CompEquippableAbilityReloadable-1.chargeNoun>TODO</OMG_Revolver.comps.CompEquippableAbilityReloadable-1.chargeNoun>
+  <OMG_Revolver.comps.CompEquippableAbilityReloadable-1.chargeNoun>充能</OMG_Revolver.comps.CompEquippableAbilityReloadable-1.chargeNoun>
   <!-- EN: on cooldown -->
-  <OMG_Revolver.comps.CompEquippableAbilityReloadable-1.cooldownGerund>TODO</OMG_Revolver.comps.CompEquippableAbilityReloadable-1.cooldownGerund>
+  <OMG_Revolver.comps.CompEquippableAbilityReloadable-1.cooldownGerund>冷却中</OMG_Revolver.comps.CompEquippableAbilityReloadable-1.cooldownGerund>
   <!-- EN: grip -->
-  <OMG_Revolver.tools.grip.label>TODO</OMG_Revolver.tools.grip.label>
+  <OMG_Revolver.tools.grip.label>握把</OMG_Revolver.tools.grip.label>
   <!-- EN: barrel -->
-  <OMG_Revolver.tools.barrel.label>TODO</OMG_Revolver.tools.barrel.label>
+  <OMG_Revolver.tools.barrel.label>枪管</OMG_Revolver.tools.barrel.label>
   <!-- EN: Datashot -->
-  <OMG_Revolver.verbs.Verb_Shoot.label>TODO</OMG_Revolver.verbs.Verb_Shoot.label>
+  <OMG_Revolver.verbs.Verb_Shoot.label>数据射击</OMG_Revolver.verbs.Verb_Shoot.label>
   
   <!-- EN: Bytecrusher -->
-  <OMG_Shotgun.label>TODO</OMG_Shotgun.label>
+  <OMG_Shotgun.label>字节粉碎</OMG_Shotgun.label>
   <!-- EN: Highly modified Shotgun used by Mercenaries. Specially modified weapon charged with Necrobane and EMP damages.\n\nThis modification deprives item's quality levels. -->
-  <OMG_Shotgun.description>TODO</OMG_Shotgun.description>
+  <OMG_Shotgun.description>雇佣兵使用的高度改装霰弹枪。经过特殊改装的武器，带有死灵毒素和EMP伤害。\n\n这种改装会剥夺物品的品质等级。</OMG_Shotgun.description>
   <!-- EN: burner charge -->
-  <OMG_Shotgun.comps.CompEquippableAbilityReloadable-0.chargeNoun>TODO</OMG_Shotgun.comps.CompEquippableAbilityReloadable-0.chargeNoun>
+  <OMG_Shotgun.comps.CompEquippableAbilityReloadable-0.chargeNoun>燃烧充能</OMG_Shotgun.comps.CompEquippableAbilityReloadable-0.chargeNoun>
   <!-- EN: on cooldown -->
-  <OMG_Shotgun.comps.CompEquippableAbilityReloadable-0.cooldownGerund>TODO</OMG_Shotgun.comps.CompEquippableAbilityReloadable-0.cooldownGerund>
+  <OMG_Shotgun.comps.CompEquippableAbilityReloadable-0.cooldownGerund>冷却中</OMG_Shotgun.comps.CompEquippableAbilityReloadable-0.cooldownGerund>
   <!-- EN: Bytecrusher -->
-  <OMG_Shotgun.comps.CompUniqueWeapon.namerLabels.0>TODO</OMG_Shotgun.comps.CompUniqueWeapon.namerLabels.0>
+  <OMG_Shotgun.comps.CompUniqueWeapon.namerLabels.0>字节粉碎</OMG_Shotgun.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: charge -->
-  <OMG_Shotgun.comps.CompEquippableAbilityReloadable-1.chargeNoun>TODO</OMG_Shotgun.comps.CompEquippableAbilityReloadable-1.chargeNoun>
+  <OMG_Shotgun.comps.CompEquippableAbilityReloadable-1.chargeNoun>充能</OMG_Shotgun.comps.CompEquippableAbilityReloadable-1.chargeNoun>
   <!-- EN: on cooldown -->
-  <OMG_Shotgun.comps.CompEquippableAbilityReloadable-1.cooldownGerund>TODO</OMG_Shotgun.comps.CompEquippableAbilityReloadable-1.cooldownGerund>
+  <OMG_Shotgun.comps.CompEquippableAbilityReloadable-1.cooldownGerund>冷却中</OMG_Shotgun.comps.CompEquippableAbilityReloadable-1.cooldownGerund>
   <!-- EN: stock -->
-  <OMG_Shotgun.tools.stock.label>TODO</OMG_Shotgun.tools.stock.label>
+  <OMG_Shotgun.tools.stock.label>枪托</OMG_Shotgun.tools.stock.label>
   <!-- EN: barrel -->
-  <OMG_Shotgun.tools.barrel.label>TODO</OMG_Shotgun.tools.barrel.label>
+  <OMG_Shotgun.tools.barrel.label>枪管</OMG_Shotgun.tools.barrel.label>
   <!-- EN: Bytecrusher -->
-  <OMG_Shotgun.verbs.Verb_Shoot.label>TODO</OMG_Shotgun.verbs.Verb_Shoot.label>
+  <OMG_Shotgun.verbs.Verb_Shoot.label>字节粉碎</OMG_Shotgun.verbs.Verb_Shoot.label>
   
   <!-- EN: Etherstrike -->
-  <OMG_SniperRifle.label>TODO</OMG_SniperRifle.label>
+  <OMG_SniperRifle.label>以太打击</OMG_SniperRifle.label>
   <!-- EN: Highly modified Sniper Rifle used by Mercenaries. Specially modified weapon charged with Necrobane and EMP damages.\n\nThis modification deprives item's quality levels. -->
-  <OMG_SniperRifle.description>TODO</OMG_SniperRifle.description>
+  <OMG_SniperRifle.description>雇佣兵使用的高度改装狙击步枪。经过特殊改装的武器，带有死灵毒素和EMP伤害。\n\n这种改装会剥夺物品的品质等级。</OMG_SniperRifle.description>
   <!-- EN: burner charge -->
-  <OMG_SniperRifle.comps.CompEquippableAbilityReloadable-0.chargeNoun>TODO</OMG_SniperRifle.comps.CompEquippableAbilityReloadable-0.chargeNoun>
+  <OMG_SniperRifle.comps.CompEquippableAbilityReloadable-0.chargeNoun>燃烧充能</OMG_SniperRifle.comps.CompEquippableAbilityReloadable-0.chargeNoun>
   <!-- EN: on cooldown -->
-  <OMG_SniperRifle.comps.CompEquippableAbilityReloadable-0.cooldownGerund>TODO</OMG_SniperRifle.comps.CompEquippableAbilityReloadable-0.cooldownGerund>
+  <OMG_SniperRifle.comps.CompEquippableAbilityReloadable-0.cooldownGerund>冷却中</OMG_SniperRifle.comps.CompEquippableAbilityReloadable-0.cooldownGerund>
   <!-- EN: Etherstrike -->
-  <OMG_SniperRifle.comps.CompUniqueWeapon.namerLabels.0>TODO</OMG_SniperRifle.comps.CompUniqueWeapon.namerLabels.0>
+  <OMG_SniperRifle.comps.CompUniqueWeapon.namerLabels.0>以太打击</OMG_SniperRifle.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: charge -->
-  <OMG_SniperRifle.comps.CompEquippableAbilityReloadable-1.chargeNoun>TODO</OMG_SniperRifle.comps.CompEquippableAbilityReloadable-1.chargeNoun>
+  <OMG_SniperRifle.comps.CompEquippableAbilityReloadable-1.chargeNoun>充能</OMG_SniperRifle.comps.CompEquippableAbilityReloadable-1.chargeNoun>
   <!-- EN: on cooldown -->
-  <OMG_SniperRifle.comps.CompEquippableAbilityReloadable-1.cooldownGerund>TODO</OMG_SniperRifle.comps.CompEquippableAbilityReloadable-1.cooldownGerund>
+  <OMG_SniperRifle.comps.CompEquippableAbilityReloadable-1.cooldownGerund>冷却中</OMG_SniperRifle.comps.CompEquippableAbilityReloadable-1.cooldownGerund>
   <!-- EN: stock -->
-  <OMG_SniperRifle.tools.stock.label>TODO</OMG_SniperRifle.tools.stock.label>
+  <OMG_SniperRifle.tools.stock.label>枪托</OMG_SniperRifle.tools.stock.label>
   <!-- EN: barrel -->
-  <OMG_SniperRifle.tools.barrel.label>TODO</OMG_SniperRifle.tools.barrel.label>
+  <OMG_SniperRifle.tools.barrel.label>枪管</OMG_SniperRifle.tools.barrel.label>
   <!-- EN: Etherstrike -->
-  <OMG_SniperRifle.verbs.Verb_Shoot.label>TODO</OMG_SniperRifle.verbs.Verb_Shoot.label>
+  <OMG_SniperRifle.verbs.Verb_Shoot.label>以太打击</OMG_SniperRifle.verbs.Verb_Shoot.label>
   
 </LanguageData>

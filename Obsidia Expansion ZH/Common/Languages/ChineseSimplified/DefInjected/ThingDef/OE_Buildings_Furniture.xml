@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: obsidia book archive -->
-  <OE_Bookarchive.label>TODO</OE_Bookarchive.label>
+  <OE_Bookarchive.label>黑曜石书籍档案馆</OE_Bookarchive.label>
   <!-- EN: The obsidia book archive serves for safely storing 20 books. Books stored here will passively enhance academic work done nearby, and increase the beauty of the bookcase. The stored books will never deteriorate. -->
-  <OE_Bookarchive.description>TODO</OE_Bookarchive.description>
+  <OE_Bookarchive.description>黑曜石书籍档案馆可安全储存20本书籍。储存在这里的书籍会被动增强附近的学术工作，并增加书柜的美观度。储存的书籍永远不会劣化。</OE_Bookarchive.description>
   
 </LanguageData>

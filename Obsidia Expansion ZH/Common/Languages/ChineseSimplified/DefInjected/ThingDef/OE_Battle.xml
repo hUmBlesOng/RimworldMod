@@ -1,22 +1,22 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: joltixin -->
-  <OE_Joltixin.label>TODO</OE_Joltixin.label>
+  <OE_Joltixin.label>电流素</OE_Joltixin.label>
   <!-- EN: A specialized combat stimpack with 3 stages of effect (the effect weakens over time), intended for use by gunners. Obsidia technology, a stimpack can be addictive and has unpleasant side effects. -->
-  <OE_Joltixin.description>TODO</OE_Joltixin.description>
+  <OE_Joltixin.description>一种专门的战斗兴奋剂，具有3个效果阶段（效果随时间减弱），专为枪手使用而设计。黑曜石技术，兴奋剂可能成瘾并有不愉快的副作用。</OE_Joltixin.description>
   <!-- EN: Take {0} -->
-  <OE_Joltixin.ingestible.ingestCommandString>TODO</OE_Joltixin.ingestible.ingestCommandString>
+  <OE_Joltixin.ingestible.ingestCommandString>服用{0}</OE_Joltixin.ingestible.ingestCommandString>
   <!-- EN: Taking {0}. -->
-  <OE_Joltixin.ingestible.ingestReportString>TODO</OE_Joltixin.ingestible.ingestReportString>
+  <OE_Joltixin.ingestible.ingestReportString>正在服用{0}。</OE_Joltixin.ingestible.ingestReportString>
   
   <!-- EN: torraxin -->
-  <OE_Torraxin.label>TODO</OE_Torraxin.label>
+  <OE_Torraxin.label>雷霆素</OE_Torraxin.label>
   <!-- EN: A specialized combat stimpack with 3 stages of effect (the effect weakens over time), intended for use by melee fighters. Obsidia technology, a stimpack can be addictive and has unpleasant side effects. -->
-  <OE_Torraxin.description>TODO</OE_Torraxin.description>
+  <OE_Torraxin.description>一种专门的战斗兴奋剂，具有3个效果阶段（效果随时间减弱），专为近战战士使用而设计。黑曜石技术，兴奋剂可能成瘾并有不愉快的副作用。</OE_Torraxin.description>
   <!-- EN: Take {0} -->
-  <OE_Torraxin.ingestible.ingestCommandString>TODO</OE_Torraxin.ingestible.ingestCommandString>
+  <OE_Torraxin.ingestible.ingestCommandString>服用{0}</OE_Torraxin.ingestible.ingestCommandString>
   <!-- EN: Taking {0}. -->
-  <OE_Torraxin.ingestible.ingestReportString>TODO</OE_Torraxin.ingestible.ingestReportString>
+  <OE_Torraxin.ingestible.ingestReportString>正在服用{0}。</OE_Torraxin.ingestible.ingestReportString>
   
 </LanguageData>

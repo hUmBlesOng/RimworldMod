@@ -1,57 +1,57 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: CAC Blackout Turret -->
-  <CAC_Turret_Big.label>TODO</CAC_Turret_Big.label>
+  <CAC_Turret_Big.label>CAC黑障炮塔</CAC_Turret_Big.label>
   <!-- EN: An automatic CAC Minigun-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
-  <CAC_Turret_Big.description>TODO</CAC_Turret_Big.description>
+  <CAC_Turret_Big.description>一种自动CAC迷你枪炮塔。需要黑曜石弹药包作为燃料。其简单的AI大脑无法直接控制，因此需要注意友军火力。</CAC_Turret_Big.description>
   <!-- EN: Fuel capacity -->
-  <CAC_Turret_Big.comps.CompRefuelable.fuelGizmoLabel>TODO</CAC_Turret_Big.comps.CompRefuelable.fuelGizmoLabel>
+  <CAC_Turret_Big.comps.CompRefuelable.fuelGizmoLabel>燃料容量</CAC_Turret_Big.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Shoots until run out of charges -->
-  <CAC_Turret_Big.comps.CompRefuelable.fuelLabel>TODO</CAC_Turret_Big.comps.CompRefuelable.fuelLabel>
+  <CAC_Turret_Big.comps.CompRefuelable.fuelLabel>射击直至耗尽充能</CAC_Turret_Big.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
-  <CAC_Turret_Big.comps.CompRefuelable.outOfFuelMessage>TODO</CAC_Turret_Big.comps.CompRefuelable.outOfFuelMessage>
+  <CAC_Turret_Big.comps.CompRefuelable.outOfFuelMessage>无法射击：需要黑曜石弹药包</CAC_Turret_Big.comps.CompRefuelable.outOfFuelMessage>
   
   <!-- EN: CAC Widowmaker Turret -->
-  <CAC_Turret_Small.label>TODO</CAC_Turret_Small.label>
+  <CAC_Turret_Small.label>CAC寡妇制造者炮塔</CAC_Turret_Small.label>
   <!-- EN: An automatic CAC Sniper Rifle-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
-  <CAC_Turret_Small.description>TODO</CAC_Turret_Small.description>
+  <CAC_Turret_Small.description>一种自动CAC狙击步枪炮塔。需要黑曜石弹药包作为燃料。其简单的AI大脑无法直接控制，因此需要注意友军火力。</CAC_Turret_Small.description>
   <!-- EN: Fuel capacity -->
-  <CAC_Turret_Small.comps.CompRefuelable.fuelGizmoLabel>TODO</CAC_Turret_Small.comps.CompRefuelable.fuelGizmoLabel>
+  <CAC_Turret_Small.comps.CompRefuelable.fuelGizmoLabel>燃料容量</CAC_Turret_Small.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Shoots until run out of charges -->
-  <CAC_Turret_Small.comps.CompRefuelable.fuelLabel>TODO</CAC_Turret_Small.comps.CompRefuelable.fuelLabel>
+  <CAC_Turret_Small.comps.CompRefuelable.fuelLabel>射击直至耗尽充能</CAC_Turret_Small.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
-  <CAC_Turret_Small.comps.CompRefuelable.outOfFuelMessage>TODO</CAC_Turret_Small.comps.CompRefuelable.outOfFuelMessage>
+  <CAC_Turret_Small.comps.CompRefuelable.outOfFuelMessage>无法射击：需要黑曜石弹药包</CAC_Turret_Small.comps.CompRefuelable.outOfFuelMessage>
   
   <!-- EN: CAC Widowmaker Powered Turret -->
-  <CAC_Turret_SmallPowered.label>TODO</CAC_Turret_SmallPowered.label>
+  <CAC_Turret_SmallPowered.label>CAC寡妇制造者动力炮塔</CAC_Turret_SmallPowered.label>
   <!-- EN: An automatic CAC Sniper Rifle-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire.\n\nThis turret has a built-in generator. -->
-  <CAC_Turret_SmallPowered.description>TODO</CAC_Turret_SmallPowered.description>
+  <CAC_Turret_SmallPowered.description>一种自动CAC狙击步枪炮塔。需要黑曜石弹药包作为燃料。其简单的AI大脑无法直接控制，因此需要注意友军火力。\n\n该炮塔内置发电机。</CAC_Turret_SmallPowered.description>
   <!-- EN: Fuel capacity -->
-  <CAC_Turret_SmallPowered.comps.CompRefuelable.fuelGizmoLabel>TODO</CAC_Turret_SmallPowered.comps.CompRefuelable.fuelGizmoLabel>
+  <CAC_Turret_SmallPowered.comps.CompRefuelable.fuelGizmoLabel>燃料容量</CAC_Turret_SmallPowered.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Shoots until run out of charges -->
-  <CAC_Turret_SmallPowered.comps.CompRefuelable.fuelLabel>TODO</CAC_Turret_SmallPowered.comps.CompRefuelable.fuelLabel>
+  <CAC_Turret_SmallPowered.comps.CompRefuelable.fuelLabel>射击直至耗尽充能</CAC_Turret_SmallPowered.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
-  <CAC_Turret_SmallPowered.comps.CompRefuelable.outOfFuelMessage>TODO</CAC_Turret_SmallPowered.comps.CompRefuelable.outOfFuelMessage>
+  <CAC_Turret_SmallPowered.comps.CompRefuelable.outOfFuelMessage>无法射击：需要黑曜石弹药包</CAC_Turret_SmallPowered.comps.CompRefuelable.outOfFuelMessage>
   
   <!-- EN: blackout turret bullet -->
-  <CAC_TurretBullet_Big.label>TODO</CAC_TurretBullet_Big.label>
+  <CAC_TurretBullet_Big.label>黑障炮塔子弹</CAC_TurretBullet_Big.label>
   
   <!-- EN: widowmaker turret bullet -->
-  <CAC_TurretBullet_Small.label>TODO</CAC_TurretBullet_Small.label>
+  <CAC_TurretBullet_Small.label>寡妇制造者炮塔子弹</CAC_TurretBullet_Small.label>
   
   <!-- EN: Blackout Turret -->
-  <CAC_TurretGun_Big.label>TODO</CAC_TurretGun_Big.label>
+  <CAC_TurretGun_Big.label>黑障炮塔</CAC_TurretGun_Big.label>
   <!-- EN: Reconstructed CAC Minigun for turrets. Specially modified weapon with increased power. -->
-  <CAC_TurretGun_Big.description>TODO</CAC_TurretGun_Big.description>
+  <CAC_TurretGun_Big.description>为炮塔重构的CAC迷你枪。经过特殊改装的武器，威力增强。</CAC_TurretGun_Big.description>
   <!-- EN: Blackout Turret -->
-  <CAC_TurretGun_Big.verbs.Verb_Shoot.label>TODO</CAC_TurretGun_Big.verbs.Verb_Shoot.label>
+  <CAC_TurretGun_Big.verbs.Verb_Shoot.label>黑障炮塔</CAC_TurretGun_Big.verbs.Verb_Shoot.label>
   
   <!-- EN: Widowmaker Turret -->
-  <CAC_TurretGun_Small.label>TODO</CAC_TurretGun_Small.label>
+  <CAC_TurretGun_Small.label>寡妇制造者炮塔</CAC_TurretGun_Small.label>
   <!-- EN: Reconstructed CAC Sniper Rifle for turrets. Specially modified weapon with increased power. -->
-  <CAC_TurretGun_Small.description>TODO</CAC_TurretGun_Small.description>
+  <CAC_TurretGun_Small.description>为炮塔重构的CAC狙击步枪。经过特殊改装的武器，威力增强。</CAC_TurretGun_Small.description>
   <!-- EN: Widowmaker Turret -->
-  <CAC_TurretGun_Small.verbs.Verb_Shoot.label>TODO</CAC_TurretGun_Small.verbs.Verb_Shoot.label>
+  <CAC_TurretGun_Small.verbs.Verb_Shoot.label>寡妇制造者炮塔</CAC_TurretGun_Small.verbs.Verb_Shoot.label>
   
 </LanguageData>

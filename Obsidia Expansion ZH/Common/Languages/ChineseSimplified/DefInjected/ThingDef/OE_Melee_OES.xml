@@ -2,109 +2,109 @@
 <LanguageData>
   
   <!-- EN: Heroic Furious -->
-  <OES_Axe.label>TODO</OES_Axe.label>
+  <OES_Axe.label>英雄狂怒</OES_Axe.label>
   <!-- EN: Heroic Axe used by Eidolons. Specially modified weapon charged with Fire and EMP damages.\n\nThis modification deprives item's quality levels. -->
-  <OES_Axe.description>TODO</OES_Axe.description>
+  <OES_Axe.description>幻象 Eidolon 使用的英雄战斧。经过特殊改装的武器，充能火焰和电磁伤害。\n\n此改装剥夺了物品的品质等级。</OES_Axe.description>
   <!-- EN: handle -->
-  <OES_Axe.tools.handle.label>TODO</OES_Axe.tools.handle.label>
+  <OES_Axe.tools.handle.label>手柄</OES_Axe.tools.handle.label>
   <!-- EN: edge -->
-  <OES_Axe.tools.edge.label>TODO</OES_Axe.tools.edge.label>
+  <OES_Axe.tools.edge.label>刀刃</OES_Axe.tools.edge.label>
   
   <!-- EN: Heroic Genesis -->
-  <OES_BigAxe.label>TODO</OES_BigAxe.label>
+  <OES_BigAxe.label>英雄起源</OES_BigAxe.label>
   <!-- EN: Heroic Big Axe used by Eidolons. Specially modified weapon charged with Fire and EMP damages.\n\nThis modification deprives item's quality levels. -->
-  <OES_BigAxe.description>TODO</OES_BigAxe.description>
+  <OES_BigAxe.description>幻象 Eidolon 使用的英雄大斧。经过特殊改装的武器，充能火焰和电磁伤害。\n\n此改装剥夺了物品的品质等级。</OES_BigAxe.description>
   <!-- EN: handle -->
-  <OES_BigAxe.tools.handle.label>TODO</OES_BigAxe.tools.handle.label>
+  <OES_BigAxe.tools.handle.label>手柄</OES_BigAxe.tools.handle.label>
   <!-- EN: edge -->
-  <OES_BigAxe.tools.edge.label>TODO</OES_BigAxe.tools.edge.label>
+  <OES_BigAxe.tools.edge.label>刀刃</OES_BigAxe.tools.edge.label>
   
   <!-- EN: Heroic Shikigami -->
-  <OES_BigSword.label>TODO</OES_BigSword.label>
+  <OES_BigSword.label>英雄式神</OES_BigSword.label>
   <!-- EN: Heroic Longsword used by Eidolons. Specially modified weapon charged with Fire and EMP damages.\n\nThis modification deprives item's quality levels. -->
-  <OES_BigSword.description>TODO</OES_BigSword.description>
+  <OES_BigSword.description>幻象 Eidolon 使用的英雄长剑。经过特殊改装的武器，充能火焰和电磁伤害。\n\n此改装剥夺了物品的品质等级。</OES_BigSword.description>
   <!-- EN: handle -->
-  <OES_BigSword.tools.handle.label>TODO</OES_BigSword.tools.handle.label>
+  <OES_BigSword.tools.handle.label>手柄</OES_BigSword.tools.handle.label>
   <!-- EN: point -->
-  <OES_BigSword.tools.point.label>TODO</OES_BigSword.tools.point.label>
+  <OES_BigSword.tools.point.label>剑尖</OES_BigSword.tools.point.label>
   <!-- EN: edge -->
-  <OES_BigSword.tools.edge.label>TODO</OES_BigSword.tools.edge.label>
+  <OES_BigSword.tools.edge.label>剑刃</OES_BigSword.tools.edge.label>
   
   <!-- EN: Heroic Guillotine -->
-  <OES_DualSword.label>TODO</OES_DualSword.label>
+  <OES_DualSword.label>英雄断头台</OES_DualSword.label>
   <!-- EN: Heroic Dual Sword used by Eidolons. Specially modified weapon charged with Fire and EMP damages.\n\nThis modification deprives item's quality levels. -->
-  <OES_DualSword.description>TODO</OES_DualSword.description>
+  <OES_DualSword.description>幻象 Eidolon 使用的英雄双剑。经过特殊改装的武器，充能火焰和电磁伤害。\n\n此改装剥夺了物品的品质等级。</OES_DualSword.description>
   <!-- EN: shaft -->
-  <OES_DualSword.tools.shaft.label>TODO</OES_DualSword.tools.shaft.label>
+  <OES_DualSword.tools.shaft.label>剑柄</OES_DualSword.tools.shaft.label>
   <!-- EN: edge -->
-  <OES_DualSword.tools.edge.label>TODO</OES_DualSword.tools.edge.label>
+  <OES_DualSword.tools.edge.label>剑刃</OES_DualSword.tools.edge.label>
   
   <!-- EN: Heroic Nemesis -->
-  <OES_Hammer.label>TODO</OES_Hammer.label>
+  <OES_Hammer.label>英雄复仇者</OES_Hammer.label>
   <!-- EN: Heroic Hammer used by Eidolons. Specially modified weapon charged with Fire and EMP damages.\n\nThis modification deprives item's quality levels. -->
-  <OES_Hammer.description>TODO</OES_Hammer.description>
+  <OES_Hammer.description>幻象 Eidolon 使用的英雄战锤。经过特殊改装的武器，充能火焰和电磁伤害。\n\n此改装剥夺了物品的品质等级。</OES_Hammer.description>
   <!-- EN: handle -->
-  <OES_Hammer.tools.handle.label>TODO</OES_Hammer.tools.handle.label>
+  <OES_Hammer.tools.handle.label>手柄</OES_Hammer.tools.handle.label>
   <!-- EN: head -->
-  <OES_Hammer.tools.head.label>TODO</OES_Hammer.tools.head.label>
+  <OES_Hammer.tools.head.label>锤头</OES_Hammer.tools.head.label>
   
   <!-- EN: Heroic Reaper -->
-  <OES_Katana.label>TODO</OES_Katana.label>
+  <OES_Katana.label>英雄收割者</OES_Katana.label>
   <!-- EN: Heroic Katana used by Eidolons. Specially modified weapon charged with Fire and EMP damages.\n\nThis modification deprives item's quality levels. -->
-  <OES_Katana.description>TODO</OES_Katana.description>
+  <OES_Katana.description>幻象 Eidolon 使用的英雄武士刀。经过特殊改装的武器，充能火焰和电磁伤害。\n\n此改装剥夺了物品的品质等级。</OES_Katana.description>
   <!-- EN: handle -->
-  <OES_Katana.tools.handle.label>TODO</OES_Katana.tools.handle.label>
+  <OES_Katana.tools.handle.label>手柄</OES_Katana.tools.handle.label>
   <!-- EN: point -->
-  <OES_Katana.tools.point.label>TODO</OES_Katana.tools.point.label>
+  <OES_Katana.tools.point.label>刀尖</OES_Katana.tools.point.label>
   <!-- EN: edge -->
-  <OES_Katana.tools.edge.label>TODO</OES_Katana.tools.edge.label>
+  <OES_Katana.tools.edge.label>刀刃</OES_Katana.tools.edge.label>
   <!-- EN: Heroic Reaper -->
-  <OES_Katana.verbs.Verb_Shoot.label>TODO</OES_Katana.verbs.Verb_Shoot.label>
+  <OES_Katana.verbs.Verb_Shoot.label>英雄收割者</OES_Katana.verbs.Verb_Shoot.label>
   
   <!-- EN: Heroic Typhon -->
-  <OES_PowerFist.label>TODO</OES_PowerFist.label>
+  <OES_PowerFist.label>英雄泰丰</OES_PowerFist.label>
   <!-- EN: Heroic Power Fist used by Eidolons. Specially modified weapon charged with Fire and EMP damages.\n\nThis modification deprives item's quality levels. -->
-  <OES_PowerFist.description>TODO</OES_PowerFist.description>
+  <OES_PowerFist.description>幻象 Eidolon 使用的英雄动力拳套。经过特殊改装的武器，充能火焰和电磁伤害。\n\n此改装剥夺了物品的品质等级。</OES_PowerFist.description>
   <!-- EN: gauntlet -->
-  <OES_PowerFist.tools.gauntlet.label>TODO</OES_PowerFist.tools.gauntlet.label>
+  <OES_PowerFist.tools.gauntlet.label>拳套</OES_PowerFist.tools.gauntlet.label>
   
   <!-- EN: Heroic Imperfect -->
-  <OES_Rapier.label>TODO</OES_Rapier.label>
+  <OES_Rapier.label>英雄不完美</OES_Rapier.label>
   <!-- EN: Heroic Rapier used by Eidolons. Specially modified weapon charged with Fire and EMP damages.\n\nThis modification deprives item's quality levels. -->
-  <OES_Rapier.description>TODO</OES_Rapier.description>
+  <OES_Rapier.description>幻象 Eidolon 使用的英雄细剑。经过特殊改装的武器，充能火焰和电磁伤害。\n\n此改装剥夺了物品的品质等级。</OES_Rapier.description>
   <!-- EN: handle -->
-  <OES_Rapier.tools.handle.label>TODO</OES_Rapier.tools.handle.label>
+  <OES_Rapier.tools.handle.label>手柄</OES_Rapier.tools.handle.label>
   <!-- EN: point -->
-  <OES_Rapier.tools.point.label>TODO</OES_Rapier.tools.point.label>
+  <OES_Rapier.tools.point.label>剑尖</OES_Rapier.tools.point.label>
   
   <!-- EN: Heroic Souldrinker -->
-  <OES_Scythe.label>TODO</OES_Scythe.label>
+  <OES_Scythe.label>英雄饮魂者</OES_Scythe.label>
   <!-- EN: Heroic Scythe used by Eidolons. Specially modified weapon charged with Fire and EMP damages.\n\nThis modification deprives item's quality levels. -->
-  <OES_Scythe.description>TODO</OES_Scythe.description>
+  <OES_Scythe.description>幻象 Eidolon 使用的英雄镰刀。经过特殊改装的武器，充能火焰和电磁伤害。\n\n此改装剥夺了物品的品质等级。</OES_Scythe.description>
   <!-- EN: handle -->
-  <OES_Scythe.tools.handle.label>TODO</OES_Scythe.tools.handle.label>
+  <OES_Scythe.tools.handle.label>手柄</OES_Scythe.tools.handle.label>
   <!-- EN: edge -->
-  <OES_Scythe.tools.edge.label>TODO</OES_Scythe.tools.edge.label>
+  <OES_Scythe.tools.edge.label>刀刃</OES_Scythe.tools.edge.label>
   
   <!-- EN: Heroic Elitra -->
-  <OES_Spear.label>TODO</OES_Spear.label>
+  <OES_Spear.label>英雄鞘翅</OES_Spear.label>
   <!-- EN: Heroic Spear used by Eidolons. Specially modified weapon charged with Fire and EMP damages.\n\nThis modification deprives item's quality levels. -->
-  <OES_Spear.description>TODO</OES_Spear.description>
+  <OES_Spear.description>幻象 Eidolon 使用的英雄长矛。经过特殊改装的武器，充能火焰和电磁伤害。\n\n此改装剥夺了物品的品质等级。</OES_Spear.description>
   <!-- EN: shaft -->
-  <OES_Spear.tools.shaft.label>TODO</OES_Spear.tools.shaft.label>
+  <OES_Spear.tools.shaft.label>矛杆</OES_Spear.tools.shaft.label>
   <!-- EN: point -->
-  <OES_Spear.tools.point.label>TODO</OES_Spear.tools.point.label>
+  <OES_Spear.tools.point.label>矛尖</OES_Spear.tools.point.label>
   
   <!-- EN: Heroic Delimiter -->
-  <OES_Sword.label>TODO</OES_Sword.label>
+  <OES_Sword.label>英雄分隔者</OES_Sword.label>
   <!-- EN: Heroic Sword used by Eidolons. Specially modified weapon charged with Fire and EMP damages.\n\nThis modification deprives item's quality levels. -->
-  <OES_Sword.description>TODO</OES_Sword.description>
+  <OES_Sword.description>幻象 Eidolon 使用的英雄剑。经过特殊改装的武器，充能火焰和电磁伤害。\n\n此改装剥夺了物品的品质等级。</OES_Sword.description>
   <!-- EN: handle -->
-  <OES_Sword.tools.handle.label>TODO</OES_Sword.tools.handle.label>
+  <OES_Sword.tools.handle.label>手柄</OES_Sword.tools.handle.label>
   <!-- EN: point -->
-  <OES_Sword.tools.point.label>TODO</OES_Sword.tools.point.label>
+  <OES_Sword.tools.point.label>剑尖</OES_Sword.tools.point.label>
   <!-- EN: edge -->
-  <OES_Sword.tools.edge.label>TODO</OES_Sword.tools.edge.label>
+  <OES_Sword.tools.edge.label>剑刃</OES_Sword.tools.edge.label>
   
   <!-- EN: Heroic Reaper wave -->
   <Wave_OES_K.label>TODO</Wave_OES_K.label>

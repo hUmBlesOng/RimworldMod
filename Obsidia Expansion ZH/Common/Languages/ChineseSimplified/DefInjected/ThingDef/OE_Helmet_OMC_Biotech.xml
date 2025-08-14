@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: OMC Officer Helmet(Overseer) -->
-  <OMC_Helmet_M_Mechanitor.label>TODO</OMC_Helmet_M_Mechanitor.label>
+  <OMC_Helmet_M_Mechanitor.label>OMC军官头盔（监督者）</OMC_Helmet_M_Mechanitor.label>
   <!-- EN: Medium power armor Helmet, perfectly protects the owner. Designed and modified for use by OMC Regular Officers.\n\nModified for improves Mechanoids Control abilities. -->
-  <OMC_Helmet_M_Mechanitor.description>TODO</OMC_Helmet_M_Mechanitor.description>
+  <OMC_Helmet_M_Mechanitor.description>中型动力装甲头盔，完美保护使用者。专为OMC常规军官设计和改进使用。\n\n改装以增强机械体控制能力。</OMC_Helmet_M_Mechanitor.description>
   
 </LanguageData>

@@ -1,57 +1,57 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: OEC Judgement Turret -->
-  <OEC_Turret_Big.label>TODO</OEC_Turret_Big.label>
+  <OEC_Turret_Big.label>OEC审判者炮塔</OEC_Turret_Big.label>
   <!-- EN: An automatic OEC Sniper Rifle-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
-  <OEC_Turret_Big.description>TODO</OEC_Turret_Big.description>
+  <OEC_Turret_Big.description>一种自动OEC狙击步枪炮塔。需要黑曜石弹药包作为燃料。其简单的AI大脑无法直接控制，因此需要注意友军火力。</OEC_Turret_Big.description>
   <!-- EN: Fuel capacity -->
-  <OEC_Turret_Big.comps.CompRefuelable.fuelGizmoLabel>TODO</OEC_Turret_Big.comps.CompRefuelable.fuelGizmoLabel>
+  <OEC_Turret_Big.comps.CompRefuelable.fuelGizmoLabel>燃料容量</OEC_Turret_Big.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Shoots until run out of charges -->
-  <OEC_Turret_Big.comps.CompRefuelable.fuelLabel>TODO</OEC_Turret_Big.comps.CompRefuelable.fuelLabel>
+  <OEC_Turret_Big.comps.CompRefuelable.fuelLabel>射击直至耗尽充能</OEC_Turret_Big.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
-  <OEC_Turret_Big.comps.CompRefuelable.outOfFuelMessage>TODO</OEC_Turret_Big.comps.CompRefuelable.outOfFuelMessage>
+  <OEC_Turret_Big.comps.CompRefuelable.outOfFuelMessage>无法射击：需要黑曜石弹药包</OEC_Turret_Big.comps.CompRefuelable.outOfFuelMessage>
   
   <!-- EN: OEC Peacemaker Turret -->
-  <OEC_Turret_Small.label>TODO</OEC_Turret_Small.label>
+  <OEC_Turret_Small.label>OEC和平使者炮塔</OEC_Turret_Small.label>
   <!-- EN: An automatic OEC Revolver-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
-  <OEC_Turret_Small.description>TODO</OEC_Turret_Small.description>
+  <OEC_Turret_Small.description>一种自动OEC左轮手枪炮塔。需要黑曜石弹药包作为燃料。其简单的AI大脑无法直接控制，因此需要注意友军火力。</OEC_Turret_Small.description>
   <!-- EN: Fuel capacity -->
-  <OEC_Turret_Small.comps.CompRefuelable.fuelGizmoLabel>TODO</OEC_Turret_Small.comps.CompRefuelable.fuelGizmoLabel>
+  <OEC_Turret_Small.comps.CompRefuelable.fuelGizmoLabel>燃料容量</OEC_Turret_Small.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Shoots until run out of charges -->
-  <OEC_Turret_Small.comps.CompRefuelable.fuelLabel>TODO</OEC_Turret_Small.comps.CompRefuelable.fuelLabel>
+  <OEC_Turret_Small.comps.CompRefuelable.fuelLabel>射击直至耗尽充能</OEC_Turret_Small.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
-  <OEC_Turret_Small.comps.CompRefuelable.outOfFuelMessage>TODO</OEC_Turret_Small.comps.CompRefuelable.outOfFuelMessage>
+  <OEC_Turret_Small.comps.CompRefuelable.outOfFuelMessage>无法射击：需要黑曜石弹药包</OEC_Turret_Small.comps.CompRefuelable.outOfFuelMessage>
   
   <!-- EN: OEC Peacemaker Powered Turret -->
-  <OEC_Turret_SmallPowered.label>TODO</OEC_Turret_SmallPowered.label>
+  <OEC_Turret_SmallPowered.label>OEC和平使者动力炮塔</OEC_Turret_SmallPowered.label>
   <!-- EN: An automatic OEC Revolver-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire.\n\nThis turret has a built-in generator. -->
-  <OEC_Turret_SmallPowered.description>TODO</OEC_Turret_SmallPowered.description>
+  <OEC_Turret_SmallPowered.description>一种自动OEC左轮手枪炮塔。需要黑曜石弹药包作为燃料。其简单的AI大脑无法直接控制，因此需要注意友军火力。\n\n该炮塔内置发电机。</OEC_Turret_SmallPowered.description>
   <!-- EN: Fuel capacity -->
-  <OEC_Turret_SmallPowered.comps.CompRefuelable.fuelGizmoLabel>TODO</OEC_Turret_SmallPowered.comps.CompRefuelable.fuelGizmoLabel>
+  <OEC_Turret_SmallPowered.comps.CompRefuelable.fuelGizmoLabel>燃料容量</OEC_Turret_SmallPowered.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Shoots until run out of charges -->
-  <OEC_Turret_SmallPowered.comps.CompRefuelable.fuelLabel>TODO</OEC_Turret_SmallPowered.comps.CompRefuelable.fuelLabel>
+  <OEC_Turret_SmallPowered.comps.CompRefuelable.fuelLabel>射击直至耗尽充能</OEC_Turret_SmallPowered.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
-  <OEC_Turret_SmallPowered.comps.CompRefuelable.outOfFuelMessage>TODO</OEC_Turret_SmallPowered.comps.CompRefuelable.outOfFuelMessage>
+  <OEC_Turret_SmallPowered.comps.CompRefuelable.outOfFuelMessage>无法射击：需要黑曜石弹药包</OEC_Turret_SmallPowered.comps.CompRefuelable.outOfFuelMessage>
   
   <!-- EN: judgement turret bullet -->
-  <OEC_TurretBullet_Big.label>TODO</OEC_TurretBullet_Big.label>
+  <OEC_TurretBullet_Big.label>审判者炮塔子弹</OEC_TurretBullet_Big.label>
   
   <!-- EN: peacemaker turret bullet -->
-  <OEC_TurretBullet_Small.label>TODO</OEC_TurretBullet_Small.label>
+  <OEC_TurretBullet_Small.label>和平使者炮塔子弹</OEC_TurretBullet_Small.label>
   
   <!-- EN: Judgement Turret -->
-  <OEC_TurretGun_Big.label>TODO</OEC_TurretGun_Big.label>
+  <OEC_TurretGun_Big.label>审判者炮塔</OEC_TurretGun_Big.label>
   <!-- EN: Reconstructed OEC Sniper Rifle for turrets. Extremely armor-piercing. -->
-  <OEC_TurretGun_Big.description>TODO</OEC_TurretGun_Big.description>
+  <OEC_TurretGun_Big.description>为炮塔重构的OEC狙击步枪。极强的穿甲能力。</OEC_TurretGun_Big.description>
   <!-- EN: Judgement Turret -->
-  <OEC_TurretGun_Big.verbs.Verb_Shoot.label>TODO</OEC_TurretGun_Big.verbs.Verb_Shoot.label>
+  <OEC_TurretGun_Big.verbs.Verb_Shoot.label>审判者炮塔</OEC_TurretGun_Big.verbs.Verb_Shoot.label>
   
   <!-- EN: Peacemaker Turret -->
-  <OEC_TurretGun_Small.label>TODO</OEC_TurretGun_Small.label>
+  <OEC_TurretGun_Small.label>和平使者炮塔</OEC_TurretGun_Small.label>
   <!-- EN: Reconstructed OEC Revolver for turrets. Extremely armor-piercing. -->
-  <OEC_TurretGun_Small.description>TODO</OEC_TurretGun_Small.description>
+  <OEC_TurretGun_Small.description>为炮塔重构的OEC左轮手枪。极强的穿甲能力。</OEC_TurretGun_Small.description>
   <!-- EN: Peacemaker Turret -->
-  <OEC_TurretGun_Small.verbs.Verb_Shoot.label>TODO</OEC_TurretGun_Small.verbs.Verb_Shoot.label>
+  <OEC_TurretGun_Small.verbs.Verb_Shoot.label>和平使者炮塔</OEC_TurretGun_Small.verbs.Verb_Shoot.label>
   
 </LanguageData>

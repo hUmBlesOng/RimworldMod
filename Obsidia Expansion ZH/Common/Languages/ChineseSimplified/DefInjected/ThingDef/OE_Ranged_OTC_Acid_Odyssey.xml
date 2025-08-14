@@ -1,117 +1,117 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Paragon Nimbus Prototype(Acid) -->
-  <OTC_Bow_P_Acid.label>TODO</OTC_Bow_P_Acid.label>
+  <OTC_Bow_P_Acid.label>完美宁巴斯原型（酸液）</OTC_Bow_P_Acid.label>
   <!-- EN: Paragon Experimental Bow used by OTC Engineers. Balanced weapon with Acid charges.\n\nIt's remanufactured weapon based on OEC Bow. -->
-  <OTC_Bow_P_Acid.description>TODO</OTC_Bow_P_Acid.description>
+  <OTC_Bow_P_Acid.description>OTC工程师使用的完美实验性弓。带有酸液充能的平衡武器。\n\n这是基于OEC弓的再制造武器。</OTC_Bow_P_Acid.description>
   <!-- EN: charge -->
-  <OTC_Bow_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OTC_Bow_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <OTC_Bow_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OTC_Bow_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OTC_Bow_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OTC_Bow_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <OTC_Bow_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OTC_Bow_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: Paragon Nimbus Prototype(Acid) -->
-  <OTC_Bow_P_Acid.comps.CompUniqueWeapon.namerLabels.0>TODO</OTC_Bow_P_Acid.comps.CompUniqueWeapon.namerLabels.0>
+  <OTC_Bow_P_Acid.comps.CompUniqueWeapon.namerLabels.0>完美宁巴斯原型（酸液）</OTC_Bow_P_Acid.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: limb -->
-  <OTC_Bow_P_Acid.tools.limb.label>TODO</OTC_Bow_P_Acid.tools.limb.label>
+  <OTC_Bow_P_Acid.tools.limb.label>弓臂</OTC_Bow_P_Acid.tools.limb.label>
   <!-- EN: Paragon Nimbus Prototype(Acid) -->
-  <OTC_Bow_P_Acid.verbs.Verb_Shoot.label>TODO</OTC_Bow_P_Acid.verbs.Verb_Shoot.label>
+  <OTC_Bow_P_Acid.verbs.Verb_Shoot.label>完美宁巴斯原型（酸液）</OTC_Bow_P_Acid.verbs.Verb_Shoot.label>
   
   <!-- EN: Paragon Meteor Prototype(Acid) -->
-  <OTC_GrenadeLauncher_P_Acid.label>TODO</OTC_GrenadeLauncher_P_Acid.label>
+  <OTC_GrenadeLauncher_P_Acid.label>完美流星原型（酸液）</OTC_GrenadeLauncher_P_Acid.label>
   <!-- EN: Paragon Experimental Grenade Launcher used by OTC Engineers. Balanced weapon with Acid charges. -->
-  <OTC_GrenadeLauncher_P_Acid.description>TODO</OTC_GrenadeLauncher_P_Acid.description>
+  <OTC_GrenadeLauncher_P_Acid.description>OTC工程师使用的完美实验性榴弹发射器。带有酸液充能的平衡武器。</OTC_GrenadeLauncher_P_Acid.description>
   <!-- EN: charge -->
-  <OTC_GrenadeLauncher_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OTC_GrenadeLauncher_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <OTC_GrenadeLauncher_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OTC_GrenadeLauncher_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OTC_GrenadeLauncher_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OTC_GrenadeLauncher_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <OTC_GrenadeLauncher_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OTC_GrenadeLauncher_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: Paragon Meteor Prototype(Acid) -->
-  <OTC_GrenadeLauncher_P_Acid.comps.CompUniqueWeapon.namerLabels.0>TODO</OTC_GrenadeLauncher_P_Acid.comps.CompUniqueWeapon.namerLabels.0>
+  <OTC_GrenadeLauncher_P_Acid.comps.CompUniqueWeapon.namerLabels.0>完美流星原型（酸液）</OTC_GrenadeLauncher_P_Acid.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: barrel -->
-  <OTC_GrenadeLauncher_P_Acid.tools.barrel.label>TODO</OTC_GrenadeLauncher_P_Acid.tools.barrel.label>
+  <OTC_GrenadeLauncher_P_Acid.tools.barrel.label>枪管</OTC_GrenadeLauncher_P_Acid.tools.barrel.label>
   <!-- EN: Paragon Meteor Prototype(Acid) -->
-  <OTC_GrenadeLauncher_P_Acid.verbs.Verb_Shoot.label>TODO</OTC_GrenadeLauncher_P_Acid.verbs.Verb_Shoot.label>
+  <OTC_GrenadeLauncher_P_Acid.verbs.Verb_Shoot.label>完美流星原型（酸液）</OTC_GrenadeLauncher_P_Acid.verbs.Verb_Shoot.label>
   
   <!-- EN: Paragon Pulsar Prototype(Acid) -->
-  <OTC_MultiCannon_P_Acid.label>TODO</OTC_MultiCannon_P_Acid.label>
+  <OTC_MultiCannon_P_Acid.label>完美脉冲原型（酸液）</OTC_MultiCannon_P_Acid.label>
   <!-- EN: Paragon Experimental Multi-Cannon used by OTC Engineers. Balanced weapon with Acid charges.\n\nIt's remanufactured weapon based on OCC Multi-Cannon. -->
-  <OTC_MultiCannon_P_Acid.description>TODO</OTC_MultiCannon_P_Acid.description>
+  <OTC_MultiCannon_P_Acid.description>OTC工程师使用的完美实验性多管火炮。带有酸液充能的平衡武器。\n\n这是基于OCC多管火炮的再制造武器。</OTC_MultiCannon_P_Acid.description>
   <!-- EN: charge -->
-  <OTC_MultiCannon_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OTC_MultiCannon_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <OTC_MultiCannon_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OTC_MultiCannon_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OTC_MultiCannon_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OTC_MultiCannon_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <OTC_MultiCannon_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OTC_MultiCannon_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: Paragon Pulsar Prototype(Acid) -->
-  <OTC_MultiCannon_P_Acid.comps.CompUniqueWeapon.namerLabels.0>TODO</OTC_MultiCannon_P_Acid.comps.CompUniqueWeapon.namerLabels.0>
+  <OTC_MultiCannon_P_Acid.comps.CompUniqueWeapon.namerLabels.0>完美脉冲原型（酸液）</OTC_MultiCannon_P_Acid.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: barrels -->
-  <OTC_MultiCannon_P_Acid.tools.barrels.label>TODO</OTC_MultiCannon_P_Acid.tools.barrels.label>
+  <OTC_MultiCannon_P_Acid.tools.barrels.label>枪管</OTC_MultiCannon_P_Acid.tools.barrels.label>
   <!-- EN: Paragon Pulsar Prototype(Acid) -->
-  <OTC_MultiCannon_P_Acid.verbs.Verb_Shoot.label>TODO</OTC_MultiCannon_P_Acid.verbs.Verb_Shoot.label>
+  <OTC_MultiCannon_P_Acid.verbs.Verb_Shoot.label>完美脉冲原型（酸液）</OTC_MultiCannon_P_Acid.verbs.Verb_Shoot.label>
   
   <!-- EN: Paragon Celestial Prototype(Acid) -->
-  <OTC_Pistol_P_Acid.label>TODO</OTC_Pistol_P_Acid.label>
+  <OTC_Pistol_P_Acid.label>完美天体原型（酸液）</OTC_Pistol_P_Acid.label>
   <!-- EN: Paragon Experimental Pistol used by OTC Engineers. Balanced weapon with Acid charges. -->
-  <OTC_Pistol_P_Acid.description>TODO</OTC_Pistol_P_Acid.description>
+  <OTC_Pistol_P_Acid.description>OTC工程师使用的完美实验性手枪。带有酸液充能的平衡武器。</OTC_Pistol_P_Acid.description>
   <!-- EN: charge -->
-  <OTC_Pistol_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OTC_Pistol_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <OTC_Pistol_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OTC_Pistol_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OTC_Pistol_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OTC_Pistol_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <OTC_Pistol_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OTC_Pistol_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: Paragon Celestial Prototype(Acid) -->
-  <OTC_Pistol_P_Acid.comps.CompUniqueWeapon.namerLabels.0>TODO</OTC_Pistol_P_Acid.comps.CompUniqueWeapon.namerLabels.0>
+  <OTC_Pistol_P_Acid.comps.CompUniqueWeapon.namerLabels.0>完美天体原型（酸液）</OTC_Pistol_P_Acid.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: grip -->
-  <OTC_Pistol_P_Acid.tools.grip.label>TODO</OTC_Pistol_P_Acid.tools.grip.label>
+  <OTC_Pistol_P_Acid.tools.grip.label>握把</OTC_Pistol_P_Acid.tools.grip.label>
   <!-- EN: barrel -->
-  <OTC_Pistol_P_Acid.tools.barrel.label>TODO</OTC_Pistol_P_Acid.tools.barrel.label>
+  <OTC_Pistol_P_Acid.tools.barrel.label>枪管</OTC_Pistol_P_Acid.tools.barrel.label>
   <!-- EN: Paragon Celestial Prototype(Acid) -->
-  <OTC_Pistol_P_Acid.verbs.Verb_Shoot.label>TODO</OTC_Pistol_P_Acid.verbs.Verb_Shoot.label>
+  <OTC_Pistol_P_Acid.verbs.Verb_Shoot.label>完美天体原型（酸液）</OTC_Pistol_P_Acid.verbs.Verb_Shoot.label>
   
   <!-- EN: Paragon Quasar Prototype(Acid) -->
-  <OTC_Shotgun_P_Acid.label>TODO</OTC_Shotgun_P_Acid.label>
+  <OTC_Shotgun_P_Acid.label>完美类星体原型（酸液）</OTC_Shotgun_P_Acid.label>
   <!-- EN: Paragon Experimental Shotgun used by OTC Engineers. Balanced weapon with Acid charges. -->
-  <OTC_Shotgun_P_Acid.description>TODO</OTC_Shotgun_P_Acid.description>
+  <OTC_Shotgun_P_Acid.description>OTC工程师使用的完美实验性霰弹枪。带有酸液充能的平衡武器。</OTC_Shotgun_P_Acid.description>
   <!-- EN: charge -->
-  <OTC_Shotgun_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OTC_Shotgun_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <OTC_Shotgun_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OTC_Shotgun_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OTC_Shotgun_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OTC_Shotgun_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <OTC_Shotgun_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OTC_Shotgun_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: Paragon Quasar Prototype(Acid) -->
-  <OTC_Shotgun_P_Acid.comps.CompUniqueWeapon.namerLabels.0>TODO</OTC_Shotgun_P_Acid.comps.CompUniqueWeapon.namerLabels.0>
+  <OTC_Shotgun_P_Acid.comps.CompUniqueWeapon.namerLabels.0>完美类星体原型（酸液）</OTC_Shotgun_P_Acid.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: stock -->
-  <OTC_Shotgun_P_Acid.tools.stock.label>TODO</OTC_Shotgun_P_Acid.tools.stock.label>
+  <OTC_Shotgun_P_Acid.tools.stock.label>枪托</OTC_Shotgun_P_Acid.tools.stock.label>
   <!-- EN: barrel -->
-  <OTC_Shotgun_P_Acid.tools.barrel.label>TODO</OTC_Shotgun_P_Acid.tools.barrel.label>
+  <OTC_Shotgun_P_Acid.tools.barrel.label>枪管</OTC_Shotgun_P_Acid.tools.barrel.label>
   <!-- EN: Paragon Quasar Prototype(Acid) -->
-  <OTC_Shotgun_P_Acid.verbs.Verb_Shoot.label>TODO</OTC_Shotgun_P_Acid.verbs.Verb_Shoot.label>
+  <OTC_Shotgun_P_Acid.verbs.Verb_Shoot.label>完美类星体原型（酸液）</OTC_Shotgun_P_Acid.verbs.Verb_Shoot.label>
   
   <!-- EN: Paragon Equalizer Prototype(Acid) -->
-  <OTC_SMG_P_Acid.label>TODO</OTC_SMG_P_Acid.label>
+  <OTC_SMG_P_Acid.label>完美平衡者原型（酸液）</OTC_SMG_P_Acid.label>
   <!-- EN: Paragon Experimental SMG used by OTC Engineers. Balanced weapon with Acid charges. -->
-  <OTC_SMG_P_Acid.description>TODO</OTC_SMG_P_Acid.description>
+  <OTC_SMG_P_Acid.description>OTC工程师使用的完美实验性冲锋枪。带有酸液充能的平衡武器。</OTC_SMG_P_Acid.description>
   <!-- EN: charge -->
-  <OTC_SMG_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OTC_SMG_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <OTC_SMG_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OTC_SMG_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OTC_SMG_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OTC_SMG_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <OTC_SMG_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OTC_SMG_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: Paragon Equalizer Prototype(Acid) -->
-  <OTC_SMG_P_Acid.comps.CompUniqueWeapon.namerLabels.0>TODO</OTC_SMG_P_Acid.comps.CompUniqueWeapon.namerLabels.0>
+  <OTC_SMG_P_Acid.comps.CompUniqueWeapon.namerLabels.0>完美平衡者原型（酸液）</OTC_SMG_P_Acid.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: stock -->
-  <OTC_SMG_P_Acid.tools.stock.label>TODO</OTC_SMG_P_Acid.tools.stock.label>
+  <OTC_SMG_P_Acid.tools.stock.label>枪托</OTC_SMG_P_Acid.tools.stock.label>
   <!-- EN: barrel -->
-  <OTC_SMG_P_Acid.tools.barrel.label>TODO</OTC_SMG_P_Acid.tools.barrel.label>
+  <OTC_SMG_P_Acid.tools.barrel.label>枪管</OTC_SMG_P_Acid.tools.barrel.label>
   <!-- EN: Paragon Equalizer Prototype(Acid) -->
-  <OTC_SMG_P_Acid.verbs.Verb_Shoot.label>TODO</OTC_SMG_P_Acid.verbs.Verb_Shoot.label>
+  <OTC_SMG_P_Acid.verbs.Verb_Shoot.label>完美平衡者原型（酸液）</OTC_SMG_P_Acid.verbs.Verb_Shoot.label>
   
   <!-- EN: Paragon Nova Prototype(Acid) -->
-  <OTC_SniperRifle_P_Acid.label>TODO</OTC_SniperRifle_P_Acid.label>
+  <OTC_SniperRifle_P_Acid.label>完美新星原型（酸液）</OTC_SniperRifle_P_Acid.label>
   <!-- EN: Paragon Experimental Sniper Rifle used by OTC Engineers. Balanced weapon with Acid charges.\n\nIt's remanufactured weapon based on OMC Sniper Rifle. -->
-  <OTC_SniperRifle_P_Acid.description>TODO</OTC_SniperRifle_P_Acid.description>
+  <OTC_SniperRifle_P_Acid.description>OTC工程师使用的完美实验性狙击步枪。带有酸液充能的平衡武器。\n\n这是基于OMC狙击步枪的再制造武器。</OTC_SniperRifle_P_Acid.description>
   <!-- EN: charge -->
-  <OTC_SniperRifle_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>TODO</OTC_SniperRifle_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>
+  <OTC_SniperRifle_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OTC_SniperRifle_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OTC_SniperRifle_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>TODO</OTC_SniperRifle_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>
+  <OTC_SniperRifle_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OTC_SniperRifle_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>
   <!-- EN: Paragon Nova Prototype(Acid) -->
-  <OTC_SniperRifle_P_Acid.comps.CompUniqueWeapon.namerLabels.0>TODO</OTC_SniperRifle_P_Acid.comps.CompUniqueWeapon.namerLabels.0>
+  <OTC_SniperRifle_P_Acid.comps.CompUniqueWeapon.namerLabels.0>完美新星原型（酸液）</OTC_SniperRifle_P_Acid.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: stock -->
-  <OTC_SniperRifle_P_Acid.tools.stock.label>TODO</OTC_SniperRifle_P_Acid.tools.stock.label>
+  <OTC_SniperRifle_P_Acid.tools.stock.label>枪托</OTC_SniperRifle_P_Acid.tools.stock.label>
   <!-- EN: barrel -->
-  <OTC_SniperRifle_P_Acid.tools.barrel.label>TODO</OTC_SniperRifle_P_Acid.tools.barrel.label>
+  <OTC_SniperRifle_P_Acid.tools.barrel.label>枪管</OTC_SniperRifle_P_Acid.tools.barrel.label>
   <!-- EN: Paragon Nova Prototype(Acid) -->
-  <OTC_SniperRifle_P_Acid.verbs.Verb_Shoot.label>TODO</OTC_SniperRifle_P_Acid.verbs.Verb_Shoot.label>
+  <OTC_SniperRifle_P_Acid.verbs.Verb_Shoot.label>完美新星原型（酸液）</OTC_SniperRifle_P_Acid.verbs.Verb_Shoot.label>
   
 </LanguageData>

@@ -1,188 +1,188 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Nimbus EMP arrow -->
-  <Bullet_OTC_B_EMP.label>TODO</Bullet_OTC_B_EMP.label>
+  <Bullet_OTC_B_EMP.label>宁巴斯EMP箭</Bullet_OTC_B_EMP.label>
   
   <!-- EN: Nimbus Prototype EMP arrow -->
-  <Bullet_OTC_B_M_EMP.label>TODO</Bullet_OTC_B_M_EMP.label>
+  <Bullet_OTC_B_M_EMP.label>宁巴斯原型EMP箭</Bullet_OTC_B_M_EMP.label>
   
   <!-- EN: Meteor EMP grenade -->
-  <Bullet_OTC_GL_EMP.label>TODO</Bullet_OTC_GL_EMP.label>
+  <Bullet_OTC_GL_EMP.label>流星EMP手榴弹</Bullet_OTC_GL_EMP.label>
   
   <!-- EN: Meteor Prototype EMP grenade -->
-  <Bullet_OTC_GL_M_EMP.label>TODO</Bullet_OTC_GL_M_EMP.label>
+  <Bullet_OTC_GL_M_EMP.label>流星原型EMP手榴弹</Bullet_OTC_GL_M_EMP.label>
   
   <!-- EN: Pulsar EMP energy ball -->
-  <Bullet_OTC_MC_EMP.label>TODO</Bullet_OTC_MC_EMP.label>
+  <Bullet_OTC_MC_EMP.label>脉冲EMP能量球</Bullet_OTC_MC_EMP.label>
   
   <!-- EN: Pulsar Prototype EMP energy ball -->
-  <Bullet_OTC_MC_M_EMP.label>TODO</Bullet_OTC_MC_M_EMP.label>
+  <Bullet_OTC_MC_M_EMP.label>脉冲原型EMP能量球</Bullet_OTC_MC_M_EMP.label>
   
   <!-- EN: Celestial EMP energy bullet -->
-  <Bullet_OTC_P_EMP.label>TODO</Bullet_OTC_P_EMP.label>
+  <Bullet_OTC_P_EMP.label>天体EMP能量弹</Bullet_OTC_P_EMP.label>
   
   <!-- EN: Celestial Prototype EMP energy bullet -->
-  <Bullet_OTC_P_M_EMP.label>TODO</Bullet_OTC_P_M_EMP.label>
+  <Bullet_OTC_P_M_EMP.label>天体原型EMP能量弹</Bullet_OTC_P_M_EMP.label>
   
   <!-- EN: Quasar EMP energy ball -->
-  <Bullet_OTC_S_EMP.label>TODO</Bullet_OTC_S_EMP.label>
+  <Bullet_OTC_S_EMP.label>类星体EMP能量球</Bullet_OTC_S_EMP.label>
   
   <!-- EN: Quasar Prototype EMP energy ball -->
-  <Bullet_OTC_S_M_EMP.label>TODO</Bullet_OTC_S_M_EMP.label>
+  <Bullet_OTC_S_M_EMP.label>类星体原型EMP能量球</Bullet_OTC_S_M_EMP.label>
   
   <!-- EN: Equalizer EMP energy bullet -->
-  <Bullet_OTC_SMG_EMP.label>TODO</Bullet_OTC_SMG_EMP.label>
+  <Bullet_OTC_SMG_EMP.label>平衡者EMP能量弹</Bullet_OTC_SMG_EMP.label>
   
   <!-- EN: Equalizer Prototype EMP energy bullet -->
-  <Bullet_OTC_SMG_M_EMP.label>TODO</Bullet_OTC_SMG_M_EMP.label>
+  <Bullet_OTC_SMG_M_EMP.label>平衡者原型EMP能量弹</Bullet_OTC_SMG_M_EMP.label>
   
   <!-- EN: Nova EMP energy ball -->
-  <Bullet_OTC_SR_EMP.label>TODO</Bullet_OTC_SR_EMP.label>
+  <Bullet_OTC_SR_EMP.label>新星EMP能量球</Bullet_OTC_SR_EMP.label>
   
   <!-- EN: Nova Prototype EMP energy ball -->
-  <Bullet_OTC_SR_M_EMP.label>TODO</Bullet_OTC_SR_M_EMP.label>
+  <Bullet_OTC_SR_M_EMP.label>新星原型EMP能量球</Bullet_OTC_SR_M_EMP.label>
   
   <!-- EN: Nimbus(EMP) -->
-  <OTC_Bow_EMP.label>TODO</OTC_Bow_EMP.label>
+  <OTC_Bow_EMP.label>宁巴斯（EMP）</OTC_Bow_EMP.label>
   <!-- EN: Regular Bow used by OTC Mechanics. Balanced weapon with EMP charges.\n\nIt's remanufactured weapon based on OEC Bow.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
-  <OTC_Bow_EMP.description>TODO</OTC_Bow_EMP.description>
+  <OTC_Bow_EMP.description>OTC机械师使用的常规弓。带有EMP充能的平衡武器。\n\n这是基于OEC弓的再制造武器。\n\n警告！EMP伤害并非用于摧毁血肉之躯。</OTC_Bow_EMP.description>
   <!-- EN: limb -->
-  <OTC_Bow_EMP.tools.limb.label>TODO</OTC_Bow_EMP.tools.limb.label>
+  <OTC_Bow_EMP.tools.limb.label>弓臂</OTC_Bow_EMP.tools.limb.label>
   <!-- EN: Nimbus(EMP) -->
-  <OTC_Bow_EMP.verbs.Verb_Shoot.label>TODO</OTC_Bow_EMP.verbs.Verb_Shoot.label>
+  <OTC_Bow_EMP.verbs.Verb_Shoot.label>宁巴斯（EMP）</OTC_Bow_EMP.verbs.Verb_Shoot.label>
   
   <!-- EN: Nimbus Prototype(EMP) -->
-  <OTC_Bow_M_EMP.label>TODO</OTC_Bow_M_EMP.label>
+  <OTC_Bow_M_EMP.label>宁巴斯原型（EMP）</OTC_Bow_M_EMP.label>
   <!-- EN: Experimental Bow used by OTC Engineers. Balanced weapon with EMP charges.\n\nIt's remanufactured weapon based on OEC Bow.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
-  <OTC_Bow_M_EMP.description>TODO</OTC_Bow_M_EMP.description>
+  <OTC_Bow_M_EMP.description>OTC工程师使用的实验性弓。带有EMP充能的平衡武器。\n\n这是基于OEC弓的再制造武器。\n\n警告！EMP伤害并非用于摧毁血肉之躯。</OTC_Bow_M_EMP.description>
   <!-- EN: limb -->
-  <OTC_Bow_M_EMP.tools.limb.label>TODO</OTC_Bow_M_EMP.tools.limb.label>
+  <OTC_Bow_M_EMP.tools.limb.label>弓臂</OTC_Bow_M_EMP.tools.limb.label>
   <!-- EN: Nimbus Prototype(EMP) -->
-  <OTC_Bow_M_EMP.verbs.Verb_Shoot.label>TODO</OTC_Bow_M_EMP.verbs.Verb_Shoot.label>
+  <OTC_Bow_M_EMP.verbs.Verb_Shoot.label>宁巴斯原型（EMP）</OTC_Bow_M_EMP.verbs.Verb_Shoot.label>
   
   <!-- EN: Meteor(EMP) -->
-  <OTC_GrenadeLauncher_EMP.label>TODO</OTC_GrenadeLauncher_EMP.label>
+  <OTC_GrenadeLauncher_EMP.label>流星（EMP）</OTC_GrenadeLauncher_EMP.label>
   <!-- EN: Regular Grenade Launcher used by OTC Mechanics. Balanced weapon with EMP charges.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
-  <OTC_GrenadeLauncher_EMP.description>TODO</OTC_GrenadeLauncher_EMP.description>
+  <OTC_GrenadeLauncher_EMP.description>OTC机械师使用的常规榴弹发射器。带有EMP充能的平衡武器。\n\n警告！EMP伤害并非用于摧毁血肉之躯。</OTC_GrenadeLauncher_EMP.description>
   <!-- EN: barrel -->
-  <OTC_GrenadeLauncher_EMP.tools.barrel.label>TODO</OTC_GrenadeLauncher_EMP.tools.barrel.label>
+  <OTC_GrenadeLauncher_EMP.tools.barrel.label>枪管</OTC_GrenadeLauncher_EMP.tools.barrel.label>
   <!-- EN: Meteor(EMP) -->
-  <OTC_GrenadeLauncher_EMP.verbs.Verb_Shoot.label>TODO</OTC_GrenadeLauncher_EMP.verbs.Verb_Shoot.label>
+  <OTC_GrenadeLauncher_EMP.verbs.Verb_Shoot.label>流星（EMP）</OTC_GrenadeLauncher_EMP.verbs.Verb_Shoot.label>
   
   <!-- EN: Meteor Prototype(EMP) -->
-  <OTC_GrenadeLauncher_M_EMP.label>TODO</OTC_GrenadeLauncher_M_EMP.label>
+  <OTC_GrenadeLauncher_M_EMP.label>流星原型（EMP）</OTC_GrenadeLauncher_M_EMP.label>
   <!-- EN: Experimental Grenade Launcher used by OTC Engineers. Balanced weapon with EMP charges.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
-  <OTC_GrenadeLauncher_M_EMP.description>TODO</OTC_GrenadeLauncher_M_EMP.description>
+  <OTC_GrenadeLauncher_M_EMP.description>OTC工程师使用的实验性榴弹发射器。带有EMP充能的平衡武器。\n\n警告！EMP伤害并非用于摧毁血肉之躯。</OTC_GrenadeLauncher_M_EMP.description>
   <!-- EN: barrel -->
-  <OTC_GrenadeLauncher_M_EMP.tools.barrel.label>TODO</OTC_GrenadeLauncher_M_EMP.tools.barrel.label>
+  <OTC_GrenadeLauncher_M_EMP.tools.barrel.label>枪管</OTC_GrenadeLauncher_M_EMP.tools.barrel.label>
   <!-- EN: Meteor Prototype(EMP) -->
-  <OTC_GrenadeLauncher_M_EMP.verbs.Verb_Shoot.label>TODO</OTC_GrenadeLauncher_M_EMP.verbs.Verb_Shoot.label>
+  <OTC_GrenadeLauncher_M_EMP.verbs.Verb_Shoot.label>流星原型（EMP）</OTC_GrenadeLauncher_M_EMP.verbs.Verb_Shoot.label>
   
   <!-- EN: Pulsar(EMP) -->
-  <OTC_MultiCannon_EMP.label>TODO</OTC_MultiCannon_EMP.label>
+  <OTC_MultiCannon_EMP.label>脉冲（EMP）</OTC_MultiCannon_EMP.label>
   <!-- EN: Regular Multi-Cannon used by OTC Mechanics. Balanced weapon with EMP charges.\n\nIt's remanufactured weapon based on OCC Multi-Cannon.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
-  <OTC_MultiCannon_EMP.description>TODO</OTC_MultiCannon_EMP.description>
+  <OTC_MultiCannon_EMP.description>OTC机械师使用的常规多管火炮。带有EMP充能的平衡武器。\n\n这是基于OCC多管火炮的再制造武器。\n\n警告！EMP伤害并非用于摧毁血肉之躯。</OTC_MultiCannon_EMP.description>
   <!-- EN: barrels -->
-  <OTC_MultiCannon_EMP.tools.barrels.label>TODO</OTC_MultiCannon_EMP.tools.barrels.label>
+  <OTC_MultiCannon_EMP.tools.barrels.label>枪管</OTC_MultiCannon_EMP.tools.barrels.label>
   <!-- EN: Pulsar(EMP) -->
-  <OTC_MultiCannon_EMP.verbs.Verb_Shoot.label>TODO</OTC_MultiCannon_EMP.verbs.Verb_Shoot.label>
+  <OTC_MultiCannon_EMP.verbs.Verb_Shoot.label>脉冲（EMP）</OTC_MultiCannon_EMP.verbs.Verb_Shoot.label>
   
   <!-- EN: Pulsar Prototype(EMP) -->
-  <OTC_MultiCannon_M_EMP.label>TODO</OTC_MultiCannon_M_EMP.label>
+  <OTC_MultiCannon_M_EMP.label>脉冲原型（EMP）</OTC_MultiCannon_M_EMP.label>
   <!-- EN: Experimental Multi-Cannon used by OTC Engineers. Balanced weapon with EMP charges.\n\nIt's remanufactured weapon based on OCC Multi-Cannon.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
-  <OTC_MultiCannon_M_EMP.description>TODO</OTC_MultiCannon_M_EMP.description>
+  <OTC_MultiCannon_M_EMP.description>OTC工程师使用的实验性多管火炮。带有EMP充能的平衡武器。\n\n这是基于OCC多管火炮的再制造武器。\n\n警告！EMP伤害并非用于摧毁血肉之躯。</OTC_MultiCannon_M_EMP.description>
   <!-- EN: barrels -->
-  <OTC_MultiCannon_M_EMP.tools.barrels.label>TODO</OTC_MultiCannon_M_EMP.tools.barrels.label>
+  <OTC_MultiCannon_M_EMP.tools.barrels.label>枪管</OTC_MultiCannon_M_EMP.tools.barrels.label>
   <!-- EN: Pulsar Prototype(EMP) -->
-  <OTC_MultiCannon_M_EMP.verbs.Verb_Shoot.label>TODO</OTC_MultiCannon_M_EMP.verbs.Verb_Shoot.label>
+  <OTC_MultiCannon_M_EMP.verbs.Verb_Shoot.label>脉冲原型（EMP）</OTC_MultiCannon_M_EMP.verbs.Verb_Shoot.label>
   
   <!-- EN: Celestial(EMP) -->
-  <OTC_Pistol_EMP.label>TODO</OTC_Pistol_EMP.label>
+  <OTC_Pistol_EMP.label>天体（EMP）</OTC_Pistol_EMP.label>
   <!-- EN: Regular Pistol used by OTC Mechanics. Balanced weapon with EMP charges.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
-  <OTC_Pistol_EMP.description>TODO</OTC_Pistol_EMP.description>
+  <OTC_Pistol_EMP.description>OTC机械师使用的常规手枪。带有EMP充能的平衡武器。\n\n警告！EMP伤害并非用于摧毁血肉之躯。</OTC_Pistol_EMP.description>
   <!-- EN: grip -->
-  <OTC_Pistol_EMP.tools.grip.label>TODO</OTC_Pistol_EMP.tools.grip.label>
+  <OTC_Pistol_EMP.tools.grip.label>握把</OTC_Pistol_EMP.tools.grip.label>
   <!-- EN: barrel -->
-  <OTC_Pistol_EMP.tools.barrel.label>TODO</OTC_Pistol_EMP.tools.barrel.label>
+  <OTC_Pistol_EMP.tools.barrel.label>枪管</OTC_Pistol_EMP.tools.barrel.label>
   <!-- EN: Celestial(EMP) -->
-  <OTC_Pistol_EMP.verbs.Verb_Shoot.label>TODO</OTC_Pistol_EMP.verbs.Verb_Shoot.label>
+  <OTC_Pistol_EMP.verbs.Verb_Shoot.label>天体（EMP）</OTC_Pistol_EMP.verbs.Verb_Shoot.label>
   
   <!-- EN: Celestial Prototype(EMP) -->
-  <OTC_Pistol_M_EMP.label>TODO</OTC_Pistol_M_EMP.label>
+  <OTC_Pistol_M_EMP.label>天体原型（EMP）</OTC_Pistol_M_EMP.label>
   <!-- EN: Experimental Pistol used by OTC Engineers. Balanced weapon with EMP charges.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
-  <OTC_Pistol_M_EMP.description>TODO</OTC_Pistol_M_EMP.description>
+  <OTC_Pistol_M_EMP.description>OTC工程师使用的实验性手枪。带有EMP充能的平衡武器。\n\n警告！EMP伤害并非用于摧毁血肉之躯。</OTC_Pistol_M_EMP.description>
   <!-- EN: grip -->
-  <OTC_Pistol_M_EMP.tools.grip.label>TODO</OTC_Pistol_M_EMP.tools.grip.label>
+  <OTC_Pistol_M_EMP.tools.grip.label>握把</OTC_Pistol_M_EMP.tools.grip.label>
   <!-- EN: barrel -->
-  <OTC_Pistol_M_EMP.tools.barrel.label>TODO</OTC_Pistol_M_EMP.tools.barrel.label>
+  <OTC_Pistol_M_EMP.tools.barrel.label>枪管</OTC_Pistol_M_EMP.tools.barrel.label>
   <!-- EN: Celestial Prototype(EMP) -->
-  <OTC_Pistol_M_EMP.verbs.Verb_Shoot.label>TODO</OTC_Pistol_M_EMP.verbs.Verb_Shoot.label>
+  <OTC_Pistol_M_EMP.verbs.Verb_Shoot.label>天体原型（EMP）</OTC_Pistol_M_EMP.verbs.Verb_Shoot.label>
   
   <!-- EN: Quasar(EMP) -->
-  <OTC_Shotgun_EMP.label>TODO</OTC_Shotgun_EMP.label>
+  <OTC_Shotgun_EMP.label>类星体（EMP）</OTC_Shotgun_EMP.label>
   <!-- EN: Regular Shotgun used by OTC Mechanics. Balanced weapon with EMP charges.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
-  <OTC_Shotgun_EMP.description>TODO</OTC_Shotgun_EMP.description>
+  <OTC_Shotgun_EMP.description>OTC机械师使用的常规霰弹枪。带有EMP充能的平衡武器。\n\n警告！EMP伤害并非用于摧毁血肉之躯。</OTC_Shotgun_EMP.description>
   <!-- EN: stock -->
-  <OTC_Shotgun_EMP.tools.stock.label>TODO</OTC_Shotgun_EMP.tools.stock.label>
+  <OTC_Shotgun_EMP.tools.stock.label>枪托</OTC_Shotgun_EMP.tools.stock.label>
   <!-- EN: barrel -->
-  <OTC_Shotgun_EMP.tools.barrel.label>TODO</OTC_Shotgun_EMP.tools.barrel.label>
+  <OTC_Shotgun_EMP.tools.barrel.label>枪管</OTC_Shotgun_EMP.tools.barrel.label>
   <!-- EN: Quasar(EMP) -->
-  <OTC_Shotgun_EMP.verbs.Verb_Shoot.label>TODO</OTC_Shotgun_EMP.verbs.Verb_Shoot.label>
+  <OTC_Shotgun_EMP.verbs.Verb_Shoot.label>类星体（EMP）</OTC_Shotgun_EMP.verbs.Verb_Shoot.label>
   
   <!-- EN: Quasar Prototype(EMP) -->
-  <OTC_Shotgun_M_EMP.label>TODO</OTC_Shotgun_M_EMP.label>
+  <OTC_Shotgun_M_EMP.label>类星体原型（EMP）</OTC_Shotgun_M_EMP.label>
   <!-- EN: Experimental Shotgun used by OTC Engineers. Balanced weapon with EMP charges.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
-  <OTC_Shotgun_M_EMP.description>TODO</OTC_Shotgun_M_EMP.description>
+  <OTC_Shotgun_M_EMP.description>OTC工程师使用的实验性霰弹枪。带有EMP充能的平衡武器。\n\n警告！EMP伤害并非用于摧毁血肉之躯。</OTC_Shotgun_M_EMP.description>
   <!-- EN: stock -->
-  <OTC_Shotgun_M_EMP.tools.stock.label>TODO</OTC_Shotgun_M_EMP.tools.stock.label>
+  <OTC_Shotgun_M_EMP.tools.stock.label>枪托</OTC_Shotgun_M_EMP.tools.stock.label>
   <!-- EN: barrel -->
-  <OTC_Shotgun_M_EMP.tools.barrel.label>TODO</OTC_Shotgun_M_EMP.tools.barrel.label>
+  <OTC_Shotgun_M_EMP.tools.barrel.label>枪管</OTC_Shotgun_M_EMP.tools.barrel.label>
   <!-- EN: Quasar Prototype(EMP) -->
-  <OTC_Shotgun_M_EMP.verbs.Verb_Shoot.label>TODO</OTC_Shotgun_M_EMP.verbs.Verb_Shoot.label>
+  <OTC_Shotgun_M_EMP.verbs.Verb_Shoot.label>类星体原型（EMP）</OTC_Shotgun_M_EMP.verbs.Verb_Shoot.label>
   
   <!-- EN: Equalizer(EMP) -->
-  <OTC_SMG_EMP.label>TODO</OTC_SMG_EMP.label>
+  <OTC_SMG_EMP.label>平衡者（EMP）</OTC_SMG_EMP.label>
   <!-- EN: Regular SMG used by OTC Mechanics. Balanced weapon with EMP charges.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
-  <OTC_SMG_EMP.description>TODO</OTC_SMG_EMP.description>
+  <OTC_SMG_EMP.description>OTC机械师使用的常规冲锋枪。带有EMP充能的平衡武器。\n\n警告！EMP伤害并非用于摧毁血肉之躯。</OTC_SMG_EMP.description>
   <!-- EN: stock -->
-  <OTC_SMG_EMP.tools.stock.label>TODO</OTC_SMG_EMP.tools.stock.label>
+  <OTC_SMG_EMP.tools.stock.label>枪托</OTC_SMG_EMP.tools.stock.label>
   <!-- EN: barrel -->
-  <OTC_SMG_EMP.tools.barrel.label>TODO</OTC_SMG_EMP.tools.barrel.label>
+  <OTC_SMG_EMP.tools.barrel.label>枪管</OTC_SMG_EMP.tools.barrel.label>
   <!-- EN: Equalizer(EMP) -->
-  <OTC_SMG_EMP.verbs.Verb_Shoot.label>TODO</OTC_SMG_EMP.verbs.Verb_Shoot.label>
+  <OTC_SMG_EMP.verbs.Verb_Shoot.label>平衡者（EMP）</OTC_SMG_EMP.verbs.Verb_Shoot.label>
   
   <!-- EN: Equalizer Prototype(EMP) -->
-  <OTC_SMG_M_EMP.label>TODO</OTC_SMG_M_EMP.label>
+  <OTC_SMG_M_EMP.label>平衡者原型（EMP）</OTC_SMG_M_EMP.label>
   <!-- EN: Experimental SMG used by OTC Engineers. Balanced weapon with EMP charges.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
-  <OTC_SMG_M_EMP.description>TODO</OTC_SMG_M_EMP.description>
+  <OTC_SMG_M_EMP.description>OTC工程师使用的实验性冲锋枪。带有EMP充能的平衡武器。\n\n警告！EMP伤害并非用于摧毁血肉之躯。</OTC_SMG_M_EMP.description>
   <!-- EN: stock -->
-  <OTC_SMG_M_EMP.tools.stock.label>TODO</OTC_SMG_M_EMP.tools.stock.label>
+  <OTC_SMG_M_EMP.tools.stock.label>枪托</OTC_SMG_M_EMP.tools.stock.label>
   <!-- EN: barrel -->
-  <OTC_SMG_M_EMP.tools.barrel.label>TODO</OTC_SMG_M_EMP.tools.barrel.label>
+  <OTC_SMG_M_EMP.tools.barrel.label>枪管</OTC_SMG_M_EMP.tools.barrel.label>
   <!-- EN: Equalizer Prototype(EMP) -->
-  <OTC_SMG_M_EMP.verbs.Verb_Shoot.label>TODO</OTC_SMG_M_EMP.verbs.Verb_Shoot.label>
+  <OTC_SMG_M_EMP.verbs.Verb_Shoot.label>平衡者原型（EMP）</OTC_SMG_M_EMP.verbs.Verb_Shoot.label>
   
   <!-- EN: Nova(EMP) -->
-  <OTC_SniperRifle_EMP.label>TODO</OTC_SniperRifle_EMP.label>
+  <OTC_SniperRifle_EMP.label>新星（EMP）</OTC_SniperRifle_EMP.label>
   <!-- EN: Regular Sniper Rifle used by OTC Mechanics. Balanced weapon with EMP charges.\n\nIt's remanufactured weapon based on OMC Sniper Rifle.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
-  <OTC_SniperRifle_EMP.description>TODO</OTC_SniperRifle_EMP.description>
+  <OTC_SniperRifle_EMP.description>OTC机械师使用的常规狙击步枪。带有EMP充能的平衡武器。\n\n这是基于OMC狙击步枪的再制造武器。\n\n警告！EMP伤害并非用于摧毁血肉之躯。</OTC_SniperRifle_EMP.description>
   <!-- EN: stock -->
-  <OTC_SniperRifle_EMP.tools.stock.label>TODO</OTC_SniperRifle_EMP.tools.stock.label>
+  <OTC_SniperRifle_EMP.tools.stock.label>枪托</OTC_SniperRifle_EMP.tools.stock.label>
   <!-- EN: barrel -->
-  <OTC_SniperRifle_EMP.tools.barrel.label>TODO</OTC_SniperRifle_EMP.tools.barrel.label>
+  <OTC_SniperRifle_EMP.tools.barrel.label>枪管</OTC_SniperRifle_EMP.tools.barrel.label>
   <!-- EN: Nova(EMP) -->
-  <OTC_SniperRifle_EMP.verbs.Verb_Shoot.label>TODO</OTC_SniperRifle_EMP.verbs.Verb_Shoot.label>
+  <OTC_SniperRifle_EMP.verbs.Verb_Shoot.label>新星（EMP）</OTC_SniperRifle_EMP.verbs.Verb_Shoot.label>
   
   <!-- EN: Nova Prototype(EMP) -->
-  <OTC_SniperRifle_M_EMP.label>TODO</OTC_SniperRifle_M_EMP.label>
+  <OTC_SniperRifle_M_EMP.label>新星原型（EMP）</OTC_SniperRifle_M_EMP.label>
   <!-- EN: Experimental Sniper Rifle used by OTC Engineers. Balanced weapon with EMP charges.\n\nIt's remanufactured weapon based on OMC Sniper Rifle.\n\nWarning! EMP damage isn't intended to destroy meatbags. -->
-  <OTC_SniperRifle_M_EMP.description>TODO</OTC_SniperRifle_M_EMP.description>
+  <OTC_SniperRifle_M_EMP.description>OTC工程师使用的实验性狙击步枪。带有EMP充能的平衡武器。\n\n这是基于OMC狙击步枪的再制造武器。\n\n警告！EMP伤害并非用于摧毁血肉之躯。</OTC_SniperRifle_M_EMP.description>
   <!-- EN: stock -->
-  <OTC_SniperRifle_M_EMP.tools.stock.label>TODO</OTC_SniperRifle_M_EMP.tools.stock.label>
+  <OTC_SniperRifle_M_EMP.tools.stock.label>枪托</OTC_SniperRifle_M_EMP.tools.stock.label>
   <!-- EN: barrel -->
-  <OTC_SniperRifle_M_EMP.tools.barrel.label>TODO</OTC_SniperRifle_M_EMP.tools.barrel.label>
+  <OTC_SniperRifle_M_EMP.tools.barrel.label>枪管</OTC_SniperRifle_M_EMP.tools.barrel.label>
   <!-- EN: Nova Prototype(EMP) -->
-  <OTC_SniperRifle_M_EMP.verbs.Verb_Shoot.label>TODO</OTC_SniperRifle_M_EMP.verbs.Verb_Shoot.label>
+  <OTC_SniperRifle_M_EMP.verbs.Verb_Shoot.label>新星原型（EMP）</OTC_SniperRifle_M_EMP.verbs.Verb_Shoot.label>
   
 </LanguageData>

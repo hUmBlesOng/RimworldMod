@@ -1,33 +1,33 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Proto Nemesis -->
-  <OE_Hammer.label>TODO</OE_Hammer.label>
+  <OE_Hammer.label>原型复仇者</OE_Hammer.label>
   <!-- EN: Proto Hammer, designed for use by Obsidia Empire warriors several centuries ago. -->
-  <OE_Hammer.description>TODO</OE_Hammer.description>
+  <OE_Hammer.description>原型锤，几个世纪前为黑曜石帝国战士设计使用。</OE_Hammer.description>
   <!-- EN: handle -->
-  <OE_Hammer.tools.handle.label>TODO</OE_Hammer.tools.handle.label>
+  <OE_Hammer.tools.handle.label>手柄</OE_Hammer.tools.handle.label>
   <!-- EN: head -->
-  <OE_Hammer.tools.head.label>TODO</OE_Hammer.tools.head.label>
+  <OE_Hammer.tools.head.label>锤头</OE_Hammer.tools.head.label>
   
   <!-- EN: Proto Elitra -->
-  <OE_Spear.label>TODO</OE_Spear.label>
+  <OE_Spear.label>原型鞘翅</OE_Spear.label>
   <!-- EN: Proto Spear, designed for use by Obsidia Empire warriors several centuries ago. -->
-  <OE_Spear.description>TODO</OE_Spear.description>
+  <OE_Spear.description>原型矛，几个世纪前为黑曜石帝国战士设计使用。</OE_Spear.description>
   <!-- EN: shaft -->
-  <OE_Spear.tools.shaft.label>TODO</OE_Spear.tools.shaft.label>
+  <OE_Spear.tools.shaft.label>矛杆</OE_Spear.tools.shaft.label>
   <!-- EN: point -->
-  <OE_Spear.tools.point.label>TODO</OE_Spear.tools.point.label>
+  <OE_Spear.tools.point.label>矛尖</OE_Spear.tools.point.label>
   
   <!-- EN: Proto Delimiter -->
-  <OE_Sword.label>TODO</OE_Sword.label>
+  <OE_Sword.label>原型分隔者</OE_Sword.label>
   <!-- EN: Proto Sword, designed for use by Obsidia Empire warriors several centuries ago. -->
-  <OE_Sword.description>TODO</OE_Sword.description>
+  <OE_Sword.description>原型剑，几个世纪前为黑曜石帝国战士设计使用。</OE_Sword.description>
   <!-- EN: handle -->
-  <OE_Sword.tools.handle.label>TODO</OE_Sword.tools.handle.label>
+  <OE_Sword.tools.handle.label>手柄</OE_Sword.tools.handle.label>
   <!-- EN: point -->
-  <OE_Sword.tools.point.label>TODO</OE_Sword.tools.point.label>
+  <OE_Sword.tools.point.label>剑尖</OE_Sword.tools.point.label>
   <!-- EN: edge -->
-  <OE_Sword.tools.edge.label>TODO</OE_Sword.tools.edge.label>
+  <OE_Sword.tools.edge.label>剑刃</OE_Sword.tools.edge.label>
   
 </LanguageData>

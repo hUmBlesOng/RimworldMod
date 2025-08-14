@@ -1,32 +1,32 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: cyberware - Drug filter(Basic) -->
-  <OE_CyberwareTorso_Drugfilter_Basic.label>TODO</OE_CyberwareTorso_Drugfilter_Basic.label>
+  <OE_CyberwareTorso_Drugfilter_Basic.label>赛博义体 - 药物过滤器（基础）</OE_CyberwareTorso_Drugfilter_Basic.label>
   <!-- EN: Obsidia cyberware is technology installed into the human flesh that sometimes has the capability to interface with the nervous system. Its goal is to achieve higher performance and preventing the host from feeling any negative side effects from not indulging in their addictions. Works only with basic drugs.\n\nInstallation requires - cyberware interface.\n\nThis cyberware can be installed up to 3 times to increase its effect. -->
-  <OE_CyberwareTorso_Drugfilter_Basic.description>TODO</OE_CyberwareTorso_Drugfilter_Basic.description>
+  <OE_CyberwareTorso_Drugfilter_Basic.description>黑曜石赛博义体是安装在人体内的技术，有时能够与神经系统接口。其目标是实现更高性能并防止宿主因无法满足成瘾需求而产生任何负面副作用。仅适用于基础药物。\n\n安装需要 - 赛博义体接口。\n\n此赛博义体最多可安装3次以增强效果。</OE_CyberwareTorso_Drugfilter_Basic.description>
   <!-- EN: Implant {0_label} -->
-  <OE_CyberwareTorso_Drugfilter_Basic.comps.CompUsableImplant.useLabel>TODO</OE_CyberwareTorso_Drugfilter_Basic.comps.CompUsableImplant.useLabel>
+  <OE_CyberwareTorso_Drugfilter_Basic.comps.CompUsableImplant.useLabel>植入{0_label}</OE_CyberwareTorso_Drugfilter_Basic.comps.CompUsableImplant.useLabel>
   
   <!-- EN: cyberware - Drug filter(Exotic) -->
-  <OE_CyberwareTorso_Drugfilter_Exotic.label>TODO</OE_CyberwareTorso_Drugfilter_Exotic.label>
+  <OE_CyberwareTorso_Drugfilter_Exotic.label>赛博义体 - 药物过滤器（异域）</OE_CyberwareTorso_Drugfilter_Exotic.label>
   <!-- EN: Obsidia cyberware is technology installed into the human flesh that sometimes has the capability to interface with the nervous system. Its goal is to achieve higher performance and preventing the host from feeling any negative side effects from not indulging in their addictions. Works only with rare exotic drugs.\n\nInstallation requires - cyberware interface.\n\nThis cyberware can be installed up to 3 times to increase its effect. -->
-  <OE_CyberwareTorso_Drugfilter_Exotic.description>TODO</OE_CyberwareTorso_Drugfilter_Exotic.description>
+  <OE_CyberwareTorso_Drugfilter_Exotic.description>黑曜石赛博义体是安装在人体内的技术，有时能够与神经系统接口。其目标是实现更高性能并防止宿主因无法满足成瘾需求而产生任何负面副作用。仅适用于稀有异域药物。\n\n安装需要 - 赛博义体接口。\n\n此赛博义体最多可安装3次以增强效果。</OE_CyberwareTorso_Drugfilter_Exotic.description>
   <!-- EN: Implant {0_label} -->
-  <OE_CyberwareTorso_Drugfilter_Exotic.comps.CompUsableImplant.useLabel>TODO</OE_CyberwareTorso_Drugfilter_Exotic.comps.CompUsableImplant.useLabel>
+  <OE_CyberwareTorso_Drugfilter_Exotic.comps.CompUsableImplant.useLabel>植入{0_label}</OE_CyberwareTorso_Drugfilter_Exotic.comps.CompUsableImplant.useLabel>
   
   <!-- EN: cyberware - Drug filter(Obsidia) -->
-  <OE_CyberwareTorso_Drugfilter_Obsidia.label>TODO</OE_CyberwareTorso_Drugfilter_Obsidia.label>
+  <OE_CyberwareTorso_Drugfilter_Obsidia.label>赛博义体 - 药物过滤器（黑曜石）</OE_CyberwareTorso_Drugfilter_Obsidia.label>
   <!-- EN: Obsidia cyberware is technology installed into the human flesh that sometimes has the capability to interface with the nervous system. Its goal is to achieve higher performance and preventing the host from feeling any negative side effects from not indulging in their addictions. Works only with obsidia drugs.\n\nInstallation requires - cyberware interface.\n\nThis cyberware can be installed up to 3 times to increase its effect. -->
-  <OE_CyberwareTorso_Drugfilter_Obsidia.description>TODO</OE_CyberwareTorso_Drugfilter_Obsidia.description>
+  <OE_CyberwareTorso_Drugfilter_Obsidia.description>黑曜石赛博义体是安装在人体内的技术，有时能够与神经系统接口。其目标是实现更高性能并防止宿主因无法满足成瘾需求而产生任何负面副作用。仅适用于黑曜石药物。\n\n安装需要 - 赛博义体接口。\n\n此赛博义体最多可安装3次以增强效果。</OE_CyberwareTorso_Drugfilter_Obsidia.description>
   <!-- EN: Implant {0_label} -->
-  <OE_CyberwareTorso_Drugfilter_Obsidia.comps.CompUsableImplant.useLabel>TODO</OE_CyberwareTorso_Drugfilter_Obsidia.comps.CompUsableImplant.useLabel>
+  <OE_CyberwareTorso_Drugfilter_Obsidia.comps.CompUsableImplant.useLabel>植入{0_label}</OE_CyberwareTorso_Drugfilter_Obsidia.comps.CompUsableImplant.useLabel>
   
   <!-- EN: cyberware - Temperature protector -->
-  <OE_CyberwareTorso_Temperature.label>TODO</OE_CyberwareTorso_Temperature.label>
+  <OE_CyberwareTorso_Temperature.label>赛博义体 - 温度保护器</OE_CyberwareTorso_Temperature.label>
   <!-- EN: Obsidia cyberware is technology installed into the human flesh that sometimes has the capability to interface with the nervous system. Its goal is to achieve higher performance and bring new enhancements comfortable temperature.\n\nInstallation requires - cyberware interface.\n\nThis cyberware can be installed up to 5 times to increase its effect. -->
-  <OE_CyberwareTorso_Temperature.description>TODO</OE_CyberwareTorso_Temperature.description>
+  <OE_CyberwareTorso_Temperature.description>黑曜石赛博义体是安装在人体内的技术，有时能够与神经系统接口。其目标是实现更高性能并带来新的增强舒适温度。\n\n安装需要 - 赛博义体接口。\n\n此赛博义体最多可安装5次以增强效果。</OE_CyberwareTorso_Temperature.description>
   <!-- EN: Implant {0_label} -->
-  <OE_CyberwareTorso_Temperature.comps.CompUsableImplant.useLabel>TODO</OE_CyberwareTorso_Temperature.comps.CompUsableImplant.useLabel>
+  <OE_CyberwareTorso_Temperature.comps.CompUsableImplant.useLabel>植入{0_label}</OE_CyberwareTorso_Temperature.comps.CompUsableImplant.useLabel>
   
 </LanguageData>

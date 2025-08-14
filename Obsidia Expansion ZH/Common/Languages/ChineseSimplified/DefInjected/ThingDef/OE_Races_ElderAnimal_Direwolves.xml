@@ -1,17 +1,17 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: elder direwolf -->
-  <OE_Elder_Direwolf.label>TODO</OE_Elder_Direwolf.label>
+  <OE_Elder_Direwolf.label>远古恐狼</OE_Elder_Direwolf.label>
   <!-- EN: Obsidia Direwolves look like normal wolves, but these creatures are nearly twice the size. Because of their fur, they prefer to live in cool climates. Hard to tame, but once tamed, they become loyal protectors.\n\nBut among them, there are legends of a singular Direwolf—one who survived countless winters alone in the frozen wastelands, devouring only the strongest prey and evading every trap laid by hunters. This beast did not just survive—it adapted. Over time, the EGO Seed dormant within its blood awakened, binding to its primal instincts and forming a natural amalgam of ferocity and endurance.\n\nNow known as the Elder Direwolf, this creature is no longer just a predator—it's a force of nature. With reinforced hide, crushing jaws, and a terrifying ability to leap great distances, it embodies the wrath of the tundra itself.\n\nElder Direwolves are even rarer and more dangerous than the typical Direwolf. -->
-  <OE_Elder_Direwolf.description>TODO</OE_Elder_Direwolf.description>
+  <OE_Elder_Direwolf.description>黑曜石恐狼看起来像普通狼，但这些生物的体型几乎是普通狼的两倍。由于它们的毛皮，它们更喜欢生活在凉爽的气候中。很难驯服，但一旦被驯服，它们就会成为忠诚的保护者。\n\n但在它们之中，有一个关于独特恐狼的传说——一只在冰冻荒原中独自度过了无数个冬天的恐狼，只捕食最强大的猎物，并躲避猎人们设下的每一个陷阱。这只野兽不仅仅生存下来了——它还适应了环境。随着时间的推移，它血液中沉睡的EGO种子觉醒了，与它的原始本能结合，形成了凶猛和耐力的天然融合体。\n\n现在被称为远古恐狼，这个生物不再只是一种掠食者——它是一种自然力量。拥有强化的皮毛、粉碎性的下颚，以及令人恐惧的远距离跳跃能力，它体现了苔原本身的愤怒。\n\n远古恐狼比普通的恐狼更加稀有和危险。</OE_Elder_Direwolf.description>
   <!-- EN: elder direwolf meat -->
-  <OE_Elder_Direwolf.race.meatLabel>TODO</OE_Elder_Direwolf.race.meatLabel>
+  <OE_Elder_Direwolf.race.meatLabel>远古恐狼肉</OE_Elder_Direwolf.race.meatLabel>
   <!-- EN: left claw -->
-  <OE_Elder_Direwolf.tools.left_claw.label>TODO</OE_Elder_Direwolf.tools.left_claw.label>
+  <OE_Elder_Direwolf.tools.left_claw.label>左爪</OE_Elder_Direwolf.tools.left_claw.label>
   <!-- EN: right claw -->
-  <OE_Elder_Direwolf.tools.right_claw.label>TODO</OE_Elder_Direwolf.tools.right_claw.label>
+  <OE_Elder_Direwolf.tools.right_claw.label>右爪</OE_Elder_Direwolf.tools.right_claw.label>
   <!-- EN: head -->
-  <OE_Elder_Direwolf.tools.head.label>TODO</OE_Elder_Direwolf.tools.head.label>
+  <OE_Elder_Direwolf.tools.head.label>头部</OE_Elder_Direwolf.tools.head.label>
   
 </LanguageData>

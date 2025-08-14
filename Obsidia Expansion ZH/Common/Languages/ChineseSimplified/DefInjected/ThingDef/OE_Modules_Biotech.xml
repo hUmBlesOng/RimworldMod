@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN: Intelligence Module - Mechanitor -->
-  <OE_Module_Mechanitor.label>TODO</OE_Module_Mechanitor.label>
+  <OE_Module_Mechanitor.label>智能模块 - 机械师</OE_Module_Mechanitor.label>
   <!-- EN: The module provides the owner with various bonuses, depending on the model. Designed for use in various areas of Obsidia. -->
-  <OE_Module_Mechanitor.description>TODO</OE_Module_Mechanitor.description>
+  <OE_Module_Mechanitor.description>该模块根据型号为所有者提供各种增益效果。专为在Obsidia的各个领域使用而设计。</OE_Module_Mechanitor.description>
   
 </LanguageData>

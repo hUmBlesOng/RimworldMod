@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: OTC Engineer Helmet(Overseer) -->
-  <OTC_Helmet_M_Mechanitor.label>TODO</OTC_Helmet_M_Mechanitor.label>
+  <OTC_Helmet_M_Mechanitor.label>OTC工程师头盔（监督者）</OTC_Helmet_M_Mechanitor.label>
   <!-- EN: Light power armor Helmet, well protects the owner. Designed and modified for use by OTC Engineers.\n\nModified for improves Mechanoids Control abilities. -->
-  <OTC_Helmet_M_Mechanitor.description>TODO</OTC_Helmet_M_Mechanitor.description>
+  <OTC_Helmet_M_Mechanitor.description>轻型动力装甲头盔，很好地保护使用者。专为OTC工程师设计和改进使用。\n\n改装以增强机械体控制能力。</OTC_Helmet_M_Mechanitor.description>
   
 </LanguageData>

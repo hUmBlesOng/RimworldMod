@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: mutation - Mindweaver -->
-  <EGO_Mutation_Psy.label>TODO</EGO_Mutation_Psy.label>
+  <EGO_Mutation_Psy.label>突变 - 织心者</EGO_Mutation_Psy.label>
   <!-- EN: Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improvements psychic powers.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect. -->
-  <EGO_Mutation_Psy.description>TODO</EGO_Mutation_Psy.description>
+  <EGO_Mutation_Psy.description>突变是一种融合科技适应性改造，能够改变共生体，增强其与宿主的结合并赋予增强能力。其目的是实现更高的性能并改善心灵能力。\n\n植入需要 - 共生体。\n\n这种突变最多可植入15次以增强效果。</EGO_Mutation_Psy.description>
   <!-- EN: Implant {0_label} -->
-  <EGO_Mutation_Psy.comps.CompUsableImplant.useLabel>TODO</EGO_Mutation_Psy.comps.CompUsableImplant.useLabel>
+  <EGO_Mutation_Psy.comps.CompUsableImplant.useLabel>植入{0_label}</EGO_Mutation_Psy.comps.CompUsableImplant.useLabel>
   
 </LanguageData>

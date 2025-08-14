@@ -1,92 +1,92 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: CAC Arachna -->
-  <OE_Mech_CAC_Arachna.label>TODO</OE_Mech_CAC_Arachna.label>
+  <OE_Mech_CAC_Arachna.label>CAC蜘蛛机械体</OE_Mech_CAC_Arachna.label>
   <!-- EN: A medium-sized armored combat mechanoid. The creatures of the same name are taken as the basis for the design.\n\nThis model uses reconstructed CAC Minigun. -->
-  <OE_Mech_CAC_Arachna.description>TODO</OE_Mech_CAC_Arachna.description>
+  <OE_Mech_CAC_Arachna.description>一种中等体型的装甲战斗机械体。以同名生物为基础进行设计。\n\n该型号使用重构的CAC迷你枪。</OE_Mech_CAC_Arachna.description>
   <!-- EN: front left leg -->
-  <OE_Mech_CAC_Arachna.tools.front_left_leg.label>TODO</OE_Mech_CAC_Arachna.tools.front_left_leg.label>
+  <OE_Mech_CAC_Arachna.tools.front_left_leg.label>左前腿</OE_Mech_CAC_Arachna.tools.front_left_leg.label>
   <!-- EN: front right leg -->
-  <OE_Mech_CAC_Arachna.tools.front_right_leg.label>TODO</OE_Mech_CAC_Arachna.tools.front_right_leg.label>
+  <OE_Mech_CAC_Arachna.tools.front_right_leg.label>右前腿</OE_Mech_CAC_Arachna.tools.front_right_leg.label>
   <!-- EN: head -->
-  <OE_Mech_CAC_Arachna.tools.head.label>TODO</OE_Mech_CAC_Arachna.tools.head.label>
+  <OE_Mech_CAC_Arachna.tools.head.label>头部</OE_Mech_CAC_Arachna.tools.head.label>
   
   <!-- EN: OCC Arachna -->
-  <OE_Mech_OCC_Arachna.label>TODO</OE_Mech_OCC_Arachna.label>
+  <OE_Mech_OCC_Arachna.label>OCC蜘蛛机械体</OE_Mech_OCC_Arachna.label>
   <!-- EN: A medium-sized armored combat mechanoid. The creatures of the same name are taken as the basis for the design.\n\nThis model uses reconstructed OCC Rifle. -->
-  <OE_Mech_OCC_Arachna.description>TODO</OE_Mech_OCC_Arachna.description>
+  <OE_Mech_OCC_Arachna.description>一种中等体型的装甲战斗机械体。以同名生物为基础进行设计。\n\n该型号使用重构的OCC步枪。</OE_Mech_OCC_Arachna.description>
   <!-- EN: front left leg -->
-  <OE_Mech_OCC_Arachna.tools.front_left_leg.label>TODO</OE_Mech_OCC_Arachna.tools.front_left_leg.label>
+  <OE_Mech_OCC_Arachna.tools.front_left_leg.label>左前腿</OE_Mech_OCC_Arachna.tools.front_left_leg.label>
   <!-- EN: front right leg -->
-  <OE_Mech_OCC_Arachna.tools.front_right_leg.label>TODO</OE_Mech_OCC_Arachna.tools.front_right_leg.label>
+  <OE_Mech_OCC_Arachna.tools.front_right_leg.label>右前腿</OE_Mech_OCC_Arachna.tools.front_right_leg.label>
   <!-- EN: head -->
-  <OE_Mech_OCC_Arachna.tools.head.label>TODO</OE_Mech_OCC_Arachna.tools.head.label>
+  <OE_Mech_OCC_Arachna.tools.head.label>头部</OE_Mech_OCC_Arachna.tools.head.label>
   
   <!-- EN: OEC Arachna -->
-  <OE_Mech_OEC_Arachna.label>TODO</OE_Mech_OEC_Arachna.label>
+  <OE_Mech_OEC_Arachna.label>OEC蜘蛛机械体</OE_Mech_OEC_Arachna.label>
   <!-- EN: A medium-sized armored combat mechanoid. The creatures of the same name are taken as the basis for the design.\n\nThis model uses reconstructed OEC Sniper Rifle. -->
-  <OE_Mech_OEC_Arachna.description>TODO</OE_Mech_OEC_Arachna.description>
+  <OE_Mech_OEC_Arachna.description>一种中等体型的装甲战斗机械体。以同名生物为基础进行设计。\n\n该型号使用重构的OEC狙击步枪。</OE_Mech_OEC_Arachna.description>
   <!-- EN: front left leg -->
-  <OE_Mech_OEC_Arachna.tools.front_left_leg.label>TODO</OE_Mech_OEC_Arachna.tools.front_left_leg.label>
+  <OE_Mech_OEC_Arachna.tools.front_left_leg.label>左前腿</OE_Mech_OEC_Arachna.tools.front_left_leg.label>
   <!-- EN: front right leg -->
-  <OE_Mech_OEC_Arachna.tools.front_right_leg.label>TODO</OE_Mech_OEC_Arachna.tools.front_right_leg.label>
+  <OE_Mech_OEC_Arachna.tools.front_right_leg.label>右前腿</OE_Mech_OEC_Arachna.tools.front_right_leg.label>
   <!-- EN: head -->
-  <OE_Mech_OEC_Arachna.tools.head.label>TODO</OE_Mech_OEC_Arachna.tools.head.label>
+  <OE_Mech_OEC_Arachna.tools.head.label>头部</OE_Mech_OEC_Arachna.tools.head.label>
   
   <!-- EN: OMC Arachna -->
-  <OE_Mech_OMC_Arachna.label>TODO</OE_Mech_OMC_Arachna.label>
+  <OE_Mech_OMC_Arachna.label>OMC蜘蛛机械体</OE_Mech_OMC_Arachna.label>
   <!-- EN: A medium-sized armored combat mechanoid. The creatures of the same name are taken as the basis for the design.\n\nThis model uses reconstructed OMC Assault Rifle. -->
-  <OE_Mech_OMC_Arachna.description>TODO</OE_Mech_OMC_Arachna.description>
+  <OE_Mech_OMC_Arachna.description>一种中等体型的装甲战斗机械体。以同名生物为基础进行设计。\n\n该型号使用重构的OMC突击步枪。</OE_Mech_OMC_Arachna.description>
   <!-- EN: front left leg -->
-  <OE_Mech_OMC_Arachna.tools.front_left_leg.label>TODO</OE_Mech_OMC_Arachna.tools.front_left_leg.label>
+  <OE_Mech_OMC_Arachna.tools.front_left_leg.label>左前腿</OE_Mech_OMC_Arachna.tools.front_left_leg.label>
   <!-- EN: front right leg -->
-  <OE_Mech_OMC_Arachna.tools.front_right_leg.label>TODO</OE_Mech_OMC_Arachna.tools.front_right_leg.label>
+  <OE_Mech_OMC_Arachna.tools.front_right_leg.label>右前腿</OE_Mech_OMC_Arachna.tools.front_right_leg.label>
   <!-- EN: head -->
-  <OE_Mech_OMC_Arachna.tools.head.label>TODO</OE_Mech_OMC_Arachna.tools.head.label>
+  <OE_Mech_OMC_Arachna.tools.head.label>头部</OE_Mech_OMC_Arachna.tools.head.label>
   
   <!-- EN: OTC Arachna(Acid) -->
-  <OE_Mech_OTC_Arachna_Acid.label>TODO</OE_Mech_OTC_Arachna_Acid.label>
+  <OE_Mech_OTC_Arachna_Acid.label>OTC蜘蛛机械体（酸液）</OE_Mech_OTC_Arachna_Acid.label>
   <!-- EN: A medium-sized armored combat mechanoid. The creatures of the same name are taken as the basis for the design.\n\nThis model uses reconstructed OTC Shotgun with Acid charges. -->
-  <OE_Mech_OTC_Arachna_Acid.description>TODO</OE_Mech_OTC_Arachna_Acid.description>
+  <OE_Mech_OTC_Arachna_Acid.description>一种中等体型的装甲战斗机械体。以同名生物为基础进行设计。\n\n该型号使用带有酸液弹药的重构OTC霰弹枪。</OE_Mech_OTC_Arachna_Acid.description>
   <!-- EN: front left leg -->
-  <OE_Mech_OTC_Arachna_Acid.tools.front_left_leg.label>TODO</OE_Mech_OTC_Arachna_Acid.tools.front_left_leg.label>
+  <OE_Mech_OTC_Arachna_Acid.tools.front_left_leg.label>左前腿</OE_Mech_OTC_Arachna_Acid.tools.front_left_leg.label>
   <!-- EN: front right leg -->
-  <OE_Mech_OTC_Arachna_Acid.tools.front_right_leg.label>TODO</OE_Mech_OTC_Arachna_Acid.tools.front_right_leg.label>
+  <OE_Mech_OTC_Arachna_Acid.tools.front_right_leg.label>右前腿</OE_Mech_OTC_Arachna_Acid.tools.front_right_leg.label>
   <!-- EN: head -->
-  <OE_Mech_OTC_Arachna_Acid.tools.head.label>TODO</OE_Mech_OTC_Arachna_Acid.tools.head.label>
+  <OE_Mech_OTC_Arachna_Acid.tools.head.label>头部</OE_Mech_OTC_Arachna_Acid.tools.head.label>
   
   <!-- EN: OTC Arachna(Cryo) -->
-  <OE_Mech_OTC_Arachna_Cryo.label>TODO</OE_Mech_OTC_Arachna_Cryo.label>
+  <OE_Mech_OTC_Arachna_Cryo.label>OTC蜘蛛机械体（冷冻）</OE_Mech_OTC_Arachna_Cryo.label>
   <!-- EN: A medium-sized armored combat mechanoid. The creatures of the same name are taken as the basis for the design.\n\nThis model uses reconstructed OTC Shotgun with Cryo charges. -->
-  <OE_Mech_OTC_Arachna_Cryo.description>TODO</OE_Mech_OTC_Arachna_Cryo.description>
+  <OE_Mech_OTC_Arachna_Cryo.description>一种中等体型的装甲战斗机械体。以同名生物为基础进行设计。\n\n该型号使用带有冷冻弹药的重构OTC霰弹枪。</OE_Mech_OTC_Arachna_Cryo.description>
   <!-- EN: front left leg -->
-  <OE_Mech_OTC_Arachna_Cryo.tools.front_left_leg.label>TODO</OE_Mech_OTC_Arachna_Cryo.tools.front_left_leg.label>
+  <OE_Mech_OTC_Arachna_Cryo.tools.front_left_leg.label>左前腿</OE_Mech_OTC_Arachna_Cryo.tools.front_left_leg.label>
   <!-- EN: front right leg -->
-  <OE_Mech_OTC_Arachna_Cryo.tools.front_right_leg.label>TODO</OE_Mech_OTC_Arachna_Cryo.tools.front_right_leg.label>
+  <OE_Mech_OTC_Arachna_Cryo.tools.front_right_leg.label>右前腿</OE_Mech_OTC_Arachna_Cryo.tools.front_right_leg.label>
   <!-- EN: head -->
-  <OE_Mech_OTC_Arachna_Cryo.tools.head.label>TODO</OE_Mech_OTC_Arachna_Cryo.tools.head.label>
+  <OE_Mech_OTC_Arachna_Cryo.tools.head.label>头部</OE_Mech_OTC_Arachna_Cryo.tools.head.label>
   
   <!-- EN: OTC Arachna(EMP) -->
-  <OE_Mech_OTC_Arachna_EMP.label>TODO</OE_Mech_OTC_Arachna_EMP.label>
+  <OE_Mech_OTC_Arachna_EMP.label>OTC蜘蛛机械体（EMP）</OE_Mech_OTC_Arachna_EMP.label>
   <!-- EN: A medium-sized armored combat mechanoid. The creatures of the same name are taken as the basis for the design.\n\nThis model uses reconstructed OTC Shotgun with EMP charges. -->
-  <OE_Mech_OTC_Arachna_EMP.description>TODO</OE_Mech_OTC_Arachna_EMP.description>
+  <OE_Mech_OTC_Arachna_EMP.description>一种中等体型的装甲战斗机械体。以同名生物为基础进行设计。\n\n该型号使用带有EMP弹药的重构OTC霰弹枪。</OE_Mech_OTC_Arachna_EMP.description>
   <!-- EN: front left leg -->
-  <OE_Mech_OTC_Arachna_EMP.tools.front_left_leg.label>TODO</OE_Mech_OTC_Arachna_EMP.tools.front_left_leg.label>
+  <OE_Mech_OTC_Arachna_EMP.tools.front_left_leg.label>左前腿</OE_Mech_OTC_Arachna_EMP.tools.front_left_leg.label>
   <!-- EN: front right leg -->
-  <OE_Mech_OTC_Arachna_EMP.tools.front_right_leg.label>TODO</OE_Mech_OTC_Arachna_EMP.tools.front_right_leg.label>
+  <OE_Mech_OTC_Arachna_EMP.tools.front_right_leg.label>右前腿</OE_Mech_OTC_Arachna_EMP.tools.front_right_leg.label>
   <!-- EN: head -->
-  <OE_Mech_OTC_Arachna_EMP.tools.head.label>TODO</OE_Mech_OTC_Arachna_EMP.tools.head.label>
+  <OE_Mech_OTC_Arachna_EMP.tools.head.label>头部</OE_Mech_OTC_Arachna_EMP.tools.head.label>
   
   <!-- EN: OTC Arachna(Fire) -->
-  <OE_Mech_OTC_Arachna_Fire.label>TODO</OE_Mech_OTC_Arachna_Fire.label>
+  <OE_Mech_OTC_Arachna_Fire.label>OTC蜘蛛机械体（火焰）</OE_Mech_OTC_Arachna_Fire.label>
   <!-- EN: A medium-sized armored combat mechanoid. The creatures of the same name are taken as the basis for the design.\n\nThis model uses reconstructed OTC Shotgun with Fire charges. -->
-  <OE_Mech_OTC_Arachna_Fire.description>TODO</OE_Mech_OTC_Arachna_Fire.description>
+  <OE_Mech_OTC_Arachna_Fire.description>一种中等体型的装甲战斗机械体。以同名生物为基础进行设计。\n\n该型号使用带有火焰弹药的重构OTC霰弹枪。</OE_Mech_OTC_Arachna_Fire.description>
   <!-- EN: front left leg -->
-  <OE_Mech_OTC_Arachna_Fire.tools.front_left_leg.label>TODO</OE_Mech_OTC_Arachna_Fire.tools.front_left_leg.label>
+  <OE_Mech_OTC_Arachna_Fire.tools.front_left_leg.label>左前腿</OE_Mech_OTC_Arachna_Fire.tools.front_left_leg.label>
   <!-- EN: front right leg -->
-  <OE_Mech_OTC_Arachna_Fire.tools.front_right_leg.label>TODO</OE_Mech_OTC_Arachna_Fire.tools.front_right_leg.label>
+  <OE_Mech_OTC_Arachna_Fire.tools.front_right_leg.label>右前腿</OE_Mech_OTC_Arachna_Fire.tools.front_right_leg.label>
   <!-- EN: head -->
-  <OE_Mech_OTC_Arachna_Fire.tools.head.label>TODO</OE_Mech_OTC_Arachna_Fire.tools.head.label>
+  <OE_Mech_OTC_Arachna_Fire.tools.head.label>头部</OE_Mech_OTC_Arachna_Fire.tools.head.label>
   
 </LanguageData>

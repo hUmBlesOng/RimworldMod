@@ -1,19 +1,19 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Mythril ore -->
-  <MineableOEMythril.label>TODO</MineableOEMythril.label>
+  <MineableOEMythril.label>秘银矿石</MineableOEMythril.label>
   <!-- EN: Rock containing bits of mythril. -->
-  <MineableOEMythril.description>TODO</MineableOEMythril.description>
+  <MineableOEMythril.description>含有秘银碎片的岩石。</MineableOEMythril.description>
   
   <!-- EN: Obsidian ore -->
-  <MineableOEObsidian.label>TODO</MineableOEObsidian.label>
+  <MineableOEObsidian.label>黑曜石矿石</MineableOEObsidian.label>
   <!-- EN: Rock containing bits of obsidian. -->
-  <MineableOEObsidian.description>TODO</MineableOEObsidian.description>
+  <MineableOEObsidian.description>含有黑曜石碎片的岩石。</MineableOEObsidian.description>
   
   <!-- EN: Platinum ore -->
-  <MineableOEPlatinum.label>TODO</MineableOEPlatinum.label>
+  <MineableOEPlatinum.label>铂金矿石</MineableOEPlatinum.label>
   <!-- EN: Rock containing bits of platinum. -->
-  <MineableOEPlatinum.description>TODO</MineableOEPlatinum.description>
+  <MineableOEPlatinum.description>含有铂金碎片的岩石。</MineableOEPlatinum.description>
   
 </LanguageData>

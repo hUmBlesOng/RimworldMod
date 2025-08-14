@@ -1,44 +1,44 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: EGO Carapace -->
-  <EGO_Armor_Carapace.label>TODO</EGO_Armor_Carapace.label>
+  <EGO_Armor_Carapace.label>EGO甲壳</EGO_Armor_Carapace.label>
   <!-- EN: Specially gestated amalgam Carapace, perfectly protects the owner. Designed for use by Undyings. Amalgams are hybrids of EGO seed and Obsidia technology.\n\nThe item's quality levels can be reset using an EGO Seed. -->
-  <EGO_Armor_Carapace.description>TODO</EGO_Armor_Carapace.description>
+  <EGO_Armor_Carapace.description>特殊培育的融合体甲壳，完美地保护穿戴者。专为不死者设计。融合体是EGO种子与黑曜石科技的混合体。\n\n该物品的品质等级可以使用EGO种子重置。</EGO_Armor_Carapace.description>
   
   <!-- EN: EGO Shell(Berserker) -->
-  <EGO_Armor_Shell_Melee.label>TODO</EGO_Armor_Shell_Melee.label>
+  <EGO_Armor_Shell_Melee.label>EGO外壳（狂战士）</EGO_Armor_Shell_Melee.label>
   <!-- EN: Specially gestated amalgam Shell, excellent protects the owner. Designed for use by Undyings. Amalgams are hybrids of EGO seed and Obsidia technology.\n\nThis modification improve melee combat stats and modified with the addition of a Smokepop pack.\n\nThe item's quality levels can be reset using an EGO Seed. -->
-  <EGO_Armor_Shell_Melee.description>TODO</EGO_Armor_Shell_Melee.description>
+  <EGO_Armor_Shell_Melee.description>特殊培育的融合体外壳，出色地保护穿戴者。专为不死者设计。融合体是EGO种子与黑曜石科技的混合体。\n\n此改装提高了近战战斗属性并增加了烟雾弹背包。\n\n该物品的品质等级可以使用EGO种子重置。</EGO_Armor_Shell_Melee.description>
   <!-- EN: smokepop -->
-  <EGO_Armor_Shell_Melee.comps.CompApparelReloadable.chargeNoun>TODO</EGO_Armor_Shell_Melee.comps.CompApparelReloadable.chargeNoun>
+  <EGO_Armor_Shell_Melee.comps.CompApparelReloadable.chargeNoun>烟雾弹</EGO_Armor_Shell_Melee.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <EGO_Armor_Shell_Melee.comps.CompApparelReloadable.cooldownGerund>TODO</EGO_Armor_Shell_Melee.comps.CompApparelReloadable.cooldownGerund>
+  <EGO_Armor_Shell_Melee.comps.CompApparelReloadable.cooldownGerund>冷却中</EGO_Armor_Shell_Melee.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: EGO Shell(Berserker) -->
-  <EGO_Armor_Shell_Melee.verbs.Verb_SmokePop.label>TODO</EGO_Armor_Shell_Melee.verbs.Verb_SmokePop.label>
+  <EGO_Armor_Shell_Melee.verbs.Verb_SmokePop.label>EGO外壳（狂战士）</EGO_Armor_Shell_Melee.verbs.Verb_SmokePop.label>
   
   <!-- EN: EGO Shell(Ballista) -->
-  <EGO_Armor_Shell_Ranged.label>TODO</EGO_Armor_Shell_Ranged.label>
+  <EGO_Armor_Shell_Ranged.label>EGO外壳（弩炮）</EGO_Armor_Shell_Ranged.label>
   <!-- EN: Specially gestated amalgam Shell, excellent protects the owner. Designed for use by Undyings. Amalgams are hybrids of EGO seed and Obsidia technology.\n\nThis modification improve ranged combat stats and modified by installing a Grenade Launcher.\n\nThe item's quality levels can be reset using an EGO Seed. -->
-  <EGO_Armor_Shell_Ranged.description>TODO</EGO_Armor_Shell_Ranged.description>
+  <EGO_Armor_Shell_Ranged.description>特殊培育的融合体外壳，出色地保护穿戴者。专为不死者设计。融合体是EGO种子与黑曜石科技的混合体。\n\n此改装提高了远程战斗属性并安装了榴弹发射器。\n\n该物品的品质等级可以使用EGO种子重置。</EGO_Armor_Shell_Ranged.description>
   <!-- EN: grenade -->
-  <EGO_Armor_Shell_Ranged.comps.CompApparelReloadable.chargeNoun>TODO</EGO_Armor_Shell_Ranged.comps.CompApparelReloadable.chargeNoun>
+  <EGO_Armor_Shell_Ranged.comps.CompApparelReloadable.chargeNoun>榴弹</EGO_Armor_Shell_Ranged.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <EGO_Armor_Shell_Ranged.comps.CompApparelReloadable.cooldownGerund>TODO</EGO_Armor_Shell_Ranged.comps.CompApparelReloadable.cooldownGerund>
+  <EGO_Armor_Shell_Ranged.comps.CompApparelReloadable.cooldownGerund>冷却中</EGO_Armor_Shell_Ranged.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: EGO Shell(Ballista) -->
-  <EGO_Armor_Shell_Ranged.verbs.Verb_LaunchProjectileStatic.label>TODO</EGO_Armor_Shell_Ranged.verbs.Verb_LaunchProjectileStatic.label>
+  <EGO_Armor_Shell_Ranged.verbs.Verb_LaunchProjectileStatic.label>EGO外壳（弩炮）</EGO_Armor_Shell_Ranged.verbs.Verb_LaunchProjectileStatic.label>
   
   <!-- EN: EGO Shell(Constructor) -->
-  <EGO_Armor_Shell_Worker.label>TODO</EGO_Armor_Shell_Worker.label>
+  <EGO_Armor_Shell_Worker.label>EGO外壳（建造者）</EGO_Armor_Shell_Worker.label>
   <!-- EN: Specially gestated amalgam Shell, excellent protects the owner. Designed for use by Undyings. Amalgams are hybrids of EGO seed and Obsidia technology.\n\nThis modification improve working stats.\n\nThe item's quality levels can be reset using an EGO Seed. -->
-  <EGO_Armor_Shell_Worker.description>TODO</EGO_Armor_Shell_Worker.description>
+  <EGO_Armor_Shell_Worker.description>特殊培育的融合体外壳，出色地保护穿戴者。专为不死者设计。融合体是EGO种子与黑曜石科技的混合体。\n\n此改装提高了工作属性。\n\n该物品的品质等级可以使用EGO种子重置。</EGO_Armor_Shell_Worker.description>
   
   <!-- EN: EGO Suit -->
-  <EGO_Armor_Suit.label>TODO</EGO_Armor_Suit.label>
+  <EGO_Armor_Suit.label>EGO套装</EGO_Armor_Suit.label>
   <!-- EN: Specially gestated amalgam Suit, well protects the owner. Designed for use by Undyings. Amalgams are hybrids of EGO seed and Obsidia technology.\n\nThe item's quality levels can be reset using an EGO Seed. -->
-  <EGO_Armor_Suit.description>TODO</EGO_Armor_Suit.description>
+  <EGO_Armor_Suit.description>特殊培育的融合体套装，良好地保护穿戴者。专为不死者设计。融合体是EGO种子与黑曜石科技的混合体。\n\n该物品的品质等级可以使用EGO种子重置。</EGO_Armor_Suit.description>
   
   <!-- EN: EGO Ballista Grenade -->
-  <EGO_Grenade.label>TODO</EGO_Grenade.label>
+  <EGO_Grenade.label>EGO弩炮榴弹</EGO_Grenade.label>
   
 </LanguageData>

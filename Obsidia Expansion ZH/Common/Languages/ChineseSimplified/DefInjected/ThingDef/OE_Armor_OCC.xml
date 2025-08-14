@@ -1,43 +1,43 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: OCC Knight Armor -->
-  <OCC_Armor.label>TODO</OCC_Armor.label>
+  <OCC_Armor.label>OCC骑士护甲</OCC_Armor.label>
   <!-- EN: Heavy power armor, excellent protects the owner with little mobility restriction. Designed for use by the OCC Knights. -->
-  <OCC_Armor.description>TODO</OCC_Armor.description>
+  <OCC_Armor.description>重型动力护甲，出色地保护穿戴者，且对行动限制很小。专为OCC骑士设计。</OCC_Armor.description>
   
   <!-- EN: OCC Paladin Armor -->
-  <OCC_Armor_M.label>TODO</OCC_Armor_M.label>
+  <OCC_Armor_M.label>OCC圣骑士护甲</OCC_Armor_M.label>
   <!-- EN: Heavy power armor, excellent protects the owner with little mobility restriction. Designed and modified for use by OCC Paladins.\n\nThe hardened version provides more protection to the owner. -->
-  <OCC_Armor_M.description>TODO</OCC_Armor_M.description>
+  <OCC_Armor_M.description>重型动力护甲，出色地保护穿戴者，且对行动限制很小。由OCC圣骑士设计和改良。\n\n硬化版本为穿戴者提供更多的保护。</OCC_Armor_M.description>
   
   <!-- EN: OCC Paladin Armor(Protector) -->
-  <OCC_Armor_M_Barrier.label>TODO</OCC_Armor_M_Barrier.label>
+  <OCC_Armor_M_Barrier.label>OCC圣骑士护甲（守护者）</OCC_Armor_M_Barrier.label>
   <!-- EN: Heavy power armor, excellent protects the owner with little mobility restriction. Designed and modified for use by OCC Paladins.\n\nModified with the addition of the Universal Barrier. -->
-  <OCC_Armor_M_Barrier.description>TODO</OCC_Armor_M_Barrier.description>
+  <OCC_Armor_M_Barrier.description>重型动力护甲，出色地保护穿戴者，且对行动限制很小。由OCC圣骑士设计和改良。\n\n增加了通用屏障的改良版本。</OCC_Armor_M_Barrier.description>
   
   <!-- EN: OTC Engineer Armor(Exploder) -->
-  <OCC_Armor_M_Grenadier.label>TODO</OCC_Armor_M_Grenadier.label>
+  <OCC_Armor_M_Grenadier.label>OTC工程师护甲（爆炸者）</OCC_Armor_M_Grenadier.label>
   <!-- EN: Heavy power armor, excellent protects the owner with little mobility restriction. Designed and modified for use by OCC Paladins.\n\nModified by installing the Blast Grenade Launcher. -->
-  <OCC_Armor_M_Grenadier.description>TODO</OCC_Armor_M_Grenadier.description>
+  <OCC_Armor_M_Grenadier.description>重型动力护甲，出色地保护穿戴者，且对行动限制很小。由OCC圣骑士设计和改良。\n\n通过安装爆破榴弹发射器改良。</OCC_Armor_M_Grenadier.description>
   <!-- EN: grenade -->
-  <OCC_Armor_M_Grenadier.comps.CompApparelReloadable.chargeNoun>TODO</OCC_Armor_M_Grenadier.comps.CompApparelReloadable.chargeNoun>
+  <OCC_Armor_M_Grenadier.comps.CompApparelReloadable.chargeNoun>榴弹</OCC_Armor_M_Grenadier.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OCC_Armor_M_Grenadier.comps.CompApparelReloadable.cooldownGerund>TODO</OCC_Armor_M_Grenadier.comps.CompApparelReloadable.cooldownGerund>
+  <OCC_Armor_M_Grenadier.comps.CompApparelReloadable.cooldownGerund>冷却中</OCC_Armor_M_Grenadier.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: OTC Engineer Armor(Exploder) -->
-  <OCC_Armor_M_Grenadier.verbs.Verb_LaunchProjectileStatic.label>TODO</OCC_Armor_M_Grenadier.verbs.Verb_LaunchProjectileStatic.label>
+  <OCC_Armor_M_Grenadier.verbs.Verb_LaunchProjectileStatic.label>OTC工程师护甲（爆炸者）</OCC_Armor_M_Grenadier.verbs.Verb_LaunchProjectileStatic.label>
   
   <!-- EN: OCC Paladin Armor(Guardian) -->
-  <OCC_Armor_M_Shield.label>TODO</OCC_Armor_M_Shield.label>
+  <OCC_Armor_M_Shield.label>OCC圣骑士护甲（监护人）</OCC_Armor_M_Shield.label>
   <!-- EN: Heavy power armor, excellent protects the owner with little mobility restriction. Designed and modified for use by OCC Paladins.\n\nModified with the addition of a Reinforced Barrier. -->
-  <OCC_Armor_M_Shield.description>TODO</OCC_Armor_M_Shield.description>
+  <OCC_Armor_M_Shield.description>重型动力护甲，出色地保护穿戴者，且对行动限制很小。由OCC圣骑士设计和改良。\n\n增加了强化屏障的改良版本。</OCC_Armor_M_Shield.description>
   
   <!-- EN: OCC Paladin Armor(Space Griffin) -->
-  <OCC_Armor_M_Spacer.label>TODO</OCC_Armor_M_Spacer.label>
+  <OCC_Armor_M_Spacer.label>OCC圣骑士护甲（太空狮鹫）</OCC_Armor_M_Spacer.label>
   <!-- EN: Heavy power armor, excellent protects the owner with little mobility restriction. Designed and modified for use by OCC Paladins.\n\nPressure-sealed version designed to keep the occupant alive in outer space. -->
-  <OCC_Armor_M_Spacer.description>TODO</OCC_Armor_M_Spacer.description>
+  <OCC_Armor_M_Spacer.description>重型动力护甲，出色地保护穿戴者，且对行动限制很小。由OCC圣骑士设计和改良。\n\n密封加压版本，旨在太空中保护穿戴者的生命安全。</OCC_Armor_M_Spacer.description>
   
   <!-- EN: Blast Grenade -->
-  <OCC_Grenade.label>TODO</OCC_Grenade.label>
+  <OCC_Grenade.label>爆破榴弹</OCC_Grenade.label>
   
 </LanguageData>

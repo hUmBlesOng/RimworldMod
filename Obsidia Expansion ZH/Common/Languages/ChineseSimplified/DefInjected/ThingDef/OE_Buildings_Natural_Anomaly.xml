@@ -1,29 +1,29 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: big chaos slime hive -->
-  <OE_ChaosSlimeHive_Big.label>TODO</OE_ChaosSlimeHive_Big.label>
+  <OE_ChaosSlimeHive_Big.label>大型混沌史莱姆巢穴</OE_ChaosSlimeHive_Big.label>
   <!-- EN: A big hive of dangerous chaos slimes. If activated, it will spawn additional very dangerous chaos slimes. -->
-  <OE_ChaosSlimeHive_Big.description>TODO</OE_ChaosSlimeHive_Big.description>
+  <OE_ChaosSlimeHive_Big.description>危险混沌史莱姆的大型巢穴。如果被激活，它会生成额外的非常危险的混沌史莱姆。</OE_ChaosSlimeHive_Big.description>
   
   <!-- EN: core chaos slime hive -->
-  <OE_ChaosSlimeHive_Core.label>TODO</OE_ChaosSlimeHive_Core.label>
+  <OE_ChaosSlimeHive_Core.label>核心混沌史莱姆巢穴</OE_ChaosSlimeHive_Core.label>
   <!-- EN: A core hive of dangerous chaos slimes. If activated, it will spawn additional chaos slimes and smaller hives over time. -->
-  <OE_ChaosSlimeHive_Core.description>TODO</OE_ChaosSlimeHive_Core.description>
+  <OE_ChaosSlimeHive_Core.description>危险混沌史莱姆的核心巢穴。如果被激活，它会随着时间的推移生成额外的混沌史莱姆和小型巢穴。</OE_ChaosSlimeHive_Core.description>
   
   <!-- EN: giant chaos slime hive -->
-  <OE_ChaosSlimeHive_Giant.label>TODO</OE_ChaosSlimeHive_Giant.label>
+  <OE_ChaosSlimeHive_Giant.label>巨型混沌史莱姆巢穴</OE_ChaosSlimeHive_Giant.label>
   <!-- EN: A giant hive of dangerous chaos slimes. If activated, it will spawn additional chaos slime the Invincible. -->
-  <OE_ChaosSlimeHive_Giant.description>TODO</OE_ChaosSlimeHive_Giant.description>
+  <OE_ChaosSlimeHive_Giant.description>危险混沌史莱姆的巨型巢穴。如果被激活，它会生成额外的无敌混沌史莱姆。</OE_ChaosSlimeHive_Giant.description>
   
   <!-- EN: medium chaos slime hive -->
-  <OE_ChaosSlimeHive_Medium.label>TODO</OE_ChaosSlimeHive_Medium.label>
+  <OE_ChaosSlimeHive_Medium.label>中型混沌史莱姆巢穴</OE_ChaosSlimeHive_Medium.label>
   <!-- EN: A medium hive of dangerous chaos slimes. If activated, it will spawn additional dangerous chaos slimes. -->
-  <OE_ChaosSlimeHive_Medium.description>TODO</OE_ChaosSlimeHive_Medium.description>
+  <OE_ChaosSlimeHive_Medium.description>危险混沌史莱姆的中型巢穴。如果被激活，它会生成额外的危险混沌史莱姆。</OE_ChaosSlimeHive_Medium.description>
   
   <!-- EN: small chaos slime hive -->
-  <OE_ChaosSlimeHive_Small.label>TODO</OE_ChaosSlimeHive_Small.label>
+  <OE_ChaosSlimeHive_Small.label>小型混沌史莱姆巢穴</OE_ChaosSlimeHive_Small.label>
   <!-- EN: A small hive of dangerous chaos slimes. If activated, it will spawn additional chaos slimes. -->
-  <OE_ChaosSlimeHive_Small.description>TODO</OE_ChaosSlimeHive_Small.description>
+  <OE_ChaosSlimeHive_Small.description>危险混沌史莱姆的小型巢穴。如果被激活，它会生成额外的混沌史莱姆。</OE_ChaosSlimeHive_Small.description>
   
 </LanguageData>

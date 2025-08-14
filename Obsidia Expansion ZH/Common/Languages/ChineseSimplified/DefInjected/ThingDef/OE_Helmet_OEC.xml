@@ -1,29 +1,29 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: OEC Hunter Helmet -->
-  <OEC_Helmet.label>TODO</OEC_Helmet.label>
+  <OEC_Helmet.label>OEC猎人头盔</OEC_Helmet.label>
   <!-- EN: Light power armor Helmet, well protects the owner. Designed for use by Hunters representing the OEC. -->
-  <OEC_Helmet.description>TODO</OEC_Helmet.description>
+  <OEC_Helmet.description>轻型动力装甲头盔，很好地保护使用者。专为代表OEC的猎人设计使用。</OEC_Helmet.description>
   
   <!-- EN: OEC Inquisitor Helmet -->
-  <OEC_Helmet_M.label>TODO</OEC_Helmet_M.label>
+  <OEC_Helmet_M.label>OEC审判官头盔</OEC_Helmet_M.label>
   <!-- EN: Light power armor Helmet, well protects the owner. Designed and modified for use by Inquisitors representing the OEC.\n\nThe hardened version provides more protection to the owner. -->
-  <OEC_Helmet_M.description>TODO</OEC_Helmet_M.description>
+  <OEC_Helmet_M.description>轻型动力装甲头盔，很好地保护使用者。专为代表OEC的审判官设计和改进使用。\n\n硬化版本为使用者提供更多的保护。</OEC_Helmet_M.description>
   
   <!-- EN: OEC Inquisitor Helmet(Gladiator) -->
-  <OEC_Helmet_M_Melee.label>TODO</OEC_Helmet_M_Melee.label>
+  <OEC_Helmet_M_Melee.label>OEC审判官头盔（角斗士）</OEC_Helmet_M_Melee.label>
   <!-- EN: Light power armor Helmet, well protects the owner. Designed and modified for use by Inquisitors representing the OEC.\n\nModified visor with analyzing computer that helps the user close combat. -->
-  <OEC_Helmet_M_Melee.description>TODO</OEC_Helmet_M_Melee.description>
+  <OEC_Helmet_M_Melee.description>轻型动力装甲头盔，很好地保护使用者。专为代表OEC的审判官设计和改进使用。\n\n改进的面罩配有分析计算机，帮助使用者进行近战。</OEC_Helmet_M_Melee.description>
   
   <!-- EN: OEC Inquisitor Helmet(Ranger) -->
-  <OEC_Helmet_M_Ranged.label>TODO</OEC_Helmet_M_Ranged.label>
+  <OEC_Helmet_M_Ranged.label>OEC审判官头盔（游侠）</OEC_Helmet_M_Ranged.label>
   <!-- EN: Light power armor Helmet, well protects the owner. Designed and modified for use by Inquisitors representing the OEC.\n\nModified visor with targeting computer that helps the user aim. -->
-  <OEC_Helmet_M_Ranged.description>TODO</OEC_Helmet_M_Ranged.description>
+  <OEC_Helmet_M_Ranged.description>轻型动力装甲头盔，很好地保护使用者。专为代表OEC的审判官设计和改进使用。\n\n改进的面罩配有瞄准计算机，帮助使用者瞄准。</OEC_Helmet_M_Ranged.description>
   
   <!-- EN: OEC Inquisitor Helmet(Space Griffin) -->
-  <OEC_Helmet_M_Spacer.label>TODO</OEC_Helmet_M_Spacer.label>
+  <OEC_Helmet_M_Spacer.label>OEC审判官头盔（太空狮鹫）</OEC_Helmet_M_Spacer.label>
   <!-- EN: Light power armor Helmet, well protects the owner. Designed and modified for use by Inquisitors representing the OEC.\n\nPressure-sealed version designed to keep the occupant alive in outer space. -->
-  <OEC_Helmet_M_Spacer.description>TODO</OEC_Helmet_M_Spacer.description>
+  <OEC_Helmet_M_Spacer.description>轻型动力装甲头盔，很好地保护使用者。专为代表OEC的审判官设计和改进使用。\n\n压力密封版本，旨在太空中保持使用者存活。</OEC_Helmet_M_Spacer.description>
   
 </LanguageData>

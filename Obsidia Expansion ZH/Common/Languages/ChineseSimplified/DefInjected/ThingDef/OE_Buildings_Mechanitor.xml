@@ -1,24 +1,24 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: mech combat obsidia antenna -->
-  <OE_MechCombatAntenna.label>TODO</OE_MechCombatAntenna.label>
+  <OE_MechCombatAntenna.label>机械战斗黑曜石天线</OE_MechCombatAntenna.label>
   <!-- EN: A remote mech combat enhancement device. Any mechanoids in its effect radius will improves combat stats. -->
-  <OE_MechCombatAntenna.description>TODO</OE_MechCombatAntenna.description>
+  <OE_MechCombatAntenna.description>远程机械战斗增强装置。其有效半径内的任何机械体都将提升战斗属性。</OE_MechCombatAntenna.description>
   
   <!-- EN: mech corrupter obsidia antenna -->
-  <OE_MechCorrupterAntenna.label>TODO</OE_MechCorrupterAntenna.label>
+  <OE_MechCorrupterAntenna.label>机械腐蚀黑曜石天线</OE_MechCorrupterAntenna.label>
   <!-- EN: A remote mech deterioration device. Any mechanoids in its effect radius will deteriorate combat stats. -->
-  <OE_MechCorrupterAntenna.description>TODO</OE_MechCorrupterAntenna.description>
+  <OE_MechCorrupterAntenna.description>远程机械削弱装置。其有效半径内的任何机械体都将降低战斗属性。</OE_MechCorrupterAntenna.description>
   
   <!-- EN: obsidia mech recharger -->
-  <OE_MechRecharger.label>TODO</OE_MechRecharger.label>
+  <OE_MechRecharger.label>黑曜石机械充电器</OE_MechRecharger.label>
   <!-- EN: Obsidia Mech Recharger is a compact and versatile unit. Mechanoids of all standard classified sizes can recharge here.\n\nDuring recharge, this recharger produces toxic wastepacks and stores them internally. Haulers must remove the wastepacks from time to time. -->
-  <OE_MechRecharger.description>TODO</OE_MechRecharger.description>
+  <OE_MechRecharger.description>黑曜石机械充电器是一种紧凑而多功能的装置。所有标准分类尺寸的机械体都可以在此充电。\n\n充电过程中，该充电器会产生有毒废物包并内部储存。搬运工必须不时地清除这些废物包。</OE_MechRecharger.description>
   
   <!-- EN: mech efficiency obsidia antenna -->
-  <OE_MechWorkerAntenna.label>TODO</OE_MechWorkerAntenna.label>
+  <OE_MechWorkerAntenna.label>机械效率黑曜石天线</OE_MechWorkerAntenna.label>
   <!-- EN: A remote mech efficiency device. Any mechanoids in its effect radius will improves working stats. -->
-  <OE_MechWorkerAntenna.description>TODO</OE_MechWorkerAntenna.description>
+  <OE_MechWorkerAntenna.description>远程机械效率装置。其有效半径内的任何机械体都将提升工作属性。</OE_MechWorkerAntenna.description>
   
 </LanguageData>

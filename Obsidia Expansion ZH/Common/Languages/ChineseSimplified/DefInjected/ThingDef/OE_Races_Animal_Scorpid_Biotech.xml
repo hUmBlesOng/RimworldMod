@@ -1,17 +1,17 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: waste scorpid -->
-  <OE_Scorpid_Tox.label>TODO</OE_Scorpid_Tox.label>
+  <OE_Scorpid_Tox.label>废土蝎子</OE_Scorpid_Tox.label>
   <!-- EN: One of the oldest creatures of Obsidia. Scorpid is a huge insectoid with a durable chitinous shell, powerful claws and a poisonous sting.\n\nThis specimen adapted to life at pollution areas. -->
-  <OE_Scorpid_Tox.description>TODO</OE_Scorpid_Tox.description>
+  <OE_Scorpid_Tox.description>黑曜石最古老的生物之一。蝎子是一种巨大的昆虫类生物，拥有耐用的几丁质外壳、强有力的钳子和有毒的尾刺。\n\n这个样本适应了污染区域的生活。</OE_Scorpid_Tox.description>
   <!-- EN: left claw -->
-  <OE_Scorpid_Tox.tools.left_claw.label>TODO</OE_Scorpid_Tox.tools.left_claw.label>
+  <OE_Scorpid_Tox.tools.left_claw.label>左钳</OE_Scorpid_Tox.tools.left_claw.label>
   <!-- EN: right claw -->
-  <OE_Scorpid_Tox.tools.right_claw.label>TODO</OE_Scorpid_Tox.tools.right_claw.label>
+  <OE_Scorpid_Tox.tools.right_claw.label>右钳</OE_Scorpid_Tox.tools.right_claw.label>
   <!-- EN: sting -->
-  <OE_Scorpid_Tox.tools.sting.label>TODO</OE_Scorpid_Tox.tools.sting.label>
+  <OE_Scorpid_Tox.tools.sting.label>尾刺</OE_Scorpid_Tox.tools.sting.label>
   <!-- EN: head -->
-  <OE_Scorpid_Tox.tools.head.label>TODO</OE_Scorpid_Tox.tools.head.label>
+  <OE_Scorpid_Tox.tools.head.label>头部</OE_Scorpid_Tox.tools.head.label>
   
 </LanguageData>

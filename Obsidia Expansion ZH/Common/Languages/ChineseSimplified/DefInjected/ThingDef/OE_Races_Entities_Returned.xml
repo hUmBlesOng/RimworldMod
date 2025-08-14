@@ -1,19 +1,19 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: returned -->
-  <OE_Returned.label>TODO</OE_Returned.label>
+  <OE_Returned.label>归来者</OE_Returned.label>
   <!-- EN: Returned is a resurrected corpse of Crimson Arachna Cultist. This corpse is fused with the armor and prototype of Amalgam Arachna Legs, which makes this creature extremely mobile and armored. It's the result of one of the first unsuccessful experiments of Crimson Arachna Cult in the artificial hybridization of the powers of Crimson Arachna. -->
-  <OE_Returned.description>TODO</OE_Returned.description>
+  <OE_Returned.description>归来者是深红蜘蛛教徒的复活尸体。这具尸体与融合蛛腿装甲和原型融合，使这个生物极其灵活且有装甲。这是深红蜘蛛教派在人工杂交深红蜘蛛力量的早期不成功实验之一的结果。</OE_Returned.description>
   <!-- EN: left spike -->
-  <OE_Returned.tools.left_spike.label>TODO</OE_Returned.tools.left_spike.label>
+  <OE_Returned.tools.left_spike.label>左刺</OE_Returned.tools.left_spike.label>
   <!-- EN: spike -->
-  <OE_Returned.tools.left_spike.labelNoLocation>TODO</OE_Returned.tools.left_spike.labelNoLocation>
+  <OE_Returned.tools.left_spike.labelNoLocation>刺</OE_Returned.tools.left_spike.labelNoLocation>
   <!-- EN: right spike -->
-  <OE_Returned.tools.right_spike.label>TODO</OE_Returned.tools.right_spike.label>
+  <OE_Returned.tools.right_spike.label>右刺</OE_Returned.tools.right_spike.label>
   <!-- EN: spike -->
-  <OE_Returned.tools.right_spike.labelNoLocation>TODO</OE_Returned.tools.right_spike.labelNoLocation>
+  <OE_Returned.tools.right_spike.labelNoLocation>刺</OE_Returned.tools.right_spike.labelNoLocation>
   <!-- EN: head -->
-  <OE_Returned.tools.head.label>TODO</OE_Returned.tools.head.label>
+  <OE_Returned.tools.head.label>头部</OE_Returned.tools.head.label>
   
 </LanguageData>

@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: obsidia gene grower -->
-  <OE_GeneGrower.label>TODO</OE_GeneGrower.label>
+  <OE_GeneGrower.label>黑曜石基因培养器</OE_GeneGrower.label>
   <!-- EN: The Gene grower is an advanced experimental equipment that allows you to passively produce random Genepacks. This is very delicate and poorly shielded equipment which causes cold air. -->
-  <OE_GeneGrower.description>TODO</OE_GeneGrower.description>
+  <OE_GeneGrower.description>基因培养器是一种先进的实验设备，可让您被动地产生随机基因包。这是一种非常精密且屏蔽不良的设备，会导致冷空气。</OE_GeneGrower.description>
   
 </LanguageData>

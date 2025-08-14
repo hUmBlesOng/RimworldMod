@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: bioferrite slime -->
-  <OE_Slime_Bioferrite.label>TODO</OE_Slime_Bioferrite.label>
+  <OE_Slime_Bioferrite.label>生物铁史莱姆</OE_Slime_Bioferrite.label>
   <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nBioferrite slime production type, produces 50 Bioferrite every 10 days. -->
-  <OE_Slime_Bioferrite.description>TODO</OE_Slime_Bioferrite.description>
+  <OE_Slime_Bioferrite.description>史莱姆 - 一种融合生命体，被开发作为黑曜石扩展所需材料的替代来源。\n\n生物铁史莱姆生产型，每10天生产50个生物铁。</OE_Slime_Bioferrite.description>
   <!-- EN: mouth -->
-  <OE_Slime_Bioferrite.tools.mouth.label>TODO</OE_Slime_Bioferrite.tools.mouth.label>
+  <OE_Slime_Bioferrite.tools.mouth.label>口</OE_Slime_Bioferrite.tools.mouth.label>
   <!-- EN: head -->
-  <OE_Slime_Bioferrite.tools.head.label>TODO</OE_Slime_Bioferrite.tools.head.label>
+  <OE_Slime_Bioferrite.tools.head.label>头部</OE_Slime_Bioferrite.tools.head.label>
   
 </LanguageData>

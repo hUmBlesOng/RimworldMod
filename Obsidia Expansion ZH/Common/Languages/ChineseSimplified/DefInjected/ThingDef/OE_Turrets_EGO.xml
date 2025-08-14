@@ -1,40 +1,40 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: EGO Corrupter Turret -->
-  <EGO_Turret_Small_Shotgun.label>TODO</EGO_Turret_Small_Shotgun.label>
+  <EGO_Turret_Small_Shotgun.label>EGO腐蚀者炮塔</EGO_Turret_Small_Shotgun.label>
   <!-- EN: Amalgam Shotgun-equipped turret. Completely self-contained and does not require power or ammunition. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
-  <EGO_Turret_Small_Shotgun.description>TODO</EGO_Turret_Small_Shotgun.description>
+  <EGO_Turret_Small_Shotgun.description>配备融合霰弹枪的炮塔。完全自给自足，不需要电力或弹药。其简单的AI大脑无法直接控制，因此需要注意友军火力。</EGO_Turret_Small_Shotgun.description>
   
   <!-- EN: EGO Toxocyst Turret -->
-  <EGO_Turret_Small_SMG.label>TODO</EGO_Turret_Small_SMG.label>
+  <EGO_Turret_Small_SMG.label>EGO毒囊炮塔</EGO_Turret_Small_SMG.label>
   <!-- EN: Amalgam SMG-equipped turret. Completely self-contained and does not require power or ammunition. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
-  <EGO_Turret_Small_SMG.description>TODO</EGO_Turret_Small_SMG.description>
+  <EGO_Turret_Small_SMG.description>配备融合冲锋枪的炮塔。完全自给自足，不需要电力或弹药。其简单的AI大脑无法直接控制，因此需要注意友军火力。</EGO_Turret_Small_SMG.description>
   
   <!-- EN: EGO Patagius Turret -->
-  <EGO_Turret_Small_SniperRifle.label>TODO</EGO_Turret_Small_SniperRifle.label>
+  <EGO_Turret_Small_SniperRifle.label>EGO翼龙炮塔</EGO_Turret_Small_SniperRifle.label>
   <!-- EN: Amalgam Sniper Rifle-equipped turret. Completely self-contained and does not require power or ammunition. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
-  <EGO_Turret_Small_SniperRifle.description>TODO</EGO_Turret_Small_SniperRifle.description>
+  <EGO_Turret_Small_SniperRifle.description>配备融合狙击步枪的炮塔。完全自给自足，不需要电力或弹药。其简单的AI大脑无法直接控制，因此需要注意友军火力。</EGO_Turret_Small_SniperRifle.description>
   
   <!-- EN: Corrupter Turret -->
-  <EGO_TurretGun_Small_Shotgun.label>TODO</EGO_TurretGun_Small_Shotgun.label>
+  <EGO_TurretGun_Small_Shotgun.label>腐蚀者炮塔</EGO_TurretGun_Small_Shotgun.label>
   <!-- EN: Amalgam Shotgun for turrets. -->
-  <EGO_TurretGun_Small_Shotgun.description>TODO</EGO_TurretGun_Small_Shotgun.description>
+  <EGO_TurretGun_Small_Shotgun.description>用于炮塔的融合霰弹枪。</EGO_TurretGun_Small_Shotgun.description>
   <!-- EN: Corrupter Turret -->
-  <EGO_TurretGun_Small_Shotgun.verbs.Verb_Shoot.label>TODO</EGO_TurretGun_Small_Shotgun.verbs.Verb_Shoot.label>
+  <EGO_TurretGun_Small_Shotgun.verbs.Verb_Shoot.label>腐蚀者炮塔</EGO_TurretGun_Small_Shotgun.verbs.Verb_Shoot.label>
   
   <!-- EN: Toxocyst Turret -->
-  <EGO_TurretGun_Small_SMG.label>TODO</EGO_TurretGun_Small_SMG.label>
+  <EGO_TurretGun_Small_SMG.label>毒囊炮塔</EGO_TurretGun_Small_SMG.label>
   <!-- EN: Amalgam SMG for turrets. -->
-  <EGO_TurretGun_Small_SMG.description>TODO</EGO_TurretGun_Small_SMG.description>
+  <EGO_TurretGun_Small_SMG.description>用于炮塔的融合冲锋枪。</EGO_TurretGun_Small_SMG.description>
   <!-- EN: Toxocyst Turret -->
-  <EGO_TurretGun_Small_SMG.verbs.Verb_Shoot.label>TODO</EGO_TurretGun_Small_SMG.verbs.Verb_Shoot.label>
+  <EGO_TurretGun_Small_SMG.verbs.Verb_Shoot.label>毒囊炮塔</EGO_TurretGun_Small_SMG.verbs.Verb_Shoot.label>
   
   <!-- EN: Patagius Turret -->
-  <EGO_TurretGun_Small_SniperRifle.label>TODO</EGO_TurretGun_Small_SniperRifle.label>
+  <EGO_TurretGun_Small_SniperRifle.label>翼龙炮塔</EGO_TurretGun_Small_SniperRifle.label>
   <!-- EN: Amalgam Sniper Rifle for turrets. -->
-  <EGO_TurretGun_Small_SniperRifle.description>TODO</EGO_TurretGun_Small_SniperRifle.description>
+  <EGO_TurretGun_Small_SniperRifle.description>用于炮塔的融合狙击步枪。</EGO_TurretGun_Small_SniperRifle.description>
   <!-- EN: Patagius Turret -->
-  <EGO_TurretGun_Small_SniperRifle.verbs.Verb_Shoot.label>TODO</EGO_TurretGun_Small_SniperRifle.verbs.Verb_Shoot.label>
+  <EGO_TurretGun_Small_SniperRifle.verbs.Verb_Shoot.label>翼龙炮塔</EGO_TurretGun_Small_SniperRifle.verbs.Verb_Shoot.label>
   
 </LanguageData>

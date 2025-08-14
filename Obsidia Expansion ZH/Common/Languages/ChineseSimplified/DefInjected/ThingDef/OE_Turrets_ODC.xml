@@ -1,57 +1,57 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: N.A.C.J.A.C. -->
-  <ODC_Turret_Big.label>TODO</ODC_Turret_Big.label>
+  <ODC_Turret_Big.label>N.A.C.J.A.C.</ODC_Turret_Big.label>
   <!-- EN: Neo Armstrong Cyclone Jet Armstrong Cannon prohibited but legendary weapons of Obsidia. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
-  <ODC_Turret_Big.description>TODO</ODC_Turret_Big.description>
+  <ODC_Turret_Big.description>新·阿姆斯特朗·旋风·喷气式·阿姆斯特朗加农炮，黑曜石禁止但传奇的武器。需要黑曜石弹药包作为燃料。其简单的AI大脑无法直接控制，因此需要注意友军火力。</ODC_Turret_Big.description>
   <!-- EN: Fuel capacity -->
-  <ODC_Turret_Big.comps.CompRefuelable.fuelGizmoLabel>TODO</ODC_Turret_Big.comps.CompRefuelable.fuelGizmoLabel>
+  <ODC_Turret_Big.comps.CompRefuelable.fuelGizmoLabel>燃料容量</ODC_Turret_Big.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Shoots until run out of charges -->
-  <ODC_Turret_Big.comps.CompRefuelable.fuelLabel>TODO</ODC_Turret_Big.comps.CompRefuelable.fuelLabel>
+  <ODC_Turret_Big.comps.CompRefuelable.fuelLabel>射击直至耗尽充能</ODC_Turret_Big.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
-  <ODC_Turret_Big.comps.CompRefuelable.outOfFuelMessage>TODO</ODC_Turret_Big.comps.CompRefuelable.outOfFuelMessage>
+  <ODC_Turret_Big.comps.CompRefuelable.outOfFuelMessage>无法射击：需要黑曜石弹药包</ODC_Turret_Big.comps.CompRefuelable.outOfFuelMessage>
   
   <!-- EN: ODC Thoughtless Turret -->
-  <ODC_Turret_Small.label>TODO</ODC_Turret_Small.label>
+  <ODC_Turret_Small.label>ODC无思炮塔</ODC_Turret_Small.label>
   <!-- EN: An automatic ODC Assault Rifle-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire. -->
-  <ODC_Turret_Small.description>TODO</ODC_Turret_Small.description>
+  <ODC_Turret_Small.description>一种自动ODC突击步枪炮塔。需要黑曜石弹药包作为燃料。其简单的AI大脑无法直接控制，因此需要注意友军火力。</ODC_Turret_Small.description>
   <!-- EN: Fuel capacity -->
-  <ODC_Turret_Small.comps.CompRefuelable.fuelGizmoLabel>TODO</ODC_Turret_Small.comps.CompRefuelable.fuelGizmoLabel>
+  <ODC_Turret_Small.comps.CompRefuelable.fuelGizmoLabel>燃料容量</ODC_Turret_Small.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Shoots until run out of charges -->
-  <ODC_Turret_Small.comps.CompRefuelable.fuelLabel>TODO</ODC_Turret_Small.comps.CompRefuelable.fuelLabel>
+  <ODC_Turret_Small.comps.CompRefuelable.fuelLabel>射击直至耗尽充能</ODC_Turret_Small.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
-  <ODC_Turret_Small.comps.CompRefuelable.outOfFuelMessage>TODO</ODC_Turret_Small.comps.CompRefuelable.outOfFuelMessage>
+  <ODC_Turret_Small.comps.CompRefuelable.outOfFuelMessage>无法射击：需要黑曜石弹药包</ODC_Turret_Small.comps.CompRefuelable.outOfFuelMessage>
   
   <!-- EN: ODC Thoughtless Powered Turret -->
-  <ODC_Turret_SmallPowered.label>TODO</ODC_Turret_SmallPowered.label>
+  <ODC_Turret_SmallPowered.label>ODC无思动力炮塔</ODC_Turret_SmallPowered.label>
   <!-- EN: An automatic ODC Assault Rifle-equipped turret. Requires obsidia ammo kit as fuel. Its dumb AI brain can't be directly controlled, so beware of friendly fire.\n\nThis turret has a built-in generator. -->
-  <ODC_Turret_SmallPowered.description>TODO</ODC_Turret_SmallPowered.description>
+  <ODC_Turret_SmallPowered.description>一种自动ODC突击步枪炮塔。需要黑曜石弹药包作为燃料。其简单的AI大脑无法直接控制，因此需要注意友军火力。\n\n该炮塔内置发电机。</ODC_Turret_SmallPowered.description>
   <!-- EN: Fuel capacity -->
-  <ODC_Turret_SmallPowered.comps.CompRefuelable.fuelGizmoLabel>TODO</ODC_Turret_SmallPowered.comps.CompRefuelable.fuelGizmoLabel>
+  <ODC_Turret_SmallPowered.comps.CompRefuelable.fuelGizmoLabel>燃料容量</ODC_Turret_SmallPowered.comps.CompRefuelable.fuelGizmoLabel>
   <!-- EN: Shoots until run out of charges -->
-  <ODC_Turret_SmallPowered.comps.CompRefuelable.fuelLabel>TODO</ODC_Turret_SmallPowered.comps.CompRefuelable.fuelLabel>
+  <ODC_Turret_SmallPowered.comps.CompRefuelable.fuelLabel>射击直至耗尽充能</ODC_Turret_SmallPowered.comps.CompRefuelable.fuelLabel>
   <!-- EN: Cannot shoot: Needs obsidia ammo kit -->
-  <ODC_Turret_SmallPowered.comps.CompRefuelable.outOfFuelMessage>TODO</ODC_Turret_SmallPowered.comps.CompRefuelable.outOfFuelMessage>
+  <ODC_Turret_SmallPowered.comps.CompRefuelable.outOfFuelMessage>无法射击：需要黑曜石弹药包</ODC_Turret_SmallPowered.comps.CompRefuelable.outOfFuelMessage>
   
   <!-- EN: N.A.C.J.A.C. charge -->
-  <ODC_TurretBullet_Big.label>TODO</ODC_TurretBullet_Big.label>
+  <ODC_TurretBullet_Big.label>N.A.C.J.A.C.充能</ODC_TurretBullet_Big.label>
   
   <!-- EN: thoughtless turret bullet -->
-  <ODC_TurretBullet_Small.label>TODO</ODC_TurretBullet_Small.label>
+  <ODC_TurretBullet_Small.label>无思炮塔子弹</ODC_TurretBullet_Small.label>
   
   <!-- EN: N.A.C.J.A.C. -->
-  <ODC_TurretGun_Big.label>TODO</ODC_TurretGun_Big.label>
+  <ODC_TurretGun_Big.label>N.A.C.J.A.C.</ODC_TurretGun_Big.label>
   <!-- EN: Neo Armstrong Cyclone Jet Armstrong Cannon prohibited but legendary weapons of Obsidia. -->
-  <ODC_TurretGun_Big.description>TODO</ODC_TurretGun_Big.description>
+  <ODC_TurretGun_Big.description>新·阿姆斯特朗·旋风·喷气式·阿姆斯特朗加农炮，黑曜石禁止但传奇的武器。</ODC_TurretGun_Big.description>
   <!-- EN: N.A.C.J.A.C. -->
-  <ODC_TurretGun_Big.verbs.Verb_Shoot.label>TODO</ODC_TurretGun_Big.verbs.Verb_Shoot.label>
+  <ODC_TurretGun_Big.verbs.Verb_Shoot.label>N.A.C.J.A.C.</ODC_TurretGun_Big.verbs.Verb_Shoot.label>
   
   <!-- EN: Thoughtless Turret -->
-  <ODC_TurretGun_Small.label>TODO</ODC_TurretGun_Small.label>
+  <ODC_TurretGun_Small.label>无思炮塔</ODC_TurretGun_Small.label>
   <!-- EN: Reconstructed ODC Assault Rifle for turrets. Specially modified weapon with non-lethal bullets. -->
-  <ODC_TurretGun_Small.description>TODO</ODC_TurretGun_Small.description>
+  <ODC_TurretGun_Small.description>为炮塔重构的ODC突击步枪。经过特殊改装的武器，使用非致命子弹。</ODC_TurretGun_Small.description>
   <!-- EN: Thoughtless Turret -->
-  <ODC_TurretGun_Small.verbs.Verb_Shoot.label>TODO</ODC_TurretGun_Small.verbs.Verb_Shoot.label>
+  <ODC_TurretGun_Small.verbs.Verb_Shoot.label>无思炮塔</ODC_TurretGun_Small.verbs.Verb_Shoot.label>
   
 </LanguageData>

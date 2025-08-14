@@ -1,29 +1,29 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: OCC Knight Helmet -->
-  <OCC_Helmet.label>TODO</OCC_Helmet.label>
+  <OCC_Helmet.label>OCC骑士头盔</OCC_Helmet.label>
   <!-- EN: Heavy power armor Helmet, excellent protects the owner. Designed for use by the OCC Knights. -->
-  <OCC_Helmet.description>TODO</OCC_Helmet.description>
+  <OCC_Helmet.description>重型动力装甲头盔，为使用者提供出色的保护。专为OCC骑士设计使用。</OCC_Helmet.description>
   
   <!-- EN: OCC Paladin Helmet -->
-  <OCC_Helmet_M.label>TODO</OCC_Helmet_M.label>
+  <OCC_Helmet_M.label>OCC圣骑士头盔</OCC_Helmet_M.label>
   <!-- EN: Heavy power armor Helmet, excellent protects the owner. Designed and modified for use by OCC Paladins.\n\nThe hardened version provides more protection to the owner. -->
-  <OCC_Helmet_M.description>TODO</OCC_Helmet_M.description>
+  <OCC_Helmet_M.description>重型动力装甲头盔，为使用者提供出色的保护。专为OCC圣骑士设计和改进使用。\n\n硬化版本为使用者提供更多的保护。</OCC_Helmet_M.description>
   
   <!-- EN: OCC Paladin Helmet(Gladiator) -->
-  <OCC_Helmet_M_Melee.label>TODO</OCC_Helmet_M_Melee.label>
+  <OCC_Helmet_M_Melee.label>OCC圣骑士头盔（角斗士）</OCC_Helmet_M_Melee.label>
   <!-- EN: Heavy power armor Helmet, excellent protects the owner. Designed and modified for use by OCC Paladins.\n\nModified visor with analyzing computer that helps the user close combat. -->
-  <OCC_Helmet_M_Melee.description>TODO</OCC_Helmet_M_Melee.description>
+  <OCC_Helmet_M_Melee.description>重型动力装甲头盔，为使用者提供出色的保护。专为OCC圣骑士设计和改进使用。\n\n改进的面罩配有分析计算机，帮助使用者进行近战。</OCC_Helmet_M_Melee.description>
   
   <!-- EN: OCC Paladin Helmet(Ranger) -->
-  <OCC_Helmet_M_Ranged.label>TODO</OCC_Helmet_M_Ranged.label>
+  <OCC_Helmet_M_Ranged.label>OCC圣骑士头盔（游侠）</OCC_Helmet_M_Ranged.label>
   <!-- EN: Heavy power armor Helmet, excellent protects the owner. Designed and modified for use by OCC Paladins.\n\nModified visor with targeting computer that helps the user aim. -->
-  <OCC_Helmet_M_Ranged.description>TODO</OCC_Helmet_M_Ranged.description>
+  <OCC_Helmet_M_Ranged.description>重型动力装甲头盔，为使用者提供出色的保护。专为OCC圣骑士设计和改进使用。\n\n改进的面罩配有瞄准计算机，帮助使用者瞄准。</OCC_Helmet_M_Ranged.description>
   
   <!-- EN: OCC Paladin Helmet(Space Griffin) -->
-  <OCC_Helmet_M_Spacer.label>TODO</OCC_Helmet_M_Spacer.label>
+  <OCC_Helmet_M_Spacer.label>OCC圣骑士头盔（太空狮鹫）</OCC_Helmet_M_Spacer.label>
   <!-- EN: Heavy power armor Helmet, excellent protects the owner. Designed and modified for use by OCC Paladins.\n\nPressure-sealed version designed to keep the occupant alive in outer space. -->
-  <OCC_Helmet_M_Spacer.description>TODO</OCC_Helmet_M_Spacer.description>
+  <OCC_Helmet_M_Spacer.description>重型动力装甲头盔，为使用者提供出色的保护。专为OCC圣骑士设计和改进使用。\n\n压力密封版本，旨在太空中保持使用者存活。</OCC_Helmet_M_Spacer.description>
   
 </LanguageData>

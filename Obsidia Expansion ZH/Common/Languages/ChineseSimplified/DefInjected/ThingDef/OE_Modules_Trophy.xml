@@ -1,59 +1,59 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Targeter Module - Orbital bombardment -->
-  <OE_Module_Bombardment.label>TODO</OE_Module_Bombardment.label>
+  <OE_Module_Bombardment.label>瞄准模块 - 轨道轰炸</OE_Module_Bombardment.label>
   <!-- EN: The module provides the owner acess to orbital bombardment targeter. Unique designed on ancient targeting unit for a network satellites. -->
-  <OE_Module_Bombardment.description>TODO</OE_Module_Bombardment.description>
+  <OE_Module_Bombardment.description>该模块为所有者提供轨道轰炸瞄准器。基于古代卫星网络瞄准单元的独特设计。</OE_Module_Bombardment.description>
   <!-- EN: charge -->
-  <OE_Module_Bombardment.comps.CompApparelReloadable.chargeNoun>TODO</OE_Module_Bombardment.comps.CompApparelReloadable.chargeNoun>
+  <OE_Module_Bombardment.comps.CompApparelReloadable.chargeNoun>充能</OE_Module_Bombardment.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OE_Module_Bombardment.comps.CompApparelReloadable.cooldownGerund>TODO</OE_Module_Bombardment.comps.CompApparelReloadable.cooldownGerund>
+  <OE_Module_Bombardment.comps.CompApparelReloadable.cooldownGerund>冷却中</OE_Module_Bombardment.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: Targeter Module - Orbital bombardment -->
-  <OE_Module_Bombardment.verbs.Verb_Bombardment.label>TODO</OE_Module_Bombardment.verbs.Verb_Bombardment.label>
+  <OE_Module_Bombardment.verbs.Verb_Bombardment.label>瞄准模块 - 轨道轰炸</OE_Module_Bombardment.verbs.Verb_Bombardment.label>
   
   <!-- EN: Psychic Module - Insanity -->
-  <OE_Module_Insanity.label>TODO</OE_Module_Insanity.label>
+  <OE_Module_Insanity.label>心灵模块 - 疯狂</OE_Module_Insanity.label>
   <!-- EN: The module provides the owner with power of Psychic insanity lance. Unique designed on the basis of Archotech technologies. -->
-  <OE_Module_Insanity.description>TODO</OE_Module_Insanity.description>
+  <OE_Module_Insanity.description>该模块赋予所有者心灵疯狂 lance 的力量。基于远古科技技术的独特设计。</OE_Module_Insanity.description>
   <!-- EN: charge -->
-  <OE_Module_Insanity.comps.CompApparelReloadable.chargeNoun>TODO</OE_Module_Insanity.comps.CompApparelReloadable.chargeNoun>
+  <OE_Module_Insanity.comps.CompApparelReloadable.chargeNoun>充能</OE_Module_Insanity.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OE_Module_Insanity.comps.CompApparelReloadable.cooldownGerund>TODO</OE_Module_Insanity.comps.CompApparelReloadable.cooldownGerund>
+  <OE_Module_Insanity.comps.CompApparelReloadable.cooldownGerund>冷却中</OE_Module_Insanity.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: Psychic Module - Insanity -->
-  <OE_Module_Insanity.verbs.Verb_CastTargetEffect.label>TODO</OE_Module_Insanity.verbs.Verb_CastTargetEffect.label>
+  <OE_Module_Insanity.verbs.Verb_CastTargetEffect.label>心灵模块 - 疯狂</OE_Module_Insanity.verbs.Verb_CastTargetEffect.label>
   
   <!-- EN: Targeter Module - Power beam -->
-  <OE_Module_PowerBeam.label>TODO</OE_Module_PowerBeam.label>
+  <OE_Module_PowerBeam.label>瞄准模块 - 能量束</OE_Module_PowerBeam.label>
   <!-- EN: The module provides the owner acess to orbital power beam targeter. Unique designed on ancient targeting unit for a network satellites. -->
-  <OE_Module_PowerBeam.description>TODO</OE_Module_PowerBeam.description>
+  <OE_Module_PowerBeam.description>该模块为所有者提供轨道能量束瞄准器。基于古代卫星网络瞄准单元的独特设计。</OE_Module_PowerBeam.description>
   <!-- EN: charge -->
-  <OE_Module_PowerBeam.comps.CompApparelReloadable.chargeNoun>TODO</OE_Module_PowerBeam.comps.CompApparelReloadable.chargeNoun>
+  <OE_Module_PowerBeam.comps.CompApparelReloadable.chargeNoun>充能</OE_Module_PowerBeam.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OE_Module_PowerBeam.comps.CompApparelReloadable.cooldownGerund>TODO</OE_Module_PowerBeam.comps.CompApparelReloadable.cooldownGerund>
+  <OE_Module_PowerBeam.comps.CompApparelReloadable.cooldownGerund>冷却中</OE_Module_PowerBeam.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: Targeter Module - Power beam -->
-  <OE_Module_PowerBeam.verbs.Verb_PowerBeam.label>TODO</OE_Module_PowerBeam.verbs.Verb_PowerBeam.label>
+  <OE_Module_PowerBeam.verbs.Verb_PowerBeam.label>瞄准模块 - 能量束</OE_Module_PowerBeam.verbs.Verb_PowerBeam.label>
   
   <!-- EN: Psychic Module - Shock -->
-  <OE_Module_Shock.label>TODO</OE_Module_Shock.label>
+  <OE_Module_Shock.label>心灵模块 - 震撼</OE_Module_Shock.label>
   <!-- EN: The module provides the owner with power of Psychic shock lance. Unique designed on the basis of Archotech technologies. -->
-  <OE_Module_Shock.description>TODO</OE_Module_Shock.description>
+  <OE_Module_Shock.description>该模块赋予所有者心灵震撼 lance 的力量。基于远古科技技术的独特设计。</OE_Module_Shock.description>
   <!-- EN: charge -->
-  <OE_Module_Shock.comps.CompApparelReloadable.chargeNoun>TODO</OE_Module_Shock.comps.CompApparelReloadable.chargeNoun>
+  <OE_Module_Shock.comps.CompApparelReloadable.chargeNoun>充能</OE_Module_Shock.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OE_Module_Shock.comps.CompApparelReloadable.cooldownGerund>TODO</OE_Module_Shock.comps.CompApparelReloadable.cooldownGerund>
+  <OE_Module_Shock.comps.CompApparelReloadable.cooldownGerund>冷却中</OE_Module_Shock.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: Psychic Module - Shock -->
-  <OE_Module_Shock.verbs.Verb_CastTargetEffect.label>TODO</OE_Module_Shock.verbs.Verb_CastTargetEffect.label>
+  <OE_Module_Shock.verbs.Verb_CastTargetEffect.label>心灵模块 - 震撼</OE_Module_Shock.verbs.Verb_CastTargetEffect.label>
   
   <!-- EN: Targeter Module - Tornado generator -->
-  <OE_Module_Tornado.label>TODO</OE_Module_Tornado.label>
+  <OE_Module_Tornado.label>瞄准模块 - 龙卷风发生器</OE_Module_Tornado.label>
   <!-- EN: The module provides the owner acess to orbital of weather-control satellites. Unique designed on ancient targeting unit for a network satellites. -->
-  <OE_Module_Tornado.description>TODO</OE_Module_Tornado.description>
+  <OE_Module_Tornado.description>该模块为所有者提供天气控制卫星的轨道接入。基于古代卫星网络瞄准单元的独特设计。</OE_Module_Tornado.description>
   <!-- EN: charge -->
-  <OE_Module_Tornado.comps.CompApparelReloadable.chargeNoun>TODO</OE_Module_Tornado.comps.CompApparelReloadable.chargeNoun>
+  <OE_Module_Tornado.comps.CompApparelReloadable.chargeNoun>充能</OE_Module_Tornado.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OE_Module_Tornado.comps.CompApparelReloadable.cooldownGerund>TODO</OE_Module_Tornado.comps.CompApparelReloadable.cooldownGerund>
+  <OE_Module_Tornado.comps.CompApparelReloadable.cooldownGerund>冷却中</OE_Module_Tornado.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: Targeter Module - Tornado generator -->
-  <OE_Module_Tornado.verbs.Verb_Spawn.label>TODO</OE_Module_Tornado.verbs.Verb_Spawn.label>
+  <OE_Module_Tornado.verbs.Verb_Spawn.label>瞄准模块 - 龙卷风发生器</OE_Module_Tornado.verbs.Verb_Spawn.label>
   
 </LanguageData>

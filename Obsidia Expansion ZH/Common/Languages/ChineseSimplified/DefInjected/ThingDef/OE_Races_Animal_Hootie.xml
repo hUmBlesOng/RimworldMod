@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: hootie -->
-  <OE_Hootie.label>TODO</OE_Hootie.label>
+  <OE_Hootie.label>呼呼鸟</OE_Hootie.label>
   <!-- EN: A beautiful medium unmodified Obsidia bird species. It is easily angered. -->
-  <OE_Hootie.description>TODO</OE_Hootie.description>
+  <OE_Hootie.description>一种美丽的中等体型未改造黑曜石鸟类物种。它很容易被激怒。</OE_Hootie.description>
   <!-- EN: claws -->
-  <OE_Hootie.tools.claws.label>TODO</OE_Hootie.tools.claws.label>
+  <OE_Hootie.tools.claws.label>爪子</OE_Hootie.tools.claws.label>
   <!-- EN: beak -->
-  <OE_Hootie.tools.beak.label>TODO</OE_Hootie.tools.beak.label>
+  <OE_Hootie.tools.beak.label>喙</OE_Hootie.tools.beak.label>
   <!-- EN: head -->
-  <OE_Hootie.tools.head.label>TODO</OE_Hootie.tools.head.label>
+  <OE_Hootie.tools.head.label>头部</OE_Hootie.tools.head.label>
   
 </LanguageData>

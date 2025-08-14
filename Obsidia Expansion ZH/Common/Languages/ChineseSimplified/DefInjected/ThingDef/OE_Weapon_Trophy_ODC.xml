@@ -1,155 +1,155 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Harvest saw -->
-  <Bullet_ODC_Trophy_BL.label>TODO</Bullet_ODC_Trophy_BL.label>
+  <Bullet_ODC_Trophy_BL.label>收割锯</Bullet_ODC_Trophy_BL.label>
   
   <!-- EN: Harvest saw -->
-  <Bullet_ODC_Trophy_BL_C.label>TODO</Bullet_ODC_Trophy_BL_C.label>
+  <Bullet_ODC_Trophy_BL_C.label>收割锯</Bullet_ODC_Trophy_BL_C.label>
   
   <!-- EN: Inlaid Harvest saw -->
-  <Bullet_ODC_Trophy_BL_C_I.label>TODO</Bullet_ODC_Trophy_BL_C_I.label>
+  <Bullet_ODC_Trophy_BL_C_I.label>镶嵌收割锯</Bullet_ODC_Trophy_BL_C_I.label>
   
   <!-- EN: Harvest -->
-  <ODC_Trophy_BladeLauncher_A.label>TODO</ODC_Trophy_BladeLauncher_A.label>
+  <ODC_Trophy_BladeLauncher_A.label>收割</ODC_Trophy_BladeLauncher_A.label>
   <!-- EN: Rare heavy blade launcher weapon used by Obsidia Drifters. This weapon was a working tool, but upgraded for ranged combat.\n\nThis is a rare trophy weapon.\n\nFeature: a built-in module that improves work skills. -->
-  <ODC_Trophy_BladeLauncher_A.description>TODO</ODC_Trophy_BladeLauncher_A.description>
+  <ODC_Trophy_BladeLauncher_A.description>黑曜石漂流者使用的稀有重型刀片发射器武器。这把武器原本是工作工具，但经过升级用于远程战斗。\n\n这是一种稀有的战利品武器。\n\n特性：内置模块，提高工作技能。</ODC_Trophy_BladeLauncher_A.description>
   <!-- EN: saw -->
-  <ODC_Trophy_BladeLauncher_A.tools.saw.label>TODO</ODC_Trophy_BladeLauncher_A.tools.saw.label>
+  <ODC_Trophy_BladeLauncher_A.tools.saw.label>锯子</ODC_Trophy_BladeLauncher_A.tools.saw.label>
   <!-- EN: Harvest -->
-  <ODC_Trophy_BladeLauncher_A.verbs.Verb_Shoot.label>TODO</ODC_Trophy_BladeLauncher_A.verbs.Verb_Shoot.label>
+  <ODC_Trophy_BladeLauncher_A.verbs.Verb_Shoot.label>收割</ODC_Trophy_BladeLauncher_A.verbs.Verb_Shoot.label>
   
   <!-- EN: Harvest - Emergent -->
-  <ODC_Trophy_BladeLauncher_B.label>TODO</ODC_Trophy_BladeLauncher_B.label>
+  <ODC_Trophy_BladeLauncher_B.label>收割 - 新现</ODC_Trophy_BladeLauncher_B.label>
   <!-- EN: Rare heavy blade launcher weapon used by Obsidia Drifters. This weapon was a working tool, but upgraded for ranged combat.\n\nThis is a rare trophy weapon.\n\nFeature: a built-in module that improves work skills. -->
-  <ODC_Trophy_BladeLauncher_B.description>TODO</ODC_Trophy_BladeLauncher_B.description>
+  <ODC_Trophy_BladeLauncher_B.description>黑曜石漂流者使用的稀有重型刀片发射器武器。这把武器原本是工作工具，但经过升级用于远程战斗。\n\n这是一种稀有的战利品武器。\n\n特性：内置模块，提高工作技能。</ODC_Trophy_BladeLauncher_B.description>
   <!-- EN: saw -->
-  <ODC_Trophy_BladeLauncher_B.tools.saw.label>TODO</ODC_Trophy_BladeLauncher_B.tools.saw.label>
+  <ODC_Trophy_BladeLauncher_B.tools.saw.label>锯子</ODC_Trophy_BladeLauncher_B.tools.saw.label>
   <!-- EN: Harvest - Emergent -->
-  <ODC_Trophy_BladeLauncher_B.verbs.Verb_Shoot.label>TODO</ODC_Trophy_BladeLauncher_B.verbs.Verb_Shoot.label>
+  <ODC_Trophy_BladeLauncher_B.verbs.Verb_Shoot.label>收割 - 新现</ODC_Trophy_BladeLauncher_B.verbs.Verb_Shoot.label>
   
   <!-- EN: Harvest - Apex -->
-  <ODC_Trophy_BladeLauncher_C.label>TODO</ODC_Trophy_BladeLauncher_C.label>
+  <ODC_Trophy_BladeLauncher_C.label>收割 - 巅峰</ODC_Trophy_BladeLauncher_C.label>
   <!-- EN: Rare heavy blade launcher weapon used by Obsidia Drifters. This weapon was a working tool, but upgraded for ranged combat.\n\nThis is a rare trophy weapon.\n\nFeature: a built-in module that improves work skills. -->
-  <ODC_Trophy_BladeLauncher_C.description>TODO</ODC_Trophy_BladeLauncher_C.description>
+  <ODC_Trophy_BladeLauncher_C.description>黑曜石漂流者使用的稀有重型刀片发射器武器。这把武器原本是工作工具，但经过升级用于远程战斗。\n\n这是一种稀有的战利品武器。\n\n特性：内置模块，提高工作技能。</ODC_Trophy_BladeLauncher_C.description>
   <!-- EN: saw -->
-  <ODC_Trophy_BladeLauncher_C.tools.saw.label>TODO</ODC_Trophy_BladeLauncher_C.tools.saw.label>
+  <ODC_Trophy_BladeLauncher_C.tools.saw.label>锯子</ODC_Trophy_BladeLauncher_C.tools.saw.label>
   <!-- EN: Harvest - Apex -->
-  <ODC_Trophy_BladeLauncher_C.verbs.Verb_Shoot.label>TODO</ODC_Trophy_BladeLauncher_C.verbs.Verb_Shoot.label>
+  <ODC_Trophy_BladeLauncher_C.verbs.Verb_Shoot.label>收割 - 巅峰</ODC_Trophy_BladeLauncher_C.verbs.Verb_Shoot.label>
   
   <!-- EN: Inlaid Harvest - Apex -->
-  <ODC_Trophy_BladeLauncher_C_I.label>TODO</ODC_Trophy_BladeLauncher_C_I.label>
+  <ODC_Trophy_BladeLauncher_C_I.label>镶嵌收割 - 巅峰</ODC_Trophy_BladeLauncher_C_I.label>
   <!-- EN: Rare heavy blade launcher weapon used by Obsidia Drifters. This weapon was a working tool, but upgraded for ranged combat.\n\nThis is a rare trophy weapon.\n\nFeature: a built-in module that improves work skills.\n\nInlaid with Insight Power Stone: Weapon bonus stats increased. -->
-  <ODC_Trophy_BladeLauncher_C_I.description>TODO</ODC_Trophy_BladeLauncher_C_I.description>
+  <ODC_Trophy_BladeLauncher_C_I.description>黑曜石漂流者使用的稀有重型刀片发射器武器。这把武器原本是工作工具，但经过升级用于远程战斗。\n\n这是一种稀有的战利品武器。\n\n特性：内置模块，提高工作技能。\n\n镶嵌洞察宝石：武器奖励属性提升。</ODC_Trophy_BladeLauncher_C_I.description>
   <!-- EN: saw -->
-  <ODC_Trophy_BladeLauncher_C_I.tools.saw.label>TODO</ODC_Trophy_BladeLauncher_C_I.tools.saw.label>
+  <ODC_Trophy_BladeLauncher_C_I.tools.saw.label>锯子</ODC_Trophy_BladeLauncher_C_I.tools.saw.label>
   <!-- EN: Inlaid Harvest - Apex -->
-  <ODC_Trophy_BladeLauncher_C_I.verbs.Verb_Shoot.label>TODO</ODC_Trophy_BladeLauncher_C_I.verbs.Verb_Shoot.label>
+  <ODC_Trophy_BladeLauncher_C_I.verbs.Verb_Shoot.label>镶嵌收割 - 巅峰</ODC_Trophy_BladeLauncher_C_I.verbs.Verb_Shoot.label>
   
   <!-- EN: Proto Gauntlet -->
-  <ODC_Trophy_PowerFist_A.label>TODO</ODC_Trophy_PowerFist_A.label>
+  <ODC_Trophy_PowerFist_A.label>原型拳套</ODC_Trophy_PowerFist_A.label>
   <!-- EN: A strange power gauntlet of unknown origin and creator. Marked by Obsidia Drifters. Looks like it could be easily upgraded. -->
-  <ODC_Trophy_PowerFist_A.description>TODO</ODC_Trophy_PowerFist_A.description>
+  <ODC_Trophy_PowerFist_A.description>一件来源和创造者未知的奇异动力拳套。被黑曜石漂流者标记。看起来很容易升级。</ODC_Trophy_PowerFist_A.description>
   <!-- EN: gauntlet -->
-  <ODC_Trophy_PowerFist_A.tools.gauntlet.label>TODO</ODC_Trophy_PowerFist_A.tools.gauntlet.label>
+  <ODC_Trophy_PowerFist_A.tools.gauntlet.label>拳套</ODC_Trophy_PowerFist_A.tools.gauntlet.label>
   
   <!-- EN: Eternal Gauntlet -->
-  <ODC_Trophy_PowerFist_B.label>TODO</ODC_Trophy_PowerFist_B.label>
+  <ODC_Trophy_PowerFist_B.label>永恒拳套</ODC_Trophy_PowerFist_B.label>
   <!-- EN: Modified strange power gauntlet was designed by unknown creator from Obsidia Drifters to channel the power of Power Stones.\n\nThis modification deprives item's quality levels. -->
-  <ODC_Trophy_PowerFist_B.description>TODO</ODC_Trophy_PowerFist_B.description>
+  <ODC_Trophy_PowerFist_B.description>经过改装的奇异动力拳套，由黑曜石漂流者的未知创造者设计，用于引导能量宝石的力量。\n\n此改装剥夺了物品的品质等级。</ODC_Trophy_PowerFist_B.description>
   <!-- EN: gauntlet -->
-  <ODC_Trophy_PowerFist_B.tools.gauntlet.label>TODO</ODC_Trophy_PowerFist_B.tools.gauntlet.label>
+  <ODC_Trophy_PowerFist_B.tools.gauntlet.label>拳套</ODC_Trophy_PowerFist_B.tools.gauntlet.label>
   
   <!-- EN: Eternal Gauntlet Mk.I -->
-  <ODC_Trophy_PowerFist_C.label>TODO</ODC_Trophy_PowerFist_C.label>
+  <ODC_Trophy_PowerFist_C.label>永恒拳套 Mk.I</ODC_Trophy_PowerFist_C.label>
   <!-- EN: Modified strange power gauntlet was designed by unknown creator from Obsidia Drifters to channel the power of Power Stones.\n\nThis modification deprives item's quality levels.\n\nMk.I - Renegade Power Stone. Global work speed increased. -->
-  <ODC_Trophy_PowerFist_C.description>TODO</ODC_Trophy_PowerFist_C.description>
+  <ODC_Trophy_PowerFist_C.description>经过改装的奇异动力拳套，由黑曜石漂流者的未知创造者设计，用于引导能量宝石的力量。\n\n此改装剥夺了物品的品质等级。\n\nMk.I - 流亡者能量宝石。全局工作速度提升。</ODC_Trophy_PowerFist_C.description>
   <!-- EN: gauntlet -->
-  <ODC_Trophy_PowerFist_C.tools.gauntlet.label>TODO</ODC_Trophy_PowerFist_C.tools.gauntlet.label>
+  <ODC_Trophy_PowerFist_C.tools.gauntlet.label>拳套</ODC_Trophy_PowerFist_C.tools.gauntlet.label>
   
   <!-- EN: Eternal Gauntlet Mk.II -->
-  <ODC_Trophy_PowerFist_D.label>TODO</ODC_Trophy_PowerFist_D.label>
+  <ODC_Trophy_PowerFist_D.label>永恒拳套 Mk.II</ODC_Trophy_PowerFist_D.label>
   <!-- EN: Modified strange power gauntlet was designed by unknown creator from Obsidia Drifters to channel the power of Power Stones.\n\nThis modification deprives item's quality levels.\n\nMk.I - Renegade Power Stone. Global work speed increased.\n\nMk.II - Pilgrim Power Stone. Social and Negotiation abilities increased. -->
-  <ODC_Trophy_PowerFist_D.description>TODO</ODC_Trophy_PowerFist_D.description>
+  <ODC_Trophy_PowerFist_D.description>经过改装的奇异动力拳套，由黑曜石漂流者的未知创造者设计，用于引导能量宝石的力量。\n\n此改装剥夺了物品的品质等级。\n\nMk.I - 流亡者能量宝石。全局工作速度提升。\n\nMk.II - 朝圣者能量宝石。社交和谈判能力提升。</ODC_Trophy_PowerFist_D.description>
   <!-- EN: gauntlet -->
-  <ODC_Trophy_PowerFist_D.tools.gauntlet.label>TODO</ODC_Trophy_PowerFist_D.tools.gauntlet.label>
+  <ODC_Trophy_PowerFist_D.tools.gauntlet.label>拳套</ODC_Trophy_PowerFist_D.tools.gauntlet.label>
   
   <!-- EN: Eternal Gauntlet Mk.III -->
-  <ODC_Trophy_PowerFist_E.label>TODO</ODC_Trophy_PowerFist_E.label>
+  <ODC_Trophy_PowerFist_E.label>永恒拳套 Mk.III</ODC_Trophy_PowerFist_E.label>
   <!-- EN: Modified strange power gauntlet was designed by unknown creator from Obsidia Drifters to channel the power of Power Stones.\n\nThis modification deprives item's quality levels.\n\nMk.I - Renegade Power Stone. Global work speed increased.\n\nMk.II - Pilgrim Power Stone. Social and Negotiation abilities increased.\n\nMk.III - Syndicate Power Stone. Joy fall rate reduced. -->
-  <ODC_Trophy_PowerFist_E.description>TODO</ODC_Trophy_PowerFist_E.description>
+  <ODC_Trophy_PowerFist_E.description>经过改装的奇异动力拳套，由黑曜石漂流者的未知创造者设计，用于引导能量宝石的力量。\n\n此改装剥夺了物品的品质等级。\n\nMk.I - 流亡者能量宝石。全局工作速度提升。\n\nMk.II - 朝圣者能量宝石。社交和谈判能力提升。\n\nMk.III - 辛迪加能量宝石。娱乐下降率降低。</ODC_Trophy_PowerFist_E.description>
   <!-- EN: gauntlet -->
-  <ODC_Trophy_PowerFist_E.tools.gauntlet.label>TODO</ODC_Trophy_PowerFist_E.tools.gauntlet.label>
+  <ODC_Trophy_PowerFist_E.tools.gauntlet.label>拳套</ODC_Trophy_PowerFist_E.tools.gauntlet.label>
   
   <!-- EN: Eternal Gauntlet Mk.IV -->
-  <ODC_Trophy_PowerFist_F.label>TODO</ODC_Trophy_PowerFist_F.label>
+  <ODC_Trophy_PowerFist_F.label>永恒拳套 Mk.IV</ODC_Trophy_PowerFist_F.label>
   <!-- EN: Modified strange power gauntlet was designed by unknown creator from Obsidia Drifters to channel the power of Power Stones.\n\nThis modification deprives item's quality levels.\n\nMk.I - Renegade Power Stone. Global work speed increased.\n\nMk.II - Pilgrim Power Stone. Social and Negotiation abilities increased.\n\nMk.III - Syndicate Power Stone. Joy fall rate reduced.\n\nMk.IV - Might Power Stone. Weapon damage increased. Able to deal additional Fire damage. -->
-  <ODC_Trophy_PowerFist_F.description>TODO</ODC_Trophy_PowerFist_F.description>
+  <ODC_Trophy_PowerFist_F.description>经过改装的奇异动力拳套，由黑曜石漂流者的未知创造者设计，用于引导能量宝石的力量。\n\n此改装剥夺了物品的品质等级。\n\nMk.I - 流亡者能量宝石。全局工作速度提升。\n\nMk.II - 朝圣者能量宝石。社交和谈判能力提升。\n\nMk.III - 辛迪加能量宝石。娱乐下降率降低。\n\nMk.IV - 力量能量宝石。武器伤害提升。能够造成额外火焰伤害。</ODC_Trophy_PowerFist_F.description>
   <!-- EN: gauntlet -->
-  <ODC_Trophy_PowerFist_F.tools.gauntlet.label>TODO</ODC_Trophy_PowerFist_F.tools.gauntlet.label>
+  <ODC_Trophy_PowerFist_F.tools.gauntlet.label>拳套</ODC_Trophy_PowerFist_F.tools.gauntlet.label>
   
   <!-- EN: Eternal Gauntlet Mk.V -->
-  <ODC_Trophy_PowerFist_G.label>TODO</ODC_Trophy_PowerFist_G.label>
+  <ODC_Trophy_PowerFist_G.label>永恒拳套 Mk.V</ODC_Trophy_PowerFist_G.label>
   <!-- EN: Modified strange power gauntlet was designed by unknown creator from Obsidia Drifters to channel the power of Power Stones.\n\nThis modification deprives item's quality levels.\n\nMk.I - Renegade Power Stone. Global work speed increased.\n\nMk.II - Pilgrim Power Stone. Social and Negotiation abilities increased.\n\nMk.III - Syndicate Power Stone. Joy fall rate reduced.\n\nMk.IV - Might Power Stone. Weapon damage increased. Able to deal additional Fire damage.\n\nMk.V - Dexterity Power Stone. Melee dodge and hit chances increased. Able to deal additional EMP damage. -->
-  <ODC_Trophy_PowerFist_G.description>TODO</ODC_Trophy_PowerFist_G.description>
+  <ODC_Trophy_PowerFist_G.description>经过改装的奇异动力拳套，由黑曜石漂流者的未知创造者设计，用于引导能量宝石的力量。\n\n此改装剥夺了物品的品质等级。\n\nMk.I - 流亡者能量宝石。全局工作速度提升。\n\nMk.II - 朝圣者能量宝石。社交和谈判能力提升。\n\nMk.III - 辛迪加能量宝石。娱乐下降率降低。\n\nMk.IV - 力量能量宝石。武器伤害提升。能够造成额外火焰伤害。\n\nMk.V - 灵巧能量宝石。近战闪避和命中几率提升。能够造成额外EMP伤害。</ODC_Trophy_PowerFist_G.description>
   <!-- EN: gauntlet -->
-  <ODC_Trophy_PowerFist_G.tools.gauntlet.label>TODO</ODC_Trophy_PowerFist_G.tools.gauntlet.label>
+  <ODC_Trophy_PowerFist_G.tools.gauntlet.label>拳套</ODC_Trophy_PowerFist_G.tools.gauntlet.label>
   
   <!-- EN: Eternal Gauntlet Mk.VI -->
-  <ODC_Trophy_PowerFist_H.label>TODO</ODC_Trophy_PowerFist_H.label>
+  <ODC_Trophy_PowerFist_H.label>永恒拳套 Mk.VI</ODC_Trophy_PowerFist_H.label>
   <!-- EN: Modified strange power gauntlet was designed by unknown creator from Obsidia Drifters to channel the power of Power Stones.\n\nThis modification deprives item's quality levels.\n\nMk.I - Renegade Power Stone. Global work speed increased.\n\nMk.II - Pilgrim Power Stone. Social and Negotiation abilities increased.\n\nMk.III - Syndicate Power Stone. Joy fall rate reduced.\n\nMk.IV - Might Power Stone. Weapon damage increased. Able to deal additional Fire damage.\n\nMk.V - Dexterity Power Stone. Melee dodge and hit chances increased. Able to deal additional EMP damage.\n\nMk.VI - Vitality Power Stone. Healing factor increased. Able to deal additional Acid damage. -->
-  <ODC_Trophy_PowerFist_H.description>TODO</ODC_Trophy_PowerFist_H.description>
+  <ODC_Trophy_PowerFist_H.description>经过改装的奇异动力拳套，由黑曜石漂流者的未知创造者设计，用于引导能量宝石的力量。\n\n此改装剥夺了物品的品质等级。\n\nMk.I - 流亡者能量宝石。全局工作速度提升。\n\nMk.II - 朝圣者能量宝石。社交和谈判能力提升。\n\nMk.III - 辛迪加能量宝石。娱乐下降率降低。\n\nMk.IV - 力量能量宝石。武器伤害提升。能够造成额外火焰伤害。\n\nMk.V - 灵巧能量宝石。近战闪避和命中几率提升。能够造成额外EMP伤害。\n\nMk.VI - 活力能量宝石。愈合因子提升。能够造成额外酸蚀伤害。</ODC_Trophy_PowerFist_H.description>
   <!-- EN: gauntlet -->
-  <ODC_Trophy_PowerFist_H.tools.gauntlet.label>TODO</ODC_Trophy_PowerFist_H.tools.gauntlet.label>
+  <ODC_Trophy_PowerFist_H.tools.gauntlet.label>拳套</ODC_Trophy_PowerFist_H.tools.gauntlet.label>
   
   <!-- EN: Eternal Gauntlet Mk.VII -->
-  <ODC_Trophy_PowerFist_I.label>TODO</ODC_Trophy_PowerFist_I.label>
+  <ODC_Trophy_PowerFist_I.label>永恒拳套 Mk.VII</ODC_Trophy_PowerFist_I.label>
   <!-- EN: Modified strange power gauntlet was designed by unknown creator from Obsidia Drifters to channel the power of Power Stones.\n\nThis modification deprives item's quality levels.\n\nMk.I - Renegade Power Stone. Global work speed increased.\n\nMk.II - Pilgrim Power Stone. Social and Negotiation abilities increased.\n\nMk.III - Syndicate Power Stone. Joy fall rate reduced.\n\nMk.IV - Might Power Stone. Weapon damage increased. Able to deal additional Fire damage.\n\nMk.V - Dexterity Power Stone. Melee dodge and hit chances increased. Able to deal additional EMP damage.\n\nMk.VI - Vitality Power Stone. Healing factor increased. Able to deal additional Acid damage.\n\nMk.VII - Wisdom Power Stone. Global learning factor increased. Able to deal additional Cryo damage. -->
-  <ODC_Trophy_PowerFist_I.description>TODO</ODC_Trophy_PowerFist_I.description>
+  <ODC_Trophy_PowerFist_I.description>经过改装的奇异动力拳套，由黑曜石漂流者的未知创造者设计，用于引导能量宝石的力量。\n\n此改装剥夺了物品的品质等级。\n\nMk.I - 流亡者能量宝石。全局工作速度提升。\n\nMk.II - 朝圣者能量宝石。社交和谈判能力提升。\n\nMk.III - 辛迪加能量宝石。娱乐下降率降低。\n\nMk.IV - 力量能量宝石。武器伤害提升。能够造成额外火焰伤害。\n\nMk.V - 灵巧能量宝石。近战闪避和命中几率提升。能够造成额外EMP伤害。\n\nMk.VI - 活力能量宝石。愈合因子提升。能够造成额外酸蚀伤害。\n\nMk.VII - 智慧能量宝石。全局学习因子提升。能够造成额外冷冻伤害。</ODC_Trophy_PowerFist_I.description>
   <!-- EN: gauntlet -->
-  <ODC_Trophy_PowerFist_I.tools.gauntlet.label>TODO</ODC_Trophy_PowerFist_I.tools.gauntlet.label>
+  <ODC_Trophy_PowerFist_I.tools.gauntlet.label>拳套</ODC_Trophy_PowerFist_I.tools.gauntlet.label>
   
   <!-- EN: Eternal Gauntlet Mk.VIII -->
-  <ODC_Trophy_PowerFist_J.label>TODO</ODC_Trophy_PowerFist_J.label>
+  <ODC_Trophy_PowerFist_J.label>永恒拳套 Mk.VIII</ODC_Trophy_PowerFist_J.label>
   <!-- EN: Modified strange power gauntlet was designed by unknown creator from Obsidia Drifters to channel the power of Power Stones.\n\nThis modification deprives item's quality levels.\n\nMk.I - Renegade Power Stone. Global work speed increased.\n\nMk.II - Pilgrim Power Stone. Social and Negotiation abilities increased.\n\nMk.III - Syndicate Power Stone. Joy fall rate reduced.\n\nMk.IV - Might Power Stone. Weapon damage increased. Able to deal additional Fire damage.\n\nMk.V - Dexterity Power Stone. Melee dodge and hit chances increased. Able to deal additional EMP damage.\n\nMk.VI - Vitality Power Stone. Healing factor increased. Able to deal additional Acid damage.\n\nMk.VII - Wisdom Power Stone. Global learning factor increased. Able to deal additional Cryo damage.\n\nMk.VIII - Universe Power Stone. Unleashed hidden power. Depends on the available forces in the universe. -->
-  <ODC_Trophy_PowerFist_J.description>TODO</ODC_Trophy_PowerFist_J.description>
+  <ODC_Trophy_PowerFist_J.description>经过改装的奇异动力拳套，由黑曜石漂流者的未知创造者设计，用于引导能量宝石的力量。\n\n此改装剥夺了物品的品质等级。\n\nMk.I - 流亡者能量宝石。全局工作速度提升。\n\nMk.II - 朝圣者能量宝石。社交和谈判能力提升。\n\nMk.III - 辛迪加能量宝石。娱乐下降率降低。\n\nMk.IV - 力量能量宝石。武器伤害提升。能够造成额外火焰伤害。\n\nMk.V - 灵巧能量宝石。近战闪避和命中几率提升。能够造成额外EMP伤害。\n\nMk.VI - 活力能量宝石。愈合因子提升。能够造成额外酸蚀伤害。\n\nMk.VII - 智慧能量宝石。全局学习因子提升。能够造成额外冷冻伤害。\n\nMk.VIII - 宇宙能量宝石。释放隐藏力量。取决于宇宙中可用的力量。</ODC_Trophy_PowerFist_J.description>
   <!-- EN: gauntlet -->
-  <ODC_Trophy_PowerFist_J.tools.gauntlet.label>TODO</ODC_Trophy_PowerFist_J.tools.gauntlet.label>
+  <ODC_Trophy_PowerFist_J.tools.gauntlet.label>拳套</ODC_Trophy_PowerFist_J.tools.gauntlet.label>
   
   <!-- EN: Temptation -->
-  <ODC_Trophy_Sickle_A.label>TODO</ODC_Trophy_Sickle_A.label>
+  <ODC_Trophy_Sickle_A.label>诱惑</ODC_Trophy_Sickle_A.label>
   <!-- EN: An archaic sickle crafted by the best crafters on special orders from the elite Obsidia Drifters.\n\nThis is a rare trophy weapon.\n\nFeature: a built-in module that improves combat performance. -->
-  <ODC_Trophy_Sickle_A.description>TODO</ODC_Trophy_Sickle_A.description>
+  <ODC_Trophy_Sickle_A.description>由最优秀的工匠根据精英黑曜石漂流者的特殊订单制作的古老镰刀。\n\n这是一种稀有的战利品武器。\n\n特性：内置模块，提高战斗表现。</ODC_Trophy_Sickle_A.description>
   <!-- EN: handle -->
-  <ODC_Trophy_Sickle_A.tools.handle.label>TODO</ODC_Trophy_Sickle_A.tools.handle.label>
+  <ODC_Trophy_Sickle_A.tools.handle.label>握把</ODC_Trophy_Sickle_A.tools.handle.label>
   <!-- EN: blade -->
-  <ODC_Trophy_Sickle_A.tools.blade.label>TODO</ODC_Trophy_Sickle_A.tools.blade.label>
+  <ODC_Trophy_Sickle_A.tools.blade.label>刀刃</ODC_Trophy_Sickle_A.tools.blade.label>
   
   <!-- EN: Temptation - Emergent -->
-  <ODC_Trophy_Sickle_B.label>TODO</ODC_Trophy_Sickle_B.label>
+  <ODC_Trophy_Sickle_B.label>诱惑 - 新现</ODC_Trophy_Sickle_B.label>
   <!-- EN: An archaic sickle crafted by the best crafters on special orders from the elite Obsidia Drifters.\n\nThis is a rare trophy weapon.\n\nFeature: a built-in module that improves combat performance. -->
-  <ODC_Trophy_Sickle_B.description>TODO</ODC_Trophy_Sickle_B.description>
+  <ODC_Trophy_Sickle_B.description>由最优秀的工匠根据精英黑曜石漂流者的特殊订单制作的古老镰刀。\n\n这是一种稀有的战利品武器。\n\n特性：内置模块，提高战斗表现。</ODC_Trophy_Sickle_B.description>
   <!-- EN: handle -->
-  <ODC_Trophy_Sickle_B.tools.handle.label>TODO</ODC_Trophy_Sickle_B.tools.handle.label>
+  <ODC_Trophy_Sickle_B.tools.handle.label>握把</ODC_Trophy_Sickle_B.tools.handle.label>
   <!-- EN: blade -->
-  <ODC_Trophy_Sickle_B.tools.blade.label>TODO</ODC_Trophy_Sickle_B.tools.blade.label>
+  <ODC_Trophy_Sickle_B.tools.blade.label>刀刃</ODC_Trophy_Sickle_B.tools.blade.label>
   
   <!-- EN: Temptation - Apex -->
-  <ODC_Trophy_Sickle_C.label>TODO</ODC_Trophy_Sickle_C.label>
+  <ODC_Trophy_Sickle_C.label>诱惑 - 巅峰</ODC_Trophy_Sickle_C.label>
   <!-- EN: An archaic sickle crafted by the best crafters on special orders from the elite Obsidia Drifters.\n\nThis is a rare trophy weapon.\n\nFeature: a built-in module that improves combat performance. -->
-  <ODC_Trophy_Sickle_C.description>TODO</ODC_Trophy_Sickle_C.description>
+  <ODC_Trophy_Sickle_C.description>由最优秀的工匠根据精英黑曜石漂流者的特殊订单制作的古老镰刀。\n\n这是一种稀有的战利品武器。\n\n特性：内置模块，提高战斗表现。</ODC_Trophy_Sickle_C.description>
   <!-- EN: handle -->
-  <ODC_Trophy_Sickle_C.tools.handle.label>TODO</ODC_Trophy_Sickle_C.tools.handle.label>
+  <ODC_Trophy_Sickle_C.tools.handle.label>握把</ODC_Trophy_Sickle_C.tools.handle.label>
   <!-- EN: blade -->
-  <ODC_Trophy_Sickle_C.tools.blade.label>TODO</ODC_Trophy_Sickle_C.tools.blade.label>
+  <ODC_Trophy_Sickle_C.tools.blade.label>刀刃</ODC_Trophy_Sickle_C.tools.blade.label>
   
   <!-- EN: Inlaid Temptation - Apex -->
-  <ODC_Trophy_Sickle_C_I.label>TODO</ODC_Trophy_Sickle_C_I.label>
+  <ODC_Trophy_Sickle_C_I.label>镶嵌诱惑 - 巅峰</ODC_Trophy_Sickle_C_I.label>
   <!-- EN: An archaic sickle crafted by the best crafters on special orders from the elite Obsidia Drifters.\n\nThis is a rare trophy weapon.\n\nFeature: a built-in module that improves combat performance.\n\nInlaid with Might Power Stone: Weapon combat stats increased. -->
-  <ODC_Trophy_Sickle_C_I.description>TODO</ODC_Trophy_Sickle_C_I.description>
+  <ODC_Trophy_Sickle_C_I.description>由最优秀的工匠根据精英黑曜石漂流者的特殊订单制作的古老镰刀。\n\n这是一种稀有的战利品武器。\n\n特性：内置模块，提高战斗表现。\n\n镶嵌力量宝石：武器战斗属性提升。</ODC_Trophy_Sickle_C_I.description>
   <!-- EN: handle -->
-  <ODC_Trophy_Sickle_C_I.tools.handle.label>TODO</ODC_Trophy_Sickle_C_I.tools.handle.label>
+  <ODC_Trophy_Sickle_C_I.tools.handle.label>握把</ODC_Trophy_Sickle_C_I.tools.handle.label>
   <!-- EN: blade -->
-  <ODC_Trophy_Sickle_C_I.tools.blade.label>TODO</ODC_Trophy_Sickle_C_I.tools.blade.label>
+  <ODC_Trophy_Sickle_C_I.tools.blade.label>刀刃</ODC_Trophy_Sickle_C_I.tools.blade.label>
   
 </LanguageData>

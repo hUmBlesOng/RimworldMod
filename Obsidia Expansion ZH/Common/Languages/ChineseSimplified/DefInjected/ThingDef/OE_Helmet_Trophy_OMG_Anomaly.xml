@@ -1,46 +1,46 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: deadlife capsule -->
-  <Grenade_OMG_Deadlife.label>TODO</Grenade_OMG_Deadlife.label>
+  <Grenade_OMG_Deadlife.label>死灵胶囊</Grenade_OMG_Deadlife.label>
   
   <!-- EN: disruptor flare -->
-  <OMG_DisruptorFlare.label>TODO</OMG_DisruptorFlare.label>
+  <OMG_DisruptorFlare.label>干扰照明弹</OMG_DisruptorFlare.label>
   
   <!-- EN: Mercenary Helmet(Firemark) -->
-  <OMG_Trophy_Helmet_Firemark.label>TODO</OMG_Trophy_Helmet_Firemark.label>
+  <OMG_Trophy_Helmet_Firemark.label>雇佣兵头盔（火焰标记）</OMG_Trophy_Helmet_Firemark.label>
   <!-- EN: Highly modified heavy power armor Helmet, excellent protects the owner. Designed for use by Mercenaries.\n\nThis variation provides a built-in module with a flyer dispenser.\n\nThis modification deprives item's quality levels. -->
-  <OMG_Trophy_Helmet_Firemark.description>TODO</OMG_Trophy_Helmet_Firemark.description>
+  <OMG_Trophy_Helmet_Firemark.description>高度改装的重型动力装甲头盔，为使用者提供出色的保护。专为雇佣兵设计使用。\n\n此变种提供一个内置模块，带有飞行器分配器。\n\n此改装剥夺了物品的品质等级。</OMG_Trophy_Helmet_Firemark.description>
   <!-- EN: charge -->
-  <OMG_Trophy_Helmet_Firemark.comps.CompApparelReloadable.chargeNoun>TODO</OMG_Trophy_Helmet_Firemark.comps.CompApparelReloadable.chargeNoun>
+  <OMG_Trophy_Helmet_Firemark.comps.CompApparelReloadable.chargeNoun>充能</OMG_Trophy_Helmet_Firemark.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OMG_Trophy_Helmet_Firemark.comps.CompApparelReloadable.cooldownGerund>TODO</OMG_Trophy_Helmet_Firemark.comps.CompApparelReloadable.cooldownGerund>
+  <OMG_Trophy_Helmet_Firemark.comps.CompApparelReloadable.cooldownGerund>冷却中</OMG_Trophy_Helmet_Firemark.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: Mercenary Helmet(Firemark) -->
-  <OMG_Trophy_Helmet_Firemark.verbs.Verb_LaunchProjectileStaticPsychic.label>TODO</OMG_Trophy_Helmet_Firemark.verbs.Verb_LaunchProjectileStaticPsychic.label>
+  <OMG_Trophy_Helmet_Firemark.verbs.Verb_LaunchProjectileStaticPsychic.label>雇佣兵头盔（火焰标记）</OMG_Trophy_Helmet_Firemark.verbs.Verb_LaunchProjectileStaticPsychic.label>
   
   <!-- EN: Mercenary Helmet(Fleshcrafter) -->
-  <OMG_Trophy_Helmet_Fleshcrafter.label>TODO</OMG_Trophy_Helmet_Fleshcrafter.label>
+  <OMG_Trophy_Helmet_Fleshcrafter.label>雇佣兵头盔（血肉工匠）</OMG_Trophy_Helmet_Fleshcrafter.label>
   <!-- EN: Highly modified heavy power armor Helmet, excellent protects the owner. Designed for use by Mercenaries.\n\nThis variation provides the owner with power of Biomutation lance.\n\nThis modification deprives item's quality levels. -->
-  <OMG_Trophy_Helmet_Fleshcrafter.description>TODO</OMG_Trophy_Helmet_Fleshcrafter.description>
+  <OMG_Trophy_Helmet_Fleshcrafter.description>高度改装的重型动力装甲头盔，为使用者提供出色的保护。专为雇佣兵设计使用。\n\n此变种为使用者提供生物变异 lance 的力量。\n\n此改装剥夺了物品的品质等级。</OMG_Trophy_Helmet_Fleshcrafter.description>
   <!-- EN: charge -->
-  <OMG_Trophy_Helmet_Fleshcrafter.comps.CompApparelReloadable.chargeNoun>TODO</OMG_Trophy_Helmet_Fleshcrafter.comps.CompApparelReloadable.chargeNoun>
+  <OMG_Trophy_Helmet_Fleshcrafter.comps.CompApparelReloadable.chargeNoun>充能</OMG_Trophy_Helmet_Fleshcrafter.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OMG_Trophy_Helmet_Fleshcrafter.comps.CompApparelReloadable.cooldownGerund>TODO</OMG_Trophy_Helmet_Fleshcrafter.comps.CompApparelReloadable.cooldownGerund>
+  <OMG_Trophy_Helmet_Fleshcrafter.comps.CompApparelReloadable.cooldownGerund>冷却中</OMG_Trophy_Helmet_Fleshcrafter.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: Mercenary Helmet(Fleshcrafter) -->
-  <OMG_Trophy_Helmet_Fleshcrafter.verbs.Verb_CastTargetEffectBiomutationLance.label>TODO</OMG_Trophy_Helmet_Fleshcrafter.verbs.Verb_CastTargetEffectBiomutationLance.label>
+  <OMG_Trophy_Helmet_Fleshcrafter.verbs.Verb_CastTargetEffectBiomutationLance.label>雇佣兵头盔（血肉工匠）</OMG_Trophy_Helmet_Fleshcrafter.verbs.Verb_CastTargetEffectBiomutationLance.label>
   
   <!-- EN: Mercenary Helmet(Necrospark) -->
-  <OMG_Trophy_Helmet_Necrospark.label>TODO</OMG_Trophy_Helmet_Necrospark.label>
+  <OMG_Trophy_Helmet_Necrospark.label>雇佣兵头盔（死灵火花）</OMG_Trophy_Helmet_Necrospark.label>
   <!-- EN: Highly modified heavy power armor Helmet, excellent protects the owner. Designed for use by Mercenaries.\n\nThis variation provides a built-in module with a deadlife pack.\n\nThis modification deprives item's quality levels. -->
-  <OMG_Trophy_Helmet_Necrospark.description>TODO</OMG_Trophy_Helmet_Necrospark.description>
+  <OMG_Trophy_Helmet_Necrospark.description>高度改装的重型动力装甲头盔，为使用者提供出色的保护。专为雇佣兵设计使用。\n\n此变种提供一个内置模块，带有死灵包。\n\n此改装剥夺了物品的品质等级。</OMG_Trophy_Helmet_Necrospark.description>
   <!-- EN: charge -->
-  <OMG_Trophy_Helmet_Necrospark.comps.CompApparelReloadable.chargeNoun>TODO</OMG_Trophy_Helmet_Necrospark.comps.CompApparelReloadable.chargeNoun>
+  <OMG_Trophy_Helmet_Necrospark.comps.CompApparelReloadable.chargeNoun>充能</OMG_Trophy_Helmet_Necrospark.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OMG_Trophy_Helmet_Necrospark.comps.CompApparelReloadable.cooldownGerund>TODO</OMG_Trophy_Helmet_Necrospark.comps.CompApparelReloadable.cooldownGerund>
+  <OMG_Trophy_Helmet_Necrospark.comps.CompApparelReloadable.cooldownGerund>冷却中</OMG_Trophy_Helmet_Necrospark.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: Mercenary Helmet(Necrospark) -->
-  <OMG_Trophy_Helmet_Necrospark.verbs.Verb_LaunchProjectileStatic.label>TODO</OMG_Trophy_Helmet_Necrospark.verbs.Verb_LaunchProjectileStatic.label>
+  <OMG_Trophy_Helmet_Necrospark.verbs.Verb_LaunchProjectileStatic.label>雇佣兵头盔（死灵火花）</OMG_Trophy_Helmet_Necrospark.verbs.Verb_LaunchProjectileStatic.label>
   
   <!-- EN: deadlife capsule -->
-  <Shell_OMG_Deadlife.label>TODO</Shell_OMG_Deadlife.label>
+  <Shell_OMG_Deadlife.label>死灵胶囊</Shell_OMG_Deadlife.label>
   
 </LanguageData>

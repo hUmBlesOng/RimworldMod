@@ -1,72 +1,72 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Proto Pride arrow -->
-  <Bullet_OE_B.label>TODO</Bullet_OE_B.label>
+  <Bullet_OE_B.label>原型骄傲箭</Bullet_OE_B.label>
   
   <!-- EN: Proto Impaler bullet -->
-  <Bullet_OE_P.label>TODO</Bullet_OE_P.label>
+  <Bullet_OE_P.label>原型穿刺者子弹</Bullet_OE_P.label>
   
   <!-- EN: Proto Cerberus bullet -->
-  <Bullet_OE_R.label>TODO</Bullet_OE_R.label>
+  <Bullet_OE_R.label>原型刻耳柏洛斯子弹</Bullet_OE_R.label>
   
   <!-- EN: Proto Doom blast -->
-  <Bullet_OE_S.label>TODO</Bullet_OE_S.label>
+  <Bullet_OE_S.label>原型末日爆炸</Bullet_OE_S.label>
   
   <!-- EN: Proto Equalizer bullet -->
-  <Bullet_OE_SMG.label>TODO</Bullet_OE_SMG.label>
+  <Bullet_OE_SMG.label>原型平衡者子弹</Bullet_OE_SMG.label>
   
   <!-- EN: Proto Pride -->
-  <OE_Bow.label>TODO</OE_Bow.label>
+  <OE_Bow.label>原型骄傲</OE_Bow.label>
   <!-- EN: Proto Bow, designed for use by Obsidia Empire warriors several centuries ago. -->
-  <OE_Bow.description>TODO</OE_Bow.description>
+  <OE_Bow.description>原型弓，几个世纪前为黑曜石帝国战士设计。</OE_Bow.description>
   <!-- EN: limb -->
-  <OE_Bow.tools.limb.label>TODO</OE_Bow.tools.limb.label>
+  <OE_Bow.tools.limb.label>弓臂</OE_Bow.tools.limb.label>
   <!-- EN: Proto Pride -->
-  <OE_Bow.verbs.Verb_Shoot.label>TODO</OE_Bow.verbs.Verb_Shoot.label>
+  <OE_Bow.verbs.Verb_Shoot.label>原型骄傲</OE_Bow.verbs.Verb_Shoot.label>
   
   <!-- EN: Proto Impaler -->
-  <OE_Pistol.label>TODO</OE_Pistol.label>
+  <OE_Pistol.label>原型穿刺者</OE_Pistol.label>
   <!-- EN: Proto Pistol, designed for use by Obsidia Empire warriors several centuries ago. -->
-  <OE_Pistol.description>TODO</OE_Pistol.description>
+  <OE_Pistol.description>原型手枪，几个世纪前为黑曜石帝国战士设计。</OE_Pistol.description>
   <!-- EN: grip -->
-  <OE_Pistol.tools.grip.label>TODO</OE_Pistol.tools.grip.label>
+  <OE_Pistol.tools.grip.label>握把</OE_Pistol.tools.grip.label>
   <!-- EN: barrel -->
-  <OE_Pistol.tools.barrel.label>TODO</OE_Pistol.tools.barrel.label>
+  <OE_Pistol.tools.barrel.label>枪管</OE_Pistol.tools.barrel.label>
   <!-- EN: Proto Impaler -->
-  <OE_Pistol.verbs.Verb_Shoot.label>TODO</OE_Pistol.verbs.Verb_Shoot.label>
+  <OE_Pistol.verbs.Verb_Shoot.label>原型穿刺者</OE_Pistol.verbs.Verb_Shoot.label>
   
   <!-- EN: Proto Cerberus -->
-  <OE_Rifle.label>TODO</OE_Rifle.label>
+  <OE_Rifle.label>原型刻耳柏洛斯</OE_Rifle.label>
   <!-- EN: Proto Rifle, designed for use by Obsidia Empire warriors several centuries ago. -->
-  <OE_Rifle.description>TODO</OE_Rifle.description>
+  <OE_Rifle.description>原型步枪，几个世纪前为黑曜石帝国战士设计。</OE_Rifle.description>
   <!-- EN: stock -->
-  <OE_Rifle.tools.stock.label>TODO</OE_Rifle.tools.stock.label>
+  <OE_Rifle.tools.stock.label>枪托</OE_Rifle.tools.stock.label>
   <!-- EN: barrel -->
-  <OE_Rifle.tools.barrel.label>TODO</OE_Rifle.tools.barrel.label>
+  <OE_Rifle.tools.barrel.label>枪管</OE_Rifle.tools.barrel.label>
   <!-- EN: Proto Cerberus -->
-  <OE_Rifle.verbs.Verb_Shoot.label>TODO</OE_Rifle.verbs.Verb_Shoot.label>
+  <OE_Rifle.verbs.Verb_Shoot.label>原型刻耳柏洛斯</OE_Rifle.verbs.Verb_Shoot.label>
   
   <!-- EN: Proto Doom -->
-  <OE_Shotgun.label>TODO</OE_Shotgun.label>
+  <OE_Shotgun.label>原型末日</OE_Shotgun.label>
   <!-- EN: Proto Shotgun, designed for use by Obsidia Empire warriors several centuries ago. -->
-  <OE_Shotgun.description>TODO</OE_Shotgun.description>
+  <OE_Shotgun.description>原型霰弹枪，几个世纪前为黑曜石帝国战士设计。</OE_Shotgun.description>
   <!-- EN: stock -->
-  <OE_Shotgun.tools.stock.label>TODO</OE_Shotgun.tools.stock.label>
+  <OE_Shotgun.tools.stock.label>枪托</OE_Shotgun.tools.stock.label>
   <!-- EN: barrel -->
-  <OE_Shotgun.tools.barrel.label>TODO</OE_Shotgun.tools.barrel.label>
+  <OE_Shotgun.tools.barrel.label>枪管</OE_Shotgun.tools.barrel.label>
   <!-- EN: Proto Doom -->
-  <OE_Shotgun.verbs.Verb_Shoot.label>TODO</OE_Shotgun.verbs.Verb_Shoot.label>
+  <OE_Shotgun.verbs.Verb_Shoot.label>原型末日</OE_Shotgun.verbs.Verb_Shoot.label>
   
   <!-- EN: Proto Equalizer -->
-  <OE_SMG.label>TODO</OE_SMG.label>
+  <OE_SMG.label>原型平衡者</OE_SMG.label>
   <!-- EN: Proto SMG, designed for use by Obsidia Empire warriors several centuries ago. -->
-  <OE_SMG.description>TODO</OE_SMG.description>
+  <OE_SMG.description>原型冲锋枪，几个世纪前为黑曜石帝国战士设计。</OE_SMG.description>
   <!-- EN: stock -->
-  <OE_SMG.tools.stock.label>TODO</OE_SMG.tools.stock.label>
+  <OE_SMG.tools.stock.label>枪托</OE_SMG.tools.stock.label>
   <!-- EN: barrel -->
-  <OE_SMG.tools.barrel.label>TODO</OE_SMG.tools.barrel.label>
+  <OE_SMG.tools.barrel.label>枪管</OE_SMG.tools.barrel.label>
   <!-- EN: Proto Equalizer -->
-  <OE_SMG.verbs.Verb_Shoot.label>TODO</OE_SMG.verbs.Verb_Shoot.label>
+  <OE_SMG.verbs.Verb_Shoot.label>原型平衡者</OE_SMG.verbs.Verb_Shoot.label>
   
 </LanguageData>

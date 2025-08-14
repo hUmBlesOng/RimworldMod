@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: luraxin -->
-  <OE_Luraxin.label>TODO</OE_Luraxin.label>
+  <OE_Luraxin.label>灵能素</OE_Luraxin.label>
   <!-- EN: A specialized combat stimpack with 3 stages of effect (the effect weakens over time), intended for use by psy-users. Obsidia technology, a stimpack can be addictive and has unpleasant side effects. -->
-  <OE_Luraxin.description>TODO</OE_Luraxin.description>
+  <OE_Luraxin.description>一种专门的战斗兴奋剂，具有3个效果阶段（效果随时间减弱），专为超能使用者使用而设计。黑曜石技术，兴奋剂可能成瘾并有不愉快的副作用。</OE_Luraxin.description>
   <!-- EN: Take {0} -->
-  <OE_Luraxin.ingestible.ingestCommandString>TODO</OE_Luraxin.ingestible.ingestCommandString>
+  <OE_Luraxin.ingestible.ingestCommandString>服用{0}</OE_Luraxin.ingestible.ingestCommandString>
   <!-- EN: Taking {0}. -->
-  <OE_Luraxin.ingestible.ingestReportString>TODO</OE_Luraxin.ingestible.ingestReportString>
+  <OE_Luraxin.ingestible.ingestReportString>正在服用{0}。</OE_Luraxin.ingestible.ingestReportString>
   
 </LanguageData>

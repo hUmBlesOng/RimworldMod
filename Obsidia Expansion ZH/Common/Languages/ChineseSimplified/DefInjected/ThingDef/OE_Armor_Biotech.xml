@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: obsidia kid armor -->
-  <OE_Armor_Kid.label>TODO</OE_Armor_Kid.label>
+  <OE_Armor_Kid.label>黑曜石儿童护甲</OE_Armor_Kid.label>
   <!-- EN: Light armor, well protects the owner with little mobility restriction. Designed for use by Obsidia Empire kids. -->
-  <OE_Armor_Kid.description>TODO</OE_Armor_Kid.description>
+  <OE_Armor_Kid.description>轻型护甲，能很好地保护穿戴者，且对行动限制很小。专为黑曜石帝国的儿童设计。</OE_Armor_Kid.description>
   
   <!-- EN: Obsidia Kid Armor(Space Griffin) -->
-  <OE_Armor_Kid_Spacer.label>TODO</OE_Armor_Kid_Spacer.label>
+  <OE_Armor_Kid_Spacer.label>黑曜石儿童护甲（太空狮鹫）</OE_Armor_Kid_Spacer.label>
   <!-- EN: Light armor, well protects the owner with little mobility restriction. Designed for use by Obsidia Empire kids.\n\nPressure-sealed version designed to keep the occupant alive in outer space. -->
-  <OE_Armor_Kid_Spacer.description>TODO</OE_Armor_Kid_Spacer.description>
+  <OE_Armor_Kid_Spacer.description>轻型护甲，能很好地保护穿戴者，且对行动限制很小。专为黑曜石帝国的儿童设计。\n\n密封加压版本，旨在太空中保护穿戴者的生命安全。</OE_Armor_Kid_Spacer.description>
   
 </LanguageData>

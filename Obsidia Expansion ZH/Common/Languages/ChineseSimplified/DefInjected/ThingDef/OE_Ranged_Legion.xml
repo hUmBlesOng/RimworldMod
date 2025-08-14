@@ -1,35 +1,35 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Fallen Legion Guard Spear energy bullet -->
-  <Bullet_OE_LGST.label>TODO</Bullet_OE_LGST.label>
+  <Bullet_OE_LGST.label>堕落军团守卫长矛能量子弹</Bullet_OE_LGST.label>
   
   <!-- EN: Fallen Legion Guard Spear energy bullet -->
-  <Bullet_OE_LST.label>TODO</Bullet_OE_LST.label>
+  <Bullet_OE_LST.label>堕落军团守卫长矛能量子弹</Bullet_OE_LST.label>
   
   <!-- EN: Legion beam turret -->
-  <OE_LegionBeamTurret.label>TODO</OE_LegionBeamTurret.label>
+  <OE_LegionBeamTurret.label>军团光束炮塔</OE_LegionBeamTurret.label>
   <!-- EN: A small charge blaster turret designed for use on a the Fallen Legion. -->
-  <OE_LegionBeamTurret.description>TODO</OE_LegionBeamTurret.description>
+  <OE_LegionBeamTurret.description>为堕落军团设计的小型电荷爆能炮塔。</OE_LegionBeamTurret.description>
   <!-- EN: Legion beam turret -->
-  <OE_LegionBeamTurret.verbs.Verb_ShootBeam.label>TODO</OE_LegionBeamTurret.verbs.Verb_ShootBeam.label>
+  <OE_LegionBeamTurret.verbs.Verb_ShootBeam.label>军团光束炮塔</OE_LegionBeamTurret.verbs.Verb_ShootBeam.label>
   
   <!-- EN: Fallen Legion Guard Spear -->
-  <OE_LegionGuardSpearTurret.label>TODO</OE_LegionGuardSpearTurret.label>
+  <OE_LegionGuardSpearTurret.label>堕落军团守卫长矛</OE_LegionGuardSpearTurret.label>
   <!-- EN: A gun-spear designed for the Fallen Legion Guard. Specially modified weapon charged with Fire and EMP damages.\n\nCan be used in both melee and ranged combat. -->
-  <OE_LegionGuardSpearTurret.description>TODO</OE_LegionGuardSpearTurret.description>
+  <OE_LegionGuardSpearTurret.description>为堕落军团守卫设计的枪矛。经过特殊改装的武器，带有火焰和EMP伤害。\n\n可同时用于近战和远程战斗。</OE_LegionGuardSpearTurret.description>
   <!-- EN: point -->
-  <OE_LegionGuardSpearTurret.tools.point.label>TODO</OE_LegionGuardSpearTurret.tools.point.label>
+  <OE_LegionGuardSpearTurret.tools.point.label>矛尖</OE_LegionGuardSpearTurret.tools.point.label>
   <!-- EN: Fallen Legion Guard Spear -->
-  <OE_LegionGuardSpearTurret.verbs.Verb_Shoot.label>TODO</OE_LegionGuardSpearTurret.verbs.Verb_Shoot.label>
+  <OE_LegionGuardSpearTurret.verbs.Verb_Shoot.label>堕落军团守卫长矛</OE_LegionGuardSpearTurret.verbs.Verb_Shoot.label>
   
   <!-- EN: Fallen Legion Spear -->
-  <OE_LegionSpearTurret.label>TODO</OE_LegionSpearTurret.label>
+  <OE_LegionSpearTurret.label>堕落军团长矛</OE_LegionSpearTurret.label>
   <!-- EN: An incredibly powerful gun-spear designed for the Fallen Legion. Specially modified weapon charged with Fire and EMP damages.\n\nCan be used in both melee and ranged combat. -->
-  <OE_LegionSpearTurret.description>TODO</OE_LegionSpearTurret.description>
+  <OE_LegionSpearTurret.description>为堕落军团设计的极其强大的枪矛。经过特殊改装的武器，带有火焰和EMP伤害。\n\n可同时用于近战和远程战斗。</OE_LegionSpearTurret.description>
   <!-- EN: point -->
-  <OE_LegionSpearTurret.tools.point.label>TODO</OE_LegionSpearTurret.tools.point.label>
+  <OE_LegionSpearTurret.tools.point.label>矛尖</OE_LegionSpearTurret.tools.point.label>
   <!-- EN: Fallen Legion Spear -->
-  <OE_LegionSpearTurret.verbs.Verb_Shoot.label>TODO</OE_LegionSpearTurret.verbs.Verb_Shoot.label>
+  <OE_LegionSpearTurret.verbs.Verb_Shoot.label>堕落军团长矛</OE_LegionSpearTurret.verbs.Verb_Shoot.label>
   
 </LanguageData>

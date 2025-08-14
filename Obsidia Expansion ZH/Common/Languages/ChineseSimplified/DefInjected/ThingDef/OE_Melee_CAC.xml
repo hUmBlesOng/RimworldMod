@@ -1,34 +1,34 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Souleater -->
-  <CAC_BigScythe.label>TODO</CAC_BigScythe.label>
+  <CAC_BigScythe.label>噬魂者</CAC_BigScythe.label>
   <!-- EN: Regular Big Scythe used by CAC Cultists. Specially modified weapon with increased power but difficult to handle. -->
-  <CAC_BigScythe.description>TODO</CAC_BigScythe.description>
+  <CAC_BigScythe.description>CAC邪教徒使用的常规大镰刀。经过特殊改装的武器，威力增强但难以操控。</CAC_BigScythe.description>
   <!-- EN: handle -->
-  <CAC_BigScythe.tools.handle.label>TODO</CAC_BigScythe.tools.handle.label>
+  <CAC_BigScythe.tools.handle.label>手柄</CAC_BigScythe.tools.handle.label>
   <!-- EN: edge -->
-  <CAC_BigScythe.tools.edge.label>TODO</CAC_BigScythe.tools.edge.label>
+  <CAC_BigScythe.tools.edge.label>刀刃</CAC_BigScythe.tools.edge.label>
   
   <!-- EN: Souldrinker -->
-  <CAC_Scythe.label>TODO</CAC_Scythe.label>
+  <CAC_Scythe.label>饮魂者</CAC_Scythe.label>
   <!-- EN: Regular Scythe used by CAC Cultists. Specially modified weapon with increased power but difficult to handle. -->
-  <CAC_Scythe.description>TODO</CAC_Scythe.description>
+  <CAC_Scythe.description>CAC邪教徒使用的常规镰刀。经过特殊改装的武器，威力增强但难以操控。</CAC_Scythe.description>
   <!-- EN: handle -->
-  <CAC_Scythe.tools.handle.label>TODO</CAC_Scythe.tools.handle.label>
+  <CAC_Scythe.tools.handle.label>手柄</CAC_Scythe.tools.handle.label>
   <!-- EN: edge -->
-  <CAC_Scythe.tools.edge.label>TODO</CAC_Scythe.tools.edge.label>
+  <CAC_Scythe.tools.edge.label>刀刃</CAC_Scythe.tools.edge.label>
   
   <!-- EN: Apathy -->
-  <CAC_Thurible.label>TODO</CAC_Thurible.label>
+  <CAC_Thurible.label>冷漠</CAC_Thurible.label>
   <!-- EN: Regular Thurible used by CAC Cultists. Specially modified weapon with increased power but difficult to handle. -->
-  <CAC_Thurible.description>TODO</CAC_Thurible.description>
+  <CAC_Thurible.description>CAC邪教徒使用的常规香炉。经过特殊改装的武器，威力增强但难以操控。</CAC_Thurible.description>
   <!-- EN: handle -->
-  <CAC_Thurible.tools.handle.label>TODO</CAC_Thurible.tools.handle.label>
+  <CAC_Thurible.tools.handle.label>手柄</CAC_Thurible.tools.handle.label>
   <!-- EN: Apathy -->
-  <CAC_Thurible.verbs.Verb_Shoot.label>TODO</CAC_Thurible.verbs.Verb_Shoot.label>
+  <CAC_Thurible.verbs.Verb_Shoot.label>冷漠</CAC_Thurible.verbs.Verb_Shoot.label>
   
   <!-- EN: Apathy wave -->
-  <Wave_CAC_W.label>TODO</Wave_CAC_W.label>
+  <Wave_CAC_W.label>冷漠波</Wave_CAC_W.label>
   
 </LanguageData>

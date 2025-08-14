@@ -1,31 +1,31 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: Death’s Call bullet -->
-  <Bullet_OMG_Trophy_R.label>TODO</Bullet_OMG_Trophy_R.label>
+  <!-- EN: Death's Call bullet -->
+  <Bullet_OMG_Trophy_R.label>死亡召唤子弹</Bullet_OMG_Trophy_R.label>
   
-  <!-- EN: Death’s Call -->
-  <OMG_Trophy_Revolver.label>TODO</OMG_Trophy_Revolver.label>
+  <!-- EN: Death's Call -->
+  <OMG_Trophy_Revolver.label>死亡召唤</OMG_Trophy_Revolver.label>
   <!-- EN: Crafted from dark technology, this revolver can turn any victim into a relentless Shambler. With each pull of the trigger, the dead rise again, cursed to walk in unholy servitude.\n\nSpecially modified weapon charged with Necrobane, Deadlife, Stun and EMP damages.\n\nThis modification deprives item's quality levels. -->
-  <OMG_Trophy_Revolver.description>TODO</OMG_Trophy_Revolver.description>
+  <OMG_Trophy_Revolver.description>由黑暗技术制造，这把左轮手枪可以将任何受害者变成无情的蹒跚者。每次扣动扳机，死者都会再次复活，被诅咒进行不洁的奴役行走。\n\n经过特殊改装的武器，带有死灵克星、死灵、眩晕和EMP伤害。\n\n此改装剥夺了物品的品质等级。</OMG_Trophy_Revolver.description>
   <!-- EN: ignite charge -->
-  <OMG_Trophy_Revolver.comps.CompEquippableAbilityReloadable-0.chargeNoun>TODO</OMG_Trophy_Revolver.comps.CompEquippableAbilityReloadable-0.chargeNoun>
+  <OMG_Trophy_Revolver.comps.CompEquippableAbilityReloadable-0.chargeNoun>点火充能</OMG_Trophy_Revolver.comps.CompEquippableAbilityReloadable-0.chargeNoun>
   <!-- EN: on cooldown -->
-  <OMG_Trophy_Revolver.comps.CompEquippableAbilityReloadable-0.cooldownGerund>TODO</OMG_Trophy_Revolver.comps.CompEquippableAbilityReloadable-0.cooldownGerund>
-  <!-- EN: Death’s Call -->
-  <OMG_Trophy_Revolver.comps.CompUniqueWeapon.namerLabels.0>TODO</OMG_Trophy_Revolver.comps.CompUniqueWeapon.namerLabels.0>
+  <OMG_Trophy_Revolver.comps.CompEquippableAbilityReloadable-0.cooldownGerund>冷却中</OMG_Trophy_Revolver.comps.CompEquippableAbilityReloadable-0.cooldownGerund>
+  <!-- EN: Death's Call -->
+  <OMG_Trophy_Revolver.comps.CompUniqueWeapon.namerLabels.0>死亡召唤</OMG_Trophy_Revolver.comps.CompUniqueWeapon.namerLabels.0>
   <!-- EN: charge -->
-  <OMG_Trophy_Revolver.comps.CompEquippableAbilityReloadable-1.chargeNoun>TODO</OMG_Trophy_Revolver.comps.CompEquippableAbilityReloadable-1.chargeNoun>
+  <OMG_Trophy_Revolver.comps.CompEquippableAbilityReloadable-1.chargeNoun>充能</OMG_Trophy_Revolver.comps.CompEquippableAbilityReloadable-1.chargeNoun>
   <!-- EN: on cooldown -->
-  <OMG_Trophy_Revolver.comps.CompEquippableAbilityReloadable-1.cooldownGerund>TODO</OMG_Trophy_Revolver.comps.CompEquippableAbilityReloadable-1.cooldownGerund>
+  <OMG_Trophy_Revolver.comps.CompEquippableAbilityReloadable-1.cooldownGerund>冷却中</OMG_Trophy_Revolver.comps.CompEquippableAbilityReloadable-1.cooldownGerund>
   <!-- EN: grip -->
-  <OMG_Trophy_Revolver.tools.grip.label>TODO</OMG_Trophy_Revolver.tools.grip.label>
+  <OMG_Trophy_Revolver.tools.grip.label>握把</OMG_Trophy_Revolver.tools.grip.label>
   <!-- EN: barrel -->
-  <OMG_Trophy_Revolver.tools.barrel.label>TODO</OMG_Trophy_Revolver.tools.barrel.label>
-  <!-- EN: Death’s Call -->
-  <OMG_Trophy_Revolver.verbs.Verb_Shoot.label>TODO</OMG_Trophy_Revolver.verbs.Verb_Shoot.label>
+  <OMG_Trophy_Revolver.tools.barrel.label>枪管</OMG_Trophy_Revolver.tools.barrel.label>
+  <!-- EN: Death's Call -->
+  <OMG_Trophy_Revolver.verbs.Verb_Shoot.label>死亡召唤</OMG_Trophy_Revolver.verbs.Verb_Shoot.label>
   
-  <!-- EN: Death’s Call capsule -->
-  <Shell_OMG_Trophy_R.label>TODO</Shell_OMG_Trophy_R.label>
+  <!-- EN: Death's Call capsule -->
+  <Shell_OMG_Trophy_R.label>死亡召唤胶囊</Shell_OMG_Trophy_R.label>
   
 </LanguageData>

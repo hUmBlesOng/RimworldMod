@@ -1,31 +1,31 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: cosmol -->
-  <OE_Cosmol.label>TODO</OE_Cosmol.label>
+  <OE_Cosmol.label>宇宙莫尔</OE_Cosmol.label>
   <!-- EN: A special immunostimulant used to enhance immunity and treat various diseases. Obsidia technology, the drug is non-addictive and has no after-effects. -->
-  <OE_Cosmol.description>TODO</OE_Cosmol.description>
+  <OE_Cosmol.description>一种特殊的免疫刺激剂，用于增强免疫力和治疗各种疾病。黑曜石技术，该药物不会成瘾且无副作用。</OE_Cosmol.description>
   <!-- EN: Take {0} -->
-  <OE_Cosmol.ingestible.ingestCommandString>TODO</OE_Cosmol.ingestible.ingestCommandString>
+  <OE_Cosmol.ingestible.ingestCommandString>服用{0}</OE_Cosmol.ingestible.ingestCommandString>
   <!-- EN: Taking {0}. -->
-  <OE_Cosmol.ingestible.ingestReportString>TODO</OE_Cosmol.ingestible.ingestReportString>
+  <OE_Cosmol.ingestible.ingestReportString>正在服用{0}。</OE_Cosmol.ingestible.ingestReportString>
   
   <!-- EN: sevide -->
-  <OE_Sevide.label>TODO</OE_Sevide.label>
+  <OE_Sevide.label>塞维德</OE_Sevide.label>
   <!-- EN: Deadly poison, used by assassins or as a means of execution. Obsidia technology gradually weakens the body, with a minor lethal outcome. -->
-  <OE_Sevide.description>TODO</OE_Sevide.description>
+  <OE_Sevide.description>致命毒药，被刺客用作刺杀工具或作为处决手段。黑曜石技术逐渐削弱身体，导致轻微致命后果。</OE_Sevide.description>
   <!-- EN: Take {0} -->
-  <OE_Sevide.ingestible.ingestCommandString>TODO</OE_Sevide.ingestible.ingestCommandString>
+  <OE_Sevide.ingestible.ingestCommandString>服用{0}</OE_Sevide.ingestible.ingestCommandString>
   <!-- EN: Taking {0}. -->
-  <OE_Sevide.ingestible.ingestReportString>TODO</OE_Sevide.ingestible.ingestReportString>
+  <OE_Sevide.ingestible.ingestReportString>正在服用{0}。</OE_Sevide.ingestible.ingestReportString>
   
   <!-- EN: slugol -->
-  <OE_Slugol.label>TODO</OE_Slugol.label>
+  <OE_Slugol.label>斯鲁戈尔</OE_Slugol.label>
   <!-- EN: A unique medical specialty, a potent drug based on Luciferium, is used to treat serious wounds and diseases. Obsidia technology, the drug is non-addictive and has no after-effects. -->
-  <OE_Slugol.description>TODO</OE_Slugol.description>
+  <OE_Slugol.description>一种独特的医疗专用品，基于卢西弗毒药的强效药物，用于治疗严重伤口和疾病。黑曜石技术，该药物不会成瘾且无副作用。</OE_Slugol.description>
   <!-- EN: Take {0} -->
-  <OE_Slugol.ingestible.ingestCommandString>TODO</OE_Slugol.ingestible.ingestCommandString>
+  <OE_Slugol.ingestible.ingestCommandString>服用{0}</OE_Slugol.ingestible.ingestCommandString>
   <!-- EN: Taking {0}. -->
-  <OE_Slugol.ingestible.ingestReportString>TODO</OE_Slugol.ingestible.ingestReportString>
+  <OE_Slugol.ingestible.ingestReportString>正在服用{0}。</OE_Slugol.ingestible.ingestReportString>
   
 </LanguageData>

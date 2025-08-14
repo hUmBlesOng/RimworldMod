@@ -1,15 +1,15 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: snapper -->
-  <OE_Snapper.label>TODO</OE_Snapper.label>
+  <OE_Snapper.label>钳蟹</OE_Snapper.label>
   <!-- EN: A medium sized obsidia crab species. A very calm creature. But on the planet Obsidia, they are considered pests due to their high reproduction rate. -->
-  <OE_Snapper.description>TODO</OE_Snapper.description>
+  <OE_Snapper.description>一种中等体型的黑曜石蟹类物种。非常温顺的生物。但在黑曜石星球上，由于它们的高繁殖率，它们被认为是害虫。</OE_Snapper.description>
   <!-- EN: snapper meat -->
-  <OE_Snapper.race.meatLabel>TODO</OE_Snapper.race.meatLabel>
+  <OE_Snapper.race.meatLabel>钳蟹肉</OE_Snapper.race.meatLabel>
   <!-- EN: claw -->
-  <OE_Snapper.tools.claw.label>TODO</OE_Snapper.tools.claw.label>
+  <OE_Snapper.tools.claw.label>钳子</OE_Snapper.tools.claw.label>
   <!-- EN: head -->
-  <OE_Snapper.tools.head.label>TODO</OE_Snapper.tools.head.label>
+  <OE_Snapper.tools.head.label>头部</OE_Snapper.tools.head.label>
   
 </LanguageData>

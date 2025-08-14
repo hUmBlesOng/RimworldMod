@@ -1,90 +1,90 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: adult chaos slime -->
-  <OE_ChaosSlime_Adult.label>TODO</OE_ChaosSlime_Adult.label>
+  <OE_ChaosSlime_Adult.label>成年混沌史莱姆</OE_ChaosSlime_Adult.label>
   <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nChaos slime - under the influence of an unknown force from the outside, they began to fuse their bodies into something single.\n\nAdult chaos slimes is the second stage in the chaos slimes fusion chain which yields a much larger, stronger and more resilient foe. -->
-  <OE_ChaosSlime_Adult.description>TODO</OE_ChaosSlime_Adult.description>
+  <OE_ChaosSlime_Adult.description>史莱姆 - 一种融合生命体，被开发作为黑曜石扩展所需材料的替代来源。\n\n混沌史莱姆 - 在外界未知力量的影响下，它们开始将身体融合成单一的实体。\n\n成年混沌史莱姆是混沌史莱姆融合链中的第二阶段，产生更大、更强、更具韧性的敌人。</OE_ChaosSlime_Adult.description>
   <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
-  <OE_ChaosSlime_Adult.comps.CompInspectStringEmergence.inspectString>TODO</OE_ChaosSlime_Adult.comps.CompInspectStringEmergence.inspectString>
+  <OE_ChaosSlime_Adult.comps.CompInspectStringEmergence.inspectString>从{SOURCEPAWN_labelShort}中出现。</OE_ChaosSlime_Adult.comps.CompInspectStringEmergence.inspectString>
   <!-- EN: mouth -->
-  <OE_ChaosSlime_Adult.tools.mouth.label>TODO</OE_ChaosSlime_Adult.tools.mouth.label>
+  <OE_ChaosSlime_Adult.tools.mouth.label>口</OE_ChaosSlime_Adult.tools.mouth.label>
   <!-- EN: head -->
-  <OE_ChaosSlime_Adult.tools.head.label>TODO</OE_ChaosSlime_Adult.tools.head.label>
+  <OE_ChaosSlime_Adult.tools.head.label>头部</OE_ChaosSlime_Adult.tools.head.label>
   
   <!-- EN: Badass chaos slime -->
-  <OE_ChaosSlime_Badass.label>TODO</OE_ChaosSlime_Badass.label>
+  <OE_ChaosSlime_Badass.label>强大的混沌史莱姆</OE_ChaosSlime_Badass.label>
   <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nChaos slime - under the influence of an unknown force from the outside, they began to fuse their bodies into something single.\n\nBadass chaos slimes is the third stage in the chaos slimes fusion chain which yields a much larger, stronger and more resilient foe. -->
-  <OE_ChaosSlime_Badass.description>TODO</OE_ChaosSlime_Badass.description>
+  <OE_ChaosSlime_Badass.description>史莱姆 - 一种融合生命体，被开发作为黑曜石扩展所需材料的替代来源。\n\n混沌史莱姆 - 在外界未知力量的影响下，它们开始将身体融合成单一的实体。\n\n强大的混沌史莱姆是混沌史莱姆融合链中的第三阶段，产生更大、更强、更具韧性的敌人。</OE_ChaosSlime_Badass.description>
   <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
-  <OE_ChaosSlime_Badass.comps.CompInspectStringEmergence.inspectString>TODO</OE_ChaosSlime_Badass.comps.CompInspectStringEmergence.inspectString>
+  <OE_ChaosSlime_Badass.comps.CompInspectStringEmergence.inspectString>从{SOURCEPAWN_labelShort}中出现。</OE_ChaosSlime_Badass.comps.CompInspectStringEmergence.inspectString>
   <!-- EN: mouth -->
-  <OE_ChaosSlime_Badass.tools.mouth.label>TODO</OE_ChaosSlime_Badass.tools.mouth.label>
+  <OE_ChaosSlime_Badass.tools.mouth.label>口</OE_ChaosSlime_Badass.tools.mouth.label>
   <!-- EN: head -->
-  <OE_ChaosSlime_Badass.tools.head.label>TODO</OE_ChaosSlime_Badass.tools.head.label>
+  <OE_ChaosSlime_Badass.tools.head.label>头部</OE_ChaosSlime_Badass.tools.head.label>
   
   <!-- EN: chaos slime the Invincible -->
-  <OE_ChaosSlime_Invincible.label>TODO</OE_ChaosSlime_Invincible.label>
+  <OE_ChaosSlime_Invincible.label>无敌混沌史莱姆</OE_ChaosSlime_Invincible.label>
   <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nChaos slime - under the influence of an unknown force from the outside, they began to fuse their bodies into something single.\n\nChaos slime the Invincible is the ultimate fusion stage of chaos slimes. It possesses unmatched statis and abilities. -->
-  <OE_ChaosSlime_Invincible.description>TODO</OE_ChaosSlime_Invincible.description>
+  <OE_ChaosSlime_Invincible.description>史莱姆 - 一种融合生命体，被开发作为黑曜石扩展所需材料的替代来源。\n\n混沌史莱姆 - 在外界未知力量的影响下，它们开始将身体融合成单一的实体。\n\n无敌混沌史莱姆是混沌史莱姆的终极融合阶段。它拥有无与伦比的状态和能力。</OE_ChaosSlime_Invincible.description>
   <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
-  <OE_ChaosSlime_Invincible.comps.CompInspectStringEmergence.inspectString>TODO</OE_ChaosSlime_Invincible.comps.CompInspectStringEmergence.inspectString>
+  <OE_ChaosSlime_Invincible.comps.CompInspectStringEmergence.inspectString>从{SOURCEPAWN_labelShort}中出现。</OE_ChaosSlime_Invincible.comps.CompInspectStringEmergence.inspectString>
   <!-- EN: Digesting {PAWN_nameDef}: {SECONDS} seconds left -->
-  <OE_ChaosSlime_Invincible.comps.CompDevourer.digestingInspector>TODO</OE_ChaosSlime_Invincible.comps.CompDevourer.digestingInspector>
+  <OE_ChaosSlime_Invincible.comps.CompDevourer.digestingInspector>正在消化{PAWN_nameDef}：剩余{SECONDS}秒</OE_ChaosSlime_Invincible.comps.CompDevourer.digestingInspector>
   <!-- EN: A chaos slime swallowed {PAWN_nameDef} whole! Kill the chaos slime before it digests {PAWN_nameDef}. -->
-  <OE_ChaosSlime_Invincible.comps.CompDevourer.messageDigested>TODO</OE_ChaosSlime_Invincible.comps.CompDevourer.messageDigested>
+  <OE_ChaosSlime_Invincible.comps.CompDevourer.messageDigested>混沌史莱姆把{PAWN_nameDef}整个吞下了！在它消化{PAWN_nameDef}之前杀死混沌史莱姆。</OE_ChaosSlime_Invincible.comps.CompDevourer.messageDigested>
   <!-- EN: The chaos slime has regurgitated {PAWN_nameDef}. -->
-  <OE_ChaosSlime_Invincible.comps.CompDevourer.messageDigestionCompleted>TODO</OE_ChaosSlime_Invincible.comps.CompDevourer.messageDigestionCompleted>
+  <OE_ChaosSlime_Invincible.comps.CompDevourer.messageDigestionCompleted>混沌史莱姆吐出了{PAWN_nameDef}。</OE_ChaosSlime_Invincible.comps.CompDevourer.messageDigestionCompleted>
   <!-- EN: {PAWN_nameDef} emerged from the chaos slime. -->
-  <OE_ChaosSlime_Invincible.comps.CompDevourer.messageEmerged>TODO</OE_ChaosSlime_Invincible.comps.CompDevourer.messageEmerged>
+  <OE_ChaosSlime_Invincible.comps.CompDevourer.messageEmerged>{PAWN_nameDef}从混沌史莱姆中出现了。</OE_ChaosSlime_Invincible.comps.CompDevourer.messageEmerged>
   <!-- EN: {PAWN_nameDef} emerged from the chaos slime's corpse. -->
-  <OE_ChaosSlime_Invincible.comps.CompDevourer.messageEmergedCorpse>TODO</OE_ChaosSlime_Invincible.comps.CompDevourer.messageEmergedCorpse>
+  <OE_ChaosSlime_Invincible.comps.CompDevourer.messageEmergedCorpse>{PAWN_nameDef}从混沌史莱姆的尸体中出现了。</OE_ChaosSlime_Invincible.comps.CompDevourer.messageEmergedCorpse>
   <!-- EN: mouth -->
-  <OE_ChaosSlime_Invincible.tools.mouth.label>TODO</OE_ChaosSlime_Invincible.tools.mouth.label>
+  <OE_ChaosSlime_Invincible.tools.mouth.label>口</OE_ChaosSlime_Invincible.tools.mouth.label>
   <!-- EN: head -->
-  <OE_ChaosSlime_Invincible.tools.head.label>TODO</OE_ChaosSlime_Invincible.tools.head.label>
+  <OE_ChaosSlime_Invincible.tools.head.label>头部</OE_ChaosSlime_Invincible.tools.head.label>
   
   <!-- EN: larval chaos slime -->
-  <OE_ChaosSlime_Larval.label>TODO</OE_ChaosSlime_Larval.label>
+  <OE_ChaosSlime_Larval.label>幼体混沌史莱姆</OE_ChaosSlime_Larval.label>
   <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nChaos slime - under the influence of an unknown force from the outside, they began to fuse their bodies into something single.\n\nThey are the lowest and weakest form of chaos slimes. -->
-  <OE_ChaosSlime_Larval.description>TODO</OE_ChaosSlime_Larval.description>
+  <OE_ChaosSlime_Larval.description>史莱姆 - 一种融合生命体，被开发作为黑曜石扩展所需材料的替代来源。\n\n混沌史莱姆 - 在外界未知力量的影响下，它们开始将身体融合成单一的实体。\n\n它们是混沌史莱姆中最低等和最弱的形式。</OE_ChaosSlime_Larval.description>
   <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
-  <OE_ChaosSlime_Larval.comps.CompInspectStringEmergence.inspectString>TODO</OE_ChaosSlime_Larval.comps.CompInspectStringEmergence.inspectString>
+  <OE_ChaosSlime_Larval.comps.CompInspectStringEmergence.inspectString>从{SOURCEPAWN_labelShort}中出现。</OE_ChaosSlime_Larval.comps.CompInspectStringEmergence.inspectString>
   <!-- EN: mouth -->
-  <OE_ChaosSlime_Larval.tools.mouth.label>TODO</OE_ChaosSlime_Larval.tools.mouth.label>
+  <OE_ChaosSlime_Larval.tools.mouth.label>口</OE_ChaosSlime_Larval.tools.mouth.label>
   <!-- EN: head -->
-  <OE_ChaosSlime_Larval.tools.head.label>TODO</OE_ChaosSlime_Larval.tools.head.label>
+  <OE_ChaosSlime_Larval.tools.head.label>头部</OE_ChaosSlime_Larval.tools.head.label>
   
   <!-- EN: Super Badass chaos slime -->
-  <OE_ChaosSlime_SuperBadass.label>TODO</OE_ChaosSlime_SuperBadass.label>
+  <OE_ChaosSlime_SuperBadass.label>超级强大的混沌史莱姆</OE_ChaosSlime_SuperBadass.label>
   <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nChaos slime - under the influence of an unknown force from the outside, they began to fuse their bodies into something single.\n\nSuper Badass chaos slimes is the fourth stage in the chaos slimes fusion chain which yields a much larger, stronger and more resilient foe. -->
-  <OE_ChaosSlime_SuperBadass.description>TODO</OE_ChaosSlime_SuperBadass.description>
+  <OE_ChaosSlime_SuperBadass.description>史莱姆 - 一种融合生命体，被开发作为黑曜石扩展所需材料的替代来源。\n\n混沌史莱姆 - 在外界未知力量的影响下，它们开始将身体融合成单一的实体。\n\n超级强大的混沌史莱姆是混沌史莱姆融合链中的第四阶段，产生更大、更强、更具韧性的敌人。</OE_ChaosSlime_SuperBadass.description>
   <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
-  <OE_ChaosSlime_SuperBadass.comps.CompInspectStringEmergence.inspectString>TODO</OE_ChaosSlime_SuperBadass.comps.CompInspectStringEmergence.inspectString>
+  <OE_ChaosSlime_SuperBadass.comps.CompInspectStringEmergence.inspectString>从{SOURCEPAWN_labelShort}中出现。</OE_ChaosSlime_SuperBadass.comps.CompInspectStringEmergence.inspectString>
   <!-- EN: mouth -->
-  <OE_ChaosSlime_SuperBadass.tools.mouth.label>TODO</OE_ChaosSlime_SuperBadass.tools.mouth.label>
+  <OE_ChaosSlime_SuperBadass.tools.mouth.label>口</OE_ChaosSlime_SuperBadass.tools.mouth.label>
   <!-- EN: head -->
-  <OE_ChaosSlime_SuperBadass.tools.head.label>TODO</OE_ChaosSlime_SuperBadass.tools.head.label>
+  <OE_ChaosSlime_SuperBadass.tools.head.label>头部</OE_ChaosSlime_SuperBadass.tools.head.label>
   
   <!-- EN: Ultimate Badass chaos slime -->
-  <OE_ChaosSlime_UltimateBadass.label>TODO</OE_ChaosSlime_UltimateBadass.label>
+  <OE_ChaosSlime_UltimateBadass.label>终极强大的混沌史莱姆</OE_ChaosSlime_UltimateBadass.label>
   <!-- EN: Slimes - an amalgam life-form that was developed as an alternative source of necessary materials for Obsidia Expansion.\n\nChaos slime - under the influence of an unknown force from the outside, they began to fuse their bodies into something single.\n\nUltimate chaos slimes is the fifth stage in the chaos slimes fusion chain which yields a much larger, stronger and more resilient foe. -->
-  <OE_ChaosSlime_UltimateBadass.description>TODO</OE_ChaosSlime_UltimateBadass.description>
+  <OE_ChaosSlime_UltimateBadass.description>史莱姆 - 一种融合生命体，被开发作为黑曜石扩展所需材料的替代来源。\n\n混沌史莱姆 - 在外界未知力量的影响下，它们开始将身体融合成单一的实体。\n\n终极混沌史莱姆是混沌史莱姆融合链中的第五阶段，产生更大、更强、更具韧性的敌人。</OE_ChaosSlime_UltimateBadass.description>
   <!-- EN: Emerged from {SOURCEPAWN_labelShort}. -->
-  <OE_ChaosSlime_UltimateBadass.comps.CompInspectStringEmergence.inspectString>TODO</OE_ChaosSlime_UltimateBadass.comps.CompInspectStringEmergence.inspectString>
+  <OE_ChaosSlime_UltimateBadass.comps.CompInspectStringEmergence.inspectString>从{SOURCEPAWN_labelShort}中出现。</OE_ChaosSlime_UltimateBadass.comps.CompInspectStringEmergence.inspectString>
   <!-- EN: Digesting {PAWN_nameDef}: {SECONDS} seconds left -->
-  <OE_ChaosSlime_UltimateBadass.comps.CompDevourer.digestingInspector>TODO</OE_ChaosSlime_UltimateBadass.comps.CompDevourer.digestingInspector>
+  <OE_ChaosSlime_UltimateBadass.comps.CompDevourer.digestingInspector>正在消化{PAWN_nameDef}：剩余{SECONDS}秒</OE_ChaosSlime_UltimateBadass.comps.CompDevourer.digestingInspector>
   <!-- EN: A chaos slime swallowed {PAWN_nameDef} whole! Kill the chaos slime before it digests {PAWN_nameDef}. -->
-  <OE_ChaosSlime_UltimateBadass.comps.CompDevourer.messageDigested>TODO</OE_ChaosSlime_UltimateBadass.comps.CompDevourer.messageDigested>
+  <OE_ChaosSlime_UltimateBadass.comps.CompDevourer.messageDigested>混沌史莱姆把{PAWN_nameDef}整个吞下了！在它消化{PAWN_nameDef}之前杀死混沌史莱姆。</OE_ChaosSlime_UltimateBadass.comps.CompDevourer.messageDigested>
   <!-- EN: The chaos slime has regurgitated {PAWN_nameDef}. -->
-  <OE_ChaosSlime_UltimateBadass.comps.CompDevourer.messageDigestionCompleted>TODO</OE_ChaosSlime_UltimateBadass.comps.CompDevourer.messageDigestionCompleted>
+  <OE_ChaosSlime_UltimateBadass.comps.CompDevourer.messageDigestionCompleted>混沌史莱姆吐出了{PAWN_nameDef}。</OE_ChaosSlime_UltimateBadass.comps.CompDevourer.messageDigestionCompleted>
   <!-- EN: {PAWN_nameDef} emerged from the chaos slime. -->
-  <OE_ChaosSlime_UltimateBadass.comps.CompDevourer.messageEmerged>TODO</OE_ChaosSlime_UltimateBadass.comps.CompDevourer.messageEmerged>
+  <OE_ChaosSlime_UltimateBadass.comps.CompDevourer.messageEmerged>{PAWN_nameDef}从混沌史莱姆中出现了。</OE_ChaosSlime_UltimateBadass.comps.CompDevourer.messageEmerged>
   <!-- EN: {PAWN_nameDef} emerged from the chaos slime's corpse. -->
-  <OE_ChaosSlime_UltimateBadass.comps.CompDevourer.messageEmergedCorpse>TODO</OE_ChaosSlime_UltimateBadass.comps.CompDevourer.messageEmergedCorpse>
+  <OE_ChaosSlime_UltimateBadass.comps.CompDevourer.messageEmergedCorpse>{PAWN_nameDef}从混沌史莱姆的尸体中出现了。</OE_ChaosSlime_UltimateBadass.comps.CompDevourer.messageEmergedCorpse>
   <!-- EN: mouth -->
-  <OE_ChaosSlime_UltimateBadass.tools.mouth.label>TODO</OE_ChaosSlime_UltimateBadass.tools.mouth.label>
+  <OE_ChaosSlime_UltimateBadass.tools.mouth.label>口</OE_ChaosSlime_UltimateBadass.tools.mouth.label>
   <!-- EN: head -->
-  <OE_ChaosSlime_UltimateBadass.tools.head.label>TODO</OE_ChaosSlime_UltimateBadass.tools.head.label>
+  <OE_ChaosSlime_UltimateBadass.tools.head.label>头部</OE_ChaosSlime_UltimateBadass.tools.head.label>
   
 </LanguageData>

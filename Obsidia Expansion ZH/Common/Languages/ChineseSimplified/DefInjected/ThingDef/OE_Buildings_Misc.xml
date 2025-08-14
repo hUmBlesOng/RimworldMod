@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: obsidia comms console -->
-  <OE_CommsConsole.label>TODO</OE_CommsConsole.label>
+  <OE_CommsConsole.label>黑曜石通讯控制台</OE_CommsConsole.label>
   <!-- EN: Small Obsidia communications console. Allows radio contact with other factions and orbital traders. -->
-  <OE_CommsConsole.description>TODO</OE_CommsConsole.description>
+  <OE_CommsConsole.description>小型黑曜石通讯控制台。允许与其他派系和轨道贸易商进行无线电联系。</OE_CommsConsole.description>
   <!-- EN: Summon diabolus threat -->
-  <OE_CommsConsole.comps.CompUsable.useLabel>TODO</OE_CommsConsole.comps.CompUsable.useLabel>
+  <OE_CommsConsole.comps.CompUsable.useLabel>召唤恶魔威胁</OE_CommsConsole.comps.CompUsable.useLabel>
   
 </LanguageData>

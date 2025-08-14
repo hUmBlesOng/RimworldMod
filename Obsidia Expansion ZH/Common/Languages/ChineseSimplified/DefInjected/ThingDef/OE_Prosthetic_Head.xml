@@ -1,64 +1,64 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: bionic ear -->
-  <OE_ProstheticEar.label>TODO</OE_ProstheticEar.label>
+  <OE_ProstheticEar.label>仿生耳朵</OE_ProstheticEar.label>
   <!-- EN: Obsidia bionic ear. It is better than a biological ear in almost every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a small strain on the body. -->
-  <OE_ProstheticEar.description>TODO</OE_ProstheticEar.description>
+  <OE_ProstheticEar.description>黑曜石仿生耳朵。几乎在各个方面都比生物耳朵更好。即使受到伤害，也会随时间自我修复。使用这种假体会对身体造成轻微负担。</OE_ProstheticEar.description>
   
   <!-- EN: cultist bionic ear -->
-  <OE_ProstheticEar_CAC.label>TODO</OE_ProstheticEar_CAC.label>
+  <OE_ProstheticEar_CAC.label>邪教徒仿生耳朵</OE_ProstheticEar_CAC.label>
   <!-- EN: Obsidia cultist bionic ear. It is much better than a biological ear in every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a perceptible strain on the body. -->
-  <OE_ProstheticEar_CAC.description>TODO</OE_ProstheticEar_CAC.description>
+  <OE_ProstheticEar_CAC.description>黑曜石邪教徒仿生耳朵。在各个方面都比生物耳朵好得多。即使受到伤害，也会随时间自我修复。使用这种假体会对身体造成明显负担。</OE_ProstheticEar_CAC.description>
   
   <!-- EN: advanced bionic ear -->
-  <OE_ProstheticEar_M.label>TODO</OE_ProstheticEar_M.label>
+  <OE_ProstheticEar_M.label>高级仿生耳朵</OE_ProstheticEar_M.label>
   <!-- EN: Obsidian advanced bionic ear. It is much better than a biological ear in almost every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a strain on the body. -->
-  <OE_ProstheticEar_M.description>TODO</OE_ProstheticEar_M.description>
+  <OE_ProstheticEar_M.description>黑曜石高级仿生耳朵。几乎在各个方面都比生物耳朵好得多。即使受到伤害，也会随时间自我修复。使用这种假体会对身体造成负担。</OE_ProstheticEar_M.description>
   
   <!-- EN: heroic bionic ear -->
-  <OE_ProstheticEar_OES.label>TODO</OE_ProstheticEar_OES.label>
+  <OE_ProstheticEar_OES.label>英雄仿生耳朵</OE_ProstheticEar_OES.label>
   <!-- EN: Obsidia heroic bionic ear. It is much better than a biological ear in every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a perceptible strain on the body. -->
-  <OE_ProstheticEar_OES.description>TODO</OE_ProstheticEar_OES.description>
+  <OE_ProstheticEar_OES.description>黑曜石英雄仿生耳朵。在各个方面都比生物耳朵好得多。即使受到伤害，也会随时间自我修复。使用这种假体会对身体造成明显负担。</OE_ProstheticEar_OES.description>
   
   <!-- EN: bionic eye -->
-  <OE_ProstheticEye.label>TODO</OE_ProstheticEye.label>
+  <OE_ProstheticEye.label>仿生眼球</OE_ProstheticEye.label>
   <!-- EN: Obsidia bionic eye. It is better than a biological eye in almost every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a small strain on the body. -->
-  <OE_ProstheticEye.description>TODO</OE_ProstheticEye.description>
+  <OE_ProstheticEye.description>黑曜石仿生眼球。几乎在各个方面都比生物眼球更好。即使受到伤害，也会随时间自我修复。使用这种假体会对身体造成轻微负担。</OE_ProstheticEye.description>
   
   <!-- EN: cultist bionic eye -->
-  <OE_ProstheticEye_CAC.label>TODO</OE_ProstheticEye_CAC.label>
+  <OE_ProstheticEye_CAC.label>邪教徒仿生眼球</OE_ProstheticEye_CAC.label>
   <!-- EN: Obsidia cultist bionic eye. It is much better than a biological eye in every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a perceptible strain on the body. -->
-  <OE_ProstheticEye_CAC.description>TODO</OE_ProstheticEye_CAC.description>
+  <OE_ProstheticEye_CAC.description>黑曜石邪教徒仿生眼球。在各个方面都比生物眼球好得多。即使受到伤害，也会随时间自我修复。使用这种假体会对身体造成明显负担。</OE_ProstheticEye_CAC.description>
   
   <!-- EN: advanced bionic eye -->
-  <OE_ProstheticEye_M.label>TODO</OE_ProstheticEye_M.label>
+  <OE_ProstheticEye_M.label>高级仿生眼球</OE_ProstheticEye_M.label>
   <!-- EN: Obsidian advanced bionic eye. It is much better than a biological eye in almost every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a strain on the body. -->
-  <OE_ProstheticEye_M.description>TODO</OE_ProstheticEye_M.description>
+  <OE_ProstheticEye_M.description>黑曜石高级仿生眼球。几乎在各个方面都比生物眼球好得多。即使受到伤害，也会随时间自我修复。使用这种假体会对身体造成负担。</OE_ProstheticEye_M.description>
   
   <!-- EN: heroic bionic eye -->
-  <OE_ProstheticEye_OES.label>TODO</OE_ProstheticEye_OES.label>
+  <OE_ProstheticEye_OES.label>英雄仿生眼球</OE_ProstheticEye_OES.label>
   <!-- EN: Obsidia heroic bionic eye. It is much better than a biological eye in every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a perceptible strain on the body. -->
-  <OE_ProstheticEye_OES.description>TODO</OE_ProstheticEye_OES.description>
+  <OE_ProstheticEye_OES.description>黑曜石英雄仿生眼球。在各个方面都比生物眼球好得多。即使受到伤害，也会随时间自我修复。使用这种假体会对身体造成明显负担。</OE_ProstheticEye_OES.description>
   
   <!-- EN: bionic jaw -->
-  <OE_ProstheticJaw.label>TODO</OE_ProstheticJaw.label>
+  <OE_ProstheticJaw.label>仿生下颌</OE_ProstheticJaw.label>
   <!-- EN: Obsidia bionic jaw. It is better than a biological jaw in almost every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a small strain on the body. -->
-  <OE_ProstheticJaw.description>TODO</OE_ProstheticJaw.description>
+  <OE_ProstheticJaw.description>黑曜石仿生下颌。几乎在各个方面都比生物下颌更好。即使受到伤害，也会随时间自我修复。使用这种假体会对身体造成轻微负担。</OE_ProstheticJaw.description>
   
   <!-- EN: cultist bionic jaw -->
-  <OE_ProstheticJaw_CAC.label>TODO</OE_ProstheticJaw_CAC.label>
+  <OE_ProstheticJaw_CAC.label>邪教徒仿生下颌</OE_ProstheticJaw_CAC.label>
   <!-- EN: Obsidia cultist bionic jaw. It is much better than a biological jaw in every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a perceptible strain on the body. -->
-  <OE_ProstheticJaw_CAC.description>TODO</OE_ProstheticJaw_CAC.description>
+  <OE_ProstheticJaw_CAC.description>黑曜石邪教徒仿生下颌。在各个方面都比生物下颌好得多。即使受到伤害，也会随时间自我修复。使用这种假体会对身体造成明显负担。</OE_ProstheticJaw_CAC.description>
   
   <!-- EN: advanced bionic jaw -->
-  <OE_ProstheticJaw_M.label>TODO</OE_ProstheticJaw_M.label>
+  <OE_ProstheticJaw_M.label>高级仿生下颌</OE_ProstheticJaw_M.label>
   <!-- EN: Obsidian advanced bionic jaw. It is much better than a biological jaw in almost every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a strain on the body. -->
-  <OE_ProstheticJaw_M.description>TODO</OE_ProstheticJaw_M.description>
+  <OE_ProstheticJaw_M.description>黑曜石高级仿生下颌。几乎在各个方面都比生物下颌好得多。即使受到伤害，也会随时间自我修复。使用这种假体会对身体造成负担。</OE_ProstheticJaw_M.description>
   
   <!-- EN: heroic bionic jaw -->
-  <OE_ProstheticJaw_OES.label>TODO</OE_ProstheticJaw_OES.label>
+  <OE_ProstheticJaw_OES.label>英雄仿生下颌</OE_ProstheticJaw_OES.label>
   <!-- EN: Obsidia heroic bionic jaw. It is much better than a biological jaw in every way. Even if it is harmed, it repairs itself over time. The use of this prosthesis puts a perceptible strain on the body. -->
-  <OE_ProstheticJaw_OES.description>TODO</OE_ProstheticJaw_OES.description>
+  <OE_ProstheticJaw_OES.description>黑曜石英雄仿生下颌。在各个方面都比生物下颌好得多。即使受到伤害，也会随时间自我修复。使用这种假体会对身体造成明显负担。</OE_ProstheticJaw_OES.description>
   
 </LanguageData>

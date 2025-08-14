@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: ODC Overseer Mask -->
-  <ODC_Helmet_Mechanitor.label>TODO</ODC_Helmet_Mechanitor.label>
+  <ODC_Helmet_Mechanitor.label>ODC监督者面具</ODC_Helmet_Mechanitor.label>
   <!-- EN: Moded power armor Mask, good protects the owner. Designed for use by Obsidia Drifters.\n\nModified for improves Mechanoids Control abilities. -->
-  <ODC_Helmet_Mechanitor.description>TODO</ODC_Helmet_Mechanitor.description>
+  <ODC_Helmet_Mechanitor.description>改装动力装甲面具，为使用者提供良好保护。专为黑曜石漂流者设计使用。\n\n改装以增强机械体控制能力。</ODC_Helmet_Mechanitor.description>
   
 </LanguageData>

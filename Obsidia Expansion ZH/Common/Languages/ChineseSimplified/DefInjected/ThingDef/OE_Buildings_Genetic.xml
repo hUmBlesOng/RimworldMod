@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: obsidia colonial gene bank -->
-  <OE_ColonialGeneBank.label>TODO</OE_ColonialGeneBank.label>
+  <OE_ColonialGeneBank.label>黑曜石殖民地基因库</OE_ColonialGeneBank.label>
   <!-- EN: This obsidia building can store huge amount of genepacks and make them usable to create new xenogerms, when placed near a gene assembler. Large gene libraries require many gene banks.\n\nWhen powered, gene banks prevent genepacks from deteriorating and will slowly repair deterioration. -->
-  <OE_ColonialGeneBank.description>TODO</OE_ColonialGeneBank.description>
+  <OE_ColonialGeneBank.description>这种黑曜石建筑可以储存大量基因包，并在放置于基因组装机附近时使其可用于创建新的异种胚芽。大型基因库需要许多基因库。\n\n通电时，基因库可以防止基因包劣化，并会缓慢修复劣化。</OE_ColonialGeneBank.description>
   
   <!-- EN: obsidia colonial gene processor -->
-  <OE_ColonialGeneProcessor.label>TODO</OE_ColonialGeneProcessor.label>
+  <OE_ColonialGeneProcessor.label>黑曜石殖民地基因处理器</OE_ColonialGeneProcessor.label>
   <!-- EN: An advanced genetic analysis and enhancement system developed by the Obsidia Colonies. When positioned near a gene assembler, it boosts the maximum genetic complexity of xenogerms you can create. Installing multiple processors further raises this complexity threshold, enabling the design of more intricate and powerful genetic structures. -->
-  <OE_ColonialGeneProcessor.description>TODO</OE_ColonialGeneProcessor.description>
+  <OE_ColonialGeneProcessor.description>由黑曜石殖民地开发的先进基因分析和增强系统。当放置在基因组装机附近时，它可以提高您可以创建的异种胚芽的最大基因复杂性。安装多个处理器可以进一步提高这一复杂性阈值，从而能够设计更复杂和强大的基因结构。</OE_ColonialGeneProcessor.description>
   <!-- EN: Gene complexity increase -->
-  <OE_ColonialGeneProcessor.comps.CompInspectStringGeneProcessor.inspectString>TODO</OE_ColonialGeneProcessor.comps.CompInspectStringGeneProcessor.inspectString>
+  <OE_ColonialGeneProcessor.comps.CompInspectStringGeneProcessor.inspectString>基因复杂性增加</OE_ColonialGeneProcessor.comps.CompInspectStringGeneProcessor.inspectString>
   
 </LanguageData>
