@@ -2,31 +2,31 @@
 <LanguageData>
   
   <!-- EN: Persona bond Black Prince Sword -->
-  <OE_Bond_OE_Trophy_BrokenSword.label>TODO</OE_Bond_OE_Trophy_BrokenSword.label>
+  <OE_Bond_OE_Trophy_BrokenSword.label>人格绑定 黑色王子剑</OE_Bond_OE_Trophy_BrokenSword.label>
   <!-- EN: Persona bond a Black Prince Sword. -->
-  <OE_Bond_OE_Trophy_BrokenSword.description>TODO</OE_Bond_OE_Trophy_BrokenSword.description>
+  <OE_Bond_OE_Trophy_BrokenSword.description>人格绑定一个黑色王子剑。</OE_Bond_OE_Trophy_BrokenSword.description>
   <!-- EN: Persona bonding a Black Prince Sword. -->
-  <OE_Bond_OE_Trophy_BrokenSword.jobString>TODO</OE_Bond_OE_Trophy_BrokenSword.jobString>
+  <OE_Bond_OE_Trophy_BrokenSword.jobString>正在人格绑定黑色王子剑。</OE_Bond_OE_Trophy_BrokenSword.jobString>
   
   <!-- EN: Persona bond Lloyd's Shovel -->
-  <OE_Bond_OE_Trophy_Shovel.label>TODO</OE_Bond_OE_Trophy_Shovel.label>
+  <OE_Bond_OE_Trophy_Shovel.label>人格绑定 劳埃德的铲子</OE_Bond_OE_Trophy_Shovel.label>
   <!-- EN: Persona bond a Lloyd's Shovel. -->
-  <OE_Bond_OE_Trophy_Shovel.description>TODO</OE_Bond_OE_Trophy_Shovel.description>
+  <OE_Bond_OE_Trophy_Shovel.description>人格绑定一个劳埃德的铲子。</OE_Bond_OE_Trophy_Shovel.description>
   <!-- EN: Persona bonding a Lloyd's Shovel. -->
-  <OE_Bond_OE_Trophy_Shovel.jobString>TODO</OE_Bond_OE_Trophy_Shovel.jobString>
+  <OE_Bond_OE_Trophy_Shovel.jobString>正在人格绑定劳埃德的铲子。</OE_Bond_OE_Trophy_Shovel.jobString>
   
   <!-- EN: Reset Persona Black Prince Sword -->
-  <OE_Reset_OE_Trophy_BrokenSword_P.label>TODO</OE_Reset_OE_Trophy_BrokenSword_P.label>
+  <OE_Reset_OE_Trophy_BrokenSword_P.label>重置人格黑色王子剑</OE_Reset_OE_Trophy_BrokenSword_P.label>
   <!-- EN: Reset a Persona Black Prince Sword.\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OE_Trophy_BrokenSword_P.description>TODO</OE_Reset_OE_Trophy_BrokenSword_P.description>
+  <OE_Reset_OE_Trophy_BrokenSword_P.description>重置一个人格黑色王子剑。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OE_Trophy_BrokenSword_P.description>
   <!-- EN: Resetting a Persona Black Prince Sword. -->
-  <OE_Reset_OE_Trophy_BrokenSword_P.jobString>TODO</OE_Reset_OE_Trophy_BrokenSword_P.jobString>
+  <OE_Reset_OE_Trophy_BrokenSword_P.jobString>正在重置人格黑色王子剑。</OE_Reset_OE_Trophy_BrokenSword_P.jobString>
   
   <!-- EN: Reset Persona Lloyd's Shovel -->
-  <OE_Reset_OE_Trophy_Shovel_P.label>TODO</OE_Reset_OE_Trophy_Shovel_P.label>
+  <OE_Reset_OE_Trophy_Shovel_P.label>重置人格劳埃德的铲子</OE_Reset_OE_Trophy_Shovel_P.label>
   <!-- EN: Reset a Persona Lloyd's Shovel.\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OE_Trophy_Shovel_P.description>TODO</OE_Reset_OE_Trophy_Shovel_P.description>
+  <OE_Reset_OE_Trophy_Shovel_P.description>重置一个人格劳埃德的铲子。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OE_Trophy_Shovel_P.description>
   <!-- EN: Resetting a Persona Lloyd's Shovel. -->
-  <OE_Reset_OE_Trophy_Shovel_P.jobString>TODO</OE_Reset_OE_Trophy_Shovel_P.jobString>
+  <OE_Reset_OE_Trophy_Shovel_P.jobString>正在重置人格劳埃德的铲子。</OE_Reset_OE_Trophy_Shovel_P.jobString>
   
 </LanguageData>

@@ -2,80 +2,80 @@
 <LanguageData>
   
   <!-- EN: Reset Heroic Furious -->
-  <OE_Reset_OES_Axe.label>TODO</OE_Reset_OES_Axe.label>
+  <OE_Reset_OES_Axe.label>重置 英雄之狂怒</OE_Reset_OES_Axe.label>
   <!-- EN: Reset a Heroic Furious.\n\nWarning! Persona traits will be changed. -->
-  <OE_Reset_OES_Axe.description>TODO</OE_Reset_OES_Axe.description>
+  <OE_Reset_OES_Axe.description>重置一个英雄之狂怒。\n\n警告！人格特性将会改变。</OE_Reset_OES_Axe.description>
   <!-- EN: Resetting a Heroic Furious. -->
-  <OE_Reset_OES_Axe.jobString>TODO</OE_Reset_OES_Axe.jobString>
+  <OE_Reset_OES_Axe.jobString>正在重置英雄之狂怒。</OE_Reset_OES_Axe.jobString>
   
   <!-- EN: Reset Heroic Genesis -->
-  <OE_Reset_OES_BigAxe.label>TODO</OE_Reset_OES_BigAxe.label>
+  <OE_Reset_OES_BigAxe.label>重置 英雄之起源</OE_Reset_OES_BigAxe.label>
   <!-- EN: Reset a Heroic Genesis.\n\nWarning! Persona traits will be changed. -->
-  <OE_Reset_OES_BigAxe.description>TODO</OE_Reset_OES_BigAxe.description>
+  <OE_Reset_OES_BigAxe.description>重置一个英雄之起源。\n\n警告！人格特性将会改变。</OE_Reset_OES_BigAxe.description>
   <!-- EN: Resetting a Heroic Genesish. -->
-  <OE_Reset_OES_BigAxe.jobString>TODO</OE_Reset_OES_BigAxe.jobString>
+  <OE_Reset_OES_BigAxe.jobString>正在重置英雄之起源。</OE_Reset_OES_BigAxe.jobString>
   
   <!-- EN: Reset Heroic Shikigami -->
-  <OE_Reset_OES_BigSword.label>TODO</OE_Reset_OES_BigSword.label>
+  <OE_Reset_OES_BigSword.label>重置 英雄之式神</OE_Reset_OES_BigSword.label>
   <!-- EN: Reset a Heroic Shikigami.\n\nWarning! Persona traits will be changed. -->
-  <OE_Reset_OES_BigSword.description>TODO</OE_Reset_OES_BigSword.description>
+  <OE_Reset_OES_BigSword.description>重置一个英雄之式神。\n\n警告！人格特性将会改变。</OE_Reset_OES_BigSword.description>
   <!-- EN: Resetting a Heroic Shikigami. -->
-  <OE_Reset_OES_BigSword.jobString>TODO</OE_Reset_OES_BigSword.jobString>
+  <OE_Reset_OES_BigSword.jobString>正在重置英雄之式神。</OE_Reset_OES_BigSword.jobString>
   
   <!-- EN: Reset Heroic Guillotine -->
-  <OE_Reset_OES_DualSword.label>TODO</OE_Reset_OES_DualSword.label>
+  <OE_Reset_OES_DualSword.label>重置 英雄之断头台</OE_Reset_OES_DualSword.label>
   <!-- EN: Reset a Heroic Guillotine.\n\nWarning! Persona traits will be changed. -->
-  <OE_Reset_OES_DualSword.description>TODO</OE_Reset_OES_DualSword.description>
+  <OE_Reset_OES_DualSword.description>重置一个英雄之断头台。\n\n警告！人格特性将会改变。</OE_Reset_OES_DualSword.description>
   <!-- EN: Resetting a Heroic Guillotine. -->
-  <OE_Reset_OES_DualSword.jobString>TODO</OE_Reset_OES_DualSword.jobString>
+  <OE_Reset_OES_DualSword.jobString>正在重置英雄之断头台。</OE_Reset_OES_DualSword.jobString>
   
   <!-- EN: Reset Heroic Nemesis -->
-  <OE_Reset_OES_Hammer.label>TODO</OE_Reset_OES_Hammer.label>
+  <OE_Reset_OES_Hammer.label>重置 英雄之复仇</OE_Reset_OES_Hammer.label>
   <!-- EN: Reset a Heroic Nemesis.\n\nWarning! Persona traits will be changed. -->
-  <OE_Reset_OES_Hammer.description>TODO</OE_Reset_OES_Hammer.description>
+  <OE_Reset_OES_Hammer.description>重置一个英雄之复仇。\n\n警告！人格特性将会改变。</OE_Reset_OES_Hammer.description>
   <!-- EN: Resetting a Heroic Nemesis. -->
-  <OE_Reset_OES_Hammer.jobString>TODO</OE_Reset_OES_Hammer.jobString>
+  <OE_Reset_OES_Hammer.jobString>正在重置英雄之复仇。</OE_Reset_OES_Hammer.jobString>
   
   <!-- EN: Reset Heroic Reaper -->
-  <OE_Reset_OES_Katana.label>TODO</OE_Reset_OES_Katana.label>
+  <OE_Reset_OES_Katana.label>重置 英雄之收割者</OE_Reset_OES_Katana.label>
   <!-- EN: Reset a Heroic Reaper.\n\nWarning! Persona traits will be changed. -->
-  <OE_Reset_OES_Katana.description>TODO</OE_Reset_OES_Katana.description>
+  <OE_Reset_OES_Katana.description>重置一个英雄之收割者。\n\n警告！人格特性将会改变。</OE_Reset_OES_Katana.description>
   <!-- EN: Resetting a Heroic Reaper. -->
-  <OE_Reset_OES_Katana.jobString>TODO</OE_Reset_OES_Katana.jobString>
+  <OE_Reset_OES_Katana.jobString>正在重置英雄之收割者。</OE_Reset_OES_Katana.jobString>
   
   <!-- EN: Reset Heroic Typhon -->
-  <OE_Reset_OES_PowerFist.label>TODO</OE_Reset_OES_PowerFist.label>
+  <OE_Reset_OES_PowerFist.label>重置 英雄之提丰</OE_Reset_OES_PowerFist.label>
   <!-- EN: Reset a Heroic Typhon.\n\nWarning! Persona traits will be changed. -->
-  <OE_Reset_OES_PowerFist.description>TODO</OE_Reset_OES_PowerFist.description>
+  <OE_Reset_OES_PowerFist.description>重置一个英雄之提丰。\n\n警告！人格特性将会改变。</OE_Reset_OES_PowerFist.description>
   <!-- EN: Resetting a Heroic Typhon. -->
-  <OE_Reset_OES_PowerFist.jobString>TODO</OE_Reset_OES_PowerFist.jobString>
+  <OE_Reset_OES_PowerFist.jobString>正在重置英雄之提丰。</OE_Reset_OES_PowerFist.jobString>
   
   <!-- EN: Reset Heroic Imperfect -->
-  <OE_Reset_OES_Rapier.label>TODO</OE_Reset_OES_Rapier.label>
+  <OE_Reset_OES_Rapier.label>重置 英雄之不完美</OE_Reset_OES_Rapier.label>
   <!-- EN: Reset a Heroic Imperfect.\n\nWarning! Persona traits will be changed. -->
-  <OE_Reset_OES_Rapier.description>TODO</OE_Reset_OES_Rapier.description>
+  <OE_Reset_OES_Rapier.description>重置一个英雄之不完美。\n\n警告！人格特性将会改变。</OE_Reset_OES_Rapier.description>
   <!-- EN: Resetting a Heroic Imperfect. -->
-  <OE_Reset_OES_Rapier.jobString>TODO</OE_Reset_OES_Rapier.jobString>
+  <OE_Reset_OES_Rapier.jobString>正在重置英雄之不完美。</OE_Reset_OES_Rapier.jobString>
   
   <!-- EN: Reset Heroic Souldrinker -->
-  <OE_Reset_OES_Scythe.label>TODO</OE_Reset_OES_Scythe.label>
+  <OE_Reset_OES_Scythe.label>重置 英雄之饮魂者</OE_Reset_OES_Scythe.label>
   <!-- EN: Reset a Heroic Souldrinker.\n\nWarning! Persona traits will be changed. -->
-  <OE_Reset_OES_Scythe.description>TODO</OE_Reset_OES_Scythe.description>
+  <OE_Reset_OES_Scythe.description>重置一个英雄之饮魂者。\n\n警告！人格特性将会改变。</OE_Reset_OES_Scythe.description>
   <!-- EN: Resetting a Heroic Souldrinker. -->
-  <OE_Reset_OES_Scythe.jobString>TODO</OE_Reset_OES_Scythe.jobString>
+  <OE_Reset_OES_Scythe.jobString>正在重置英雄之饮魂者。</OE_Reset_OES_Scythe.jobString>
   
   <!-- EN: Reset Heroic Elitra -->
-  <OE_Reset_OES_Spear.label>TODO</OE_Reset_OES_Spear.label>
+  <OE_Reset_OES_Spear.label>重置 英雄之鞘翅</OE_Reset_OES_Spear.label>
   <!-- EN: Reset a Heroic Elitra.\n\nWarning! Persona traits will be changed. -->
-  <OE_Reset_OES_Spear.description>TODO</OE_Reset_OES_Spear.description>
+  <OE_Reset_OES_Spear.description>重置一个英雄之鞘翅。\n\n警告！人格特性将会改变。</OE_Reset_OES_Spear.description>
   <!-- EN: Resetting a Heroic Elitra. -->
-  <OE_Reset_OES_Spear.jobString>TODO</OE_Reset_OES_Spear.jobString>
+  <OE_Reset_OES_Spear.jobString>正在重置英雄之鞘翅。</OE_Reset_OES_Spear.jobString>
   
   <!-- EN: Reset Heroic Delimiter -->
-  <OE_Reset_OES_Sword.label>TODO</OE_Reset_OES_Sword.label>
+  <OE_Reset_OES_Sword.label>重置 英雄之界限</OE_Reset_OES_Sword.label>
   <!-- EN: Reset a Heroic Delimiter.\n\nWarning! Persona traits will be changed. -->
-  <OE_Reset_OES_Sword.description>TODO</OE_Reset_OES_Sword.description>
+  <OE_Reset_OES_Sword.description>重置一个英雄之界限。\n\n警告！人格特性将会改变。</OE_Reset_OES_Sword.description>
   <!-- EN: Resetting a Heroic Delimiter. -->
-  <OE_Reset_OES_Sword.jobString>TODO</OE_Reset_OES_Sword.jobString>
+  <OE_Reset_OES_Sword.jobString>正在重置英雄之界限。</OE_Reset_OES_Sword.jobString>
   
 </LanguageData>

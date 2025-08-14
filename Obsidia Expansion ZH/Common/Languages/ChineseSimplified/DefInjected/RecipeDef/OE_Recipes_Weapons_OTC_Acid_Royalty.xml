@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: Reset Persona Genesis Prototype(Acid) -->
-  <OE_Reset_OTC_BigAxe_P_Acid.label>TODO</OE_Reset_OTC_BigAxe_P_Acid.label>
+  <OE_Reset_OTC_BigAxe_P_Acid.label>重置人格起源原型(酸液)</OE_Reset_OTC_BigAxe_P_Acid.label>
   <!-- EN: Reset an Persona Genesis Prototype(Acid).\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OTC_BigAxe_P_Acid.description>TODO</OE_Reset_OTC_BigAxe_P_Acid.description>
+  <OE_Reset_OTC_BigAxe_P_Acid.description>重置一个人格起源原型(酸液)。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OTC_BigAxe_P_Acid.description>
   <!-- EN: Resetting a Persona Genesis Prototype(Acid). -->
-  <OE_Reset_OTC_BigAxe_P_Acid.jobString>TODO</OE_Reset_OTC_BigAxe_P_Acid.jobString>
+  <OE_Reset_OTC_BigAxe_P_Acid.jobString>正在重置人格起源原型(酸液)。</OE_Reset_OTC_BigAxe_P_Acid.jobString>
   
   <!-- EN: Reset Persona Netherbane Prototype(Acid) -->
-  <OE_Reset_OTC_ChainAxe_P_Acid.label>TODO</OE_Reset_OTC_ChainAxe_P_Acid.label>
+  <OE_Reset_OTC_ChainAxe_P_Acid.label>重置人格冥狱灾星原型(酸液)</OE_Reset_OTC_ChainAxe_P_Acid.label>
   <!-- EN: Reset an Persona Netherbane Prototype(Acid).\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OTC_ChainAxe_P_Acid.description>TODO</OE_Reset_OTC_ChainAxe_P_Acid.description>
+  <OE_Reset_OTC_ChainAxe_P_Acid.description>重置一个人格冥狱灾星原型(酸液)。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OTC_ChainAxe_P_Acid.description>
   <!-- EN: Resetting a Persona Netherbane Prototype(Acid). -->
-  <OE_Reset_OTC_ChainAxe_P_Acid.jobString>TODO</OE_Reset_OTC_ChainAxe_P_Acid.jobString>
+  <OE_Reset_OTC_ChainAxe_P_Acid.jobString>正在重置人格冥狱灾星原型(酸液)。</OE_Reset_OTC_ChainAxe_P_Acid.jobString>
   
   <!-- EN: Reset Persona Nemesis Prototype(Acid) -->
-  <OE_Reset_OTC_Hammer_P_Acid.label>TODO</OE_Reset_OTC_Hammer_P_Acid.label>
+  <OE_Reset_OTC_Hammer_P_Acid.label>重置人格复仇原型(酸液)</OE_Reset_OTC_Hammer_P_Acid.label>
   <!-- EN: Reset an Persona Nemesis Prototype(Acid).\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OTC_Hammer_P_Acid.description>TODO</OE_Reset_OTC_Hammer_P_Acid.description>
+  <OE_Reset_OTC_Hammer_P_Acid.description>重置一个人格复仇原型(酸液)。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OTC_Hammer_P_Acid.description>
   <!-- EN: Resetting a Persona Nemesis Prototype(Acid). -->
-  <OE_Reset_OTC_Hammer_P_Acid.jobString>TODO</OE_Reset_OTC_Hammer_P_Acid.jobString>
+  <OE_Reset_OTC_Hammer_P_Acid.jobString>正在重置人格复仇原型(酸液)。</OE_Reset_OTC_Hammer_P_Acid.jobString>
   
 </LanguageData>

@@ -2,185 +2,185 @@
 <LanguageData>
   
   <!-- EN: Unique bond Assault Rifle -->
-  <OE_Bond_AssaultRifle_Unique.label>TODO</OE_Bond_AssaultRifle_Unique.label>
+  <OE_Bond_AssaultRifle_Unique.label>独特绑定 突击步枪</OE_Bond_AssaultRifle_Unique.label>
   <!-- EN: Unique bond a Assault Rifle. -->
-  <OE_Bond_AssaultRifle_Unique.description>TODO</OE_Bond_AssaultRifle_Unique.description>
+  <OE_Bond_AssaultRifle_Unique.description>独特绑定一个突击步枪。</OE_Bond_AssaultRifle_Unique.description>
   <!-- EN: Unique bonding a Assault Rifle. -->
-  <OE_Bond_AssaultRifle_Unique.jobString>TODO</OE_Bond_AssaultRifle_Unique.jobString>
+  <OE_Bond_AssaultRifle_Unique.jobString>正在独特绑定突击步枪。</OE_Bond_AssaultRifle_Unique.jobString>
   
   <!-- EN: Unique bond Beam Repeater -->
-  <OE_Bond_BeamRepeater_Unique.label>TODO</OE_Bond_BeamRepeater_Unique.label>
+  <OE_Bond_BeamRepeater_Unique.label>独特绑定 光束连发枪</OE_Bond_BeamRepeater_Unique.label>
   <!-- EN: Unique bond a Beam Repeater. -->
-  <OE_Bond_BeamRepeater_Unique.description>TODO</OE_Bond_BeamRepeater_Unique.description>
+  <OE_Bond_BeamRepeater_Unique.description>独特绑定一个光束连发枪。</OE_Bond_BeamRepeater_Unique.description>
   <!-- EN: Unique bonding a Beam Repeater. -->
-  <OE_Bond_BeamRepeater_Unique.jobString>TODO</OE_Bond_BeamRepeater_Unique.jobString>
+  <OE_Bond_BeamRepeater_Unique.jobString>正在独特绑定光束连发枪。</OE_Bond_BeamRepeater_Unique.jobString>
   
   <!-- EN: Unique bond Bolt-action Rifle -->
-  <OE_Bond_BoltActionRifle_Unique.label>TODO</OE_Bond_BoltActionRifle_Unique.label>
+  <OE_Bond_BoltActionRifle_Unique.label>独特绑定 栓动步枪</OE_Bond_BoltActionRifle_Unique.label>
   <!-- EN: Unique bond a Bolt-action Rifle. -->
-  <OE_Bond_BoltActionRifle_Unique.description>TODO</OE_Bond_BoltActionRifle_Unique.description>
+  <OE_Bond_BoltActionRifle_Unique.description>独特绑定一个栓动步枪。</OE_Bond_BoltActionRifle_Unique.description>
   <!-- EN: Unique bonding a Bolt-action Rifle. -->
-  <OE_Bond_BoltActionRifle_Unique.jobString>TODO</OE_Bond_BoltActionRifle_Unique.jobString>
+  <OE_Bond_BoltActionRifle_Unique.jobString>正在独特绑定栓动步枪。</OE_Bond_BoltActionRifle_Unique.jobString>
   
   <!-- EN: Unique bond Greatbow -->
-  <OE_Bond_Bow_Great_Unique.label>TODO</OE_Bond_Bow_Great_Unique.label>
+  <OE_Bond_Bow_Great_Unique.label>独特绑定 巨弓</OE_Bond_Bow_Great_Unique.label>
   <!-- EN: Unique bond a Greatbow. -->
-  <OE_Bond_Bow_Great_Unique.description>TODO</OE_Bond_Bow_Great_Unique.description>
+  <OE_Bond_Bow_Great_Unique.description>独特绑定一个巨弓。</OE_Bond_Bow_Great_Unique.description>
   <!-- EN: Unique bonding a Greatbow. -->
-  <OE_Bond_Bow_Great_Unique.jobString>TODO</OE_Bond_Bow_Great_Unique.jobString>
+  <OE_Bond_Bow_Great_Unique.jobString>正在独特绑定巨弓。</OE_Bond_Bow_Great_Unique.jobString>
   
   <!-- EN: Unique bond Chain Shotgun -->
-  <OE_Bond_ChainShotgun_Unique.label>TODO</OE_Bond_ChainShotgun_Unique.label>
+  <OE_Bond_ChainShotgun_Unique.label>独特绑定 链式霰弹枪</OE_Bond_ChainShotgun_Unique.label>
   <!-- EN: Unique bond a Chain Shotgun. -->
-  <OE_Bond_ChainShotgun_Unique.description>TODO</OE_Bond_ChainShotgun_Unique.description>
+  <OE_Bond_ChainShotgun_Unique.description>独特绑定一个链式霰弹枪。</OE_Bond_ChainShotgun_Unique.description>
   <!-- EN: Unique bonding a Chain Shotgun. -->
-  <OE_Bond_ChainShotgun_Unique.jobString>TODO</OE_Bond_ChainShotgun_Unique.jobString>
+  <OE_Bond_ChainShotgun_Unique.jobString>正在独特绑定链式霰弹枪。</OE_Bond_ChainShotgun_Unique.jobString>
   
   <!-- EN: Unique bond Charge Lance -->
-  <OE_Bond_ChargeLance_Unique.label>TODO</OE_Bond_ChargeLance_Unique.label>
+  <OE_Bond_ChargeLance_Unique.label>独特绑定 电荷长矛</OE_Bond_ChargeLance_Unique.label>
   <!-- EN: Unique bond a Charge Lance. -->
-  <OE_Bond_ChargeLance_Unique.description>TODO</OE_Bond_ChargeLance_Unique.description>
+  <OE_Bond_ChargeLance_Unique.description>独特绑定一个电荷长矛。</OE_Bond_ChargeLance_Unique.description>
   <!-- EN: Unique bonding a Charge Lance. -->
-  <OE_Bond_ChargeLance_Unique.jobString>TODO</OE_Bond_ChargeLance_Unique.jobString>
+  <OE_Bond_ChargeLance_Unique.jobString>正在独特绑定电荷长矛。</OE_Bond_ChargeLance_Unique.jobString>
   
   <!-- EN: Unique bond Charge Rifle -->
-  <OE_Bond_ChargeRifle_Unique.label>TODO</OE_Bond_ChargeRifle_Unique.label>
+  <OE_Bond_ChargeRifle_Unique.label>独特绑定 电荷步枪</OE_Bond_ChargeRifle_Unique.label>
   <!-- EN: Unique bond a Charge Rifle. -->
-  <OE_Bond_ChargeRifle_Unique.description>TODO</OE_Bond_ChargeRifle_Unique.description>
+  <OE_Bond_ChargeRifle_Unique.description>独特绑定一个电荷步枪。</OE_Bond_ChargeRifle_Unique.description>
   <!-- EN: Unique bonding a Charge Rifle. -->
-  <OE_Bond_ChargeRifle_Unique.jobString>TODO</OE_Bond_ChargeRifle_Unique.jobString>
+  <OE_Bond_ChargeRifle_Unique.jobString>正在独特绑定电荷步枪。</OE_Bond_ChargeRifle_Unique.jobString>
   
   <!-- EN: Unique bond Heavy SMG -->
-  <OE_Bond_HeavySMG_Unique.label>TODO</OE_Bond_HeavySMG_Unique.label>
+  <OE_Bond_HeavySMG_Unique.label>独特绑定 重型冲锋枪</OE_Bond_HeavySMG_Unique.label>
   <!-- EN: Unique bond a Heavy SMG. -->
-  <OE_Bond_HeavySMG_Unique.description>TODO</OE_Bond_HeavySMG_Unique.description>
+  <OE_Bond_HeavySMG_Unique.description>独特绑定一个重型冲锋枪。</OE_Bond_HeavySMG_Unique.description>
   <!-- EN: Unique bonding a Heavy SMG. -->
-  <OE_Bond_HeavySMG_Unique.jobString>TODO</OE_Bond_HeavySMG_Unique.jobString>
+  <OE_Bond_HeavySMG_Unique.jobString>正在独特绑定重型冲锋枪。</OE_Bond_HeavySMG_Unique.jobString>
   
   <!-- EN: Unique bond Hellcat Rifle -->
-  <OE_Bond_HellcatRifle_Unique.label>TODO</OE_Bond_HellcatRifle_Unique.label>
+  <OE_Bond_HellcatRifle_Unique.label>独特绑定 地狱猫步枪</OE_Bond_HellcatRifle_Unique.label>
   <!-- EN: Unique bond a Hellcat Rifle. -->
-  <OE_Bond_HellcatRifle_Unique.description>TODO</OE_Bond_HellcatRifle_Unique.description>
+  <OE_Bond_HellcatRifle_Unique.description>独特绑定一个地狱猫步枪。</OE_Bond_HellcatRifle_Unique.description>
   <!-- EN: Unique bonding a Hellcat Rifle. -->
-  <OE_Bond_HellcatRifle_Unique.jobString>TODO</OE_Bond_HellcatRifle_Unique.jobString>
+  <OE_Bond_HellcatRifle_Unique.jobString>正在独特绑定地狱猫步枪。</OE_Bond_HellcatRifle_Unique.jobString>
   
   <!-- EN: Unique bond LMG -->
-  <OE_Bond_LMG_Unique.label>TODO</OE_Bond_LMG_Unique.label>
+  <OE_Bond_LMG_Unique.label>独特绑定 轻机枪</OE_Bond_LMG_Unique.label>
   <!-- EN: Unique bond a LMG. -->
-  <OE_Bond_LMG_Unique.description>TODO</OE_Bond_LMG_Unique.description>
+  <OE_Bond_LMG_Unique.description>独特绑定一个轻机枪。</OE_Bond_LMG_Unique.description>
   <!-- EN: Unique bonding a LMG. -->
-  <OE_Bond_LMG_Unique.jobString>TODO</OE_Bond_LMG_Unique.jobString>
+  <OE_Bond_LMG_Unique.jobString>正在独特绑定轻机枪。</OE_Bond_LMG_Unique.jobString>
   
   <!-- EN: Unique bond Minigun -->
-  <OE_Bond_Minigun_Unique.label>TODO</OE_Bond_Minigun_Unique.label>
+  <OE_Bond_Minigun_Unique.label>独特绑定 米尼枪</OE_Bond_Minigun_Unique.label>
   <!-- EN: Unique bond a Minigun. -->
-  <OE_Bond_Minigun_Unique.description>TODO</OE_Bond_Minigun_Unique.description>
+  <OE_Bond_Minigun_Unique.description>独特绑定一个米尼枪。</OE_Bond_Minigun_Unique.description>
   <!-- EN: Unique bonding a Minigun. -->
-  <OE_Bond_Minigun_Unique.jobString>TODO</OE_Bond_Minigun_Unique.jobString>
+  <OE_Bond_Minigun_Unique.jobString>正在独特绑定米尼枪。</OE_Bond_Minigun_Unique.jobString>
   
   <!-- EN: Unique bond Revolver -->
-  <OE_Bond_Revolver_Unique.label>TODO</OE_Bond_Revolver_Unique.label>
+  <OE_Bond_Revolver_Unique.label>独特绑定 左轮手枪</OE_Bond_Revolver_Unique.label>
   <!-- EN: Unique bond a Revolver. -->
-  <OE_Bond_Revolver_Unique.description>TODO</OE_Bond_Revolver_Unique.description>
+  <OE_Bond_Revolver_Unique.description>独特绑定一个左轮手枪。</OE_Bond_Revolver_Unique.description>
   <!-- EN: Unique bonding a Revolver. -->
-  <OE_Bond_Revolver_Unique.jobString>TODO</OE_Bond_Revolver_Unique.jobString>
+  <OE_Bond_Revolver_Unique.jobString>正在独特绑定左轮手枪。</OE_Bond_Revolver_Unique.jobString>
   
   <!-- EN: Unique bond Sniper Rifle -->
-  <OE_Bond_SniperRifle_Unique.label>TODO</OE_Bond_SniperRifle_Unique.label>
+  <OE_Bond_SniperRifle_Unique.label>独特绑定 狙击步枪</OE_Bond_SniperRifle_Unique.label>
   <!-- EN: Unique bond a Sniper Rifle. -->
-  <OE_Bond_SniperRifle_Unique.description>TODO</OE_Bond_SniperRifle_Unique.description>
+  <OE_Bond_SniperRifle_Unique.description>独特绑定一个狙击步枪。</OE_Bond_SniperRifle_Unique.description>
   <!-- EN: Unique bonding a Sniper Rifle. -->
-  <OE_Bond_SniperRifle_Unique.jobString>TODO</OE_Bond_SniperRifle_Unique.jobString>
+  <OE_Bond_SniperRifle_Unique.jobString>正在独特绑定狙击步枪。</OE_Bond_SniperRifle_Unique.jobString>
   
   <!-- EN: Reset Unique Assault Rifle -->
-  <OE_Reset_AssaultRifle_Unique_P.label>TODO</OE_Reset_AssaultRifle_Unique_P.label>
+  <OE_Reset_AssaultRifle_Unique_P.label>重置独特突击步枪</OE_Reset_AssaultRifle_Unique_P.label>
   <!-- EN: Reset an Unique Assault Rifle.\n\nWarning! Item Quality and Unique traits will be changed. -->
-  <OE_Reset_AssaultRifle_Unique_P.description>TODO</OE_Reset_AssaultRifle_Unique_P.description>
+  <OE_Reset_AssaultRifle_Unique_P.description>重置一个独特突击步枪。\n\n警告！物品品质和独特特性将会改变。</OE_Reset_AssaultRifle_Unique_P.description>
   <!-- EN: Resetting a Unique Assault Rifle. -->
-  <OE_Reset_AssaultRifle_Unique_P.jobString>TODO</OE_Reset_AssaultRifle_Unique_P.jobString>
+  <OE_Reset_AssaultRifle_Unique_P.jobString>正在重置独特突击步枪。</OE_Reset_AssaultRifle_Unique_P.jobString>
   
   <!-- EN: Reset Unique Beam Repeater -->
-  <OE_Reset_BeamRepeater_Unique_P.label>TODO</OE_Reset_BeamRepeater_Unique_P.label>
+  <OE_Reset_BeamRepeater_Unique_P.label>重置独特光束连发枪</OE_Reset_BeamRepeater_Unique_P.label>
   <!-- EN: Reset an Unique Beam Repeater.\n\nWarning! Item Quality and Unique traits will be changed. -->
-  <OE_Reset_BeamRepeater_Unique_P.description>TODO</OE_Reset_BeamRepeater_Unique_P.description>
+  <OE_Reset_BeamRepeater_Unique_P.description>重置一个独特光束连发枪。\n\n警告！物品品质和独特特性将会改变。</OE_Reset_BeamRepeater_Unique_P.description>
   <!-- EN: Resetting a Unique Beam Repeater. -->
-  <OE_Reset_BeamRepeater_Unique_P.jobString>TODO</OE_Reset_BeamRepeater_Unique_P.jobString>
+  <OE_Reset_BeamRepeater_Unique_P.jobString>正在重置独特光束连发枪。</OE_Reset_BeamRepeater_Unique_P.jobString>
   
   <!-- EN: Reset Unique Bolt-action Rifle -->
-  <OE_Reset_BoltActionRifle_Unique_P.label>TODO</OE_Reset_BoltActionRifle_Unique_P.label>
+  <OE_Reset_BoltActionRifle_Unique_P.label>重置独特栓动步枪</OE_Reset_BoltActionRifle_Unique_P.label>
   <!-- EN: Reset an Unique Bolt-action Rifle.\n\nWarning! Item Quality and Unique traits will be changed. -->
-  <OE_Reset_BoltActionRifle_Unique_P.description>TODO</OE_Reset_BoltActionRifle_Unique_P.description>
+  <OE_Reset_BoltActionRifle_Unique_P.description>重置一个独特栓动步枪。\n\n警告！物品品质和独特特性将会改变。</OE_Reset_BoltActionRifle_Unique_P.description>
   <!-- EN: Resetting a Unique Bolt-action Rifle. -->
-  <OE_Reset_BoltActionRifle_Unique_P.jobString>TODO</OE_Reset_BoltActionRifle_Unique_P.jobString>
+  <OE_Reset_BoltActionRifle_Unique_P.jobString>正在重置独特栓动步枪。</OE_Reset_BoltActionRifle_Unique_P.jobString>
   
   <!-- EN: Reset Unique Greatbow -->
-  <OE_Reset_Bow_Great_Unique_P.label>TODO</OE_Reset_Bow_Great_Unique_P.label>
+  <OE_Reset_Bow_Great_Unique_P.label>重置独特巨弓</OE_Reset_Bow_Great_Unique_P.label>
   <!-- EN: Reset an Unique Greatbow.\n\nWarning! Item Quality and Unique traits will be changed. -->
-  <OE_Reset_Bow_Great_Unique_P.description>TODO</OE_Reset_Bow_Great_Unique_P.description>
+  <OE_Reset_Bow_Great_Unique_P.description>重置一个独特巨弓。\n\n警告！物品品质和独特特性将会改变。</OE_Reset_Bow_Great_Unique_P.description>
   <!-- EN: Resetting a Unique Greatbow. -->
-  <OE_Reset_Bow_Great_Unique_P.jobString>TODO</OE_Reset_Bow_Great_Unique_P.jobString>
+  <OE_Reset_Bow_Great_Unique_P.jobString>正在重置独特巨弓。</OE_Reset_Bow_Great_Unique_P.jobString>
   
   <!-- EN: Reset Unique Chain Shotgun -->
-  <OE_Reset_ChainShotgun_Unique_P.label>TODO</OE_Reset_ChainShotgun_Unique_P.label>
+  <OE_Reset_ChainShotgun_Unique_P.label>重置独特链式霰弹枪</OE_Reset_ChainShotgun_Unique_P.label>
   <!-- EN: Reset an Unique Chain Shotgun.\n\nWarning! Item Quality and Unique traits will be changed. -->
-  <OE_Reset_ChainShotgun_Unique_P.description>TODO</OE_Reset_ChainShotgun_Unique_P.description>
+  <OE_Reset_ChainShotgun_Unique_P.description>重置一个独特链式霰弹枪。\n\n警告！物品品质和独特特性将会改变。</OE_Reset_ChainShotgun_Unique_P.description>
   <!-- EN: Resetting a Unique Chain Shotgun. -->
-  <OE_Reset_ChainShotgun_Unique_P.jobString>TODO</OE_Reset_ChainShotgun_Unique_P.jobString>
+  <OE_Reset_ChainShotgun_Unique_P.jobString>正在重置独特链式霰弹枪。</OE_Reset_ChainShotgun_Unique_P.jobString>
   
   <!-- EN: Reset Unique Charge Lance -->
-  <OE_Reset_ChargeLance_Unique_P.label>TODO</OE_Reset_ChargeLance_Unique_P.label>
+  <OE_Reset_ChargeLance_Unique_P.label>重置独特电荷长矛</OE_Reset_ChargeLance_Unique_P.label>
   <!-- EN: Reset an Unique Charge Lance.\n\nWarning! Item Quality and Unique traits will be changed. -->
-  <OE_Reset_ChargeLance_Unique_P.description>TODO</OE_Reset_ChargeLance_Unique_P.description>
+  <OE_Reset_ChargeLance_Unique_P.description>重置一个独特电荷长矛。\n\n警告！物品品质和独特特性将会改变。</OE_Reset_ChargeLance_Unique_P.description>
   <!-- EN: Resetting a Unique Charge Lance. -->
-  <OE_Reset_ChargeLance_Unique_P.jobString>TODO</OE_Reset_ChargeLance_Unique_P.jobString>
+  <OE_Reset_ChargeLance_Unique_P.jobString>正在重置独特电荷长矛。</OE_Reset_ChargeLance_Unique_P.jobString>
   
   <!-- EN: Reset Unique Charge Rifle -->
-  <OE_Reset_ChargeRifle_Unique_P.label>TODO</OE_Reset_ChargeRifle_Unique_P.label>
+  <OE_Reset_ChargeRifle_Unique_P.label>重置独特电荷步枪</OE_Reset_ChargeRifle_Unique_P.label>
   <!-- EN: Reset an Unique Charge Rifle.\n\nWarning! Item Quality and Unique traits will be changed. -->
-  <OE_Reset_ChargeRifle_Unique_P.description>TODO</OE_Reset_ChargeRifle_Unique_P.description>
+  <OE_Reset_ChargeRifle_Unique_P.description>重置一个独特电荷步枪。\n\n警告！物品品质和独特特性将会改变。</OE_Reset_ChargeRifle_Unique_P.description>
   <!-- EN: Resetting a Unique Charge Rifle. -->
-  <OE_Reset_ChargeRifle_Unique_P.jobString>TODO</OE_Reset_ChargeRifle_Unique_P.jobString>
+  <OE_Reset_ChargeRifle_Unique_P.jobString>正在重置独特电荷步枪。</OE_Reset_ChargeRifle_Unique_P.jobString>
   
   <!-- EN: Reset Unique Heavy SMG -->
-  <OE_Reset_HeavySMG_Unique_P.label>TODO</OE_Reset_HeavySMG_Unique_P.label>
+  <OE_Reset_HeavySMG_Unique_P.label>重置独特重型冲锋枪</OE_Reset_HeavySMG_Unique_P.label>
   <!-- EN: Reset an Unique Heavy SMG.\n\nWarning! Item Quality and Unique traits will be changed. -->
-  <OE_Reset_HeavySMG_Unique_P.description>TODO</OE_Reset_HeavySMG_Unique_P.description>
+  <OE_Reset_HeavySMG_Unique_P.description>重置一个独特重型冲锋枪。\n\n警告！物品品质和独特特性将会改变。</OE_Reset_HeavySMG_Unique_P.description>
   <!-- EN: Resetting a Unique Heavy SMG. -->
-  <OE_Reset_HeavySMG_Unique_P.jobString>TODO</OE_Reset_HeavySMG_Unique_P.jobString>
+  <OE_Reset_HeavySMG_Unique_P.jobString>正在重置独特重型冲锋枪。</OE_Reset_HeavySMG_Unique_P.jobString>
   
   <!-- EN: Reset Unique Hellcat Rifle -->
-  <OE_Reset_HellcatRifle_Unique_P.label>TODO</OE_Reset_HellcatRifle_Unique_P.label>
+  <OE_Reset_HellcatRifle_Unique_P.label>重置独特地狱猫步枪</OE_Reset_HellcatRifle_Unique_P.label>
   <!-- EN: Reset an Unique Hellcat Rifle.\n\nWarning! Item Quality and Unique traits will be changed. -->
-  <OE_Reset_HellcatRifle_Unique_P.description>TODO</OE_Reset_HellcatRifle_Unique_P.description>
+  <OE_Reset_HellcatRifle_Unique_P.description>重置一个独特地狱猫步枪。\n\n警告！物品品质和独特特性将会改变。</OE_Reset_HellcatRifle_Unique_P.description>
   <!-- EN: Resetting a Unique Hellcat Rifle. -->
-  <OE_Reset_HellcatRifle_Unique_P.jobString>TODO</OE_Reset_HellcatRifle_Unique_P.jobString>
+  <OE_Reset_HellcatRifle_Unique_P.jobString>正在重置独特地狱猫步枪。</OE_Reset_HellcatRifle_Unique_P.jobString>
   
   <!-- EN: Reset Unique LMG -->
-  <OE_Reset_LMG_Unique_P.label>TODO</OE_Reset_LMG_Unique_P.label>
+  <OE_Reset_LMG_Unique_P.label>重置独特轻机枪</OE_Reset_LMG_Unique_P.label>
   <!-- EN: Reset an Unique LMG.\n\nWarning! Item Quality and Unique traits will be changed. -->
-  <OE_Reset_LMG_Unique_P.description>TODO</OE_Reset_LMG_Unique_P.description>
+  <OE_Reset_LMG_Unique_P.description>重置一个独特轻机枪。\n\n警告！物品品质和独特特性将会改变。</OE_Reset_LMG_Unique_P.description>
   <!-- EN: Resetting a Unique LMG. -->
-  <OE_Reset_LMG_Unique_P.jobString>TODO</OE_Reset_LMG_Unique_P.jobString>
+  <OE_Reset_LMG_Unique_P.jobString>正在重置独特轻机枪。</OE_Reset_LMG_Unique_P.jobString>
   
   <!-- EN: Reset Unique Minigun -->
-  <OE_Reset_Minigun_Unique_P.label>TODO</OE_Reset_Minigun_Unique_P.label>
+  <OE_Reset_Minigun_Unique_P.label>重置独特米尼枪</OE_Reset_Minigun_Unique_P.label>
   <!-- EN: Reset an Unique Minigun.\n\nWarning! Item Quality and Unique traits will be changed. -->
-  <OE_Reset_Minigun_Unique_P.description>TODO</OE_Reset_Minigun_Unique_P.description>
+  <OE_Reset_Minigun_Unique_P.description>重置一个独特米尼枪。\n\n警告！物品品质和独特特性将会改变。</OE_Reset_Minigun_Unique_P.description>
   <!-- EN: Resetting a Unique Minigun. -->
-  <OE_Reset_Minigun_Unique_P.jobString>TODO</OE_Reset_Minigun_Unique_P.jobString>
+  <OE_Reset_Minigun_Unique_P.jobString>正在重置独特米尼枪。</OE_Reset_Minigun_Unique_P.jobString>
   
   <!-- EN: Reset Unique Revolver -->
-  <OE_Reset_Revolver_Unique_P.label>TODO</OE_Reset_Revolver_Unique_P.label>
+  <OE_Reset_Revolver_Unique_P.label>重置独特左轮手枪</OE_Reset_Revolver_Unique_P.label>
   <!-- EN: Reset an Unique Revolver.\n\nWarning! Item Quality and Unique traits will be changed. -->
-  <OE_Reset_Revolver_Unique_P.description>TODO</OE_Reset_Revolver_Unique_P.description>
+  <OE_Reset_Revolver_Unique_P.description>重置一个独特左轮手枪。\n\n警告！物品品质和独特特性将会改变。</OE_Reset_Revolver_Unique_P.description>
   <!-- EN: Resetting a Unique Revolver. -->
-  <OE_Reset_Revolver_Unique_P.jobString>TODO</OE_Reset_Revolver_Unique_P.jobString>
+  <OE_Reset_Revolver_Unique_P.jobString>正在重置独特左轮手枪。</OE_Reset_Revolver_Unique_P.jobString>
   
   <!-- EN: Reset Unique Sniper Rifle -->
-  <OE_Reset_SniperRifle_Unique_P.label>TODO</OE_Reset_SniperRifle_Unique_P.label>
+  <OE_Reset_SniperRifle_Unique_P.label>重置独特狙击步枪</OE_Reset_SniperRifle_Unique_P.label>
   <!-- EN: Reset an Unique Sniper Rifle.\n\nWarning! Item Quality and Unique traits will be changed. -->
-  <OE_Reset_SniperRifle_Unique_P.description>TODO</OE_Reset_SniperRifle_Unique_P.description>
+  <OE_Reset_SniperRifle_Unique_P.description>重置一个独特狙击步枪。\n\n警告！物品品质和独特特性将会改变。</OE_Reset_SniperRifle_Unique_P.description>
   <!-- EN: Resetting a Unique Sniper Rifle. -->
-  <OE_Reset_SniperRifle_Unique_P.jobString>TODO</OE_Reset_SniperRifle_Unique_P.jobString>
+  <OE_Reset_SniperRifle_Unique_P.jobString>正在重置独特狙击步枪。</OE_Reset_SniperRifle_Unique_P.jobString>
   
 </LanguageData>

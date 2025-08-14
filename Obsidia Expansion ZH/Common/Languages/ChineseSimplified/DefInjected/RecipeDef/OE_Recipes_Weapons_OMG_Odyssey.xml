@@ -2,38 +2,38 @@
 <LanguageData>
   
   <!-- EN: Reset Void Shredder -->
-  <OE_Reset_OMG_Minigun.label>TODO</OE_Reset_OMG_Minigun.label>
+  <OE_Reset_OMG_Minigun.label>重置 虚空撕裂者</OE_Reset_OMG_Minigun.label>
   <!-- EN: Reset a Void Shredder.\n\nWarning! Paragon traits will be changed. -->
-  <OE_Reset_OMG_Minigun.description>TODO</OE_Reset_OMG_Minigun.description>
+  <OE_Reset_OMG_Minigun.description>重置一个虚空撕裂者。\n\n警告！完美特性将会改变。</OE_Reset_OMG_Minigun.description>
   <!-- EN: Resetting a Void Shredder. -->
-  <OE_Reset_OMG_Minigun.jobString>TODO</OE_Reset_OMG_Minigun.jobString>
+  <OE_Reset_OMG_Minigun.jobString>正在重置虚空撕裂者。</OE_Reset_OMG_Minigun.jobString>
   
   <!-- EN: Reset Nanofire -->
-  <OE_Reset_OMG_Pistol.label>TODO</OE_Reset_OMG_Pistol.label>
+  <OE_Reset_OMG_Pistol.label>重置 纳米火焰</OE_Reset_OMG_Pistol.label>
   <!-- EN: Reset a Nanofire.\n\nWarning! Paragon traits will be changed. -->
-  <OE_Reset_OMG_Pistol.description>TODO</OE_Reset_OMG_Pistol.description>
+  <OE_Reset_OMG_Pistol.description>重置一个纳米火焰。\n\n警告！完美特性将会改变。</OE_Reset_OMG_Pistol.description>
   <!-- EN: Resetting a Nanofire. -->
-  <OE_Reset_OMG_Pistol.jobString>TODO</OE_Reset_OMG_Pistol.jobString>
+  <OE_Reset_OMG_Pistol.jobString>正在重置纳米火焰。</OE_Reset_OMG_Pistol.jobString>
   
   <!-- EN: Reset Datashot -->
-  <OE_Reset_OMG_Revolver.label>TODO</OE_Reset_OMG_Revolver.label>
+  <OE_Reset_OMG_Revolver.label>重置 数据射击</OE_Reset_OMG_Revolver.label>
   <!-- EN: Reset a Datashot.\n\nWarning! Paragon traits will be changed. -->
-  <OE_Reset_OMG_Revolver.description>TODO</OE_Reset_OMG_Revolver.description>
+  <OE_Reset_OMG_Revolver.description>重置一个数据射击。\n\n警告！完美特性将会改变。</OE_Reset_OMG_Revolver.description>
   <!-- EN: Resetting a Datashot. -->
-  <OE_Reset_OMG_Revolver.jobString>TODO</OE_Reset_OMG_Revolver.jobString>
+  <OE_Reset_OMG_Revolver.jobString>正在重置数据射击。</OE_Reset_OMG_Revolver.jobString>
   
   <!-- EN: Reset Bytecrusher -->
-  <OE_Reset_OMG_Shotgun.label>TODO</OE_Reset_OMG_Shotgun.label>
+  <OE_Reset_OMG_Shotgun.label>重置 字节粉碎者</OE_Reset_OMG_Shotgun.label>
   <!-- EN: Reset a Bytecrusher.\n\nWarning! Paragon traits will be changed. -->
-  <OE_Reset_OMG_Shotgun.description>TODO</OE_Reset_OMG_Shotgun.description>
+  <OE_Reset_OMG_Shotgun.description>重置一个字节粉碎者。\n\n警告！完美特性将会改变。</OE_Reset_OMG_Shotgun.description>
   <!-- EN: Resetting a Bytecrusher. -->
-  <OE_Reset_OMG_Shotgun.jobString>TODO</OE_Reset_OMG_Shotgun.jobString>
+  <OE_Reset_OMG_Shotgun.jobString>正在重置字节粉碎者。</OE_Reset_OMG_Shotgun.jobString>
   
   <!-- EN: Reset Etherstrike -->
-  <OE_Reset_OMG_SniperRifle.label>TODO</OE_Reset_OMG_SniperRifle.label>
+  <OE_Reset_OMG_SniperRifle.label>重置 以太打击</OE_Reset_OMG_SniperRifle.label>
   <!-- EN: Reset a Etherstrike.\n\nWarning! Paragon traits will be changed. -->
-  <OE_Reset_OMG_SniperRifle.description>TODO</OE_Reset_OMG_SniperRifle.description>
+  <OE_Reset_OMG_SniperRifle.description>重置一个以太打击。\n\n警告！完美特性将会改变。</OE_Reset_OMG_SniperRifle.description>
   <!-- EN: Resetting a Etherstrike. -->
-  <OE_Reset_OMG_SniperRifle.jobString>TODO</OE_Reset_OMG_SniperRifle.jobString>
+  <OE_Reset_OMG_SniperRifle.jobString>正在重置以太打击。</OE_Reset_OMG_SniperRifle.jobString>
   
 </LanguageData>

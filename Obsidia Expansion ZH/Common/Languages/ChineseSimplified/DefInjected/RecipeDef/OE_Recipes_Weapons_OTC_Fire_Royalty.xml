@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: Reset Persona Genesis Prototype(Fire) -->
-  <OE_Reset_OTC_BigAxe_P_Fire.label>TODO</OE_Reset_OTC_BigAxe_P_Fire.label>
+  <OE_Reset_OTC_BigAxe_P_Fire.label>重置人格起源原型(火焰)</OE_Reset_OTC_BigAxe_P_Fire.label>
   <!-- EN: Reset an Persona Genesis Prototype(Fire).\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OTC_BigAxe_P_Fire.description>TODO</OE_Reset_OTC_BigAxe_P_Fire.description>
+  <OE_Reset_OTC_BigAxe_P_Fire.description>重置一个人格起源原型(火焰)。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OTC_BigAxe_P_Fire.description>
   <!-- EN: Resetting a Persona Genesis Prototype(Fire). -->
-  <OE_Reset_OTC_BigAxe_P_Fire.jobString>TODO</OE_Reset_OTC_BigAxe_P_Fire.jobString>
+  <OE_Reset_OTC_BigAxe_P_Fire.jobString>正在重置人格起源原型(火焰)。</OE_Reset_OTC_BigAxe_P_Fire.jobString>
   
   <!-- EN: Reset Persona Netherbane Prototype(Fire) -->
-  <OE_Reset_OTC_ChainAxe_P_Fire.label>TODO</OE_Reset_OTC_ChainAxe_P_Fire.label>
+  <OE_Reset_OTC_ChainAxe_P_Fire.label>重置人格冥狱灾星原型(火焰)</OE_Reset_OTC_ChainAxe_P_Fire.label>
   <!-- EN: Reset an Persona Netherbane Prototype(Fire).\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OTC_ChainAxe_P_Fire.description>TODO</OE_Reset_OTC_ChainAxe_P_Fire.description>
+  <OE_Reset_OTC_ChainAxe_P_Fire.description>重置一个人格冥狱灾星原型(火焰)。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OTC_ChainAxe_P_Fire.description>
   <!-- EN: Resetting a Persona Netherbane Prototype(Fire). -->
-  <OE_Reset_OTC_ChainAxe_P_Fire.jobString>TODO</OE_Reset_OTC_ChainAxe_P_Fire.jobString>
+  <OE_Reset_OTC_ChainAxe_P_Fire.jobString>正在重置人格冥狱灾星原型(火焰)。</OE_Reset_OTC_ChainAxe_P_Fire.jobString>
   
   <!-- EN: Reset Persona Nemesis Prototype(Fire) -->
-  <OE_Reset_OTC_Hammer_P_Fire.label>TODO</OE_Reset_OTC_Hammer_P_Fire.label>
+  <OE_Reset_OTC_Hammer_P_Fire.label>重置人格复仇原型(火焰)</OE_Reset_OTC_Hammer_P_Fire.label>
   <!-- EN: Reset an Persona Nemesis Prototype(Fire).\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OTC_Hammer_P_Fire.description>TODO</OE_Reset_OTC_Hammer_P_Fire.description>
+  <OE_Reset_OTC_Hammer_P_Fire.description>重置一个人格复仇原型(火焰)。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OTC_Hammer_P_Fire.description>
   <!-- EN: Resetting a Persona Nemesis Prototype(Fire). -->
-  <OE_Reset_OTC_Hammer_P_Fire.jobString>TODO</OE_Reset_OTC_Hammer_P_Fire.jobString>
+  <OE_Reset_OTC_Hammer_P_Fire.jobString>正在重置人格复仇原型(火焰)。</OE_Reset_OTC_Hammer_P_Fire.jobString>
   
 </LanguageData>

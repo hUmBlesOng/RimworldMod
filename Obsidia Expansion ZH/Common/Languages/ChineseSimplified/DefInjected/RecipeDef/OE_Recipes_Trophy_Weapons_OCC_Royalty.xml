@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: Persona bond Balor -->
-  <OE_Bond_OCC_Trophy_Drillspear.label>TODO</OE_Bond_OCC_Trophy_Drillspear.label>
+  <OE_Bond_OCC_Trophy_Drillspear.label>人格绑定 巴洛尔</OE_Bond_OCC_Trophy_Drillspear.label>
   <!-- EN: Persona bond a Balor. -->
-  <OE_Bond_OCC_Trophy_Drillspear.description>TODO</OE_Bond_OCC_Trophy_Drillspear.description>
+  <OE_Bond_OCC_Trophy_Drillspear.description>人格绑定一个巴洛尔。</OE_Bond_OCC_Trophy_Drillspear.description>
   <!-- EN: Persona bonding a Balor. -->
-  <OE_Bond_OCC_Trophy_Drillspear.jobString>TODO</OE_Bond_OCC_Trophy_Drillspear.jobString>
+  <OE_Bond_OCC_Trophy_Drillspear.jobString>正在人格绑定巴洛尔。</OE_Bond_OCC_Trophy_Drillspear.jobString>
   
   <!-- EN: Reset Inlaid Balor -->
-  <OE_Reset_OCC_Trophy_Drillspear_I.label>TODO</OE_Reset_OCC_Trophy_Drillspear_I.label>
+  <OE_Reset_OCC_Trophy_Drillspear_I.label>重置镶嵌巴洛尔</OE_Reset_OCC_Trophy_Drillspear_I.label>
   <!-- EN: Reset a Inlaid Balor.\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OCC_Trophy_Drillspear_I.description>TODO</OE_Reset_OCC_Trophy_Drillspear_I.description>
+  <OE_Reset_OCC_Trophy_Drillspear_I.description>重置一个镶嵌巴洛尔。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OCC_Trophy_Drillspear_I.description>
   <!-- EN: Resetting a Inlaid Balor. -->
-  <OE_Reset_OCC_Trophy_Drillspear_I.jobString>TODO</OE_Reset_OCC_Trophy_Drillspear_I.jobString>
+  <OE_Reset_OCC_Trophy_Drillspear_I.jobString>正在重置镶嵌巴洛尔。</OE_Reset_OCC_Trophy_Drillspear_I.jobString>
   
   <!-- EN: Reset Persona Balor -->
-  <OE_Reset_OCC_Trophy_Drillspear_P.label>TODO</OE_Reset_OCC_Trophy_Drillspear_P.label>
+  <OE_Reset_OCC_Trophy_Drillspear_P.label>重置人格巴洛尔</OE_Reset_OCC_Trophy_Drillspear_P.label>
   <!-- EN: Reset a Persona Balor.\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OCC_Trophy_Drillspear_P.description>TODO</OE_Reset_OCC_Trophy_Drillspear_P.description>
+  <OE_Reset_OCC_Trophy_Drillspear_P.description>重置一个人格巴洛尔。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OCC_Trophy_Drillspear_P.description>
   <!-- EN: Resetting a Persona Balor. -->
-  <OE_Reset_OCC_Trophy_Drillspear_P.jobString>TODO</OE_Reset_OCC_Trophy_Drillspear_P.jobString>
+  <OE_Reset_OCC_Trophy_Drillspear_P.jobString>正在重置人格巴洛尔。</OE_Reset_OCC_Trophy_Drillspear_P.jobString>
   
 </LanguageData>

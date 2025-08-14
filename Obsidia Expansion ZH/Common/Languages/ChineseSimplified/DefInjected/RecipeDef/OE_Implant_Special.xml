@@ -2,31 +2,31 @@
 <LanguageData>
   
   <!-- EN: install Krekeros Curse -->
-  <OE_InstallIImplant_Special_A.label>TODO</OE_InstallIImplant_Special_A.label>
+  <OE_InstallIImplant_Special_A.label>安装克雷克罗斯的诅咒</OE_InstallIImplant_Special_A.label>
   <!-- EN: Install a Krekeros Curse. -->
-  <OE_InstallIImplant_Special_A.description>TODO</OE_InstallIImplant_Special_A.description>
+  <OE_InstallIImplant_Special_A.description>安装克雷克罗斯的诅咒。</OE_InstallIImplant_Special_A.description>
   <!-- EN: Installing Krekeros Curse. -->
-  <OE_InstallIImplant_Special_A.jobString>TODO</OE_InstallIImplant_Special_A.jobString>
+  <OE_InstallIImplant_Special_A.jobString>正在安装克雷克罗斯的诅咒。</OE_InstallIImplant_Special_A.jobString>
   
   <!-- EN: install Kokoplays MB Arcane -->
-  <OE_InstallIImplant_Special_B.label>TODO</OE_InstallIImplant_Special_B.label>
+  <OE_InstallIImplant_Special_B.label>安装Kokoplays的神秘MB</OE_InstallIImplant_Special_B.label>
   <!-- EN: Install a Kokoplays MB Arcane. -->
-  <OE_InstallIImplant_Special_B.description>TODO</OE_InstallIImplant_Special_B.description>
+  <OE_InstallIImplant_Special_B.description>安装Kokoplays的神秘MB。</OE_InstallIImplant_Special_B.description>
   <!-- EN: Installing Kokoplays MB Arcane. -->
-  <OE_InstallIImplant_Special_B.jobString>TODO</OE_InstallIImplant_Special_B.jobString>
+  <OE_InstallIImplant_Special_B.jobString>正在安装Kokoplays的神秘MB。</OE_InstallIImplant_Special_B.jobString>
   
   <!-- EN: remove Krekeros Curse -->
-  <OE_RemoveImplant_Special_A.label>TODO</OE_RemoveImplant_Special_A.label>
+  <OE_RemoveImplant_Special_A.label>移除克雷克罗斯的诅咒</OE_RemoveImplant_Special_A.label>
   <!-- EN: Remove a Krekeros Curse. -->
-  <OE_RemoveImplant_Special_A.description>TODO</OE_RemoveImplant_Special_A.description>
+  <OE_RemoveImplant_Special_A.description>移除克雷克罗斯的诅咒。</OE_RemoveImplant_Special_A.description>
   <!-- EN: Removing Krekeros Curse. -->
-  <OE_RemoveImplant_Special_A.jobString>TODO</OE_RemoveImplant_Special_A.jobString>
+  <OE_RemoveImplant_Special_A.jobString>正在移除克雷克罗斯的诅咒。</OE_RemoveImplant_Special_A.jobString>
   
   <!-- EN: remove Kokoplays MB Arcane -->
-  <OE_RemoveImplant_Special_B.label>TODO</OE_RemoveImplant_Special_B.label>
+  <OE_RemoveImplant_Special_B.label>移除Kokoplays的神秘MB</OE_RemoveImplant_Special_B.label>
   <!-- EN: Remove a Kokoplays MB Arcane. -->
-  <OE_RemoveImplant_Special_B.description>TODO</OE_RemoveImplant_Special_B.description>
+  <OE_RemoveImplant_Special_B.description>移除Kokoplays的神秘MB。</OE_RemoveImplant_Special_B.description>
   <!-- EN: Removing Kokoplays MB Arcane. -->
-  <OE_RemoveImplant_Special_B.jobString>TODO</OE_RemoveImplant_Special_B.jobString>
+  <OE_RemoveImplant_Special_B.jobString>正在移除Kokoplays的神秘MB。</OE_RemoveImplant_Special_B.jobString>
   
 </LanguageData>

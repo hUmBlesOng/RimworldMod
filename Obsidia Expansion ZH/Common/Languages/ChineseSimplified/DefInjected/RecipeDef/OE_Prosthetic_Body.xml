@@ -2,59 +2,59 @@
 <LanguageData>
   
   <!-- EN: install bionic spine -->
-  <OE_InstallProstheticSpine.label>TODO</OE_InstallProstheticSpine.label>
+  <OE_InstallProstheticSpine.label>安装仿生脊椎</OE_InstallProstheticSpine.label>
   <!-- EN: Install a bionic spine. -->
-  <OE_InstallProstheticSpine.description>TODO</OE_InstallProstheticSpine.description>
+  <OE_InstallProstheticSpine.description>安装一个仿生脊椎。</OE_InstallProstheticSpine.description>
   <!-- EN: Installing bionic spine. -->
-  <OE_InstallProstheticSpine.jobString>TODO</OE_InstallProstheticSpine.jobString>
+  <OE_InstallProstheticSpine.jobString>正在安装仿生脊椎。</OE_InstallProstheticSpine.jobString>
   
   <!-- EN: install cultist bionic spine -->
-  <OE_InstallProstheticSpine_CAC.label>TODO</OE_InstallProstheticSpine_CAC.label>
+  <OE_InstallProstheticSpine_CAC.label>安装邪教徒仿生脊椎</OE_InstallProstheticSpine_CAC.label>
   <!-- EN: Install a cultist bionic spine. -->
-  <OE_InstallProstheticSpine_CAC.description>TODO</OE_InstallProstheticSpine_CAC.description>
+  <OE_InstallProstheticSpine_CAC.description>安装一个邪教徒仿生脊椎。</OE_InstallProstheticSpine_CAC.description>
   <!-- EN: Installing cultist bionic spine. -->
-  <OE_InstallProstheticSpine_CAC.jobString>TODO</OE_InstallProstheticSpine_CAC.jobString>
+  <OE_InstallProstheticSpine_CAC.jobString>正在安装邪教徒仿生脊椎。</OE_InstallProstheticSpine_CAC.jobString>
   
   <!-- EN: install advanced bionic spine -->
-  <OE_InstallProstheticSpine_M.label>TODO</OE_InstallProstheticSpine_M.label>
+  <OE_InstallProstheticSpine_M.label>安装高级仿生脊椎</OE_InstallProstheticSpine_M.label>
   <!-- EN: Install an advanced bionic spine. -->
-  <OE_InstallProstheticSpine_M.description>TODO</OE_InstallProstheticSpine_M.description>
+  <OE_InstallProstheticSpine_M.description>安装一个高级仿生脊椎。</OE_InstallProstheticSpine_M.description>
   <!-- EN: Installing advanced bionic spine. -->
-  <OE_InstallProstheticSpine_M.jobString>TODO</OE_InstallProstheticSpine_M.jobString>
+  <OE_InstallProstheticSpine_M.jobString>正在安装高级仿生脊椎。</OE_InstallProstheticSpine_M.jobString>
   
   <!-- EN: install heroic bionic spine -->
-  <OE_InstallProstheticSpine_OES.label>TODO</OE_InstallProstheticSpine_OES.label>
+  <OE_InstallProstheticSpine_OES.label>安装英雄仿生脊椎</OE_InstallProstheticSpine_OES.label>
   <!-- EN: Install a heroic bionic spine. -->
-  <OE_InstallProstheticSpine_OES.description>TODO</OE_InstallProstheticSpine_OES.description>
+  <OE_InstallProstheticSpine_OES.description>安装一个英雄仿生脊椎。</OE_InstallProstheticSpine_OES.description>
   <!-- EN: Installing heroic bionic spine. -->
-  <OE_InstallProstheticSpine_OES.jobString>TODO</OE_InstallProstheticSpine_OES.jobString>
+  <OE_InstallProstheticSpine_OES.jobString>正在安装英雄仿生脊椎。</OE_InstallProstheticSpine_OES.jobString>
   
   <!-- EN: remove bionic spine -->
-  <OE_RemoveProstheticSpine.label>TODO</OE_RemoveProstheticSpine.label>
+  <OE_RemoveProstheticSpine.label>移除仿生脊椎</OE_RemoveProstheticSpine.label>
   <!-- EN: Remove a bionic spine. -->
-  <OE_RemoveProstheticSpine.description>TODO</OE_RemoveProstheticSpine.description>
+  <OE_RemoveProstheticSpine.description>移除一个仿生脊椎。</OE_RemoveProstheticSpine.description>
   <!-- EN: Removing bionic spine. -->
-  <OE_RemoveProstheticSpine.jobString>TODO</OE_RemoveProstheticSpine.jobString>
+  <OE_RemoveProstheticSpine.jobString>正在移除仿生脊椎。</OE_RemoveProstheticSpine.jobString>
   
   <!-- EN: remove cultist bionic spine -->
-  <OE_RemoveProstheticSpine_CAC.label>TODO</OE_RemoveProstheticSpine_CAC.label>
+  <OE_RemoveProstheticSpine_CAC.label>移除邪教徒仿生脊椎</OE_RemoveProstheticSpine_CAC.label>
   <!-- EN: Remove a cultist bionic spine. -->
-  <OE_RemoveProstheticSpine_CAC.description>TODO</OE_RemoveProstheticSpine_CAC.description>
+  <OE_RemoveProstheticSpine_CAC.description>移除一个邪教徒仿生脊椎。</OE_RemoveProstheticSpine_CAC.description>
   <!-- EN: Removing cultist bionic spine. -->
-  <OE_RemoveProstheticSpine_CAC.jobString>TODO</OE_RemoveProstheticSpine_CAC.jobString>
+  <OE_RemoveProstheticSpine_CAC.jobString>正在移除邪教徒仿生脊椎。</OE_RemoveProstheticSpine_CAC.jobString>
   
   <!-- EN: remove advanced bionic spine -->
-  <OE_RemoveProstheticSpine_M.label>TODO</OE_RemoveProstheticSpine_M.label>
+  <OE_RemoveProstheticSpine_M.label>移除高级仿生脊椎</OE_RemoveProstheticSpine_M.label>
   <!-- EN: Remove an advanced bionic spine. -->
-  <OE_RemoveProstheticSpine_M.description>TODO</OE_RemoveProstheticSpine_M.description>
+  <OE_RemoveProstheticSpine_M.description>移除一个高级仿生脊椎。</OE_RemoveProstheticSpine_M.description>
   <!-- EN: Removing advanced bionic spine. -->
-  <OE_RemoveProstheticSpine_M.jobString>TODO</OE_RemoveProstheticSpine_M.jobString>
+  <OE_RemoveProstheticSpine_M.jobString>正在移除高级仿生脊椎。</OE_RemoveProstheticSpine_M.jobString>
   
   <!-- EN: remove heroic bionic spine -->
-  <OE_RemoveProstheticSpine_OES.label>TODO</OE_RemoveProstheticSpine_OES.label>
+  <OE_RemoveProstheticSpine_OES.label>移除英雄仿生脊椎</OE_RemoveProstheticSpine_OES.label>
   <!-- EN: Remove a heroic bionic spine. -->
-  <OE_RemoveProstheticSpine_OES.description>TODO</OE_RemoveProstheticSpine_OES.description>
+  <OE_RemoveProstheticSpine_OES.description>移除一个英雄仿生脊椎。</OE_RemoveProstheticSpine_OES.description>
   <!-- EN: Removing heroic bionic spine. -->
-  <OE_RemoveProstheticSpine_OES.jobString>TODO</OE_RemoveProstheticSpine_OES.jobString>
+  <OE_RemoveProstheticSpine_OES.jobString>正在移除英雄仿生脊椎。</OE_RemoveProstheticSpine_OES.jobString>
   
 </LanguageData>

@@ -2,45 +2,45 @@
 <LanguageData>
   
   <!-- EN: Paragon bond Prototype sX-02a -->
-  <OE_Bond_OE_Trophy_RepairPistol.label>TODO</OE_Bond_OE_Trophy_RepairPistol.label>
+  <OE_Bond_OE_Trophy_RepairPistol.label>完美绑定 原型sX-02a</OE_Bond_OE_Trophy_RepairPistol.label>
   <!-- EN: Paragon bond a Prototype sX-02a. -->
-  <OE_Bond_OE_Trophy_RepairPistol.description>TODO</OE_Bond_OE_Trophy_RepairPistol.description>
+  <OE_Bond_OE_Trophy_RepairPistol.description>完美绑定一个原型sX-02a。</OE_Bond_OE_Trophy_RepairPistol.description>
   <!-- EN: Paragon bonding a Prototype sX-02a. -->
-  <OE_Bond_OE_Trophy_RepairPistol.jobString>TODO</OE_Bond_OE_Trophy_RepairPistol.jobString>
+  <OE_Bond_OE_Trophy_RepairPistol.jobString>正在完美绑定原型sX-02a。</OE_Bond_OE_Trophy_RepairPistol.jobString>
   
   <!-- EN: Paragon bond Ashisogi Jizō -->
-  <OE_Bond_OE_Trophy_SampleCollector.label>TODO</OE_Bond_OE_Trophy_SampleCollector.label>
+  <OE_Bond_OE_Trophy_SampleCollector.label>完美绑定 阿什西ogi地藏</OE_Bond_OE_Trophy_SampleCollector.label>
   <!-- EN: Paragon bond an Ashisogi Jizō. -->
-  <OE_Bond_OE_Trophy_SampleCollector.description>TODO</OE_Bond_OE_Trophy_SampleCollector.description>
+  <OE_Bond_OE_Trophy_SampleCollector.description>完美绑定一个阿什西ogi地藏。</OE_Bond_OE_Trophy_SampleCollector.description>
   <!-- EN: Paragon bonding an Ashisogi Jizō. -->
-  <OE_Bond_OE_Trophy_SampleCollector.jobString>TODO</OE_Bond_OE_Trophy_SampleCollector.jobString>
+  <OE_Bond_OE_Trophy_SampleCollector.jobString>正在完美绑定阿什西ogi地藏。</OE_Bond_OE_Trophy_SampleCollector.jobString>
   
   <!-- EN: Paragon bond Titanstrike -->
-  <OE_Bond_OE_Trophy_UnstableGun.label>TODO</OE_Bond_OE_Trophy_UnstableGun.label>
+  <OE_Bond_OE_Trophy_UnstableGun.label>完美绑定 泰坦打击</OE_Bond_OE_Trophy_UnstableGun.label>
   <!-- EN: Paragon bond a Titanstrike. -->
-  <OE_Bond_OE_Trophy_UnstableGun.description>TODO</OE_Bond_OE_Trophy_UnstableGun.description>
+  <OE_Bond_OE_Trophy_UnstableGun.description>完美绑定一个泰坦打击。</OE_Bond_OE_Trophy_UnstableGun.description>
   <!-- EN: Paragon bonding a Titanstrike. -->
-  <OE_Bond_OE_Trophy_UnstableGun.jobString>TODO</OE_Bond_OE_Trophy_UnstableGun.jobString>
+  <OE_Bond_OE_Trophy_UnstableGun.jobString>正在完美绑定泰坦打击。</OE_Bond_OE_Trophy_UnstableGun.jobString>
   
   <!-- EN: Reset Paragon Prototype sX-02a -->
-  <OE_Reset_OE_Trophy_RepairPistol_P.label>TODO</OE_Reset_OE_Trophy_RepairPistol_P.label>
+  <OE_Reset_OE_Trophy_RepairPistol_P.label>重置完美原型sX-02a</OE_Reset_OE_Trophy_RepairPistol_P.label>
   <!-- EN: Reset a Paragon Prototype sX-02a.\n\nWarning! Item Quality and Paragon traits will be changed. -->
-  <OE_Reset_OE_Trophy_RepairPistol_P.description>TODO</OE_Reset_OE_Trophy_RepairPistol_P.description>
+  <OE_Reset_OE_Trophy_RepairPistol_P.description>重置一个完美原型sX-02a。\n\n警告！物品品质和完美特性将会改变。</OE_Reset_OE_Trophy_RepairPistol_P.description>
   <!-- EN: Resetting a Paragon Prototype sX-02a. -->
-  <OE_Reset_OE_Trophy_RepairPistol_P.jobString>TODO</OE_Reset_OE_Trophy_RepairPistol_P.jobString>
+  <OE_Reset_OE_Trophy_RepairPistol_P.jobString>正在重置完美原型sX-02a。</OE_Reset_OE_Trophy_RepairPistol_P.jobString>
   
   <!-- EN: Reset Paragon Ashisogi Jizō -->
-  <OE_Reset_OE_Trophy_SampleCollector_P.label>TODO</OE_Reset_OE_Trophy_SampleCollector_P.label>
+  <OE_Reset_OE_Trophy_SampleCollector_P.label>重置完美阿什西ogi地藏</OE_Reset_OE_Trophy_SampleCollector_P.label>
   <!-- EN: Reset a Paragon Ashisogi Jizō.\n\nWarning! Item Quality and Paragon traits will be changed. -->
-  <OE_Reset_OE_Trophy_SampleCollector_P.description>TODO</OE_Reset_OE_Trophy_SampleCollector_P.description>
+  <OE_Reset_OE_Trophy_SampleCollector_P.description>重置一个完美阿什西ogi地藏。\n\n警告！物品品质和完美特性将会改变。</OE_Reset_OE_Trophy_SampleCollector_P.description>
   <!-- EN: Resetting a Paragon Ashisogi Jizō. -->
-  <OE_Reset_OE_Trophy_SampleCollector_P.jobString>TODO</OE_Reset_OE_Trophy_SampleCollector_P.jobString>
+  <OE_Reset_OE_Trophy_SampleCollector_P.jobString>正在重置完美阿什西ogi地藏。</OE_Reset_OE_Trophy_SampleCollector_P.jobString>
   
   <!-- EN: Reset Paragon Titanstrike -->
-  <OE_Reset_OE_Trophy_UnstableGun_P.label>TODO</OE_Reset_OE_Trophy_UnstableGun_P.label>
+  <OE_Reset_OE_Trophy_UnstableGun_P.label>重置完美泰坦打击</OE_Reset_OE_Trophy_UnstableGun_P.label>
   <!-- EN: Reset a Paragon Titanstrike.\n\nWarning! Item Quality and Paragon traits will be changed. -->
-  <OE_Reset_OE_Trophy_UnstableGun_P.description>TODO</OE_Reset_OE_Trophy_UnstableGun_P.description>
+  <OE_Reset_OE_Trophy_UnstableGun_P.description>重置一个完美泰坦打击。\n\n警告！物品品质和完美特性将会改变。</OE_Reset_OE_Trophy_UnstableGun_P.description>
   <!-- EN: Resetting a Paragon Titanstrike. -->
-  <OE_Reset_OE_Trophy_UnstableGun_P.jobString>TODO</OE_Reset_OE_Trophy_UnstableGun_P.jobString>
+  <OE_Reset_OE_Trophy_UnstableGun_P.jobString>正在重置完美泰坦打击。</OE_Reset_OE_Trophy_UnstableGun_P.jobString>
   
 </LanguageData>

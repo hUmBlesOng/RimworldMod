@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: Reset Platebreaker -->
-  <OE_Reset_OMG_Trophy_Knife.label>TODO</OE_Reset_OMG_Trophy_Knife.label>
+  <OE_Reset_OMG_Trophy_Knife.label>重置 碎甲者</OE_Reset_OMG_Trophy_Knife.label>
   <!-- EN: Reset a Platebreaker.\n\nWarning! Persona traits will be changed. -->
-  <OE_Reset_OMG_Trophy_Knife.description>TODO</OE_Reset_OMG_Trophy_Knife.description>
+  <OE_Reset_OMG_Trophy_Knife.description>重置一个碎甲者。\n\n警告！人格特性将会改变。</OE_Reset_OMG_Trophy_Knife.description>
   <!-- EN: Resetting a Platebreaker. -->
-  <OE_Reset_OMG_Trophy_Knife.jobString>TODO</OE_Reset_OMG_Trophy_Knife.jobString>
+  <OE_Reset_OMG_Trophy_Knife.jobString>正在重置碎甲者。</OE_Reset_OMG_Trophy_Knife.jobString>
   
 </LanguageData>

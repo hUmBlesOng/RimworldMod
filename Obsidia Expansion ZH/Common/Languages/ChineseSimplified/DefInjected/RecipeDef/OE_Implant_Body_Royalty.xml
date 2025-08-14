@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: install skin implant - Mythril -->
-  <OE_InstallImplantSkin_Mythril.label>TODO</OE_InstallImplantSkin_Mythril.label>
+  <OE_InstallImplantSkin_Mythril.label>安装皮肤植入物 - 秘银</OE_InstallImplantSkin_Mythril.label>
   <!-- EN: Install a skin implant - Mythril. -->
-  <OE_InstallImplantSkin_Mythril.description>TODO</OE_InstallImplantSkin_Mythril.description>
+  <OE_InstallImplantSkin_Mythril.description>安装一个皮肤植入物 - 秘银。</OE_InstallImplantSkin_Mythril.description>
   <!-- EN: Installing skin implant - Mythril. -->
-  <OE_InstallImplantSkin_Mythril.jobString>TODO</OE_InstallImplantSkin_Mythril.jobString>
+  <OE_InstallImplantSkin_Mythril.jobString>正在安装皮肤植入物 - 秘银。</OE_InstallImplantSkin_Mythril.jobString>
   
   <!-- EN: remove skin implant - Mythril -->
-  <OE_RemoveImplantSkin_Mythril.label>TODO</OE_RemoveImplantSkin_Mythril.label>
+  <OE_RemoveImplantSkin_Mythril.label>移除皮肤植入物 - 秘银</OE_RemoveImplantSkin_Mythril.label>
   <!-- EN: Remove a skin implant - Mythril. -->
-  <OE_RemoveImplantSkin_Mythril.description>TODO</OE_RemoveImplantSkin_Mythril.description>
+  <OE_RemoveImplantSkin_Mythril.description>移除一个皮肤植入物 - 秘银。</OE_RemoveImplantSkin_Mythril.description>
   <!-- EN: Removing skin implant - Mythril. -->
-  <OE_RemoveImplantSkin_Mythril.jobString>TODO</OE_RemoveImplantSkin_Mythril.jobString>
+  <OE_RemoveImplantSkin_Mythril.jobString>正在移除皮肤植入物 - 秘银。</OE_RemoveImplantSkin_Mythril.jobString>
   
 </LanguageData>

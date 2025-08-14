@@ -2,52 +2,52 @@
 <LanguageData>
   
   <!-- EN: Reset Paragon Striker MK-II -->
-  <OE_Reset_OMC_AR_P.label>TODO</OE_Reset_OMC_AR_P.label>
+  <OE_Reset_OMC_AR_P.label>重置完美打击者 MK-II</OE_Reset_OMC_AR_P.label>
   <!-- EN: Reset an Paragon Striker MK-II.\n\nWarning! Item Quality and Paragon traits will be changed. -->
-  <OE_Reset_OMC_AR_P.description>TODO</OE_Reset_OMC_AR_P.description>
+  <OE_Reset_OMC_AR_P.description>重置一个完美打击者 MK-II。\n\n警告！物品品质和完美特性将会改变。</OE_Reset_OMC_AR_P.description>
   <!-- EN: Resetting a Paragon Striker MK-II. -->
-  <OE_Reset_OMC_AR_P.jobString>TODO</OE_Reset_OMC_AR_P.jobString>
+  <OE_Reset_OMC_AR_P.jobString>正在重置完美打击者 MK-II。</OE_Reset_OMC_AR_P.jobString>
   
   <!-- EN: Reset Paragon Impaler MK-II -->
-  <OE_Reset_OMC_Pistol_P.label>TODO</OE_Reset_OMC_Pistol_P.label>
+  <OE_Reset_OMC_Pistol_P.label>重置完美穿刺者 MK-II</OE_Reset_OMC_Pistol_P.label>
   <!-- EN: Reset an Paragon Impaler MK-II.\n\nWarning! Item Quality and Paragon traits will be changed. -->
-  <OE_Reset_OMC_Pistol_P.description>TODO</OE_Reset_OMC_Pistol_P.description>
+  <OE_Reset_OMC_Pistol_P.description>重置一个完美穿刺者 MK-II。\n\n警告！物品品质和完美特性将会改变。</OE_Reset_OMC_Pistol_P.description>
   <!-- EN: Resetting a Paragon Impaler MK-II. -->
-  <OE_Reset_OMC_Pistol_P.jobString>TODO</OE_Reset_OMC_Pistol_P.jobString>
+  <OE_Reset_OMC_Pistol_P.jobString>正在重置完美穿刺者 MK-II。</OE_Reset_OMC_Pistol_P.jobString>
   
   <!-- EN: Reset Paragon Merciless MK-II -->
-  <OE_Reset_OMC_Revolver_P.label>TODO</OE_Reset_OMC_Revolver_P.label>
+  <OE_Reset_OMC_Revolver_P.label>重置完美无情 MK-II</OE_Reset_OMC_Revolver_P.label>
   <!-- EN: Reset an Paragon Merciless MK-II.\n\nWarning! Item Quality and Paragon traits will be changed. -->
-  <OE_Reset_OMC_Revolver_P.description>TODO</OE_Reset_OMC_Revolver_P.description>
+  <OE_Reset_OMC_Revolver_P.description>重置一个完美无情 MK-II。\n\n警告！物品品质和完美特性将会改变。</OE_Reset_OMC_Revolver_P.description>
   <!-- EN: Resetting a Paragon Merciless MK-II. -->
-  <OE_Reset_OMC_Revolver_P.jobString>TODO</OE_Reset_OMC_Revolver_P.jobString>
+  <OE_Reset_OMC_Revolver_P.jobString>正在重置完美无情 MK-II。</OE_Reset_OMC_Revolver_P.jobString>
   
   <!-- EN: Reset Paragon Giant's Bane MK-II -->
-  <OE_Reset_OMC_RocketLauncher_P.label>TODO</OE_Reset_OMC_RocketLauncher_P.label>
+  <OE_Reset_OMC_RocketLauncher_P.label>重置完美巨人克星 MK-II</OE_Reset_OMC_RocketLauncher_P.label>
   <!-- EN: Reset an Paragon Giant's Bane MK-II.\n\nWarning! Item Quality and Paragon traits will be changed. -->
-  <OE_Reset_OMC_RocketLauncher_P.description>TODO</OE_Reset_OMC_RocketLauncher_P.description>
+  <OE_Reset_OMC_RocketLauncher_P.description>重置一个完美巨人克星 MK-II。\n\n警告！物品品质和完美特性将会改变。</OE_Reset_OMC_RocketLauncher_P.description>
   <!-- EN: Resetting a Paragon Giant's Bane MK-II. -->
-  <OE_Reset_OMC_RocketLauncher_P.jobString>TODO</OE_Reset_OMC_RocketLauncher_P.jobString>
+  <OE_Reset_OMC_RocketLauncher_P.jobString>正在重置完美巨人克星 MK-II。</OE_Reset_OMC_RocketLauncher_P.jobString>
   
   <!-- EN: Reset Paragon Doom MK-II -->
-  <OE_Reset_OMC_Shotgun_P.label>TODO</OE_Reset_OMC_Shotgun_P.label>
+  <OE_Reset_OMC_Shotgun_P.label>重置完美末日 MK-II</OE_Reset_OMC_Shotgun_P.label>
   <!-- EN: Reset an Paragon Doom MK-II.\n\nWarning! Item Quality and Paragon traits will be changed. -->
-  <OE_Reset_OMC_Shotgun_P.description>TODO</OE_Reset_OMC_Shotgun_P.description>
+  <OE_Reset_OMC_Shotgun_P.description>重置一个完美末日 MK-II。\n\n警告！物品品质和完美特性将会改变。</OE_Reset_OMC_Shotgun_P.description>
   <!-- EN: Resetting a Paragon Doom MK-II. -->
-  <OE_Reset_OMC_Shotgun_P.jobString>TODO</OE_Reset_OMC_Shotgun_P.jobString>
+  <OE_Reset_OMC_Shotgun_P.jobString>正在重置完美末日 MK-II。</OE_Reset_OMC_Shotgun_P.jobString>
   
   <!-- EN: Reset Paragon Hellscream MK-II -->
-  <OE_Reset_OMC_ShotgunS_P.label>TODO</OE_Reset_OMC_ShotgunS_P.label>
+  <OE_Reset_OMC_ShotgunS_P.label>重置完美地狱咆哮 MK-II</OE_Reset_OMC_ShotgunS_P.label>
   <!-- EN: Reset an Paragon Hellscream MK-II.\n\nWarning! Item Quality and Paragon traits will be changed. -->
-  <OE_Reset_OMC_ShotgunS_P.description>TODO</OE_Reset_OMC_ShotgunS_P.description>
+  <OE_Reset_OMC_ShotgunS_P.description>重置一个完美地狱咆哮 MK-II。\n\n警告！物品品质和完美特性将会改变。</OE_Reset_OMC_ShotgunS_P.description>
   <!-- EN: Resetting a Paragon Hellscream MK-II. -->
-  <OE_Reset_OMC_ShotgunS_P.jobString>TODO</OE_Reset_OMC_ShotgunS_P.jobString>
+  <OE_Reset_OMC_ShotgunS_P.jobString>正在重置完美地狱咆哮 MK-II。</OE_Reset_OMC_ShotgunS_P.jobString>
   
   <!-- EN: Reset Paragon Skullmasher MK-II -->
-  <OE_Reset_OMC_SniperRifle_P.label>TODO</OE_Reset_OMC_SniperRifle_P.label>
+  <OE_Reset_OMC_SniperRifle_P.label>重置完美碎颅者 MK-II</OE_Reset_OMC_SniperRifle_P.label>
   <!-- EN: Reset an Paragon Skullmasher MK-II.\n\nWarning! Item Quality and Paragon traits will be changed. -->
-  <OE_Reset_OMC_SniperRifle_P.description>TODO</OE_Reset_OMC_SniperRifle_P.description>
+  <OE_Reset_OMC_SniperRifle_P.description>重置一个完美碎颅者 MK-II。\n\n警告！物品品质和完美特性将会改变。</OE_Reset_OMC_SniperRifle_P.description>
   <!-- EN: Resetting a Paragon Skullmasher MK-II. -->
-  <OE_Reset_OMC_SniperRifle_P.jobString>TODO</OE_Reset_OMC_SniperRifle_P.jobString>
+  <OE_Reset_OMC_SniperRifle_P.jobString>正在重置完美碎颅者 MK-II。</OE_Reset_OMC_SniperRifle_P.jobString>
   
 </LanguageData>

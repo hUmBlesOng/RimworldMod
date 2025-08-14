@@ -2,31 +2,31 @@
 <LanguageData>
   
   <!-- EN: install arm implant - Assassin -->
-  <OE_InstallImplantArm_Assassin.label>TODO</OE_InstallImplantArm_Assassin.label>
+  <OE_InstallImplantArm_Assassin.label>安装手臂植入物 - 刺客</OE_InstallImplantArm_Assassin.label>
   <!-- EN: Install an arm implant - Assassin. -->
-  <OE_InstallImplantArm_Assassin.description>TODO</OE_InstallImplantArm_Assassin.description>
+  <OE_InstallImplantArm_Assassin.description>安装一个手臂植入物 - 刺客。</OE_InstallImplantArm_Assassin.description>
   <!-- EN: Installing arm implant - Assassin. -->
-  <OE_InstallImplantArm_Assassin.jobString>TODO</OE_InstallImplantArm_Assassin.jobString>
+  <OE_InstallImplantArm_Assassin.jobString>正在安装手臂植入物 - 刺客。</OE_InstallImplantArm_Assassin.jobString>
   
   <!-- EN: install hand implant - Psy -->
-  <OE_InstallImplantHand_Psy.label>TODO</OE_InstallImplantHand_Psy.label>
+  <OE_InstallImplantHand_Psy.label>安装手部植入物 - 心灵</OE_InstallImplantHand_Psy.label>
   <!-- EN: Install a hand implant - Psy. -->
-  <OE_InstallImplantHand_Psy.description>TODO</OE_InstallImplantHand_Psy.description>
+  <OE_InstallImplantHand_Psy.description>安装一个手部植入物 - 心灵。</OE_InstallImplantHand_Psy.description>
   <!-- EN: Installing hand implant - Psy. -->
-  <OE_InstallImplantHand_Psy.jobString>TODO</OE_InstallImplantHand_Psy.jobString>
+  <OE_InstallImplantHand_Psy.jobString>正在安装手部植入物 - 心灵。</OE_InstallImplantHand_Psy.jobString>
   
   <!-- EN: remove arm implant - Assassin -->
-  <OE_RemoveImplantArm_Assassin.label>TODO</OE_RemoveImplantArm_Assassin.label>
+  <OE_RemoveImplantArm_Assassin.label>移除手臂植入物 - 刺客</OE_RemoveImplantArm_Assassin.label>
   <!-- EN: Remove an arm implant - Assassin. -->
-  <OE_RemoveImplantArm_Assassin.description>TODO</OE_RemoveImplantArm_Assassin.description>
+  <OE_RemoveImplantArm_Assassin.description>移除一个手臂植入物 - 刺客。</OE_RemoveImplantArm_Assassin.description>
   <!-- EN: Removing arm implant - Assassin. -->
-  <OE_RemoveImplantArm_Assassin.jobString>TODO</OE_RemoveImplantArm_Assassin.jobString>
+  <OE_RemoveImplantArm_Assassin.jobString>正在移除手臂植入物 - 刺客。</OE_RemoveImplantArm_Assassin.jobString>
   
   <!-- EN: remove hand implant - Psy -->
-  <OE_RemoveImplantHand_Psy.label>TODO</OE_RemoveImplantHand_Psy.label>
+  <OE_RemoveImplantHand_Psy.label>移除手部植入物 - 心灵</OE_RemoveImplantHand_Psy.label>
   <!-- EN: Remove a hand implant - Psy. -->
-  <OE_RemoveImplantHand_Psy.description>TODO</OE_RemoveImplantHand_Psy.description>
+  <OE_RemoveImplantHand_Psy.description>移除一个手部植入物 - 心灵。</OE_RemoveImplantHand_Psy.description>
   <!-- EN: Removing hand implant - Psy. -->
-  <OE_RemoveImplantHand_Psy.jobString>TODO</OE_RemoveImplantHand_Psy.jobString>
+  <OE_RemoveImplantHand_Psy.jobString>正在移除手部植入物 - 心灵。</OE_RemoveImplantHand_Psy.jobString>
   
 </LanguageData>

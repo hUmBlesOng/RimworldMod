@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: Paragon bond Randy's Deck -->
-  <OE_Bond_OTC_Trophy_Cards.label>TODO</OE_Bond_OTC_Trophy_Cards.label>
+  <OE_Bond_OTC_Trophy_Cards.label>完美绑定 兰迪的卡组</OE_Bond_OTC_Trophy_Cards.label>
   <!-- EN: Paragon bond a Randy's Deck. -->
-  <OE_Bond_OTC_Trophy_Cards.description>TODO</OE_Bond_OTC_Trophy_Cards.description>
+  <OE_Bond_OTC_Trophy_Cards.description>完美绑定一个兰迪的卡组。</OE_Bond_OTC_Trophy_Cards.description>
   <!-- EN: Paragon bonding a Randy's Deck. -->
-  <OE_Bond_OTC_Trophy_Cards.jobString>TODO</OE_Bond_OTC_Trophy_Cards.jobString>
+  <OE_Bond_OTC_Trophy_Cards.jobString>正在完美绑定兰迪的卡组。</OE_Bond_OTC_Trophy_Cards.jobString>
   
   <!-- EN: Reset Inlaid Randy's Deck -->
-  <OE_Reset_OTC_Trophy_Cards_I.label>TODO</OE_Reset_OTC_Trophy_Cards_I.label>
+  <OE_Reset_OTC_Trophy_Cards_I.label>重置镶嵌兰迪的卡组</OE_Reset_OTC_Trophy_Cards_I.label>
   <!-- EN: Reset an Inlaid Randy's Deck.\n\nWarning! Item Quality and Paragon traits will be changed. -->
-  <OE_Reset_OTC_Trophy_Cards_I.description>TODO</OE_Reset_OTC_Trophy_Cards_I.description>
+  <OE_Reset_OTC_Trophy_Cards_I.description>重置一个镶嵌兰迪的卡组。\n\n警告！物品品质和完美特性将会改变。</OE_Reset_OTC_Trophy_Cards_I.description>
   <!-- EN: Resetting an Inlaid Randy's Deck. -->
-  <OE_Reset_OTC_Trophy_Cards_I.jobString>TODO</OE_Reset_OTC_Trophy_Cards_I.jobString>
+  <OE_Reset_OTC_Trophy_Cards_I.jobString>正在重置镶嵌兰迪的卡组。</OE_Reset_OTC_Trophy_Cards_I.jobString>
   
   <!-- EN: Reset Paragon Randy's Deck -->
-  <OE_Reset_OTC_Trophy_Cards_P.label>TODO</OE_Reset_OTC_Trophy_Cards_P.label>
+  <OE_Reset_OTC_Trophy_Cards_P.label>重置完美兰迪的卡组</OE_Reset_OTC_Trophy_Cards_P.label>
   <!-- EN: Reset a Paragon Randy's Deck.\n\nWarning! Item Quality and Paragon traits will be changed. -->
-  <OE_Reset_OTC_Trophy_Cards_P.description>TODO</OE_Reset_OTC_Trophy_Cards_P.description>
+  <OE_Reset_OTC_Trophy_Cards_P.description>重置一个完美兰迪的卡组。\n\n警告！物品品质和完美特性将会改变。</OE_Reset_OTC_Trophy_Cards_P.description>
   <!-- EN: Resetting a Paragon Randy's Deck. -->
-  <OE_Reset_OTC_Trophy_Cards_P.jobString>TODO</OE_Reset_OTC_Trophy_Cards_P.jobString>
+  <OE_Reset_OTC_Trophy_Cards_P.jobString>正在重置完美兰迪的卡组。</OE_Reset_OTC_Trophy_Cards_P.jobString>
   
 </LanguageData>

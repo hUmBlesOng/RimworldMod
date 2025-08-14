@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: remove death acidifier -->
-  <OE_RemoveDeathAcidifier.label>TODO</OE_RemoveDeathAcidifier.label>
+  <OE_RemoveDeathAcidifier.label>移除死亡酸化剂</OE_RemoveDeathAcidifier.label>
   <!-- EN: Remove a death acidifier. -->
-  <OE_RemoveDeathAcidifier.description>TODO</OE_RemoveDeathAcidifier.description>
+  <OE_RemoveDeathAcidifier.description>移除一个死亡酸化剂。</OE_RemoveDeathAcidifier.description>
   <!-- EN: Removing death acidifier. -->
-  <OE_RemoveDeathAcidifier.jobString>TODO</OE_RemoveDeathAcidifier.jobString>
+  <OE_RemoveDeathAcidifier.jobString>正在移除死亡酸化剂。</OE_RemoveDeathAcidifier.jobString>
   <!-- EN: {0} has successfully removed {1}'s death acidifier. -->
-  <OE_RemoveDeathAcidifier.successfullyRemovedHediffMessage>TODO</OE_RemoveDeathAcidifier.successfullyRemovedHediffMessage>
+  <OE_RemoveDeathAcidifier.successfullyRemovedHediffMessage>{0}成功移除了{1}的死亡酸化剂。</OE_RemoveDeathAcidifier.successfullyRemovedHediffMessage>
   
 </LanguageData>
