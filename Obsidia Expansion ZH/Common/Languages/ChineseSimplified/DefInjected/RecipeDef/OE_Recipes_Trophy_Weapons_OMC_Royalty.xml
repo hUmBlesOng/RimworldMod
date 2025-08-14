@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: Persona bond Empress's Blessing -->
-  <OE_Bond_OMC_Trophy_Chainsword.label>TODO</OE_Bond_OMC_Trophy_Chainsword.label>
+  <OE_Bond_OMC_Trophy_Chainsword.label>人格绑定 女皇的祝福</OE_Bond_OMC_Trophy_Chainsword.label>
   <!-- EN: Persona bond an Empress's Blessing. -->
-  <OE_Bond_OMC_Trophy_Chainsword.description>TODO</OE_Bond_OMC_Trophy_Chainsword.description>
+  <OE_Bond_OMC_Trophy_Chainsword.description>人格绑定一个女皇的祝福。</OE_Bond_OMC_Trophy_Chainsword.description>
   <!-- EN: Persona bonding an Empress's Blessing. -->
-  <OE_Bond_OMC_Trophy_Chainsword.jobString>TODO</OE_Bond_OMC_Trophy_Chainsword.jobString>
+  <OE_Bond_OMC_Trophy_Chainsword.jobString>正在人格绑定女皇的祝福。</OE_Bond_OMC_Trophy_Chainsword.jobString>
   
   <!-- EN: Reset Inlaid Empress's Blessing -->
-  <OE_Reset_OMC_Trophy_Chainsword_I.label>TODO</OE_Reset_OMC_Trophy_Chainsword_I.label>
+  <OE_Reset_OMC_Trophy_Chainsword_I.label>重置镶嵌女皇的祝福</OE_Reset_OMC_Trophy_Chainsword_I.label>
   <!-- EN: Reset an Inlaid Empress's Blessing.\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OMC_Trophy_Chainsword_I.description>TODO</OE_Reset_OMC_Trophy_Chainsword_I.description>
+  <OE_Reset_OMC_Trophy_Chainsword_I.description>重置一个镶嵌女皇的祝福。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OMC_Trophy_Chainsword_I.description>
   <!-- EN: Resetting an Inlaid Empress's Blessing. -->
-  <OE_Reset_OMC_Trophy_Chainsword_I.jobString>TODO</OE_Reset_OMC_Trophy_Chainsword_I.jobString>
+  <OE_Reset_OMC_Trophy_Chainsword_I.jobString>正在重置镶嵌女皇的祝福。</OE_Reset_OMC_Trophy_Chainsword_I.jobString>
   
   <!-- EN: Reset Persona Empress's Blessing -->
-  <OE_Reset_OMC_Trophy_Chainsword_P.label>TODO</OE_Reset_OMC_Trophy_Chainsword_P.label>
+  <OE_Reset_OMC_Trophy_Chainsword_P.label>重置人格女皇的祝福</OE_Reset_OMC_Trophy_Chainsword_P.label>
   <!-- EN: Reset a Persona Empress's Blessing.\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OMC_Trophy_Chainsword_P.description>TODO</OE_Reset_OMC_Trophy_Chainsword_P.description>
+  <OE_Reset_OMC_Trophy_Chainsword_P.description>重置一个人格女皇的祝福。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OMC_Trophy_Chainsword_P.description>
   <!-- EN: Resetting a Persona Empress's Blessing. -->
-  <OE_Reset_OMC_Trophy_Chainsword_P.jobString>TODO</OE_Reset_OMC_Trophy_Chainsword_P.jobString>
+  <OE_Reset_OMC_Trophy_Chainsword_P.jobString>正在重置人格女皇的祝福。</OE_Reset_OMC_Trophy_Chainsword_P.jobString>
   
 </LanguageData>

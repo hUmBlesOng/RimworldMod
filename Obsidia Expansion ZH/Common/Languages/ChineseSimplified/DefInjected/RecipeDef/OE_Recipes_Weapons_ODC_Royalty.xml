@@ -2,157 +2,157 @@
 <LanguageData>
   
   <!-- EN: Persona bond Bequest - Apex -->
-  <OE_Bond_ODC_BigSword.label>TODO</OE_Bond_ODC_BigSword.label>
+  <OE_Bond_ODC_BigSword.label>人格绑定 遗赠 - 顶点</OE_Bond_ODC_BigSword.label>
   <!-- EN: Persona bond an Bequest - Apex. -->
-  <OE_Bond_ODC_BigSword.description>TODO</OE_Bond_ODC_BigSword.description>
+  <OE_Bond_ODC_BigSword.description>人格绑定一个遗赠 - 顶点。</OE_Bond_ODC_BigSword.description>
   <!-- EN: Persona bonding a Bequest - Apex. -->
-  <OE_Bond_ODC_BigSword.jobString>TODO</OE_Bond_ODC_BigSword.jobString>
+  <OE_Bond_ODC_BigSword.jobString>正在人格绑定遗赠 - 顶点。</OE_Bond_ODC_BigSword.jobString>
   
   <!-- EN: Persona bond Guillotine - Apex -->
-  <OE_Bond_ODC_DualSword.label>TODO</OE_Bond_ODC_DualSword.label>
+  <OE_Bond_ODC_DualSword.label>人格绑定 断头台 - 顶点</OE_Bond_ODC_DualSword.label>
   <!-- EN: Persona bond an Guillotine - Apex. -->
-  <OE_Bond_ODC_DualSword.description>TODO</OE_Bond_ODC_DualSword.description>
+  <OE_Bond_ODC_DualSword.description>人格绑定一个断头台 - 顶点。</OE_Bond_ODC_DualSword.description>
   <!-- EN: Persona bonding a Guillotine - Apex. -->
-  <OE_Bond_ODC_DualSword.jobString>TODO</OE_Bond_ODC_DualSword.jobString>
+  <OE_Bond_ODC_DualSword.jobString>正在人格绑定断头台 - 顶点。</OE_Bond_ODC_DualSword.jobString>
   
   <!-- EN: Persona bond Scar -->
-  <OE_Bond_ODC_Knife.label>TODO</OE_Bond_ODC_Knife.label>
+  <OE_Bond_ODC_Knife.label>人格绑定 疤痕</OE_Bond_ODC_Knife.label>
   <!-- EN: Persona bond an Scar. -->
-  <OE_Bond_ODC_Knife.description>TODO</OE_Bond_ODC_Knife.description>
+  <OE_Bond_ODC_Knife.description>人格绑定一个疤痕。</OE_Bond_ODC_Knife.description>
   <!-- EN: Persona bonding a Scar. -->
-  <OE_Bond_ODC_Knife.jobString>TODO</OE_Bond_ODC_Knife.jobString>
+  <OE_Bond_ODC_Knife.jobString>正在人格绑定疤痕。</OE_Bond_ODC_Knife.jobString>
   
   <!-- EN: Persona bond Imperfect - Emergent -->
-  <OE_Bond_ODC_Rapier.label>TODO</OE_Bond_ODC_Rapier.label>
+  <OE_Bond_ODC_Rapier.label>人格绑定 不完美者 - 突现</OE_Bond_ODC_Rapier.label>
   <!-- EN: Persona bond an Imperfect - Emergent. -->
-  <OE_Bond_ODC_Rapier.description>TODO</OE_Bond_ODC_Rapier.description>
+  <OE_Bond_ODC_Rapier.description>人格绑定一个不完美者 - 突现。</OE_Bond_ODC_Rapier.description>
   <!-- EN: Persona bonding a Imperfect - Emergent. -->
-  <OE_Bond_ODC_Rapier.jobString>TODO</OE_Bond_ODC_Rapier.jobString>
+  <OE_Bond_ODC_Rapier.jobString>正在人格绑定不完美者 - 突现。</OE_Bond_ODC_Rapier.jobString>
   
   <!-- EN: Persona bond Enigma - Apex(Acid) -->
-  <OE_Bond_ODC_Rapier_Acid.label>TODO</OE_Bond_ODC_Rapier_Acid.label>
+  <OE_Bond_ODC_Rapier_Acid.label>人格绑定 谜团 - 顶点(酸液)</OE_Bond_ODC_Rapier_Acid.label>
   <!-- EN: Persona bond an Enigma - Apex(Acid). -->
-  <OE_Bond_ODC_Rapier_Acid.description>TODO</OE_Bond_ODC_Rapier_Acid.description>
+  <OE_Bond_ODC_Rapier_Acid.description>人格绑定一个谜团 - 顶点(酸液)。</OE_Bond_ODC_Rapier_Acid.description>
   <!-- EN: Persona bonding a Enigma - Apex(Acid). -->
-  <OE_Bond_ODC_Rapier_Acid.jobString>TODO</OE_Bond_ODC_Rapier_Acid.jobString>
+  <OE_Bond_ODC_Rapier_Acid.jobString>正在人格绑定谜团 - 顶点(酸液)。</OE_Bond_ODC_Rapier_Acid.jobString>
   
   <!-- EN: Persona bond Enigma - Apex(Cryo) -->
-  <OE_Bond_ODC_Rapier_Cryo.label>TODO</OE_Bond_ODC_Rapier_Cryo.label>
+  <OE_Bond_ODC_Rapier_Cryo.label>人格绑定 谜团 - 顶点(冷冻)</OE_Bond_ODC_Rapier_Cryo.label>
   <!-- EN: Persona bond an Enigma - Apex(Cryo). -->
-  <OE_Bond_ODC_Rapier_Cryo.description>TODO</OE_Bond_ODC_Rapier_Cryo.description>
+  <OE_Bond_ODC_Rapier_Cryo.description>人格绑定一个谜团 - 顶点(冷冻)。</OE_Bond_ODC_Rapier_Cryo.description>
   <!-- EN: Persona bonding a Enigma - Apex(Cryo). -->
-  <OE_Bond_ODC_Rapier_Cryo.jobString>TODO</OE_Bond_ODC_Rapier_Cryo.jobString>
+  <OE_Bond_ODC_Rapier_Cryo.jobString>正在人格绑定谜团 - 顶点(冷冻)。</OE_Bond_ODC_Rapier_Cryo.jobString>
   
   <!-- EN: Persona bond Enigma - Apex(EMP) -->
-  <OE_Bond_ODC_Rapier_EMP.label>TODO</OE_Bond_ODC_Rapier_EMP.label>
+  <OE_Bond_ODC_Rapier_EMP.label>人格绑定 谜团 - 顶点(电磁脉冲)</OE_Bond_ODC_Rapier_EMP.label>
   <!-- EN: Persona bond an Enigma - Apex(EMP). -->
-  <OE_Bond_ODC_Rapier_EMP.description>TODO</OE_Bond_ODC_Rapier_EMP.description>
+  <OE_Bond_ODC_Rapier_EMP.description>人格绑定一个谜团 - 顶点(电磁脉冲)。</OE_Bond_ODC_Rapier_EMP.description>
   <!-- EN: Persona bonding a Enigma - Apex(EMP). -->
-  <OE_Bond_ODC_Rapier_EMP.jobString>TODO</OE_Bond_ODC_Rapier_EMP.jobString>
+  <OE_Bond_ODC_Rapier_EMP.jobString>正在人格绑定谜团 - 顶点(电磁脉冲)。</OE_Bond_ODC_Rapier_EMP.jobString>
   
   <!-- EN: Persona bond Enigma - Apex(Fire) -->
-  <OE_Bond_ODC_Rapier_Fire.label>TODO</OE_Bond_ODC_Rapier_Fire.label>
+  <OE_Bond_ODC_Rapier_Fire.label>人格绑定 谜团 - 顶点(火焰)</OE_Bond_ODC_Rapier_Fire.label>
   <!-- EN: Persona bond an Enigma - Apex(Fire). -->
-  <OE_Bond_ODC_Rapier_Fire.description>TODO</OE_Bond_ODC_Rapier_Fire.description>
+  <OE_Bond_ODC_Rapier_Fire.description>人格绑定一个谜团 - 顶点(火焰)。</OE_Bond_ODC_Rapier_Fire.description>
   <!-- EN: Persona bonding a Enigma - Apex(Fire). -->
-  <OE_Bond_ODC_Rapier_Fire.jobString>TODO</OE_Bond_ODC_Rapier_Fire.jobString>
+  <OE_Bond_ODC_Rapier_Fire.jobString>正在人格绑定谜团 - 顶点(火焰)。</OE_Bond_ODC_Rapier_Fire.jobString>
   
   <!-- EN: Persona bond Defiant - Apex -->
-  <OE_Bond_ODC_RapierGuard.label>TODO</OE_Bond_ODC_RapierGuard.label>
+  <OE_Bond_ODC_RapierGuard.label>人格绑定 挑战者 - 顶点</OE_Bond_ODC_RapierGuard.label>
   <!-- EN: Persona bond an Defiant - Apex. -->
-  <OE_Bond_ODC_RapierGuard.description>TODO</OE_Bond_ODC_RapierGuard.description>
+  <OE_Bond_ODC_RapierGuard.description>人格绑定一个挑战者 - 顶点。</OE_Bond_ODC_RapierGuard.description>
   <!-- EN: Persona bonding a Defiant - Apex. -->
-  <OE_Bond_ODC_RapierGuard.jobString>TODO</OE_Bond_ODC_RapierGuard.jobString>
+  <OE_Bond_ODC_RapierGuard.jobString>正在人格绑定挑战者 - 顶点。</OE_Bond_ODC_RapierGuard.jobString>
   
   <!-- EN: Persona bond Mercy - Emergent -->
-  <OE_Bond_ODC_Sword.label>TODO</OE_Bond_ODC_Sword.label>
+  <OE_Bond_ODC_Sword.label>人格绑定 仁慈 - 突现</OE_Bond_ODC_Sword.label>
   <!-- EN: Persona bond an Mercy - Emergent. -->
-  <OE_Bond_ODC_Sword.description>TODO</OE_Bond_ODC_Sword.description>
+  <OE_Bond_ODC_Sword.description>人格绑定一个仁慈 - 突现。</OE_Bond_ODC_Sword.description>
   <!-- EN: Persona bonding a Mercy - Emergent. -->
-  <OE_Bond_ODC_Sword.jobString>TODO</OE_Bond_ODC_Sword.jobString>
+  <OE_Bond_ODC_Sword.jobString>正在人格绑定仁慈 - 突现。</OE_Bond_ODC_Sword.jobString>
   
   <!-- EN: Persona bond Basher -->
-  <OE_Bond_ODC_Tonfa.label>TODO</OE_Bond_ODC_Tonfa.label>
+  <OE_Bond_ODC_Tonfa.label>人格绑定 猛击者</OE_Bond_ODC_Tonfa.label>
   <!-- EN: Persona bond an Basher. -->
-  <OE_Bond_ODC_Tonfa.description>TODO</OE_Bond_ODC_Tonfa.description>
+  <OE_Bond_ODC_Tonfa.description>人格绑定一个猛击者。</OE_Bond_ODC_Tonfa.description>
   <!-- EN: Persona bonding a Basher. -->
-  <OE_Bond_ODC_Tonfa.jobString>TODO</OE_Bond_ODC_Tonfa.jobString>
+  <OE_Bond_ODC_Tonfa.jobString>正在人格绑定猛击者。</OE_Bond_ODC_Tonfa.jobString>
   
   <!-- EN: Reset Persona Bequest - Apex -->
-  <OE_Reset_ODC_BigSword_P.label>TODO</OE_Reset_ODC_BigSword_P.label>
+  <OE_Reset_ODC_BigSword_P.label>重置人格遗赠 - 顶点</OE_Reset_ODC_BigSword_P.label>
   <!-- EN: Reset an Persona Bequest - Apex.\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_ODC_BigSword_P.description>TODO</OE_Reset_ODC_BigSword_P.description>
+  <OE_Reset_ODC_BigSword_P.description>重置一个人格遗赠 - 顶点。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_ODC_BigSword_P.description>
   <!-- EN: Resetting a Persona Bequest - Apex. -->
-  <OE_Reset_ODC_BigSword_P.jobString>TODO</OE_Reset_ODC_BigSword_P.jobString>
+  <OE_Reset_ODC_BigSword_P.jobString>正在重置人格遗赠 - 顶点。</OE_Reset_ODC_BigSword_P.jobString>
   
   <!-- EN: Reset Persona Guillotine - Apex -->
-  <OE_Reset_ODC_DualSword_P.label>TODO</OE_Reset_ODC_DualSword_P.label>
+  <OE_Reset_ODC_DualSword_P.label>重置人格断头台 - 顶点</OE_Reset_ODC_DualSword_P.label>
   <!-- EN: Reset an Persona Guillotine - Apex.\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_ODC_DualSword_P.description>TODO</OE_Reset_ODC_DualSword_P.description>
+  <OE_Reset_ODC_DualSword_P.description>重置一个人格断头台 - 顶点。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_ODC_DualSword_P.description>
   <!-- EN: Resetting a Persona Guillotine - Apex. -->
-  <OE_Reset_ODC_DualSword_P.jobString>TODO</OE_Reset_ODC_DualSword_P.jobString>
+  <OE_Reset_ODC_DualSword_P.jobString>正在重置人格断头台 - 顶点。</OE_Reset_ODC_DualSword_P.jobString>
   
   <!-- EN: Reset Persona Scar -->
-  <OE_Reset_ODC_Knife_P.label>TODO</OE_Reset_ODC_Knife_P.label>
+  <OE_Reset_ODC_Knife_P.label>重置人格疤痕</OE_Reset_ODC_Knife_P.label>
   <!-- EN: Reset an Persona Scar.\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_ODC_Knife_P.description>TODO</OE_Reset_ODC_Knife_P.description>
+  <OE_Reset_ODC_Knife_P.description>重置一个人格疤痕。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_ODC_Knife_P.description>
   <!-- EN: Resetting a Persona Scar. -->
-  <OE_Reset_ODC_Knife_P.jobString>TODO</OE_Reset_ODC_Knife_P.jobString>
+  <OE_Reset_ODC_Knife_P.jobString>正在重置人格疤痕。</OE_Reset_ODC_Knife_P.jobString>
   
   <!-- EN: Reset Persona Imperfect - Emergent -->
-  <OE_Reset_ODC_Rapier_P.label>TODO</OE_Reset_ODC_Rapier_P.label>
+  <OE_Reset_ODC_Rapier_P.label>重置人格不完美者 - 突现</OE_Reset_ODC_Rapier_P.label>
   <!-- EN: Reset an Persona Imperfect - Emergent.\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_ODC_Rapier_P.description>TODO</OE_Reset_ODC_Rapier_P.description>
+  <OE_Reset_ODC_Rapier_P.description>重置一个人格不完美者 - 突现。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_ODC_Rapier_P.description>
   <!-- EN: Resetting a Persona Imperfect - Emergent. -->
-  <OE_Reset_ODC_Rapier_P.jobString>TODO</OE_Reset_ODC_Rapier_P.jobString>
+  <OE_Reset_ODC_Rapier_P.jobString>正在重置人格不完美者 - 突现。</OE_Reset_ODC_Rapier_P.jobString>
   
   <!-- EN: Reset Persona Enigma - Apex(Acid) -->
-  <OE_Reset_ODC_Rapier_P_Acid.label>TODO</OE_Reset_ODC_Rapier_P_Acid.label>
+  <OE_Reset_ODC_Rapier_P_Acid.label>重置人格谜团 - 顶点(酸液)</OE_Reset_ODC_Rapier_P_Acid.label>
   <!-- EN: Reset an Persona Enigma - Apex(Acid).\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_ODC_Rapier_P_Acid.description>TODO</OE_Reset_ODC_Rapier_P_Acid.description>
+  <OE_Reset_ODC_Rapier_P_Acid.description>重置一个人格谜团 - 顶点(酸液)。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_ODC_Rapier_P_Acid.description>
   <!-- EN: Resetting a Persona Enigma - Apex(Acid). -->
-  <OE_Reset_ODC_Rapier_P_Acid.jobString>TODO</OE_Reset_ODC_Rapier_P_Acid.jobString>
+  <OE_Reset_ODC_Rapier_P_Acid.jobString>正在重置人格谜团 - 顶点(酸液)。</OE_Reset_ODC_Rapier_P_Acid.jobString>
   
   <!-- EN: Reset Persona Enigma - Apex(Cryo) -->
-  <OE_Reset_ODC_Rapier_P_Cryo.label>TODO</OE_Reset_ODC_Rapier_P_Cryo.label>
+  <OE_Reset_ODC_Rapier_P_Cryo.label>重置人格谜团 - 顶点(冷冻)</OE_Reset_ODC_Rapier_P_Cryo.label>
   <!-- EN: Reset an Persona Enigma - Apex(Cryo).\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_ODC_Rapier_P_Cryo.description>TODO</OE_Reset_ODC_Rapier_P_Cryo.description>
+  <OE_Reset_ODC_Rapier_P_Cryo.description>重置一个人格谜团 - 顶点(冷冻)。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_ODC_Rapier_P_Cryo.description>
   <!-- EN: Resetting a Persona Enigma - Apex(Cryo). -->
-  <OE_Reset_ODC_Rapier_P_Cryo.jobString>TODO</OE_Reset_ODC_Rapier_P_Cryo.jobString>
+  <OE_Reset_ODC_Rapier_P_Cryo.jobString>正在重置人格谜团 - 顶点(冷冻)。</OE_Reset_ODC_Rapier_P_Cryo.jobString>
   
   <!-- EN: Reset Persona Enigma - Apex(EMP) -->
-  <OE_Reset_ODC_Rapier_P_EMP.label>TODO</OE_Reset_ODC_Rapier_P_EMP.label>
+  <OE_Reset_ODC_Rapier_P_EMP.label>重置人格谜团 - 顶点(电磁脉冲)</OE_Reset_ODC_Rapier_P_EMP.label>
   <!-- EN: Reset an Persona Enigma - Apex(EMP).\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_ODC_Rapier_P_EMP.description>TODO</OE_Reset_ODC_Rapier_P_EMP.description>
+  <OE_Reset_ODC_Rapier_P_EMP.description>重置一个人格谜团 - 顶点(电磁脉冲)。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_ODC_Rapier_P_EMP.description>
   <!-- EN: Resetting a Persona Enigma - Apex(EMP). -->
-  <OE_Reset_ODC_Rapier_P_EMP.jobString>TODO</OE_Reset_ODC_Rapier_P_EMP.jobString>
+  <OE_Reset_ODC_Rapier_P_EMP.jobString>正在重置人格谜团 - 顶点(电磁脉冲)。</OE_Reset_ODC_Rapier_P_EMP.jobString>
   
   <!-- EN: Reset Persona Enigma - Apex(Fire) -->
-  <OE_Reset_ODC_Rapier_P_Fire.label>TODO</OE_Reset_ODC_Rapier_P_Fire.label>
+  <OE_Reset_ODC_Rapier_P_Fire.label>重置人格谜团 - 顶点(火焰)</OE_Reset_ODC_Rapier_P_Fire.label>
   <!-- EN: Reset an Persona Enigma - Apex(Fire).\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_ODC_Rapier_P_Fire.description>TODO</OE_Reset_ODC_Rapier_P_Fire.description>
+  <OE_Reset_ODC_Rapier_P_Fire.description>重置一个人格谜团 - 顶点(火焰)。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_ODC_Rapier_P_Fire.description>
   <!-- EN: Resetting a Persona Enigma - Apex(Fire). -->
-  <OE_Reset_ODC_Rapier_P_Fire.jobString>TODO</OE_Reset_ODC_Rapier_P_Fire.jobString>
+  <OE_Reset_ODC_Rapier_P_Fire.jobString>正在重置人格谜团 - 顶点(火焰)。</OE_Reset_ODC_Rapier_P_Fire.jobString>
   
   <!-- EN: Reset Persona Defiant - Apex -->
-  <OE_Reset_ODC_RapierGuard_P.label>TODO</OE_Reset_ODC_RapierGuard_P.label>
+  <OE_Reset_ODC_RapierGuard_P.label>重置人格挑战者 - 顶点</OE_Reset_ODC_RapierGuard_P.label>
   <!-- EN: Reset an Persona Defiant - Apex.\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_ODC_RapierGuard_P.description>TODO</OE_Reset_ODC_RapierGuard_P.description>
+  <OE_Reset_ODC_RapierGuard_P.description>重置一个人格挑战者 - 顶点。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_ODC_RapierGuard_P.description>
   <!-- EN: Resetting a Persona Defiant - Apex. -->
-  <OE_Reset_ODC_RapierGuard_P.jobString>TODO</OE_Reset_ODC_RapierGuard_P.jobString>
+  <OE_Reset_ODC_RapierGuard_P.jobString>正在重置人格挑战者 - 顶点。</OE_Reset_ODC_RapierGuard_P.jobString>
   
   <!-- EN: Reset Persona Mercy - Emergent -->
-  <OE_Reset_ODC_Sword_P.label>TODO</OE_Reset_ODC_Sword_P.label>
+  <OE_Reset_ODC_Sword_P.label>重置人格仁慈 - 突现</OE_Reset_ODC_Sword_P.label>
   <!-- EN: Reset an Persona Mercy - Emergent.\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_ODC_Sword_P.description>TODO</OE_Reset_ODC_Sword_P.description>
+  <OE_Reset_ODC_Sword_P.description>重置一个人格仁慈 - 突现。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_ODC_Sword_P.description>
   <!-- EN: Resetting a Persona Mercy - Emergent. -->
-  <OE_Reset_ODC_Sword_P.jobString>TODO</OE_Reset_ODC_Sword_P.jobString>
+  <OE_Reset_ODC_Sword_P.jobString>正在重置人格仁慈 - 突现。</OE_Reset_ODC_Sword_P.jobString>
   
   <!-- EN: Reset Persona Basher -->
-  <OE_Reset_ODC_Tonfa_P.label>TODO</OE_Reset_ODC_Tonfa_P.label>
+  <OE_Reset_ODC_Tonfa_P.label>重置人格猛击者</OE_Reset_ODC_Tonfa_P.label>
   <!-- EN: Reset an Persona Basher.\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_ODC_Tonfa_P.description>TODO</OE_Reset_ODC_Tonfa_P.description>
+  <OE_Reset_ODC_Tonfa_P.description>重置一个人格猛击者。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_ODC_Tonfa_P.description>
   <!-- EN: Resetting a Persona Basher. -->
-  <OE_Reset_ODC_Tonfa_P.jobString>TODO</OE_Reset_ODC_Tonfa_P.jobString>
+  <OE_Reset_ODC_Tonfa_P.jobString>正在重置人格猛击者。</OE_Reset_ODC_Tonfa_P.jobString>
   
 </LanguageData>

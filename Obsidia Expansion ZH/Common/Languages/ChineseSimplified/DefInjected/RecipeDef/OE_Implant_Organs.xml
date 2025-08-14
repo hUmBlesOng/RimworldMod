@@ -2,73 +2,73 @@
 <LanguageData>
   
   <!-- EN: install heart implant - Healing -->
-  <OE_InstallImplantHeart_Healing.label>TODO</OE_InstallImplantHeart_Healing.label>
+  <OE_InstallImplantHeart_Healing.label>安装心脏植入物 - 治愈</OE_InstallImplantHeart_Healing.label>
   <!-- EN: Install a heart implant - Healing. -->
-  <OE_InstallImplantHeart_Healing.description>TODO</OE_InstallImplantHeart_Healing.description>
+  <OE_InstallImplantHeart_Healing.description>安装一个心脏植入物 - 治愈。</OE_InstallImplantHeart_Healing.description>
   <!-- EN: Installing heart implant - Healing. -->
-  <OE_InstallImplantHeart_Healing.jobString>TODO</OE_InstallImplantHeart_Healing.jobString>
+  <OE_InstallImplantHeart_Healing.jobString>正在安装心脏植入物 - 治愈。</OE_InstallImplantHeart_Healing.jobString>
   
   <!-- EN: install kidney implant - Coagulator -->
-  <OE_InstallImplantKidney_Coagulator.label>TODO</OE_InstallImplantKidney_Coagulator.label>
+  <OE_InstallImplantKidney_Coagulator.label>安装肾脏植入物 - 凝血</OE_InstallImplantKidney_Coagulator.label>
   <!-- EN: Install a kidney implant - Coagulator. -->
-  <OE_InstallImplantKidney_Coagulator.description>TODO</OE_InstallImplantKidney_Coagulator.description>
+  <OE_InstallImplantKidney_Coagulator.description>安装一个肾脏植入物 - 凝血。</OE_InstallImplantKidney_Coagulator.description>
   <!-- EN: Installing kidney implant - Coagulator. -->
-  <OE_InstallImplantKidney_Coagulator.jobString>TODO</OE_InstallImplantKidney_Coagulator.jobString>
+  <OE_InstallImplantKidney_Coagulator.jobString>正在安装肾脏植入物 - 凝血。</OE_InstallImplantKidney_Coagulator.jobString>
   
   <!-- EN: install liver implant - Immune assistant -->
-  <OE_InstallImplantLiver_Antibiotic.label>TODO</OE_InstallImplantLiver_Antibiotic.label>
+  <OE_InstallImplantLiver_Antibiotic.label>安装肝脏植入物 - 免疫助手</OE_InstallImplantLiver_Antibiotic.label>
   <!-- EN: Install a liver implant - Immune assistant. -->
-  <OE_InstallImplantLiver_Antibiotic.description>TODO</OE_InstallImplantLiver_Antibiotic.description>
+  <OE_InstallImplantLiver_Antibiotic.description>安装一个肝脏植入物 - 免疫助手。</OE_InstallImplantLiver_Antibiotic.description>
   <!-- EN: Installing liver implant - Immune assistant. -->
-  <OE_InstallImplantLiver_Antibiotic.jobString>TODO</OE_InstallImplantLiver_Antibiotic.jobString>
+  <OE_InstallImplantLiver_Antibiotic.jobString>正在安装肝脏植入物 - 免疫助手。</OE_InstallImplantLiver_Antibiotic.jobString>
   
   <!-- EN: install lung implant - Antitox-filter -->
-  <OE_InstallImplantLung_Filtration.label>TODO</OE_InstallImplantLung_Filtration.label>
+  <OE_InstallImplantLung_Filtration.label>安装肺部植入物 - 抗毒素过滤</OE_InstallImplantLung_Filtration.label>
   <!-- EN: Install a lung implant - Antitox-filter. -->
-  <OE_InstallImplantLung_Filtration.description>TODO</OE_InstallImplantLung_Filtration.description>
+  <OE_InstallImplantLung_Filtration.description>安装一个肺部植入物 - 抗毒素过滤。</OE_InstallImplantLung_Filtration.description>
   <!-- EN: Installing lung implant - Antitox-filter. -->
-  <OE_InstallImplantLung_Filtration.jobString>TODO</OE_InstallImplantLung_Filtration.jobString>
+  <OE_InstallImplantLung_Filtration.jobString>正在安装肺部植入物 - 抗毒素过滤。</OE_InstallImplantLung_Filtration.jobString>
   
   <!-- EN: install stomach implant - Traveler -->
-  <OE_InstallImplantStomach_Traveler.label>TODO</OE_InstallImplantStomach_Traveler.label>
+  <OE_InstallImplantStomach_Traveler.label>安装胃部植入物 - 旅行者</OE_InstallImplantStomach_Traveler.label>
   <!-- EN: Install a stomach implant - Traveler. -->
-  <OE_InstallImplantStomach_Traveler.description>TODO</OE_InstallImplantStomach_Traveler.description>
+  <OE_InstallImplantStomach_Traveler.description>安装一个胃部植入物 - 旅行者。</OE_InstallImplantStomach_Traveler.description>
   <!-- EN: Installing stomach implant - Traveler. -->
-  <OE_InstallImplantStomach_Traveler.jobString>TODO</OE_InstallImplantStomach_Traveler.jobString>
+  <OE_InstallImplantStomach_Traveler.jobString>正在安装胃部植入物 - 旅行者。</OE_InstallImplantStomach_Traveler.jobString>
   
   <!-- EN: remove heart implant - Healing -->
-  <OE_RemoveImplantHeart_Healing.label>TODO</OE_RemoveImplantHeart_Healing.label>
+  <OE_RemoveImplantHeart_Healing.label>移除心脏植入物 - 治愈</OE_RemoveImplantHeart_Healing.label>
   <!-- EN: Remove a heart implant - Healing. -->
-  <OE_RemoveImplantHeart_Healing.description>TODO</OE_RemoveImplantHeart_Healing.description>
+  <OE_RemoveImplantHeart_Healing.description>移除一个心脏植入物 - 治愈。</OE_RemoveImplantHeart_Healing.description>
   <!-- EN: Removing heart implant - Healing. -->
-  <OE_RemoveImplantHeart_Healing.jobString>TODO</OE_RemoveImplantHeart_Healing.jobString>
+  <OE_RemoveImplantHeart_Healing.jobString>正在移除心脏植入物 - 治愈。</OE_RemoveImplantHeart_Healing.jobString>
   
   <!-- EN: remove kidney implant - Coagulator -->
-  <OE_RemoveImplantKidney_Coagulator.label>TODO</OE_RemoveImplantKidney_Coagulator.label>
+  <OE_RemoveImplantKidney_Coagulator.label>移除肾脏植入物 - 凝血</OE_RemoveImplantKidney_Coagulator.label>
   <!-- EN: Remove a kidney implant - Coagulator. -->
-  <OE_RemoveImplantKidney_Coagulator.description>TODO</OE_RemoveImplantKidney_Coagulator.description>
+  <OE_RemoveImplantKidney_Coagulator.description>移除一个肾脏植入物 - 凝血。</OE_RemoveImplantKidney_Coagulator.description>
   <!-- EN: Removing kidney implant - Coagulator. -->
-  <OE_RemoveImplantKidney_Coagulator.jobString>TODO</OE_RemoveImplantKidney_Coagulator.jobString>
+  <OE_RemoveImplantKidney_Coagulator.jobString>正在移除肾脏植入物 - 凝血。</OE_RemoveImplantKidney_Coagulator.jobString>
   
   <!-- EN: remove liver implant - Immune assistant -->
-  <OE_RemoveImplantLiver_Antibiotic.label>TODO</OE_RemoveImplantLiver_Antibiotic.label>
+  <OE_RemoveImplantLiver_Antibiotic.label>移除肝脏植入物 - 免疫助手</OE_RemoveImplantLiver_Antibiotic.label>
   <!-- EN: Remove a liver implant - Immune assistant. -->
-  <OE_RemoveImplantLiver_Antibiotic.description>TODO</OE_RemoveImplantLiver_Antibiotic.description>
+  <OE_RemoveImplantLiver_Antibiotic.description>移除一个肝脏植入物 - 免疫助手。</OE_RemoveImplantLiver_Antibiotic.description>
   <!-- EN: Removing liver implant - Immune assistant. -->
-  <OE_RemoveImplantLiver_Antibiotic.jobString>TODO</OE_RemoveImplantLiver_Antibiotic.jobString>
+  <OE_RemoveImplantLiver_Antibiotic.jobString>正在移除肝脏植入物 - 免疫助手。</OE_RemoveImplantLiver_Antibiotic.jobString>
   
   <!-- EN: remove lung implant - Antitox-filter -->
-  <OE_RemoveImplantLung_Filtration.label>TODO</OE_RemoveImplantLung_Filtration.label>
+  <OE_RemoveImplantLung_Filtration.label>移除肺部植入物 - 抗毒素过滤</OE_RemoveImplantLung_Filtration.label>
   <!-- EN: Remove a lung implant - Antitox-filter. -->
-  <OE_RemoveImplantLung_Filtration.description>TODO</OE_RemoveImplantLung_Filtration.description>
+  <OE_RemoveImplantLung_Filtration.description>移除一个肺部植入物 - 抗毒素过滤。</OE_RemoveImplantLung_Filtration.description>
   <!-- EN: Removing lung implant - Antitox-filter. -->
-  <OE_RemoveImplantLung_Filtration.jobString>TODO</OE_RemoveImplantLung_Filtration.jobString>
+  <OE_RemoveImplantLung_Filtration.jobString>正在移除肺部植入物 - 抗毒素过滤。</OE_RemoveImplantLung_Filtration.jobString>
   
   <!-- EN: remove stomach implant - Traveler -->
-  <OE_RemoveImplantStomach_Traveler.label>TODO</OE_RemoveImplantStomach_Traveler.label>
+  <OE_RemoveImplantStomach_Traveler.label>移除胃部植入物 - 旅行者</OE_RemoveImplantStomach_Traveler.label>
   <!-- EN: Remove a stomach implant - Traveler. -->
-  <OE_RemoveImplantStomach_Traveler.description>TODO</OE_RemoveImplantStomach_Traveler.description>
+  <OE_RemoveImplantStomach_Traveler.description>移除一个胃部植入物 - 旅行者。</OE_RemoveImplantStomach_Traveler.description>
   <!-- EN: Removing stomach implant - Traveler. -->
-  <OE_RemoveImplantStomach_Traveler.jobString>TODO</OE_RemoveImplantStomach_Traveler.jobString>
+  <OE_RemoveImplantStomach_Traveler.jobString>正在移除胃部植入物 - 旅行者。</OE_RemoveImplantStomach_Traveler.jobString>
   
 </LanguageData>

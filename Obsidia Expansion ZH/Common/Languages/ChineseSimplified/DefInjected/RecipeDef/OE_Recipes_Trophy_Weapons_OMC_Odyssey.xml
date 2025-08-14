@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: Paragon bond Prototype sX-01a -->
-  <OE_Bond_OMC_Trophy_Pistol.label>TODO</OE_Bond_OMC_Trophy_Pistol.label>
+  <OE_Bond_OMC_Trophy_Pistol.label>完美绑定 原型sX-01a</OE_Bond_OMC_Trophy_Pistol.label>
   <!-- EN: Paragon bond a Prototype sX-01a. -->
-  <OE_Bond_OMC_Trophy_Pistol.description>TODO</OE_Bond_OMC_Trophy_Pistol.description>
+  <OE_Bond_OMC_Trophy_Pistol.description>完美绑定一个原型sX-01a。</OE_Bond_OMC_Trophy_Pistol.description>
   <!-- EN: Paragon bonding a Prototype sX-01a. -->
-  <OE_Bond_OMC_Trophy_Pistol.jobString>TODO</OE_Bond_OMC_Trophy_Pistol.jobString>
+  <OE_Bond_OMC_Trophy_Pistol.jobString>正在完美绑定原型sX-01a。</OE_Bond_OMC_Trophy_Pistol.jobString>
   
   <!-- EN: Reset Inlaid Prototype sX-01a -->
-  <OE_Reset_OMC_Trophy_Pistol_I.label>TODO</OE_Reset_OMC_Trophy_Pistol_I.label>
+  <OE_Reset_OMC_Trophy_Pistol_I.label>重置镶嵌原型sX-01a</OE_Reset_OMC_Trophy_Pistol_I.label>
   <!-- EN: Reset an Inlaid Prototype sX-01a.\n\nWarning! Item Quality and Paragon traits will be changed. -->
-  <OE_Reset_OMC_Trophy_Pistol_I.description>TODO</OE_Reset_OMC_Trophy_Pistol_I.description>
+  <OE_Reset_OMC_Trophy_Pistol_I.description>重置一个镶嵌原型sX-01a。\n\n警告！物品品质和完美特性将会改变。</OE_Reset_OMC_Trophy_Pistol_I.description>
   <!-- EN: Resetting an Inlaid Prototype sX-01a. -->
-  <OE_Reset_OMC_Trophy_Pistol_I.jobString>TODO</OE_Reset_OMC_Trophy_Pistol_I.jobString>
+  <OE_Reset_OMC_Trophy_Pistol_I.jobString>正在重置镶嵌原型sX-01a。</OE_Reset_OMC_Trophy_Pistol_I.jobString>
   
   <!-- EN: Reset Paragon Prototype sX-01a -->
-  <OE_Reset_OMC_Trophy_Pistol_P.label>TODO</OE_Reset_OMC_Trophy_Pistol_P.label>
+  <OE_Reset_OMC_Trophy_Pistol_P.label>重置完美原型sX-01a</OE_Reset_OMC_Trophy_Pistol_P.label>
   <!-- EN: Reset a Paragon Prototype sX-01a.\n\nWarning! Item Quality and Paragon traits will be changed. -->
-  <OE_Reset_OMC_Trophy_Pistol_P.description>TODO</OE_Reset_OMC_Trophy_Pistol_P.description>
+  <OE_Reset_OMC_Trophy_Pistol_P.description>重置一个完美原型sX-01a。\n\n警告！物品品质和完美特性将会改变。</OE_Reset_OMC_Trophy_Pistol_P.description>
   <!-- EN: Resetting a Paragon Prototype sX-01a. -->
-  <OE_Reset_OMC_Trophy_Pistol_P.jobString>TODO</OE_Reset_OMC_Trophy_Pistol_P.jobString>
+  <OE_Reset_OMC_Trophy_Pistol_P.jobString>正在重置完美原型sX-01a。</OE_Reset_OMC_Trophy_Pistol_P.jobString>
   
 </LanguageData>

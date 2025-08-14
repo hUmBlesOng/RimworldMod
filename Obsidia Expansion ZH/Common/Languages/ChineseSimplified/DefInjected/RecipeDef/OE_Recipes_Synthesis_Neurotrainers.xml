@@ -1,88 +1,88 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: synthesis Skilltrainer - Animals -->
-  <OE_Synthesis_Neurotrainer_Animals.label>TODO</OE_Synthesis_Neurotrainer_Animals.label>
+  <OE_Synthesis_Neurotrainer_Animals.label>合成技能训练器 - 动物</OE_Synthesis_Neurotrainer_Animals.label>
   <!-- EN: Synthesis Skilltrainer - Animals from Neutroamine, Cosmol and EGO seed, sealed within a Platinum casing. -->
-  <OE_Synthesis_Neurotrainer_Animals.description>TODO</OE_Synthesis_Neurotrainer_Animals.description>
+  <OE_Synthesis_Neurotrainer_Animals.description>用中性胺、宇宙素和EGO种子合成技能训练器 - 动物，封装在铂金外壳中。</OE_Synthesis_Neurotrainer_Animals.description>
   <!-- EN: Synthesis skilltrainer. -->
-  <OE_Synthesis_Neurotrainer_Animals.jobString>TODO</OE_Synthesis_Neurotrainer_Animals.jobString>
+  <OE_Synthesis_Neurotrainer_Animals.jobString>正在合成技能训练器。</OE_Synthesis_Neurotrainer_Animals.jobString>
   
   <!-- EN: synthesis Skilltrainer - Artistic -->
-  <OE_Synthesis_Neurotrainer_Artistic.label>TODO</OE_Synthesis_Neurotrainer_Artistic.label>
+  <OE_Synthesis_Neurotrainer_Artistic.label>合成技能训练器 - 艺术</OE_Synthesis_Neurotrainer_Artistic.label>
   <!-- EN: Synthesis Skilltrainer - Artistic from Neutroamine, Cosmol and EGO seed, sealed within a Platinum casing. -->
-  <OE_Synthesis_Neurotrainer_Artistic.description>TODO</OE_Synthesis_Neurotrainer_Artistic.description>
+  <OE_Synthesis_Neurotrainer_Artistic.description>用中性胺、宇宙素和EGO种子合成技能训练器 - 艺术，封装在铂金外壳中。</OE_Synthesis_Neurotrainer_Artistic.description>
   <!-- EN: Synthesis neutroamine. -->
-  <OE_Synthesis_Neurotrainer_Artistic.jobString>TODO</OE_Synthesis_Neurotrainer_Artistic.jobString>
+  <OE_Synthesis_Neurotrainer_Artistic.jobString>正在合成中性胺。</OE_Synthesis_Neurotrainer_Artistic.jobString>
   
   <!-- EN: synthesis Skilltrainer - Construction -->
-  <OE_Synthesis_Neurotrainer_Construction.label>TODO</OE_Synthesis_Neurotrainer_Construction.label>
+  <OE_Synthesis_Neurotrainer_Construction.label>合成技能训练器 - 建筑</OE_Synthesis_Neurotrainer_Construction.label>
   <!-- EN: Synthesis Skilltrainer - Construction from Neutroamine, Cosmol and EGO seed, sealed within a Platinum casing. -->
-  <OE_Synthesis_Neurotrainer_Construction.description>TODO</OE_Synthesis_Neurotrainer_Construction.description>
+  <OE_Synthesis_Neurotrainer_Construction.description>用中性胺、宇宙素和EGO种子合成技能训练器 - 建筑，封装在铂金外壳中。</OE_Synthesis_Neurotrainer_Construction.description>
   <!-- EN: Synthesis neutroamine. -->
-  <OE_Synthesis_Neurotrainer_Construction.jobString>TODO</OE_Synthesis_Neurotrainer_Construction.jobString>
+  <OE_Synthesis_Neurotrainer_Construction.jobString>正在合成中性胺。</OE_Synthesis_Neurotrainer_Construction.jobString>
   
   <!-- EN: synthesis Skilltrainer - Cooking -->
-  <OE_Synthesis_Neurotrainer_Cooking.label>TODO</OE_Synthesis_Neurotrainer_Cooking.label>
+  <OE_Synthesis_Neurotrainer_Cooking.label>合成技能训练器 - 烹饪</OE_Synthesis_Neurotrainer_Cooking.label>
   <!-- EN: Synthesis Skilltrainer - Cooking from Neutroamine, Cosmol and EGO seed, sealed within a Platinum casing. -->
-  <OE_Synthesis_Neurotrainer_Cooking.description>TODO</OE_Synthesis_Neurotrainer_Cooking.description>
+  <OE_Synthesis_Neurotrainer_Cooking.description>用中性胺、宇宙素和EGO种子合成技能训练器 - 烹饪，封装在铂金外壳中。</OE_Synthesis_Neurotrainer_Cooking.description>
   <!-- EN: Synthesis neutroamine. -->
-  <OE_Synthesis_Neurotrainer_Cooking.jobString>TODO</OE_Synthesis_Neurotrainer_Cooking.jobString>
+  <OE_Synthesis_Neurotrainer_Cooking.jobString>正在合成中性胺。</OE_Synthesis_Neurotrainer_Cooking.jobString>
   
   <!-- EN: synthesis Skilltrainer - Crafting -->
-  <OE_Synthesis_Neurotrainer_Crafting.label>TODO</OE_Synthesis_Neurotrainer_Crafting.label>
+  <OE_Synthesis_Neurotrainer_Crafting.label>合成技能训练器 - 工艺</OE_Synthesis_Neurotrainer_Crafting.label>
   <!-- EN: Synthesis Skilltrainer - Crafting from Neutroamine, Cosmol and EGO seed, sealed within a Platinum casing. -->
-  <OE_Synthesis_Neurotrainer_Crafting.description>TODO</OE_Synthesis_Neurotrainer_Crafting.description>
+  <OE_Synthesis_Neurotrainer_Crafting.description>用中性胺、宇宙素和EGO种子合成技能训练器 - 工艺，封装在铂金外壳中。</OE_Synthesis_Neurotrainer_Crafting.description>
   <!-- EN: Synthesis neutroamine. -->
-  <OE_Synthesis_Neurotrainer_Crafting.jobString>TODO</OE_Synthesis_Neurotrainer_Crafting.jobString>
+  <OE_Synthesis_Neurotrainer_Crafting.jobString>正在合成中性胺。</OE_Synthesis_Neurotrainer_Crafting.jobString>
   
   <!-- EN: synthesis Skilltrainer - Intellectual -->
-  <OE_Synthesis_Neurotrainer_Intellectual.label>TODO</OE_Synthesis_Neurotrainer_Intellectual.label>
+  <OE_Synthesis_Neurotrainer_Intellectual.label>合成技能训练器 - 智力</OE_Synthesis_Neurotrainer_Intellectual.label>
   <!-- EN: Synthesis Skilltrainer - Intellectual from Neutroamine, Cosmol and EGO seed, sealed within a Platinum casing. -->
-  <OE_Synthesis_Neurotrainer_Intellectual.description>TODO</OE_Synthesis_Neurotrainer_Intellectual.description>
+  <OE_Synthesis_Neurotrainer_Intellectual.description>用中性胺、宇宙素和EGO种子合成技能训练器 - 智力，封装在铂金外壳中。</OE_Synthesis_Neurotrainer_Intellectual.description>
   <!-- EN: Synthesis neutroamine. -->
-  <OE_Synthesis_Neurotrainer_Intellectual.jobString>TODO</OE_Synthesis_Neurotrainer_Intellectual.jobString>
+  <OE_Synthesis_Neurotrainer_Intellectual.jobString>正在合成中性胺。</OE_Synthesis_Neurotrainer_Intellectual.jobString>
   
   <!-- EN: synthesis Skilltrainer - Medicine -->
-  <OE_Synthesis_Neurotrainer_Medicine.label>TODO</OE_Synthesis_Neurotrainer_Medicine.label>
+  <OE_Synthesis_Neurotrainer_Medicine.label>合成技能训练器 - 医疗</OE_Synthesis_Neurotrainer_Medicine.label>
   <!-- EN: Synthesis Skilltrainer - Medicine from Neutroamine, Cosmol and EGO seed, sealed within a Platinum casing. -->
-  <OE_Synthesis_Neurotrainer_Medicine.description>TODO</OE_Synthesis_Neurotrainer_Medicine.description>
+  <OE_Synthesis_Neurotrainer_Medicine.description>用中性胺、宇宙素和EGO种子合成技能训练器 - 医疗，封装在铂金外壳中。</OE_Synthesis_Neurotrainer_Medicine.description>
   <!-- EN: Synthesis neutroamine. -->
-  <OE_Synthesis_Neurotrainer_Medicine.jobString>TODO</OE_Synthesis_Neurotrainer_Medicine.jobString>
+  <OE_Synthesis_Neurotrainer_Medicine.jobString>正在合成中性胺。</OE_Synthesis_Neurotrainer_Medicine.jobString>
   
   <!-- EN: synthesis Skilltrainer - Melee -->
-  <OE_Synthesis_Neurotrainer_Melee.label>TODO</OE_Synthesis_Neurotrainer_Melee.label>
+  <OE_Synthesis_Neurotrainer_Melee.label>合成技能训练器 - 近战</OE_Synthesis_Neurotrainer_Melee.label>
   <!-- EN: Synthesis Skilltrainer - Melee from Neutroamine, Cosmol and EGO seed, sealed within a Platinum casing. -->
-  <OE_Synthesis_Neurotrainer_Melee.description>TODO</OE_Synthesis_Neurotrainer_Melee.description>
+  <OE_Synthesis_Neurotrainer_Melee.description>用中性胺、宇宙素和EGO种子合成技能训练器 - 近战，封装在铂金外壳中。</OE_Synthesis_Neurotrainer_Melee.description>
   <!-- EN: Synthesis neutroamine. -->
-  <OE_Synthesis_Neurotrainer_Melee.jobString>TODO</OE_Synthesis_Neurotrainer_Melee.jobString>
+  <OE_Synthesis_Neurotrainer_Melee.jobString>正在合成中性胺。</OE_Synthesis_Neurotrainer_Melee.jobString>
   
   <!-- EN: synthesis Skilltrainer - Mining -->
-  <OE_Synthesis_Neurotrainer_Mining.label>TODO</OE_Synthesis_Neurotrainer_Mining.label>
+  <OE_Synthesis_Neurotrainer_Mining.label>合成技能训练器 - 挖矿</OE_Synthesis_Neurotrainer_Mining.label>
   <!-- EN: Synthesis Skilltrainer - Mining from Neutroamine, Cosmol and EGO seed, sealed within a Platinum casing. -->
-  <OE_Synthesis_Neurotrainer_Mining.description>TODO</OE_Synthesis_Neurotrainer_Mining.description>
+  <OE_Synthesis_Neurotrainer_Mining.description>用中性胺、宇宙素和EGO种子合成技能训练器 - 挖矿，封装在铂金外壳中。</OE_Synthesis_Neurotrainer_Mining.description>
   <!-- EN: Synthesis neutroamine. -->
-  <OE_Synthesis_Neurotrainer_Mining.jobString>TODO</OE_Synthesis_Neurotrainer_Mining.jobString>
+  <OE_Synthesis_Neurotrainer_Mining.jobString>正在合成中性胺。</OE_Synthesis_Neurotrainer_Mining.jobString>
   
   <!-- EN: synthesis Skilltrainer - Plants -->
-  <OE_Synthesis_Neurotrainer_Plants.label>TODO</OE_Synthesis_Neurotrainer_Plants.label>
+  <OE_Synthesis_Neurotrainer_Plants.label>合成技能训练器 - 种植</OE_Synthesis_Neurotrainer_Plants.label>
   <!-- EN: Synthesis Skilltrainer - Plants from Neutroamine, Cosmol and EGO seed, sealed within a Platinum casing. -->
-  <OE_Synthesis_Neurotrainer_Plants.description>TODO</OE_Synthesis_Neurotrainer_Plants.description>
+  <OE_Synthesis_Neurotrainer_Plants.description>用中性胺、宇宙素和EGO种子合成技能训练器 - 种植，封装在铂金外壳中。</OE_Synthesis_Neurotrainer_Plants.description>
   <!-- EN: Synthesis neutroamine. -->
-  <OE_Synthesis_Neurotrainer_Plants.jobString>TODO</OE_Synthesis_Neurotrainer_Plants.jobString>
+  <OE_Synthesis_Neurotrainer_Plants.jobString>正在合成中性胺。</OE_Synthesis_Neurotrainer_Plants.jobString>
   
   <!-- EN: synthesis Skilltrainer - Shooting -->
-  <OE_Synthesis_Neurotrainer_Shooting.label>TODO</OE_Synthesis_Neurotrainer_Shooting.label>
+  <OE_Synthesis_Neurotrainer_Shooting.label>合成技能训练器 - 射击</OE_Synthesis_Neurotrainer_Shooting.label>
   <!-- EN: Synthesis Skilltrainer - Shooting from Neutroamine, Cosmol and EGO seed, sealed within a Platinum casing. -->
-  <OE_Synthesis_Neurotrainer_Shooting.description>TODO</OE_Synthesis_Neurotrainer_Shooting.description>
+  <OE_Synthesis_Neurotrainer_Shooting.description>用中性胺、宇宙素和EGO种子合成技能训练器 - 射击，封装在铂金外壳中。</OE_Synthesis_Neurotrainer_Shooting.description>
   <!-- EN: Synthesis neutroamine. -->
-  <OE_Synthesis_Neurotrainer_Shooting.jobString>TODO</OE_Synthesis_Neurotrainer_Shooting.jobString>
+  <OE_Synthesis_Neurotrainer_Shooting.jobString>正在合成中性胺。</OE_Synthesis_Neurotrainer_Shooting.jobString>
   
   <!-- EN: synthesis Skilltrainer - Social -->
-  <OE_Synthesis_Neurotrainer_Social.label>TODO</OE_Synthesis_Neurotrainer_Social.label>
+  <OE_Synthesis_Neurotrainer_Social.label>合成技能训练器 - 社交</OE_Synthesis_Neurotrainer_Social.label>
   <!-- EN: Synthesis Skilltrainer - Social from Neutroamine, Cosmol and EGO seed, sealed within a Platinum casing. -->
-  <OE_Synthesis_Neurotrainer_Social.description>TODO</OE_Synthesis_Neurotrainer_Social.description>
+  <OE_Synthesis_Neurotrainer_Social.description>用中性胺、宇宙素和EGO种子合成技能训练器 - 社交，封装在铂金外壳中。</OE_Synthesis_Neurotrainer_Social.description>
   <!-- EN: Synthesis neutroamine. -->
-  <OE_Synthesis_Neurotrainer_Social.jobString>TODO</OE_Synthesis_Neurotrainer_Social.jobString>
+  <OE_Synthesis_Neurotrainer_Social.jobString>正在合成中性胺。</OE_Synthesis_Neurotrainer_Social.jobString>
   
 </LanguageData>

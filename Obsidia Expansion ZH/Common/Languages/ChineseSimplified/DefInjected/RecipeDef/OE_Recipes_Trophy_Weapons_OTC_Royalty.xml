@@ -2,87 +2,87 @@
 <LanguageData>
   
   <!-- EN: Persona bond Acid Rift -->
-  <OE_Bond_OTC_Trophy_Sword_Acid.label>TODO</OE_Bond_OTC_Trophy_Sword_Acid.label>
+  <OE_Bond_OTC_Trophy_Sword_Acid.label>人格绑定 酸液裂隙</OE_Bond_OTC_Trophy_Sword_Acid.label>
   <!-- EN: Persona bond an Acid Rift. -->
-  <OE_Bond_OTC_Trophy_Sword_Acid.description>TODO</OE_Bond_OTC_Trophy_Sword_Acid.description>
+  <OE_Bond_OTC_Trophy_Sword_Acid.description>人格绑定一个酸液裂隙。</OE_Bond_OTC_Trophy_Sword_Acid.description>
   <!-- EN: Persona bonding an Acid Rift. -->
-  <OE_Bond_OTC_Trophy_Sword_Acid.jobString>TODO</OE_Bond_OTC_Trophy_Sword_Acid.jobString>
+  <OE_Bond_OTC_Trophy_Sword_Acid.jobString>正在人格绑定酸液裂隙。</OE_Bond_OTC_Trophy_Sword_Acid.jobString>
   
   <!-- EN: Persona bond Cryo Rift -->
-  <OE_Bond_OTC_Trophy_Sword_Cryo.label>TODO</OE_Bond_OTC_Trophy_Sword_Cryo.label>
+  <OE_Bond_OTC_Trophy_Sword_Cryo.label>人格绑定 冷冻裂隙</OE_Bond_OTC_Trophy_Sword_Cryo.label>
   <!-- EN: Persona bond a Cryo Rift. -->
-  <OE_Bond_OTC_Trophy_Sword_Cryo.description>TODO</OE_Bond_OTC_Trophy_Sword_Cryo.description>
+  <OE_Bond_OTC_Trophy_Sword_Cryo.description>人格绑定一个冷冻裂隙。</OE_Bond_OTC_Trophy_Sword_Cryo.description>
   <!-- EN: Persona bonding a Cryo Rift. -->
-  <OE_Bond_OTC_Trophy_Sword_Cryo.jobString>TODO</OE_Bond_OTC_Trophy_Sword_Cryo.jobString>
+  <OE_Bond_OTC_Trophy_Sword_Cryo.jobString>正在人格绑定冷冻裂隙。</OE_Bond_OTC_Trophy_Sword_Cryo.jobString>
   
   <!-- EN: Persona bond EMP Rift -->
-  <OE_Bond_OTC_Trophy_Sword_EMP.label>TODO</OE_Bond_OTC_Trophy_Sword_EMP.label>
+  <OE_Bond_OTC_Trophy_Sword_EMP.label>人格绑定 电磁脉冲裂隙</OE_Bond_OTC_Trophy_Sword_EMP.label>
   <!-- EN: Persona bond an EMP Rift. -->
-  <OE_Bond_OTC_Trophy_Sword_EMP.description>TODO</OE_Bond_OTC_Trophy_Sword_EMP.description>
+  <OE_Bond_OTC_Trophy_Sword_EMP.description>人格绑定一个电磁脉冲裂隙。</OE_Bond_OTC_Trophy_Sword_EMP.description>
   <!-- EN: Persona bonding an EMP Rift. -->
-  <OE_Bond_OTC_Trophy_Sword_EMP.jobString>TODO</OE_Bond_OTC_Trophy_Sword_EMP.jobString>
+  <OE_Bond_OTC_Trophy_Sword_EMP.jobString>正在人格绑定电磁脉冲裂隙。</OE_Bond_OTC_Trophy_Sword_EMP.jobString>
   
   <!-- EN: Persona bond Fire Rift -->
-  <OE_Bond_OTC_Trophy_Sword_Fire.label>TODO</OE_Bond_OTC_Trophy_Sword_Fire.label>
+  <OE_Bond_OTC_Trophy_Sword_Fire.label>人格绑定 火焰裂隙</OE_Bond_OTC_Trophy_Sword_Fire.label>
   <!-- EN: Persona bond a Fire Rift. -->
-  <OE_Bond_OTC_Trophy_Sword_Fire.description>TODO</OE_Bond_OTC_Trophy_Sword_Fire.description>
+  <OE_Bond_OTC_Trophy_Sword_Fire.description>人格绑定一个火焰裂隙。</OE_Bond_OTC_Trophy_Sword_Fire.description>
   <!-- EN: Persona bonding a Fire Rift. -->
-  <OE_Bond_OTC_Trophy_Sword_Fire.jobString>TODO</OE_Bond_OTC_Trophy_Sword_Fire.jobString>
+  <OE_Bond_OTC_Trophy_Sword_Fire.jobString>正在人格绑定火焰裂隙。</OE_Bond_OTC_Trophy_Sword_Fire.jobString>
   
   <!-- EN: Reset Inlaid Acid Rift -->
-  <OE_Reset_OTC_Trophy_Sword_I_Acid.label>TODO</OE_Reset_OTC_Trophy_Sword_I_Acid.label>
+  <OE_Reset_OTC_Trophy_Sword_I_Acid.label>重置镶嵌酸液裂隙</OE_Reset_OTC_Trophy_Sword_I_Acid.label>
   <!-- EN: Reset an Inlaid Acid Rift.\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OTC_Trophy_Sword_I_Acid.description>TODO</OE_Reset_OTC_Trophy_Sword_I_Acid.description>
+  <OE_Reset_OTC_Trophy_Sword_I_Acid.description>重置一个镶嵌酸液裂隙。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OTC_Trophy_Sword_I_Acid.description>
   <!-- EN: Resetting an Inlaid Acid Rift. -->
-  <OE_Reset_OTC_Trophy_Sword_I_Acid.jobString>TODO</OE_Reset_OTC_Trophy_Sword_I_Acid.jobString>
+  <OE_Reset_OTC_Trophy_Sword_I_Acid.jobString>正在重置镶嵌酸液裂隙。</OE_Reset_OTC_Trophy_Sword_I_Acid.jobString>
   
   <!-- EN: Reset Inlaid Cryo Rift -->
-  <OE_Reset_OTC_Trophy_Sword_I_Cryo.label>TODO</OE_Reset_OTC_Trophy_Sword_I_Cryo.label>
+  <OE_Reset_OTC_Trophy_Sword_I_Cryo.label>重置镶嵌冷冻裂隙</OE_Reset_OTC_Trophy_Sword_I_Cryo.label>
   <!-- EN: Reset an Inlaid Cryo Rift.\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OTC_Trophy_Sword_I_Cryo.description>TODO</OE_Reset_OTC_Trophy_Sword_I_Cryo.description>
+  <OE_Reset_OTC_Trophy_Sword_I_Cryo.description>重置一个镶嵌冷冻裂隙。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OTC_Trophy_Sword_I_Cryo.description>
   <!-- EN: Resetting an Inlaid Cryo Rift. -->
-  <OE_Reset_OTC_Trophy_Sword_I_Cryo.jobString>TODO</OE_Reset_OTC_Trophy_Sword_I_Cryo.jobString>
+  <OE_Reset_OTC_Trophy_Sword_I_Cryo.jobString>正在重置镶嵌冷冻裂隙。</OE_Reset_OTC_Trophy_Sword_I_Cryo.jobString>
   
   <!-- EN: Reset Inlaid EMP Rift -->
-  <OE_Reset_OTC_Trophy_Sword_I_EMP.label>TODO</OE_Reset_OTC_Trophy_Sword_I_EMP.label>
+  <OE_Reset_OTC_Trophy_Sword_I_EMP.label>重置镶嵌电磁脉冲裂隙</OE_Reset_OTC_Trophy_Sword_I_EMP.label>
   <!-- EN: Reset an Inlaid EMP Rift.\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OTC_Trophy_Sword_I_EMP.description>TODO</OE_Reset_OTC_Trophy_Sword_I_EMP.description>
+  <OE_Reset_OTC_Trophy_Sword_I_EMP.description>重置一个镶嵌电磁脉冲裂隙。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OTC_Trophy_Sword_I_EMP.description>
   <!-- EN: Resetting an Inlaid EMP Rift. -->
-  <OE_Reset_OTC_Trophy_Sword_I_EMP.jobString>TODO</OE_Reset_OTC_Trophy_Sword_I_EMP.jobString>
+  <OE_Reset_OTC_Trophy_Sword_I_EMP.jobString>正在重置镶嵌电磁脉冲裂隙。</OE_Reset_OTC_Trophy_Sword_I_EMP.jobString>
   
   <!-- EN: Reset Inlaid Fire Rift -->
-  <OE_Reset_OTC_Trophy_Sword_I_Fire.label>TODO</OE_Reset_OTC_Trophy_Sword_I_Fire.label>
+  <OE_Reset_OTC_Trophy_Sword_I_Fire.label>重置镶嵌火焰裂隙</OE_Reset_OTC_Trophy_Sword_I_Fire.label>
   <!-- EN: Reset an Inlaid Fire Rift.\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OTC_Trophy_Sword_I_Fire.description>TODO</OE_Reset_OTC_Trophy_Sword_I_Fire.description>
+  <OE_Reset_OTC_Trophy_Sword_I_Fire.description>重置一个镶嵌火焰裂隙。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OTC_Trophy_Sword_I_Fire.description>
   <!-- EN: Resetting an Inlaid Fire Rift. -->
-  <OE_Reset_OTC_Trophy_Sword_I_Fire.jobString>TODO</OE_Reset_OTC_Trophy_Sword_I_Fire.jobString>
+  <OE_Reset_OTC_Trophy_Sword_I_Fire.jobString>正在重置镶嵌火焰裂隙。</OE_Reset_OTC_Trophy_Sword_I_Fire.jobString>
   
   <!-- EN: Reset Persona Acid Rift -->
-  <OE_Reset_OTC_Trophy_Sword_P_Acid.label>TODO</OE_Reset_OTC_Trophy_Sword_P_Acid.label>
+  <OE_Reset_OTC_Trophy_Sword_P_Acid.label>重置人格酸液裂隙</OE_Reset_OTC_Trophy_Sword_P_Acid.label>
   <!-- EN: Reset a Persona Acid Rift.\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OTC_Trophy_Sword_P_Acid.description>TODO</OE_Reset_OTC_Trophy_Sword_P_Acid.description>
+  <OE_Reset_OTC_Trophy_Sword_P_Acid.description>重置一个人格酸液裂隙。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OTC_Trophy_Sword_P_Acid.description>
   <!-- EN: Resetting a Persona Acid Rift. -->
-  <OE_Reset_OTC_Trophy_Sword_P_Acid.jobString>TODO</OE_Reset_OTC_Trophy_Sword_P_Acid.jobString>
+  <OE_Reset_OTC_Trophy_Sword_P_Acid.jobString>正在重置人格酸液裂隙。</OE_Reset_OTC_Trophy_Sword_P_Acid.jobString>
   
   <!-- EN: Reset Persona Cryo Rift -->
-  <OE_Reset_OTC_Trophy_Sword_P_Cryo.label>TODO</OE_Reset_OTC_Trophy_Sword_P_Cryo.label>
+  <OE_Reset_OTC_Trophy_Sword_P_Cryo.label>重置人格冷冻裂隙</OE_Reset_OTC_Trophy_Sword_P_Cryo.label>
   <!-- EN: Reset a Persona Cryo Rift.\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OTC_Trophy_Sword_P_Cryo.description>TODO</OE_Reset_OTC_Trophy_Sword_P_Cryo.description>
+  <OE_Reset_OTC_Trophy_Sword_P_Cryo.description>重置一个人格冷冻裂隙。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OTC_Trophy_Sword_P_Cryo.description>
   <!-- EN: Resetting a Persona Cryo Rift. -->
-  <OE_Reset_OTC_Trophy_Sword_P_Cryo.jobString>TODO</OE_Reset_OTC_Trophy_Sword_P_Cryo.jobString>
+  <OE_Reset_OTC_Trophy_Sword_P_Cryo.jobString>正在重置人格冷冻裂隙。</OE_Reset_OTC_Trophy_Sword_P_Cryo.jobString>
   
   <!-- EN: Reset Persona EMP Rift -->
-  <OE_Reset_OTC_Trophy_Sword_P_EMP.label>TODO</OE_Reset_OTC_Trophy_Sword_P_EMP.label>
+  <OE_Reset_OTC_Trophy_Sword_P_EMP.label>重置人格电磁脉冲裂隙</OE_Reset_OTC_Trophy_Sword_P_EMP.label>
   <!-- EN: Reset a Persona EMP Rift.\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OTC_Trophy_Sword_P_EMP.description>TODO</OE_Reset_OTC_Trophy_Sword_P_EMP.description>
+  <OE_Reset_OTC_Trophy_Sword_P_EMP.description>重置一个人格电磁脉冲裂隙。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OTC_Trophy_Sword_P_EMP.description>
   <!-- EN: Resetting a Persona EMP Rift. -->
-  <OE_Reset_OTC_Trophy_Sword_P_EMP.jobString>TODO</OE_Reset_OTC_Trophy_Sword_P_EMP.jobString>
+  <OE_Reset_OTC_Trophy_Sword_P_EMP.jobString>正在重置人格电磁脉冲裂隙。</OE_Reset_OTC_Trophy_Sword_P_EMP.jobString>
   
   <!-- EN: Reset Persona Fire Rift -->
-  <OE_Reset_OTC_Trophy_Sword_P_Fire.label>TODO</OE_Reset_OTC_Trophy_Sword_P_Fire.label>
+  <OE_Reset_OTC_Trophy_Sword_P_Fire.label>重置人格火焰裂隙</OE_Reset_OTC_Trophy_Sword_P_Fire.label>
   <!-- EN: Reset a Persona Fire Rift.\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OTC_Trophy_Sword_P_Fire.description>TODO</OE_Reset_OTC_Trophy_Sword_P_Fire.description>
+  <OE_Reset_OTC_Trophy_Sword_P_Fire.description>重置一个人格火焰裂隙。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OTC_Trophy_Sword_P_Fire.description>
   <!-- EN: Resetting a Persona Fire Rift. -->
-  <OE_Reset_OTC_Trophy_Sword_P_Fire.jobString>TODO</OE_Reset_OTC_Trophy_Sword_P_Fire.jobString>
+  <OE_Reset_OTC_Trophy_Sword_P_Fire.jobString>正在重置人格火焰裂隙。</OE_Reset_OTC_Trophy_Sword_P_Fire.jobString>
   
 </LanguageData>

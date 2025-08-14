@@ -2,38 +2,38 @@
 <LanguageData>
   
   <!-- EN: Reset Nanoblade -->
-  <OE_Reset_OMG_Axe.label>TODO</OE_Reset_OMG_Axe.label>
+  <OE_Reset_OMG_Axe.label>重置 纳米刀刃</OE_Reset_OMG_Axe.label>
   <!-- EN: Reset a Nanoblade.\n\nWarning! Persona traits will be changed. -->
-  <OE_Reset_OMG_Axe.description>TODO</OE_Reset_OMG_Axe.description>
+  <OE_Reset_OMG_Axe.description>重置一个纳米刀刃。\n\n警告！人格特性将会改变。</OE_Reset_OMG_Axe.description>
   <!-- EN: Resetting a Nanoblade. -->
-  <OE_Reset_OMG_Axe.jobString>TODO</OE_Reset_OMG_Axe.jobString>
+  <OE_Reset_OMG_Axe.jobString>正在重置纳米刀刃。</OE_Reset_OMG_Axe.jobString>
   
   <!-- EN: Reset Datacrush -->
-  <OE_Reset_OMG_BattleAxe.label>TODO</OE_Reset_OMG_BattleAxe.label>
+  <OE_Reset_OMG_BattleAxe.label>重置 数据粉碎</OE_Reset_OMG_BattleAxe.label>
   <!-- EN: Reset a Datacrush.\n\nWarning! Persona traits will be changed. -->
-  <OE_Reset_OMG_BattleAxe.description>TODO</OE_Reset_OMG_BattleAxe.description>
+  <OE_Reset_OMG_BattleAxe.description>重置一个数据粉碎。\n\n警告！人格特性将会改变。</OE_Reset_OMG_BattleAxe.description>
   <!-- EN: Resetting a Datacrush. -->
-  <OE_Reset_OMG_BattleAxe.jobString>TODO</OE_Reset_OMG_BattleAxe.jobString>
+  <OE_Reset_OMG_BattleAxe.jobString>正在重置数据粉碎。</OE_Reset_OMG_BattleAxe.jobString>
   
   <!-- EN: Reset Twin Glitch -->
-  <OE_Reset_OMG_DualSword.label>TODO</OE_Reset_OMG_DualSword.label>
+  <OE_Reset_OMG_DualSword.label>重置 双子故障</OE_Reset_OMG_DualSword.label>
   <!-- EN: Reset a Twin Glitch.\n\nWarning! Persona traits will be changed. -->
-  <OE_Reset_OMG_DualSword.description>TODO</OE_Reset_OMG_DualSword.description>
+  <OE_Reset_OMG_DualSword.description>重置一个双子故障。\n\n警告！人格特性将会改变。</OE_Reset_OMG_DualSword.description>
   <!-- EN: Resetting a Twin Glitch. -->
-  <OE_Reset_OMG_DualSword.jobString>TODO</OE_Reset_OMG_DualSword.jobString>
+  <OE_Reset_OMG_DualSword.jobString>正在重置双子故障。</OE_Reset_OMG_DualSword.jobString>
   
   <!-- EN: Reset Pulseblade -->
-  <OE_Reset_OMG_Rapier.label>TODO</OE_Reset_OMG_Rapier.label>
+  <OE_Reset_OMG_Rapier.label>重置 脉冲刀刃</OE_Reset_OMG_Rapier.label>
   <!-- EN: Reset a Pulseblade.\n\nWarning! Persona traits will be changed. -->
-  <OE_Reset_OMG_Rapier.description>TODO</OE_Reset_OMG_Rapier.description>
+  <OE_Reset_OMG_Rapier.description>重置一个脉冲刀刃。\n\n警告！人格特性将会改变。</OE_Reset_OMG_Rapier.description>
   <!-- EN: Resetting a Pulseblade. -->
-  <OE_Reset_OMG_Rapier.jobString>TODO</OE_Reset_OMG_Rapier.jobString>
+  <OE_Reset_OMG_Rapier.jobString>正在重置脉冲刀刃。</OE_Reset_OMG_Rapier.jobString>
   
   <!-- EN: Reset Pulsecaster -->
-  <OE_Reset_OMG_Scepter.label>TODO</OE_Reset_OMG_Scepter.label>
+  <OE_Reset_OMG_Scepter.label>重置 脉冲施放器</OE_Reset_OMG_Scepter.label>
   <!-- EN: Reset a Pulsecaster.\n\nWarning! Persona traits will be changed. -->
-  <OE_Reset_OMG_Scepter.description>TODO</OE_Reset_OMG_Scepter.description>
+  <OE_Reset_OMG_Scepter.description>重置一个脉冲施放器。\n\n警告！人格特性将会改变。</OE_Reset_OMG_Scepter.description>
   <!-- EN: Resetting a Pulsecaster. -->
-  <OE_Reset_OMG_Scepter.jobString>TODO</OE_Reset_OMG_Scepter.jobString>
+  <OE_Reset_OMG_Scepter.jobString>正在重置脉冲施放器。</OE_Reset_OMG_Scepter.jobString>
   
 </LanguageData>

@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: install - Undead Power Stone -->
-  <OE_InstallPowerStone_Undead.label>TODO</OE_InstallPowerStone_Undead.label>
+  <OE_InstallPowerStone_Undead.label>安装 - 不死能量石</OE_InstallPowerStone_Undead.label>
   <!-- EN: Install - Undead Power Stone. -->
-  <OE_InstallPowerStone_Undead.description>TODO</OE_InstallPowerStone_Undead.description>
+  <OE_InstallPowerStone_Undead.description>安装 - 不死能量石。</OE_InstallPowerStone_Undead.description>
   <!-- EN: Installing - Undead Power Stone. -->
-  <OE_InstallPowerStone_Undead.jobString>TODO</OE_InstallPowerStone_Undead.jobString>
+  <OE_InstallPowerStone_Undead.jobString>正在安装 - 不死能量石。</OE_InstallPowerStone_Undead.jobString>
   
   <!-- EN: remove - Undead Power Stone -->
-  <OE_RemovePowerStone_Undead.label>TODO</OE_RemovePowerStone_Undead.label>
+  <OE_RemovePowerStone_Undead.label>移除 - 不死能量石</OE_RemovePowerStone_Undead.label>
   <!-- EN: Remove - Undead Power Stone. -->
-  <OE_RemovePowerStone_Undead.description>TODO</OE_RemovePowerStone_Undead.description>
+  <OE_RemovePowerStone_Undead.description>移除 - 不死能量石。</OE_RemovePowerStone_Undead.description>
   <!-- EN: Removing - Undead Power Stone. -->
-  <OE_RemovePowerStone_Undead.jobString>TODO</OE_RemovePowerStone_Undead.jobString>
+  <OE_RemovePowerStone_Undead.jobString>正在移除 - 不死能量石。</OE_RemovePowerStone_Undead.jobString>
   
 </LanguageData>

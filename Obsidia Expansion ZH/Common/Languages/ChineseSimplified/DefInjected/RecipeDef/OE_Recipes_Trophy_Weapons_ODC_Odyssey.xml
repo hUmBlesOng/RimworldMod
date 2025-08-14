@@ -2,52 +2,52 @@
 <LanguageData>
   
   <!-- EN: Paragon bond Harvest -->
-  <OE_Bond_ODC_Trophy_BladeLauncher_A.label>TODO</OE_Bond_ODC_Trophy_BladeLauncher_A.label>
+  <OE_Bond_ODC_Trophy_BladeLauncher_A.label>完美绑定 收获</OE_Bond_ODC_Trophy_BladeLauncher_A.label>
   <!-- EN: Paragon bond a Harvest. -->
-  <OE_Bond_ODC_Trophy_BladeLauncher_A.description>TODO</OE_Bond_ODC_Trophy_BladeLauncher_A.description>
+  <OE_Bond_ODC_Trophy_BladeLauncher_A.description>完美绑定一个收获。</OE_Bond_ODC_Trophy_BladeLauncher_A.description>
   <!-- EN: Paragon bonding a Harvest. -->
-  <OE_Bond_ODC_Trophy_BladeLauncher_A.jobString>TODO</OE_Bond_ODC_Trophy_BladeLauncher_A.jobString>
+  <OE_Bond_ODC_Trophy_BladeLauncher_A.jobString>正在完美绑定收获。</OE_Bond_ODC_Trophy_BladeLauncher_A.jobString>
   
   <!-- EN: Paragon bond Harvest - Emergent -->
-  <OE_Bond_ODC_Trophy_BladeLauncher_B.label>TODO</OE_Bond_ODC_Trophy_BladeLauncher_B.label>
+  <OE_Bond_ODC_Trophy_BladeLauncher_B.label>完美绑定 收获 - 突现</OE_Bond_ODC_Trophy_BladeLauncher_B.label>
   <!-- EN: Paragon bond a Harvest - Emergent. -->
-  <OE_Bond_ODC_Trophy_BladeLauncher_B.description>TODO</OE_Bond_ODC_Trophy_BladeLauncher_B.description>
+  <OE_Bond_ODC_Trophy_BladeLauncher_B.description>完美绑定一个收获 - 突现。</OE_Bond_ODC_Trophy_BladeLauncher_B.description>
   <!-- EN: Paragon bonding a Harvest - Emergent. -->
-  <OE_Bond_ODC_Trophy_BladeLauncher_B.jobString>TODO</OE_Bond_ODC_Trophy_BladeLauncher_B.jobString>
+  <OE_Bond_ODC_Trophy_BladeLauncher_B.jobString>正在完美绑定收获 - 突现。</OE_Bond_ODC_Trophy_BladeLauncher_B.jobString>
   
   <!-- EN: Paragon bond Harvest - Apex -->
-  <OE_Bond_ODC_Trophy_BladeLauncher_C.label>TODO</OE_Bond_ODC_Trophy_BladeLauncher_C.label>
+  <OE_Bond_ODC_Trophy_BladeLauncher_C.label>完美绑定 收获 - 顶点</OE_Bond_ODC_Trophy_BladeLauncher_C.label>
   <!-- EN: Paragon bond a Harvest - Apex. -->
-  <OE_Bond_ODC_Trophy_BladeLauncher_C.description>TODO</OE_Bond_ODC_Trophy_BladeLauncher_C.description>
+  <OE_Bond_ODC_Trophy_BladeLauncher_C.description>完美绑定一个收获 - 顶点。</OE_Bond_ODC_Trophy_BladeLauncher_C.description>
   <!-- EN: Paragon bonding a Harvest - Apex. -->
-  <OE_Bond_ODC_Trophy_BladeLauncher_C.jobString>TODO</OE_Bond_ODC_Trophy_BladeLauncher_C.jobString>
+  <OE_Bond_ODC_Trophy_BladeLauncher_C.jobString>正在完美绑定收获 - 顶点。</OE_Bond_ODC_Trophy_BladeLauncher_C.jobString>
   
   <!-- EN: Reset Paragon Harvest -->
-  <OE_Reset_ODC_Trophy_BladeLauncher_A_P.label>TODO</OE_Reset_ODC_Trophy_BladeLauncher_A_P.label>
+  <OE_Reset_ODC_Trophy_BladeLauncher_A_P.label>重置完美收获</OE_Reset_ODC_Trophy_BladeLauncher_A_P.label>
   <!-- EN: Reset a Paragon Harvest.\n\nWarning! Item Quality and Paragon traits will be changed. -->
-  <OE_Reset_ODC_Trophy_BladeLauncher_A_P.description>TODO</OE_Reset_ODC_Trophy_BladeLauncher_A_P.description>
+  <OE_Reset_ODC_Trophy_BladeLauncher_A_P.description>重置一个完美收获。\n\n警告！物品品质和完美特性将会改变。</OE_Reset_ODC_Trophy_BladeLauncher_A_P.description>
   <!-- EN: Resetting a Paragon Harvest. -->
-  <OE_Reset_ODC_Trophy_BladeLauncher_A_P.jobString>TODO</OE_Reset_ODC_Trophy_BladeLauncher_A_P.jobString>
+  <OE_Reset_ODC_Trophy_BladeLauncher_A_P.jobString>正在重置完美收获。</OE_Reset_ODC_Trophy_BladeLauncher_A_P.jobString>
   
   <!-- EN: Reset Paragon Harvest - Emergent -->
-  <OE_Reset_ODC_Trophy_BladeLauncher_B_P.label>TODO</OE_Reset_ODC_Trophy_BladeLauncher_B_P.label>
+  <OE_Reset_ODC_Trophy_BladeLauncher_B_P.label>重置完美收获 - 突现</OE_Reset_ODC_Trophy_BladeLauncher_B_P.label>
   <!-- EN: Reset a Paragon Harvest - Emergent.\n\nWarning! Item Quality and Paragon traits will be changed. -->
-  <OE_Reset_ODC_Trophy_BladeLauncher_B_P.description>TODO</OE_Reset_ODC_Trophy_BladeLauncher_B_P.description>
+  <OE_Reset_ODC_Trophy_BladeLauncher_B_P.description>重置一个完美收获 - 突现。\n\n警告！物品品质和完美特性将会改变。</OE_Reset_ODC_Trophy_BladeLauncher_B_P.description>
   <!-- EN: Resetting a Paragon Harvest - Emergent. -->
-  <OE_Reset_ODC_Trophy_BladeLauncher_B_P.jobString>TODO</OE_Reset_ODC_Trophy_BladeLauncher_B_P.jobString>
+  <OE_Reset_ODC_Trophy_BladeLauncher_B_P.jobString>正在重置完美收获 - 突现。</OE_Reset_ODC_Trophy_BladeLauncher_B_P.jobString>
   
   <!-- EN: Reset Inlaid Harvest - Apex -->
-  <OE_Reset_ODC_Trophy_BladeLauncher_C_I.label>TODO</OE_Reset_ODC_Trophy_BladeLauncher_C_I.label>
+  <OE_Reset_ODC_Trophy_BladeLauncher_C_I.label>重置镶嵌收获 - 顶点</OE_Reset_ODC_Trophy_BladeLauncher_C_I.label>
   <!-- EN: Reset an Inlaid Harvest - Apex.\n\nWarning! Item Quality and Paragon traits will be changed. -->
-  <OE_Reset_ODC_Trophy_BladeLauncher_C_I.description>TODO</OE_Reset_ODC_Trophy_BladeLauncher_C_I.description>
+  <OE_Reset_ODC_Trophy_BladeLauncher_C_I.description>重置一个镶嵌收获 - 顶点。\n\n警告！物品品质和完美特性将会改变。</OE_Reset_ODC_Trophy_BladeLauncher_C_I.description>
   <!-- EN: Resetting an Inlaid Harvest - Apex. -->
-  <OE_Reset_ODC_Trophy_BladeLauncher_C_I.jobString>TODO</OE_Reset_ODC_Trophy_BladeLauncher_C_I.jobString>
+  <OE_Reset_ODC_Trophy_BladeLauncher_C_I.jobString>正在重置镶嵌收获 - 顶点。</OE_Reset_ODC_Trophy_BladeLauncher_C_I.jobString>
   
   <!-- EN: Reset Paragon Harvest - Apex -->
-  <OE_Reset_ODC_Trophy_BladeLauncher_C_P.label>TODO</OE_Reset_ODC_Trophy_BladeLauncher_C_P.label>
+  <OE_Reset_ODC_Trophy_BladeLauncher_C_P.label>重置完美收获 - 顶点</OE_Reset_ODC_Trophy_BladeLauncher_C_P.label>
   <!-- EN: Reset a Paragon Harvest - Apex.\n\nWarning! Item Quality and Paragon traits will be changed. -->
-  <OE_Reset_ODC_Trophy_BladeLauncher_C_P.description>TODO</OE_Reset_ODC_Trophy_BladeLauncher_C_P.description>
+  <OE_Reset_ODC_Trophy_BladeLauncher_C_P.description>重置一个完美收获 - 顶点。\n\n警告！物品品质和完美特性将会改变。</OE_Reset_ODC_Trophy_BladeLauncher_C_P.description>
   <!-- EN: Resetting a Paragon Harvest - Apex. -->
-  <OE_Reset_ODC_Trophy_BladeLauncher_C_P.jobString>TODO</OE_Reset_ODC_Trophy_BladeLauncher_C_P.jobString>
+  <OE_Reset_ODC_Trophy_BladeLauncher_C_P.jobString>正在重置完美收获 - 顶点。</OE_Reset_ODC_Trophy_BladeLauncher_C_P.jobString>
   
 </LanguageData>

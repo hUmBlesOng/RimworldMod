@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: Paragon bond Cronus -->
-  <OE_Bond_OCC_Trophy_Railgun_P.label>TODO</OE_Bond_OCC_Trophy_Railgun_P.label>
+  <OE_Bond_OCC_Trophy_Railgun_P.label>完美绑定 克洛诺斯</OE_Bond_OCC_Trophy_Railgun_P.label>
   <!-- EN: Paragon bond a Cronus. -->
-  <OE_Bond_OCC_Trophy_Railgun_P.description>TODO</OE_Bond_OCC_Trophy_Railgun_P.description>
+  <OE_Bond_OCC_Trophy_Railgun_P.description>完美绑定一个克洛诺斯。</OE_Bond_OCC_Trophy_Railgun_P.description>
   <!-- EN: Paragon bonding a Cronus. -->
-  <OE_Bond_OCC_Trophy_Railgun_P.jobString>TODO</OE_Bond_OCC_Trophy_Railgun_P.jobString>
+  <OE_Bond_OCC_Trophy_Railgun_P.jobString>正在完美绑定克洛诺斯。</OE_Bond_OCC_Trophy_Railgun_P.jobString>
   
   <!-- EN: Reset Inlaid Cronus -->
-  <OE_Reset_OCC_Trophy_Railgun_I.label>TODO</OE_Reset_OCC_Trophy_Railgun_I.label>
+  <OE_Reset_OCC_Trophy_Railgun_I.label>重置镶嵌克洛诺斯</OE_Reset_OCC_Trophy_Railgun_I.label>
   <!-- EN: Reset an Inlaid Cronus.\n\nWarning! Item Quality and Paragon traits will be changed. -->
-  <OE_Reset_OCC_Trophy_Railgun_I.description>TODO</OE_Reset_OCC_Trophy_Railgun_I.description>
+  <OE_Reset_OCC_Trophy_Railgun_I.description>重置一个镶嵌克洛诺斯。\n\n警告！物品品质和完美特性将会改变。</OE_Reset_OCC_Trophy_Railgun_I.description>
   <!-- EN: Resetting an Inlaid Cronus. -->
-  <OE_Reset_OCC_Trophy_Railgun_I.jobString>TODO</OE_Reset_OCC_Trophy_Railgun_I.jobString>
+  <OE_Reset_OCC_Trophy_Railgun_I.jobString>正在重置镶嵌克洛诺斯。</OE_Reset_OCC_Trophy_Railgun_I.jobString>
   
   <!-- EN: Reset Paragon Cronus -->
-  <OE_Reset_OCC_Trophy_Railgun_P.label>TODO</OE_Reset_OCC_Trophy_Railgun_P.label>
+  <OE_Reset_OCC_Trophy_Railgun_P.label>重置完美克洛诺斯</OE_Reset_OCC_Trophy_Railgun_P.label>
   <!-- EN: Reset a Paragon Cronus.\n\nWarning! Item Quality and Paragon traits will be changed. -->
-  <OE_Reset_OCC_Trophy_Railgun_P.description>TODO</OE_Reset_OCC_Trophy_Railgun_P.description>
+  <OE_Reset_OCC_Trophy_Railgun_P.description>重置一个完美克洛诺斯。\n\n警告！物品品质和完美特性将会改变。</OE_Reset_OCC_Trophy_Railgun_P.description>
   <!-- EN: Resetting a Paragon Cronus. -->
-  <OE_Reset_OCC_Trophy_Railgun_P.jobString>TODO</OE_Reset_OCC_Trophy_Railgun_P.jobString>
+  <OE_Reset_OCC_Trophy_Railgun_P.jobString>正在重置完美克洛诺斯。</OE_Reset_OCC_Trophy_Railgun_P.jobString>
   
 </LanguageData>

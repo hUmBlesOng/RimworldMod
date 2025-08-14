@@ -2,52 +2,52 @@
 <LanguageData>
   
   <!-- EN: Reset Persona Furious MK-II -->
-  <OE_Reset_OMC_Axe_P.label>TODO</OE_Reset_OMC_Axe_P.label>
+  <OE_Reset_OMC_Axe_P.label>重置人格狂怒 MK-II</OE_Reset_OMC_Axe_P.label>
   <!-- EN: Reset an Persona Furious MK-II.\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OMC_Axe_P.description>TODO</OE_Reset_OMC_Axe_P.description>
+  <OE_Reset_OMC_Axe_P.description>重置一个人格狂怒 MK-II。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OMC_Axe_P.description>
   <!-- EN: Resetting a Persona Furious MK-II. -->
-  <OE_Reset_OMC_Axe_P.jobString>TODO</OE_Reset_OMC_Axe_P.jobString>
+  <OE_Reset_OMC_Axe_P.jobString>正在重置人格狂怒 MK-II。</OE_Reset_OMC_Axe_P.jobString>
   
   <!-- EN: Reset Persona Delimiter MK-II -->
-  <OE_Reset_OMC_Sword_P.label>TODO</OE_Reset_OMC_Sword_P.label>
+  <OE_Reset_OMC_Sword_P.label>重置人格界限 MK-II</OE_Reset_OMC_Sword_P.label>
   <!-- EN: Reset an Persona Delimiter MK-II.\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OMC_Sword_P.description>TODO</OE_Reset_OMC_Sword_P.description>
+  <OE_Reset_OMC_Sword_P.description>重置一个人格界限 MK-II。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OMC_Sword_P.description>
   <!-- EN: Resetting a Persona Delimiter MK-II. -->
-  <OE_Reset_OMC_Sword_P.jobString>TODO</OE_Reset_OMC_Sword_P.jobString>
+  <OE_Reset_OMC_Sword_P.jobString>正在重置人格界限 MK-II。</OE_Reset_OMC_Sword_P.jobString>
   
   <!-- EN: Reset Persona Bloodspiller MK-II -->
-  <OE_Reset_OMC_Whip_P.label>TODO</OE_Reset_OMC_Whip_P.label>
+  <OE_Reset_OMC_Whip_P.label>重置人格溅血者 MK-II</OE_Reset_OMC_Whip_P.label>
   <!-- EN: Reset an Persona Bloodspiller MK-II.\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OMC_Whip_P.description>TODO</OE_Reset_OMC_Whip_P.description>
+  <OE_Reset_OMC_Whip_P.description>重置一个人格溅血者 MK-II。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OMC_Whip_P.description>
   <!-- EN: Resetting a Persona Bloodspiller MK-II. -->
-  <OE_Reset_OMC_Whip_P.jobString>TODO</OE_Reset_OMC_Whip_P.jobString>
+  <OE_Reset_OMC_Whip_P.jobString>正在重置人格溅血者 MK-II。</OE_Reset_OMC_Whip_P.jobString>
   
   <!-- EN: Reset Persona Bloodspiller MK-II(Acid) -->
-  <OE_Reset_OMC_Whip_P_Acid.label>TODO</OE_Reset_OMC_Whip_P_Acid.label>
+  <OE_Reset_OMC_Whip_P_Acid.label>重置人格溅血者 MK-II(酸液)</OE_Reset_OMC_Whip_P_Acid.label>
   <!-- EN: Reset an Persona Bloodspiller MK-II(Acid).\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OMC_Whip_P_Acid.description>TODO</OE_Reset_OMC_Whip_P_Acid.description>
+  <OE_Reset_OMC_Whip_P_Acid.description>重置一个人格溅血者 MK-II(酸液)。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OMC_Whip_P_Acid.description>
   <!-- EN: Resetting a Persona Bloodspiller MK-II(Acid). -->
-  <OE_Reset_OMC_Whip_P_Acid.jobString>TODO</OE_Reset_OMC_Whip_P_Acid.jobString>
+  <OE_Reset_OMC_Whip_P_Acid.jobString>正在重置人格溅血者 MK-II(酸液)。</OE_Reset_OMC_Whip_P_Acid.jobString>
   
   <!-- EN: Reset Persona Bloodspiller MK-II(Cryo) -->
-  <OE_Reset_OMC_Whip_P_Cryo.label>TODO</OE_Reset_OMC_Whip_P_Cryo.label>
+  <OE_Reset_OMC_Whip_P_Cryo.label>重置人格溅血者 MK-II(冷冻)</OE_Reset_OMC_Whip_P_Cryo.label>
   <!-- EN: Reset an Persona Bloodspiller MK-II(Cryo).\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OMC_Whip_P_Cryo.description>TODO</OE_Reset_OMC_Whip_P_Cryo.description>
+  <OE_Reset_OMC_Whip_P_Cryo.description>重置一个人格溅血者 MK-II(冷冻)。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OMC_Whip_P_Cryo.description>
   <!-- EN: Resetting a Persona Bloodspiller MK-II(Cryo). -->
-  <OE_Reset_OMC_Whip_P_Cryo.jobString>TODO</OE_Reset_OMC_Whip_P_Cryo.jobString>
+  <OE_Reset_OMC_Whip_P_Cryo.jobString>正在重置人格溅血者 MK-II(冷冻)。</OE_Reset_OMC_Whip_P_Cryo.jobString>
   
   <!-- EN: Reset Persona Bloodspiller MK-II(EMP) -->
-  <OE_Reset_OMC_Whip_P_EMP.label>TODO</OE_Reset_OMC_Whip_P_EMP.label>
+  <OE_Reset_OMC_Whip_P_EMP.label>重置人格溅血者 MK-II(电磁脉冲)</OE_Reset_OMC_Whip_P_EMP.label>
   <!-- EN: Reset an Persona Bloodspiller MK-II(EMP).\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OMC_Whip_P_EMP.description>TODO</OE_Reset_OMC_Whip_P_EMP.description>
+  <OE_Reset_OMC_Whip_P_EMP.description>重置一个人格溅血者 MK-II(电磁脉冲)。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OMC_Whip_P_EMP.description>
   <!-- EN: Resetting a Persona Bloodspiller MK-II(EMP). -->
-  <OE_Reset_OMC_Whip_P_EMP.jobString>TODO</OE_Reset_OMC_Whip_P_EMP.jobString>
+  <OE_Reset_OMC_Whip_P_EMP.jobString>正在重置人格溅血者 MK-II(电磁脉冲)。</OE_Reset_OMC_Whip_P_EMP.jobString>
   
   <!-- EN: Reset Persona Bloodspiller MK-II(Fire) -->
-  <OE_Reset_OMC_Whip_P_Fire.label>TODO</OE_Reset_OMC_Whip_P_Fire.label>
+  <OE_Reset_OMC_Whip_P_Fire.label>重置人格溅血者 MK-II(火焰)</OE_Reset_OMC_Whip_P_Fire.label>
   <!-- EN: Reset an Persona Bloodspiller MK-II(Fire).\n\nWarning! Item Quality and Persona traits will be changed. -->
-  <OE_Reset_OMC_Whip_P_Fire.description>TODO</OE_Reset_OMC_Whip_P_Fire.description>
+  <OE_Reset_OMC_Whip_P_Fire.description>重置一个人格溅血者 MK-II(火焰)。\n\n警告！物品品质和人格特性将会改变。</OE_Reset_OMC_Whip_P_Fire.description>
   <!-- EN: Resetting a Persona Bloodspiller MK-II(Fire). -->
-  <OE_Reset_OMC_Whip_P_Fire.jobString>TODO</OE_Reset_OMC_Whip_P_Fire.jobString>
+  <OE_Reset_OMC_Whip_P_Fire.jobString>正在重置人格溅血者 MK-II(火焰)。</OE_Reset_OMC_Whip_P_Fire.jobString>
   
 </LanguageData>

@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: gestate Sporothrix -->
-  <OE_Gestate_EGO_GrenadeLauncher.label>TODO</OE_Gestate_EGO_GrenadeLauncher.label>
+  <OE_Gestate_EGO_GrenadeLauncher.label>孕育 孢子杆菌</OE_Gestate_EGO_GrenadeLauncher.label>
   <!-- EN: Gestate an amalgam Grenade Launcher - Sporothrix. -->
-  <OE_Gestate_EGO_GrenadeLauncher.description>TODO</OE_Gestate_EGO_GrenadeLauncher.description>
+  <OE_Gestate_EGO_GrenadeLauncher.description>孕育一个融合体榴弹发射器 - 孢子杆菌。</OE_Gestate_EGO_GrenadeLauncher.description>
   <!-- EN: Gestating a Sporothrix. -->
-  <OE_Gestate_EGO_GrenadeLauncher.jobString>TODO</OE_Gestate_EGO_GrenadeLauncher.jobString>
+  <OE_Gestate_EGO_GrenadeLauncher.jobString>正在孕育孢子杆菌。</OE_Gestate_EGO_GrenadeLauncher.jobString>
   
   <!-- EN: gestate Ulcerated -->
-  <OE_Gestate_EGO_RocketLauncher.label>TODO</OE_Gestate_EGO_RocketLauncher.label>
+  <OE_Gestate_EGO_RocketLauncher.label>孕育 溃疡</OE_Gestate_EGO_RocketLauncher.label>
   <!-- EN: Gestate an amalgam Rocket Launcher - Ulcerated. -->
-  <OE_Gestate_EGO_RocketLauncher.description>TODO</OE_Gestate_EGO_RocketLauncher.description>
+  <OE_Gestate_EGO_RocketLauncher.description>孕育一个融合体火箭发射器 - 溃疡。</OE_Gestate_EGO_RocketLauncher.description>
   <!-- EN: Gestating a Ulcerated. -->
-  <OE_Gestate_EGO_RocketLauncher.jobString>TODO</OE_Gestate_EGO_RocketLauncher.jobString>
+  <OE_Gestate_EGO_RocketLauncher.jobString>正在孕育溃疡。</OE_Gestate_EGO_RocketLauncher.jobString>
   
 </LanguageData>

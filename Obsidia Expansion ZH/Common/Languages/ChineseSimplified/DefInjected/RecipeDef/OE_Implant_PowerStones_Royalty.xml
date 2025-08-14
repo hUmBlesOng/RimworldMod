@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: install - Monarch Power Stone -->
-  <OE_InstallPowerStone_Monarch.label>TODO</OE_InstallPowerStone_Monarch.label>
+  <OE_InstallPowerStone_Monarch.label>安装 - 君主能量石</OE_InstallPowerStone_Monarch.label>
   <!-- EN: Install - Monarch Power Stone. -->
-  <OE_InstallPowerStone_Monarch.description>TODO</OE_InstallPowerStone_Monarch.description>
+  <OE_InstallPowerStone_Monarch.description>安装 - 君主能量石。</OE_InstallPowerStone_Monarch.description>
   <!-- EN: Installing - Monarch Power Stone. -->
-  <OE_InstallPowerStone_Monarch.jobString>TODO</OE_InstallPowerStone_Monarch.jobString>
+  <OE_InstallPowerStone_Monarch.jobString>正在安装 - 君主能量石。</OE_InstallPowerStone_Monarch.jobString>
   
   <!-- EN: remove - Monarch Power Stone -->
-  <OE_RemovePowerStone_Monarch.label>TODO</OE_RemovePowerStone_Monarch.label>
+  <OE_RemovePowerStone_Monarch.label>移除 - 君主能量石</OE_RemovePowerStone_Monarch.label>
   <!-- EN: Remove - Monarch Power Stone. -->
-  <OE_RemovePowerStone_Monarch.description>TODO</OE_RemovePowerStone_Monarch.description>
+  <OE_RemovePowerStone_Monarch.description>移除 - 君主能量石。</OE_RemovePowerStone_Monarch.description>
   <!-- EN: Removing - Monarch Power Stone. -->
-  <OE_RemovePowerStone_Monarch.jobString>TODO</OE_RemovePowerStone_Monarch.jobString>
+  <OE_RemovePowerStone_Monarch.jobString>正在移除 - 君主能量石。</OE_RemovePowerStone_Monarch.jobString>
   
 </LanguageData>

@@ -2,136 +2,136 @@
 <LanguageData>
   
   <!-- EN: synthesis obsidia ammo kit x10 -->
-  <OE_Synthesis_AmmoKitBulk.label>TODO</OE_Synthesis_AmmoKitBulk.label>
+  <OE_Synthesis_AmmoKitBulk.label>合成黑曜石弹药包x10</OE_Synthesis_AmmoKitBulk.label>
   <!-- EN: Synthesis 10 obsidia ammo kit. -->
-  <OE_Synthesis_AmmoKitBulk.description>TODO</OE_Synthesis_AmmoKitBulk.description>
+  <OE_Synthesis_AmmoKitBulk.description>合成10个黑曜石弹药包。</OE_Synthesis_AmmoKitBulk.description>
   <!-- EN: Synthesis 10 obsidia ammo kit. -->
-  <OE_Synthesis_AmmoKitBulk.jobString>TODO</OE_Synthesis_AmmoKitBulk.jobString>
+  <OE_Synthesis_AmmoKitBulk.jobString>正在合成10个黑曜石弹药包。</OE_Synthesis_AmmoKitBulk.jobString>
   
   <!-- EN: synthesis obsidia ammo kit x5 -->
-  <OE_Synthesis_AmmoKitPack.label>TODO</OE_Synthesis_AmmoKitPack.label>
+  <OE_Synthesis_AmmoKitPack.label>合成黑曜石弹药包x5</OE_Synthesis_AmmoKitPack.label>
   <!-- EN: Synthesis 5 obsidia ammo kit. -->
-  <OE_Synthesis_AmmoKitPack.description>TODO</OE_Synthesis_AmmoKitPack.description>
+  <OE_Synthesis_AmmoKitPack.description>合成5个黑曜石弹药包。</OE_Synthesis_AmmoKitPack.description>
   <!-- EN: Synthesis 5 obsidia ammo kit. -->
-  <OE_Synthesis_AmmoKitPack.jobString>TODO</OE_Synthesis_AmmoKitPack.jobString>
+  <OE_Synthesis_AmmoKitPack.jobString>正在合成5个黑曜石弹药包。</OE_Synthesis_AmmoKitPack.jobString>
   
   <!-- EN: converting corpse -->
-  <OE_Synthesis_ConvertingCorpse.label>TODO</OE_Synthesis_ConvertingCorpse.label>
+  <OE_Synthesis_ConvertingCorpse.label>转化尸体</OE_Synthesis_ConvertingCorpse.label>
   <!-- EN: Converting a corpse into Synthesis. -->
-  <OE_Synthesis_ConvertingCorpse.description>TODO</OE_Synthesis_ConvertingCorpse.description>
+  <OE_Synthesis_ConvertingCorpse.description>将尸体转化为合成素。</OE_Synthesis_ConvertingCorpse.description>
   <!-- EN: Converting. -->
-  <OE_Synthesis_ConvertingCorpse.jobString>TODO</OE_Synthesis_ConvertingCorpse.jobString>
+  <OE_Synthesis_ConvertingCorpse.jobString>正在转化。</OE_Synthesis_ConvertingCorpse.jobString>
   
   <!-- EN: synthesis empyrium x10 -->
-  <OE_Synthesis_EmpyriumBulk.label>TODO</OE_Synthesis_EmpyriumBulk.label>
+  <OE_Synthesis_EmpyriumBulk.label>合成以太金属x10</OE_Synthesis_EmpyriumBulk.label>
   <!-- EN: Synthesis 10 empyrium from Syntherius, Obsidian and Platinum. -->
-  <OE_Synthesis_EmpyriumBulk.description>TODO</OE_Synthesis_EmpyriumBulk.description>
+  <OE_Synthesis_EmpyriumBulk.description>用合成素、黑曜石和铂金合成10个以太金属。</OE_Synthesis_EmpyriumBulk.description>
   <!-- EN: Synthesis 10 empyrium. -->
-  <OE_Synthesis_EmpyriumBulk.jobString>TODO</OE_Synthesis_EmpyriumBulk.jobString>
+  <OE_Synthesis_EmpyriumBulk.jobString>正在合成10个以太金属。</OE_Synthesis_EmpyriumBulk.jobString>
   
   <!-- EN: synthesis empyrium x5 -->
-  <OE_Synthesis_EmpyriumPack.label>TODO</OE_Synthesis_EmpyriumPack.label>
+  <OE_Synthesis_EmpyriumPack.label>合成以太金属x5</OE_Synthesis_EmpyriumPack.label>
   <!-- EN: Synthesis 5 empyrium from Syntherius, Obsidian and Platinum. -->
-  <OE_Synthesis_EmpyriumPack.description>TODO</OE_Synthesis_EmpyriumPack.description>
+  <OE_Synthesis_EmpyriumPack.description>用合成素、黑曜石和铂金合成5个以太金属。</OE_Synthesis_EmpyriumPack.description>
   <!-- EN: Synthesis 5 empyrium. -->
-  <OE_Synthesis_EmpyriumPack.jobString>TODO</OE_Synthesis_EmpyriumPack.jobString>
+  <OE_Synthesis_EmpyriumPack.jobString>正在合成5个以太金属。</OE_Synthesis_EmpyriumPack.jobString>
   
   <!-- EN: synthesis empyrium synthweave x5 -->
-  <OE_Synthesis_EmpyriumSynthweave.label>TODO</OE_Synthesis_EmpyriumSynthweave.label>
+  <OE_Synthesis_EmpyriumSynthweave.label>合成以太金属合成织物x5</OE_Synthesis_EmpyriumSynthweave.label>
   <!-- EN: Synthesis empyrium synthweave from Syntherius with Empyrium and Mooncloth. -->
-  <OE_Synthesis_EmpyriumSynthweave.description>TODO</OE_Synthesis_EmpyriumSynthweave.description>
+  <OE_Synthesis_EmpyriumSynthweave.description>用合成素、以太金属和月布合成以太金属合成织物。</OE_Synthesis_EmpyriumSynthweave.description>
   <!-- EN: Synthesis empyrium synthweave. -->
-  <OE_Synthesis_EmpyriumSynthweave.jobString>TODO</OE_Synthesis_EmpyriumSynthweave.jobString>
+  <OE_Synthesis_EmpyriumSynthweave.jobString>正在合成以太金属合成织物。</OE_Synthesis_EmpyriumSynthweave.jobString>
   
   <!-- EN: disassembly heroic gear -->
-  <OE_Synthesis_HeroicKit.label>TODO</OE_Synthesis_HeroicKit.label>
+  <OE_Synthesis_HeroicKit.label>拆解英雄装备</OE_Synthesis_HeroicKit.label>
   <!-- EN: Disassembly heroic gear into heroic kit. -->
-  <OE_Synthesis_HeroicKit.description>TODO</OE_Synthesis_HeroicKit.description>
+  <OE_Synthesis_HeroicKit.description>将英雄装备拆解为英雄套件。</OE_Synthesis_HeroicKit.description>
   <!-- EN: Disassembly heroic gear. -->
-  <OE_Synthesis_HeroicKit.jobString>TODO</OE_Synthesis_HeroicKit.jobString>
+  <OE_Synthesis_HeroicKit.jobString>正在拆解英雄装备。</OE_Synthesis_HeroicKit.jobString>
   
   <!-- EN: synthesis mythril x10 -->
-  <OE_Synthesis_MythrilBulk.label>TODO</OE_Synthesis_MythrilBulk.label>
+  <OE_Synthesis_MythrilBulk.label>合成秘银x10</OE_Synthesis_MythrilBulk.label>
   <!-- EN: Synthesis 10 mythril from Syntherius. -->
-  <OE_Synthesis_MythrilBulk.description>TODO</OE_Synthesis_MythrilBulk.description>
+  <OE_Synthesis_MythrilBulk.description>用合成素合成10个秘银。</OE_Synthesis_MythrilBulk.description>
   <!-- EN: Synthesis 10 mythril. -->
-  <OE_Synthesis_MythrilBulk.jobString>TODO</OE_Synthesis_MythrilBulk.jobString>
+  <OE_Synthesis_MythrilBulk.jobString>正在合成10个秘银。</OE_Synthesis_MythrilBulk.jobString>
   
   <!-- EN: synthesis mythril x5 -->
-  <OE_Synthesis_MythrilPack.label>TODO</OE_Synthesis_MythrilPack.label>
+  <OE_Synthesis_MythrilPack.label>合成秘银x5</OE_Synthesis_MythrilPack.label>
   <!-- EN: Synthesis 5 mythril from Syntherius. -->
-  <OE_Synthesis_MythrilPack.description>TODO</OE_Synthesis_MythrilPack.description>
+  <OE_Synthesis_MythrilPack.description>用合成素合成5个秘银。</OE_Synthesis_MythrilPack.description>
   <!-- EN: Synthesis 5 mythril. -->
-  <OE_Synthesis_MythrilPack.jobString>TODO</OE_Synthesis_MythrilPack.jobString>
+  <OE_Synthesis_MythrilPack.jobString>正在合成5个秘银。</OE_Synthesis_MythrilPack.jobString>
   
   <!-- EN: synthesis mythril synthweave x5 -->
-  <OE_Synthesis_MythrilSynthweave.label>TODO</OE_Synthesis_MythrilSynthweave.label>
+  <OE_Synthesis_MythrilSynthweave.label>合成秘银合成织物x5</OE_Synthesis_MythrilSynthweave.label>
   <!-- EN: Synthesis mythril synthweave from Syntherius with Mythril and Mooncloth. -->
-  <OE_Synthesis_MythrilSynthweave.description>TODO</OE_Synthesis_MythrilSynthweave.description>
+  <OE_Synthesis_MythrilSynthweave.description>用合成素、秘银和月布合成秘银合成织物。</OE_Synthesis_MythrilSynthweave.description>
   <!-- EN: Synthesis mythril synthweave. -->
-  <OE_Synthesis_MythrilSynthweave.jobString>TODO</OE_Synthesis_MythrilSynthweave.jobString>
+  <OE_Synthesis_MythrilSynthweave.jobString>正在合成秘银合成织物。</OE_Synthesis_MythrilSynthweave.jobString>
   
   <!-- EN: synthesis obsidian x10 -->
-  <OE_Synthesis_ObsidianBulk.label>TODO</OE_Synthesis_ObsidianBulk.label>
+  <OE_Synthesis_ObsidianBulk.label>合成黑曜石x10</OE_Synthesis_ObsidianBulk.label>
   <!-- EN: Synthesis 10 obsidian from Syntherius. -->
-  <OE_Synthesis_ObsidianBulk.description>TODO</OE_Synthesis_ObsidianBulk.description>
+  <OE_Synthesis_ObsidianBulk.description>用合成素合成10个黑曜石。</OE_Synthesis_ObsidianBulk.description>
   <!-- EN: Synthesis 10 obsidian. -->
-  <OE_Synthesis_ObsidianBulk.jobString>TODO</OE_Synthesis_ObsidianBulk.jobString>
+  <OE_Synthesis_ObsidianBulk.jobString>正在合成10个黑曜石。</OE_Synthesis_ObsidianBulk.jobString>
   
   <!-- EN: synthesis obsidian x5 -->
-  <OE_Synthesis_ObsidianPack.label>TODO</OE_Synthesis_ObsidianPack.label>
+  <OE_Synthesis_ObsidianPack.label>合成黑曜石x5</OE_Synthesis_ObsidianPack.label>
   <!-- EN: Synthesis 5 obsidian from Syntherius. -->
-  <OE_Synthesis_ObsidianPack.description>TODO</OE_Synthesis_ObsidianPack.description>
+  <OE_Synthesis_ObsidianPack.description>用合成素合成5个黑曜石。</OE_Synthesis_ObsidianPack.description>
   <!-- EN: Synthesis 5 obsidian. -->
-  <OE_Synthesis_ObsidianPack.jobString>TODO</OE_Synthesis_ObsidianPack.jobString>
+  <OE_Synthesis_ObsidianPack.jobString>正在合成5个黑曜石。</OE_Synthesis_ObsidianPack.jobString>
   
   <!-- EN: synthesis obsidian synthweave x5 -->
-  <OE_Synthesis_ObsidianSynthweave.label>TODO</OE_Synthesis_ObsidianSynthweave.label>
+  <OE_Synthesis_ObsidianSynthweave.label>合成黑曜石合成织物x5</OE_Synthesis_ObsidianSynthweave.label>
   <!-- EN: Synthesis obsidian synthweave from Syntherius with Obsidian and Mooncloth. -->
-  <OE_Synthesis_ObsidianSynthweave.description>TODO</OE_Synthesis_ObsidianSynthweave.description>
+  <OE_Synthesis_ObsidianSynthweave.description>用合成素、黑曜石和月布合成黑曜石合成织物。</OE_Synthesis_ObsidianSynthweave.description>
   <!-- EN: Synthesis obsidian synthweave. -->
-  <OE_Synthesis_ObsidianSynthweave.jobString>TODO</OE_Synthesis_ObsidianSynthweave.jobString>
+  <OE_Synthesis_ObsidianSynthweave.jobString>正在合成黑曜石合成织物。</OE_Synthesis_ObsidianSynthweave.jobString>
   
   <!-- EN: synthesis orichalcum x10 -->
-  <OE_Synthesis_OrichalcumBulk.label>TODO</OE_Synthesis_OrichalcumBulk.label>
+  <OE_Synthesis_OrichalcumBulk.label>合成奥利哈刚x10</OE_Synthesis_OrichalcumBulk.label>
   <!-- EN: Synthesis 10 orichalcum from Syntherius, Mythril and Platinum. -->
-  <OE_Synthesis_OrichalcumBulk.description>TODO</OE_Synthesis_OrichalcumBulk.description>
+  <OE_Synthesis_OrichalcumBulk.description>用合成素、秘银和铂金合成10个奥利哈刚。</OE_Synthesis_OrichalcumBulk.description>
   <!-- EN: Synthesis 10 orichalcum. -->
-  <OE_Synthesis_OrichalcumBulk.jobString>TODO</OE_Synthesis_OrichalcumBulk.jobString>
+  <OE_Synthesis_OrichalcumBulk.jobString>正在合成10个奥利哈刚。</OE_Synthesis_OrichalcumBulk.jobString>
   
   <!-- EN: synthesis orichalcum x5 -->
-  <OE_Synthesis_OrichalcumPack.label>TODO</OE_Synthesis_OrichalcumPack.label>
+  <OE_Synthesis_OrichalcumPack.label>合成奥利哈刚x5</OE_Synthesis_OrichalcumPack.label>
   <!-- EN: Synthesis 5 orichalcum from Syntherius, Mythril and Platinum. -->
-  <OE_Synthesis_OrichalcumPack.description>TODO</OE_Synthesis_OrichalcumPack.description>
+  <OE_Synthesis_OrichalcumPack.description>用合成素、秘银和铂金合成5个奥利哈刚。</OE_Synthesis_OrichalcumPack.description>
   <!-- EN: Synthesis 5 orichalcum. -->
-  <OE_Synthesis_OrichalcumPack.jobString>TODO</OE_Synthesis_OrichalcumPack.jobString>
+  <OE_Synthesis_OrichalcumPack.jobString>正在合成5个奥利哈刚。</OE_Synthesis_OrichalcumPack.jobString>
   
   <!-- EN: synthesis orichalcum synthweave x5 -->
-  <OE_Synthesis_OrichalcumSynthweave.label>TODO</OE_Synthesis_OrichalcumSynthweave.label>
+  <OE_Synthesis_OrichalcumSynthweave.label>合成奥利哈刚合成织物x5</OE_Synthesis_OrichalcumSynthweave.label>
   <!-- EN: Synthesis orichalcum synthweave from Syntherius with Orichalcum and Mooncloth. -->
-  <OE_Synthesis_OrichalcumSynthweave.description>TODO</OE_Synthesis_OrichalcumSynthweave.description>
+  <OE_Synthesis_OrichalcumSynthweave.description>用合成素、奥利哈刚和月布合成奥利哈刚合成织物。</OE_Synthesis_OrichalcumSynthweave.description>
   <!-- EN: Synthesis orichalcum synthweave. -->
-  <OE_Synthesis_OrichalcumSynthweave.jobString>TODO</OE_Synthesis_OrichalcumSynthweave.jobString>
+  <OE_Synthesis_OrichalcumSynthweave.jobString>正在合成奥利哈刚合成织物。</OE_Synthesis_OrichalcumSynthweave.jobString>
   
   <!-- EN: synthesis platinum x10 -->
-  <OE_Synthesis_PlatinumBulk.label>TODO</OE_Synthesis_PlatinumBulk.label>
+  <OE_Synthesis_PlatinumBulk.label>合成铂金x10</OE_Synthesis_PlatinumBulk.label>
   <!-- EN: Synthesis 10 platinum from Syntherius. -->
-  <OE_Synthesis_PlatinumBulk.description>TODO</OE_Synthesis_PlatinumBulk.description>
+  <OE_Synthesis_PlatinumBulk.description>用合成素合成10个铂金。</OE_Synthesis_PlatinumBulk.description>
   <!-- EN: Synthesis 10 platinum. -->
-  <OE_Synthesis_PlatinumBulk.jobString>TODO</OE_Synthesis_PlatinumBulk.jobString>
+  <OE_Synthesis_PlatinumBulk.jobString>正在合成10个铂金。</OE_Synthesis_PlatinumBulk.jobString>
   
   <!-- EN: synthesis platinum x5 -->
-  <OE_Synthesis_PlatinumPack.label>TODO</OE_Synthesis_PlatinumPack.label>
+  <OE_Synthesis_PlatinumPack.label>合成铂金x5</OE_Synthesis_PlatinumPack.label>
   <!-- EN: Synthesis 5 platinum from Syntherius. -->
-  <OE_Synthesis_PlatinumPack.description>TODO</OE_Synthesis_PlatinumPack.description>
+  <OE_Synthesis_PlatinumPack.description>用合成素合成5个铂金。</OE_Synthesis_PlatinumPack.description>
   <!-- EN: Synthesis 5 platinum. -->
-  <OE_Synthesis_PlatinumPack.jobString>TODO</OE_Synthesis_PlatinumPack.jobString>
+  <OE_Synthesis_PlatinumPack.jobString>正在合成5个铂金。</OE_Synthesis_PlatinumPack.jobString>
   
   <!-- EN: synthesis platinum synthweave x5 -->
-  <OE_Synthesis_PlatinumSynthweave.label>TODO</OE_Synthesis_PlatinumSynthweave.label>
+  <OE_Synthesis_PlatinumSynthweave.label>合成铂金合成织物x5</OE_Synthesis_PlatinumSynthweave.label>
   <!-- EN: Synthesis platinum synthweave from Syntherius with Platinum and Mooncloth. -->
-  <OE_Synthesis_PlatinumSynthweave.description>TODO</OE_Synthesis_PlatinumSynthweave.description>
+  <OE_Synthesis_PlatinumSynthweave.description>用合成素、铂金和月布合成铂金合成织物。</OE_Synthesis_PlatinumSynthweave.description>
   <!-- EN: Synthesis platinum synthweave. -->
-  <OE_Synthesis_PlatinumSynthweave.jobString>TODO</OE_Synthesis_PlatinumSynthweave.jobString>
+  <OE_Synthesis_PlatinumSynthweave.jobString>正在合成铂金合成织物。</OE_Synthesis_PlatinumSynthweave.jobString>
   
 </LanguageData>
