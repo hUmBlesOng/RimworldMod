@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Obsidia Can Meal ====================-->
+<!--=============== Normal ====================-->
+<OE_CanMeal.label>obsidia can meal</OE_CanMeal.label>
+<OE_CanMeal.description>A true culinary masterpiece, this dish captivates the senses and brings pure joy to the soul.</OE_CanMeal.description>
+
+<!--=============== Vegetarian ====================-->
+<OE_CanMeal_Veg.label>vegetarian obsidia can meal</OE_CanMeal_Veg.label>
+<OE_CanMeal_Veg.description>A true culinary masterpiece, this dish captivates the senses and brings pure joy to the soul.</OE_CanMeal_Veg.description>
+
+<!--=============== Carnivore ====================-->
+<OE_CanMeal_Meat.label>carnivore obsidia can meal</OE_CanMeal_Meat.label>
+<OE_CanMeal_Meat.description>A true culinary masterpiece, this dish captivates the senses and brings pure joy to the soul.</OE_CanMeal_Meat.description>
+
+</LanguageData>
