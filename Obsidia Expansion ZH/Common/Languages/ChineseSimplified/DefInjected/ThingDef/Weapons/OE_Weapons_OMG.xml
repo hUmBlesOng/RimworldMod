@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!--=============== OMG - Knife ====================-->
+	<OMG_Knife.label>破甲者</OMG_Knife.label>
+	<OMG_Knife.description>专为穿透护甲而锻造，破甲者是一种战争武器，能够利用任何防护装备中最薄弱的点。匕首的精确性和强度使其在熟练战士手中致命。\n\n特殊改装武器，带有死灵、眩晕和电磁脉冲伤害。\n\n此改装剥夺了物品的品质等级。</OMG_Knife.description>
+	<OMG_Knife.tools.handle.label>手柄</OMG_Knife.tools.handle.label>
+	<OMG_Knife.tools.blade.label>刀刃</OMG_Knife.tools.blade.label>
+	<OMG_Knife.tools.point.label>刀尖</OMG_Knife.tools.point.label>
+	<!--=============== OMG - Guitar ====================-->
+	<Bullet_OMG_PG.label>霓虹回声音符</Bullet_OMG_PG.label>
+	<OMG_PowerGuitar.label>霓虹回声</OMG_PowerGuitar.label>
+	<OMG_PowerGuitar.verbs.Verb_Shoot.label>霓虹回声</OMG_PowerGuitar.verbs.Verb_Shoot.label>
+	<OMG_PowerGuitar.description>这把来源不明的赛博吉他被谣言包围，从一个主人传到另一个主人。根据传说，它曾经拥有自己的生命，现在携带着一种奇怪而令人毛骨悚然的共鸣。\n\n特殊改装武器，带有死灵、眩晕和电磁脉冲伤害。\n\n此改装剥夺了物品的品质等级。</OMG_PowerGuitar.description>
+	<OMG_PowerGuitar.tools.head.label>琴头</OMG_PowerGuitar.tools.head.label>
+	<OMG_PowerGuitar.comps.CompEquippableAbilityReloadable.chargeNoun>地狱火充能</OMG_PowerGuitar.comps.CompEquippableAbilityReloadable.chargeNoun>
+	<OMG_PowerGuitar.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OMG_PowerGuitar.comps.CompEquippableAbilityReloadable.cooldownGerund>
+	<OMG_PowerGuitar.verbs.Verb_Shoot.label>霓虹回声</OMG_PowerGuitar.verbs.Verb_Shoot.label>
+	<OMG_PowerGuitar.comps.CompUniqueWeapon.namerLabels.0>霓虹回声</OMG_PowerGuitar.comps.CompUniqueWeapon.namerLabels.0>
+	<OMG_PowerGuitar.comps.CompEquippableAbilityReloadable-1.chargeNoun>充能</OMG_PowerGuitar.comps.CompEquippableAbilityReloadable-1.chargeNoun>
+	<OMG_PowerGuitar.comps.CompEquippableAbilityReloadable-1.cooldownGerund>冷却中</OMG_PowerGuitar.comps.CompEquippableAbilityReloadable-1.cooldownGerund>
+	<!--=============== OMG - Revolver ====================-->
+	<Bullet_OMG_R.label>死亡召唤子弹</Bullet_OMG_R.label>
+	<Shell_OMG_R.label>死亡召唤胶囊</Shell_OMG_R.label>
+	<OMG_Revolver.label>死亡召唤</OMG_Revolver.label>
+	<OMG_Revolver.verbs.Verb_Shoot.label>死亡召唤</OMG_Revolver.verbs.Verb_Shoot.label>
+	<OMG_Revolver.description>由黑暗技术制造，这把左轮手枪可以把任何受害者变成无情的蹒跚者。每次扣动扳机，死者都会重新站起来，被诅咒在不神圣的奴役中行走。\n\n特殊改装武器，带有死灵、死灵毒素、眩晕和电磁脉冲伤害。\n\n此改装剥夺了物品的品质等级。</OMG_Revolver.description>
+	<OMG_Revolver.comps.CompEquippableAbilityReloadable.chargeNoun>点燃充能</OMG_Revolver.comps.CompEquippableAbilityReloadable.chargeNoun>
+	<OMG_Revolver.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OMG_Revolver.comps.CompEquippableAbilityReloadable.cooldownGerund>
+	<OMG_Revolver.tools.grip.label>握把</OMG_Revolver.tools.grip.label>
+	<OMG_Revolver.tools.barrel.label>枪管</OMG_Revolver.tools.barrel.label>
+	<OMG_Revolver.comps.CompUniqueWeapon.namerLabels.0>死亡召唤</OMG_Revolver.comps.CompUniqueWeapon.namerLabels.0>
+	<OMG_Revolver.comps.CompEquippableAbilityReloadable-1.chargeNoun>充能</OMG_Revolver.comps.CompEquippableAbilityReloadable-1.chargeNoun>
+	<OMG_Revolver.comps.CompEquippableAbilityReloadable-1.cooldownGerund>冷却中</OMG_Revolver.comps.CompEquippableAbilityReloadable-1.cooldownGerund>
+</LanguageData>

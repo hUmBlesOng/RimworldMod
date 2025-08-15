@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== OES - Sword ====================-->
+<OES_Sword.label>英勇分隔者</OES_Sword.label>
+<OES_Sword.description>由幻影 Eidolons 使用的英雄剑。经过特殊改装的武器，带有火焰和电磁脉冲伤害。\n\n此改装会使物品失去品质等级。</OES_Sword.description>
+
+<OES_Sword.tools.handle.label>剑柄</OES_Sword.tools.handle.label>
+<OES_Sword.tools.point.label>剑尖</OES_Sword.tools.point.label>
+<OES_Sword.tools.edge.label>剑刃</OES_Sword.tools.edge.label>
+
+<!--=============== OES - Axe ====================-->
+<OES_Axe.label>英勇狂怒</OES_Axe.label>
+<OES_Axe.description>由幻影 Eidolons 使用的英雄斧。经过特殊改装的武器，带有火焰和电磁脉冲伤害。\n\n此改装会使物品失去品质等级。</OES_Axe.description>
+
+<OES_Axe.tools.handle.label>斧柄</OES_Axe.tools.handle.label>
+<OES_Axe.tools.edge.label>斧刃</OES_Axe.tools.edge.label>
+
+<!--=============== OES - Hammer ====================-->
+<OES_Hammer.label>英勇复仇者</OES_Hammer.label>
+<OES_Hammer.description>由幻影 Eidolons 使用的英雄锤。经过特殊改装的武器，带有火焰和电磁脉冲伤害。\n\n此改装会使物品失去品质等级。</OES_Hammer.description>
+
+<OES_Hammer.tools.handle.label>锤柄</OES_Hammer.tools.handle.label>
+<OES_Hammer.tools.head.label>锤头</OES_Hammer.tools.head.label>
+
+<!--=============== OES - BigAxe ====================-->
+<OES_BigAxe.label>英勇起源</OES_BigAxe.label>
+<OES_BigAxe.description>由幻影 Eidolons 使用的英雄巨斧。经过特殊改装的武器，带有火焰和电磁脉冲伤害。\n\n此改装会使物品失去品质等级。</OES_BigAxe.description>
+
+<OES_BigAxe.tools.handle.label>斧柄</OES_BigAxe.tools.handle.label>
+<OES_BigAxe.tools.edge.label>斧刃</OES_BigAxe.tools.edge.label>
+
+<!--=============== OES - BigSword ====================-->
+<OES_BigSword.label>英勇式神</OES_BigSword.label>
+<OES_BigSword.description>由幻影 Eidolons 使用的英雄长剑。经过特殊改装的武器，带有火焰和电磁脉冲伤害。\n\n此改装会使物品失去品质等级。</OES_BigSword.description>
+
+<OES_BigSword.tools.handle.label>剑柄</OES_BigSword.tools.handle.label>
+<OES_BigSword.tools.point.label>剑尖</OES_BigSword.tools.point.label>
+<OES_BigSword.tools.edge.label>剑刃</OES_BigSword.tools.edge.label>
+
+<!--=============== OES - PowerFist ====================-->
+<OES_PowerFist.label>英勇泰丰</OES_PowerFist.label>
+<OES_PowerFist.description>由幻影 Eidolons 使用的英雄动力拳套。经过特殊改装的武器，带有火焰和电磁脉冲伤害。\n\n此改装会使物品失去品质等级。</OES_PowerFist.description>
+
+<OES_PowerFist.tools.gauntlet.label>拳套</OES_PowerFist.tools.gauntlet.label>
+
+<!--=============== OES - Katana ====================-->
+<Wave_OES_K.label>英勇收割者波动</Wave_OES_K.label>
+
+<OES_Katana.label>英勇收割者</OES_Katana.label>
+<OES_Katana.verbs.Verb_Shoot.label>英勇收割者</OES_Katana.verbs.Verb_Shoot.label>
+<OES_Katana.description>由幻影 Eidolons 使用的英雄武士刀。经过特殊改装的武器，带有火焰和电磁脉冲伤害。\n\n此改装会使物品失去品质等级。</OES_Katana.description>
+
+<OES_Katana.tools.handle.label>刀柄</OES_Katana.tools.handle.label>
+<OES_Katana.tools.point.label>尖端</OES_Katana.tools.point.label>
+<OES_Katana.tools.edge.label>刀刃</OES_Katana.tools.edge.label>
+
+<!--=============== OES - Spear ====================-->
+<OES_Spear.label>英勇埃利特拉</OES_Spear.label>
+<OES_Spear.description>由幻影 Eidolons 使用的英雄长矛。经过特殊改装的武器，带有火焰和电磁脉冲伤害。\n\n此改装会使物品失去品质等级。</OES_Spear.description>
+
+<OES_Spear.tools.shaft.label>矛杆</OES_Spear.tools.shaft.label>
+<OES_Spear.tools.point.label>矛尖</OES_Spear.tools.point.label>
+
+<!--=============== OES - Dual Sword ====================-->
+<OES_DualSword.label>英勇断头台</OES_DualSword.label>
+<OES_DualSword.description>由幻影 Eidolons 使用的英雄双剑。经过特殊改装的武器，带有火焰和电磁脉冲伤害。\n\n此改装会使物品失去品质等级。</OES_DualSword.description>
+
+<OES_DualSword.tools.shaft.label>剑柄</OES_DualSword.tools.shaft.label>
+<OES_DualSword.tools.edge.label>剑刃</OES_DualSword.tools.edge.label>
+
+<!--=============== OES - Rapier ====================-->
+<OES_Rapier.label>英勇不完美</OES_Rapier.label>
+<OES_Rapier.description>由幻影 Eidolons 使用的英雄刺剑。经过特殊改装的武器，带有火焰和电磁脉冲伤害。\n\n此改装会使物品失去品质等级。</OES_Rapier.description>
+
+<OES_Rapier.tools.handle.label>剑柄</OES_Rapier.tools.handle.label>
+<OES_Rapier.tools.point.label>剑尖</OES_Rapier.tools.point.label>
+
+<!--=============== OES - Scythe ====================-->
+<OES_Scythe.label>英勇饮魂者</OES_Scythe.label>
+<OES_Scythe.description>由幻影 Eidolons 使用的英雄镰刀。经过特殊改装的武器，带有火焰和电磁脉冲伤害。\n\n此改装会使物品失去品质等级。</OES_Scythe.description>
+
+<OES_Scythe.tools.handle.label>握柄</OES_Scythe.tools.handle.label>
+<OES_Scythe.tools.edge.label>刀刃</OES_Scythe.tools.edge.label>
+
+<!--=============== OES - Shotgun Sidearm ====================-->
+<Bullet_OES_SS.label>英勇地狱咆哮冲击波</Bullet_OES_SS.label>
+
+<OES_ShotgunS.label>英勇地狱咆哮</OES_ShotgunS.label>
+<OES_ShotgunS.verbs.Verb_Shoot.label>英勇地狱咆哮</OES_ShotgunS.verbs.Verb_Shoot.label>
+<OES_ShotgunS.description>由幻影 Eidolons 使用的英雄霰弹枪副武器。经过特殊改装的武器，带有火焰和电磁脉冲伤害。\n\n此改装会使物品失去品质等级。</OES_ShotgunS.description>
+
+<OES_ShotgunS.tools.grip.label>握把</OES_ShotgunS.tools.grip.label>
+<OES_ShotgunS.tools.barrel.label>枪管</OES_ShotgunS.tools.barrel.label>
+
+<OES_ShotgunS.comps.CompUniqueWeapon.namerLabels.0>英勇地狱咆哮</OES_ShotgunS.comps.CompUniqueWeapon.namerLabels.0>
+<OES_ShotgunS.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OES_ShotgunS.comps.CompEquippableAbilityReloadable.chargeNoun>
+<OES_ShotgunS.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OES_ShotgunS.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+<!--=============== OES - Rifle ====================-->
+<Bullet_OES_RF.label>英勇地狱犬子弹</Bullet_OES_RF.label>
+
+<OES_Rifle.label>英勇地狱犬</OES_Rifle.label>
+<OES_Rifle.verbs.Verb_Shoot.label>英勇地狱犬</OES_Rifle.verbs.Verb_Shoot.label>
+<OES_Rifle.description>由幻影 Eidolons 使用的英雄步枪。经过特殊改装的武器，带有火焰和电磁脉冲伤害。\n\n此改装会使物品失去品质等级。</OES_Rifle.description>
+
+<OES_Rifle.tools.stock.label>枪托</OES_Rifle.tools.stock.label>
+<OES_Rifle.tools.barrel.label>枪管</OES_Rifle.tools.barrel.label>
+
+<OES_Rifle.comps.CompUniqueWeapon.namerLabels.0>英勇地狱犬</OES_Rifle.comps.CompUniqueWeapon.namerLabels.0>
+<OES_Rifle.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OES_Rifle.comps.CompEquippableAbilityReloadable.chargeNoun>
+<OES_Rifle.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OES_Rifle.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+<!--=============== OES - Bow ====================-->
+<Bullet_OES_B.label>英勇傲慢箭矢</Bullet_OES_B.label>
+
+<OES_Bow.label>英勇傲慢</OES_Bow.label>
+<OES_Bow.verbs.Verb_Shoot.label>英勇傲慢</OES_Bow.verbs.Verb_Shoot.label>
+<OES_Bow.description>由幻影 Eidolons 使用的英雄弓。经过特殊改装的武器，带有火焰和电磁脉冲伤害。\n\n此改装会使物品失去品质等级。</OES_Bow.description>
+
+<OES_Bow.tools.limb.label>弓臂</OES_Bow.tools.limb.label>
+
+<OES_Bow.comps.CompUniqueWeapon.namerLabels.0>英勇傲慢</OES_Bow.comps.CompUniqueWeapon.namerLabels.0>
+<OES_Bow.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OES_Bow.comps.CompEquippableAbilityReloadable.chargeNoun>
+<OES_Bow.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OES_Bow.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+<!--=============== OES - Minigun ====================-->
+<Bullet_OES_MG.label>英勇无拘子弹</Bullet_OES_MG.label>
+
+<OES_Minigun.label>英勇无拘</OES_Minigun.label>
+<OES_Minigun.verbs.Verb_Shoot.label>英勇无拘</OES_Minigun.verbs.Verb_Shoot.label>
+<OES_Minigun.description>由幻影 Eidolons 使用的英雄迷你枪。经过特殊改装的武器，带有火焰和电磁脉冲伤害。\n\n此改装会使物品失去品质等级。</OES_Minigun.description>
+
+<OES_Minigun.tools.barrels.label>枪管</OES_Minigun.tools.barrels.label>
+
+<OES_Minigun.comps.CompUniqueWeapon.namerLabels.0>英勇无拘</OES_Minigun.comps.CompUniqueWeapon.namerLabels.0>
+<OES_Minigun.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OES_Minigun.comps.CompEquippableAbilityReloadable.chargeNoun>
+<OES_Minigun.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OES_Minigun.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+</LanguageData>

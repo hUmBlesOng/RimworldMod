@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <!--=============== OMC ====================-->
+  <OMC_Dominator_Shotgun.label>机械末日</OMC_Dominator_Shotgun.label>
+  <OMC_Dominator_Shotgun.verbs.Verb_Shoot.label>机械末日</OMC_Dominator_Shotgun.verbs.Verb_Shoot.label>
+  <OMC_Dominator_Shotgun.description>改装的OMC自动霰弹枪，供机械体使用。快速射击和多重充能武器，伤害有所降低。</OMC_Dominator_Shotgun.description>
+
+  <OMC_Dominator_Shotgun.tools.barrel.label>枪管</OMC_Dominator_Shotgun.tools.barrel.label>
+
+  <!--=============== OTC ====================-->
+  <!--=============== 酸性 ====================-->
+  <OTC_Dominator_MultiCannon_Acid.label>机械脉冲炮(酸性)</OTC_Dominator_MultiCannon_Acid.label>
+  <OTC_Dominator_MultiCannon_Acid.verbs.Verb_Shoot.label>机械脉冲炮(酸性)</OTC_Dominator_MultiCannon_Acid.verbs.Verb_Shoot.label>
+  <OTC_Dominator_MultiCannon_Acid.description>改装的OTC多管火炮，供机械体使用。带有酸性弹药的平衡型武器。</OTC_Dominator_MultiCannon_Acid.description>
+
+  <OTC_Dominator_MultiCannon_Acid.tools.barrels.label>枪管</OTC_Dominator_MultiCannon_Acid.tools.barrels.label>
+  <!--=============== 低温 ====================-->
+  <OTC_Dominator_MultiCannon_Cryo.label>机械脉冲炮(低温)</OTC_Dominator_MultiCannon_Cryo.label>
+  <OTC_Dominator_MultiCannon_Cryo.verbs.Verb_Shoot.label>机械脉冲炮(低温)</OTC_Dominator_MultiCannon_Cryo.verbs.Verb_Shoot.label>
+  <OTC_Dominator_MultiCannon_Cryo.description>改装的OTC多管火炮，供机械体使用。带有低温弹药的平衡型武器。</OTC_Dominator_MultiCannon_Cryo.description>
+
+  <OTC_Dominator_MultiCannon_Cryo.tools.barrels.label>枪管</OTC_Dominator_MultiCannon_Cryo.tools.barrels.label>
+  <!--=============== 火焰 ====================-->
+  <OTC_Dominator_MultiCannon_Fire.label>机械脉冲炮(火焰)</OTC_Dominator_MultiCannon_Fire.label>
+  <OTC_Dominator_MultiCannon_Fire.verbs.Verb_Shoot.label>机械脉冲炮(火焰)</OTC_Dominator_MultiCannon_Fire.verbs.Verb_Shoot.label>
+  <OTC_Dominator_MultiCannon_Fire.description>改装的OTC多管火炮，供机械体使用。带有火焰弹药的平衡型武器。</OTC_Dominator_MultiCannon_Fire.description>
+
+  <OTC_Dominator_MultiCannon_Fire.tools.barrels.label>枪管</OTC_Dominator_MultiCannon_Fire.tools.barrels.label>
+  <!--=============== 电磁 ====================-->
+  <OTC_Dominator_MultiCannon_EMP.label>机械脉冲炮(电磁)</OTC_Dominator_MultiCannon_EMP.label>
+  <OTC_Dominator_MultiCannon_EMP.verbs.Verb_Shoot.label>机械脉冲炮(电磁)</OTC_Dominator_MultiCannon_EMP.verbs.Verb_Shoot.label>
+  <OTC_Dominator_MultiCannon_EMP.description>改装的OTC多管火炮，供机械体使用。带有电磁弹药的平衡型武器。\n\n警告！电磁伤害并非用于摧毁血肉之躯。</OTC_Dominator_MultiCannon_EMP.description>
+
+  <OTC_Dominator_MultiCannon_EMP.tools.barrels.label>枪管</OTC_Dominator_MultiCannon_EMP.tools.barrels.label>
+
+  <!--=============== OCC ====================-->
+  <OCC_Dominator_Drill.label>机械巴洛尔</OCC_Dominator_Drill.label>
+  <OCC_Dominator_Drill.description>改装的OCC钻头，供机械体使用。专门设计用于摧毁建筑的慢速武器。</OCC_Dominator_Drill.description>
+
+  <OCC_Dominator_Drill.tools.drill.label>钻头</OCC_Dominator_Drill.tools.drill.label>
+
+  <!--=============== OEC ====================-->
+  <OEC_Dominator_Bow.label>机械傲慢</OEC_Dominator_Bow.label>
+  <OEC_Dominator_Bow.verbs.Verb_Shoot.label>机械傲慢</OEC_Dominator_Bow.verbs.Verb_Shoot.label>
+  <OEC_Dominator_Bow.description>改装的OEC弓，供机械体使用。极强的穿甲能力，并配备了近战刀刃。</OEC_Dominator_Bow.description>
+
+  <OEC_Dominator_Bow.tools.blade.label>刀刃</OEC_Dominator_Bow.tools.blade.label>
+
+  <!--=============== ODC ====================-->
+  <ODC_Dominator_BladeLauncher.label>机械收割</ODC_Dominator_BladeLauncher.label>
+  <ODC_Dominator_BladeLauncher.verbs.Verb_Shoot.label>机械收割</ODC_Dominator_BladeLauncher.verbs.Verb_Shoot.label>
+  <ODC_Dominator_BladeLauncher.description>改装的重型ODC刀片发射器，供机械体使用。</ODC_Dominator_BladeLauncher.description>
+
+  <ODC_Dominator_BladeLauncher.tools.saw.label>锯片</ODC_Dominator_BladeLauncher.tools.saw.label>
+
+  <!--=============== OMG ====================-->
+  <!--=============== 霰弹枪 ====================-->
+  <OMG_Dominator_Shotgun.label>机械字节粉碎者</OMG_Dominator_Shotgun.label>
+  <OMG_Dominator_Shotgun.verbs.Verb_Shoot.label>机械字节粉碎者</OMG_Dominator_Shotgun.verbs.Verb_Shoot.label>
+  <OMG_Dominator_Shotgun.description>改装的OMG霰弹枪，供机械体使用。</OMG_Dominator_Shotgun.description>
+
+  <OMG_Dominator_Shotgun.tools.barrel.label>枪管</OMG_Dominator_Shotgun.tools.barrel.label>
+
+  <!--=============== 狙击步枪 ====================-->
+  <OMG_Dominator_SniperRifle.label>机械以太打击</OMG_Dominator_SniperRifle.label>
+  <OMG_Dominator_SniperRifle.verbs.Verb_Shoot.label>机械以太打击</OMG_Dominator_SniperRifle.verbs.Verb_Shoot.label>
+  <OMG_Dominator_SniperRifle.description>改装的OMG狙击步枪，供机械体使用。</OMG_Dominator_SniperRifle.description>
+
+  <OMG_Dominator_SniperRifle.tools.barrel.label>枪管</OMG_Dominator_SniperRifle.tools.barrel.label>
+
+  <!--=============== 轻机枪 ====================-->
+  <OMG_Dominator_Minigun.label>机械虚空撕裂者</OMG_Dominator_Minigun.label>
+  <OMG_Dominator_Minigun.verbs.Verb_Shoot.label>机械虚空撕裂者</OMG_Dominator_Minigun.verbs.Verb_Shoot.label>
+  <OMG_Dominator_Minigun.description>改装的OMG轻机枪，供机械体使用。</OMG_Dominator_Minigun.description>
+
+  <OMG_Dominator_Minigun.tools.barrel.label>枪管</OMG_Dominator_Minigun.tools.barrel.label>
+</LanguageData>
