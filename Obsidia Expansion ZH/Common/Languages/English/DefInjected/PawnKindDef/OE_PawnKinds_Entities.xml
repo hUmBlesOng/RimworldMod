@@ -3,23 +3,23 @@
 <LanguageData>
 <!--=============== Chaos Slimes ====================-->
 <!--=============== Larval Chaos Slime ====================-->
-<OE_ChaosSlime_Larval.label>larval chaos slime</OE_ChaosSlime_Larval.label>
+<OE_ChaosSlime_Larval.label>幼体混沌史莱姆</OE_ChaosSlime_Larval.label>
 <!--=============== Adult Chaos Slime ====================-->
-<OE_ChaosSlime_Adult.label>adult chaos slime</OE_ChaosSlime_Adult.label>
+<OE_ChaosSlime_Adult.label>成体混沌史莱姆</OE_ChaosSlime_Adult.label>
 <!--=============== Badass Chaos Slime ====================-->
-<OE_ChaosSlime_Badass.label>Badass chaos slime</OE_ChaosSlime_Badass.label>
+<OE_ChaosSlime_Badass.label>恶霸混沌史莱姆</OE_ChaosSlime_Badass.label>
 <!--=============== Super Badass Chaos Slime ====================-->
-<OE_ChaosSlime_SuperBadass.label>Super Badass chaos slime</OE_ChaosSlime_SuperBadass.label>
+<OE_ChaosSlime_SuperBadass.label>超级恶霸混沌史莱姆</OE_ChaosSlime_SuperBadass.label>
 <!--=============== Ultimate Badass Chaos Slime ====================-->
-<OE_ChaosSlime_UltimateBadass.label>Ultimate Badass chaos slime</OE_ChaosSlime_UltimateBadass.label>
+<OE_ChaosSlime_UltimateBadass.label>究极恶霸混沌史莱姆</OE_ChaosSlime_UltimateBadass.label>
 <!--=============== Chaos Slime the Invincible ====================-->
-<OE_ChaosSlime_Invincible.label>chaos slime the Invincible</OE_ChaosSlime_Invincible.label>
+<OE_ChaosSlime_Invincible.label>无敌混沌史莱姆</OE_ChaosSlime_Invincible.label>
 
 <!--=============== Returned ====================-->
-<OE_Returned.label>returned</OE_Returned.label>
-<OE_Returned_Boss.label>returned</OE_Returned_Boss.label>
+<OE_Returned.label>归来者</OE_Returned.label>
+<OE_Returned_Boss.label>归来者</OE_Returned_Boss.label>
 
 <!--=============== Cyber Arachna ====================-->
-<OE_CyberArachna.label>Cyber Arachna</OE_CyberArachna.label>
+<OE_CyberArachna.label>赛博蜘蛛</OE_CyberArachna.label>
 
 </LanguageData>

@@ -3,68 +3,68 @@
 <LanguageData>
 <!--=============== ODC - Sickle ====================-->
 <!--=============== Normal ====================-->
-<OE_Bond_ODC_Trophy_Sickle_A.label>Persona bond Temptation</OE_Bond_ODC_Trophy_Sickle_A.label>
-<OE_Bond_ODC_Trophy_Sickle_A.description>Persona bond a Temptation.</OE_Bond_ODC_Trophy_Sickle_A.description>
-<OE_Bond_ODC_Trophy_Sickle_A.jobString>Persona bonding a Temptation.</OE_Bond_ODC_Trophy_Sickle_A.jobString>
+<OE_Bond_ODC_Trophy_Sickle_A.label>人格绑定诱惑</OE_Bond_ODC_Trophy_Sickle_A.label>
+<OE_Bond_ODC_Trophy_Sickle_A.description>人格绑定诱惑。</OE_Bond_ODC_Trophy_Sickle_A.description>
+<OE_Bond_ODC_Trophy_Sickle_A.jobString>正在人格绑定诱惑。</OE_Bond_ODC_Trophy_Sickle_A.jobString>
 
-<OE_Reset_ODC_Trophy_Sickle_A_P.label>Reset Persona Temptation</OE_Reset_ODC_Trophy_Sickle_A_P.label>
-<OE_Reset_ODC_Trophy_Sickle_A_P.description>Reset a Persona Temptation.\n\nWarning! Item Quality and Persona traits will be changed.</OE_Reset_ODC_Trophy_Sickle_A_P.description>
-<OE_Reset_ODC_Trophy_Sickle_A_P.jobString>Resetting a Persona Temptation.</OE_Reset_ODC_Trophy_Sickle_A_P.jobString>
+<OE_Reset_ODC_Trophy_Sickle_A_P.label>重置人格诱惑</OE_Reset_ODC_Trophy_Sickle_A_P.label>
+<OE_Reset_ODC_Trophy_Sickle_A_P.description>重置人格诱惑。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_ODC_Trophy_Sickle_A_P.description>
+<OE_Reset_ODC_Trophy_Sickle_A_P.jobString>正在重置人格诱惑。</OE_Reset_ODC_Trophy_Sickle_A_P.jobString>
 <!--=============== Emergent ====================-->
-<OE_Bond_ODC_Trophy_Sickle_B.label>Persona bond Temptation - Emergent</OE_Bond_ODC_Trophy_Sickle_B.label>
-<OE_Bond_ODC_Trophy_Sickle_B.description>Persona bond a Temptation - Emergent.</OE_Bond_ODC_Trophy_Sickle_B.description>
-<OE_Bond_ODC_Trophy_Sickle_B.jobString>Persona bonding a Temptation - Emergent.</OE_Bond_ODC_Trophy_Sickle_B.jobString>
+<OE_Bond_ODC_Trophy_Sickle_B.label>人格绑定诱惑 - 突现</OE_Bond_ODC_Trophy_Sickle_B.label>
+<OE_Bond_ODC_Trophy_Sickle_B.description>人格绑定诱惑 - 突现。</OE_Bond_ODC_Trophy_Sickle_B.description>
+<OE_Bond_ODC_Trophy_Sickle_B.jobString>正在人格绑定诱惑 - 突现。</OE_Bond_ODC_Trophy_Sickle_B.jobString>
 
-<OE_Reset_ODC_Trophy_Sickle_B_P.label>Reset Persona Temptation - Emergent</OE_Reset_ODC_Trophy_Sickle_B_P.label>
-<OE_Reset_ODC_Trophy_Sickle_B_P.description>Reset a Persona Temptation - Emergent.\n\nWarning! Item Quality and Persona traits will be changed.</OE_Reset_ODC_Trophy_Sickle_B_P.description>
-<OE_Reset_ODC_Trophy_Sickle_B_P.jobString>Resetting a Persona Temptation - Emergent.</OE_Reset_ODC_Trophy_Sickle_B_P.jobString>
+<OE_Reset_ODC_Trophy_Sickle_B_P.label>重置人格诱惑 - 突现</OE_Reset_ODC_Trophy_Sickle_B_P.label>
+<OE_Reset_ODC_Trophy_Sickle_B_P.description>重置人格诱惑 - 突现。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_ODC_Trophy_Sickle_B_P.description>
+<OE_Reset_ODC_Trophy_Sickle_B_P.jobString>正在重置人格诱惑 - 突现。</OE_Reset_ODC_Trophy_Sickle_B_P.jobString>
 <!--=============== Apex ====================-->
-<OE_Bond_ODC_Trophy_Sickle_C.label>Persona bond Temptation - Apex</OE_Bond_ODC_Trophy_Sickle_C.label>
-<OE_Bond_ODC_Trophy_Sickle_C.description>Persona bond a Temptation - Apex.</OE_Bond_ODC_Trophy_Sickle_C.description>
-<OE_Bond_ODC_Trophy_Sickle_C.jobString>Persona bonding a Temptation - Apex.</OE_Bond_ODC_Trophy_Sickle_C.jobString>
+<OE_Bond_ODC_Trophy_Sickle_C.label>人格绑定诱惑 - 巅峰</OE_Bond_ODC_Trophy_Sickle_C.label>
+<OE_Bond_ODC_Trophy_Sickle_C.description>人格绑定诱惑 - 巅峰。</OE_Bond_ODC_Trophy_Sickle_C.description>
+<OE_Bond_ODC_Trophy_Sickle_C.jobString>正在人格绑定诱惑 - 巅峰。</OE_Bond_ODC_Trophy_Sickle_C.jobString>
 
-<OE_Reset_ODC_Trophy_Sickle_C_P.label>Reset Persona Temptation - Apex</OE_Reset_ODC_Trophy_Sickle_C_P.label>
-<OE_Reset_ODC_Trophy_Sickle_C_P.description>Reset a Persona Temptation - Apex.\n\nWarning! Item Quality and Persona traits will be changed.</OE_Reset_ODC_Trophy_Sickle_C_P.description>
-<OE_Reset_ODC_Trophy_Sickle_C_P.jobString>Resetting a Persona Temptation - Apex.</OE_Reset_ODC_Trophy_Sickle_C_P.jobString>
+<OE_Reset_ODC_Trophy_Sickle_C_P.label>重置人格诱惑 - 巅峰</OE_Reset_ODC_Trophy_Sickle_C_P.label>
+<OE_Reset_ODC_Trophy_Sickle_C_P.description>重置人格诱惑 - 巅峰。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_ODC_Trophy_Sickle_C_P.description>
+<OE_Reset_ODC_Trophy_Sickle_C_P.jobString>正在重置人格诱惑 - 巅峰。</OE_Reset_ODC_Trophy_Sickle_C_P.jobString>
 
-<OE_Reset_ODC_Trophy_Sickle_C_I.label>Reset Inlaid Temptation - Apex</OE_Reset_ODC_Trophy_Sickle_C_I.label>
-<OE_Reset_ODC_Trophy_Sickle_C_I.description>Reset an Inlaid Temptation - Apex.\n\nWarning! Item Quality and Persona traits will be changed.</OE_Reset_ODC_Trophy_Sickle_C_I.description>
-<OE_Reset_ODC_Trophy_Sickle_C_I.jobString>Resetting an Inlaid Temptation - Apex.</OE_Reset_ODC_Trophy_Sickle_C_I.jobString>
+<OE_Reset_ODC_Trophy_Sickle_C_I.label>重置镶嵌诱惑 - 巅峰</OE_Reset_ODC_Trophy_Sickle_C_I.label>
+<OE_Reset_ODC_Trophy_Sickle_C_I.description>重置镶嵌诱惑 - 巅峰。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_ODC_Trophy_Sickle_C_I.description>
+<OE_Reset_ODC_Trophy_Sickle_C_I.jobString>正在重置镶嵌诱惑 - 巅峰。</OE_Reset_ODC_Trophy_Sickle_C_I.jobString>
 
 <!--=============== ODC - Blade Launcher ====================-->
 <!--=============== Normal ====================-->
-<OE_Bond_ODC_Trophy_BladeLauncher_A.label>Paragon bond Harvest</OE_Bond_ODC_Trophy_BladeLauncher_A.label>
-<OE_Bond_ODC_Trophy_BladeLauncher_A.description>Paragon bond a Harvest.</OE_Bond_ODC_Trophy_BladeLauncher_A.description>
-<OE_Bond_ODC_Trophy_BladeLauncher_A.jobString>Paragon bonding a Harvest.</OE_Bond_ODC_Trophy_BladeLauncher_A.jobString>
+<OE_Bond_ODC_Trophy_BladeLauncher_A.label>巅峰绑定收获</OE_Bond_ODC_Trophy_BladeLauncher_A.label>
+<OE_Bond_ODC_Trophy_BladeLauncher_A.description>巅峰绑定收获。</OE_Bond_ODC_Trophy_BladeLauncher_A.description>
+<OE_Bond_ODC_Trophy_BladeLauncher_A.jobString>正在巅峰绑定收获。</OE_Bond_ODC_Trophy_BladeLauncher_A.jobString>
 
-<OE_Reset_ODC_Trophy_BladeLauncher_A_P.label>Reset Paragon Harvest</OE_Reset_ODC_Trophy_BladeLauncher_A_P.label>
-<OE_Reset_ODC_Trophy_BladeLauncher_A_P.description>Reset a Paragon Harvest.\n\nWarning! Item Quality and Paragon traits will be changed.</OE_Reset_ODC_Trophy_BladeLauncher_A_P.description>
-<OE_Reset_ODC_Trophy_BladeLauncher_A_P.jobString>Resetting a Paragon Harvest.</OE_Reset_ODC_Trophy_BladeLauncher_A_P.jobString>
+<OE_Reset_ODC_Trophy_BladeLauncher_A_P.label>重置巅峰收获</OE_Reset_ODC_Trophy_BladeLauncher_A_P.label>
+<OE_Reset_ODC_Trophy_BladeLauncher_A_P.description>重置巅峰收获。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_Trophy_BladeLauncher_A_P.description>
+<OE_Reset_ODC_Trophy_BladeLauncher_A_P.jobString>正在重置巅峰收获。</OE_Reset_ODC_Trophy_BladeLauncher_A_P.jobString>
 <!--=============== Emergent ====================-->
-<OE_Bond_ODC_Trophy_BladeLauncher_B.label>Paragon bond Harvest - Emergent</OE_Bond_ODC_Trophy_BladeLauncher_B.label>
-<OE_Bond_ODC_Trophy_BladeLauncher_B.description>Paragon bond a Harvest - Emergent.</OE_Bond_ODC_Trophy_BladeLauncher_B.description>
-<OE_Bond_ODC_Trophy_BladeLauncher_B.jobString>Paragon bonding a Harvest - Emergent.</OE_Bond_ODC_Trophy_BladeLauncher_B.jobString>
+<OE_Bond_ODC_Trophy_BladeLauncher_B.label>巅峰绑定收获 - 突现</OE_Bond_ODC_Trophy_BladeLauncher_B.label>
+<OE_Bond_ODC_Trophy_BladeLauncher_B.description>巅峰绑定收获 - 突现。</OE_Bond_ODC_Trophy_BladeLauncher_B.description>
+<OE_Bond_ODC_Trophy_BladeLauncher_B.jobString>正在巅峰绑定收获 - 突现。</OE_Bond_ODC_Trophy_BladeLauncher_B.jobString>
 
-<OE_Reset_ODC_Trophy_BladeLauncher_B_P.label>Reset Paragon Harvest - Emergent</OE_Reset_ODC_Trophy_BladeLauncher_B_P.label>
-<OE_Reset_ODC_Trophy_BladeLauncher_B_P.description>Reset a Paragon Harvest - Emergent.\n\nWarning! Item Quality and Paragon traits will be changed.</OE_Reset_ODC_Trophy_BladeLauncher_B_P.description>
-<OE_Reset_ODC_Trophy_BladeLauncher_B_P.jobString>Resetting a Paragon Harvest - Emergent.</OE_Reset_ODC_Trophy_BladeLauncher_B_P.jobString>
+<OE_Reset_ODC_Trophy_BladeLauncher_B_P.label>重置巅峰收获 - 突现</OE_Reset_ODC_Trophy_BladeLauncher_B_P.label>
+<OE_Reset_ODC_Trophy_BladeLauncher_B_P.description>重置巅峰收获 - 突现。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_Trophy_BladeLauncher_B_P.description>
+<OE_Reset_ODC_Trophy_BladeLauncher_B_P.jobString>正在重置巅峰收获 - 突现。</OE_Reset_ODC_Trophy_BladeLauncher_B_P.jobString>
 <!--=============== Apex ====================-->
-<OE_Bond_ODC_Trophy_BladeLauncher_C.label>Paragon bond Harvest - Apex</OE_Bond_ODC_Trophy_BladeLauncher_C.label>
-<OE_Bond_ODC_Trophy_BladeLauncher_C.description>Paragon bond a Harvest - Apex.</OE_Bond_ODC_Trophy_BladeLauncher_C.description>
-<OE_Bond_ODC_Trophy_BladeLauncher_C.jobString>Paragon bonding a Harvest - Apex.</OE_Bond_ODC_Trophy_BladeLauncher_C.jobString>
+<OE_Bond_ODC_Trophy_BladeLauncher_C.label>巅峰绑定收获 - 巅峰</OE_Bond_ODC_Trophy_BladeLauncher_C.label>
+<OE_Bond_ODC_Trophy_BladeLauncher_C.description>巅峰绑定收获 - 巅峰。</OE_Bond_ODC_Trophy_BladeLauncher_C.description>
+<OE_Bond_ODC_Trophy_BladeLauncher_C.jobString>正在巅峰绑定收获 - 巅峰。</OE_Bond_ODC_Trophy_BladeLauncher_C.jobString>
 
-<OE_Reset_ODC_Trophy_BladeLauncher_C_P.label>Reset Paragon Harvest - Apex</OE_Reset_ODC_Trophy_BladeLauncher_C_P.label>
-<OE_Reset_ODC_Trophy_BladeLauncher_C_P.description>Reset a Paragon Harvest - Apex.\n\nWarning! Item Quality and Paragon traits will be changed.</OE_Reset_ODC_Trophy_BladeLauncher_C_P.description>
-<OE_Reset_ODC_Trophy_BladeLauncher_C_P.jobString>Resetting a Paragon Harvest - Apex.</OE_Reset_ODC_Trophy_BladeLauncher_C_P.jobString>
+<OE_Reset_ODC_Trophy_BladeLauncher_C_P.label>重置巅峰收获 - 巅峰</OE_Reset_ODC_Trophy_BladeLauncher_C_P.label>
+<OE_Reset_ODC_Trophy_BladeLauncher_C_P.description>重置巅峰收获 - 巅峰。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_Trophy_BladeLauncher_C_P.description>
+<OE_Reset_ODC_Trophy_BladeLauncher_C_P.jobString>正在重置巅峰收获 - 巅峰。</OE_Reset_ODC_Trophy_BladeLauncher_C_P.jobString>
 
-<OE_Reset_ODC_Trophy_BladeLauncher_C_I.label>Reset Inlaid Harvest - Apex</OE_Reset_ODC_Trophy_BladeLauncher_C_I.label>
-<OE_Reset_ODC_Trophy_BladeLauncher_C_I.description>Reset an Inlaid Harvest - Apex.\n\nWarning! Item Quality and Paragon traits will be changed.</OE_Reset_ODC_Trophy_BladeLauncher_C_I.description>
-<OE_Reset_ODC_Trophy_BladeLauncher_C_I.jobString>Resetting an Inlaid Harvest - Apex.</OE_Reset_ODC_Trophy_BladeLauncher_C_I.jobString>
+<OE_Reset_ODC_Trophy_BladeLauncher_C_I.label>重置镶嵌收获 - 巅峰</OE_Reset_ODC_Trophy_BladeLauncher_C_I.label>
+<OE_Reset_ODC_Trophy_BladeLauncher_C_I.description>重置镶嵌收获 - 巅峰。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_Trophy_BladeLauncher_C_I.description>
+<OE_Reset_ODC_Trophy_BladeLauncher_C_I.jobString>正在重置镶嵌收获 - 巅峰。</OE_Reset_ODC_Trophy_BladeLauncher_C_I.jobString>
 
 <!--=============== ODC PowerFist ====================-->
 <!--=============== Level-9 ====================-->
-<OE_Reset_ODC_Trophy_PowerFist_J.label>Reset Eternal Gauntlet Mk.VIII</OE_Reset_ODC_Trophy_PowerFist_J.label>
-<OE_Reset_ODC_Trophy_PowerFist_J.description>Reset an Eternal Gauntlet Mk.VIII.\n\nWarning! Item Quality and Persona traits will be changed.</OE_Reset_ODC_Trophy_PowerFist_J.description>
-<OE_Reset_ODC_Trophy_PowerFist_J.jobString>Resetting an Eternal Gauntlet Mk.VIII.</OE_Reset_ODC_Trophy_PowerFist_J.jobString>
+<OE_Reset_ODC_Trophy_PowerFist_J.label>重置永恒拳套Mk.VIII</OE_Reset_ODC_Trophy_PowerFist_J.label>
+<OE_Reset_ODC_Trophy_PowerFist_J.description>重置永恒拳套Mk.VIII。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_ODC_Trophy_PowerFist_J.description>
+<OE_Reset_ODC_Trophy_PowerFist_J.jobString>正在重置永恒拳套Mk.VIII。</OE_Reset_ODC_Trophy_PowerFist_J.jobString>
 
 </LanguageData>

@@ -2,29 +2,29 @@
 
 <LanguageData>
 <!--=============== OEC - Scepter ====================-->
-<OE_Bond_OEC_Trophy_Scepter.label>Persona bond Ancient Scepter</OE_Bond_OEC_Trophy_Scepter.label>
-<OE_Bond_OEC_Trophy_Scepter.description>Persona bond an Ancient Scepter.</OE_Bond_OEC_Trophy_Scepter.description>
-<OE_Bond_OEC_Trophy_Scepter.jobString>Persona bonding a Ancient Scepter.</OE_Bond_OEC_Trophy_Scepter.jobString>
+<OE_Bond_OEC_Trophy_Scepter.label>人格绑定远古权杖</OE_Bond_OEC_Trophy_Scepter.label>
+<OE_Bond_OEC_Trophy_Scepter.description>人格绑定远古权杖。</OE_Bond_OEC_Trophy_Scepter.description>
+<OE_Bond_OEC_Trophy_Scepter.jobString>正在人格绑定远古权杖。</OE_Bond_OEC_Trophy_Scepter.jobString>
 
-<OE_Reset_OEC_Trophy_Scepter_P.label>Reset Persona Ancient Scepter</OE_Reset_OEC_Trophy_Scepter_P.label>
-<OE_Reset_OEC_Trophy_Scepter_P.description>Reset a Persona Ancient Scepter.\n\nWarning! Item Quality and Persona traits will be changed.</OE_Reset_OEC_Trophy_Scepter_P.description>
-<OE_Reset_OEC_Trophy_Scepter_P.jobString>Resetting a Persona Ancient Scepter.</OE_Reset_OEC_Trophy_Scepter_P.jobString>
+<OE_Reset_OEC_Trophy_Scepter_P.label>重置人格远古权杖</OE_Reset_OEC_Trophy_Scepter_P.label>
+<OE_Reset_OEC_Trophy_Scepter_P.description>重置人格远古权杖。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OEC_Trophy_Scepter_P.description>
+<OE_Reset_OEC_Trophy_Scepter_P.jobString>正在重置人格远古权杖。</OE_Reset_OEC_Trophy_Scepter_P.jobString>
 
-<OE_Reset_OEC_Trophy_Scepter_I.label>Reset Inlaid Ancient Scepter</OE_Reset_OEC_Trophy_Scepter_I.label>
-<OE_Reset_OEC_Trophy_Scepter_I.description>Reset an Inlaid Ancient Scepter.\n\nWarning! Item Quality and Persona traits will be changed.</OE_Reset_OEC_Trophy_Scepter_I.description>
-<OE_Reset_OEC_Trophy_Scepter_I.jobString>Resetting an Inlaid Ancient Scepter.</OE_Reset_OEC_Trophy_Scepter_I.jobString>
+<OE_Reset_OEC_Trophy_Scepter_I.label>重置镶嵌远古权杖</OE_Reset_OEC_Trophy_Scepter_I.label>
+<OE_Reset_OEC_Trophy_Scepter_I.description>重置镶嵌远古权杖。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OEC_Trophy_Scepter_I.description>
+<OE_Reset_OEC_Trophy_Scepter_I.jobString>正在重置镶嵌远古权杖。</OE_Reset_OEC_Trophy_Scepter_I.jobString>
 
 <!--=============== OEC - Pistol ====================-->
-<OE_Bond_OEC_Trophy_Pistol.label>Paragon bond Divinity</OE_Bond_OEC_Trophy_Pistol.label>
-<OE_Bond_OEC_Trophy_Pistol.description>Paragon bond an Divinity.</OE_Bond_OEC_Trophy_Pistol.description>
-<OE_Bond_OEC_Trophy_Pistol.jobString>Paragon bonding a Divinity.</OE_Bond_OEC_Trophy_Pistol.jobString>
+<OE_Bond_OEC_Trophy_Pistol.label>巅峰绑定神性</OE_Bond_OEC_Trophy_Pistol.label>
+<OE_Bond_OEC_Trophy_Pistol.description>巅峰绑定神性。</OE_Bond_OEC_Trophy_Pistol.description>
+<OE_Bond_OEC_Trophy_Pistol.jobString>正在巅峰绑定神性。</OE_Bond_OEC_Trophy_Pistol.jobString>
 
-<OE_Reset_OEC_Trophy_Pistol_P.label>Reset Paragon Divinity</OE_Reset_OEC_Trophy_Pistol_P.label>
-<OE_Reset_OEC_Trophy_Pistol_P.description>Reset a Paragon Divinity.\n\nWarning! Item Quality and Paragon traits will be changed.</OE_Reset_OEC_Trophy_Pistol_P.description>
-<OE_Reset_OEC_Trophy_Pistol_P.jobString>Resetting a Paragon Divinity.</OE_Reset_OEC_Trophy_Pistol_P.jobString>
+<OE_Reset_OEC_Trophy_Pistol_P.label>重置巅峰神性</OE_Reset_OEC_Trophy_Pistol_P.label>
+<OE_Reset_OEC_Trophy_Pistol_P.description>重置巅峰神性。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OEC_Trophy_Pistol_P.description>
+<OE_Reset_OEC_Trophy_Pistol_P.jobString>正在重置巅峰神性。</OE_Reset_OEC_Trophy_Pistol_P.jobString>
 
-<OE_Reset_OEC_Trophy_Pistol_I.label>Reset Inlaid Divinity</OE_Reset_OEC_Trophy_Pistol_I.label>
-<OE_Reset_OEC_Trophy_Pistol_I.description>Reset an Inlaid Divinity.\n\nWarning! Item Quality and Paragon traits will be changed.</OE_Reset_OEC_Trophy_Pistol_I.description>
-<OE_Reset_OEC_Trophy_Pistol_I.jobString>Resetting an Inlaid Divinity.</OE_Reset_OEC_Trophy_Pistol_I.jobString>
+<OE_Reset_OEC_Trophy_Pistol_I.label>重置镶嵌神性</OE_Reset_OEC_Trophy_Pistol_I.label>
+<OE_Reset_OEC_Trophy_Pistol_I.description>重置镶嵌神性。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OEC_Trophy_Pistol_I.description>
+<OE_Reset_OEC_Trophy_Pistol_I.jobString>正在重置镶嵌神性。</OE_Reset_OEC_Trophy_Pistol_I.jobString>
 
 </LanguageData>
