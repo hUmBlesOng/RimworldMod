@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== Ancient Pod EGO ====================-->
-<OE_AncientPodEGO.label>奇异舱</OE_AncientPodEGO.label>
-<OE_AncientPodEGO.description>包含未知生物物质的奇异舱。</OE_AncientPodEGO.description>
+<OE_AncientPodEGO.label>weird pod</OE_AncientPodEGO.label>
+<OE_AncientPodEGO.description>A weird pod containing an unknown bio-substance.</OE_AncientPodEGO.description>
 
 </LanguageData>

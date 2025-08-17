@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+<!--=============== OMC ====================-->
+<OE_Beacongroup_OMC.leaderDescription>由装备OMC装备的{LEADERKIND_label}领导的战斗小队。</OE_Beacongroup_OMC.leaderDescription>
+
+<!--=============== OTC ====================-->
+<OE_Beacongroup_OTC.leaderDescription>由装备OTC装备的{LEADERKIND_label}领导的战斗小队。</OE_Beacongroup_OTC.leaderDescription>
+
+<!--=============== OCC ====================-->
+<OE_Beacongroup_OCC.leaderDescription>由装备OCC装备的{LEADERKIND_label}领导的战斗小队。</OE_Beacongroup_OCC.leaderDescription>
+
+<!--=============== OEC ====================-->
+<OE_Beacongroup_OEC.leaderDescription>由装备OEC装备的{LEADERKIND_label}领导的战斗小队。</OE_Beacongroup_OEC.leaderDescription>
+
+<!--=============== ODC ====================-->
+<OE_Beacongroup_ODC.leaderDescription>由装备ODC装备的{LEADERKIND_label}领导的游牧者小队。</OE_Beacongroup_ODC.leaderDescription>
+
+<!--=============== CAC ====================-->
+<OE_Beacongroup_CAC.leaderDescription>由装备CAC装备的{LEADERKIND_label}领导的邪教徒小队。</OE_Beacongroup_CAC.leaderDescription>
+
+<!--=============== OES ====================-->
+<OE_Beacongroup_OES.leaderDescription>由装备英雄装备的{LEADERKIND_label}领导的失落幻影小队。</OE_Beacongroup_OES.leaderDescription>
+
+<!--=============== Crimson Arachna ====================-->
+<OE_Beacongroup_CrimsonArachna.leaderDescription>{LEADERKIND_label}是深红蜘蛛邪教的机械指挥官，内置机械培育器，能够部署蜘蛛无人机战斗机械。</OE_Beacongroup_CrimsonArachna.leaderDescription>
+
+<!--=============== Fallen Legion ====================-->
+<OE_Beacongroup_FallenLegion.leaderDescription>{LEADERKIND_label}是黑曜石帝国罪恶堡垒级机械指挥官，专为压制敌人和全面控制战场而设计。</OE_Beacongroup_FallenLegion.leaderDescription>
+
+<!--=============== CAC - Anomaly ====================-->
+<OE_Beacongroup_CAC_Anomaly.leaderDescription>由装备CAC装备的{LEADERKIND_label}领导的邪教实体小队。</OE_Beacongroup_CAC_Anomaly.leaderDescription>
+
+</LanguageData>

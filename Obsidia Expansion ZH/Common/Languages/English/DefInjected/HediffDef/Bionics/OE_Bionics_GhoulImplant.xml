@@ -1,43 +1,43 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== Ghoul Skin ====================-->
-<OE_GhoulImplantSkin.label>食尸鬼皮肤植入物 - 甲壳</OE_GhoulImplantSkin.label>
-<OE_GhoulImplantSkin.labelNoun>一个食尸鬼皮肤植入物 - 甲壳</OE_GhoulImplantSkin.labelNoun>
-<OE_GhoulImplantSkin.description>已安装的食尸鬼皮肤植入物 - 甲壳。</OE_GhoulImplantSkin.description>
+<OE_GhoulImplantSkin.label>ghoul skin implant - Carapace</OE_GhoulImplantSkin.label>
+<OE_GhoulImplantSkin.labelNoun>a ghoul skin implant - Carapace</OE_GhoulImplantSkin.labelNoun>
+<OE_GhoulImplantSkin.description>An installed ghoul skin implant - Carapace.</OE_GhoulImplantSkin.description>
 
 <!--=============== Ghoul Stomach ====================-->
-<OE_GhoulImplantStomach.label>食尸鬼胃植入物 - 幼虫</OE_GhoulImplantStomach.label>
-<OE_GhoulImplantStomach.labelNoun>一个食尸鬼胃植入物 - 幼虫</OE_GhoulImplantStomach.labelNoun>
-<OE_GhoulImplantStomach.description>已安装的食尸鬼胃植入物 - 幼虫。</OE_GhoulImplantStomach.description>
+<OE_GhoulImplantStomach.label>ghoul stomach implant - Larva</OE_GhoulImplantStomach.label>
+<OE_GhoulImplantStomach.labelNoun>a ghoul stomach implant - Larva</OE_GhoulImplantStomach.labelNoun>
+<OE_GhoulImplantStomach.description>An installed ghoul stomach implant - Larva.</OE_GhoulImplantStomach.description>
 
 <!--=============== Ghoul Skeleton ====================-->
-<OE_GhoulImplantSkeleton.label>食尸鬼骨架植入物 - 圣甲虫</OE_GhoulImplantSkeleton.label>
-<OE_GhoulImplantSkeleton.labelNoun>一个食尸鬼骨架植入物 - 圣甲虫</OE_GhoulImplantSkeleton.labelNoun>
-<OE_GhoulImplantSkeleton.description>已安装的食尸鬼骨架植入物 - 圣甲虫。</OE_GhoulImplantSkeleton.description>
+<OE_GhoulImplantSkeleton.label>ghoul skeleton implant - Scarab</OE_GhoulImplantSkeleton.label>
+<OE_GhoulImplantSkeleton.labelNoun>a ghoul skeleton implant - Scarab</OE_GhoulImplantSkeleton.labelNoun>
+<OE_GhoulImplantSkeleton.description>An installed ghoul skeleton implant - Scarab.</OE_GhoulImplantSkeleton.description>
 
 <!--=============== Ghoul Head Prosthetic ====================-->
-<CAC_GhoulProstheticHelmet.label>食尸鬼头骨假体 - 十字军头盔</CAC_GhoulProstheticHelmet.label>
-<CAC_GhoulProstheticHelmet.labelNoun>一个食尸鬼头骨假体 - 十字军头盔</CAC_GhoulProstheticHelmet.labelNoun>
-<CAC_GhoulProstheticHelmet.description>已安装的食尸鬼头骨假体 - 十字军头盔。</CAC_GhoulProstheticHelmet.description>
+<CAC_GhoulProstheticHelmet.label>ghoul skull prosthetic - Crusader's Helmet</CAC_GhoulProstheticHelmet.label>
+<CAC_GhoulProstheticHelmet.labelNoun>a ghoul skull prosthetic - Crusader's Helmet</CAC_GhoulProstheticHelmet.labelNoun>
+<CAC_GhoulProstheticHelmet.description>An installed ghoul skull prosthetic - Crusader's Helmet.</CAC_GhoulProstheticHelmet.description>
 
 <!--=============== Ghoul Shoulder Prosthetic ====================-->
-<CAC_GhoulProstheticClaws.label>食尸鬼手臂假体 - 十字军利爪</CAC_GhoulProstheticClaws.label>
-<CAC_GhoulProstheticClaws.labelNoun>一个食尸鬼手臂假体 - 十字军利爪</CAC_GhoulProstheticClaws.labelNoun>
-<CAC_GhoulProstheticClaws.description>已安装的食尸鬼手臂假体 - 十字军利爪。</CAC_GhoulProstheticClaws.description>
-<CAC_GhoulProstheticClaws.comps.HediffComp_VerbGiver.tools.claws.label>利爪</CAC_GhoulProstheticClaws.comps.HediffComp_VerbGiver.tools.claws.label>
+<CAC_GhoulProstheticClaws.label>ghoul arm prosthetic - Crusader's Claws</CAC_GhoulProstheticClaws.label>
+<CAC_GhoulProstheticClaws.labelNoun>a ghoul arm prosthetic - Crusader's Claws</CAC_GhoulProstheticClaws.labelNoun>
+<CAC_GhoulProstheticClaws.description>An installed ghoul arm prosthetic - Crusader's Claws.</CAC_GhoulProstheticClaws.description>
+<CAC_GhoulProstheticClaws.comps.HediffComp_VerbGiver.tools.claws.label>claws</CAC_GhoulProstheticClaws.comps.HediffComp_VerbGiver.tools.claws.label>
 
 <!--=============== Ghoul Torso Prosthetic ====================-->
-<CAC_GhoulProstheticChamber.label>食尸鬼躯干假体 - 十字军驱动器</CAC_GhoulProstheticChamber.label>
-<CAC_GhoulProstheticChamber.labelNoun>一个食尸鬼躯干假体 - 十字军驱动器</CAC_GhoulProstheticChamber.labelNoun>
-<CAC_GhoulProstheticChamber.description>已安装的食尸鬼躯干假体 - 十字军驱动器。</CAC_GhoulProstheticChamber.description>
+<CAC_GhoulProstheticChamber.label>ghoul body prosthetic - Crusader's Drive</CAC_GhoulProstheticChamber.label>
+<CAC_GhoulProstheticChamber.labelNoun>a ghoul body prosthetic - Crusader's Drive</CAC_GhoulProstheticChamber.labelNoun>
+<CAC_GhoulProstheticChamber.description>An installed ghoul body prosthetic - Crusader's Drive.</CAC_GhoulProstheticChamber.description>
 
 <!--=============== Kinetic Drive ====================-->
-<OE_Ghoul_KineticDrive.label>动能驱动器</OE_Ghoul_KineticDrive.label>
-<OE_Ghoul_KineticDrive.description>这个生物的血液中充满了挥发性兴奋剂和合成肾上腺素，极大地提高了它的速度和战斗反应能力，但代价是代谢负担增加。</OE_Ghoul_KineticDrive.description>
+<OE_Ghoul_KineticDrive.label>kinetic drive</OE_Ghoul_KineticDrive.label>
+<OE_Ghoul_KineticDrive.description>This creature's blood is saturated with volatile stimulants and synthetic adrenaline, greatly enhancing its speed and combat reflexes, at the cost of rising metabolic strain.</OE_Ghoul_KineticDrive.description>
 
 <!--=============== Bastion Drive ====================-->
-<OE_Ghoul_BastionDrive.label>堡垒驱动器</OE_Ghoul_BastionDrive.label>
-<OE_Ghoul_BastionDrive.description>这个生物的血液中充满了保护性催化剂和生化护盾，使身体硬化以抵御伤害和火焰，但代价是代谢负担增加。</OE_Ghoul_BastionDrive.description>
+<OE_Ghoul_BastionDrive.label>bastion drive</OE_Ghoul_BastionDrive.label>
+<OE_Ghoul_BastionDrive.description>This creature's blood is saturated with protective catalysts and biochemical shields, hardening its body against injury and fire, at the cost of rising metabolic strain.</OE_Ghoul_BastionDrive.description>
 
 </LanguageData>

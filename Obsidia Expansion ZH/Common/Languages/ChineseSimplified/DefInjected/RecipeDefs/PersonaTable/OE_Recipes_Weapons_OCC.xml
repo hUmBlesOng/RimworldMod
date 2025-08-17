@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== OCC ====================-->
+<!--=============== BigSword ====================-->
+<OE_Reset_OCC_BigSword_P.label>重置人格重铸式神</OE_Reset_OCC_BigSword_P.label>
+<OE_Reset_OCC_BigSword_P.description>重置人格重铸式神。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OCC_BigSword_P.description>
+<OE_Reset_OCC_BigSword_P.jobString>正在重置人格重铸式神。</OE_Reset_OCC_BigSword_P.jobString>
+
+<!--=============== BigHammer ====================-->
+<OE_Reset_OCC_BigHammer_P.label>重置人格重铸鬼</OE_Reset_OCC_BigHammer_P.label>
+<OE_Reset_OCC_BigHammer_P.description>重置人格重铸鬼。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OCC_BigHammer_P.description>
+<OE_Reset_OCC_BigHammer_P.jobString>正在重置人格重铸鬼。</OE_Reset_OCC_BigHammer_P.jobString>
+
+<!--=============== PowerFist ====================-->
+<OE_Reset_OCC_PowerFist_P.label>重置人格重铸泰丰</OE_Reset_OCC_PowerFist_P.label>
+<OE_Reset_OCC_PowerFist_P.description>重置人格重铸泰丰。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OCC_PowerFist_P.description>
+<OE_Reset_OCC_PowerFist_P.jobString>正在重置人格重铸泰丰。</OE_Reset_OCC_PowerFist_P.jobString>
+
+<!--=============== Elemental PowerFist ====================-->
+<!--=============== Acid ====================-->
+<OE_Reset_OCC_PowerFist_P_Acid.label>重置人格重铸泰丰(酸液)</OE_Reset_OCC_PowerFist_P_Acid.label>
+<OE_Reset_OCC_PowerFist_P_Acid.description>重置人格重铸泰丰(酸液)。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OCC_PowerFist_P_Acid.description>
+<OE_Reset_OCC_PowerFist_P_Acid.jobString>正在重置人格重铸泰丰(酸液)。</OE_Reset_OCC_PowerFist_P_Acid.jobString>
+<!--=============== Cryo ====================-->
+<OE_Reset_OCC_PowerFist_P_Cryo.label>重置人格重铸泰丰(冷冻)</OE_Reset_OCC_PowerFist_P_Cryo.label>
+<OE_Reset_OCC_PowerFist_P_Cryo.description>重置人格重铸泰丰(冷冻)。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OCC_PowerFist_P_Cryo.description>
+<OE_Reset_OCC_PowerFist_P_Cryo.jobString>正在重置人格重铸泰丰(冷冻)。</OE_Reset_OCC_PowerFist_P_Cryo.jobString>
+<!--=============== Fire ====================-->
+<OE_Reset_OCC_PowerFist_P_Fire.label>重置人格重铸泰丰(火焰)</OE_Reset_OCC_PowerFist_P_Fire.label>
+<OE_Reset_OCC_PowerFist_P_Fire.description>重置人格重铸泰丰(火焰)。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OCC_PowerFist_P_Fire.description>
+<OE_Reset_OCC_PowerFist_P_Fire.jobString>正在重置人格重铸泰丰(火焰)。</OE_Reset_OCC_PowerFist_P_Fire.jobString>
+<!--=============== EMP ====================-->
+<OE_Reset_OCC_PowerFist_P_EMP.label>重置人格重铸泰丰(电磁)</OE_Reset_OCC_PowerFist_P_EMP.label>
+<OE_Reset_OCC_PowerFist_P_EMP.description>重置人格重铸泰丰(电磁)。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OCC_PowerFist_P_EMP.description>
+<OE_Reset_OCC_PowerFist_P_EMP.jobString>正在重置人格重铸泰丰(电磁)。</OE_Reset_OCC_PowerFist_P_EMP.jobString>
+
+<!--=============== Revolver ====================-->
+<OE_Reset_OCC_Revolver_P.label>重置巅峰重铸黄蜂</OE_Reset_OCC_Revolver_P.label>
+<OE_Reset_OCC_Revolver_P.description>重置巅峰重铸黄蜂。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OCC_Revolver_P.description>
+<OE_Reset_OCC_Revolver_P.jobString>正在重置巅峰重铸黄蜂。</OE_Reset_OCC_Revolver_P.jobString>
+
+<!--=============== Rifle ====================-->
+<OE_Reset_OCC_Rifle_P.label>重置巅峰重铸地狱犬</OE_Reset_OCC_Rifle_P.label>
+<OE_Reset_OCC_Rifle_P.description>重置巅峰重铸地狱犬。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OCC_Rifle_P.description>
+<OE_Reset_OCC_Rifle_P.jobString>正在重置巅峰重铸地狱犬。</OE_Reset_OCC_Rifle_P.jobString>
+
+<!--=============== Minigun ====================-->
+<OE_Reset_OCC_Minigun_P.label>重置巅峰重铸九头蛇</OE_Reset_OCC_Minigun_P.label>
+<OE_Reset_OCC_Minigun_P.description>重置巅峰重铸九头蛇。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OCC_Minigun_P.description>
+<OE_Reset_OCC_Minigun_P.jobString>正在重置巅峰重铸九头蛇。</OE_Reset_OCC_Minigun_P.jobString>
+
+<!--=============== MultiCannon ====================-->
+<OE_Reset_OCC_MultiCannon_P.label>重置巅峰重铸奇美拉</OE_Reset_OCC_MultiCannon_P.label>
+<OE_Reset_OCC_MultiCannon_P.description>重置巅峰重铸奇美拉。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OCC_MultiCannon_P.description>
+<OE_Reset_OCC_MultiCannon_P.jobString>正在重置巅峰重铸奇美拉。</OE_Reset_OCC_MultiCannon_P.jobString>
+
+<!--=============== Rocket Launcher ====================-->
+<OE_Reset_OCC_RocketLauncher_P.label>重置巅峰重铸巨兽</OE_Reset_OCC_RocketLauncher_P.label>
+<OE_Reset_OCC_RocketLauncher_P.description>重置巅峰重铸巨兽。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OCC_RocketLauncher_P.description>
+<OE_Reset_OCC_RocketLauncher_P.jobString>正在重置巅峰重铸巨兽。</OE_Reset_OCC_RocketLauncher_P.jobString>
+
+<!--=============== Cross ====================-->
+<!--=============== AssaultRifle ====================-->
+<OE_Reset_OCC_AR_P.label>重置巅峰重铸斯库拉</OE_Reset_OCC_AR_P.label>
+<OE_Reset_OCC_AR_P.description>重置巅峰重铸斯库拉。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OCC_AR_P.description>
+<OE_Reset_OCC_AR_P.jobString>正在重置巅峰重铸斯库拉。</OE_Reset_OCC_AR_P.jobString>
+
+<!--=============== Bow ====================-->
+<OE_Reset_OCC_Bow_P.label>重置巅峰重铸温迪戈</OE_Reset_OCC_Bow_P.label>
+<OE_Reset_OCC_Bow_P.description>重置巅峰重铸温迪戈。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OCC_Bow_P.description>
+<OE_Reset_OCC_Bow_P.jobString>正在重置巅峰重铸温迪戈。</OE_Reset_OCC_Bow_P.jobString>
+
+</LanguageData>

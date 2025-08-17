@@ -1,28 +1,28 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== Torraxin ====================-->
-<OE_Torraxin.label>托拉辛</OE_Torraxin.label>
-<OE_Torraxin.description>一种专为近战战士使用的战斗兴奋剂，具有3个效果阶段（效果随时间减弱）。黑曜石技术，兴奋剂可能会上瘾并有不良副作用。</OE_Torraxin.description>
-<OE_Torraxin.ingestible.ingestCommandString>服用{0}</OE_Torraxin.ingestible.ingestCommandString>
-<OE_Torraxin.ingestible.ingestReportString>正在服用{0}</OE_Torraxin.ingestible.ingestReportString>
+<OE_Torraxin.label>torraxin</OE_Torraxin.label>
+<OE_Torraxin.description>A specialized combat stimpack with 3 stages of effect (the effect weakens over time), intended for use by melee fighters. Obsidia technology, a stimpack can be addictive and has unpleasant after-effects.</OE_Torraxin.description>
+<OE_Torraxin.ingestible.ingestCommandString>Take {0}</OE_Torraxin.ingestible.ingestCommandString>
+<OE_Torraxin.ingestible.ingestReportString>Taking {0}</OE_Torraxin.ingestible.ingestReportString>
 
 <!--=============== Joltixin ====================-->
-<OE_Joltixin.label>乔尔提辛</OE_Joltixin.label>
-<OE_Joltixin.description>一种专为枪手使用的战斗兴奋剂，具有3个效果阶段（效果随时间减弱）。黑曜石技术，兴奋剂可能会上瘾并有不良副作用。</OE_Joltixin.description>
-<OE_Joltixin.ingestible.ingestCommandString>服用{0}</OE_Joltixin.ingestible.ingestCommandString>
-<OE_Joltixin.ingestible.ingestReportString>正在服用{0}</OE_Joltixin.ingestible.ingestReportString>
+<OE_Joltixin.label>joltixin</OE_Joltixin.label>
+<OE_Joltixin.description>A specialized combat stimpack with 3 stages of effect (the effect weakens over time), intended for use by gunners. Obsidia technology, a stimpack can be addictive and has unpleasant after-effects.</OE_Joltixin.description>
+<OE_Joltixin.ingestible.ingestCommandString>Take {0}</OE_Joltixin.ingestible.ingestCommandString>
+<OE_Joltixin.ingestible.ingestReportString>Taking {0}</OE_Joltixin.ingestible.ingestReportString>
 
 <!--=============== Luraxin ====================-->
-<OE_Luraxin.label>卢拉辛</OE_Luraxin.label>
-<OE_Luraxin.description>一种专为灵能使用者使用的战斗兴奋剂，具有3个效果阶段（效果随时间减弱）。黑曜石技术，兴奋剂可能会上瘾并有不良副作用。</OE_Luraxin.description>
-<OE_Luraxin.ingestible.ingestCommandString>服用{0}</OE_Luraxin.ingestible.ingestCommandString>
-<OE_Luraxin.ingestible.ingestReportString>正在服用{0}</OE_Luraxin.ingestible.ingestReportString>
+<OE_Luraxin.label>luraxin</OE_Luraxin.label>
+<OE_Luraxin.description>A specialized combat stimpack with 3 stages of effect (the effect weakens over time), intended for use by psy-users. Obsidia technology, a stimpack can be addictive and has unpleasant after-effects.</OE_Luraxin.description>
+<OE_Luraxin.ingestible.ingestCommandString>Take {0}</OE_Luraxin.ingestible.ingestCommandString>
+<OE_Luraxin.ingestible.ingestReportString>Taking {0}</OE_Luraxin.ingestible.ingestReportString>
 
 <!--=============== Alcrexin ====================-->
-<OE_Alcrexin.label>阿尔克辛</OE_Alcrexin.label>
-<OE_Alcrexin.description>一种专为机械师使用的战斗兴奋剂，具有3个效果阶段（效果随时间减弱）。黑曜石技术，兴奋剂可能会上瘾并有不良副作用。</OE_Alcrexin.description>
-<OE_Alcrexin.ingestible.ingestCommandString>服用{0}</OE_Alcrexin.ingestible.ingestCommandString>
-<OE_Alcrexin.ingestible.ingestReportString>正在服用{0}</OE_Alcrexin.ingestible.ingestReportString>
+<OE_Alcrexin.label>alcrexin</OE_Alcrexin.label>
+<OE_Alcrexin.description>A specialized combat stimpack with 3 stages of effect (the effect weakens over time), intended for use by mechanitors. Obsidia technology, a stimpack can be addictive and has unpleasant after-effects.</OE_Alcrexin.description>
+<OE_Alcrexin.ingestible.ingestCommandString>Take {0}</OE_Alcrexin.ingestible.ingestCommandString>
+<OE_Alcrexin.ingestible.ingestReportString>Taking {0}</OE_Alcrexin.ingestible.ingestReportString>
 
 </LanguageData>

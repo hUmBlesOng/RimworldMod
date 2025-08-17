@@ -1,74 +1,74 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== OMC Drone ====================-->
-<OMC_Drone.label>迷斯蒂</OMC_Drone.label>
-<OMC_Drone.description>个人无人机伴侣由OMC设计，作为战斗助手提高所有者属性并可独立射击。\n\n使用重构的OMC霰弹枪作为武器。</OMC_Drone.description>
-<OMC_Drone.verbs.0.label>末日</OMC_Drone.verbs.0.label>
-<OMC_Drone.comps.Comp_VerbGiver.verbProps.0.label>末日</OMC_Drone.comps.Comp_VerbGiver.verbProps.0.label>
-<OMC_Drone.comps.Comp_VerbGiver.verbProps.0.visualLabel>迷你末日</OMC_Drone.comps.Comp_VerbGiver.verbProps.0.visualLabel>
-<OMC_Drone.comps.Comp_VerbGiver.verbProps.0.description>为无人机使用而重构的OMC霰弹枪。</OMC_Drone.comps.Comp_VerbGiver.verbProps.0.description>
+<OMC_Drone.label>Mistie</OMC_Drone.label>
+<OMC_Drone.description>The personal drone-companion is designed by OMC as a combat assistant improves the owner stats and can firing independently.\n\nUses as a weapon reconstructed OMC Shotgun.</OMC_Drone.description>
+<OMC_Drone.verbs.0.label>Doom</OMC_Drone.verbs.0.label>
+<OMC_Drone.comps.Comp_VerbGiver.verbProps.0.label>Doom</OMC_Drone.comps.Comp_VerbGiver.verbProps.0.label>
+<OMC_Drone.comps.Comp_VerbGiver.verbProps.0.visualLabel>mini-Doom</OMC_Drone.comps.Comp_VerbGiver.verbProps.0.visualLabel>
+<OMC_Drone.comps.Comp_VerbGiver.verbProps.0.description>Reconstructed OMC Shotgun for use by drone.</OMC_Drone.comps.Comp_VerbGiver.verbProps.0.description>
 
 <!--=============== OMC Drone ====================-->
 <!--=============== Acid ====================-->
-<OTC_Drone_Acid.label>风暴使者(酸性)</OTC_Drone_Acid.label>
-<OTC_Drone_Acid.description>个人无人机伴侣由OTC设计，作为战斗助手提高所有者属性并可独立射击。\n\n使用重构的OTC手枪作为武器。充能酸性伤害。</OTC_Drone_Acid.description>
-<OTC_Drone_Acid.verbs.0.label>天界</OTC_Drone_Acid.verbs.0.label>
-<OTC_Drone_Acid.comps.Comp_VerbGiver.verbProps.0.label>天界</OTC_Drone_Acid.comps.Comp_VerbGiver.verbProps.0.label>
-<OTC_Drone_Acid.comps.Comp_VerbGiver.verbProps.0.visualLabel>迷你天界</OTC_Drone_Acid.comps.Comp_VerbGiver.verbProps.0.visualLabel>
-<OTC_Drone_Acid.comps.Comp_VerbGiver.verbProps.0.description>为无人机使用而重构的OTC手枪。充能酸性伤害。</OTC_Drone_Acid.comps.Comp_VerbGiver.verbProps.0.description>
+<OTC_Drone_Acid.label>Tempestrian(Acid)</OTC_Drone_Acid.label>
+<OTC_Drone_Acid.description>The personal drone-companion is designed by OTC as a combat assistant improves the owner stats and can firing independently.\n\nUses as a weapon reconstructed OTC Pistol. Charged with Acid damage.</OTC_Drone_Acid.description>
+<OTC_Drone_Acid.verbs.0.label>Celestial</OTC_Drone_Acid.verbs.0.label>
+<OTC_Drone_Acid.comps.Comp_VerbGiver.verbProps.0.label>Celestial</OTC_Drone_Acid.comps.Comp_VerbGiver.verbProps.0.label>
+<OTC_Drone_Acid.comps.Comp_VerbGiver.verbProps.0.visualLabel>mini-Celestial</OTC_Drone_Acid.comps.Comp_VerbGiver.verbProps.0.visualLabel>
+<OTC_Drone_Acid.comps.Comp_VerbGiver.verbProps.0.description>Reconstructed OTC Pistol for use by drone. Charged with Acid damage.</OTC_Drone_Acid.comps.Comp_VerbGiver.verbProps.0.description>
 <!--=============== Cryo ====================-->
-<OTC_Drone_Cryo.label>风暴使者(冷冻)</OTC_Drone_Cryo.label>
-<OTC_Drone_Cryo.description>个人无人机伴侣由OTC设计，作为战斗助手提高所有者属性并可独立射击。\n\n使用重构的OTC手枪作为武器。充能冷冻伤害。</OTC_Drone_Cryo.description>
-<OTC_Drone_Cryo.verbs.0.label>天界</OTC_Drone_Cryo.verbs.0.label>
-<OTC_Drone_Cryo.comps.Comp_VerbGiver.verbProps.0.label>天界</OTC_Drone_Cryo.comps.Comp_VerbGiver.verbProps.0.label>
-<OTC_Drone_Cryo.comps.Comp_VerbGiver.verbProps.0.visualLabel>迷你天界</OTC_Drone_Cryo.comps.Comp_VerbGiver.verbProps.0.visualLabel>
-<OTC_Drone_Cryo.comps.Comp_VerbGiver.verbProps.0.description>为无人机使用而重构的OTC手枪。充能冷冻伤害。</OTC_Drone_Cryo.comps.Comp_VerbGiver.verbProps.0.description>
+<OTC_Drone_Cryo.label>Tempestrian(Cryo)</OTC_Drone_Cryo.label>
+<OTC_Drone_Cryo.description>The personal drone-companion is designed by OTC as a combat assistant improves the owner stats and can firing independently.\n\nUses as a weapon reconstructed OTC Pistol. Charged with Cryo damage.</OTC_Drone_Cryo.description>
+<OTC_Drone_Cryo.verbs.0.label>Celestial</OTC_Drone_Cryo.verbs.0.label>
+<OTC_Drone_Cryo.comps.Comp_VerbGiver.verbProps.0.label>Celestial</OTC_Drone_Cryo.comps.Comp_VerbGiver.verbProps.0.label>
+<OTC_Drone_Cryo.comps.Comp_VerbGiver.verbProps.0.visualLabel>mini-Celestial</OTC_Drone_Cryo.comps.Comp_VerbGiver.verbProps.0.visualLabel>
+<OTC_Drone_Cryo.comps.Comp_VerbGiver.verbProps.0.description>Reconstructed OTC Pistol for use by drone. Charged with Cryo damage.</OTC_Drone_Cryo.comps.Comp_VerbGiver.verbProps.0.description>
 <!--=============== Fire ====================-->
-<OTC_Drone_Fire.label>风暴使者(火焰)</OTC_Drone_Fire.label>
-<OTC_Drone_Fire.description>个人无人机伴侣由OTC设计，作为战斗助手提高所有者属性并可独立射击。\n\n使用重构的OTC手枪作为武器。充能火焰伤害。</OTC_Drone_Fire.description>
-<OTC_Drone_Fire.verbs.0.label>天界</OTC_Drone_Fire.verbs.0.label>
-<OTC_Drone_Fire.comps.Comp_VerbGiver.verbProps.0.label>天界</OTC_Drone_Fire.comps.Comp_VerbGiver.verbProps.0.label>
-<OTC_Drone_Fire.comps.Comp_VerbGiver.verbProps.0.visualLabel>迷你天界</OTC_Drone_Fire.comps.Comp_VerbGiver.verbProps.0.visualLabel>
-<OTC_Drone_Fire.comps.Comp_VerbGiver.verbProps.0.description>为无人机使用而重构的OTC手枪。充能火焰伤害。</OTC_Drone_Fire.comps.Comp_VerbGiver.verbProps.0.description>
+<OTC_Drone_Fire.label>Tempestrian(Fire)</OTC_Drone_Fire.label>
+<OTC_Drone_Fire.description>The personal drone-companion is designed by OTC as a combat assistant improves the owner stats and can firing independently.\n\nUses as a weapon reconstructed OTC Pistol. Charged with Fire damage.</OTC_Drone_Fire.description>
+<OTC_Drone_Fire.verbs.0.label>Celestial</OTC_Drone_Fire.verbs.0.label>
+<OTC_Drone_Fire.comps.Comp_VerbGiver.verbProps.0.label>Celestial</OTC_Drone_Fire.comps.Comp_VerbGiver.verbProps.0.label>
+<OTC_Drone_Fire.comps.Comp_VerbGiver.verbProps.0.visualLabel>mini-Celestial</OTC_Drone_Fire.comps.Comp_VerbGiver.verbProps.0.visualLabel>
+<OTC_Drone_Fire.comps.Comp_VerbGiver.verbProps.0.description>Reconstructed OTC Pistol for use by drone. Charged with Fire damage.</OTC_Drone_Fire.comps.Comp_VerbGiver.verbProps.0.description>
 <!--=============== EMP ====================-->
-<OTC_Drone_EMP.label>风暴使者(电磁脉冲)</OTC_Drone_EMP.label>
-<OTC_Drone_EMP.description>个人无人机伴侣由OTC设计，作为战斗助手提高所有者属性并可独立射击。\n\n使用重构的OTC手枪作为武器。充能电磁脉冲伤害。\n\n警告！电磁脉冲伤害并非旨在摧毁肉身目标。</OTC_Drone_EMP.description>
-<OTC_Drone_EMP.verbs.0.label>天界</OTC_Drone_EMP.verbs.0.label>
-<OTC_Drone_EMP.comps.Comp_VerbGiver.verbProps.0.label>天界</OTC_Drone_EMP.comps.Comp_VerbGiver.verbProps.0.label>
-<OTC_Drone_EMP.comps.Comp_VerbGiver.verbProps.0.visualLabel>迷你天界</OTC_Drone_EMP.comps.Comp_VerbGiver.verbProps.0.visualLabel>
-<OTC_Drone_EMP.comps.Comp_VerbGiver.verbProps.0.description>为无人机使用而重构的OTC手枪。充能电磁脉冲伤害。\n\n警告！电磁脉冲伤害并非旨在摧毁肉身目标。</OTC_Drone_EMP.comps.Comp_VerbGiver.verbProps.0.description>
+<OTC_Drone_EMP.label>Tempestrian(EMP)</OTC_Drone_EMP.label>
+<OTC_Drone_EMP.description>The personal drone-companion is designed by OTC as a combat assistant improves the owner stats and can firing independently.\n\nUses as a weapon reconstructed OTC Pistol. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags.</OTC_Drone_EMP.description>
+<OTC_Drone_EMP.verbs.0.label>Celestial</OTC_Drone_EMP.verbs.0.label>
+<OTC_Drone_EMP.comps.Comp_VerbGiver.verbProps.0.label>Celestial</OTC_Drone_EMP.comps.Comp_VerbGiver.verbProps.0.label>
+<OTC_Drone_EMP.comps.Comp_VerbGiver.verbProps.0.visualLabel>mini-Celestial</OTC_Drone_EMP.comps.Comp_VerbGiver.verbProps.0.visualLabel>
+<OTC_Drone_EMP.comps.Comp_VerbGiver.verbProps.0.description>Reconstructed OTC Pistol for use by drone. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags.</OTC_Drone_EMP.comps.Comp_VerbGiver.verbProps.0.description>
 
 <!--=============== OCC Drone ====================-->
-<OCC_Drone.label>神村</OCC_Drone.label>
-<OCC_Drone.description>个人无人机伴侣由OCC设计，作为战斗助手提高所有者属性并可独立射击。\n\n使用重构的OCC左轮手枪作为武器。</OCC_Drone.description>
-<OCC_Drone.verbs.0.label>大黄蜂</OCC_Drone.verbs.0.label>
-<OCC_Drone.comps.Comp_VerbGiver.verbProps.0.label>大黄蜂</OCC_Drone.comps.Comp_VerbGiver.verbProps.0.label>
-<OCC_Drone.comps.Comp_VerbGiver.verbProps.0.visualLabel>迷你大黄蜂</OCC_Drone.comps.Comp_VerbGiver.verbProps.0.visualLabel>
-<OCC_Drone.comps.Comp_VerbGiver.verbProps.0.description>为无人机使用而重构的OCC左轮手枪。</OCC_Drone.comps.Comp_VerbGiver.verbProps.0.description>
+<OCC_Drone.label>Shinmura</OCC_Drone.label>
+<OCC_Drone.description>The personal drone-companion is designed by OCC as a combat assistant improves the owner stats and can firing independently.\n\nUses as a weapon reconstructed OCC Revolver.</OCC_Drone.description>
+<OCC_Drone.verbs.0.label>Hornet</OCC_Drone.verbs.0.label>
+<OCC_Drone.comps.Comp_VerbGiver.verbProps.0.label>Hornet</OCC_Drone.comps.Comp_VerbGiver.verbProps.0.label>
+<OCC_Drone.comps.Comp_VerbGiver.verbProps.0.visualLabel>mini-Hornet</OCC_Drone.comps.Comp_VerbGiver.verbProps.0.visualLabel>
+<OCC_Drone.comps.Comp_VerbGiver.verbProps.0.description>Reconstructed OCC Revolver for use by drone.</OCC_Drone.comps.Comp_VerbGiver.verbProps.0.description>
 
 <!--=============== OEC Drone ====================-->
-<OEC_Drone.label>泽诺斯</OEC_Drone.label>
-<OEC_Drone.description>个人无人机伴侣由OEC设计，作为战斗助手提高所有者属性并可独立射击。\n\n使用重构的OEC狙击步枪作为武器。</OEC_Drone.description>
-<OEC_Drone.verbs.0.label>审判</OEC_Drone.verbs.0.label>
-<OEC_Drone.comps.Comp_VerbGiver.verbProps.0.label>审判</OEC_Drone.comps.Comp_VerbGiver.verbProps.0.label>
-<OEC_Drone.comps.Comp_VerbGiver.verbProps.0.visualLabel>迷你审判</OEC_Drone.comps.Comp_VerbGiver.verbProps.0.visualLabel>
-<OEC_Drone.comps.Comp_VerbGiver.verbProps.0.description>为无人机使用而重构的OEC狙击步枪。</OEC_Drone.comps.Comp_VerbGiver.verbProps.0.description>
+<OEC_Drone.label>Zenoth</OEC_Drone.label>
+<OEC_Drone.description>The personal drone-companion is designed by OEC as a combat assistant improves the owner stats and can firing independently.\n\nUses as a weapon reconstructed OEC Sniper Rifle.</OEC_Drone.description>
+<OEC_Drone.verbs.0.label>Judgement</OEC_Drone.verbs.0.label>
+<OEC_Drone.comps.Comp_VerbGiver.verbProps.0.label>Judgement</OEC_Drone.comps.Comp_VerbGiver.verbProps.0.label>
+<OEC_Drone.comps.Comp_VerbGiver.verbProps.0.visualLabel>mini-Judgement</OEC_Drone.comps.Comp_VerbGiver.verbProps.0.visualLabel>
+<OEC_Drone.comps.Comp_VerbGiver.verbProps.0.description>Reconstructed OEC Sniper Rifle for use by drone.</OEC_Drone.comps.Comp_VerbGiver.verbProps.0.description>
 
 <!--=============== OES Drone ====================-->
-<OES_Drone.label>德利</OES_Drone.label>
-<OES_Drone.description>个人英雄无人机伴侣由OES设计，作为战斗助手提高所有者属性并可独立射击。\n\n此改装剥夺了物品的品质等级。\n\n使用重构的OES弓作为武器。</OES_Drone.description>
-<OES_Drone.verbs.0.label>英雄骄傲</OES_Drone.verbs.0.label>
-<OES_Drone.comps.Comp_VerbGiver.verbProps.0.label>英雄骄傲</OES_Drone.comps.Comp_VerbGiver.verbProps.0.label>
-<OES_Drone.comps.Comp_VerbGiver.verbProps.0.visualLabel>英雄迷你骄傲</OES_Drone.comps.Comp_VerbGiver.verbProps.0.visualLabel>
-<OES_Drone.comps.Comp_VerbGiver.verbProps.0.description>为无人机使用而重构的OES弓。</OES_Drone.comps.Comp_VerbGiver.verbProps.0.description>
+<OES_Drone.label>Deli</OES_Drone.label>
+<OES_Drone.description>The personal heroic drone-companion is designed by OES as a combat assistant improves the owner stats and can firing independently.\n\nThis modification deprives item's quality levels.\n\nUses as a weapon reconstructed OES Bow.</OES_Drone.description>
+<OES_Drone.verbs.0.label>Heroic Pride</OES_Drone.verbs.0.label>
+<OES_Drone.comps.Comp_VerbGiver.verbProps.0.label>Heroic Pride</OES_Drone.comps.Comp_VerbGiver.verbProps.0.label>
+<OES_Drone.comps.Comp_VerbGiver.verbProps.0.visualLabel>Heroic Mini-Pride</OES_Drone.comps.Comp_VerbGiver.verbProps.0.visualLabel>
+<OES_Drone.comps.Comp_VerbGiver.verbProps.0.description>Reconstructed OES Bow for use by drone.</OES_Drone.comps.Comp_VerbGiver.verbProps.0.description>
 
 <!--=============== OMG Drone ====================-->
-<OMG_Drone.label>卢米纳里斯</OMG_Drone.label>
-<OMG_Drone.description>个人无人机伴侣由OMG设计，作为战斗助手提高所有者属性并可独立射击。\n\n此改装剥夺了物品的品质等级。\n\n使用重构的OMG手枪作为武器。</OMG_Drone.description>
-<OMG_Drone.verbs.0.label>纳米火焰</OMG_Drone.verbs.0.label>
-<OMG_Drone.comps.Comp_VerbGiver.verbProps.0.label>纳米火焰</OMG_Drone.comps.Comp_VerbGiver.verbProps.0.label>
-<OMG_Drone.comps.Comp_VerbGiver.verbProps.0.visualLabel>迷你纳米火焰</OMG_Drone.comps.Comp_VerbGiver.verbProps.0.visualLabel>
-<OMG_Drone.comps.Comp_VerbGiver.verbProps.0.description>为无人机使用而重构的OMG手枪。</OMG_Drone.comps.Comp_VerbGiver.verbProps.0.description>
+<OMG_Drone.label>Luminaris</OMG_Drone.label>
+<OMG_Drone.description>The personal drone-companion is designed by OMG as a combat assistant improves the owner stats and can firing independently.\n\nThis modification deprives item's quality levels.\n\nUses as a weapon reconstructed OMG Pistol.</OMG_Drone.description>
+<OMG_Drone.verbs.0.label>Nanofire</OMG_Drone.verbs.0.label>
+<OMG_Drone.comps.Comp_VerbGiver.verbProps.0.label>Nanofire</OMG_Drone.comps.Comp_VerbGiver.verbProps.0.label>
+<OMG_Drone.comps.Comp_VerbGiver.verbProps.0.visualLabel>mini-Nanofire</OMG_Drone.comps.Comp_VerbGiver.verbProps.0.visualLabel>
+<OMG_Drone.comps.Comp_VerbGiver.verbProps.0.description>Reconstructed OMG Pistol for use by drone.</OMG_Drone.comps.Comp_VerbGiver.verbProps.0.description>
 
 </LanguageData>

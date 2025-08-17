@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Textile ====================-->
+<!--=============== Mooncloth ====================-->
+<OE_Mooncloth.label>月光布</OE_Mooncloth.label>
+<OE_Mooncloth.description>从月光植物中提取的微纤维纺成的织物。坚韧、轻盈、强韧、奢华且保温良好。</OE_Mooncloth.description>
+
+<!--=============== Rough obsidia skin / Ogren ====================-->
+<OE_Leather_Ogren.label>粗糙黑曜石皮肤</OE_Leather_Ogren.label>
+<OE_Leather_Ogren.description>鞣制、干燥、刮削的黑曜石动物皮肤。坚韧、强韧，但保温性差。</OE_Leather_Ogren.description>
+
+<!--=============== Obsidia synthleather / Bruul ====================-->
+<OE_Leather_Bruul.label>黑曜石合成皮革</OE_Leather_Bruul.label>
+<OE_Leather_Bruul.description>轻质、薄的黑曜石动物皮革。非常脆弱和弱，但同时能很好地抵御温度且极其美丽。</OE_Leather_Bruul.description>
+
+<!--=============== Fur ====================-->
+<!--=============== Insulated obsidia fur / Direwolf ====================-->
+<OE_Leather_Direwolf.label>保温黑曜石毛皮</OE_Leather_Direwolf.label>
+<OE_Leather_Direwolf.description>从黑曜石动物身上收获的柔软毛皮。美丽、非常耐用且很好地保温防寒。</OE_Leather_Direwolf.description>
+
+<!--=============== Luxurious obsidia fur / Astrinx ====================-->
+<OE_Leather_Astrinx.label>奢华黑曜石毛皮</OE_Leather_Astrinx.label>
+<OE_Leather_Astrinx.description>从黑曜石动物身上收获的柔软毛皮。非常美丽、耐用且很好地保温防热。</OE_Leather_Astrinx.description>
+
+<!--=============== Scales ====================-->
+<!--=============== Thermal obsidia scale / Raptor ====================-->
+<OE_Leather_Raptor.label>热能黑曜石鳞片</OE_Leather_Raptor.label>
+<OE_Leather_Raptor.description>鞣制的黑曜石动物皮革。非常美丽、强韧且很好地防热。</OE_Leather_Raptor.description>
+
+<!--=============== Synthweave ====================-->
+<!--=============== Obsidian Synthweave ====================-->
+<OE_ObsidianSynthweave.label>黑曜石合成织物</OE_ObsidianSynthweave.label>
+<OE_ObsidianSynthweave.description>由黑曜石合成的织物。合成织物的属性与原版相似。</OE_ObsidianSynthweave.description>
+
+<!--=============== Mythril Synthweave ====================-->
+<OE_MythrilSynthweave.label>秘银合成织物</OE_MythrilSynthweave.label>
+<OE_MythrilSynthweave.description>由秘银合成的织物。合成织物的属性与原版相似。</OE_MythrilSynthweave.description>
+
+<!--=============== Platinum Synthweave ====================-->
+<OE_PlatinumSynthweave.label>铂金合成织物</OE_PlatinumSynthweave.label>
+<OE_PlatinumSynthweave.description>由铂金合成的织物。合成织物的属性与原版相似。</OE_PlatinumSynthweave.description>
+
+<!--=============== Empyrium Synthweave ====================-->
+<OE_EmpyriumSynthweave.label>天金合成织物</OE_EmpyriumSynthweave.label>
+<OE_EmpyriumSynthweave.description>由天金合成的织物。合成织物的属性与原版相似。</OE_EmpyriumSynthweave.description>
+
+<!--=============== Orichalcum Synthweave ====================-->
+<OE_OrichalcumSynthweave.label>山铜合成织物</OE_OrichalcumSynthweave.label>
+<OE_OrichalcumSynthweave.description>由山铜合成的织物。合成织物的属性与原版相似。</OE_OrichalcumSynthweave.description>
+
+</LanguageData>

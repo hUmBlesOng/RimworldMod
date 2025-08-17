@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Synthesis Neurotrainers(Skilltrainers) ====================-->
+<!--=============== Shooting ====================-->
+<OE_Synthesis_Neurotrainer_Shooting.label>合成技能训练器 - 射击</OE_Synthesis_Neurotrainer_Shooting.label>
+<OE_Synthesis_Neurotrainer_Shooting.description>用中性胺、宇宙素和EGO种子合成技能训练器 - 射击，封装在铂金外壳中。</OE_Synthesis_Neurotrainer_Shooting.description>
+<OE_Synthesis_Neurotrainer_Shooting.jobString>正在合成技能训练器。</OE_Synthesis_Neurotrainer_Shooting.jobString>
+
+<!--=============== Melee ====================-->
+<OE_Synthesis_Neurotrainer_Melee.label>合成技能训练器 - 近战</OE_Synthesis_Neurotrainer_Melee.label>
+<OE_Synthesis_Neurotrainer_Melee.description>用中性胺、宇宙素和EGO种子合成技能训练器 - 近战，封装在铂金外壳中。</OE_Synthesis_Neurotrainer_Melee.description>
+<OE_Synthesis_Neurotrainer_Melee.jobString>正在合成技能训练器。</OE_Synthesis_Neurotrainer_Melee.jobString>
+
+<!--=============== Construction ====================-->
+<OE_Synthesis_Neurotrainer_Construction.label>合成技能训练器 - 建筑</OE_Synthesis_Neurotrainer_Construction.label>
+<OE_Synthesis_Neurotrainer_Construction.description>用中性胺、宇宙素和EGO种子合成技能训练器 - 建筑，封装在铂金外壳中。</OE_Synthesis_Neurotrainer_Construction.description>
+<OE_Synthesis_Neurotrainer_Construction.jobString>正在合成技能训练器。</OE_Synthesis_Neurotrainer_Construction.jobString>
+
+<!--=============== Mining ====================-->
+<OE_Synthesis_Neurotrainer_Mining.label>合成技能训练器 - 挖矿</OE_Synthesis_Neurotrainer_Mining.label>
+<OE_Synthesis_Neurotrainer_Mining.description>用中性胺、宇宙素和EGO种子合成技能训练器 - 挖矿，封装在铂金外壳中。</OE_Synthesis_Neurotrainer_Mining.description>
+<OE_Synthesis_Neurotrainer_Mining.jobString>正在合成技能训练器。</OE_Synthesis_Neurotrainer_Mining.jobString>
+
+<!--=============== Cooking ====================-->
+<OE_Synthesis_Neurotrainer_Cooking.label>合成技能训练器 - 烹饪</OE_Synthesis_Neurotrainer_Cooking.label>
+<OE_Synthesis_Neurotrainer_Cooking.description>用中性胺、宇宙素和EGO种子合成技能训练器 - 烹饪，封装在铂金外壳中。</OE_Synthesis_Neurotrainer_Cooking.description>
+<OE_Synthesis_Neurotrainer_Cooking.jobString>正在合成技能训练器。</OE_Synthesis_Neurotrainer_Cooking.jobString>
+
+<!--=============== Plants ====================-->
+<OE_Synthesis_Neurotrainer_Plants.label>合成技能训练器 - 种植</OE_Synthesis_Neurotrainer_Plants.label>
+<OE_Synthesis_Neurotrainer_Plants.description>用中性胺、宇宙素和EGO种子合成技能训练器 - 种植，封装在铂金外壳中。</OE_Synthesis_Neurotrainer_Plants.description>
+<OE_Synthesis_Neurotrainer_Plants.jobString>正在合成技能训练器。</OE_Synthesis_Neurotrainer_Plants.jobString>
+
+<!--=============== Animals ====================-->
+<OE_Synthesis_Neurotrainer_Animals.label>合成技能训练器 - 驯兽</OE_Synthesis_Neurotrainer_Animals.label>
+<OE_Synthesis_Neurotrainer_Animals.description>用中性胺、宇宙素和EGO种子合成技能训练器 - 驯兽，封装在铂金外壳中。</OE_Synthesis_Neurotrainer_Animals.description>
+<OE_Synthesis_Neurotrainer_Animals.jobString>正在合成技能训练器。</OE_Synthesis_Neurotrainer_Animals.jobString>
+
+<!--=============== Crafting ====================-->
+<OE_Synthesis_Neurotrainer_Crafting.label>合成技能训练器 - 工艺</OE_Synthesis_Neurotrainer_Crafting.label>
+<OE_Synthesis_Neurotrainer_Crafting.description>用中性胺、宇宙素和EGO种子合成技能训练器 - 工艺，封装在铂金外壳中。</OE_Synthesis_Neurotrainer_Crafting.description>
+<OE_Synthesis_Neurotrainer_Crafting.jobString>正在合成技能训练器。</OE_Synthesis_Neurotrainer_Crafting.jobString>
+
+<!--=============== Artistic ====================-->
+<OE_Synthesis_Neurotrainer_Artistic.label>合成技能训练器 - 艺术</OE_Synthesis_Neurotrainer_Artistic.label>
+<OE_Synthesis_Neurotrainer_Artistic.description>用中性胺、宇宙素和EGO种子合成技能训练器 - 艺术，封装在铂金外壳中。</OE_Synthesis_Neurotrainer_Artistic.description>
+<OE_Synthesis_Neurotrainer_Artistic.jobString>正在合成技能训练器。</OE_Synthesis_Neurotrainer_Artistic.jobString>
+
+<!--=============== Medicine ====================-->
+<OE_Synthesis_Neurotrainer_Medicine.label>合成技能训练器 - 医疗</OE_Synthesis_Neurotrainer_Medicine.label>
+<OE_Synthesis_Neurotrainer_Medicine.description>用中性胺、宇宙素和EGO种子合成技能训练器 - 医疗，封装在铂金外壳中。</OE_Synthesis_Neurotrainer_Medicine.description>
+<OE_Synthesis_Neurotrainer_Medicine.jobString>正在合成技能训练器。</OE_Synthesis_Neurotrainer_Medicine.jobString>
+
+<!--=============== Social ====================-->
+<OE_Synthesis_Neurotrainer_Social.label>合成技能训练器 - 社交</OE_Synthesis_Neurotrainer_Social.label>
+<OE_Synthesis_Neurotrainer_Social.description>用中性胺、宇宙素和EGO种子合成技能训练器 - 社交，封装在铂金外壳中。</OE_Synthesis_Neurotrainer_Social.description>
+<OE_Synthesis_Neurotrainer_Social.jobString>正在合成技能训练器。</OE_Synthesis_Neurotrainer_Social.jobString>
+
+<!--=============== Intellectual ====================-->
+<OE_Synthesis_Neurotrainer_Intellectual.label>合成技能训练器 - 学术</OE_Synthesis_Neurotrainer_Intellectual.label>
+<OE_Synthesis_Neurotrainer_Intellectual.description>用中性胺、宇宙素和EGO种子合成技能训练器 - 学术，封装在铂金外壳中。</OE_Synthesis_Neurotrainer_Intellectual.description>
+<OE_Synthesis_Neurotrainer_Intellectual.jobString>正在合成技能训练器。</OE_Synthesis_Neurotrainer_Intellectual.jobString>
+
+</LanguageData>

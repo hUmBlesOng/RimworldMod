@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== ODC ====================-->
+<!--=============== Knife ====================-->
+<OE_Bond_ODC_Knife.label>人格绑定伤痕</OE_Bond_ODC_Knife.label>
+<OE_Bond_ODC_Knife.description>人格绑定伤痕。</OE_Bond_ODC_Knife.description>
+<OE_Bond_ODC_Knife.jobString>正在人格绑定伤痕。</OE_Bond_ODC_Knife.jobString>
+
+<OE_Reset_ODC_Knife_P.label>重置人格伤痕</OE_Reset_ODC_Knife_P.label>
+<OE_Reset_ODC_Knife_P.description>重置人格伤痕。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_ODC_Knife_P.description>
+<OE_Reset_ODC_Knife_P.jobString>正在重置人格伤痕。</OE_Reset_ODC_Knife_P.jobString>
+
+<!--=============== Sword ====================-->
+<OE_Bond_ODC_Sword.label>人格绑定仁慈 - 突现</OE_Bond_ODC_Sword.label>
+<OE_Bond_ODC_Sword.description>人格绑定仁慈 - 突现。</OE_Bond_ODC_Sword.description>
+<OE_Bond_ODC_Sword.jobString>正在人格绑定仁慈 - 突现。</OE_Bond_ODC_Sword.jobString>
+
+<OE_Reset_ODC_Sword_P.label>重置人格仁慈 - 突现</OE_Reset_ODC_Sword_P.label>
+<OE_Reset_ODC_Sword_P.description>重置人格仁慈 - 突现。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_ODC_Sword_P.description>
+<OE_Reset_ODC_Sword_P.jobString>正在重置人格仁慈 - 突现。</OE_Reset_ODC_Sword_P.jobString>
+
+<!--=============== BigSword ====================-->
+<OE_Bond_ODC_BigSword.label>人格绑定遗赠 - 巅峰</OE_Bond_ODC_BigSword.label>
+<OE_Bond_ODC_BigSword.description>人格绑定遗赠 - 巅峰。</OE_Bond_ODC_BigSword.description>
+<OE_Bond_ODC_BigSword.jobString>正在人格绑定遗赠 - 巅峰。</OE_Bond_ODC_BigSword.jobString>
+
+<OE_Reset_ODC_BigSword_P.label>重置人格遗赠 - 巅峰</OE_Reset_ODC_BigSword_P.label>
+<OE_Reset_ODC_BigSword_P.description>重置人格遗赠 - 巅峰。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_ODC_BigSword_P.description>
+<OE_Reset_ODC_BigSword_P.jobString>正在重置人格遗赠 - 巅峰。</OE_Reset_ODC_BigSword_P.jobString>
+
+<!--=============== DualSword ====================-->
+<OE_Bond_ODC_DualSword.label>人格绑定断头台 - 巅峰</OE_Bond_ODC_DualSword.label>
+<OE_Bond_ODC_DualSword.description>人格绑定断头台 - 巅峰。</OE_Bond_ODC_DualSword.description>
+<OE_Bond_ODC_DualSword.jobString>正在人格绑定断头台 - 巅峰。</OE_Bond_ODC_DualSword.jobString>
+
+<OE_Reset_ODC_DualSword_P.label>重置人格断头台 - 巅峰</OE_Reset_ODC_DualSword_P.label>
+<OE_Reset_ODC_DualSword_P.description>重置人格断头台 - 巅峰。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_ODC_DualSword_P.description>
+<OE_Reset_ODC_DualSword_P.jobString>正在重置人格断头台 - 巅峰。</OE_Reset_ODC_DualSword_P.jobString>
+
+<!--=============== Rapier ====================-->
+<OE_Bond_ODC_Rapier.label>人格绑定不完美 - 突现</OE_Bond_ODC_Rapier.label>
+<OE_Bond_ODC_Rapier.description>人格绑定不完美 - 突现。</OE_Bond_ODC_Rapier.description>
+<OE_Bond_ODC_Rapier.jobString>正在人格绑定不完美 - 突现。</OE_Bond_ODC_Rapier.jobString>
+
+<OE_Reset_ODC_Rapier_P.label>重置人格不完美 - 突现</OE_Reset_ODC_Rapier_P.label>
+<OE_Reset_ODC_Rapier_P.description>重置人格不完美 - 突现。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_ODC_Rapier_P.description>
+<OE_Reset_ODC_Rapier_P.jobString>正在重置人格不完美 - 突现。</OE_Reset_ODC_Rapier_P.jobString>
+
+<!--=============== RapierGuard ====================-->
+<OE_Bond_ODC_RapierGuard.label>人格绑定反抗 - 巅峰</OE_Bond_ODC_RapierGuard.label>
+<OE_Bond_ODC_RapierGuard.description>人格绑定反抗 - 巅峰。</OE_Bond_ODC_RapierGuard.description>
+<OE_Bond_ODC_RapierGuard.jobString>正在人格绑定反抗 - 巅峰。</OE_Bond_ODC_RapierGuard.jobString>
+
+<OE_Reset_ODC_RapierGuard_P.label>重置人格反抗 - 巅峰</OE_Reset_ODC_RapierGuard_P.label>
+<OE_Reset_ODC_RapierGuard_P.description>重置人格反抗 - 巅峰。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_ODC_RapierGuard_P.description>
+<OE_Reset_ODC_RapierGuard_P.jobString>正在重置人格反抗 - 巅峰。</OE_Reset_ODC_RapierGuard_P.jobString>
+
+<!--=============== ODC - Elemental Rapier ====================-->
+<!--=============== Acid ====================-->
+<OE_Bond_ODC_Rapier_Acid.label>人格绑定谜团 - 巅峰(酸液)</OE_Bond_ODC_Rapier_Acid.label>
+<OE_Bond_ODC_Rapier_Acid.description>人格绑定谜团 - 巅峰(酸液)。</OE_Bond_ODC_Rapier_Acid.description>
+<OE_Bond_ODC_Rapier_Acid.jobString>正在人格绑定谜团 - 巅峰(酸液)。</OE_Bond_ODC_Rapier_Acid.jobString>
+
+<OE_Reset_ODC_Rapier_P_Acid.label>重置人格谜团 - 巅峰(酸液)</OE_Reset_ODC_Rapier_P_Acid.label>
+<OE_Reset_ODC_Rapier_P_Acid.description>重置人格谜团 - 巅峰(酸液)。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_ODC_Rapier_P_Acid.description>
+<OE_Reset_ODC_Rapier_P_Acid.jobString>正在重置人格谜团 - 巅峰(酸液)。</OE_Reset_ODC_Rapier_P_Acid.jobString>
+<!--=============== Cryo ====================-->
+<OE_Bond_ODC_Rapier_Cryo.label>人格绑定谜团 - 巅峰(冷冻)</OE_Bond_ODC_Rapier_Cryo.label>
+<OE_Bond_ODC_Rapier_Cryo.description>人格绑定谜团 - 巅峰(冷冻)。</OE_Bond_ODC_Rapier_Cryo.description>
+<OE_Bond_ODC_Rapier_Cryo.jobString>正在人格绑定谜团 - 巅峰(冷冻)。</OE_Bond_ODC_Rapier_Cryo.jobString>
+
+<OE_Reset_ODC_Rapier_P_Cryo.label>重置人格谜团 - 巅峰(冷冻)</OE_Reset_ODC_Rapier_P_Cryo.label>
+<OE_Reset_ODC_Rapier_P_Cryo.description>重置人格谜团 - 巅峰(冷冻)。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_ODC_Rapier_P_Cryo.description>
+<OE_Reset_ODC_Rapier_P_Cryo.jobString>正在重置人格谜团 - 巅峰(冷冻)。</OE_Reset_ODC_Rapier_P_Cryo.jobString>
+<!--=============== Fire ====================-->
+<OE_Bond_ODC_Rapier_Fire.label>人格绑定谜团 - 巅峰(火焰)</OE_Bond_ODC_Rapier_Fire.label>
+<OE_Bond_ODC_Rapier_Fire.description>人格绑定谜团 - 巅峰(火焰)。</OE_Bond_ODC_Rapier_Fire.description>
+<OE_Bond_ODC_Rapier_Fire.jobString>正在人格绑定谜团 - 巅峰(火焰)。</OE_Bond_ODC_Rapier_Fire.jobString>
+
+<OE_Reset_ODC_Rapier_P_Fire.label>重置人格谜团 - 巅峰(火焰)</OE_Reset_ODC_Rapier_P_Fire.label>
+<OE_Reset_ODC_Rapier_P_Fire.description>重置人格谜团 - 巅峰(火焰)。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_ODC_Rapier_P_Fire.description>
+<OE_Reset_ODC_Rapier_P_Fire.jobString>正在重置人格谜团 - 巅峰(火焰)。</OE_Reset_ODC_Rapier_P_Fire.jobString>
+<!--=============== EMP ====================-->
+<OE_Bond_ODC_Rapier_EMP.label>人格绑定谜团 - 巅峰(电磁)</OE_Bond_ODC_Rapier_EMP.label>
+<OE_Bond_ODC_Rapier_EMP.description>人格绑定谜团 - 巅峰(电磁)。</OE_Bond_ODC_Rapier_EMP.description>
+<OE_Bond_ODC_Rapier_EMP.jobString>正在人格绑定谜团 - 巅峰(电磁)。</OE_Bond_ODC_Rapier_EMP.jobString>
+
+<OE_Reset_ODC_Rapier_P_EMP.label>重置人格谜团 - 巅峰(电磁)</OE_Reset_ODC_Rapier_P_EMP.label>
+<OE_Reset_ODC_Rapier_P_EMP.description>重置人格谜团 - 巅峰(电磁)。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_ODC_Rapier_P_EMP.description>
+<OE_Reset_ODC_Rapier_P_EMP.jobString>正在重置人格谜团 - 巅峰(电磁)。</OE_Reset_ODC_Rapier_P_EMP.jobString>
+
+<!--=============== Pistol ====================-->
+<OE_Bond_ODC_Pistol.label>巅峰绑定目标</OE_Bond_ODC_Pistol.label>
+<OE_Bond_ODC_Pistol.description>巅峰绑定目标。</OE_Bond_ODC_Pistol.description>
+<OE_Bond_ODC_Pistol.jobString>正在巅峰绑定目标。</OE_Bond_ODC_Pistol.jobString>
+
+<OE_Reset_ODC_Pistol_P.label>重置巅峰目标</OE_Reset_ODC_Pistol_P.label>
+<OE_Reset_ODC_Pistol_P.description>重置巅峰目标。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_Pistol_P.description>
+<OE_Reset_ODC_Pistol_P.jobString>正在重置巅峰目标。</OE_Reset_ODC_Pistol_P.jobString>
+
+<!--=============== Revolver ====================-->
+<OE_Bond_ODC_Revolver.label>巅峰绑定入侵者 - 突现</OE_Bond_ODC_Revolver.label>
+<OE_Bond_ODC_Revolver.description>巅峰绑定入侵者 - 突现。</OE_Bond_ODC_Revolver.description>
+<OE_Bond_ODC_Revolver.jobString>正在巅峰绑定入侵者 - 突现。</OE_Bond_ODC_Revolver.jobString>
+
+<OE_Reset_ODC_Revolver_P.label>重置巅峰入侵者 - 突现</OE_Reset_ODC_Revolver_P.label>
+<OE_Reset_ODC_Revolver_P.description>重置巅峰入侵者 - 突现。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_Revolver_P.description>
+<OE_Reset_ODC_Revolver_P.jobString>正在重置巅峰入侵者 - 突现。</OE_Reset_ODC_Revolver_P.jobString>
+
+<!--=============== ODC - Elemental Revolver ====================-->
+<!--=============== Acid ====================-->
+<OE_Bond_ODC_Revolver_Acid.label>巅峰绑定入侵者 - 巅峰(酸液)</OE_Bond_ODC_Revolver_Acid.label>
+<OE_Bond_ODC_Revolver_Acid.description>巅峰绑定入侵者 - 巅峰(酸液)。</OE_Bond_ODC_Revolver_Acid.description>
+<OE_Bond_ODC_Revolver_Acid.jobString>正在巅峰绑定入侵者 - 巅峰(酸液)。</OE_Bond_ODC_Revolver_Acid.jobString>
+
+<OE_Reset_ODC_Revolver_P_Acid.label>重置巅峰入侵者 - 巅峰(酸液)</OE_Reset_ODC_Revolver_P_Acid.label>
+<OE_Reset_ODC_Revolver_P_Acid.description>重置巅峰入侵者 - 巅峰(酸液)。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_Revolver_P_Acid.description>
+<OE_Reset_ODC_Revolver_P_Acid.jobString>正在重置巅峰入侵者 - 巅峰(酸液)。</OE_Reset_ODC_Revolver_P_Acid.jobString>
+<!--=============== Cryo ====================-->
+<OE_Bond_ODC_Revolver_Cryo.label>巅峰绑定入侵者 - 巅峰(冷冻)</OE_Bond_ODC_Revolver_Cryo.label>
+<OE_Bond_ODC_Revolver_Cryo.description>巅峰绑定入侵者 - 巅峰(冷冻)。</OE_Bond_ODC_Revolver_Cryo.description>
+<OE_Bond_ODC_Revolver_Cryo.jobString>正在巅峰绑定入侵者 - 巅峰(冷冻)。</OE_Bond_ODC_Revolver_Cryo.jobString>
+
+<OE_Reset_ODC_Revolver_P_Cryo.label>重置巅峰入侵者 - 巅峰(冷冻)</OE_Reset_ODC_Revolver_P_Cryo.label>
+<OE_Reset_ODC_Revolver_P_Cryo.description>重置巅峰入侵者 - 巅峰(冷冻)。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_Revolver_P_Cryo.description>
+<OE_Reset_ODC_Revolver_P_Cryo.jobString>正在重置巅峰入侵者 - 巅峰(冷冻)。</OE_Reset_ODC_Revolver_P_Cryo.jobString>
+<!--=============== Fire ====================-->
+<OE_Bond_ODC_Revolver_Fire.label>巅峰绑定入侵者 - 巅峰(火焰)</OE_Bond_ODC_Revolver_Fire.label>
+<OE_Bond_ODC_Revolver_Fire.description>巅峰绑定入侵者 - 巅峰(火焰)。</OE_Bond_ODC_Revolver_Fire.description>
+<OE_Bond_ODC_Revolver_Fire.jobString>正在巅峰绑定入侵者 - 巅峰(火焰)。</OE_Bond_ODC_Revolver_Fire.jobString>
+
+<OE_Reset_ODC_Revolver_P_Fire.label>重置巅峰入侵者 - 巅峰(火焰)</OE_Reset_ODC_Revolver_P_Fire.label>
+<OE_Reset_ODC_Revolver_P_Fire.description>重置巅峰入侵者 - 巅峰(火焰)。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_Revolver_P_Fire.description>
+<OE_Reset_ODC_Revolver_P_Fire.jobString>正在重置巅峰入侵者 - 巅峰(火焰)。</OE_Reset_ODC_Revolver_P_Fire.jobString>
+<!--=============== EMP ====================-->
+<OE_Bond_ODC_Revolver_EMP.label>巅峰绑定入侵者 - 巅峰(电磁)</OE_Bond_ODC_Revolver_EMP.label>
+<OE_Bond_ODC_Revolver_EMP.description>巅峰绑定入侵者 - 巅峰(电磁)。</OE_Bond_ODC_Revolver_EMP.description>
+<OE_Bond_ODC_Revolver_EMP.jobString>正在巅峰绑定入侵者 - 巅峰(电磁)。</OE_Bond_ODC_Revolver_EMP.jobString>
+
+<OE_Reset_ODC_Revolver_P_EMP.label>重置巅峰入侵者 - 巅峰(电磁)</OE_Reset_ODC_Revolver_P_EMP.label>
+<OE_Reset_ODC_Revolver_P_EMP.description>重置巅峰入侵者 - 巅峰(电磁)。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_Revolver_P_EMP.description>
+<OE_Reset_ODC_Revolver_P_EMP.jobString>正在重置巅峰入侵者 - 巅峰(电磁)。</OE_Reset_ODC_Revolver_P_EMP.jobString>
+
+<!--=============== SMG_A ====================-->
+<OE_Bond_ODC_SMG_A.label>巅峰绑定不适应者 - 突现</OE_Bond_ODC_SMG_A.label>
+<OE_Bond_ODC_SMG_A.description>巅峰绑定不适应者 - 突现。</OE_Bond_ODC_SMG_A.description>
+<OE_Bond_ODC_SMG_A.jobString>正在巅峰绑定不适应者 - 突现。</OE_Bond_ODC_SMG_A.jobString>
+
+<OE_Reset_ODC_SMG_A_P.label>重置巅峰不适应者 - 突现</OE_Reset_ODC_SMG_A_P.label>
+<OE_Reset_ODC_SMG_A_P.description>重置巅峰不适应者 - 突现。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_SMG_A_P.description>
+<OE_Reset_ODC_SMG_A_P.jobString>正在重置巅峰不适应者 - 突现。</OE_Reset_ODC_SMG_A_P.jobString>
+<!--=============== SMG_B ====================-->
+<OE_Bond_ODC_SMG_B.label>巅峰绑定不适应者 - 巅峰</OE_Bond_ODC_SMG_B.label>
+<OE_Bond_ODC_SMG_B.description>巅峰绑定不适应者 - 巅峰。</OE_Bond_ODC_SMG_B.description>
+<OE_Bond_ODC_SMG_B.jobString>正在巅峰绑定不适应者 - 巅峰。</OE_Bond_ODC_SMG_B.jobString>
+
+<OE_Reset_ODC_SMG_B_P.label>重置巅峰不适应者 - 巅峰</OE_Reset_ODC_SMG_B_P.label>
+<OE_Reset_ODC_SMG_B_P.description>重置巅峰不适应者 - 巅峰。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_SMG_B_P.description>
+<OE_Reset_ODC_SMG_B_P.jobString>正在重置巅峰不适应者 - 巅峰。</OE_Reset_ODC_SMG_B_P.jobString>
+
+<!--=============== Rifle ====================-->
+<OE_Bond_ODC_Rifle.label>巅峰绑定继承</OE_Bond_ODC_Rifle.label>
+<OE_Bond_ODC_Rifle.description>巅峰绑定继承。</OE_Bond_ODC_Rifle.description>
+<OE_Bond_ODC_Rifle.jobString>正在巅峰绑定继承。</OE_Bond_ODC_Rifle.jobString>
+
+<OE_Reset_ODC_Rifle_P.label>重置巅峰继承</OE_Reset_ODC_Rifle_P.label>
+<OE_Reset_ODC_Rifle_P.description>重置巅峰继承。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_Rifle_P.description>
+<OE_Reset_ODC_Rifle_P.jobString>正在重置巅峰继承。</OE_Reset_ODC_Rifle_P.jobString>
+
+<!--=============== Shotgun ====================-->
+<OE_Bond_ODC_Shotgun.label>巅峰绑定共谋者 - 突现</OE_Bond_ODC_Shotgun.label>
+<OE_Bond_ODC_Shotgun.description>巅峰绑定共谋者 - 突现。</OE_Bond_ODC_Shotgun.description>
+<OE_Bond_ODC_Shotgun.jobString>正在巅峰绑定共谋者 - 突现。</OE_Bond_ODC_Shotgun.jobString>
+
+<OE_Reset_ODC_Shotgun_P.label>重置巅峰共谋者 - 突现</OE_Reset_ODC_Shotgun_P.label>
+<OE_Reset_ODC_Shotgun_P.description>重置巅峰共谋者 - 突现。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_Shotgun_P.description>
+<OE_Reset_ODC_Shotgun_P.jobString>正在重置巅峰共谋者 - 突现。</OE_Reset_ODC_Shotgun_P.jobString>
+
+<!--=============== Elemental Shotgun ====================-->
+<!--=============== Acid ====================-->
+<OE_Bond_ODC_Shotgun_Acid.label>巅峰绑定共谋者 - 巅峰(酸液)</OE_Bond_ODC_Shotgun_Acid.label>
+<OE_Bond_ODC_Shotgun_Acid.description>巅峰绑定共谋者 - 巅峰(酸液)。</OE_Bond_ODC_Shotgun_Acid.description>
+<OE_Bond_ODC_Shotgun_Acid.jobString>正在巅峰绑定共谋者 - 巅峰(酸液)。</OE_Bond_ODC_Shotgun_Acid.jobString>
+
+<OE_Reset_ODC_Shotgun_P_Acid.label>重置巅峰共谋者 - 巅峰(酸液)</OE_Reset_ODC_Shotgun_P_Acid.label>
+<OE_Reset_ODC_Shotgun_P_Acid.description>重置巅峰共谋者 - 巅峰(酸液)。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_Shotgun_P_Acid.description>
+<OE_Reset_ODC_Shotgun_P_Acid.jobString>正在重置巅峰共谋者 - 巅峰(酸液)。</OE_Reset_ODC_Shotgun_P_Acid.jobString>
+<!--=============== Cryo ====================-->
+<OE_Bond_ODC_Shotgun_Cryo.label>巅峰绑定共谋者 - 巅峰(冷冻)</OE_Bond_ODC_Shotgun_Cryo.label>
+<OE_Bond_ODC_Shotgun_Cryo.description>巅峰绑定共谋者 - 巅峰(冷冻)。</OE_Bond_ODC_Shotgun_Cryo.description>
+<OE_Bond_ODC_Shotgun_Cryo.jobString>正在巅峰绑定共谋者 - 巅峰(冷冻)。</OE_Bond_ODC_Shotgun_Cryo.jobString>
+
+<OE_Reset_ODC_Shotgun_P_Cryo.label>重置巅峰共谋者 - 巅峰(冷冻)</OE_Reset_ODC_Shotgun_P_Cryo.label>
+<OE_Reset_ODC_Shotgun_P_Cryo.description>重置巅峰共谋者 - 巅峰(冷冻)。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_Shotgun_P_Cryo.description>
+<OE_Reset_ODC_Shotgun_P_Cryo.jobString>正在重置巅峰共谋者 - 巅峰(冷冻)。</OE_Reset_ODC_Shotgun_P_Cryo.jobString>
+<!--=============== Fire ====================-->
+<OE_Bond_ODC_Shotgun_Fire.label>巅峰绑定共谋者 - 巅峰(火焰)</OE_Bond_ODC_Shotgun_Fire.label>
+<OE_Bond_ODC_Shotgun_Fire.description>巅峰绑定共谋者 - 巅峰(火焰)。</OE_Bond_ODC_Shotgun_Fire.description>
+<OE_Bond_ODC_Shotgun_Fire.jobString>正在巅峰绑定共谋者 - 巅峰(火焰)。</OE_Bond_ODC_Shotgun_Fire.jobString>
+
+<OE_Reset_ODC_Shotgun_P_Fire.label>重置巅峰共谋者 - 巅峰(火焰)</OE_Reset_ODC_Shotgun_P_Fire.label>
+<OE_Reset_ODC_Shotgun_P_Fire.description>重置巅峰共谋者 - 巅峰(火焰)。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_Shotgun_P_Fire.description>
+<OE_Reset_ODC_Shotgun_P_Fire.jobString>正在重置巅峰共谋者 - 巅峰(火焰)。</OE_Reset_ODC_Shotgun_P_Fire.jobString>
+<!--=============== EMP ====================-->
+<OE_Bond_ODC_Shotgun_EMP.label>巅峰绑定共谋者 - 巅峰(电磁)</OE_Bond_ODC_Shotgun_EMP.label>
+<OE_Bond_ODC_Shotgun_EMP.description>巅峰绑定共谋者 - 巅峰(电磁)。</OE_Bond_ODC_Shotgun_EMP.description>
+<OE_Bond_ODC_Shotgun_EMP.jobString>正在巅峰绑定共谋者 - 巅峰(电磁)。</OE_Bond_ODC_Shotgun_EMP.jobString>
+
+<OE_Reset_ODC_Shotgun_P_EMP.label>重置巅峰共谋者 - 巅峰(电磁)</OE_Reset_ODC_Shotgun_P_EMP.label>
+<OE_Reset_ODC_Shotgun_P_EMP.description>重置巅峰共谋者 - 巅峰(电磁)。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_Shotgun_P_EMP.description>
+<OE_Reset_ODC_Shotgun_P_EMP.jobString>正在重置巅峰共谋者 - 巅峰(电磁)。</OE_Reset_ODC_Shotgun_P_EMP.jobString>
+
+<!--=============== AssaultRifle_A ====================-->
+<OE_Bond_ODC_AssaultRifle_A.label>巅峰绑定无思者 - 突现</OE_Bond_ODC_AssaultRifle_A.label>
+<OE_Bond_ODC_AssaultRifle_A.description>巅峰绑定无思者 - 突现。</OE_Bond_ODC_AssaultRifle_A.description>
+<OE_Bond_ODC_AssaultRifle_A.jobString>正在巅峰绑定无思者 - 突现。</OE_Bond_ODC_AssaultRifle_A.jobString>
+
+<OE_Reset_ODC_AssaultRifle_A_P.label>重置巅峰无思者 - 突现</OE_Reset_ODC_AssaultRifle_A_P.label>
+<OE_Reset_ODC_AssaultRifle_A_P.description>重置巅峰无思者 - 突现。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_AssaultRifle_A_P.description>
+<OE_Reset_ODC_AssaultRifle_A_P.jobString>正在重置巅峰无思者 - 突现。</OE_Reset_ODC_AssaultRifle_A_P.jobString>
+
+<!--=============== AssaultRifle_B ====================-->
+<OE_Bond_ODC_AssaultRifle_B.label>巅峰绑定无思者 - 巅峰</OE_Bond_ODC_AssaultRifle_B.label>
+<OE_Bond_ODC_AssaultRifle_B.description>巅峰绑定无思者 - 巅峰。</OE_Bond_ODC_AssaultRifle_B.description>
+<OE_Bond_ODC_AssaultRifle_B.jobString>正在巅峰绑定无思者 - 巅峰。</OE_Bond_ODC_AssaultRifle_B.jobString>
+
+<OE_Reset_ODC_AssaultRifle_B_P.label>重置巅峰无思者 - 巅峰</OE_Reset_ODC_AssaultRifle_B_P.label>
+<OE_Reset_ODC_AssaultRifle_B_P.description>重置巅峰无思者 - 巅峰。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_AssaultRifle_B_P.description>
+<OE_Reset_ODC_AssaultRifle_B_P.jobString>正在重置巅峰无思者 - 巅峰。</OE_Reset_ODC_AssaultRifle_B_P.jobString>
+
+<!--=============== SniperRifle_A ====================-->
+<OE_Bond_ODC_SniperRifle_A.label>巅峰绑定走私者 - 突现</OE_Bond_ODC_SniperRifle_A.label>
+<OE_Bond_ODC_SniperRifle_A.description>巅峰绑定走私者 - 突现。</OE_Bond_ODC_SniperRifle_A.description>
+<OE_Bond_ODC_SniperRifle_A.jobString>正在巅峰绑定走私者 - 突现。</OE_Bond_ODC_SniperRifle_A.jobString>
+
+<OE_Reset_ODC_SniperRifle_A_P.label>重置巅峰走私者 - 突现</OE_Reset_ODC_SniperRifle_A_P.label>
+<OE_Reset_ODC_SniperRifle_A_P.description>重置巅峰走私者 - 突现。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_SniperRifle_A_P.description>
+<OE_Reset_ODC_SniperRifle_A_P.jobString>正在重置巅峰走私者 - 突现。</OE_Reset_ODC_SniperRifle_A_P.jobString>
+
+<!--=============== SniperRifle_B ====================-->
+<OE_Bond_ODC_SniperRifle_B.label>巅峰绑定走私者 - 巅峰</OE_Bond_ODC_SniperRifle_B.label>
+<OE_Bond_ODC_SniperRifle_B.description>巅峰绑定走私者 - 巅峰。</OE_Bond_ODC_SniperRifle_B.description>
+<OE_Bond_ODC_SniperRifle_B.jobString>正在巅峰绑定走私者 - 巅峰。</OE_Bond_ODC_SniperRifle_B.jobString>
+
+<OE_Reset_ODC_SniperRifle_B_P.label>重置巅峰走私者 - 巅峰</OE_Reset_ODC_SniperRifle_B_P.label>
+<OE_Reset_ODC_SniperRifle_B_P.description>重置巅峰走私者 - 巅峰。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_SniperRifle_B_P.description>
+<OE_Reset_ODC_SniperRifle_B_P.jobString>正在重置巅峰走私者 - 巅峰。</OE_Reset_ODC_SniperRifle_B_P.jobString>
+
+<!--=============== Tonfa ====================-->
+<OE_Bond_ODC_Tonfa.label>人格绑定重击者</OE_Bond_ODC_Tonfa.label>
+<OE_Bond_ODC_Tonfa.description>人格绑定重击者。</OE_Bond_ODC_Tonfa.description>
+<OE_Bond_ODC_Tonfa.jobString>正在人格绑定重击者。</OE_Bond_ODC_Tonfa.jobString>
+
+<OE_Reset_ODC_Tonfa_P.label>重置人格重击者</OE_Reset_ODC_Tonfa_P.label>
+<OE_Reset_ODC_Tonfa_P.description>重置人格重击者。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_ODC_Tonfa_P.description>
+<OE_Reset_ODC_Tonfa_P.jobString>正在重置人格重击者。</OE_Reset_ODC_Tonfa_P.jobString>
+
+<!--=============== ODC - Rocket Launcher ====================-->
+<OE_Bond_ODC_RocketLauncher.label>巅峰绑定爆炸射手 - 突现</OE_Bond_ODC_RocketLauncher.label>
+<OE_Bond_ODC_RocketLauncher.description>巅峰绑定爆炸射手 - 突现。</OE_Bond_ODC_RocketLauncher.description>
+<OE_Bond_ODC_RocketLauncher.jobString>正在巅峰绑定爆炸射手 - 突现。</OE_Bond_ODC_RocketLauncher.jobString>
+
+<OE_Reset_ODC_RocketLauncher_P.label>重置巅峰爆炸射手 - 突现</OE_Reset_ODC_RocketLauncher_P.label>
+<OE_Reset_ODC_RocketLauncher_P.description>重置巅峰爆炸射手 - 突现。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_RocketLauncher_P.description>
+<OE_Reset_ODC_RocketLauncher_P.jobString>正在重置巅峰爆炸射手 - 突现。</OE_Reset_ODC_RocketLauncher_P.jobString>
+
+<!--=============== ODC - Elemental Rocket Launcher ====================-->
+<!--=============== Acid ====================-->
+<OE_Bond_ODC_RocketLauncher_Acid.label>巅峰绑定爆炸射手 - 巅峰(酸液)</OE_Bond_ODC_RocketLauncher_Acid.label>
+<OE_Bond_ODC_RocketLauncher_Acid.description>巅峰绑定爆炸射手 - 巅峰(酸液)。</OE_Bond_ODC_RocketLauncher_Acid.description>
+<OE_Bond_ODC_RocketLauncher_Acid.jobString>正在巅峰绑定爆炸射手 - 巅峰(酸液)。</OE_Bond_ODC_RocketLauncher_Acid.jobString>
+
+<OE_Reset_ODC_RocketLauncher_P_Acid.label>重置巅峰爆炸射手 - 巅峰(酸液)</OE_Reset_ODC_RocketLauncher_P_Acid.label>
+<OE_Reset_ODC_RocketLauncher_P_Acid.description>重置巅峰爆炸射手 - 巅峰(酸液)。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_RocketLauncher_P_Acid.description>
+<OE_Reset_ODC_RocketLauncher_P_Acid.jobString>正在重置巅峰爆炸射手 - 巅峰(酸液)。</OE_Reset_ODC_RocketLauncher_P_Acid.jobString>
+<!--=============== Cryo ====================-->
+<OE_Bond_ODC_RocketLauncher_Cryo.label>巅峰绑定爆炸射手 - 巅峰(冷冻)</OE_Bond_ODC_RocketLauncher_Cryo.label>
+<OE_Bond_ODC_RocketLauncher_Cryo.description>巅峰绑定爆炸射手 - 巅峰(冷冻)。</OE_Bond_ODC_RocketLauncher_Cryo.description>
+<OE_Bond_ODC_RocketLauncher_Cryo.jobString>正在巅峰绑定爆炸射手 - 巅峰(冷冻)。</OE_Bond_ODC_RocketLauncher_Cryo.jobString>
+
+<OE_Reset_ODC_RocketLauncher_P_Cryo.label>重置巅峰爆炸射手 - 巅峰(冷冻)</OE_Reset_ODC_RocketLauncher_P_Cryo.label>
+<OE_Reset_ODC_RocketLauncher_P_Cryo.description>重置巅峰爆炸射手 - 巅峰(冷冻)。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_RocketLauncher_P_Cryo.description>
+<OE_Reset_ODC_RocketLauncher_P_Cryo.jobString>正在重置巅峰爆炸射手 - 巅峰(冷冻)。</OE_Reset_ODC_RocketLauncher_P_Cryo.jobString>
+<!--=============== Fire ====================-->
+<OE_Bond_ODC_RocketLauncher_Fire.label>巅峰绑定爆炸射手 - 巅峰(火焰)</OE_Bond_ODC_RocketLauncher_Fire.label>
+<OE_Bond_ODC_RocketLauncher_Fire.description>巅峰绑定爆炸射手 - 巅峰(火焰)。</OE_Bond_ODC_RocketLauncher_Fire.description>
+<OE_Bond_ODC_RocketLauncher_Fire.jobString>正在巅峰绑定爆炸射手 - 巅峰(火焰)。</OE_Bond_ODC_RocketLauncher_Fire.jobString>
+
+<OE_Reset_ODC_RocketLauncher_P_Fire.label>重置巅峰爆炸射手 - 巅峰(火焰)</OE_Reset_ODC_RocketLauncher_P_Fire.label>
+<OE_Reset_ODC_RocketLauncher_P_Fire.description>重置巅峰爆炸射手 - 巅峰(火焰)。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_RocketLauncher_P_Fire.description>
+<OE_Reset_ODC_RocketLauncher_P_Fire.jobString>正在重置巅峰爆炸射手 - 巅峰(火焰)。</OE_Reset_ODC_RocketLauncher_P_Fire.jobString>
+<!--=============== EMP ====================-->
+<OE_Bond_ODC_RocketLauncher_EMP.label>巅峰绑定爆炸射手 - 巅峰(电磁)</OE_Bond_ODC_RocketLauncher_EMP.label>
+<OE_Bond_ODC_RocketLauncher_EMP.description>巅峰绑定爆炸射手 - 巅峰(电磁)。</OE_Bond_ODC_RocketLauncher_EMP.description>
+<OE_Bond_ODC_RocketLauncher_EMP.jobString>正在巅峰绑定爆炸射手 - 巅峰(电磁)。</OE_Bond_ODC_RocketLauncher_EMP.jobString>
+
+<OE_Reset_ODC_RocketLauncher_P_EMP.label>重置巅峰爆炸射手 - 巅峰(电磁)</OE_Reset_ODC_RocketLauncher_P_EMP.label>
+<OE_Reset_ODC_RocketLauncher_P_EMP.description>重置巅峰爆炸射手 - 巅峰(电磁)。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_ODC_RocketLauncher_P_EMP.description>
+<OE_Reset_ODC_RocketLauncher_P_EMP.jobString>正在重置巅峰爆炸射手 - 巅峰(电磁)。</OE_Reset_ODC_RocketLauncher_P_EMP.jobString>
+
+</LanguageData>

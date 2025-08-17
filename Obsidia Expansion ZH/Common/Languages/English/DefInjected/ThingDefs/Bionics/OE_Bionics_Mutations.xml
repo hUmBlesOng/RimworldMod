@@ -1,74 +1,74 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
-<!--=============== 突变 - 饥饿 ====================-->
-<EGO_Mutation_Hunger.label>突变 - 新陈代谢</EGO_Mutation_Hunger.label>
-<EGO_Mutation_Hunger.description>突变是一种融合科技适应性改造，改变共生体，加强其与宿主的结合并赋予增强能力。其目的是实现更高的性能并改善饥饿率。\n\n植入需要 - 共生体。\n\n该突变最多可植入15次以增强其效果。</EGO_Mutation_Hunger.description>
-<EGO_Mutation_Hunger.comps.CompUsableImplant.useLabel>植入 {0_label}</EGO_Mutation_Hunger.comps.CompUsableImplant.useLabel>
+<!--=============== Mutation - Hunger ====================-->
+<EGO_Mutation_Hunger.label>mutation - Metabolism</EGO_Mutation_Hunger.label>
+<EGO_Mutation_Hunger.description>Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improve hunger rate.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect.</EGO_Mutation_Hunger.description>
+<EGO_Mutation_Hunger.comps.CompUsableImplant.useLabel>Implant {0_label}</EGO_Mutation_Hunger.comps.CompUsableImplant.useLabel>
 
-<!--=============== 突变 - 意志 ====================-->
-<EGO_Mutation_Will.label>突变 - 坚定不移</EGO_Mutation_Will.label>
-<EGO_Mutation_Will.description>突变是一种融合科技适应性改造，改变共生体，加强其与宿主的结合并赋予增强能力。其目的是实现更高的性能并改善精神崩溃阈值。\n\n植入需要 - 共生体。\n\n该突变最多可植入15次以增强其效果。</EGO_Mutation_Will.description>
-<EGO_Mutation_Will.comps.CompUsableImplant.useLabel>植入 {0_label}</EGO_Mutation_Will.comps.CompUsableImplant.useLabel>
+<!--=============== Mutation - Will ====================-->
+<EGO_Mutation_Will.label>mutation - Unshaken</EGO_Mutation_Will.label>
+<EGO_Mutation_Will.description>Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improve mental break threshold.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect.</EGO_Mutation_Will.description>
+<EGO_Mutation_Will.comps.CompUsableImplant.useLabel>Implant {0_label}</EGO_Mutation_Will.comps.CompUsableImplant.useLabel>
 
-<!--=============== 突变 - 身体 ====================-->
-<EGO_Mutation_Body.label>突变 - 半神</EGO_Mutation_Body.label>
-<EGO_Mutation_Body.description>突变是一种融合科技适应性改造，改变共生体，加强其与宿主的结合并赋予增强能力。其目的是实现更高的性能并改善身体属性。\n\n植入需要 - 共生体。\n\n该突变最多可植入15次以增强其效果。</EGO_Mutation_Body.description>
-<EGO_Mutation_Body.comps.CompUsableImplant.useLabel>植入 {0_label}</EGO_Mutation_Body.comps.CompUsableImplant.useLabel>
+<!--=============== Mutation - Body ====================-->
+<EGO_Mutation_Body.label>mutation - Demigod</EGO_Mutation_Body.label>
+<EGO_Mutation_Body.description>Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improvements body stats.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect.</EGO_Mutation_Body.description>
+<EGO_Mutation_Body.comps.CompUsableImplant.useLabel>Implant {0_label}</EGO_Mutation_Body.comps.CompUsableImplant.useLabel>
 
-<!--=============== 突变 - 护甲 ====================-->
-<EGO_Mutation_Armor.label>突变 - 巨像</EGO_Mutation_Armor.label>
-<EGO_Mutation_Armor.description>突变是一种融合科技适应性改造，改变共生体，加强其与宿主的结合并赋予增强能力。其目的是实现更高的性能并改善全身对伤害的抵抗力。\n\n植入需要 - 共生体。\n\n该突变最多可植入15次以增强其效果。</EGO_Mutation_Armor.description>
-<EGO_Mutation_Armor.comps.CompUsableImplant.useLabel>植入 {0_label}</EGO_Mutation_Armor.comps.CompUsableImplant.useLabel>
+<!--=============== Mutation - Armor ====================-->
+<EGO_Mutation_Armor.label>mutation - Colossus</EGO_Mutation_Armor.label>
+<EGO_Mutation_Armor.description>Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improve resistance to damage across the whole body.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect.</EGO_Mutation_Armor.description>
+<EGO_Mutation_Armor.comps.CompUsableImplant.useLabel>Implant {0_label}</EGO_Mutation_Armor.comps.CompUsableImplant.useLabel>
 
-<!--=============== 突变 - 温度 ====================-->
-<EGO_Mutation_Temperature.label>突变 - 忍耐者</EGO_Mutation_Temperature.label>
-<EGO_Mutation_Temperature.description>突变是一种融合科技适应性改造，改变共生体，加强其与宿主的结合并赋予增强能力。其目的是实现更高的性能并改善对舒适温度的适应性。\n\n植入需要 - 共生体。\n\n该突变最多可植入15次以增强其效果。</EGO_Mutation_Temperature.description>
-<EGO_Mutation_Temperature.comps.CompUsableImplant.useLabel>植入 {0_label}</EGO_Mutation_Temperature.comps.CompUsableImplant.useLabel>
+<!--=============== Mutation - Temperature ====================-->
+<EGO_Mutation_Temperature.label>mutation - Endurer</EGO_Mutation_Temperature.label>
+<EGO_Mutation_Temperature.description>Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improve adaptability to comfortable temperatures.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect.</EGO_Mutation_Temperature.description>
+<EGO_Mutation_Temperature.comps.CompUsableImplant.useLabel>Implant {0_label}</EGO_Mutation_Temperature.comps.CompUsableImplant.useLabel>
 
-<!--=============== 突变 - 工人 ====================-->
-<EGO_Mutation_Worker.label>突变 - 建造者</EGO_Mutation_Worker.label>
-<EGO_Mutation_Worker.description>突变是一种融合科技适应性改造，改变共生体，加强其与宿主的结合并赋予增强能力。其目的是实现更高的性能并改善工作技能。\n\n植入需要 - 共生体。\n\n该突变最多可植入15次以增强其效果。</EGO_Mutation_Worker.description>
-<EGO_Mutation_Worker.comps.CompUsableImplant.useLabel>植入 {0_label}</EGO_Mutation_Worker.comps.CompUsableImplant.useLabel>
+<!--=============== Mutation - Worker ====================-->
+<EGO_Mutation_Worker.label>mutation - Constructor</EGO_Mutation_Worker.label>
+<EGO_Mutation_Worker.description>Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improvements working skills.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect.</EGO_Mutation_Worker.description>
+<EGO_Mutation_Worker.comps.CompUsableImplant.useLabel>Implant {0_label}</EGO_Mutation_Worker.comps.CompUsableImplant.useLabel>
 
-<!--=============== 突变 - 近战 ====================-->
-<EGO_Mutation_Melee.label>突变 - 狂战士</EGO_Mutation_Melee.label>
-<EGO_Mutation_Melee.description>突变是一种融合科技适应性改造，改变共生体，加强其与宿主的结合并赋予增强能力。其目的是实现更高的性能并改善近战技能。\n\n植入需要 - 共生体。\n\n该突变最多可植入15次以增强其效果。</EGO_Mutation_Melee.description>
-<EGO_Mutation_Melee.comps.CompUsableImplant.useLabel>植入 {0_label}</EGO_Mutation_Melee.comps.CompUsableImplant.useLabel>
+<!--=============== Mutation - Melee ====================-->
+<EGO_Mutation_Melee.label>mutation - Berserker</EGO_Mutation_Melee.label>
+<EGO_Mutation_Melee.description>Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improvements melee skills.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect.</EGO_Mutation_Melee.description>
+<EGO_Mutation_Melee.comps.CompUsableImplant.useLabel>Implant {0_label}</EGO_Mutation_Melee.comps.CompUsableImplant.useLabel>
 
-<!--=============== 突变 - 远程 ====================-->
-<EGO_Mutation_Ranged.label>突变 - 弩炮</EGO_Mutation_Ranged.label>
-<EGO_Mutation_Ranged.description>突变是一种融合科技适应性改造，改变共生体，加强其与宿主的结合并赋予增强能力。其目的是实现更高的性能并改善射击技能。\n\n植入需要 - 共生体。\n\n该突变最多可植入15次以增强其效果。</EGO_Mutation_Ranged.description>
-<EGO_Mutation_Ranged.comps.CompUsableImplant.useLabel>植入 {0_label}</EGO_Mutation_Ranged.comps.CompUsableImplant.useLabel>
+<!--=============== Mutation - Ranged ====================-->
+<EGO_Mutation_Ranged.label>mutation - Ballista</EGO_Mutation_Ranged.label>
+<EGO_Mutation_Ranged.description>Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improvements shooting skills.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect.</EGO_Mutation_Ranged.description>
+<EGO_Mutation_Ranged.comps.CompUsableImplant.useLabel>Implant {0_label}</EGO_Mutation_Ranged.comps.CompUsableImplant.useLabel>
 
-<!--=============== 突变 - 心灵 ====================-->
-<EGO_Mutation_Psy.label>突变 - 织梦者</EGO_Mutation_Psy.label>
-<EGO_Mutation_Psy.description>突变是一种融合科技适应性改造，改变共生体，加强其与宿主的结合并赋予增强能力。其目的是实现更高的性能并改善心灵力量。\n\n植入需要 - 共生体。\n\n该突变最多可植入15次以增强其效果。</EGO_Mutation_Psy.description>
-<EGO_Mutation_Psy.comps.CompUsableImplant.useLabel>植入 {0_label}</EGO_Mutation_Psy.comps.CompUsableImplant.useLabel>
+<!--=============== Mutation - Psy ====================-->
+<EGO_Mutation_Psy.label>mutation - Mindweaver</EGO_Mutation_Psy.label>
+<EGO_Mutation_Psy.description>Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improvements psychic powers.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect.</EGO_Mutation_Psy.description>
+<EGO_Mutation_Psy.comps.CompUsableImplant.useLabel>Implant {0_label}</EGO_Mutation_Psy.comps.CompUsableImplant.useLabel>
 
-<!--=============== 突变 - 机械师 ====================-->
-<EGO_Mutation_Mechanitor.label>突变 - 自动法师</EGO_Mutation_Mechanitor.label>
-<EGO_Mutation_Mechanitor.description>突变是一种融合科技适应性改造，改变共生体，加强其与宿主的结合并赋予增强能力。其目的是实现更高的性能并改善机械体控制能力。\n\n植入需要 - 共生体。\n\n该突变最多可植入15次以增强其效果。</EGO_Mutation_Mechanitor.description>
-<EGO_Mutation_Mechanitor.comps.CompUsableImplant.useLabel>植入 {0_label}</EGO_Mutation_Mechanitor.comps.CompUsableImplant.useLabel>
+<!--=============== Mutation - Mechanitor ====================-->
+<EGO_Mutation_Mechanitor.label>mutation - Automancer</EGO_Mutation_Mechanitor.label>
+<EGO_Mutation_Mechanitor.description>Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. Its purpose is to achieve higher performance and improvements Mechanoids control abilities.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 15 times to increase its effect.</EGO_Mutation_Mechanitor.description>
+<EGO_Mutation_Mechanitor.comps.CompUsableImplant.useLabel>Implant {0_label}</EGO_Mutation_Mechanitor.comps.CompUsableImplant.useLabel>
 
-<!--=============== 突变 - 年长恐狼 ====================-->
-<EGO_Mutation_Elder_Direwolf.label>突变 - 年长恐狼</EGO_Mutation_Elder_Direwolf.label>
-<EGO_Mutation_Elder_Direwolf.description>突变是一种融合科技适应性改造，改变共生体，加强其与宿主的结合并赋予增强能力。它是从年长恐狼身上收获的变异EGO种子开发而来的。\n\n植入需要 - 共生体。\n\n该突变最多可植入5次以增强其效果。</EGO_Mutation_Elder_Direwolf.description>
-<EGO_Mutation_Elder_Direwolf.comps.CompUsableImplant.useLabel>植入 {0_label}</EGO_Mutation_Elder_Direwolf.comps.CompUsableImplant.useLabel>
+<!--=============== Mutation - Elder Direwolf ====================-->
+<EGO_Mutation_Elder_Direwolf.label>mutation - Elder Direwolf</EGO_Mutation_Elder_Direwolf.label>
+<EGO_Mutation_Elder_Direwolf.description>Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. It was developed from a mutated EGO Seed harvested from an Elder Direwolf.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 5 times to increase its effect.</EGO_Mutation_Elder_Direwolf.description>
+<EGO_Mutation_Elder_Direwolf.comps.CompUsableImplant.useLabel>Implant {0_label}</EGO_Mutation_Elder_Direwolf.comps.CompUsableImplant.useLabel>
 
-<!--=============== 突变 - 年长迅猛龙 ====================-->
-<EGO_Mutation_Elder_Raptor.label>突变 - 年长迅猛龙</EGO_Mutation_Elder_Raptor.label>
-<EGO_Mutation_Elder_Raptor.description>突变是一种融合科技适应性改造，改变共生体，加强其与宿主的结合并赋予增强能力。它是从年长迅猛龙身上收获的变异EGO种子开发而来的。\n\n植入需要 - 共生体。\n\n该突变最多可植入5次以增强其效果。</EGO_Mutation_Elder_Raptor.description>
-<EGO_Mutation_Elder_Raptor.comps.CompUsableImplant.useLabel>植入 {0_label}</EGO_Mutation_Elder_Raptor.comps.CompUsableImplant.useLabel>
+<!--=============== Mutation - Elder Raptor ====================-->
+<EGO_Mutation_Elder_Raptor.label>mutation - Elder Raptor</EGO_Mutation_Elder_Raptor.label>
+<EGO_Mutation_Elder_Raptor.description>Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. It was developed from a mutated EGO Seed harvested from an Elder Raptor.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 5 times to increase its effect.</EGO_Mutation_Elder_Raptor.description>
+<EGO_Mutation_Elder_Raptor.comps.CompUsableImplant.useLabel>Implant {0_label}</EGO_Mutation_Elder_Raptor.comps.CompUsableImplant.useLabel>
 
-<!--=============== 突变 - 年长奥格林 ====================-->
-<EGO_Mutation_Elder_Ogren.label>突变 - 年长奥格林</EGO_Mutation_Elder_Ogren.label>
-<EGO_Mutation_Elder_Ogren.description>突变是一种融合科技适应性改造，改变共生体，加强其与宿主的结合并赋予增强能力。它是从年长奥格林身上收获的变异EGO种子开发而来的。\n\n植入需要 - 共生体。\n\n该突变最多可植入5次以增强其效果。</EGO_Mutation_Elder_Ogren.description>
-<EGO_Mutation_Elder_Ogren.comps.CompUsableImplant.useLabel>植入 {0_label}</EGO_Mutation_Elder_Ogren.comps.CompUsableImplant.useLabel>
+<!--=============== Mutation - Elder Ogren ====================-->
+<EGO_Mutation_Elder_Ogren.label>mutation - Elder Ogren</EGO_Mutation_Elder_Ogren.label>
+<EGO_Mutation_Elder_Ogren.description>Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. It was developed from a mutated EGO Seed harvested from an Elder Ogren.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 5 times to increase its effect.</EGO_Mutation_Elder_Ogren.description>
+<EGO_Mutation_Elder_Ogren.comps.CompUsableImplant.useLabel>Implant {0_label}</EGO_Mutation_Elder_Ogren.comps.CompUsableImplant.useLabel>
 
-<!--=============== 突变 - 年长提奥南特 ====================-->
-<EGO_Mutation_Elder_Tionant.label>突变 - 年长提奥南特</EGO_Mutation_Elder_Tionant.label>
-<EGO_Mutation_Elder_Tionant.description>突变是一种融合科技适应性改造，改变共生体，加强其与宿主的结合并赋予增强能力。它是从年长提奥南特身上收获的变异EGO种子开发而来的。\n\n植入需要 - 共生体。\n\n该突变最多可植入5次以增强其效果。</EGO_Mutation_Elder_Tionant.description>
-<EGO_Mutation_Elder_Tionant.comps.CompUsableImplant.useLabel>植入 {0_label}</EGO_Mutation_Elder_Tionant.comps.CompUsableImplant.useLabel>
+<!--=============== Mutation - Elder Tionant ====================-->
+<EGO_Mutation_Elder_Tionant.label>mutation - Elder Tionant</EGO_Mutation_Elder_Tionant.label>
+<EGO_Mutation_Elder_Tionant.description>Mutation is an amalgam-technological adaptation that alters the Symbiote, strengthening its bond with the host and granting enhanced abilities. It was developed from a mutated EGO Seed harvested from an Elder Tionant.\n\nImplantation requires - symbiont.\n\nThis mutation can be implanted up to 5 times to increase its effect.</EGO_Mutation_Elder_Tionant.description>
+<EGO_Mutation_Elder_Tionant.comps.CompUsableImplant.useLabel>Implant {0_label}</EGO_Mutation_Elder_Tionant.comps.CompUsableImplant.useLabel>
 
 </LanguageData>

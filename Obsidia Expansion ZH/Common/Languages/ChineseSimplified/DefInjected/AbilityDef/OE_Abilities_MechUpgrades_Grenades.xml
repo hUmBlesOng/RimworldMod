@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+<!--=============== OTC ====================-->
+<!--=============== Acid ====================-->
+<OTC_MechUpgrade_Ability_Acid.label>投掷酸液手雷</OTC_MechUpgrade_Ability_Acid.label>
+<OTC_MechUpgrade_Ability_Acid.description>投掷酸液手雷。</OTC_MechUpgrade_Ability_Acid.description>
+<OTC_MechUpgrade_Ability_Acid.comps.CompAbilityEffect_ReloadableUpgrade.chargeNoun>充能</OTC_MechUpgrade_Ability_Acid.comps.CompAbilityEffect_ReloadableUpgrade.chargeNoun>
+
+<!--=============== Cryo ====================-->
+<OTC_MechUpgrade_Ability_Cryo.label>投掷冷冻手雷</OTC_MechUpgrade_Ability_Cryo.label>
+<OTC_MechUpgrade_Ability_Cryo.description>投掷冷冻手雷。</OTC_MechUpgrade_Ability_Cryo.description>
+<OTC_MechUpgrade_Ability_Cryo.comps.CompAbilityEffect_ReloadableUpgrade.chargeNoun>充能</OTC_MechUpgrade_Ability_Cryo.comps.CompAbilityEffect_ReloadableUpgrade.chargeNoun>
+
+<!--=============== Fire ====================-->
+<OTC_MechUpgrade_Ability_Fire.label>投掷燃烧手雷</OTC_MechUpgrade_Ability_Fire.label>
+<OTC_MechUpgrade_Ability_Fire.description>投掷燃烧手雷。</OTC_MechUpgrade_Ability_Fire.description>
+<OTC_MechUpgrade_Ability_Fire.comps.CompAbilityEffect_ReloadableUpgrade.chargeNoun>充能</OTC_MechUpgrade_Ability_Fire.comps.CompAbilityEffect_ReloadableUpgrade.chargeNoun>
+
+<!--=============== EMP ====================-->
+<OTC_MechUpgrade_Ability_EMP.label>投掷电磁脉冲手雷</OTC_MechUpgrade_Ability_EMP.label>
+<OTC_MechUpgrade_Ability_EMP.description>投掷电磁脉冲手雷。</OTC_MechUpgrade_Ability_EMP.description>
+<OTC_MechUpgrade_Ability_EMP.comps.CompAbilityEffect_ReloadableUpgrade.chargeNoun>充能</OTC_MechUpgrade_Ability_EMP.comps.CompAbilityEffect_ReloadableUpgrade.chargeNoun>
+
+<!--=============== OCC ====================-->
+<OCC_MechUpgrade_Ability.label>投掷爆破手雷</OCC_MechUpgrade_Ability.label>
+<OCC_MechUpgrade_Ability.description>投掷爆破手雷。</OCC_MechUpgrade_Ability.description>
+<OCC_MechUpgrade_Ability.comps.CompAbilityEffect_ReloadableUpgrade.chargeNoun>充能</OCC_MechUpgrade_Ability.comps.CompAbilityEffect_ReloadableUpgrade.chargeNoun>
+
+<!--=============== ODC ====================-->
+<ODC_MechUpgrade_Ability.label>投掷眩晕手雷</ODC_MechUpgrade_Ability.label>
+<ODC_MechUpgrade_Ability.description>投掷眩晕手雷。</ODC_MechUpgrade_Ability.description>
+<ODC_MechUpgrade_Ability.comps.CompAbilityEffect_ReloadableUpgrade.chargeNoun>充能</ODC_MechUpgrade_Ability.comps.CompAbilityEffect_ReloadableUpgrade.chargeNoun>
+
+<!--=============== OMG ====================-->
+<OMG_MechUpgrade_Ability.label>投掷死灵手雷</OMG_MechUpgrade_Ability.label>
+<OMG_MechUpgrade_Ability.description>投掷死灵手雷。</OMG_MechUpgrade_Ability.description>
+<OMG_MechUpgrade_Ability.comps.CompAbilityEffect_ReloadableUpgrade.chargeNoun>充能</OMG_MechUpgrade_Ability.comps.CompAbilityEffect_ReloadableUpgrade.chargeNoun>
+
+</LanguageData>

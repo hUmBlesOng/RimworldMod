@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Timbium ====================-->
+<OE_Chemical_Timbium.label>蒂比乌姆成瘾</OE_Chemical_Timbium.label>
+<OE_Chemical_Timbium.description>由于蒂比乌姆成瘾，此人需要定期摄入蒂比乌姆以避免戒断症状。</OE_Chemical_Timbium.description>
+
+<!--=============== Garganadol ====================-->
+<OE_Chemical_Garganadol.label>加尔加纳多成瘾</OE_Chemical_Garganadol.label>
+<OE_Chemical_Garganadol.description>此人的身体受到加尔加纳多机械体的增强。\n\n没有定期摄入加尔加纳多，机械体会失去凝聚力。如果发生这种情况，使用者最终会死亡。\n\n这种成瘾永远不会消失。</OE_Chemical_Garganadol.description>
+
+<!--=============== Cofagradol ====================-->
+<OE_Chemical_Cofagradol.label>科法格拉多成瘾</OE_Chemical_Cofagradol.label>
+<OE_Chemical_Cofagradol.description>此人的身体受到科法格拉多机械体的增强。\n\n没有定期摄入科法格拉多，机械体会失去凝聚力。如果发生这种情况，使用者最终会死亡。\n\n这种成瘾永远不会消失。</OE_Chemical_Cofagradol.description>
+
+<!--=============== Cressadol ====================-->
+<OE_Chemical_Cressadol.label>克雷萨多成瘾</OE_Chemical_Cressadol.label>
+<OE_Chemical_Cressadol.description>此人的身体受到克雷萨多机械体的增强。\n\n没有定期摄入克雷萨多，机械体会失去凝聚力。如果发生这种情况，使用者最终会死亡。\n\n这种成瘾永远不会消失。</OE_Chemical_Cressadol.description>
+
+<!--=============== Florgadol ====================-->
+<OE_Chemical_Florgadol.label>弗洛加多成瘾</OE_Chemical_Florgadol.label>
+<OE_Chemical_Florgadol.description>此人的身体受到弗洛加多机械体的增强。\n\n没有定期摄入弗洛加多，机械体会失去凝聚力。如果发生这种情况，使用者最终会死亡。\n\n这种成瘾永远不会消失。</OE_Chemical_Florgadol.description>
+
+</LanguageData>

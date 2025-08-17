@@ -1,39 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
 <!--=============== MCV ====================-->
-<ODC_MCV_MainTurret.label>MCV炮塔</ODC_MCV_MainTurret.label>
-<ODC_MCV_MainTurret.description>ODC移动殖民车辆使用的小型炮塔。</ODC_MCV_MainTurret.description>
+<ODC_MCV_MainTurret.label>MCV turret</ODC_MCV_MainTurret.label>
+<ODC_MCV_MainTurret.description>Small turret used by ODC Mobile Colonial Vehicle.</ODC_MCV_MainTurret.description>
 
-<!--=============== 梦魇 ====================-->
+<!--=============== Nightmare ====================-->
 <!--=============== OMC ====================-->
-<OMC_Nightmare_MainTurret.label>苏塞塔斯炮塔</OMC_Nightmare_MainTurret.label>
-<OMC_Nightmare_MainTurret.description>OMC梦魇使用的大型狙击炮塔。</OMC_Nightmare_MainTurret.description>
+<OMC_Nightmare_MainTurret.label>Sutherland turret</OMC_Nightmare_MainTurret.label>
+<OMC_Nightmare_MainTurret.description>Large mounted Sniper turret used by OMC nightmare.</OMC_Nightmare_MainTurret.description>
 
 <!--=============== OTC ====================-->
-<!--=============== 酸液 ====================-->
-<OTC_Nightmare_Acid_MainTurret.label>格拉斯哥炮塔(酸液)</OTC_Nightmare_Acid_MainTurret.label>
-<OTC_Nightmare_Acid_MainTurret.description>OTC梦魇使用的大型多管加农炮塔。充能酸性伤害。</OTC_Nightmare_Acid_MainTurret.description>
-<!--=============== 冷冻 ====================-->
-<OTC_Nightmare_Cryo_MainTurret.label>格拉斯哥炮塔(冷冻)</OTC_Nightmare_Cryo_MainTurret.label>
-<OTC_Nightmare_Cryo_MainTurret.description>OTC梦魇使用的大型多管加农炮塔。充能冷冻伤害。</OTC_Nightmare_Cryo_MainTurret.description>
-<!--=============== 火焰 ====================-->
-<OTC_Nightmare_Fire_MainTurret.label>格拉斯哥炮塔(火焰)</OTC_Nightmare_Fire_MainTurret.label>
-<OTC_Nightmare_Fire_MainTurret.description>OTC梦魇使用的大型多管加农炮塔。充能火焰伤害。</OTC_Nightmare_Fire_MainTurret.description>
-<!--=============== 电磁脉冲 ====================-->
-<OTC_Nightmare_EMP_MainTurret.label>格拉斯哥炮塔(电磁脉冲)</OTC_Nightmare_EMP_MainTurret.label>
-<OTC_Nightmare_EMP_MainTurret.description>OTC梦魇使用的大型多管加农炮塔。充能电磁脉冲伤害。\n\n警告！电磁脉冲伤害并非旨在摧毁血肉之躯。</OTC_Nightmare_EMP_MainTurret.description>
+<!--=============== Acid ====================-->
+<OTC_Nightmare_Acid_MainTurret.label>Glasgow turret(Acid)</OTC_Nightmare_Acid_MainTurret.label>
+<OTC_Nightmare_Acid_MainTurret.description>Large mounted Multi-Cannon turret used by OTC nightmare. Charged with Acid damage.</OTC_Nightmare_Acid_MainTurret.description>
+<!--=============== Cryo ====================-->
+<OTC_Nightmare_Cryo_MainTurret.label>Glasgow turret(Cryo)</OTC_Nightmare_Cryo_MainTurret.label>
+<OTC_Nightmare_Cryo_MainTurret.description>Large mounted Multi-Cannon turret used by OTC nightmare. Charged with Cryo damage.</OTC_Nightmare_Cryo_MainTurret.description>
+<!--=============== Fire ====================-->
+<OTC_Nightmare_Fire_MainTurret.label>Glasgow turret(Fire)</OTC_Nightmare_Fire_MainTurret.label>
+<OTC_Nightmare_Fire_MainTurret.description>Large mounted Multi-Cannon turret used by OTC nightmare. Charged with Fire damage.</OTC_Nightmare_Fire_MainTurret.description>
+<!--=============== EMP ====================-->
+<OTC_Nightmare_EMP_MainTurret.label>Glasgow turret(EMP)</OTC_Nightmare_EMP_MainTurret.label>
+<OTC_Nightmare_EMP_MainTurret.description>Large mounted Multi-Cannon turret used by OTC nightmare. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags.</OTC_Nightmare_EMP_MainTurret.description>
 
 <!--=============== OCC ====================-->
-<OCC_Nightmare_MainTurret.label>格洛斯特炮塔</OCC_Nightmare_MainTurret.label>
-<OCC_Nightmare_MainTurret.description>OCC梦魇使用的大型火箭发射器炮塔。</OCC_Nightmare_MainTurret.description>
+<OCC_Nightmare_MainTurret.label>Gloucester turret</OCC_Nightmare_MainTurret.label>
+<OCC_Nightmare_MainTurret.description>Large mounted Rocket Launcher turret used by OCC nightmare.</OCC_Nightmare_MainTurret.description>
 
 <!--=============== OEC ====================-->
-<OEC_Nightmare_MainTurret.label>晓炮塔</OEC_Nightmare_MainTurret.label>
-<OEC_Nightmare_MainTurret.description>OEC梦魇使用的大型速射炮塔。</OEC_Nightmare_MainTurret.description>
+<OEC_Nightmare_MainTurret.label>Akatsuki turret</OEC_Nightmare_MainTurret.label>
+<OEC_Nightmare_MainTurret.description>Large mounted Minigun turret used by OEC nightmare.</OEC_Nightmare_MainTurret.description>
 
 <!--=============== ODC ====================-->
-<ODC_Nightmare_MainTurret.label>武雷炮塔</ODC_Nightmare_MainTurret.label>
-<ODC_Nightmare_MainTurret.description>ODC梦魇使用的大型霰弹炮塔。</ODC_Nightmare_MainTurret.description>
+<ODC_Nightmare_MainTurret.label>Burai turret</ODC_Nightmare_MainTurret.label>
+<ODC_Nightmare_MainTurret.description>Large mounted Shotgun turret used by ODC nightmare.</ODC_Nightmare_MainTurret.description>
 
 </LanguageData>

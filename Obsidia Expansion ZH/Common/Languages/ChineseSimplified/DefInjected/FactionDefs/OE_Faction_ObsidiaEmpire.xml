@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Obsidia Empire - Faction ====================-->
+<ObsidiaEmpire.label>黑曜石帝国</ObsidiaEmpire.label>
+<ObsidiaEmpire.description>来自黑曜石星球的超科技殖民者社会，按军事线路组织。他们在家乡太阳系生活了数千年，研究并使用稀有材料技术。但在研究达到顶峰后，是时候离开家园开始银河扩张了！\n\n他们也拒绝其他派系，为了开展贸易，你必须首先获得他们的信任。</ObsidiaEmpire.description>
+<ObsidiaEmpire.leaderTitle>执政官</ObsidiaEmpire.leaderTitle>
+<ObsidiaEmpire.pawnSingular>黑曜石人</ObsidiaEmpire.pawnSingular>
+<ObsidiaEmpire.pawnsPlural>黑曜石人</ObsidiaEmpire.pawnsPlural>
+<ObsidiaEmpire.royalFavorLabel>支配力</ObsidiaEmpire.royalFavorLabel>
+<ObsidiaEmpire.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</ObsidiaEmpire.messageDefendersAttacking>
+
+</LanguageData>

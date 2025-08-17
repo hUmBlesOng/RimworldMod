@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Gas ====================-->
+<OE_GasAddiction.label>气体成瘾</OE_GasAddiction.label>
+<OE_GasAddiction.description>对气体的化学成瘾。</OE_GasAddiction.description>
+
+</LanguageData>

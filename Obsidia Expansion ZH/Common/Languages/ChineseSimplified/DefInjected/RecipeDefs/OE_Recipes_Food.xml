@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Jumyline ====================-->
+<OE_Cook_JumylinePack.label>烹饪粘粘糖 x5</OE_Cook_JumylinePack.label>
+<OE_Cook_JumylinePack.description>用粘粘浆果和巧克力制作5个粘粘糖。</OE_Cook_JumylinePack.description>
+<OE_Cook_JumylinePack.jobString>正在烹饪5个粘粘糖。</OE_Cook_JumylinePack.jobString>
+
+<OE_Cook_JumylineBulk.label>烹饪粘粘糖 x10</OE_Cook_JumylineBulk.label>
+<OE_Cook_JumylineBulk.description>用粘粘浆果和巧克力制作10个粘粘糖。</OE_Cook_JumylineBulk.description>
+<OE_Cook_JumylineBulk.jobString>正在烹饪10个粘粘糖。</OE_Cook_JumylineBulk.jobString>
+
+<!--=============== Obsidia Can Meal ====================-->
+<!--=============== Normal ====================-->
+<OE_CookCanMeal.label>烹饪黑曜石罐头餐</OE_CookCanMeal.label>
+<OE_CookCanMeal.description>用肉类和植物食材的组合烹饪一道精致的高品质餐点。粘粘浆果被巧妙地用作香料来提升风味。虽然大部分食材都被精心修剪掉，但这个过程确保了创造无与伦比的用餐体验。</OE_CookCanMeal.description>
+<OE_CookCanMeal.jobString>正在烹饪黑曜石罐头餐。</OE_CookCanMeal.jobString>
+<OE_CookCanMeal.ingredients.0.filter.customSummary>蛋白质</OE_CookCanMeal.ingredients.0.filter.customSummary>
+
+<OE_CookCanMealBulk.label>烹饪黑曜石罐头餐 x4</OE_CookCanMealBulk.label>
+<OE_CookCanMealBulk.description>用肉类和植物食材的组合烹饪4份精致的高品质餐点。粘粘浆果被巧妙地用作香料来提升风味。虽然大部分食材都被精心修剪掉，但这个过程确保了创造无与伦比的用餐体验。</OE_CookCanMealBulk.description>
+<OE_CookCanMealBulk.jobString>正在烹饪4份黑曜石罐头餐。</OE_CookCanMealBulk.jobString>
+<OE_CookCanMealBulk.ingredients.0.filter.customSummary>蛋白质</OE_CookCanMealBulk.ingredients.0.filter.customSummary>
+
+<!--=============== Vegetarian ====================-->
+<OE_CookCanMeal_Veg.label>烹饪素食黑曜石罐头餐</OE_CookCanMeal_Veg.label>
+<OE_CookCanMeal_Veg.description>用植物食材的组合烹饪一道精致的高品质餐点。粘粘浆果被巧妙地用作香料来提升风味。虽然大部分食材都被精心修剪掉，但这个过程确保了创造无与伦比的用餐体验。</OE_CookCanMeal_Veg.description>
+<OE_CookCanMeal_Veg.jobString>正在烹饪素食黑曜石罐头餐。</OE_CookCanMeal_Veg.jobString>
+<OE_CookCanMeal_Veg.ingredients.0.filter.customSummary>素食食材</OE_CookCanMeal_Veg.ingredients.0.filter.customSummary>
+
+<OE_CookCanMealBulk_Veg.label>烹饪素食黑曜石罐头餐 x4</OE_CookCanMealBulk_Veg.label>
+<OE_CookCanMealBulk_Veg.description>用植物食材烹饪4份精致的高品质餐点。粘粘浆果被巧妙地用作香料来提升风味。虽然大部分食材都被精心修剪掉，但这个过程确保了创造无与伦比的用餐体验。</OE_CookCanMealBulk_Veg.description>
+<OE_CookCanMealBulk_Veg.jobString>正在烹饪4份素食黑曜石罐头餐。</OE_CookCanMealBulk_Veg.jobString>
+<OE_CookCanMealBulk_Veg.ingredients.0.filter.customSummary>素食食材</OE_CookCanMealBulk_Veg.ingredients.0.filter.customSummary>
+
+<!--=============== Carnivore ====================-->
+<OE_CookCanMeal_Meat.label>烹饪肉食黑曜石罐头餐</OE_CookCanMeal_Meat.label>
+<OE_CookCanMeal_Meat.description>用肉类食材烹饪一道精致的高品质餐点。粘粘浆果被巧妙地用作香料来提升风味。虽然大部分食材都被精心修剪掉，但这个过程确保了创造无与伦比的用餐体验。</OE_CookCanMeal_Meat.description>
+<OE_CookCanMeal_Meat.jobString>正在烹饪肉食黑曜石罐头餐。</OE_CookCanMeal_Meat.jobString>
+
+<OE_CookCanMealBulk_Meat.label>烹饪肉食黑曜石罐头餐 x4</OE_CookCanMealBulk_Meat.label>
+<OE_CookCanMealBulk_Meat.description>用肉类食材烹饪4份精致的高品质餐点。粘粘浆果被巧妙地用作香料来提升风味。虽然大部分食材都被精心修剪掉，但这个过程确保了创造无与伦比的用餐体验。</OE_CookCanMealBulk_Meat.description>
+<OE_CookCanMealBulk_Meat.jobString>正在烹饪4份肉食黑曜石罐头餐。</OE_CookCanMealBulk_Meat.jobString>
+
+</LanguageData>

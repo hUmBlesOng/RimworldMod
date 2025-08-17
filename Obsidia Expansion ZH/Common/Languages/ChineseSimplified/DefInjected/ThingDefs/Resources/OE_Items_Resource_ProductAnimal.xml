@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<!--=============== Raptors Egg ====================-->
+<OE_EggRaptorUnfertilized.label>迅猛龙蛋(未受精)</OE_EggRaptorUnfertilized.label>
+<OE_EggRaptorUnfertilized.description>一个未受精的迅猛龙蛋。可以生吃，但煮熟后要好得多。</OE_EggRaptorUnfertilized.description>
+
+<OE_EggRaptorFertilized.label>迅猛龙蛋(受精)</OE_EggRaptorFertilized.label>
+<OE_EggRaptorFertilized.description>受精的迅猛龙蛋。如果一切顺利，应该会孵化出一只幼年迅猛龙。可以生吃，但煮熟后更好。</OE_EggRaptorFertilized.description>
+
+<!--=============== Tionant Eggs ====================-->
+<OE_EggTionantUnfertilized.label>提奥南特蛋(未受精)</OE_EggTionantUnfertilized.label>
+<OE_EggTionantUnfertilized.description>一个未受精的提奥南特蛋。可以生吃，但要好得多。</OE_EggTionantUnfertilized.description>
+
+<!--=============== Blue ====================-->
+<OE_EggBlueTionantFertilized.label>蓝色提奥南特蛋(受精)</OE_EggBlueTionantFertilized.label>
+<OE_EggBlueTionantFertilized.description>受精的蓝色提奥南特蛋。如果一切顺利，应该会孵化出一只蓝色幼年提奥南特。不建议用于食物，非常有毒。</OE_EggBlueTionantFertilized.description>
+
+<!--=============== Green ====================-->
+<OE_EggGreenTionantFertilized.label>绿色提奥南特蛋(受精)</OE_EggGreenTionantFertilized.label>
+<OE_EggGreenTionantFertilized.description>受精的绿色提奥南特蛋。如果一切顺利，应该会孵化出一只绿色幼年提奥南特。不建议用于食物，非常有毒。</OE_EggGreenTionantFertilized.description>
+
+<!--=============== Red ====================-->
+<OE_EggRedTionantFertilized.label>红色提奥南特蛋(受精)</OE_EggRedTionantFertilized.label>
+<OE_EggRedTionantFertilized.description>受精的红色提奥南特蛋。如果一切顺利，应该会孵化出一只红色幼年提奥南特。不建议用于食物，非常有毒。</OE_EggRedTionantFertilized.description>
+
+<!--=============== Yellow ====================-->
+<OE_EggYellowTionantFertilized.label>黄色提奥南特蛋(受精)</OE_EggYellowTionantFertilized.label>
+<OE_EggYellowTionantFertilized.description>受精的黄色提奥南特蛋。如果一切顺利，应该会孵化出一只黄色幼年提奥南特。不建议用于食物，非常有毒。</OE_EggYellowTionantFertilized.description>
+
+<!--=============== Tionant Jelly ====================-->
+<!--=============== Blue ====================-->
+<OE_Blue_TionantJelly.label>蓝色提奥南特果冻</OE_Blue_TionantJelly.label>
+<OE_Blue_TionantJelly.description>由蓝色提奥南特产生的独特果冻。这种药物果冻用于医学或某些物质的合成。</OE_Blue_TionantJelly.description>
+
+<!--=============== Green ====================-->
+<OE_Green_TionantJelly.label>绿色提奥南特果冻</OE_Green_TionantJelly.label>
+<OE_Green_TionantJelly.description>由绿色提奥南特产生的独特果冻。这种蔬菜果冻用作食物或烹饪。</OE_Green_TionantJelly.description>
+
+<!--=============== Red ====================-->
+<OE_Red_TionantJelly.label>红色提奥南特果冻</OE_Red_TionantJelly.label>
+<OE_Red_TionantJelly.description>由红色提奥南特产生的独特果冻。这种肉果冻用作食物或烹饪。</OE_Red_TionantJelly.description>
+
+<!--=============== Yellow ====================-->
+<OE_Yellow_TionantJelly.label>黄色提奥南特果冻</OE_Yellow_TionantJelly.label>
+<OE_Yellow_TionantJelly.description>由黄色提奥南特产生的独特果冻。这种动物果冻用作食物或烹饪。</OE_Yellow_TionantJelly.description>
+
+<!--=============== Bruul Caviar ====================-->
+<OE_CaviarBruulUnfertilized.label>布鲁尔鱼子酱(未受精)</OE_CaviarBruulUnfertilized.label>
+<OE_CaviarBruulUnfertilized.description>一个未受精的布鲁尔鱼子酱。可以生吃，但要好得多。</OE_CaviarBruulUnfertilized.description>
+<!--=============== Acid Bruul ====================-->
+<OE_CaviarBruulAcidFertilized.label>酸性布鲁尔鱼子酱(受精)</OE_CaviarBruulAcidFertilized.label>
+<OE_CaviarBruulAcidFertilized.description>受精的酸性布鲁尔鱼子酱。如果一切顺利，应该会孵化出一只幼年酸性布鲁尔。可以生吃，但煮熟后更好。</OE_CaviarBruulAcidFertilized.description>
+<!--=============== Cryo Bruul ====================-->
+<OE_CaviarBruulCryoFertilized.label>冷冻布鲁尔鱼子酱(受精)</OE_CaviarBruulCryoFertilized.label>
+<OE_CaviarBruulCryoFertilized.description>受精的冷冻布鲁尔鱼子酱。如果一切顺利，应该会孵化出一只幼年冷冻布鲁尔。可以生吃，但煮熟后更好。</OE_CaviarBruulCryoFertilized.description>
+<!--=============== Fire Bruul ====================-->
+<OE_CaviarBruulFireFertilized.label>火焰布鲁尔鱼子酱(受精)</OE_CaviarBruulFireFertilized.label>
+<OE_CaviarBruulFireFertilized.description>受精的火焰布鲁尔鱼子酱。如果一切顺利，应该会孵化出一只幼年火焰布鲁尔。可以生吃，但煮熟后更好。</OE_CaviarBruulFireFertilized.description>
+<!--=============== EMP Bruul ====================-->
+<OE_CaviarBruulEMPFertilized.label>电磁脉冲布鲁尔鱼子酱(受精)</OE_CaviarBruulEMPFertilized.label>
+<OE_CaviarBruulEMPFertilized.description>受精的电磁脉冲布鲁尔鱼子酱。如果一切顺利，应该会孵化出一只幼年电磁脉冲布鲁尔。可以生吃，但煮熟后更好。</OE_CaviarBruulEMPFertilized.description>
+
+<!--=============== Snapper Caviar ====================-->
+<OE_EggSnapperUnfertilized.label>鲷鱼鱼子酱(未受精)</OE_EggSnapperUnfertilized.label>
+<OE_EggSnapperUnfertilized.description>一个未受精的鲷鱼鱼子酱。可以生吃，但要好得多。</OE_EggSnapperUnfertilized.description>
+
+<OE_EggSnapperFertilized.label>鲷鱼鱼子酱(受精)</OE_EggSnapperFertilized.label>
+<OE_EggSnapperFertilized.description>受精的鲷鱼鱼子酱。如果一切顺利，应该会孵化出一只幼年鲷鱼。可以生吃，但煮熟后更好。</OE_EggSnapperFertilized.description>
+
+<!--=============== Hootie Egg ====================-->
+<OE_EggHootieUnfertilized.label>呼呼鸟蛋(未受精)</OE_EggHootieUnfertilized.label>
+<OE_EggHootieUnfertilized.description>一个未受精的呼呼鸟蛋。可以生吃，但要好得多。</OE_EggHootieUnfertilized.description>
+
+<OE_EggHootieFertilized.label>呼呼鸟蛋(受精)</OE_EggHootieFertilized.label>
+<OE_EggHootieFertilized.description>受精的呼呼鸟蛋。如果一切顺利，应该会孵化出一只幼年呼呼鸟。可以生吃，但煮熟后更好。</OE_EggHootieFertilized.description>
+
+<!--=============== Elder Raptors Egg ====================-->
+<OE_EggElderRaptorUnfertilized.label>远古迅猛龙蛋(未受精)</OE_EggElderRaptorUnfertilized.label>
+<OE_EggElderRaptorUnfertilized.description>一个未受精的远古迅猛龙蛋。可以生吃，但要好得多。</OE_EggElderRaptorUnfertilized.description>
+
+<OE_EggElderRaptorFertilized.label>迅猛龙蛋(受精)</OE_EggElderRaptorFertilized.label>
+<OE_EggElderRaptorFertilized.description>受精的远古迅猛龙蛋。如果一切顺利，应该会孵化出一只幼年迅猛龙。可以生吃，但煮熟后更好。</OE_EggElderRaptorFertilized.description>
+
+<!--=============== Elder Tionant Eggs ====================-->
+<OE_EggElderTionantUnfertilized.label>远古提奥南特蛋(未受精)</OE_EggElderTionantUnfertilized.label>
+<OE_EggElderTionantUnfertilized.description>一个未受精的提奥南特蛋。可以生吃，但要好得多。</OE_EggElderTionantUnfertilized.description>
+
+<!--=============== Blue ====================-->
+<OE_EggElderBlueTionantFertilized.label>远古蓝色提奥南特蛋(受精)</OE_EggElderBlueTionantFertilized.label>
+<OE_EggElderBlueTionantFertilized.description>受精的远古蓝色提奥南特蛋。如果一切顺利，应该会孵化出一只蓝色幼年提奥南特。不建议用于食物，非常有毒。</OE_EggElderBlueTionantFertilized.description>
+
+<!--=============== Green ====================-->
+<OE_EggElderGreenTionantFertilized.label>远古绿色提奥南特蛋(受精)</OE_EggElderGreenTionantFertilized.label>
+<OE_EggElderGreenTionantFertilized.description>受精的远古绿色提奥南特蛋。如果一切顺利，应该会孵化出一只绿色幼年提奥南特。不建议用于食物，非常有毒。</OE_EggElderGreenTionantFertilized.description>
+
+<!--=============== Red ====================-->
+<OE_EggElderRedTionantFertilized.label>远古红色提奥南特蛋(受精)</OE_EggElderRedTionantFertilized.label>
+<OE_EggElderRedTionantFertilized.description>受精的远古红色提奥南特蛋。如果一切顺利，应该会孵化出一只红色幼年提奥南特。不建议用于食物，非常有毒。</OE_EggElderRedTionantFertilized.description>
+
+<!--=============== Yellow ====================-->
+<OE_EggElderYellowTionantFertilized.label>远古黄色提奥南特蛋(受精)</OE_EggElderYellowTionantFertilized.label>
+<OE_EggElderYellowTionantFertilized.description>受精的远古黄色提奥南特蛋。如果一切顺利，应该会孵化出一只黄色幼年提奥南特。不建议用于食物，非常有毒。</OE_EggElderYellowTionantFertilized.description>
+
+</LanguageData>

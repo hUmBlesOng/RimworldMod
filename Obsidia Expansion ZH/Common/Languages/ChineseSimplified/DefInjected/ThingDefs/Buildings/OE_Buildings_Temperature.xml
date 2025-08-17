@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Obsidia Cooler ====================-->
+<OE_Cooler.label>黑曜石冷却器</OE_Cooler.label>
+<OE_Cooler.description>一种将电力转换为冷空气的黑曜石设备。可用于在夏季为房间降温，或创建步入式冷冻室。</OE_Cooler.description>
+  
+<!--=============== Obsidia Heater ====================-->
+<OE_Heater.label>黑曜石加热器</OE_Heater.label>
+<OE_Heater.description>一种将电力转换为热能的黑曜石设备。可用于在冬季为房间加热。</OE_Heater.description>
+
+<!--=============== Obsidia Wall Cooler ====================-->
+<OE_WallCooler.label>黑曜石壁挂式冷却器</OE_WallCooler.label>
+<OE_WallCooler.description>一种壁挂式的黑曜石设备，将电力转换为冷空气。可用于在夏季为房间降温，或创建步入式冷冻室。</OE_WallCooler.description>
+  
+<!--=============== Obsidia Wall Heater ====================-->
+<OE_WallHeater.label>黑曜石壁挂式加热器</OE_WallHeater.label>
+<OE_WallHeater.description>一种壁挂式的黑曜石设备，将电力转换为热能。可用于在冬季为房间加热。</OE_WallHeater.description>
+
+</LanguageData>

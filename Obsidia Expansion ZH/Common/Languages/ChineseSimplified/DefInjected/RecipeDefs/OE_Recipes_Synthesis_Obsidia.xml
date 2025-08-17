@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Obsidian ====================-->
+<OE_Synthesis_ObsidianPack.label>合成黑曜石 x5</OE_Synthesis_ObsidianPack.label>
+<OE_Synthesis_ObsidianPack.description>用合成材料合成5个黑曜石。</OE_Synthesis_ObsidianPack.description>
+<OE_Synthesis_ObsidianPack.jobString>正在合成5个黑曜石。</OE_Synthesis_ObsidianPack.jobString>
+
+<OE_Synthesis_ObsidianBulk.label>合成黑曜石 x10</OE_Synthesis_ObsidianBulk.label>
+<OE_Synthesis_ObsidianBulk.description>用合成材料合成10个黑曜石。</OE_Synthesis_ObsidianBulk.description>
+<OE_Synthesis_ObsidianBulk.jobString>正在合成10个黑曜石。</OE_Synthesis_ObsidianBulk.jobString>
+
+<!--=============== Mythril ====================-->
+<OE_Synthesis_MythrilPack.label>合成秘银 x5</OE_Synthesis_MythrilPack.label>
+<OE_Synthesis_MythrilPack.description>用合成材料合成5个秘银。</OE_Synthesis_MythrilPack.description>
+<OE_Synthesis_MythrilPack.jobString>正在合成5个秘银。</OE_Synthesis_MythrilPack.jobString>
+
+<OE_Synthesis_MythrilBulk.label>合成秘银 x10</OE_Synthesis_MythrilBulk.label>
+<OE_Synthesis_MythrilBulk.description>用合成材料合成10个秘银。</OE_Synthesis_MythrilBulk.description>
+<OE_Synthesis_MythrilBulk.jobString>正在合成10个秘银。</OE_Synthesis_MythrilBulk.jobString>
+
+<!--=============== Platinum ====================-->
+<OE_Synthesis_PlatinumPack.label>合成铂金 x5</OE_Synthesis_PlatinumPack.label>
+<OE_Synthesis_PlatinumPack.description>用合成材料合成5个铂金。</OE_Synthesis_PlatinumPack.description>
+<OE_Synthesis_PlatinumPack.jobString>正在合成5个铂金。</OE_Synthesis_PlatinumPack.jobString>
+
+<OE_Synthesis_PlatinumBulk.label>合成铂金 x10</OE_Synthesis_PlatinumBulk.label>
+<OE_Synthesis_PlatinumBulk.description>用合成材料合成10个铂金。</OE_Synthesis_PlatinumBulk.description>
+<OE_Synthesis_PlatinumBulk.jobString>正在合成10个铂金。</OE_Synthesis_PlatinumBulk.jobString>
+
+<!--=============== Empyrium ====================-->
+<OE_Synthesis_EmpyriumPack.label>合成灵矿 x5</OE_Synthesis_EmpyriumPack.label>
+<OE_Synthesis_EmpyriumPack.description>用合成材料、黑曜石和铂金合成5个灵矿。</OE_Synthesis_EmpyriumPack.description>
+<OE_Synthesis_EmpyriumPack.jobString>正在合成5个灵矿。</OE_Synthesis_EmpyriumPack.jobString>
+
+<OE_Synthesis_EmpyriumBulk.label>合成灵矿 x10</OE_Synthesis_EmpyriumBulk.label>
+<OE_Synthesis_EmpyriumBulk.description>用合成材料、黑曜石和铂金合成10个灵矿。</OE_Synthesis_EmpyriumBulk.description>
+<OE_Synthesis_EmpyriumBulk.jobString>正在合成10个灵矿。</OE_Synthesis_EmpyriumBulk.jobString>
+
+<!--=============== Orichalcum ====================-->
+<OE_Synthesis_OrichalcumPack.label>合成奥利哈钢 x5</OE_Synthesis_OrichalcumPack.label>
+<OE_Synthesis_OrichalcumPack.description>用合成材料、秘银和铂金合成5个奥利哈钢。</OE_Synthesis_OrichalcumPack.description>
+<OE_Synthesis_OrichalcumPack.jobString>正在合成5个奥利哈钢。</OE_Synthesis_OrichalcumPack.jobString>
+
+<OE_Synthesis_OrichalcumBulk.label>合成奥利哈钢 x10</OE_Synthesis_OrichalcumBulk.label>
+<OE_Synthesis_OrichalcumBulk.description>用合成材料、秘银和铂金合成10个奥利哈钢。</OE_Synthesis_OrichalcumBulk.description>
+<OE_Synthesis_OrichalcumBulk.jobString>正在合成10个奥利哈钢。</OE_Synthesis_OrichalcumBulk.jobString>
+
+<!--=============== Obsidian Synthweave ====================-->
+<OE_Synthesis_ObsidianSynthweave.label>合成黑曜石合成织物 x5</OE_Synthesis_ObsidianSynthweave.label>
+<OE_Synthesis_ObsidianSynthweave.description>用合成材料、黑曜石和月布合成5个黑曜石合成织物。</OE_Synthesis_ObsidianSynthweave.description>
+<OE_Synthesis_ObsidianSynthweave.jobString>正在合成5个黑曜石合成织物。</OE_Synthesis_ObsidianSynthweave.jobString>
+
+<!--=============== Mythril Synthweave ====================-->
+<OE_Synthesis_MythrilSynthweave.label>合成秘银合成织物 x5</OE_Synthesis_MythrilSynthweave.label>
+<OE_Synthesis_MythrilSynthweave.description>用合成材料、秘银和月布合成5个秘银合成织物。</OE_Synthesis_MythrilSynthweave.description>
+<OE_Synthesis_MythrilSynthweave.jobString>正在合成5个秘银合成织物。</OE_Synthesis_MythrilSynthweave.jobString>
+
+<!--=============== Platinum Synthweave ====================-->
+<OE_Synthesis_PlatinumSynthweave.label>合成铂金合成织物 x5</OE_Synthesis_PlatinumSynthweave.label>
+<OE_Synthesis_PlatinumSynthweave.description>用合成材料、秘银和月布合成5个铂金合成织物。</OE_Synthesis_PlatinumSynthweave.description>
+<OE_Synthesis_PlatinumSynthweave.jobString>正在合成5个铂金合成织物。</OE_Synthesis_PlatinumSynthweave.jobString>
+
+<!--=============== Empyrium Synthweave ====================-->
+<OE_Synthesis_EmpyriumSynthweave.label>合成灵矿合成织物 x5</OE_Synthesis_EmpyriumSynthweave.label>
+<OE_Synthesis_EmpyriumSynthweave.description>用合成材料、灵矿和月布合成5个灵矿合成织物。</OE_Synthesis_EmpyriumSynthweave.description>
+<OE_Synthesis_EmpyriumSynthweave.jobString>正在合成5个灵矿合成织物。</OE_Synthesis_EmpyriumSynthweave.jobString>
+
+<!--=============== Orichalcum Synthweave ====================-->
+<OE_Synthesis_OrichalcumSynthweave.label>合成奥利哈钢合成织物 x5</OE_Synthesis_OrichalcumSynthweave.label>
+<OE_Synthesis_OrichalcumSynthweave.description>用合成材料、奥利哈钢和月布合成5个奥利哈钢合成织物。</OE_Synthesis_OrichalcumSynthweave.description>
+<OE_Synthesis_OrichalcumSynthweave.jobString>正在合成5个奥利哈钢合成织物。</OE_Synthesis_OrichalcumSynthweave.jobString>
+
+<!--=============== Converting Corpse ====================-->
+<OE_Synthesis_ConvertingCorpse.label>转化尸体</OE_Synthesis_ConvertingCorpse.label>
+<OE_Synthesis_ConvertingCorpse.description>将尸体转化为合成材料。</OE_Synthesis_ConvertingCorpse.description>
+<OE_Synthesis_ConvertingCorpse.jobString>正在转化。</OE_Synthesis_ConvertingCorpse.jobString>
+
+<!--=============== Syntherius Of Sin ====================-->
+<OE_Synthesis_SyntheriusToSyntheriusOfSin.label>合成罪恶合成材料</OE_Synthesis_SyntheriusToSyntheriusOfSin.label>
+<OE_Synthesis_SyntheriusToSyntheriusOfSin.description>用合成材料合成罪恶合成材料。</OE_Synthesis_SyntheriusToSyntheriusOfSin.description>
+<OE_Synthesis_SyntheriusToSyntheriusOfSin.jobString>正在合成罪恶合成材料。</OE_Synthesis_SyntheriusToSyntheriusOfSin.jobString>
+
+<OE_Synthesis_SyntheriusFromSyntheriusOfSin.label>转化罪恶合成材料</OE_Synthesis_SyntheriusFromSyntheriusOfSin.label>
+<OE_Synthesis_SyntheriusFromSyntheriusOfSin.description>将罪恶合成材料转化为合成材料。</OE_Synthesis_SyntheriusFromSyntheriusOfSin.description>
+<OE_Synthesis_SyntheriusFromSyntheriusOfSin.jobString>正在转化。</OE_Synthesis_SyntheriusFromSyntheriusOfSin.jobString>
+
+<!--=============== Unstable Stone ====================-->
+<OE_Synthesis_UnstableStoneFromSyntheriusOfSin.label>转化不稳定能量石</OE_Synthesis_UnstableStoneFromSyntheriusOfSin.label>
+<OE_Synthesis_UnstableStoneFromSyntheriusOfSin.description>将罪恶合成材料转化为不稳定能量石。</OE_Synthesis_UnstableStoneFromSyntheriusOfSin.description>
+<OE_Synthesis_UnstableStoneFromSyntheriusOfSin.jobString>正在转化。</OE_Synthesis_UnstableStoneFromSyntheriusOfSin.jobString>
+
+<!--=============== Obsidia Ammo Kit ====================-->
+<OE_Synthesis_AmmoKitPack.label>合成黑曜石弹药包 x5</OE_Synthesis_AmmoKitPack.label>
+<OE_Synthesis_AmmoKitPack.description>合成5个黑曜石弹药包。</OE_Synthesis_AmmoKitPack.description>
+<OE_Synthesis_AmmoKitPack.jobString>正在合成5个黑曜石弹药包。</OE_Synthesis_AmmoKitPack.jobString>
+
+<OE_Synthesis_AmmoKitBulk.label>合成黑曜石弹药包 x10</OE_Synthesis_AmmoKitBulk.label>
+<OE_Synthesis_AmmoKitBulk.description>合成10个黑曜石弹药包。</OE_Synthesis_AmmoKitBulk.description>
+<OE_Synthesis_AmmoKitBulk.jobString>正在合成10个黑曜石弹药包。</OE_Synthesis_AmmoKitBulk.jobString>
+
+<!--=============== Heroic Kit ====================-->
+<OE_Synthesis_HeroicKit.label>拆解英雄装备</OE_Synthesis_HeroicKit.label>
+<OE_Synthesis_HeroicKit.description>将英雄装备拆解为英雄套件。</OE_Synthesis_HeroicKit.description>
+<OE_Synthesis_HeroicKit.jobString>正在拆解英雄装备。</OE_Synthesis_HeroicKit.jobString>
+
+</LanguageData>

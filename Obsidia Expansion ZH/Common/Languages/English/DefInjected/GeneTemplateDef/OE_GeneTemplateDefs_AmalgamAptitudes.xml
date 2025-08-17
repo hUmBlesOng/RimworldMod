@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
 <!--=============== Amalgam Aptitudes ====================-->
-<OE_AmalgamAptitude.label>融合{0}</OE_AmalgamAptitude.label>
-<OE_AmalgamAptitude.description>携带这种融合基因的个体在{0}方面的天赋增加了8点。天赋作为技能等级的偏移量起作用。此外，还会为{0}增加一级热情。</OE_AmalgamAptitude.description>
+<OE_AmalgamAptitude.label>amalgam {0}</OE_AmalgamAptitude.label>
+<OE_AmalgamAptitude.description>The carrier of this amalgam gene has increased aptitude in {0} by 8. Aptitude acts like an offset on skill level. Additionally, one level of passion is added to {0}.</OE_AmalgamAptitude.description>
 
 </LanguageData>

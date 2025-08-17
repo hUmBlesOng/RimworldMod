@@ -1,0 +1,609 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== ODC - Knife ====================-->
+    <ODC_Knife.label>伤疤</ODC_Knife.label>
+    <ODC_Knife.description>黑曜石流浪者使用的通用小刀。</ODC_Knife.description>
+
+    <ODC_Knife.tools.handle.label>握柄</ODC_Knife.tools.handle.label>
+    <ODC_Knife.tools.blade.label>刀刃</ODC_Knife.tools.blade.label>
+    <ODC_Knife.tools.point.label>刀尖</ODC_Knife.tools.point.label>
+
+    <ODC_Knife_P.label>人格伤疤</ODC_Knife_P.label>
+    <ODC_Knife_P.description>黑曜石流浪者使用的人格通用小刀。</ODC_Knife_P.description>
+
+    <ODC_Knife_P.tools.handle.label>握柄</ODC_Knife_P.tools.handle.label>
+    <ODC_Knife_P.tools.blade.label>刀刃</ODC_Knife_P.tools.blade.label>
+    <ODC_Knife_P.tools.point.label>刀尖</ODC_Knife_P.tools.point.label>
+
+<!--=============== ODC - Sword ====================-->
+    <ODC_Sword.label>仁慈 - 新兴</ODC_Sword.label>
+    <ODC_Sword.description>黑曜石流浪者使用的改装剑。</ODC_Sword.description>
+
+    <ODC_Sword.tools.handle.label>握柄</ODC_Sword.tools.handle.label>
+    <ODC_Sword.tools.point.label>剑尖</ODC_Sword.tools.point.label>
+    <ODC_Sword.tools.edge.label>剑刃</ODC_Sword.tools.edge.label>
+
+    <ODC_Sword_P.label>人格仁慈 - 新兴</ODC_Sword_P.label>
+    <ODC_Sword_P.description>黑曜石流浪者使用的人格改装剑。</ODC_Sword_P.description>
+
+    <ODC_Sword_P.tools.handle.label>握柄</ODC_Sword_P.tools.handle.label>
+    <ODC_Sword_P.tools.point.label>剑尖</ODC_Sword_P.tools.point.label>
+    <ODC_Sword_P.tools.edge.label>剑刃</ODC_Sword_P.tools.edge.label>
+
+<!--=============== ODC - BigSword ====================-->
+    <ODC_BigSword.label>遗赠 - 顶点</ODC_BigSword.label>
+    <ODC_BigSword.description>黑曜石流浪者使用的专业大剑。</ODC_BigSword.description>
+
+    <ODC_BigSword.tools.handle.label>握柄</ODC_BigSword.tools.handle.label>
+    <ODC_BigSword.tools.point.label>剑尖</ODC_BigSword.tools.point.label>
+    <ODC_BigSword.tools.edge.label>剑刃</ODC_BigSword.tools.edge.label>
+
+    <ODC_BigSword_P.label>人格遗赠 - 顶点</ODC_BigSword_P.label>
+    <ODC_BigSword_P.description>黑曜石流浪者使用的人格专业大剑。</ODC_BigSword_P.description>
+
+    <ODC_BigSword_P.tools.handle.label>握柄</ODC_BigSword_P.tools.handle.label>
+    <ODC_BigSword_P.tools.point.label>剑尖</ODC_BigSword_P.tools.point.label>
+    <ODC_BigSword_P.tools.edge.label>剑刃</ODC_BigSword_P.tools.edge.label>
+
+<!--=============== ODC - DualSword ====================-->
+    <ODC_DualSword.label>断头台 - 顶点</ODC_DualSword.label>
+    <ODC_DualSword.description>黑曜石流浪者使用的专业双刃剑。</ODC_DualSword.description>
+
+    <ODC_DualSword.tools.shaft.label>剑柄</ODC_DualSword.tools.shaft.label>
+    <ODC_DualSword.tools.edge.label>剑刃</ODC_DualSword.tools.edge.label>
+
+    <ODC_DualSword_P.label>人格断头台 - 顶点</ODC_DualSword_P.label>
+    <ODC_DualSword_P.description>黑曜石流浪者使用的人格专业双刃剑。</ODC_DualSword_P.description>
+
+    <ODC_DualSword_P.tools.shaft.label>剑柄</ODC_DualSword_P.tools.shaft.label>
+    <ODC_DualSword_P.tools.edge.label>剑刃</ODC_DualSword_P.tools.edge.label>
+
+<!--=============== ODC - Rapier ====================-->
+    <ODC_Rapier.label>不完美 - 新兴</ODC_Rapier.label>
+    <ODC_Rapier.description>黑曜石流浪者使用的改装细剑。</ODC_Rapier.description>
+
+    <ODC_Rapier.tools.handle.label>握柄</ODC_Rapier.tools.handle.label>
+    <ODC_Rapier.tools.point.label>剑尖</ODC_Rapier.tools.point.label>
+
+    <ODC_Rapier_P.label>人格不完美 - 新兴</ODC_Rapier_P.label>
+    <ODC_Rapier_P.description>黑曜石流浪者使用的人格改装细剑。</ODC_Rapier_P.description>
+
+    <ODC_Rapier_P.tools.handle.label>握柄</ODC_Rapier_P.tools.handle.label>
+    <ODC_Rapier_P.tools.point.label>剑尖</ODC_Rapier_P.tools.point.label>
+
+    <!--=============== ODC - RapierGuard ====================-->
+    <ODC_RapierGuard.label>反抗 - 顶点</ODC_RapierGuard.label>
+    <ODC_RapierGuard.description>黑曜石流浪者使用的专业细剑。</ODC_RapierGuard.description>
+
+    <ODC_RapierGuard.tools.handle.label>握柄</ODC_RapierGuard.tools.handle.label>
+    <ODC_RapierGuard.tools.point.label>剑尖</ODC_RapierGuard.tools.point.label>
+
+    <ODC_RapierGuard_P.label>人格反抗 - 顶点</ODC_RapierGuard_P.label>
+    <ODC_RapierGuard_P.description>黑曜石流浪者使用的人格专业细剑。</ODC_RapierGuard_P.description>
+
+    <ODC_RapierGuard_P.tools.handle.label>握柄</ODC_RapierGuard_P.tools.handle.label>
+    <ODC_RapierGuard_P.tools.point.label>剑尖</ODC_RapierGuard_P.tools.point.label>
+
+<!--=============== ODC - Elemental Rapier ====================-->
+<!--=============== Acid ====================-->
+    <ODC_Rapier_Acid.label>谜团 - 顶点（酸性）</ODC_Rapier_Acid.label>
+    <ODC_Rapier_Acid.description>黑曜石流浪者使用的专业细剑。装载酸性伤害。</ODC_Rapier_Acid.description>
+
+    <ODC_Rapier_Acid.tools.handle.label>握柄</ODC_Rapier_Acid.tools.handle.label>
+    <ODC_Rapier_Acid.tools.point.label>剑尖</ODC_Rapier_Acid.tools.point.label>
+
+    <ODC_Rapier_P_Acid.label>人格谜团 - 顶点（酸性）</ODC_Rapier_P_Acid.label>
+    <ODC_Rapier_P_Acid.description>黑曜石流浪者使用的人格专业细剑。装载酸性伤害。</ODC_Rapier_P_Acid.description>
+
+    <ODC_Rapier_P_Acid.tools.handle.label>握柄</ODC_Rapier_P_Acid.tools.handle.label>
+    <ODC_Rapier_P_Acid.tools.point.label>剑尖</ODC_Rapier_P_Acid.tools.point.label>
+    <!--=============== Cryo ====================-->
+    <ODC_Rapier_Cryo.label>谜团 - 顶点（冷冻）</ODC_Rapier_Cryo.label>
+    <ODC_Rapier_Cryo.description>黑曜石流浪者使用的专业细剑。装载冷冻伤害。</ODC_Rapier_Cryo.description>
+
+    <ODC_Rapier_Cryo.tools.handle.label>握柄</ODC_Rapier_Cryo.tools.handle.label>
+    <ODC_Rapier_Cryo.tools.point.label>剑尖</ODC_Rapier_Cryo.tools.point.label>
+
+    <ODC_Rapier_P_Cryo.label>人格谜团 - 顶点（冷冻）</ODC_Rapier_P_Cryo.label>
+    <ODC_Rapier_P_Cryo.description>黑曜石流浪者使用的人格专业细剑。装载冷冻伤害。</ODC_Rapier_P_Cryo.description>
+
+    <ODC_Rapier_P_Cryo.tools.handle.label>握柄</ODC_Rapier_P_Cryo.tools.handle.label>
+    <ODC_Rapier_P_Cryo.tools.point.label>剑尖</ODC_Rapier_P_Cryo.tools.point.label>
+<!--=============== Fire ====================-->
+    <ODC_Rapier_Fire.label>谜团 - 顶点（火焰）</ODC_Rapier_Fire.label>
+    <ODC_Rapier_Fire.description>黑曜石流浪者使用的专业细剑。装载火焰伤害。</ODC_Rapier_Fire.description>
+
+    <ODC_Rapier_Fire.tools.handle.label>握柄</ODC_Rapier_Fire.tools.handle.label>
+    <ODC_Rapier_Fire.tools.point.label>剑尖</ODC_Rapier_Fire.tools.point.label>
+
+    <ODC_Rapier_P_Fire.label>人格谜团 - 顶点（火焰）</ODC_Rapier_P_Fire.label>
+    <ODC_Rapier_P_Fire.description>黑曜石流浪者使用的人格专业细剑。装载火焰伤害。</ODC_Rapier_P_Fire.description>
+
+    <ODC_Rapier_P_Fire.tools.handle.label>握柄</ODC_Rapier_P_Fire.tools.handle.label>
+    <ODC_Rapier_P_Fire.tools.point.label>剑尖</ODC_Rapier_P_Fire.tools.point.label>
+<!--=============== EMP ====================-->
+    <ODC_Rapier_EMP.label>谜团 - 顶点（EMP）</ODC_Rapier_EMP.label>
+    <ODC_Rapier_EMP.description>黑曜石流浪者使用的专业细剑。装载EMP伤害。\n\n警告！EMP伤害并非用于摧毁血肉之躯。</ODC_Rapier_EMP.description>
+
+    <ODC_Rapier_EMP.tools.handle.label>握柄</ODC_Rapier_EMP.tools.handle.label>
+    <ODC_Rapier_EMP.tools.point.label>剑尖</ODC_Rapier_EMP.tools.point.label>
+
+    <ODC_Rapier_P_EMP.label>人格谜团 - 顶点（EMP）</ODC_Rapier_P_EMP.label>
+    <ODC_Rapier_P_EMP.description>黑曜石流浪者使用的人格专业细剑。装载EMP伤害。\n\n警告！EMP伤害并非用于摧毁血肉之躯。</ODC_Rapier_P_EMP.description>
+
+    <ODC_Rapier_P_EMP.tools.handle.label>握柄</ODC_Rapier_P_EMP.tools.handle.label>
+    <ODC_Rapier_P_EMP.tools.point.label>剑尖</ODC_Rapier_P_EMP.tools.point.label>
+
+<!--=============== ODC - Pistol ====================-->
+    <Bullet_ODC_P.label>目标子弹</Bullet_ODC_P.label>
+
+    <ODC_Pistol.label>目标</ODC_Pistol.label>
+    <ODC_Pistol.verbs.Verb_Shoot.label>目标</ODC_Pistol.verbs.Verb_Shoot.label>
+    <ODC_Pistol.description>黑曜石流浪者使用的通用自动手枪。</ODC_Pistol.description>
+
+    <ODC_Pistol.tools.grip.label>握把</ODC_Pistol.tools.grip.label>
+    <ODC_Pistol.tools.barrel.label>枪管</ODC_Pistol.tools.barrel.label>
+
+    <ODC_Pistol_P.label>典范目标</ODC_Pistol_P.label>
+    <ODC_Pistol_P.verbs.Verb_Shoot.label>典范目标</ODC_Pistol_P.verbs.Verb_Shoot.label>
+    <ODC_Pistol_P.description>黑曜石流浪者使用的典范通用自动手枪。</ODC_Pistol_P.description>
+
+    <ODC_Pistol_P.tools.grip.label>握把</ODC_Pistol_P.tools.grip.label>
+    <ODC_Pistol_P.tools.barrel.label>枪管</ODC_Pistol_P.tools.barrel.label>
+
+    <ODC_Pistol_P.comps.CompUniqueWeapon.namerLabels.0>典范目标</ODC_Pistol_P.comps.CompUniqueWeapon.namerLabels.0>
+    <ODC_Pistol_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_Pistol_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+    <ODC_Pistol_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_Pistol_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+    <!--=============== ODC - Revolver ====================-->
+    <Bullet_ODC_R.label>侵犯者子弹</Bullet_ODC_R.label>
+
+    <ODC_Revolver.label>侵犯者 - 新兴</ODC_Revolver.label>
+    <ODC_Revolver.verbs.Verb_Shoot.label>侵犯者 - 新兴</ODC_Revolver.verbs.Verb_Shoot.label>
+    <ODC_Revolver.description>黑曜石流浪者使用的改装左轮手枪。</ODC_Revolver.description>
+
+    <ODC_Revolver.tools.grip.label>握柄</ODC_Revolver.tools.grip.label>
+    <ODC_Revolver.tools.barrel.label>枪管</ODC_Revolver.tools.barrel.label>
+
+    <ODC_Revolver_P.label>典范侵犯者 - 新兴</ODC_Revolver_P.label>
+    <ODC_Revolver_P.verbs.Verb_Shoot.label>典范侵犯者 - 新兴</ODC_Revolver_P.verbs.Verb_Shoot.label>
+    <ODC_Revolver_P.description>黑曜石流浪者使用的典范改装左轮手枪。</ODC_Revolver_P.description>
+
+    <ODC_Revolver_P.tools.grip.label>握柄</ODC_Revolver_P.tools.grip.label>
+    <ODC_Revolver_P.tools.barrel.label>枪管</ODC_Revolver_P.tools.barrel.label>
+
+    <ODC_Revolver_P.comps.CompUniqueWeapon.namerLabels.0>典范侵犯者 - 新兴</ODC_Revolver_P.comps.CompUniqueWeapon.namerLabels.0>
+    <ODC_Revolver_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_Revolver_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+    <ODC_Revolver_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_Revolver_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+    <!--=============== ODC - Elemental Revolver ====================-->
+    <!--=============== Acid ====================-->
+    <Bullet_ODC_R_Acid.label>侵犯者酸性子弹</Bullet_ODC_R_Acid.label>
+
+    <ODC_Revolver_Acid.label>侵犯者 - 顶点（酸性）</ODC_Revolver_Acid.label>
+    <ODC_Revolver_Acid.verbs.Verb_Shoot.label>侵犯者 - 顶点（酸性）</ODC_Revolver_Acid.verbs.Verb_Shoot.label>
+    <ODC_Revolver_Acid.description>黑曜石流浪者使用的专业左轮手枪。装载酸性伤害。</ODC_Revolver_Acid.description>
+
+    <ODC_Revolver_Acid.tools.grip.label>握柄</ODC_Revolver_Acid.tools.grip.label>
+    <ODC_Revolver_Acid.tools.barrel.label>枪管</ODC_Revolver_Acid.tools.barrel.label>
+
+    <ODC_Revolver_P_Acid.label>典范侵犯者 - 顶点（酸性）</ODC_Revolver_P_Acid.label>
+    <ODC_Revolver_P_Acid.verbs.Verb_Shoot.label>典范侵犯者 - 顶点（酸性）</ODC_Revolver_P_Acid.verbs.Verb_Shoot.label>
+    <ODC_Revolver_P_Acid.description>黑曜石流浪者使用的人格专业左轮手枪。装载酸性伤害。</ODC_Revolver_P_Acid.description>
+
+    <ODC_Revolver_P_Acid.tools.grip.label>握柄</ODC_Revolver_P_Acid.tools.grip.label>
+    <ODC_Revolver_P_Acid.tools.barrel.label>枪管</ODC_Revolver_P_Acid.tools.barrel.label>
+
+    <ODC_Revolver_P_Acid.comps.CompUniqueWeapon.namerLabels.0>典范侵犯者 - 顶点（酸性）</ODC_Revolver_P_Acid.comps.CompUniqueWeapon.namerLabels.0>
+    <ODC_Revolver_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_Revolver_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>
+    <ODC_Revolver_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_Revolver_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>
+    <!--=============== Cryo ====================-->
+    <Bullet_ODC_R_Cryo.label>侵犯者冰冻子弹</Bullet_ODC_R_Cryo.label>
+
+    <ODC_Revolver_Cryo.label>侵犯者 - 顶点（冰冻）</ODC_Revolver_Cryo.label>
+    <ODC_Revolver_Cryo.verbs.Verb_Shoot.label>侵犯者 - 顶点（冰冻）</ODC_Revolver_Cryo.verbs.Verb_Shoot.label>
+    <ODC_Revolver_Cryo.description>黑曜石流浪者使用的专业左轮手枪。装载冰冻伤害。</ODC_Revolver_Cryo.description>
+
+    <ODC_Revolver_Cryo.tools.grip.label>握柄</ODC_Revolver_Cryo.tools.grip.label>
+    <ODC_Revolver_Cryo.tools.barrel.label>枪管</ODC_Revolver_Cryo.tools.barrel.label>
+
+    <ODC_Revolver_P_Cryo.label>典范侵犯者 - 顶点（冰冻）</ODC_Revolver_P_Cryo.label>
+    <ODC_Revolver_P_Cryo.verbs.Verb_Shoot.label>典范侵犯者 - 顶点（冰冻）</ODC_Revolver_P_Cryo.verbs.Verb_Shoot.label>
+    <ODC_Revolver_P_Cryo.description>黑曜石流浪者使用的典范专业左轮手枪。装载冰冻伤害。</ODC_Revolver_P_Cryo.description>
+
+    <ODC_Revolver_P_Cryo.tools.grip.label>握柄</ODC_Revolver_P_Cryo.tools.grip.label>
+    <ODC_Revolver_P_Cryo.tools.barrel.label>枪管</ODC_Revolver_P_Cryo.tools.barrel.label>
+
+    <ODC_Revolver_P_Cryo.comps.CompUniqueWeapon.namerLabels.0>典范侵犯者 - 顶点（冰冻）</ODC_Revolver_P_Cryo.comps.CompUniqueWeapon.namerLabels.0>
+    <ODC_Revolver_P_Cryo.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_Revolver_P_Cryo.comps.CompEquippableAbilityReloadable.chargeNoun>
+    <ODC_Revolver_P_Cryo.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_Revolver_P_Cryo.comps.CompEquippableAbilityReloadable.cooldownGerund>
+    <!--=============== Fire ====================-->
+    <Bullet_ODC_R_Fire.label>侵犯者火焰子弹</Bullet_ODC_R_Fire.label>
+
+    <ODC_Revolver_Fire.label>侵犯者 - 顶点（火焰）</ODC_Revolver_Fire.label>
+    <ODC_Revolver_Fire.verbs.Verb_Shoot.label>侵犯者 - 顶点（火焰）</ODC_Revolver_Fire.verbs.Verb_Shoot.label>
+    <ODC_Revolver_Fire.description>黑曜石流浪者使用的专业左轮手枪。装载火焰伤害。</ODC_Revolver_Fire.description>
+
+    <ODC_Revolver_Fire.tools.grip.label>握柄</ODC_Revolver_Fire.tools.grip.label>
+    <ODC_Revolver_Fire.tools.barrel.label>枪管</ODC_Revolver_Fire.tools.barrel.label>
+
+    <ODC_Revolver_P_Fire.label>典范侵犯者 - 顶点（火焰）</ODC_Revolver_P_Fire.label>
+    <ODC_Revolver_P_Fire.verbs.Verb_Shoot.label>典范侵犯者 - 顶点（火焰）</ODC_Revolver_P_Fire.verbs.Verb_Shoot.label>
+    <ODC_Revolver_P_Fire.description>黑曜石流浪者使用的典范专业左轮手枪。装载火焰伤害。</ODC_Revolver_P_Fire.description>
+
+    <ODC_Revolver_P_Fire.tools.grip.label>握柄</ODC_Revolver_P_Fire.tools.grip.label>
+    <ODC_Revolver_P_Fire.tools.barrel.label>枪管</ODC_Revolver_P_Fire.tools.barrel.label>
+
+    <ODC_Revolver_P_Fire.comps.CompUniqueWeapon.namerLabels.0>典范侵犯者 - 顶点（火焰）</ODC_Revolver_P_Fire.comps.CompUniqueWeapon.namerLabels.0>
+    <ODC_Revolver_P_Fire.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_Revolver_P_Fire.comps.CompEquippableAbilityReloadable.chargeNoun>
+    <ODC_Revolver_P_Fire.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_Revolver_P_Fire.comps.CompEquippableAbilityReloadable.cooldownGerund>
+    <!--=============== EMP ====================-->
+    <Bullet_ODC_R_EMP.label>侵犯者EMP子弹</Bullet_ODC_R_EMP.label>
+
+    <ODC_Revolver_EMP.label>侵犯者 - 顶点（EMP）</ODC_Revolver_EMP.label>
+    <ODC_Revolver_EMP.verbs.Verb_Shoot.label>侵犯者 - 顶点（EMP）</ODC_Revolver_EMP.verbs.Verb_Shoot.label>
+    <ODC_Revolver_EMP.description>黑曜石流浪者使用的专业左轮手枪。装载EMP伤害。\n\n警告！EMP伤害并非用于摧毁血肉之躯。</ODC_Revolver_EMP.description>
+
+    <ODC_Revolver_EMP.tools.grip.label>握柄</ODC_Revolver_EMP.tools.grip.label>
+    <ODC_Revolver_EMP.tools.barrel.label>枪管</ODC_Revolver_EMP.tools.barrel.label>
+
+    <ODC_Revolver_P_EMP.label>典范侵犯者 - 顶点（EMP）</ODC_Revolver_P_EMP.label>
+    <ODC_Revolver_P_EMP.verbs.Verb_Shoot.label>典范侵犯者 - 顶点（EMP）</ODC_Revolver_P_EMP.verbs.Verb_Shoot.label>
+    <ODC_Revolver_P_EMP.description>黑曜石流浪者使用的典范专业左轮手枪。装载EMP伤害。\n\n警告！EMP伤害并非用于摧毁血肉之躯。</ODC_Revolver_P_EMP.description>
+
+    <ODC_Revolver_P_EMP.tools.grip.label>握柄</ODC_Revolver_P_EMP.tools.grip.label>
+    <ODC_Revolver_P_EMP.tools.barrel.label>枪管</ODC_Revolver_P_EMP.tools.barrel.label>
+
+    <ODC_Revolver_P_EMP.comps.CompUniqueWeapon.namerLabels.0>典范侵犯者 - 顶点（EMP）</ODC_Revolver_P_EMP.comps.CompUniqueWeapon.namerLabels.0>
+    <ODC_Revolver_P_EMP.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_Revolver_P_EMP.comps.CompEquippableAbilityReloadable.chargeNoun>
+    <ODC_Revolver_P_EMP.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_Revolver_P_EMP.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+    <!--=============== ODC - SMG ====================-->
+    <Bullet_ODC_SMG.label>异类子弹</Bullet_ODC_SMG.label>
+
+    <ODC_SMG_A.label>异类 - 新兴</ODC_SMG_A.label>
+    <ODC_SMG_A.verbs.Verb_Shoot.label>异类 - 新兴</ODC_SMG_A.verbs.Verb_Shoot.label>
+    <ODC_SMG_A.description>黑曜石流浪者使用的改装冲锋枪。</ODC_SMG_A.description>
+
+    <ODC_SMG_A.tools.grip.label>握柄</ODC_SMG_A.tools.grip.label>
+    <ODC_SMG_A.tools.barrel.label>枪管</ODC_SMG_A.tools.barrel.label>
+
+    <ODC_SMG_A_P.label>典范异类 - 新兴</ODC_SMG_A_P.label>
+    <ODC_SMG_A_P.verbs.Verb_Shoot.label>典范异类 - 新兴</ODC_SMG_A_P.verbs.Verb_Shoot.label>
+    <ODC_SMG_A_P.description>黑曜石流浪者使用的典范改装冲锋枪。</ODC_SMG_A_P.description>
+
+    <ODC_SMG_A_P.tools.grip.label>握柄</ODC_SMG_A_P.tools.grip.label>
+    <ODC_SMG_A_P.tools.barrel.label>枪管</ODC_SMG_A_P.tools.barrel.label>
+
+    <ODC_SMG_A_P.comps.CompUniqueWeapon.namerLabels.0>典范异类 - 新兴</ODC_SMG_A_P.comps.CompUniqueWeapon.namerLabels.0>
+    <ODC_SMG_A_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_SMG_A_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+    <ODC_SMG_A_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_SMG_A_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+    <ODC_SMG_B.label>异类 - 顶点</ODC_SMG_B.label>
+    <ODC_SMG_B.verbs.Verb_Shoot.label>异类 - 顶点</ODC_SMG_B.verbs.Verb_Shoot.label>
+    <ODC_SMG_B.description>黑曜石流浪者使用的专业冲锋枪。</ODC_SMG_B.description>
+
+    <ODC_SMG_B.tools.stock.label>枪托</ODC_SMG_B.tools.stock.label>
+    <ODC_SMG_B.tools.barrel.label>枪管</ODC_SMG_B.tools.barrel.label>
+
+    <ODC_SMG_B_P.label>典范异类 - 顶点</ODC_SMG_B_P.label>
+    <ODC_SMG_B_P.verbs.Verb_Shoot.label>典范异类 - 顶点</ODC_SMG_B_P.verbs.Verb_Shoot.label>
+    <ODC_SMG_B_P.description>黑曜石流浪者使用的典范专业冲锋枪。</ODC_SMG_B_P.description>
+
+    <ODC_SMG_B_P.tools.stock.label>枪托</ODC_SMG_B_P.tools.stock.label>
+    <ODC_SMG_B_P.tools.barrel.label>枪管</ODC_SMG_B_P.tools.barrel.label>
+
+    <ODC_SMG_B_P.comps.CompUniqueWeapon.namerLabels.0>典范异类 - 顶点</ODC_SMG_B_P.comps.CompUniqueWeapon.namerLabels.0>
+    <ODC_SMG_B_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_SMG_B_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+    <ODC_SMG_B_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_SMG_B_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+    <!--=============== ODC - Rifle ====================-->
+    <Bullet_ODC_RF.label>传承子弹</Bullet_ODC_RF.label>
+
+    <ODC_Rifle.label>传承</ODC_Rifle.label>
+    <ODC_Rifle.verbs.Verb_Shoot.label>传承</ODC_Rifle.verbs.Verb_Shoot.label>
+    <ODC_Rifle.description>黑曜石流浪者使用的通用步枪。</ODC_Rifle.description>
+
+    <ODC_Rifle.tools.stock.label>枪托</ODC_Rifle.tools.stock.label>
+    <ODC_Rifle.tools.barrel.label>枪管</ODC_Rifle.tools.barrel.label>
+
+    <ODC_Rifle_P.label>典范传承</ODC_Rifle_P.label>
+    <ODC_Rifle_P.verbs.Verb_Shoot.label>典范传承</ODC_Rifle_P.verbs.Verb_Shoot.label>
+    <ODC_Rifle_P.description>黑曜石流浪者使用的典范通用步枪。</ODC_Rifle_P.description>
+
+    <ODC_Rifle_P.tools.stock.label>枪托</ODC_Rifle_P.tools.stock.label>
+    <ODC_Rifle_P.tools.barrel.label>枪管</ODC_Rifle_P.tools.barrel.label>
+
+    <ODC_Rifle_P.comps.CompUniqueWeapon.namerLabels.0>典范传承</ODC_Rifle_P.comps.CompUniqueWeapon.namerLabels.0>
+    <ODC_Rifle_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_Rifle_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+    <ODC_Rifle_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_Rifle_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+    <!--=============== ODC - Shotgun ====================-->
+    <Bullet_ODC_S.label>共谋者霰弹</Bullet_ODC_S.label>
+
+    <ODC_Shotgun.label>共谋者 - 新兴</ODC_Shotgun.label>
+    <ODC_Shotgun.verbs.Verb_Shoot.label>共谋者 - 新兴</ODC_Shotgun.verbs.Verb_Shoot.label>
+    <ODC_Shotgun.description>黑曜石流浪者使用的改装霰弹枪。</ODC_Shotgun.description>
+
+    <ODC_Shotgun.tools.stock.label>枪托</ODC_Shotgun.tools.stock.label>
+    <ODC_Shotgun.tools.barrel.label>枪管</ODC_Shotgun.tools.barrel.label>
+
+    <ODC_Shotgun_P.label>典范共谋者 - 新兴</ODC_Shotgun_P.label>
+    <ODC_Shotgun_P.verbs.Verb_Shoot.label>典范共谋者 - 新兴</ODC_Shotgun_P.verbs.Verb_Shoot.label>
+    <ODC_Shotgun_P.description>黑曜石流浪者使用的典范改装霰弹枪。</ODC_Shotgun_P.description>
+
+    <ODC_Shotgun_P.tools.stock.label>枪托</ODC_Shotgun_P.tools.stock.label>
+    <ODC_Shotgun_P.tools.barrel.label>枪管</ODC_Shotgun_P.tools.barrel.label>
+
+    <ODC_Shotgun_P.comps.CompUniqueWeapon.namerLabels.0>典范共谋者 - 新兴</ODC_Shotgun_P.comps.CompUniqueWeapon.namerLabels.0>
+    <ODC_Shotgun_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_Shotgun_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+    <ODC_Shotgun_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_Shotgun_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+    <!--=============== ODC - Elemental Shotgun ====================-->
+    <!--=============== Acid ====================-->
+    <Bullet_ODC_S_Acid.label>共谋者酸性霰弹</Bullet_ODC_S_Acid.label>
+
+    <ODC_Shotgun_Acid.label>共谋者 - 顶点（酸性）</ODC_Shotgun_Acid.label>
+    <ODC_Shotgun_Acid.verbs.Verb_Shoot.label>共谋者 - 顶点（酸性）</ODC_Shotgun_Acid.verbs.Verb_Shoot.label>
+    <ODC_Shotgun_Acid.description>黑曜石流浪者使用的专业霰弹枪。装载酸性伤害。</ODC_Shotgun_Acid.description>
+
+    <ODC_Shotgun_Acid.tools.stock.label>枪托</ODC_Shotgun_Acid.tools.stock.label>
+    <ODC_Shotgun_Acid.tools.barrel.label>枪管</ODC_Shotgun_Acid.tools.barrel.label>
+
+    <ODC_Shotgun_P_Acid.label>典范共谋者 - 顶点（酸性）</ODC_Shotgun_P_Acid.label>
+    <ODC_Shotgun_P_Acid.verbs.Verb_Shoot.label>典范共谋者 - 顶点（酸性）</ODC_Shotgun_P_Acid.verbs.Verb_Shoot.label>
+    <ODC_Shotgun_P_Acid.description>黑曜石流浪者使用的典范专业霰弹枪。装载酸性伤害。</ODC_Shotgun_P_Acid.description>
+
+    <ODC_Shotgun_P_Acid.tools.stock.label>枪托</ODC_Shotgun_P_Acid.tools.stock.label>
+    <ODC_Shotgun_P_Acid.tools.barrel.label>枪管</ODC_Shotgun_P_Acid.tools.barrel.label>
+
+    <ODC_Shotgun_P_Acid.comps.CompUniqueWeapon.namerLabels.0>典范共谋者 - 顶点（酸性）</ODC_Shotgun_P_Acid.comps.CompUniqueWeapon.namerLabels.0>
+    <ODC_Shotgun_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_Shotgun_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>
+    <ODC_Shotgun_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_Shotgun_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+    <!--=============== Cryo ====================-->
+    <Bullet_ODC_S_Cryo.label>共谋者冰冻霰弹</Bullet_ODC_S_Cryo.label>
+
+    <ODC_Shotgun_Cryo.label>共谋者 - 顶点（冰冻）</ODC_Shotgun_Cryo.label>
+    <ODC_Shotgun_Cryo.verbs.Verb_Shoot.label>共谋者 - 顶点（冰冻）</ODC_Shotgun_Cryo.verbs.Verb_Shoot.label>
+    <ODC_Shotgun_Cryo.description>黑曜石流浪者使用的专业霰弹枪。装载冰冻伤害。</ODC_Shotgun_Cryo.description>
+
+    <ODC_Shotgun_Cryo.tools.stock.label>枪托</ODC_Shotgun_Cryo.tools.stock.label>
+    <ODC_Shotgun_Cryo.tools.barrel.label>枪管</ODC_Shotgun_Cryo.tools.barrel.label>
+
+    <ODC_Shotgun_P_Cryo.label>典范共谋者 - 顶点（冰冻）</ODC_Shotgun_P_Cryo.label>
+    <ODC_Shotgun_P_Cryo.verbs.Verb_Shoot.label>典范共谋者 - 顶点（冰冻）</ODC_Shotgun_P_Cryo.verbs.Verb_Shoot.label>
+    <ODC_Shotgun_P_Cryo.description>黑曜石流浪者使用的典范专业霰弹枪。装载冰冻伤害。</ODC_Shotgun_P_Cryo.description>
+
+    <ODC_Shotgun_P_Cryo.tools.stock.label>枪托</ODC_Shotgun_P_Cryo.tools.stock.label>
+    <ODC_Shotgun_P_Cryo.tools.barrel.label>枪管</ODC_Shotgun_P_Cryo.tools.barrel.label>
+
+    <ODC_Shotgun_P_Cryo.comps.CompUniqueWeapon.namerLabels.0>典范共谋者 - 顶点（冰冻）</ODC_Shotgun_P_Cryo.comps.CompUniqueWeapon.namerLabels.0>
+    <ODC_Shotgun_P_Cryo.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_Shotgun_P_Cryo.comps.CompEquippableAbilityReloadable.chargeNoun>
+    <ODC_Shotgun_P_Cryo.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_Shotgun_P_Cryo.comps.CompEquippableAbilityReloadable.cooldownGerund>
+    <!--=============== Fire ====================-->
+    <Bullet_ODC_S_Fire.label>共谋者火焰霰弹</Bullet_ODC_S_Fire.label>
+
+    <ODC_Shotgun_Fire.label>共谋者 - 顶点（火焰）</ODC_Shotgun_Fire.label>
+    <ODC_Shotgun_Fire.verbs.Verb_Shoot.label>共谋者 - 顶点（火焰）</ODC_Shotgun_Fire.verbs.Verb_Shoot.label>
+    <ODC_Shotgun_Fire.description>黑曜石流浪者使用的专业霰弹枪。装载火焰伤害。</ODC_Shotgun_Fire.description>
+
+    <ODC_Shotgun_Fire.tools.stock.label>枪托</ODC_Shotgun_Fire.tools.stock.label>
+    <ODC_Shotgun_Fire.tools.barrel.label>枪管</ODC_Shotgun_Fire.tools.barrel.label>
+
+    <ODC_Shotgun_P_Fire.label>典范共谋者 - 顶点（火焰）</ODC_Shotgun_P_Fire.label>
+    <ODC_Shotgun_P_Fire.verbs.Verb_Shoot.label>典范共谋者 - 顶点（火焰）</ODC_Shotgun_P_Fire.verbs.Verb_Shoot.label>
+    <ODC_Shotgun_P_Fire.description>黑曜石流浪者使用的典范专业霰弹枪。装载火焰伤害。</ODC_Shotgun_P_Fire.description>
+
+    <ODC_Shotgun_P_Fire.tools.stock.label>枪托</ODC_Shotgun_P_Fire.tools.stock.label>
+    <ODC_Shotgun_P_Fire.tools.barrel.label>枪管</ODC_Shotgun_P_Fire.tools.barrel.label>
+
+    <ODC_Shotgun_P_Fire.comps.CompUniqueWeapon.namerLabels.0>典范共谋者 - 顶点（火焰）</ODC_Shotgun_P_Fire.comps.CompUniqueWeapon.namerLabels.0>
+    <ODC_Shotgun_P_Fire.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_Shotgun_P_Fire.comps.CompEquippableAbilityReloadable.chargeNoun>
+    <ODC_Shotgun_P_Fire.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_Shotgun_P_Fire.comps.CompEquippableAbilityReloadable.cooldownGerund>
+    <!--=============== EMP ====================-->
+    <Bullet_ODC_S_EMP.label>共谋者EMP霰弹</Bullet_ODC_S_EMP.label>
+
+    <ODC_Shotgun_EMP.label>共谋者 - 顶点（EMP）</ODC_Shotgun_EMP.label>
+    <ODC_Shotgun_EMP.verbs.Verb_Shoot.label>共谋者 - 顶点（EMP）</ODC_Shotgun_EMP.verbs.Verb_Shoot.label>
+    <ODC_Shotgun_EMP.description>黑曜石流浪者使用的专业霰弹枪。装载EMP伤害。\n\n警告！EMP伤害并非用于摧毁血肉之躯。</ODC_Shotgun_EMP.description>
+
+    <ODC_Shotgun_EMP.tools.stock.label>枪托</ODC_Shotgun_EMP.tools.stock.label>
+    <ODC_Shotgun_EMP.tools.barrel.label>枪管</ODC_Shotgun_EMP.tools.barrel.label>
+
+    <ODC_Shotgun_P_EMP.label>典范共谋者 - 顶点（EMP）</ODC_Shotgun_P_EMP.label>
+    <ODC_Shotgun_P_EMP.verbs.Verb_Shoot.label>典范共谋者 - 顶点（EMP）</ODC_Shotgun_P_EMP.verbs.Verb_Shoot.label>
+    <ODC_Shotgun_P_EMP.description>黑曜石流浪者使用的典范专业霰弹枪。装载EMP伤害。\n\n警告！EMP伤害并非用于摧毁血肉之躯。</ODC_Shotgun_P_EMP.description>
+
+    <ODC_Shotgun_P_EMP.tools.stock.label>枪托</ODC_Shotgun_P_EMP.tools.stock.label>
+    <ODC_Shotgun_P_EMP.tools.barrel.label>枪管</ODC_Shotgun_P_EMP.tools.barrel.label>
+
+    <ODC_Shotgun_P_EMP.comps.CompUniqueWeapon.namerLabels.0>典范共谋者 - 顶点（EMP）</ODC_Shotgun_P_EMP.comps.CompUniqueWeapon.namerLabels.0>
+    <ODC_Shotgun_P_EMP.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_Shotgun_P_EMP.comps.CompEquippableAbilityReloadable.chargeNoun>
+    <ODC_Shotgun_P_EMP.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_Shotgun_P_EMP.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+    <!--=============== ODC - AssaultRifle ====================-->
+    <Bullet_ODC_AR.label>无思者子弹</Bullet_ODC_AR.label>
+
+    <ODC_AssaultRifle_A.label>无思者 - 新兴</ODC_AssaultRifle_A.label>
+    <ODC_AssaultRifle_A.verbs.Verb_Shoot.label>无思者 - 新兴</ODC_AssaultRifle_A.verbs.Verb_Shoot.label>
+    <ODC_AssaultRifle_A.description>黑曜石流浪者使用的改装突击步枪。</ODC_AssaultRifle_A.description>
+
+    <ODC_AssaultRifle_A.tools.stock.label>枪托</ODC_AssaultRifle_A.tools.stock.label>
+    <ODC_AssaultRifle_A.tools.barrel.label>枪管</ODC_AssaultRifle_A.tools.barrel.label>
+
+    <ODC_AssaultRifle_A_P.label>典范无思者 - 新兴</ODC_AssaultRifle_A_P.label>
+    <ODC_AssaultRifle_A_P.verbs.Verb_Shoot.label>典范无思者 - 新兴</ODC_AssaultRifle_A_P.verbs.Verb_Shoot.label>
+    <ODC_AssaultRifle_A_P.description>黑曜石流浪者使用的典范改装突击步枪。</ODC_AssaultRifle_A_P.description>
+
+    <ODC_AssaultRifle_A_P.tools.stock.label>枪托</ODC_AssaultRifle_A_P.tools.stock.label>
+    <ODC_AssaultRifle_A_P.tools.barrel.label>枪管</ODC_AssaultRifle_A_P.tools.barrel.label>
+
+    <ODC_AssaultRifle_A_P.comps.CompUniqueWeapon.namerLabels.0>典范无思者 - 新兴</ODC_AssaultRifle_A_P.comps.CompUniqueWeapon.namerLabels.0>
+    <ODC_AssaultRifle_A_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_AssaultRifle_A_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+    <ODC_AssaultRifle_A_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_AssaultRifle_A_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+    <ODC_AssaultRifle_B.label>无思者 - 顶点</ODC_AssaultRifle_B.label>
+    <ODC_AssaultRifle_B.verbs.Verb_Shoot.label>无思者 - 顶点</ODC_AssaultRifle_B.verbs.Verb_Shoot.label>
+    <ODC_AssaultRifle_B.description>黑曜石流浪者使用的专业突击步枪。</ODC_AssaultRifle_B.description>
+
+    <ODC_AssaultRifle_B.tools.stock.label>枪托</ODC_AssaultRifle_B.tools.stock.label>
+    <ODC_AssaultRifle_B.tools.barrel.label>枪管</ODC_AssaultRifle_B.tools.barrel.label>
+
+    <ODC_AssaultRifle_B_P.label>典范无思者 - 顶点</ODC_AssaultRifle_B_P.label>
+    <ODC_AssaultRifle_B_P.verbs.Verb_Shoot.label>典范无思者 - 顶点</ODC_AssaultRifle_B_P.verbs.Verb_Shoot.label>
+    <ODC_AssaultRifle_B_P.description>黑曜石流浪者使用的典范专业突击步枪。</ODC_AssaultRifle_B_P.description>
+
+    <ODC_AssaultRifle_B_P.tools.stock.label>枪托</ODC_AssaultRifle_B_P.tools.stock.label>
+    <ODC_AssaultRifle_B_P.tools.barrel.label>枪管</ODC_AssaultRifle_B_P.tools.barrel.label>
+
+    <ODC_AssaultRifle_B_P.comps.CompUniqueWeapon.namerLabels.0>典范无思者 - 顶点</ODC_AssaultRifle_B_P.comps.CompUniqueWeapon.namerLabels.0>
+    <ODC_AssaultRifle_B_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_AssaultRifle_B_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+    <ODC_AssaultRifle_B_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_AssaultRifle_B_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+    <!--=============== ODC - SniperRifle ====================-->
+    <Bullet_ODC_SR.label>走私者子弹</Bullet_ODC_SR.label>
+
+    <ODC_SniperRifle_A.label>走私者 - 新兴</ODC_SniperRifle_A.label>
+    <ODC_SniperRifle_A.verbs.Verb_Shoot.label>走私者 - 新兴</ODC_SniperRifle_A.verbs.Verb_Shoot.label>
+    <ODC_SniperRifle_A.description>黑曜石流浪者使用的改装狙击步枪。</ODC_SniperRifle_A.description>
+
+    <ODC_SniperRifle_A.tools.stock.label>枪托</ODC_SniperRifle_A.tools.stock.label>
+    <ODC_SniperRifle_A.tools.barrel.label>枪管</ODC_SniperRifle_A.tools.barrel.label>
+
+    <ODC_SniperRifle_A_P.label>典范走私者 - 新兴</ODC_SniperRifle_A_P.label>
+    <ODC_SniperRifle_A_P.verbs.Verb_Shoot.label>典范走私者 - 新兴</ODC_SniperRifle_A_P.verbs.Verb_Shoot.label>
+    <ODC_SniperRifle_A_P.description>黑曜石流浪者使用的典范改装狙击步枪。</ODC_SniperRifle_A_P.description>
+
+    <ODC_SniperRifle_A_P.tools.stock.label>枪托</ODC_SniperRifle_A_P.tools.stock.label>
+    <ODC_SniperRifle_A_P.tools.barrel.label>枪管</ODC_SniperRifle_A_P.tools.barrel.label>
+
+    <ODC_SniperRifle_A_P.comps.CompUniqueWeapon.namerLabels.0>典范走私者 - 新兴</ODC_SniperRifle_A_P.comps.CompUniqueWeapon.namerLabels.0>
+    <ODC_SniperRifle_A_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_SniperRifle_A_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+    <ODC_SniperRifle_A_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_SniperRifle_A_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+    <ODC_SniperRifle_B.label>走私者 - 顶点</ODC_SniperRifle_B.label>
+    <ODC_SniperRifle_B.verbs.Verb_Shoot.label>走私者 - 顶点</ODC_SniperRifle_B.verbs.Verb_Shoot.label>
+    <ODC_SniperRifle_B.description>黑曜石流浪者使用的专业狙击步枪。</ODC_SniperRifle_B.description>
+
+    <ODC_SniperRifle_B.tools.stock.label>枪托</ODC_SniperRifle_B.tools.stock.label>
+    <ODC_SniperRifle_B.tools.barrel.label>枪管</ODC_SniperRifle_B.tools.barrel.label>
+
+    <ODC_SniperRifle_B_P.label>典范走私者 - 顶点</ODC_SniperRifle_B_P.label>
+    <ODC_SniperRifle_B_P.verbs.Verb_Shoot.label>典范走私者 - 顶点</ODC_SniperRifle_B_P.verbs.Verb_Shoot.label>
+    <ODC_SniperRifle_B_P.description>黑曜石流浪者使用的典范专业狙击步枪。</ODC_SniperRifle_B_P.description>
+
+    <ODC_SniperRifle_B_P.tools.stock.label>枪托</ODC_SniperRifle_B_P.tools.stock.label>
+    <ODC_SniperRifle_B_P.tools.barrel.label>枪管</ODC_SniperRifle_B_P.tools.barrel.label>
+
+    <ODC_SniperRifle_B_P.comps.CompUniqueWeapon.namerLabels.0>典范走私者 - 顶点</ODC_SniperRifle_B_P.comps.CompUniqueWeapon.namerLabels.0>
+    <ODC_SniperRifle_B_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_SniperRifle_B_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+    <ODC_SniperRifle_B_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_SniperRifle_B_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+    <!--=============== ODC - Tonfa ====================-->
+    <ODC_Tonfa.label>重击者</ODC_Tonfa.label>
+    <ODC_Tonfa.description>黑曜石流浪者使用的通用警棍。</ODC_Tonfa.description>
+
+    <ODC_Tonfa.tools.handle.label>手柄</ODC_Tonfa.tools.handle.label>
+    <ODC_Tonfa.tools.head.label>头部</ODC_Tonfa.tools.head.label>
+
+    <ODC_Tonfa_P.label>人格重击者</ODC_Tonfa_P.label>
+    <ODC_Tonfa_P.description>黑曜石流浪者使用的人格通用警棍。</ODC_Tonfa_P.description>
+
+    <ODC_Tonfa_P.tools.handle.label>手柄</ODC_Tonfa_P.tools.handle.label>
+    <ODC_Tonfa_P.tools.head.label>头部</ODC_Tonfa_P.tools.head.label>
+
+    <!--=============== ODC - Rocket Launcher ====================-->
+    <Bullet_ODC_RL.label>轰鸣射手火箭弹</Bullet_ODC_RL.label>
+
+    <ODC_RocketLauncher.label>轰鸣射手 - 新兴</ODC_RocketLauncher.label>
+    <ODC_RocketLauncher.verbs.Verb_Shoot.label>轰鸣射手 - 新兴</ODC_RocketLauncher.verbs.Verb_Shoot.label>
+    <ODC_RocketLauncher.description>黑曜石流浪者使用的改装火箭发射器。</ODC_RocketLauncher.description>
+
+    <ODC_RocketLauncher.tools.barrel.label>枪管</ODC_RocketLauncher.tools.barrel.label>
+
+    <ODC_RocketLauncher_P.label>典范轰鸣射手 - 新兴</ODC_RocketLauncher_P.label>
+    <ODC_RocketLauncher_P.verbs.Verb_Shoot.label>典范轰鸣射手 - 新兴</ODC_RocketLauncher_P.verbs.Verb_Shoot.label>
+    <ODC_RocketLauncher_P.description>黑曜石流浪者使用的典范改装火箭发射器。</ODC_RocketLauncher_P.description>
+
+    <ODC_RocketLauncher_P.tools.barrel.label>枪管</ODC_RocketLauncher_P.tools.barrel.label>
+
+    <ODC_RocketLauncher_P.comps.CompUniqueWeapon.namerLabels.0>典范轰鸣射手 - 新兴</ODC_RocketLauncher_P.comps.CompUniqueWeapon.namerLabels.0>
+    <ODC_RocketLauncher_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_RocketLauncher_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+    <ODC_RocketLauncher_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_RocketLauncher_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+    <!--=============== ODC - Elemental Rocket Launcher ====================-->
+    <!--=============== Acid ====================-->
+    <Bullet_ODC_RL_Acid.label>轰鸣射手火箭弹</Bullet_ODC_RL_Acid.label>
+
+    <ODC_RocketLauncher_Acid.label>轰鸣射手 - 顶点（酸性）</ODC_RocketLauncher_Acid.label>
+    <ODC_RocketLauncher_Acid.verbs.Verb_Shoot.label>轰鸣射手 - 顶点（酸性）</ODC_RocketLauncher_Acid.verbs.Verb_Shoot.label>
+    <ODC_RocketLauncher_Acid.description>黑曜石流浪者使用的专业火箭发射器。装载酸性伤害。</ODC_RocketLauncher_Acid.description>
+
+    <ODC_RocketLauncher_Acid.tools.barrel.label>枪管</ODC_RocketLauncher_Acid.tools.barrel.label>
+
+    <ODC_RocketLauncher_P_Acid.label>典范轰鸣射手 - 顶点（酸性）</ODC_RocketLauncher_P_Acid.label>
+    <ODC_RocketLauncher_P_Acid.verbs.Verb_Shoot.label>典范轰鸣射手 - 顶点（酸性）</ODC_RocketLauncher_P_Acid.verbs.Verb_Shoot.label>
+    <ODC_RocketLauncher_P_Acid.description>黑曜石流浪者使用的典范专业火箭发射器。装载酸性伤害。</ODC_RocketLauncher_P_Acid.description>
+
+    <ODC_RocketLauncher_P_Acid.tools.barrel.label>枪管</ODC_RocketLauncher_P_Acid.tools.barrel.label>
+
+    <ODC_RocketLauncher_P_Acid.comps.CompUniqueWeapon.namerLabels.0>典范轰鸣射手 - 顶点（酸性）</ODC_RocketLauncher_P_Acid.comps.CompUniqueWeapon.namerLabels.0>
+    <ODC_RocketLauncher_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_RocketLauncher_P_Acid.comps.CompEquippableAbilityReloadable.chargeNoun>
+    <ODC_RocketLauncher_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_RocketLauncher_P_Acid.comps.CompEquippableAbilityReloadable.cooldownGerund>
+    <!--=============== Cryo ====================-->
+    <Bullet_ODC_RL_Cryo.label>轰鸣射手火箭弹</Bullet_ODC_RL_Cryo.label>
+
+    <ODC_RocketLauncher_Cryo.label>轰鸣射手 - 顶点（冰冻）</ODC_RocketLauncher_Cryo.label>
+    <ODC_RocketLauncher_Cryo.verbs.Verb_Shoot.label>轰鸣射手 - 顶点（冰冻）</ODC_RocketLauncher_Cryo.verbs.Verb_Shoot.label>
+    <ODC_RocketLauncher_Cryo.description>黑曜石流浪者使用的专业火箭发射器。装载冰冻伤害。</ODC_RocketLauncher_Cryo.description>
+
+    <ODC_RocketLauncher_Cryo.tools.barrel.label>枪管</ODC_RocketLauncher_Cryo.tools.barrel.label>
+
+    <ODC_RocketLauncher_P_Cryo.label>典范轰鸣射手 - 顶点（冰冻）</ODC_RocketLauncher_P_Cryo.label>
+    <ODC_RocketLauncher_P_Cryo.verbs.Verb_Shoot.label>典范轰鸣射手 - 顶点（冰冻）</ODC_RocketLauncher_P_Cryo.verbs.Verb_Shoot.label>
+    <ODC_RocketLauncher_P_Cryo.description>黑曜石流浪者使用的典范专业火箭发射器。装载冰冻伤害。</ODC_RocketLauncher_P_Cryo.description>
+
+    <ODC_RocketLauncher_P_Cryo.tools.barrel.label>枪管</ODC_RocketLauncher_P_Cryo.tools.barrel.label>
+
+    <ODC_RocketLauncher_P_Cryo.comps.CompUniqueWeapon.namerLabels.0>典范轰鸣射手 - 顶点（冰冻）</ODC_RocketLauncher_P_Cryo.comps.CompUniqueWeapon.namerLabels.0>
+    <ODC_RocketLauncher_P_Cryo.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_RocketLauncher_P_Cryo.comps.CompEquippableAbilityReloadable.chargeNoun>
+    <ODC_RocketLauncher_P_Cryo.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_RocketLauncher_P_Cryo.comps.CompEquippableAbilityReloadable.cooldownGerund>
+    <!--=============== Fire ====================-->
+    <Bullet_ODC_RL_Fire.label>轰鸣射手火箭弹</Bullet_ODC_RL_Fire.label>
+
+    <ODC_RocketLauncher_Fire.label>轰鸣射手 - 顶点（火焰）</ODC_RocketLauncher_Fire.label>
+    <ODC_RocketLauncher_Fire.verbs.Verb_Shoot.label>轰鸣射手 - 顶点（火焰）</ODC_RocketLauncher_Fire.verbs.Verb_Shoot.label>
+    <ODC_RocketLauncher_Fire.description>黑曜石流浪者使用的专业火箭发射器。装载火焰伤害。</ODC_RocketLauncher_Fire.description>
+
+    <ODC_RocketLauncher_Fire.tools.barrel.label>枪管</ODC_RocketLauncher_Fire.tools.barrel.label>
+
+    <ODC_RocketLauncher_P_Fire.label>典范轰鸣射手 - 顶点（火焰）</ODC_RocketLauncher_P_Fire.label>
+    <ODC_RocketLauncher_P_Fire.verbs.Verb_Shoot.label>典范轰鸣射手 - 顶点（火焰）</ODC_RocketLauncher_P_Fire.verbs.Verb_Shoot.label>
+    <ODC_RocketLauncher_P_Fire.description>黑曜石流浪者使用的典范专业火箭发射器。装载火焰伤害。</ODC_RocketLauncher_P_Fire.description>
+
+    <ODC_RocketLauncher_P_Fire.tools.barrel.label>枪管</ODC_RocketLauncher_P_Fire.tools.barrel.label>
+
+    <ODC_RocketLauncher_P_Fire.comps.CompUniqueWeapon.namerLabels.0>典范轰鸣射手 - 顶点（火焰）</ODC_RocketLauncher_P_Fire.comps.CompUniqueWeapon.namerLabels.0>
+    <ODC_RocketLauncher_P_Fire.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_RocketLauncher_P_Fire.comps.CompEquippableAbilityReloadable.chargeNoun>
+    <ODC_RocketLauncher_P_Fire.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_RocketLauncher_P_Fire.comps.CompEquippableAbilityReloadable.cooldownGerund>
+    <!--=============== EMP ====================-->
+    <Bullet_ODC_RL_EMP.label>轰鸣射手火箭弹</Bullet_ODC_RL_EMP.label>
+
+    <ODC_RocketLauncher_EMP.label>轰鸣射手 - 顶点（EMP）</ODC_RocketLauncher_EMP.label>
+    <ODC_RocketLauncher_EMP.verbs.Verb_Shoot.label>轰鸣射手 - 顶点（EMP）</ODC_RocketLauncher_EMP.verbs.Verb_Shoot.label>
+    <ODC_RocketLauncher_EMP.description>黑曜石流浪者使用的专业火箭发射器。装载EMP伤害。\n\n警告！EMP伤害并非用于摧毁血肉之躯。</ODC_RocketLauncher_EMP.description>
+
+    <ODC_RocketLauncher_EMP.tools.barrel.label>枪管</ODC_RocketLauncher_EMP.tools.barrel.label>
+
+    <ODC_RocketLauncher_P_EMP.label>典范轰鸣射手 - 顶点（EMP）</ODC_RocketLauncher_P_EMP.label>
+    <ODC_RocketLauncher_P_EMP.verbs.Verb_Shoot.label>典范轰鸣射手 - 顶点（EMP）</ODC_RocketLauncher_P_EMP.verbs.Verb_Shoot.label>
+    <ODC_RocketLauncher_P_EMP.description>黑曜石流浪者使用的典范专业火箭发射器。装载EMP伤害。\n\n警告！EMP伤害并非用于摧毁血肉之躯。</ODC_RocketLauncher_P_EMP.description>
+
+    <ODC_RocketLauncher_P_EMP.tools.barrel.label>枪管</ODC_RocketLauncher_P_EMP.tools.barrel.label>
+
+    <ODC_RocketLauncher_P_EMP.comps.CompUniqueWeapon.namerLabels.0>典范轰鸣射手 - 顶点（EMP）</ODC_RocketLauncher_P_EMP.comps.CompUniqueWeapon.namerLabels.0>
+    <ODC_RocketLauncher_P_EMP.comps.CompEquippableAbilityReloadable.chargeNoun>充能</ODC_RocketLauncher_P_EMP.comps.CompEquippableAbilityReloadable.chargeNoun>
+    <ODC_RocketLauncher_P_EMP.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</ODC_RocketLauncher_P_EMP.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+</LanguageData>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Ghoul Skin ====================-->
+<OE_InstallGhoulImplantSkin.label>安装食尸鬼皮肤植入物 - 甲壳</OE_InstallGhoulImplantSkin.label>
+<OE_InstallGhoulImplantSkin.description>安装食尸鬼皮肤植入物 - 甲壳。</OE_InstallGhoulImplantSkin.description>
+<OE_InstallGhoulImplantSkin.jobString>正在安装食尸鬼皮肤植入物 - 甲壳。</OE_InstallGhoulImplantSkin.jobString>
+
+<OE_RemoveGhoulImplantSkin.label>移除食尸鬼皮肤植入物 - 甲壳</OE_RemoveGhoulImplantSkin.label>
+<OE_RemoveGhoulImplantSkin.description>移除食尸鬼皮肤植入物 - 甲壳。</OE_RemoveGhoulImplantSkin.description>
+<OE_RemoveGhoulImplantSkin.jobString>正在移除食尸鬼皮肤植入物 - 甲壳。</OE_RemoveGhoulImplantSkin.jobString>
+
+<!--=============== Ghoul Stomach ====================-->
+<OE_InstallGhoulImplantStomach.label>安装食尸鬼胃部植入物 - 幼虫</OE_InstallGhoulImplantStomach.label>
+<OE_InstallGhoulImplantStomach.description>安装食尸鬼胃部植入物 - 幼虫。</OE_InstallGhoulImplantStomach.description>
+<OE_InstallGhoulImplantStomach.jobString>正在安装食尸鬼胃部植入物 - 幼虫。</OE_InstallGhoulImplantStomach.jobString>
+
+<OE_RemoveGhoulImplantStomach.label>移除食尸鬼胃部植入物 - 幼虫</OE_RemoveGhoulImplantStomach.label>
+<OE_RemoveGhoulImplantStomach.description>移除食尸鬼胃部植入物 - 幼虫。</OE_RemoveGhoulImplantStomach.description>
+<OE_RemoveGhoulImplantStomach.jobString>正在移除食尸鬼胃部植入物 - 幼虫。</OE_RemoveGhoulImplantStomach.jobString>
+
+<!--=============== Ghoul Skeleton ====================-->
+<OE_InstallGhoulImplantSkeleton.label>安装食尸鬼骨架植入物 - 圣甲虫</OE_InstallGhoulImplantSkeleton.label>
+<OE_InstallGhoulImplantSkeleton.description>安装食尸鬼骨架植入物 - 圣甲虫。</OE_InstallGhoulImplantSkeleton.description>
+<OE_InstallGhoulImplantSkeleton.jobString>正在安装食尸鬼骨架植入物 - 圣甲虫。</OE_InstallGhoulImplantSkeleton.jobString>
+
+<OE_RemoveGhoulImplantSkeleton.label>移除食尸鬼骨架植入物 - 圣甲虫</OE_RemoveGhoulImplantSkeleton.label>
+<OE_RemoveGhoulImplantSkeleton.description>移除食尸鬼骨架植入物 - 圣甲虫。</OE_RemoveGhoulImplantSkeleton.description>
+<OE_RemoveGhoulImplantSkeleton.jobString>正在移除食尸鬼骨架植入物 - 圣甲虫。</OE_RemoveGhoulImplantSkeleton.jobString>
+
+<!--=============== Ghoul Head Prosthetic ====================-->
+<CAC_InstallGhoulProstheticHelmet.label>安装食尸鬼头骨假体 - 十字军头盔</CAC_InstallGhoulProstheticHelmet.label>
+<CAC_InstallGhoulProstheticHelmet.description>安装食尸鬼头骨假体 - 十字军头盔。</CAC_InstallGhoulProstheticHelmet.description>
+<CAC_InstallGhoulProstheticHelmet.jobString>正在安装食尸鬼头骨假体 - 十字军头盔。</CAC_InstallGhoulProstheticHelmet.jobString>
+
+<CAC_RemoveGhoulProstheticHelmet.label>移除食尸鬼头骨假体 - 十字军头盔</CAC_RemoveGhoulProstheticHelmet.label>
+<CAC_RemoveGhoulProstheticHelmet.description>移除食尸鬼头骨假体 - 十字军头盔。</CAC_RemoveGhoulProstheticHelmet.description>
+<CAC_RemoveGhoulProstheticHelmet.jobString>正在移除食尸鬼头骨假体 - 十字军头盔。</CAC_RemoveGhoulProstheticHelmet.jobString>
+
+<!--=============== Ghoul Shoulder Prosthetic ====================-->
+<CAC_InstallGhoulProstheticClaws.label>安装食尸鬼头骨假体 - 十字军利爪</CAC_InstallGhoulProstheticClaws.label>
+<CAC_InstallGhoulProstheticClaws.description>安装食尸鬼头骨假体 - 十字军利爪。</CAC_InstallGhoulProstheticClaws.description>
+<CAC_InstallGhoulProstheticClaws.jobString>正在安装食尸鬼头骨假体 - 十字军利爪。</CAC_InstallGhoulProstheticClaws.jobString>
+
+<CAC_RemoveGhoulProstheticClaws.label>移除食尸鬼头骨假体 - 十字军利爪</CAC_RemoveGhoulProstheticClaws.label>
+<CAC_RemoveGhoulProstheticClaws.description>移除食尸鬼头骨假体 - 十字军利爪。</CAC_RemoveGhoulProstheticClaws.description>
+<CAC_RemoveGhoulProstheticClaws.jobString>正在移除食尸鬼头骨假体 - 十字军利爪。</CAC_RemoveGhoulProstheticClaws.jobString>
+
+<!--=============== Ghoul Torso Prosthetic ====================-->
+<CAC_InstallGhoulProstheticChamber.label>安装食尸鬼头骨假体 - 十字军驱动器</CAC_InstallGhoulProstheticChamber.label>
+<CAC_InstallGhoulProstheticChamber.description>安装食尸鬼头骨假体 - 十字军驱动器。</CAC_InstallGhoulProstheticChamber.description>
+<CAC_InstallGhoulProstheticChamber.jobString>正在安装食尸鬼头骨假体 - 十字军驱动器。</CAC_InstallGhoulProstheticChamber.jobString>
+
+<CAC_RemoveGhoulProstheticChamber.label>移除食尸鬼头骨假体 - 十字军驱动器</CAC_RemoveGhoulProstheticChamber.label>
+<CAC_RemoveGhoulProstheticChamber.description>移除食尸鬼头骨假体 - 十字军驱动器。</CAC_RemoveGhoulProstheticChamber.description>
+<CAC_RemoveGhoulProstheticChamber.jobString>正在移除食尸鬼头骨假体 - 十字军驱动器。</CAC_RemoveGhoulProstheticChamber.jobString>
+
+</LanguageData>

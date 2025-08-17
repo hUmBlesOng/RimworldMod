@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+<!--=============== Queen's Grip ====================-->
+<OE_MechQueenGrip.label>女王之握</OE_MechQueenGrip.label>
+<OE_MechQueenGrip.description>女王之握能力可以让蛛后将目标传送到自己身边，但体积过大的物体无法被传送。</OE_MechQueenGrip.description>
+
+<!--=============== Queen's Curse ====================-->
+<OE_MechQueenCurse.label>女王诅咒</OE_MechQueenCurse.label>
+<OE_MechQueenCurse.description>女王诅咒能力可以使蛛后完全缴械目标，并在接下来的12小时内增加目标所受到的伤害。</OE_MechQueenCurse.description>
+
+<!--=============== Drone Assault ====================-->
+<OE_MechDroneJump.label>无人机突击</OE_MechDroneJump.label>
+<OE_MechDroneJump.description>无人机突击能力可以让无人机向目标位置进行突击跳跃。</OE_MechDroneJump.description>
+
+</LanguageData>

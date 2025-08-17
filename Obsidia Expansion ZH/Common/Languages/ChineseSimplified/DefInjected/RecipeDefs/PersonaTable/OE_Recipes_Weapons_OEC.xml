@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== OEC ====================-->
+<!--=============== Knife ====================-->
+<OE_Reset_OEC_Knife_P.label>重置人格崇高碎片</OE_Reset_OEC_Knife_P.label>
+<OE_Reset_OEC_Knife_P.description>重置人格崇高碎片。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OEC_Knife_P.description>
+<OE_Reset_OEC_Knife_P.jobString>正在重置人格崇高碎片。</OE_Reset_OEC_Knife_P.jobString>
+
+<!--=============== Katana ====================-->
+<OE_Reset_OEC_Katana_P.label>重置人格崇高收割者</OE_Reset_OEC_Katana_P.label>
+<OE_Reset_OEC_Katana_P.description>重置人格崇高收割者。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OEC_Katana_P.description>
+<OE_Reset_OEC_Katana_P.jobString>正在重置人格崇高收割者。</OE_Reset_OEC_Katana_P.jobString>
+
+<!--=============== Elemental Katana ====================-->
+<!--=============== Acid ====================-->
+<OE_Reset_OEC_Katana_P_Acid.label>重置人格崇高收割者(酸液)</OE_Reset_OEC_Katana_P_Acid.label>
+<OE_Reset_OEC_Katana_P_Acid.description>重置人格崇高收割者(酸液)。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OEC_Katana_P_Acid.description>
+<OE_Reset_OEC_Katana_P_Acid.jobString>正在重置人格崇高收割者(酸液)。</OE_Reset_OEC_Katana_P_Acid.jobString>
+<!--=============== Cryo ====================-->
+<OE_Reset_OEC_Katana_P_Cryo.label>重置人格崇高收割者(冷冻)</OE_Reset_OEC_Katana_P_Cryo.label>
+<OE_Reset_OEC_Katana_P_Cryo.description>重置人格崇高收割者(冷冻)。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OEC_Katana_P_Cryo.description>
+<OE_Reset_OEC_Katana_P_Cryo.jobString>正在重置人格崇高收割者(冷冻)。</OE_Reset_OEC_Katana_P_Cryo.jobString>
+<!--=============== Fire ====================-->
+<OE_Reset_OEC_Katana_P_Fire.label>重置人格崇高收割者(火焰)</OE_Reset_OEC_Katana_P_Fire.label>
+<OE_Reset_OEC_Katana_P_Fire.description>重置人格崇高收割者(火焰)。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OEC_Katana_P_Fire.description>
+<OE_Reset_OEC_Katana_P_Fire.jobString>正在重置人格崇高收割者(火焰)。</OE_Reset_OEC_Katana_P_Fire.jobString>
+<!--=============== EMP ====================-->
+<OE_Reset_OEC_Katana_P_EMP.label>重置人格崇高收割者(电磁)</OE_Reset_OEC_Katana_P_EMP.label>
+<OE_Reset_OEC_Katana_P_EMP.description>重置人格崇高收割者(电磁)。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OEC_Katana_P_EMP.description>
+<OE_Reset_OEC_Katana_P_EMP.jobString>正在重置人格崇高收割者(电磁)。</OE_Reset_OEC_Katana_P_EMP.jobString>
+
+<!--=============== Spear ====================-->
+<OE_Reset_OEC_Spear_P.label>重置人格崇高鞘翅</OE_Reset_OEC_Spear_P.label>
+<OE_Reset_OEC_Spear_P.description>重置人格崇高鞘翅。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OEC_Spear_P.description>
+<OE_Reset_OEC_Spear_P.jobString>正在重置人格崇高鞘翅。</OE_Reset_OEC_Spear_P.jobString>
+
+<!--=============== Claws ====================-->
+<OE_Reset_OEC_Claws_P.label>重置人格崇高真理</OE_Reset_OEC_Claws_P.label>
+<OE_Reset_OEC_Claws_P.description>重置人格崇高真理。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OEC_Claws_P.description>
+<OE_Reset_OEC_Claws_P.jobString>正在重置人格崇高真理。</OE_Reset_OEC_Claws_P.jobString>
+
+<!--=============== Revolver ====================-->
+<OE_Reset_OEC_Revolver_P.label>重置巅峰崇高和平使者</OE_Reset_OEC_Revolver_P.label>
+<OE_Reset_OEC_Revolver_P.description>重置巅峰崇高和平使者。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OEC_Revolver_P.description>
+<OE_Reset_OEC_Revolver_P.jobString>正在重置巅峰崇高和平使者。</OE_Reset_OEC_Revolver_P.jobString>
+
+<!--=============== Shotgun ====================-->
+<OE_Reset_OEC_Shotgun_P.label>重置巅峰崇高救赎者</OE_Reset_OEC_Shotgun_P.label>
+<OE_Reset_OEC_Shotgun_P.description>重置巅峰崇高救赎者。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OEC_Shotgun_P.description>
+<OE_Reset_OEC_Shotgun_P.jobString>正在重置巅峰崇高救赎者。</OE_Reset_OEC_Shotgun_P.jobString>
+
+<!--=============== SniperRifle ====================-->
+<OE_Reset_OEC_SniperRifle_P.label>重置巅峰崇高审判</OE_Reset_OEC_SniperRifle_P.label>
+<OE_Reset_OEC_SniperRifle_P.description>重置巅峰崇高审判。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OEC_SniperRifle_P.description>
+<OE_Reset_OEC_SniperRifle_P.jobString>正在重置巅峰崇高审判。</OE_Reset_OEC_SniperRifle_P.jobString>
+
+<!--=============== Bow ====================-->
+<OE_Reset_OEC_Bow_P.label>重置巅峰崇高骄傲</OE_Reset_OEC_Bow_P.label>
+<OE_Reset_OEC_Bow_P.description>重置巅峰崇高骄傲。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OEC_Bow_P.description>
+<OE_Reset_OEC_Bow_P.jobString>正在重置巅峰崇高骄傲。</OE_Reset_OEC_Bow_P.jobString>
+
+<!--=============== Cross ====================-->
+<!--=============== AssaultRifle ====================-->
+<OE_Reset_OEC_AR_P.label>重置巅峰崇高裁决</OE_Reset_OEC_AR_P.label>
+<OE_Reset_OEC_AR_P.description>重置巅峰崇高裁决。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OEC_AR_P.description>
+<OE_Reset_OEC_AR_P.jobString>正在重置巅峰崇高裁决。</OE_Reset_OEC_AR_P.jobString>
+
+<!--=============== Minigun ====================-->
+<OE_Reset_OEC_Minigun_P.label>重置巅峰崇高破链者</OE_Reset_OEC_Minigun_P.label>
+<OE_Reset_OEC_Minigun_P.description>重置巅峰崇高破链者。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OEC_Minigun_P.description>
+<OE_Reset_OEC_Minigun_P.jobString>正在重置巅峰崇高破链者。</OE_Reset_OEC_Minigun_P.jobString>
+
+</LanguageData>

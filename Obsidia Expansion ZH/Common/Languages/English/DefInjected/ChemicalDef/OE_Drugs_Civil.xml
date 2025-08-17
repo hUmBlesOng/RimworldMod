@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== Timbium ====================-->
-<OE_Timbium.label>蒂比乌姆</OE_Timbium.label>
+<OE_Timbium.label>timbium</OE_Timbium.label>
 
 <!--=============== Garganadol ====================-->
-<OE_Garganadol.label>加尔加纳多</OE_Garganadol.label>
+<OE_Garganadol.label>garganadol</OE_Garganadol.label>
 
 <!--=============== Cofagradol ====================-->
-<OE_Cofagradol.label>科法格拉多</OE_Cofagradol.label>
+<OE_Cofagradol.label>cofagradol</OE_Cofagradol.label>
 
 <!--=============== Cressadol ====================-->
-<OE_Cressadol.label>克雷萨多</OE_Cressadol.label>
+<OE_Cressadol.label>cressadol</OE_Cressadol.label>
 
 <!--=============== Florgadol ====================-->
-<OE_Florgadol.label>弗洛加多</OE_Florgadol.label>
+<OE_Florgadol.label>florgadol</OE_Florgadol.label>
 
 </LanguageData>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== 靴子 - 军用 ====================-->
+<OE_Footwear_Military.label>黑曜石军用靴</OE_Footwear_Military.label>
+<OE_Footwear_Military.description>军用靴，完美地保护并为穿戴者提供先进的皮肤感知反馈。专为所有黑曜石帝国军队使用而设计。</OE_Footwear_Military.description>
+
+<!--=============== 靴子 - 工人 ====================-->
+<OE_Footwear_Worker.label>黑曜石工人靴</OE_Footwear_Worker.label>
+<OE_Footwear_Worker.description>工人靴，很好地保护并为穿戴者提供性能提升。专为所有黑曜石帝国工人使用而设计。</OE_Footwear_Worker.description>
+
+<!--=============== 手套 - 军用 ====================-->
+<OE_Handwear_Military.label>黑曜石军用手套</OE_Handwear_Military.label>
+<OE_Handwear_Military.description>军用手套，完美地保护并为穿戴者提供先进的皮肤感知反馈。专为所有黑曜石帝国军队使用而设计。</OE_Handwear_Military.description>
+
+<!--=============== 手套 - 工人 ====================-->
+<OE_Handwear_Worker.label>黑曜石工人手套</OE_Handwear_Worker.label>
+<OE_Handwear_Worker.description>工人手套，很好地保护并为穿戴者提供性能提升。专为所有黑曜石帝国工人使用而设计。</OE_Handwear_Worker.description>
+
+</LanguageData>

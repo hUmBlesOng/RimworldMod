@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+<!--=============== Acid ====================-->
+<!--=============== Resistant ====================-->
+<OE_AcidResistant.label>抗酸性</OE_AcidResistant.label>
+<OE_AcidResistant.labelShortAdj>防酸</OE_AcidResistant.labelShortAdj>
+<OE_AcidResistant.description>携带这种基因的个体对任何来源的酸性伤害都有抗性。他们只承受25%的酸性伤害。</OE_AcidResistant.description>
+
+<OE_AcidResistant.symbolPack.prefixSymbols.0.symbol>抗毒素</OE_AcidResistant.symbolPack.prefixSymbols.0.symbol>
+<OE_AcidResistant.symbolPack.prefixSymbols.1.symbol>粗糙</OE_AcidResistant.symbolPack.prefixSymbols.1.symbol>
+<!--=============== Weakness ====================-->
+<OE_AcidWeakness.label>酸性弱点</OE_AcidWeakness.label>
+<OE_AcidWeakness.labelShortAdj>敏感皮肤</OE_AcidWeakness.labelShortAdj>
+<OE_AcidWeakness.description>携带这种基因的个体皮肤中有生物化合物会对酸性伤害产生疼痛反应。他们对酸性异常敏感。酸性伤害增加4倍。</OE_AcidWeakness.description>
+
+<OE_AcidWeakness.symbolPack.prefixSymbols.0.symbol>敏感</OE_AcidWeakness.symbolPack.prefixSymbols.0.symbol>
+<OE_AcidWeakness.symbolPack.prefixSymbols.1.symbol>薄皮肤</OE_AcidWeakness.symbolPack.prefixSymbols.1.symbol>
+
+<!--=============== Cryo ====================-->
+<!--=============== Resistant ====================-->
+<OE_CryoResistant.label>抗冷冻</OE_CryoResistant.label>
+<OE_CryoResistant.labelShortAdj>防冷冻</OE_CryoResistant.labelShortAdj>
+<OE_CryoResistant.description>携带这种基因的个体拥有特殊的快速作用汗腺和抗寒皮肤。他们只承受25%的冷冻伤害。</OE_CryoResistant.description>
+
+<OE_CryoResistant.symbolPack.prefixSymbols.0.symbol>干燥</OE_CryoResistant.symbolPack.prefixSymbols.0.symbol>
+<OE_CryoResistant.symbolPack.prefixSymbols.1.symbol>温暖</OE_CryoResistant.symbolPack.prefixSymbols.1.symbol>
+<!--=============== Weakness ====================-->
+<OE_CryoWeakness.label>冷冻弱点</OE_CryoWeakness.label>
+<OE_CryoWeakness.labelShortAdj>湿皮肤</OE_CryoWeakness.labelShortAdj>
+<OE_CryoWeakness.description>携带者拥有湿润、薄的皮肤，容易在冷冻伤害下结冰，他们的免疫系统对此类威胁反应很差。冷冻伤害增加4倍。</OE_CryoWeakness.description>
+
+<OE_CryoWeakness.symbolPack.prefixSymbols.0.symbol>湿润</OE_CryoWeakness.symbolPack.prefixSymbols.0.symbol>
+<OE_CryoWeakness.symbolPack.prefixSymbols.1.symbol>冻结</OE_CryoWeakness.symbolPack.prefixSymbols.1.symbol>
+
+<!--=============== Blast ====================-->
+<!--=============== Resistant ====================-->
+<OE_BlastResistant.label>抗爆炸</OE_BlastResistant.label>
+<OE_BlastResistant.labelShortAdj>防爆</OE_BlastResistant.labelShortAdj>
+<OE_BlastResistant.description>携带这种基因的个体比其他个体受到爆炸伤害时受到的伤害更少。他们拥有加厚、致密的骨骼，几乎实心的胸腔，以及在关节和肌肉组织中强化的结合因子。他们只承受25%的爆炸伤害。</OE_BlastResistant.description>
+
+<OE_BlastResistant.symbolPack.prefixSymbols.0.symbol>坚韧</OE_BlastResistant.symbolPack.prefixSymbols.0.symbol>
+<OE_BlastResistant.symbolPack.prefixSymbols.1.symbol>粗壮</OE_BlastResistant.symbolPack.prefixSymbols.1.symbol>
+
+<!--=============== Weakness ====================-->
+<OE_BlastWeakness.label>爆炸弱点</OE_BlastWeakness.label>
+<OE_BlastWeakness.labelShortAdj>薄皮肤</OE_BlastWeakness.labelShortAdj>
+<OE_BlastWeakness.description>携带这种基因的个体比其他个体受到爆炸伤害时受到更大的伤害。他们拥有薄而脆的骨骼，以及较少的关节和肌肉组织结合分子。爆炸伤害增加4倍。</OE_BlastWeakness.description>
+
+<OE_BlastWeakness.symbolPack.prefixSymbols.0.symbol>脆弱</OE_BlastWeakness.symbolPack.prefixSymbols.0.symbol>
+<OE_BlastWeakness.symbolPack.prefixSymbols.1.symbol>薄</OE_BlastWeakness.symbolPack.prefixSymbols.1.symbol>
+
+<!--=============== MentalBreakThreshold ====================-->
+<!--=============== Resistant ====================-->
+<OE_MentalBreakResistant.label>抗精神崩溃</OE_MentalBreakResistant.label>
+<OE_MentalBreakResistant.labelShortAdj>精神稳定</OE_MentalBreakResistant.labelShortAdj>
+<OE_MentalBreakResistant.description>携带这种基因的个体精神坚韧，在压力下不会像大多数人一样崩溃。</OE_MentalBreakResistant.description>
+
+<OE_MentalBreakResistant.symbolPack.prefixSymbols.0.symbol>精神</OE_MentalBreakResistant.symbolPack.prefixSymbols.0.symbol>
+
+<!--=============== Weakness ====================-->
+<OE_MentalBreakWeakness.label>精神崩溃弱点</OE_MentalBreakWeakness.label>
+<OE_MentalBreakWeakness.labelShortAdj>精神不稳定</OE_MentalBreakWeakness.labelShortAdj>
+<OE_MentalBreakWeakness.description>携带这种基因的个体倾向于在压力下崩溃。</OE_MentalBreakWeakness.description>
+
+<OE_MentalBreakWeakness.symbolPack.prefixSymbols.0.symbol>精神</OE_MentalBreakWeakness.symbolPack.prefixSymbols.0.symbol>
+
+</LanguageData>

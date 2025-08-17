@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Mutation - Hunger ====================-->
+<EGO_Mutation_Hunger.label>突变 - 新陈代谢</EGO_Mutation_Hunger.label>
+<EGO_Mutation_Hunger.labelNoun>一个突变 - 新陈代谢</EGO_Mutation_Hunger.labelNoun>
+<EGO_Mutation_Hunger.description>已植入的突变 - 新陈代谢。\n\n这种突变最多可以植入15次以增强效果。</EGO_Mutation_Hunger.description>
+
+<!--=============== Mutation - Will ====================-->
+<EGO_Mutation_Will.label>突变 - 坚定不移</EGO_Mutation_Will.label>
+<EGO_Mutation_Will.labelNoun>一个突变 - 坚定不移</EGO_Mutation_Will.labelNoun>
+<EGO_Mutation_Will.description>已植入的突变 - 坚定不移。\n\n这种突变最多可以植入15次以增强效果。</EGO_Mutation_Will.description>
+
+<!--=============== Mutation - Body ====================-->
+<EGO_Mutation_Body.label>突变 - 半神</EGO_Mutation_Body.label>
+<EGO_Mutation_Body.labelNoun>一个突变 - 半神</EGO_Mutation_Body.labelNoun>
+<EGO_Mutation_Body.description>已植入的突变 - 半神。\n\n这种突变最多可以植入15次以增强效果。</EGO_Mutation_Body.description>
+
+<!--=============== Mutation - Armor ====================-->
+<EGO_Mutation_Armor.label>突变 - 巨像</EGO_Mutation_Armor.label>
+<EGO_Mutation_Armor.labelNoun>一个突变 - 巨像</EGO_Mutation_Armor.labelNoun>
+<EGO_Mutation_Armor.description>已植入的突变 - 巨像。\n\n这种突变最多可以植入15次以增强效果。</EGO_Mutation_Armor.description>
+
+<!--=============== Mutation - Temperature ====================-->
+<EGO_Mutation_Temperature.label>突变 - 忍耐者</EGO_Mutation_Temperature.label>
+<EGO_Mutation_Temperature.labelNoun>一个突变 - 忍耐者</EGO_Mutation_Temperature.labelNoun>
+<EGO_Mutation_Temperature.description>已植入的突变 - 忍耐者。\n\n这种突变最多可以植入15次以增强效果。</EGO_Mutation_Temperature.description>
+
+<!--=============== Mutation - Worker ====================-->
+<EGO_Mutation_Worker.label>突变 - 建造者</EGO_Mutation_Worker.label>
+<EGO_Mutation_Worker.labelNoun>一个突变 - 建造者</EGO_Mutation_Worker.labelNoun>
+<EGO_Mutation_Worker.description>已植入的突变 - 建造者。\n\n这种突变最多可以植入15次以增强效果。</EGO_Mutation_Worker.description>
+
+<!--=============== Mutation - Melee ====================-->
+<EGO_Mutation_Melee.label>突变 - 狂战士</EGO_Mutation_Melee.label>
+<EGO_Mutation_Melee.labelNoun>一个突变 - 狂战士</EGO_Mutation_Melee.labelNoun>
+<EGO_Mutation_Melee.description>已植入的突变 - 狂战士。\n\n这种突变最多可以植入15次以增强效果。</EGO_Mutation_Melee.description>
+
+<!--=============== Mutation - Ranged ====================-->
+<EGO_Mutation_Ranged.label>突变 - 弩炮</EGO_Mutation_Ranged.label>
+<EGO_Mutation_Ranged.labelNoun>一个突变 - 弩炮</EGO_Mutation_Ranged.labelNoun>
+<EGO_Mutation_Ranged.description>已植入的突变 - 弩炮。\n\n这种突变最多可以植入15次以增强效果。</EGO_Mutation_Ranged.description>
+
+<!--=============== Mutation - Psy ====================-->
+<EGO_Mutation_Psy.label>突变 - 心灵编织者</EGO_Mutation_Psy.label>
+<EGO_Mutation_Psy.labelNoun>一个突变 - 心灵编织者</EGO_Mutation_Psy.labelNoun>
+<EGO_Mutation_Psy.description>已植入的突变 - 心灵编织者。\n\n这种突变最多可以植入15次以增强效果。</EGO_Mutation_Psy.description>
+
+<!--=============== Mutation - Mechanitor ====================-->
+<EGO_Mutation_Mechanitor.label>突变 - 自动法师</EGO_Mutation_Mechanitor.label>
+<EGO_Mutation_Mechanitor.labelNoun>一个突变 - 自动法师</EGO_Mutation_Mechanitor.labelNoun>
+<EGO_Mutation_Mechanitor.description>已植入的突变 - 自动法师。\n\n这种突变最多可以植入15次以增强效果。</EGO_Mutation_Mechanitor.description>
+
+<!--=============== Mutation - Elder Direwolf ====================-->
+<EGO_Mutation_Elder_Direwolf.label>突变 - 远古恐狼</EGO_Mutation_Elder_Direwolf.label>
+<EGO_Mutation_Elder_Direwolf.labelNoun>一个突变 - 远古恐狼</EGO_Mutation_Elder_Direwolf.labelNoun>
+<EGO_Mutation_Elder_Direwolf.description>已植入的突变 - 远古恐狼。\n\n这种突变最多可以植入5次以增强效果。</EGO_Mutation_Elder_Direwolf.description>
+
+<!--=============== Mutation - Elder Raptor ====================-->
+<EGO_Mutation_Elder_Raptor.label>突变 - 远古猛禽</EGO_Mutation_Elder_Raptor.label>
+<EGO_Mutation_Elder_Raptor.labelNoun>一个突变 - 远古猛禽</EGO_Mutation_Elder_Raptor.labelNoun>
+<EGO_Mutation_Elder_Raptor.description>已植入的突变 - 远古猛禽。\n\n这种突变最多可以植入5次以增强效果。</EGO_Mutation_Elder_Raptor.description>
+
+<!--=============== Mutation - Elder Ogren ====================-->
+<EGO_Mutation_Elder_Ogren.label>突变 - 远古食人魔</EGO_Mutation_Elder_Ogren.label>
+<EGO_Mutation_Elder_Ogren.labelNoun>一个突变 - 远古食人魔</EGO_Mutation_Elder_Ogren.labelNoun>
+<EGO_Mutation_Elder_Ogren.description>已植入的突变 - 远古食人魔。\n\n这种突变最多可以植入5次以增强效果。</EGO_Mutation_Elder_Ogren.description>
+
+<!--=============== Mutation - Elder Tionant ====================-->
+<EGO_Mutation_Elder_Tionant.label>突变 - 远古提奥南特</EGO_Mutation_Elder_Tionant.label>
+<EGO_Mutation_Elder_Tionant.labelNoun>一个突变 - 远古提奥南特</EGO_Mutation_Elder_Tionant.labelNoun>
+<EGO_Mutation_Elder_Tionant.description>已植入的突变 - 远古提奥南特。\n\n这种突变最多可以植入5次以增强效果。</EGO_Mutation_Elder_Tionant.description>
+
+</LanguageData>

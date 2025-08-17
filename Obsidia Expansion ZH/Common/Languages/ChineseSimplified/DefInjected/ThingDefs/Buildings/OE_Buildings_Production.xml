@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Obsidia Synthesis Printer ====================-->
+<OE_SynthesisPrinter.label>黑曜石合成打印机</OE_SynthesisPrinter.label>
+<OE_SynthesisPrinter.description>用于合成的高科技黑曜石打印机。</OE_SynthesisPrinter.description>
+  
+<!--=============== Obsidia Armor Station ====================-->
+<OE_ArmorStation.label>黑曜石装甲工作站</OE_ArmorStation.label>
+<OE_ArmorStation.description>配备先进工具用于组装黑曜石装甲的电力驱动工作站。</OE_ArmorStation.description>
+
+<!--=============== Obsidia Weapon Workbench ====================-->
+<OE_WeaponWorkbench.label>黑曜石武器工作台</OE_WeaponWorkbench.label>
+<OE_WeaponWorkbench.description>配备先进工具用于组装黑曜石武器的电力驱动工作台。</OE_WeaponWorkbench.description>
+
+<!--=============== Obsidia Armament Table ====================-->
+<OE_PersonaTable.label>黑曜石军备桌</OE_PersonaTable.label>
+<OE_PersonaTable.description>配备精密仪器、神经链接接口和先进工具的高科技工作站，用于绑定人格类和霸主级武器。</OE_PersonaTable.description>
+
+<!--=============== Obsidia Bionic Table ====================-->
+<OE_BionicTable.label>黑曜石仿生体桌</OE_BionicTable.label>
+<OE_BionicTable.description>配备计算机和先进电子工具设备的高科技桌子，用于组装黑曜石仿生体。</OE_BionicTable.description>
+
+<!--=============== Obsidia Amalgam Vat ====================-->
+<OE_AmalgamVat.label>黑曜石融合培养槽</OE_AmalgamVat.label>
+<OE_AmalgamVat.description>连接到流体培养槽的高科技计算机，可以培育融合体。</OE_AmalgamVat.description>
+
+</LanguageData>

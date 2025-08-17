@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+<!--=============== 液体类型 ====================-->
+<!--=============== 蜂蜜 ====================-->
+<OE_Slime_Honey.label>蜂蜜史莱姆</OE_Slime_Honey.label>
+<OE_Slime_Honey.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n蜂蜜史莱姆生产类型，每5天生产25个生蜂蜜。</OE_Slime_Honey.description>
+<OE_Slime_Honey.tools.mouth.label>嘴</OE_Slime_Honey.tools.mouth.label>
+<OE_Slime_Honey.tools.head.label>头部</OE_Slime_Honey.tools.head.label>
+
+<!--=============== 果冻 ====================-->
+<OE_Slime_Jelly.label>果冻史莱姆</OE_Slime_Jelly.label>
+<OE_Slime_Jelly.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n果冻史莱姆生产类型，每5天生产250个昆虫果冻。</OE_Slime_Jelly.description>
+<OE_Slime_Jelly.tools.mouth.label>嘴</OE_Slime_Jelly.tools.mouth.label>
+<OE_Slime_Jelly.tools.head.label>头部</OE_Slime_Jelly.tools.head.label>
+
+<!--=============== 皇家果冻 ====================-->
+<OE_Slime_RoyalJelly.label>皇家果冻史莱姆</OE_Slime_RoyalJelly.label>
+<OE_Slime_RoyalJelly.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n皇家果冻史莱姆生产类型，每5天生产15个皇家果冻。</OE_Slime_RoyalJelly.description>
+<OE_Slime_RoyalJelly.tools.mouth.label>嘴</OE_Slime_RoyalJelly.tools.mouth.label>
+<OE_Slime_RoyalJelly.tools.head.label>头部</OE_Slime_RoyalJelly.tools.head.label>
+
+<!--=============== 化学燃料 ====================-->
+<OE_Slime_Chemfuel.label>化学燃料史莱姆</OE_Slime_Chemfuel.label>
+<OE_Slime_Chemfuel.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n化学燃料史莱姆生产类型，每5天生产125个化学燃料。</OE_Slime_Chemfuel.description>
+<OE_Slime_Chemfuel.tools.mouth.label>嘴</OE_Slime_Chemfuel.tools.mouth.label>
+<OE_Slime_Chemfuel.tools.head.label>头部</OE_Slime_Chemfuel.tools.head.label>
+
+<!--=============== 中性胺 ====================-->
+<OE_Slime_Neutroamine.label>中性胺史莱姆</OE_Slime_Neutroamine.label>
+<OE_Slime_Neutroamine.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n中性胺史莱姆生产类型，每5天生产5个中性胺。</OE_Slime_Neutroamine.description>
+<OE_Slime_Neutroamine.tools.mouth.label>嘴</OE_Slime_Neutroamine.tools.mouth.label>
+<OE_Slime_Neutroamine.tools.head.label>头部</OE_Slime_Neutroamine.tools.head.label>
+
+<!--=============== 啤酒 ====================-->
+<OE_Slime_Beer.label>啤酒史莱姆</OE_Slime_Beer.label>
+<OE_Slime_Beer.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n啤酒史莱姆生产类型，每5天生产25个啤酒。</OE_Slime_Beer.description>
+<OE_Slime_Beer.tools.mouth.label>嘴</OE_Slime_Beer.tools.mouth.label>
+<OE_Slime_Beer.tools.head.label>头部</OE_Slime_Beer.tools.head.label>
+
+<!--=============== 血原质 ====================-->
+<OE_Slime_Hemogen.label>血原质史莱姆</OE_Slime_Hemogen.label>
+<OE_Slime_Hemogen.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n血原质史莱姆生产类型，每2天生产3个血原质。</OE_Slime_Hemogen.description>
+<OE_Slime_Hemogen.tools.mouth.label>嘴</OE_Slime_Hemogen.tools.mouth.label>
+<OE_Slime_Hemogen.tools.head.label>头部</OE_Slime_Hemogen.tools.head.label>
+
+<!--=============== 动物血原质 ====================-->
+<OE_Slime_HemogenAnimal.label>动物血原质史莱姆</OE_Slime_HemogenAnimal.label>
+<OE_Slime_HemogenAnimal.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n动物血原质史莱姆生产类型，每2天生产4个动物血原质。</OE_Slime_HemogenAnimal.description>
+<OE_Slime_HemogenAnimal.tools.mouth.label>嘴</OE_Slime_HemogenAnimal.tools.mouth.label>
+<OE_Slime_HemogenAnimal.tools.head.label>头部</OE_Slime_HemogenAnimal.tools.head.label>
+
+<!--=============== 尸体血原质 ====================-->
+<OE_Slime_HemogenCorpse.label>尸体血原质史莱姆</OE_Slime_HemogenCorpse.label>
+<OE_Slime_HemogenCorpse.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n尸体血原质史莱姆生产类型，每2天生产5个尸体血原质。</OE_Slime_HemogenCorpse.description>
+<OE_Slime_HemogenCorpse.tools.mouth.label>嘴</OE_Slime_HemogenCorpse.tools.mouth.label>
+<OE_Slime_HemogenCorpse.tools.head.label>头部</OE_Slime_HemogenCorpse.tools.head.label>
+
+<!--=============== 嗜血者血原质 ====================-->
+<OE_Slime_HemogenSanguophage.label>嗜血者血原质史莱姆</OE_Slime_HemogenSanguophage.label>
+<OE_Slime_HemogenSanguophage.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n嗜血者血原质史莱姆生产类型，每2天生产3个嗜血者血原质。</OE_Slime_HemogenSanguophage.description>
+<OE_Slime_HemogenSanguophage.tools.mouth.label>嘴</OE_Slime_HemogenSanguophage.tools.mouth.label>
+<OE_Slime_HemogenSanguophage.tools.head.label>头部</OE_Slime_HemogenSanguophage.tools.head.label>
+
+<!--=============== 岩石类型 ====================-->
+<!--=============== 钢铁 ====================-->
+<OE_Slime_Steel.label>钢铁史莱姆</OE_Slime_Steel.label>
+<OE_Slime_Steel.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n钢铁史莱姆生产类型，每10天生产150个钢铁。</OE_Slime_Steel.description>
+<OE_Slime_Steel.tools.mouth.label>嘴</OE_Slime_Steel.tools.mouth.label>
+<OE_Slime_Steel.tools.head.label>头部</OE_Slime_Steel.tools.head.label>
+
+<!--=============== 黄金 ====================-->
+<OE_Slime_Gold.label>黄金史莱姆</OE_Slime_Gold.label>
+<OE_Slime_Gold.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n黄金史莱姆生产类型，每18天生产40个黄金。</OE_Slime_Gold.description>
+<OE_Slime_Gold.tools.mouth.label>嘴</OE_Slime_Gold.tools.mouth.label>
+<OE_Slime_Gold.tools.head.label>头部</OE_Slime_Gold.tools.head.label>
+
+<!--=============== 白银 ====================-->
+<OE_Slime_Silver.label>白银史莱姆</OE_Slime_Silver.label>
+<OE_Slime_Silver.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n白银史莱姆生产类型，每10天生产100个白银。</OE_Slime_Silver.description>
+<OE_Slime_Silver.tools.mouth.label>嘴</OE_Slime_Silver.tools.mouth.label>
+<OE_Slime_Silver.tools.head.label>头部</OE_Slime_Silver.tools.head.label>
+
+<!--=============== 铀 ====================-->
+<OE_Slime_Uranium.label>铀史莱姆</OE_Slime_Uranium.label>
+<OE_Slime_Uranium.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n铀史莱姆生产类型，每10天生产45个铀。</OE_Slime_Uranium.description>
+<OE_Slime_Uranium.tools.mouth.label>嘴</OE_Slime_Uranium.tools.mouth.label>
+<OE_Slime_Uranium.tools.head.label>头部</OE_Slime_Uranium.tools.head.label>
+
+<!--=============== 玉石 ====================-->
+<OE_Slime_Jade.label>玉石史莱姆</OE_Slime_Jade.label>
+<OE_Slime_Jade.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n玉石史莱姆生产类型，每18天生产30个玉石。</OE_Slime_Jade.description>
+<OE_Slime_Jade.tools.mouth.label>嘴</OE_Slime_Jade.tools.mouth.label>
+<OE_Slime_Jade.tools.head.label>头部</OE_Slime_Jade.tools.head.label>
+
+<!--=============== 黑曜石 ====================-->
+<OE_Slime_Obsidian.label>黑曜石史莱姆</OE_Slime_Obsidian.label>
+<OE_Slime_Obsidian.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n黑曜石史莱姆生产类型，每10天生产30个黑曜石。</OE_Slime_Obsidian.description>
+<OE_Slime_Obsidian.tools.mouth.label>嘴</OE_Slime_Obsidian.tools.mouth.label>
+<OE_Slime_Obsidian.tools.head.label>头部</OE_Slime_Obsidian.tools.head.label>
+
+<!--=============== 秘银 ====================-->
+<OE_Slime_Mythril.label>秘银史莱姆</OE_Slime_Mythril.label>
+<OE_Slime_Mythril.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n秘银史莱姆生产类型，每18天生产20个秘银。</OE_Slime_Mythril.description>
+<OE_Slime_Mythril.tools.mouth.label>嘴</OE_Slime_Mythril.tools.mouth.label>
+<OE_Slime_Mythril.tools.head.label>头部</OE_Slime_Mythril.tools.head.label>
+
+<!--=============== 铂金 ====================-->
+<OE_Slime_Platinum.label>铂金史莱姆</OE_Slime_Platinum.label>
+<OE_Slime_Platinum.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n铂金史莱姆生产类型，每10天生产30个铂金。</OE_Slime_Platinum.description>
+<OE_Slime_Platinum.tools.mouth.label>嘴</OE_Slime_Platinum.tools.mouth.label>
+<OE_Slime_Platinum.tools.head.label>头部</OE_Slime_Platinum.tools.head.label>
+
+<!--=============== 合成素 ====================-->
+<OE_Slime_Syntherius.label>合成素史莱姆</OE_Slime_Syntherius.label>
+<OE_Slime_Syntherius.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n合成素史莱姆生产类型，每12天生产3个合成素。</OE_Slime_Syntherius.description>
+<OE_Slime_Syntherius.tools.mouth.label>嘴</OE_Slime_Syntherius.tools.mouth.label>
+<OE_Slime_Syntherius.tools.head.label>头部</OE_Slime_Syntherius.tools.head.label>
+
+<!--=============== 精金 ====================-->
+<OE_Slime_Eltex.label>精金史莱姆</OE_Slime_Eltex.label>
+<OE_Slime_Eltex.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n精金史莱姆生产类型，每18天生产5个精金。</OE_Slime_Eltex.description>
+<OE_Slime_Eltex.tools.mouth.label>嘴</OE_Slime_Eltex.tools.mouth.label>
+<OE_Slime_Eltex.tools.head.label>头部</OE_Slime_Eltex.tools.head.label>
+
+<!--=============== 罪恶合成素 ====================-->
+<OE_Slime_SyntheriusOfSin.label>罪恶合成素史莱姆</OE_Slime_SyntheriusOfSin.label>
+<OE_Slime_SyntheriusOfSin.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n合成素史莱姆生产类型，每30天生产1个罪恶合成素。</OE_Slime_SyntheriusOfSin.description>
+<OE_Slime_SyntheriusOfSin.tools.mouth.label>嘴</OE_Slime_SyntheriusOfSin.tools.mouth.label>
+<OE_Slime_SyntheriusOfSin.tools.head.label>头部</OE_Slime_SyntheriusOfSin.tools.head.label>
+
+<!--=============== 生物铁 ====================-->
+<OE_Slime_Bioferrite.label>生物铁史莱姆</OE_Slime_Bioferrite.label>
+<OE_Slime_Bioferrite.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n生物铁史莱姆生产类型，每10天生产50个生物铁。</OE_Slime_Bioferrite.description>
+<OE_Slime_Bioferrite.tools.mouth.label>嘴</OE_Slime_Bioferrite.tools.mouth.label>
+<OE_Slime_Bioferrite.tools.head.label>头部</OE_Slime_Bioferrite.tools.head.label>
+
+<!--=============== 花卉类型 ====================-->
+<!--=============== 草药 ====================-->
+<OE_Slime_Herbal.label>草药史莱姆</OE_Slime_Herbal.label>
+<OE_Slime_Herbal.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n草药史莱姆生产类型，每12天生产3个草药。</OE_Slime_Herbal.description>
+<OE_Slime_Herbal.tools.mouth.label>嘴</OE_Slime_Herbal.tools.mouth.label>
+<OE_Slime_Herbal.tools.head.label>头部</OE_Slime_Herbal.tools.head.label>
+
+<!--=============== 仙馐果 ====================-->
+<OE_Slime_Ambrosia.label>仙馐果史莱姆</OE_Slime_Ambrosia.label>
+<OE_Slime_Ambrosia.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n仙馐果史莱姆生产类型，每12天生产15个仙馐果。</OE_Slime_Ambrosia.description>
+<OE_Slime_Ambrosia.tools.mouth.label>嘴</OE_Slime_Ambrosia.tools.mouth.label>
+<OE_Slime_Ambrosia.tools.head.label>头部</OE_Slime_Ambrosia.tools.head.label>
+
+<!--=============== 蘑菇 ====================-->
+<OE_Slime_Fungus.label>蘑菇史莱姆</OE_Slime_Fungus.label>
+<OE_Slime_Fungus.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n蘑菇史莱姆生产类型，每12天生产35个生蘑菇。</OE_Slime_Fungus.description>
+<OE_Slime_Fungus.tools.mouth.label>嘴</OE_Slime_Fungus.tools.mouth.label>
+<OE_Slime_Fungus.tools.head.label>头部</OE_Slime_Fungus.tools.head.label>
+
+<!--=============== 聚能果 ====================-->
+<OE_Slime_Jumy.label>聚能果史莱姆</OE_Slime_Jumy.label>
+<OE_Slime_Jumy.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n聚能果史莱姆生产类型，每12天生产15个聚能果。</OE_Slime_Jumy.description>
+<OE_Slime_Jumy.tools.mouth.label>嘴</OE_Slime_Jumy.tools.mouth.label>
+<OE_Slime_Jumy.tools.head.label>头部</OE_Slime_Jumy.tools.head.label>
+
+<!--=============== 葡萄 ====================-->
+<OE_Slime_Grape.label>葡萄史莱姆</OE_Slime_Grape.label>
+<OE_Slime_Grape.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n葡萄史莱姆生产类型，每12天生产10个葡萄。</OE_Slime_Grape.description>
+<OE_Slime_Grape.tools.mouth.label>嘴</OE_Slime_Grape.tools.mouth.label>
+<OE_Slime_Grape.tools.head.label>头部</OE_Slime_Grape.tools.head.label>
+
+<!--=============== 战斗类型 ====================-->
+<!--=============== 骨头 ====================-->
+<OE_Slime_Bone.label>骨头史莱姆</OE_Slime_Bone.label>
+<OE_Slime_Bone.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n骨头史莱姆战斗类型，具有增强训练的智力。</OE_Slime_Bone.description>
+<OE_Slime_Bone.tools.mouth.label>嘴</OE_Slime_Bone.tools.mouth.label>
+<OE_Slime_Bone.tools.head.label>头部</OE_Slime_Bone.tools.head.label>
+
+<!--=============== 酸性 ====================-->
+<OE_Slime_Demon_Acid.label>酸性恶魔史莱姆</OE_Slime_Demon_Acid.label>
+<OE_Slime_Demon_Acid.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n酸性恶魔史莱姆远程战斗类型，具有增强训练的智力。</OE_Slime_Demon_Acid.description>
+<OE_Slime_Demon_Acid.tools.mouth.label>嘴</OE_Slime_Demon_Acid.tools.mouth.label>
+<OE_Slime_Demon_Acid.tools.head.label>头部</OE_Slime_Demon_Acid.tools.head.label>
+<OE_Slime_Demon_Acid.verbs.acid_energy_ball.label>酸性能量球</OE_Slime_Demon_Acid.verbs.acid_energy_ball.label>
+<Bullet_Slime_Acid.label>酸性能量球</Bullet_Slime_Acid.label>
+
+<!--=============== 冰霜 ====================-->
+<OE_Slime_Demon_Cryo.label>冰霜恶魔史莱姆</OE_Slime_Demon_Cryo.label>
+<OE_Slime_Demon_Cryo.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n冰霜恶魔史莱姆远程战斗类型，具有增强训练的智力。</OE_Slime_Demon_Cryo.description>
+<OE_Slime_Demon_Cryo.tools.mouth.label>嘴</OE_Slime_Demon_Cryo.tools.mouth.label>
+<OE_Slime_Demon_Cryo.tools.head.label>头部</OE_Slime_Demon_Cryo.tools.head.label>
+<OE_Slime_Demon_Cryo.verbs.cryo_energy_ball.label>冰霜能量球</OE_Slime_Demon_Cryo.verbs.cryo_energy_ball.label>
+<Bullet_Slime_Cryo.label>冰霜能量球</Bullet_Slime_Cryo.label>
+
+<!--=============== 火焰 ====================-->
+<OE_Slime_Demon_Fire.label>火焰恶魔史莱姆</OE_Slime_Demon_Fire.label>
+<OE_Slime_Demon_Fire.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n火焰恶魔史莱姆远程战斗类型，具有增强训练的智力。</OE_Slime_Demon_Fire.description>
+<OE_Slime_Demon_Fire.tools.mouth.label>嘴</OE_Slime_Demon_Fire.tools.mouth.label>
+<OE_Slime_Demon_Fire.tools.head.label>头部</OE_Slime_Demon_Fire.tools.head.label>
+<OE_Slime_Demon_Fire.verbs.fire_energy_ball.label>火焰能量球</OE_Slime_Demon_Fire.verbs.fire_energy_ball.label>
+<Bullet_Slime_Fire.label>火焰能量球</Bullet_Slime_Fire.label>
+
+<!--=============== EMP ====================-->
+<OE_Slime_Demon_EMP.label>EMP恶魔史莱姆</OE_Slime_Demon_EMP.label>
+<OE_Slime_Demon_EMP.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\nEMP恶魔史莱姆远程战斗类型，具有增强训练的智力。</OE_Slime_Demon_EMP.description>
+<OE_Slime_Demon_EMP.tools.mouth.label>嘴</OE_Slime_Demon_EMP.tools.mouth.label>
+<OE_Slime_Demon_EMP.tools.head.label>头部</OE_Slime_Demon_EMP.tools.head.label>
+<OE_Slime_Demon_EMP.verbs.EMP_energy_ball.label>EMP能量球</OE_Slime_Demon_EMP.verbs.EMP_energy_ball.label>
+<Bullet_Slime_EMP.label>EMP能量球</Bullet_Slime_EMP.label>
+
+<!--=============== 毒性 ====================-->
+<OE_Slime_Demon_Toxic.label>毒性恶魔史莱姆</OE_Slime_Demon_Toxic.label>
+<OE_Slime_Demon_Toxic.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n毒性恶魔史莱姆远程战斗类型，具有增强训练的智力。</OE_Slime_Demon_Toxic.description>
+<OE_Slime_Demon_Toxic.tools.mouth.label>嘴</OE_Slime_Demon_Toxic.tools.mouth.label>
+<OE_Slime_Demon_Toxic.tools.head.label>头部</OE_Slime_Demon_Toxic.tools.head.label>
+<OE_Slime_Demon_Toxic.verbs.toxic_energy_ball.label>毒性能量球</OE_Slime_Demon_Toxic.verbs.toxic_energy_ball.label>
+<Bullet_Slime_Toxic.label>毒性能量球</Bullet_Slime_Toxic.label>
+
+<!--=============== 特殊类型 ====================-->
+<!--=============== 古代 ====================-->
+<OE_Slime_Ancient.label>古代史莱姆</OE_Slime_Ancient.label>
+<OE_Slime_Ancient.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n古代史莱姆 - 未配置的无目的史莱姆，也许在屠宰它时，你能发现史莱姆创造的秘密。</OE_Slime_Ancient.description>
+<OE_Slime_Ancient.tools.mouth.label>嘴</OE_Slime_Ancient.tools.mouth.label>
+<OE_Slime_Ancient.tools.head.label>头部</OE_Slime_Ancient.tools.head.label>
+
+<!--=============== 废料 ====================-->
+<OE_Slime_Waste.label>废料史莱姆</OE_Slime_Waste.label>
+<OE_Slime_Waste.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n废料史莱姆特殊类型，已发展出食用有毒废料包的能力。</OE_Slime_Waste.description>
+<OE_Slime_Waste.tools.mouth.label>嘴</OE_Slime_Waste.tools.mouth.label>
+<OE_Slime_Waste.tools.head.label>头部</OE_Slime_Waste.tools.head.label>
+
+<!--=============== 伙伴工人 ====================-->
+<OE_Slime_Companion_Worker.label>工人伙伴史莱姆</OE_Slime_Companion_Worker.label>
+<OE_Slime_Companion_Worker.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n工人伙伴史莱姆特殊类型，已发展出增强与其绑定的任何人工作技能的能力。不幸的是，作为副作用，当伙伴史莱姆的绑定主人死亡时，史莱姆也会死亡。</OE_Slime_Companion_Worker.description>
+<OE_Slime_Companion_Worker.tools.mouth.label>嘴</OE_Slime_Companion_Worker.tools.mouth.label>
+<OE_Slime_Companion_Worker.tools.head.label>头部</OE_Slime_Companion_Worker.tools.head.label>
+
+<!--=============== 伙伴战斗 ====================-->
+<OE_Slime_Companion_Battle.label>战斗伙伴史莱姆</OE_Slime_Companion_Battle.label>
+<OE_Slime_Companion_Battle.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n战斗伙伴史莱姆特殊类型，已发展出增强与其绑定的任何人战斗技能的能力。不幸的是，作为副作用，当伙伴史莱姆的绑定主人死亡时，史莱姆也会死亡。</OE_Slime_Companion_Battle.description>
+<OE_Slime_Companion_Battle.tools.mouth.label>嘴</OE_Slime_Companion_Battle.tools.mouth.label>
+<OE_Slime_Companion_Battle.tools.head.label>头部</OE_Slime_Companion_Battle.tools.head.label>
+
+<!--=============== 伙伴心灵 ====================-->
+<OE_Slime_Companion_Anima.label>心灵伙伴史莱姆</OE_Slime_Companion_Anima.label>
+<OE_Slime_Companion_Anima.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n心灵伙伴史莱姆特殊类型，已发展出增强与其绑定的任何人心灵力量的能力。不幸的是，作为副作用，当伙伴史莱姆的绑定主人死亡时，史莱姆也会死亡。</OE_Slime_Companion_Anima.description>
+<OE_Slime_Companion_Anima.tools.mouth.label>嘴</OE_Slime_Companion_Anima.tools.mouth.label>
+<OE_Slime_Companion_Anima.tools.head.label>头部</OE_Slime_Companion_Anima.tools.head.label>
+
+<!--=============== 搬运工 ====================-->
+<OE_Slime_Hauler.label>搬运工史莱姆</OE_Slime_Hauler.label>
+<OE_Slime_Hauler.description>史莱姆 - 一种融合生命形式，被开发作为黑曜石扩展的必要材料的替代来源。\n\n搬运工史莱姆包类型，具有高智力和卓越的携带能力。</OE_Slime_Hauler.description>
+<OE_Slime_Hauler.tools.mouth.label>嘴</OE_Slime_Hauler.tools.mouth.label>
+<OE_Slime_Hauler.tools.head.label>头部</OE_Slime_Hauler.tools.head.label>
+
+</LanguageData>

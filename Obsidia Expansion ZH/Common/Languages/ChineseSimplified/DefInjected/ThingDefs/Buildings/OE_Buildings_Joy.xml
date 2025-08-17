@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Broken Drill ====================-->
+<OE_JoyTable.label>边缘大亨桌</OE_JoyTable.label>
+<OE_JoyTable.description>一张专为玩黑曜石棋盘游戏而设计的桌子，玩家在游戏中平衡工会和劳动力市场，以成为最伟大的边缘大亨！</OE_JoyTable.description>
+
+<!--=============== Rimotroops Arcade Machine ====================-->
+<OE_JoyArcadeMachine.label>稀有街机"边缘部队"</OE_JoyArcadeMachine.label>
+<OE_JoyArcadeMachine.description>古老的稀有黑曜石街机，安装了边缘部队游戏。</OE_JoyArcadeMachine.description>
+
+</LanguageData>

@@ -1,197 +1,197 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
-<!--=============== 原版 ====================-->
-<!--=============== 平民 ====================-->
-<OECivilian.degreeDatas.handyman.label>多面手</OECivilian.degreeDatas.handyman.label>
-<OECivilian.degreeDatas.handyman.description>{PAWN_nameDef}是一个天生的{PAWN_pronoun}。{PAWN_nameDef}比其他人更聪明，工作更努力。</OECivilian.degreeDatas.handyman.description>
+<!--=============== Vanilla ====================-->
+<!--=============== Civilian ====================-->
+<OECivilian.degreeDatas.handyman.label>handyman</OECivilian.degreeDatas.handyman.label>
+<OECivilian.degreeDatas.handyman.description>{PAWN_nameDef} is a natural {PAWN_pronoun}. {PAWN_nameDef} is smart and work harder than others.</OECivilian.degreeDatas.handyman.description>
 
-<!--=============== 士兵 ====================-->
-<OESoldier.degreeDatas.trained.label>训练有素</OESoldier.degreeDatas.trained.label>
-<OESoldier.degreeDatas.trained.description>经过多次训练，{PAWN_nameDef}学会了如何使用任何武器。</OESoldier.degreeDatas.trained.description>
+<!--=============== Soldier ====================-->
+<OESoldier.degreeDatas.trained.label>trained</OESoldier.degreeDatas.trained.label>
+<OESoldier.degreeDatas.trained.description>After many trainings, {PAWN_nameDef} learned how to use any weapon.</OESoldier.degreeDatas.trained.description>
 
-<!--=============== 游牧民 ====================-->
-<OENomad.degreeDatas.nomad.label>游牧民</OENomad.degreeDatas.nomad.label>
-<OENomad.degreeDatas.nomad.description>{PAWN_pronoun}习惯于少吃点食物，比其他人更快地获得足够的睡眠。</OENomad.degreeDatas.nomad.description>
+<!--=============== Nomad ====================-->
+<OENomad.degreeDatas.nomad.label>nomad</OENomad.degreeDatas.nomad.label>
+<OENomad.degreeDatas.nomad.description>{PAWN_pronoun}'s are used to eating less food and getting enough sleep faster than others.</OENomad.degreeDatas.nomad.description>
 
-<!--=============== 邪教徒 ====================-->
-<OECultist.degreeDatas.spiritual.label>灵性</OECultist.degreeDatas.spiritual.label>
-<OECultist.degreeDatas.spiritual.description>{PAWN_nameDef}拥有不可动摇的意志和能够承受任何考验的身体。</OECultist.degreeDatas.spiritual.description>
+<!--=============== Cultist ====================-->
+<OECultist.degreeDatas.spiritual.label>spiritual</OECultist.degreeDatas.spiritual.label>
+<OECultist.degreeDatas.spiritual.description>{PAWN_nameDef} has an unshakable will and body capable of withstanding any test.</OECultist.degreeDatas.spiritual.description>
 
-<!--=============== 幻影 ====================-->
-<OEEidolon.degreeDatas.proudly.label>自豪</OEEidolon.degreeDatas.proudly.label>
-<OEEidolon.degreeDatas.proudly.description>{PAWN_nameDef}作为沐浴在荣耀中的英雄。</OEEidolon.degreeDatas.proudly.description>
+<!--=============== Eidolon ====================-->
+<OEEidolon.degreeDatas.proudly.label>proudly</OEEidolon.degreeDatas.proudly.label>
+<OEEidolon.degreeDatas.proudly.description>{PAWN_nameDef} as a hero bathed in glory.</OEEidolon.degreeDatas.proudly.description>
 
-<!--=============== 不稳定 ====================-->
-<!--=============== 催化剂 ====================-->
-<OEUnstableCatalyst.degreeDatas.unstable_catalyst.label>不稳定催化剂</OEUnstableCatalyst.degreeDatas.unstable_catalyst.label>
-<OEUnstableCatalyst.degreeDatas.unstable_catalyst.description>一股不稳定的 force 在{PAWN_nameDef}体内涌动。当被推到边缘时，{PAWN_pronoun}可能会爆发出 brilliance 或 chaos 的浪潮。\n有75%的概率精神崩溃会触发随机灵感。</OEUnstableCatalyst.degreeDatas.unstable_catalyst.description>
-<OEUnstableCatalyst.degreeDatas.unstable_catalyst.mentalBreakInspirationGainReasonText>受不稳定能量驱动，[PAWN_nameIndef]释放出未驯服的潜能。</OEUnstableCatalyst.degreeDatas.unstable_catalyst.mentalBreakInspirationGainReasonText>
+<!--=============== Unstable ====================-->
+<!--=============== Catalyst ====================-->
+<OEUnstableCatalyst.degreeDatas.unstable_catalyst.label>unstable catalyst</OEUnstableCatalyst.degreeDatas.unstable_catalyst.label>
+<OEUnstableCatalyst.degreeDatas.unstable_catalyst.description>A volatile force stirs within {PAWN_nameDef}. When pushed to the edge, {PAWN_pronoun} may erupt with a surge of brilliance—or chaos.\nThere is a 75% chance that a mental break will trigger a random Inspiration.</OEUnstableCatalyst.degreeDatas.unstable_catalyst.description>
+<OEUnstableCatalyst.degreeDatas.unstable_catalyst.mentalBreakInspirationGainReasonText>Driven by unstable energy, [PAWN_nameIndef] unlocks untamed potential.</OEUnstableCatalyst.degreeDatas.unstable_catalyst.mentalBreakInspirationGainReasonText>
 
-<!--=============== 劳工 ====================-->
-<OEUnstableLaborer.degreeDatas.unstable_laborer.label>不稳定劳工</OEUnstableLaborer.degreeDatas.unstable_laborer.label>
-<OEUnstableLaborer.degreeDatas.unstable_laborer.description>{PAWN_nameDef}将{PAWN_pronoun}自己推向极限，以巨大的心理代价追逐短暂的生产力火花。\n有50%的概率精神崩溃会触发工作狂热。</OEUnstableLaborer.degreeDatas.unstable_laborer.description>
-<OEUnstableLaborer.degreeDatas.unstable_laborer.mentalBreakInspirationGainReasonText>受内心混乱驱动，[PAWN_nameIndef]进入疯狂的工作狂热状态。</OEUnstableLaborer.degreeDatas.unstable_laborer.mentalBreakInspirationGainReasonText>
+<!--=============== Laborer ====================-->
+<OEUnstableLaborer.degreeDatas.unstable_laborer.label>unstable laborer</OEUnstableLaborer.degreeDatas.unstable_laborer.label>
+<OEUnstableLaborer.degreeDatas.unstable_laborer.description>{PAWN_nameDef} pushes {PAWN_pronoun}self to extremes, chasing fleeting sparks of productivity at great mental cost.\nThere is a 50% chance that a mental break will trigger a Work Frenzy.</OEUnstableLaborer.degreeDatas.unstable_laborer.description>
+<OEUnstableLaborer.degreeDatas.unstable_laborer.mentalBreakInspirationGainReasonText>Driven by inner chaos, [PAWN_nameIndef] enters a manic work frenzy.</OEUnstableLaborer.degreeDatas.unstable_laborer.mentalBreakInspirationGainReasonText>
 
-<!--=============== 漂泊者 ====================-->
-<OEUnstableWanderer.degreeDatas.unstable_wanderer.label>不稳定漂泊者</OEUnstableWanderer.degreeDatas.unstable_wanderer.label>
-<OEUnstableWanderer.degreeDatas.unstable_wanderer.description>不安且难以预测，{PAWN_nameDef}在快速而无目的的运动中找到清晰的时刻。\n有50%的概率精神崩溃会触发行走狂热。</OEUnstableWanderer.degreeDatas.unstable_wanderer.description>
-<OEUnstableWanderer.degreeDatas.unstable_wanderer.mentalBreakInspirationGainReasonText>被混乱压倒，[PAWN_nameIndef]感到一种不可抗拒的移动冲动。</OEUnstableWanderer.degreeDatas.unstable_wanderer.mentalBreakInspirationGainReasonText>
+<!--=============== Wanderer ====================-->
+<OEUnstableWanderer.degreeDatas.unstable_wanderer.label>unstable wanderer</OEUnstableWanderer.degreeDatas.unstable_wanderer.label>
+<OEUnstableWanderer.degreeDatas.unstable_wanderer.description>Restless and unpredictable, {PAWN_nameDef} finds moments of clarity in rapid, purposeless motion.\nThere is a 50% chance that a mental break will trigger a Go Frenzy.</OEUnstableWanderer.degreeDatas.unstable_wanderer.description>
+<OEUnstableWanderer.degreeDatas.unstable_wanderer.mentalBreakInspirationGainReasonText>Overwhelmed by turmoil, [PAWN_nameIndef] feels an irresistible urge to move.</OEUnstableWanderer.degreeDatas.unstable_wanderer.mentalBreakInspirationGainReasonText>
 
-<!--=============== 神射手 ====================-->
-<OEUnstableMarksman.degreeDatas.unstable_marksman.label>不稳定神射手</OEUnstableMarksman.degreeDatas.unstable_marksman.label>
-<OEUnstableMarksman.degreeDatas.unstable_marksman.description>在不稳定的时候，{PAWN_nameDef}的专注力变得敏锐，将混乱转化为致命的精准度。\n有50%的概率精神崩溃会触发射击狂热。</OEUnstableMarksman.degreeDatas.unstable_marksman.description>
-<OEUnstableMarksman.degreeDatas.unstable_marksman.mentalBreakInspirationGainReasonText>在疯狂的边缘骑行，[PAWN_nameIndef]变得令人不安地准确。</OEUnstableMarksman.degreeDatas.unstable_marksman.mentalBreakInspirationGainReasonText>
+<!--=============== Marksman ====================-->
+<OEUnstableMarksman.degreeDatas.unstable_marksman.label>unstable marksman</OEUnstableMarksman.degreeDatas.unstable_marksman.label>
+<OEUnstableMarksman.degreeDatas.unstable_marksman.description>In moments of instability, {PAWN_nameDef}'s focus sharpens, turning chaos into deadly precision.\nThere is a 50% chance that a mental break will trigger a Shooting Frenzy.</OEUnstableMarksman.degreeDatas.unstable_marksman.description>
+<OEUnstableMarksman.degreeDatas.unstable_marksman.mentalBreakInspirationGainReasonText>Riding the edge of madness, [PAWN_nameIndef] becomes unnervingly accurate with ranged weapons.</OEUnstableMarksman.degreeDatas.unstable_marksman.mentalBreakInspirationGainReasonText>
 
-<!--=============== 商人 ====================-->
-<OEUnstableTrader.degreeDatas.unstable_trader.label>不稳定商人</OEUnstableTrader.degreeDatas.unstable_trader.label>
-<OEUnstableTrader.degreeDatas.unstable_trader.description>{PAWN_nameDef}破碎的心灵偶尔会闪现出商业天才。\n有50%的概率精神崩溃会触发灵感交易。</OEUnstableTrader.degreeDatas.unstable_trader.description>
-<OEUnstableTrader.degreeDatas.unstable_trader.mentalBreakInspirationGainReasonText>通过不稳定的状态，[PAWN_nameIndef]瞥见了精彩的谈判瞬间。</OEUnstableTrader.degreeDatas.unstable_trader.mentalBreakInspirationGainReasonText>
+<!--=============== Trader ====================-->
+<OEUnstableTrader.degreeDatas.unstable_trader.label>unstable trader</OEUnstableTrader.degreeDatas.unstable_trader.label>
+<OEUnstableTrader.degreeDatas.unstable_trader.description>{PAWN_nameDef}'s fractured mind occasionally strikes upon strokes of commercial genius.\nThere is a 50% chance that a mental break will trigger a Inspired Trade.</OEUnstableTrader.degreeDatas.unstable_trader.description>
+<OEUnstableTrader.degreeDatas.unstable_trader.mentalBreakInspirationGainReasonText>Through the haze of instability, [PAWN_nameIndef] glimpses a moment of brilliant negotiation.</OEUnstableTrader.degreeDatas.unstable_trader.mentalBreakInspirationGainReasonText>
 
-<!--=============== 魅惑者 ====================-->
-<OEUnstableCharmer.degreeDatas.unstable_charmer.label>不稳定魅惑者</OEUnstableCharmer.degreeDatas.unstable_charmer.label>
-<OEUnstableCharmer.degreeDatas.unstable_charmer.description>{PAWN_nameDef}的不稳定能量使{PAWN_pronoun}在最奇怪的时候变得异常有说服力。\n有50%的概率精神崩溃会触发灵感招募。</OEUnstableCharmer.degreeDatas.unstable_charmer.description>
-<OEUnstableCharmer.degreeDatas.unstable_charmer.mentalBreakInspirationGainReasonText>凭借不稳定的信念，[PAWN_nameIndef]获得了影响他人的魅力。</OEUnstableCharmer.degreeDatas.unstable_charmer.mentalBreakInspirationGainReasonText>
+<!--=============== Charmer ====================-->
+<OEUnstableCharmer.degreeDatas.unstable_charmer.label>unstable charmer</OEUnstableCharmer.degreeDatas.unstable_charmer.label>
+<OEUnstableCharmer.degreeDatas.unstable_charmer.description>{PAWN_nameDef}'s erratic energy makes {PAWN_pronoun} strangely persuasive at the strangest times.\nThere is a 50% chance that a mental break will trigger a Inspired Recruitment.</OEUnstableCharmer.degreeDatas.unstable_charmer.description>
+<OEUnstableCharmer.degreeDatas.unstable_charmer.mentalBreakInspirationGainReasonText>With unstable conviction, [PAWN_nameIndef] gains the charm to sway others.</OEUnstableCharmer.degreeDatas.unstable_charmer.mentalBreakInspirationGainReasonText>
 
-<!--=============== 低语者 ====================-->
-<OEUnstableWhisperer.degreeDatas.unstable_whisperer.label>不稳定低语者</OEUnstableWhisperer.degreeDatas.unstable_whisperer.label>
-<OEUnstableWhisperer.degreeDatas.unstable_whisperer.description>{PAWN_nameDef}的不稳定光环奇怪地与动物产生共鸣，即使只是片刻。\n有50%的概率精神崩溃会触发灵感驯服。</OEUnstableWhisperer.degreeDatas.unstable_whisperer.description>
-<OEUnstableWhisperer.degreeDatas.unstable_whisperer.mentalBreakInspirationGainReasonText>受混乱驱使，[PAWN_nameIndef]暂时与自然的生物建立了深刻的联系。</OEUnstableWhisperer.degreeDatas.unstable_whisperer.mentalBreakInspirationGainReasonText>
+<!--=============== Whisperer ====================-->
+<OEUnstableWhisperer.degreeDatas.unstable_whisperer.label>unstable whisperer</OEUnstableWhisperer.degreeDatas.unstable_whisperer.label>
+<OEUnstableWhisperer.degreeDatas.unstable_whisperer.description>{PAWN_nameDef}'s volatile aura oddly resonates with animals, if only for a moment.\nThere is a 50% chance that a mental break will trigger a Inspired Taming.</OEUnstableWhisperer.degreeDatas.unstable_whisperer.description>
+<OEUnstableWhisperer.degreeDatas.unstable_whisperer.mentalBreakInspirationGainReasonText>Driven by turmoil, [PAWN_nameIndef] momentarily connects deeply with nature's creatures.</OEUnstableWhisperer.degreeDatas.unstable_whisperer.mentalBreakInspirationGainReasonText>
 
-<!--=============== 外科医生 ====================-->
-<OEUnstableSurgeon.degreeDatas.unstable_surgeon.label>不稳定外科医生</OEUnstableSurgeon.degreeDatas.unstable_surgeon.label>
-<OEUnstableSurgeon.degreeDatas.unstable_surgeon.description>在 madness 和 clarity 之间罕见的平衡中，{PAWN_nameDef} performing 医学奇迹。\n有50%的概率精神崩溃会触发灵感手术。</OEUnstableSurgeon.degreeDatas.unstable_surgeon.description>
-<OEUnstableSurgeon.degreeDatas.unstable_surgeon.mentalBreakInspirationGainReasonText>受绝望驱使，[PAWN_nameIndef]实现了外科完美。</OEUnstableSurgeon.degreeDatas.unstable_surgeon.mentalBreakInspirationGainReasonText>
+<!--=============== Surgeon ====================-->
+<OEUnstableSurgeon.degreeDatas.unstable_surgeon.label>unstable surgeon</OEUnstableSurgeon.degreeDatas.unstable_surgeon.label>
+<OEUnstableSurgeon.degreeDatas.unstable_surgeon.description>In a rare balance between madness and clarity, {PAWN_nameDef} performs medical miracles.\nThere is a 50% chance that a mental break will trigger a Inspired Surgery.</OEUnstableSurgeon.degreeDatas.unstable_surgeon.description>
+<OEUnstableSurgeon.degreeDatas.unstable_surgeon.mentalBreakInspirationGainReasonText>Compelled by desperation, [PAWN_nameIndef] achieves surgical perfection.</OEUnstableSurgeon.degreeDatas.unstable_surgeon.mentalBreakInspirationGainReasonText>
 
-<!--=============== 创造者 ====================-->
-<OEUnstableCreator.degreeDatas.unstable_creator.label>不稳定创造者</OEUnstableCreator.degreeDatas.unstable_creator.label>
-<OEUnstableCreator.degreeDatas.unstable_creator.description>从{PAWN_pronoun}心灵的风暴中，爆发出艺术 brilliance。\n有50%的概率精神崩溃会触发灵感创造力。</OEUnstableCreator.degreeDatas.unstable_creator.description>
-<OEUnstableCreator.degreeDatas.unstable_creator.mentalBreakInspirationGainReasonText>受内心混乱启发，[PAWN_nameIndef]变得创造性地势不可挡。</OEUnstableCreator.degreeDatas.unstable_creator.mentalBreakInspirationGainReasonText>
+<!--=============== Creator ====================-->
+<OEUnstableCreator.degreeDatas.unstable_creator.label>unstable creator</OEUnstableCreator.degreeDatas.unstable_creator.label>
+<OEUnstableCreator.degreeDatas.unstable_creator.description>From the storm in {PAWN_pronoun} mind, bursts of artistic brilliance emerge.\nThere is a 50% chance that a mental break will trigger a Inspired Creativity.</OEUnstableCreator.degreeDatas.unstable_creator.description>
+<OEUnstableCreator.degreeDatas.unstable_creator.mentalBreakInspirationGainReasonText>Inspired by inner chaos, [PAWN_nameIndef] becomes creatively unstoppable.</OEUnstableCreator.degreeDatas.unstable_creator.mentalBreakInspirationGainReasonText>
 
-<!--=============== 技能精通 ====================-->
-<OESkillsMastery.degreeDatas.golden_soul.label>黄金灵魂</OESkillsMastery.degreeDatas.golden_soul.label>
-<OESkillsMastery.degreeDatas.golden_soul.description>{PAWN_nameDef}身上有些特别的东西——在每项事业中都有一丝天赋的金光。</OESkillsMastery.degreeDatas.golden_soul.description>
+<!--=============== Skills Mastery ====================-->
+<OESkillsMastery.degreeDatas.golden_soul.label>golden soul</OESkillsMastery.degreeDatas.golden_soul.label>
+<OESkillsMastery.degreeDatas.golden_soul.description>There’s something exceptional in {PAWN_nameDef} - a golden spark of talent in every endeavor.</OESkillsMastery.degreeDatas.golden_soul.description>
 
-<OESkillsMastery.degreeDatas.faded_spark.label>褪色火花</OESkillsMastery.degreeDatas.faded_spark.label>
-<OESkillsMastery.degreeDatas.faded_spark.description>曾经充满希望，{PAWN_nameDef}现在走在一条更暗淡的路上，努力达到期望。</OESkillsMastery.degreeDatas.faded_spark.description>
+<OESkillsMastery.degreeDatas.faded_spark.label>faded spark</OESkillsMastery.degreeDatas.faded_spark.label>
+<OESkillsMastery.degreeDatas.faded_spark.description>Once full of promise, {PAWN_nameDef} now walks a dimmer path, struggling to meet expectations.</OESkillsMastery.degreeDatas.faded_spark.description>
 
-<!--=============== 技能质量 ====================-->
-<!--=============== 采矿 ====================-->
-<OEQualityMining.degreeDatas.vein_whisperer.label>矿脉低语者</OEQualityMining.degreeDatas.vein_whisperer.label>
-<OEQualityMining.degreeDatas.vein_whisperer.description>{PAWN_nameDef}以 uncanny 的精准度提取财富，尽管从不匆忙。</OEQualityMining.degreeDatas.vein_whisperer.description>
+<!--=============== Skills Quality ====================-->
+<!--=============== Mining ====================-->
+<OEQualityMining.degreeDatas.vein_whisperer.label>vein whisperer</OEQualityMining.degreeDatas.vein_whisperer.label>
+<OEQualityMining.degreeDatas.vein_whisperer.description>{PAWN_nameDef} extracts riches with uncanny precision, though never in a hurry.</OEQualityMining.degreeDatas.vein_whisperer.description>
 
-<OEQualityMining.degreeDatas.tunnel_dancer.label>隧道舞者</OEQualityMining.degreeDatas.tunnel_dancer.label>
-<OEQualityMining.degreeDatas.tunnel_dancer.description>{PAWN_nameDef}快速而无畏地挖掘，但经常留下价值。</OEQualityMining.degreeDatas.tunnel_dancer.description>
+<OEQualityMining.degreeDatas.tunnel_dancer.label>tunnel dancer</OEQualityMining.degreeDatas.tunnel_dancer.label>
+<OEQualityMining.degreeDatas.tunnel_dancer.description>{PAWN_nameDef} digs fast and fearlessly, but often leaves value behind.</OEQualityMining.degreeDatas.tunnel_dancer.description>
 
-<!--=============== 烹饪 ====================-->
-<OEQualityCooking.degreeDatas.careful_chef.label>细心厨师</OEQualityCooking.degreeDatas.careful_chef.label>
-<OEQualityCooking.degreeDatas.careful_chef.description>{PAWN_nameDef}重视每顿饭的安全和质量，即使需要更长的时间。</OEQualityCooking.degreeDatas.careful_chef.description>
+<!--=============== Cooking ====================-->
+<OEQualityCooking.degreeDatas.careful_chef.label>careful chef</OEQualityCooking.degreeDatas.careful_chef.label>
+<OEQualityCooking.degreeDatas.careful_chef.description>{PAWN_nameDef} values safety and quality in every meal, even if it takes a little longer.</OEQualityCooking.degreeDatas.careful_chef.description>
 
-<OEQualityCooking.degreeDatas.blazing_cook.label>火爆厨师</OEQualityCooking.degreeDatas.blazing_cook.label>
-<OEQualityCooking.degreeDatas.blazing_cook.description>在厨房里快速，{PAWN_nameDef}偏爱速度而不是谨慎。</OEQualityCooking.degreeDatas.blazing_cook.description>
+<OEQualityCooking.degreeDatas.blazing_cook.label>blazing cook</OEQualityCooking.degreeDatas.blazing_cook.label>
+<OEQualityCooking.degreeDatas.blazing_cook.description>Quick in the kitchen, {PAWN_nameDef} favors speed over caution.</OEQualityCooking.degreeDatas.blazing_cook.description>
 
-<!--=============== 植物 ====================-->
-<OEQualityPlants.degreeDatas.gentle_harvester.label>温柔收割者</OEQualityPlants.degreeDatas.gentle_harvester.label>
-<OEQualityPlants.degreeDatas.gentle_harvester.description>{PAWN_nameDef}以关怀培育每一株作物，但以 measured 的步伐照料田地。</OEQualityPlants.degreeDatas.gentle_harvester.description>
+<!--=============== Plants ====================-->
+<OEQualityPlants.degreeDatas.gentle_harvester.label>gentle harvester</OEQualityPlants.degreeDatas.gentle_harvester.label>
+<OEQualityPlants.degreeDatas.gentle_harvester.description>{PAWN_nameDef} nurtures every crop with care, but tends the fields at a measured pace.</OEQualityPlants.degreeDatas.gentle_harvester.description>
 
-<OEQualityPlants.degreeDatas.swift_planter.label>迅捷种植者</OEQualityPlants.degreeDatas.swift_planter.label>
-<OEQualityPlants.degreeDatas.swift_planter.description>{PAWN_nameDef}用 swift 的手工作，尽管一些收成会受到影响。</OEQualityPlants.degreeDatas.swift_planter.description>
+<OEQualityPlants.degreeDatas.swift_planter.label>swift planter</OEQualityPlants.degreeDatas.swift_planter.label>
+<OEQualityPlants.degreeDatas.swift_planter.description>{PAWN_nameDef} works the land with swift hands, though some harvests suffer.</OEQualityPlants.degreeDatas.swift_planter.description>
 
-<!--=============== 动物 ====================-->
-<OEQualityAnimals.degreeDatas.careful_handler.label>细心处理者</OEQualityAnimals.degreeDatas.careful_handler.label>
-<OEQualityAnimals.degreeDatas.careful_handler.description>{PAWN_nameDef}花时间正确照顾动物，经常从每只动物身上收集更多。</OEQualityAnimals.degreeDatas.careful_handler.description>
+<!--=============== Animals ====================-->
+<OEQualityAnimals.degreeDatas.careful_handler.label>careful handler</OEQualityAnimals.degreeDatas.careful_handler.label>
+<OEQualityAnimals.degreeDatas.careful_handler.description>{PAWN_nameDef} takes time to care for animals properly, often gathering more from each creature.</OEQualityAnimals.degreeDatas.careful_handler.description>
 
-<OEQualityAnimals.degreeDatas.efficient_handler.label>高效处理者</OEQualityAnimals.degreeDatas.efficient_handler.label>
-<OEQualityAnimals.degreeDatas.efficient_handler.description>{PAWN_nameDef}在从动物身上收集资源时工作迅速，但可能会留下一些资源。</OEQualityAnimals.degreeDatas.efficient_handler.description>
+<OEQualityAnimals.degreeDatas.efficient_handler.label>efficient handler</OEQualityAnimals.degreeDatas.efficient_handler.label>
+<OEQualityAnimals.degreeDatas.efficient_handler.description>{PAWN_nameDef} works quickly when gathering from animals, but may leave some resources behind.</OEQualityAnimals.degreeDatas.efficient_handler.description>
 
-<!--=============== 钓鱼 - VFE ====================-->
-<OEFishermanVCEF.degreeDatas.deep_catcher.label>深水捕手</OEFishermanVCEF.degreeDatas.deep_catcher.label>
-<OEFishermanVCEF.degreeDatas.deep_catcher.description>{PAWN_nameDef}钓鱼时小心专注，经常每次抛竿都能钓到更多。</OEFishermanVCEF.degreeDatas.deep_catcher.description>
+<!--=============== Fishing - VFE ====================-->
+<OEFishermanVCEF.degreeDatas.deep_catcher.label>deep catcher</OEFishermanVCEF.degreeDatas.deep_catcher.label>
+<OEFishermanVCEF.degreeDatas.deep_catcher.description>{PAWN_nameDef} fishes with care and focus, often reeling in more with every cast.</OEFishermanVCEF.degreeDatas.deep_catcher.description>
 
-<OEFishermanVCEF.degreeDatas.quick_hook.label>快速鱼钩</OEFishermanVCEF.degreeDatas.quick_hook.label>
-<OEFishermanVCEF.degreeDatas.quick_hook.description>{PAWN_nameDef}抛竿快速且频繁，尽管有些鱼可能会逃脱。</OEFishermanVCEF.degreeDatas.quick_hook.description>
+<OEFishermanVCEF.degreeDatas.quick_hook.label>quick hook</OEFishermanVCEF.degreeDatas.quick_hook.label>
+<OEFishermanVCEF.degreeDatas.quick_hook.description>{PAWN_nameDef} casts fast and often, though some fish may slip the hook.</OEFishermanVCEF.degreeDatas.quick_hook.description>
 
-<!--=============== 贵族 ====================-->
-<!--=============== 灵血 ====================-->
-<OEPsyBlood.degreeDatas.noble_blood.label>贵族血统</OEPsyBlood.degreeDatas.noble_blood.label>
-<OEPsyBlood.degreeDatas.noble_blood.description>{PAWN_nameDef}古老贵族家族的继承人。{PAWN_pronoun}的存在赋予了 psy 能力的天赋。</OEPsyBlood.degreeDatas.noble_blood.description>
+<!--=============== Royalty ====================-->
+<!--=============== Psy Blood ====================-->
+<OEPsyBlood.degreeDatas.noble_blood.label>noble blood</OEPsyBlood.degreeDatas.noble_blood.label>
+<OEPsyBlood.degreeDatas.noble_blood.description>{PAWN_nameDef} heir to an ancient and noble family. The presence of {PAWN_pronoun} gives an innate talent for psy abilities.</OEPsyBlood.degreeDatas.noble_blood.description>
 
-<!--=============== 僧侣 ====================-->
-<OEPsyMonk.degreeDatas.monk.label>僧侣</OEPsyMonk.degreeDatas.monk.label>
-<OEPsyMonk.degreeDatas.monk.description>{PAWN_nameDef}在静止中找到不寻常的 clarity，从每次反思中汲取力量。</OEPsyMonk.degreeDatas.monk.description>
+<!--=============== Monk ====================-->
+<OEPsyMonk.degreeDatas.monk.label>monk</OEPsyMonk.degreeDatas.monk.label>
+<OEPsyMonk.degreeDatas.monk.description>{PAWN_nameDef} finds unusual clarity in stillness, drawing power from every moment of reflection.</OEPsyMonk.degreeDatas.monk.description>
 
-<!--=============== 灵能战士 ====================-->
-<OEPsyWarrior.degreeDatas.psywarrior.label>灵能战士</OEPsyWarrior.degreeDatas.psywarrior.label>
-<OEPsyWarrior.degreeDatas.psywarrior.description>战斗对{PAWN_nameDef}来说很自然，其攻击既具有身体力量又具有心灵力量。</OEPsyWarrior.degreeDatas.psywarrior.description>
+<!--=============== Psy Warrior ====================-->
+<OEPsyWarrior.degreeDatas.psywarrior.label>psy-warrior</OEPsyWarrior.degreeDatas.psywarrior.label>
+<OEPsyWarrior.degreeDatas.psywarrior.description>Battle comes naturally to {PAWN_nameDef}, whose strikes carry both physical strength and psychic force.</OEPsyWarrior.degreeDatas.psywarrior.description>
 
-<!--=============== 灵能神射手 ====================-->
-<OEPsyMarksman.degreeDatas.psymarksman.label>灵能神射手</OEPsyMarksman.degreeDatas.psymarksman.label>
-<OEPsyMarksman.degreeDatas.psymarksman.description>{PAWN_nameDef}的瞄准由稳定的手和敏锐的心灵感应引导。</OEPsyMarksman.degreeDatas.psymarksman.description>
+<!--=============== Psy Marksman ====================-->
+<OEPsyMarksman.degreeDatas.psymarksman.label>psy-marksman</OEPsyMarksman.degreeDatas.psymarksman.label>
+<OEPsyMarksman.degreeDatas.psymarksman.description>{PAWN_nameDef}'s aim is guided by both steady hands and a sharpened psychic sense.</OEPsyMarksman.degreeDatas.psymarksman.description>
 
-<!--=============== 意识形态 ====================-->
-<!--=============== 意识形态传播 ====================-->
-<OEIdeoSpread.degreeDatas.ardent_preacher.label>热心传教士</OEIdeoSpread.degreeDatas.ardent_preacher.label>
-<OEIdeoSpread.degreeDatas.ardent_preacher.description>{PAWN_nameDef}以炽热的热情传播信念——但有时燃烧得太热，甚至对{PAWN_pronoun}自己也是如此。</OEIdeoSpread.degreeDatas.ardent_preacher.description>
+<!--=============== Ideology ====================-->
+<!--=============== Ideology Spread ====================-->
+<OEIdeoSpread.degreeDatas.ardent_preacher.label>ardent preacher</OEIdeoSpread.degreeDatas.ardent_preacher.label>
+<OEIdeoSpread.degreeDatas.ardent_preacher.description>{PAWN_nameDef} spreads beliefs with burning zeal—but sometimes burns too hot, even for {PAWN_pronoun}self.</OEIdeoSpread.degreeDatas.ardent_preacher.description>
 
-<OEIdeoSpread.degreeDatas.quiet_soul.label>安静灵魂</OEIdeoSpread.degreeDatas.quiet_soul.label>
-<OEIdeoSpread.degreeDatas.quiet_soul.description>冷静而稳定，{PAWN_nameDef}很少引起冲突——但难以激发他人的 deep conviction。</OEIdeoSpread.degreeDatas.quiet_soul.description>
+<OEIdeoSpread.degreeDatas.quiet_soul.label>quiet soul</OEIdeoSpread.degreeDatas.quiet_soul.label>
+<OEIdeoSpread.degreeDatas.quiet_soul.description>Calm and steady, {PAWN_nameDef} rarely stirs conflict—but struggles to inspire deep conviction in others.</OEIdeoSpread.degreeDatas.quiet_soul.description>
 
-<!--=============== 意识形态力量 ====================-->
-<OEIdeoPower.degreeDatas.lawbringer.label>执法者</OEIdeoPower.degreeDatas.lawbringer.label>
-<OEIdeoPower.degreeDatas.lawbringer.description>以如装满子弹的步枪般的凝视，{PAWN_nameDef}将秩序带入混乱——但正义的负担很沉重。</OEIdeoPower.degreeDatas.lawbringer.description>
+<!--=============== Ideology Power ====================-->
+<OEIdeoPower.degreeDatas.lawbringer.label>lawbringer</OEIdeoPower.degreeDatas.lawbringer.label>
+<OEIdeoPower.degreeDatas.lawbringer.description>With a gaze like a loaded rifle, {PAWN_nameDef} brings order to chaos—but the burden of justice weighs heavy.</OEIdeoPower.degreeDatas.lawbringer.description>
 
-<OEIdeoPower.degreeDatas.softspoken_deputy.label>轻声副手</OEIdeoPower.degreeDatas.softspoken_deputy.label>
-<OEIdeoPower.degreeDatas.softspoken_deputy.description>{PAWN_nameDef}以轻柔的触感维持和平，避免冲突——但缺乏严厉执法的勇气。</OEIdeoPower.degreeDatas.softspoken_deputy.description>
+<OEIdeoPower.degreeDatas.softspoken_deputy.label>soft-spoken deputy</OEIdeoPower.degreeDatas.softspoken_deputy.label>
+<OEIdeoPower.degreeDatas.softspoken_deputy.description>{PAWN_nameDef} keeps the peace with a light touch, avoiding conflict—but lacks the grit to lay down the law.</OEIdeoPower.degreeDatas.softspoken_deputy.description>
 
-<!--=============== 意识形态黑客 ====================-->
-<OEIdeoHacking.degreeDatas.netrunner.label>网络行者</OEIdeoHacking.degreeDatas.netrunner.label>
-<OEIdeoHacking.degreeDatas.netrunner.description>{PAWN_nameDef}如水流般穿过防火墙和协议——比大多数人眨眼更快。</OEIdeoHacking.degreeDatas.netrunner.description>
+<!--=============== Ideology Hacking ====================-->
+<OEIdeoHacking.degreeDatas.netrunner.label>netrunner</OEIdeoHacking.degreeDatas.netrunner.label>
+<OEIdeoHacking.degreeDatas.netrunner.description>{PAWN_nameDef} flows through firewalls and protocols like water—faster than most can blink.</OEIdeoHacking.degreeDatas.netrunner.description>
 
-<OEIdeoHacking.degreeDatas.cyber_tinker.label>赛博修补匠</OEIdeoHacking.degreeDatas.cyber_tinker.label>
-<OEIdeoHacking.degreeDatas.cyber_tinker.description>好奇而聪明，{PAWN_nameDef}可以拆解系统并将其变得比以前更好——大多数时候。</OEIdeoHacking.degreeDatas.cyber_tinker.description>
+<OEIdeoHacking.degreeDatas.cyber_tinker.label>cyber tinker</OEIdeoHacking.degreeDatas.cyber_tinker.label>
+<OEIdeoHacking.degreeDatas.cyber_tinker.description>Curious and clever, {PAWN_nameDef} can pull systems apart and put them back better than before—most of the time.</OEIdeoHacking.degreeDatas.cyber_tinker.description>
 
-<OEIdeoHacking.degreeDatas.script_kiddie.label>脚本小子</OEIdeoHacking.degreeDatas.script_kiddie.label>
-<OEIdeoHacking.degreeDatas.script_kiddie.description>{PAWN_nameDef}只知道足够的知识来戳弄系统——但缺乏破解真正代码的能力。</OEIdeoHacking.degreeDatas.script_kiddie.description>
+<OEIdeoHacking.degreeDatas.script_kiddie.label>script kiddie</OEIdeoHacking.degreeDatas.script_kiddie.label>
+<OEIdeoHacking.degreeDatas.script_kiddie.description>{PAWN_nameDef} knows just enough to poke at systems—but lacks the chops to crack the real code.</OEIdeoHacking.degreeDatas.script_kiddie.description>
 
-<OEIdeoHacking.degreeDatas.terminal_hazard.label>终端危险</OEIdeoHacking.degreeDatas.terminal_hazard.label>
-<OEIdeoHacking.degreeDatas.terminal_hazard.description>当{PAWN_nameDef}触摸控制台时，只是时间问题，某样东西会严重损坏。</OEIdeoHacking.degreeDatas.terminal_hazard.description>
+<OEIdeoHacking.degreeDatas.terminal_hazard.label>terminal hazard</OEIdeoHacking.degreeDatas.terminal_hazard.label>
+<OEIdeoHacking.degreeDatas.terminal_hazard.description>When {PAWN_nameDef} touches a console, it’s only a matter of time before something breaks—badly.</OEIdeoHacking.degreeDatas.terminal_hazard.description>
 
-<!--=============== 生物技术 ====================-->
-<!--=============== 机械之爱 ====================-->
-<OEMechLove.degreeDatas.mech_fan.label>机械迷</OEMechLove.degreeDatas.mech_fan.label>
-<OEMechLove.degreeDatas.mech_fan.description>{PAWN_nameDef}是机械体的大粉丝。作为{PAWN_pronoun}可以控制更多的机械体。</OEMechLove.degreeDatas.mech_fan.description>
+<!--=============== Biotech ====================-->
+<!--=============== Mech Love ====================-->
+<OEMechLove.degreeDatas.mech_fan.label>mech fan</OEMechLove.degreeDatas.mech_fan.label>
+<OEMechLove.degreeDatas.mech_fan.description>{PAWN_nameDef} is a big fan of mechanoids. As a {PAWN_pronoun} can control a larger number of mechanoids.</OEMechLove.degreeDatas.mech_fan.description>
 
-<!--=============== 机械本能 ====================-->
-<OEMechInstinct.degreeDatas.mechtech_instinct.label>机械科技本能</OEMechInstinct.degreeDatas.mechtech_instinct.label>
-<OEMechInstinct.degreeDatas.mechtech_instinct.description>{PAWN_nameDef}与机械体合作仿佛天生如此，快速建造、调整和修复每个机械体。</OEMechInstinct.degreeDatas.mechtech_instinct.description>
+<!--=============== Mech Instinct ====================-->
+<OEMechInstinct.degreeDatas.mechtech_instinct.label>mechtech instinct</OEMechInstinct.degreeDatas.mechtech_instinct.label>
+<OEMechInstinct.degreeDatas.mechtech_instinct.description>{PAWN_nameDef} works with mechanoids as if born to it, quickly building, tuning, and restoring every mech.</OEMechInstinct.degreeDatas.mechtech_instinct.description>
 
-<!--=============== 异常 ====================-->
-<!--=============== 仪式专家 ====================-->
-<OERitualist.degreeDatas.ritual_master.label>仪式大师</OERitualist.degreeDatas.ritual_master.label>
-<OERitualist.degreeDatas.ritual_master.description>仪式 energize {PAWN_nameDef}，他以精准和激情执行仪式。</OERitualist.degreeDatas.ritual_master.description>
+<!--=============== Anomaly ====================-->
+<!--=============== Ritualist ====================-->
+<OERitualist.degreeDatas.ritual_master.label>ritual master</OERitualist.degreeDatas.ritual_master.label>
+<OERitualist.degreeDatas.ritual_master.description>Rituals energize {PAWN_nameDef}, who executes them with precision and passion.</OERitualist.degreeDatas.ritual_master.description>
 
-<OERitualist.degreeDatas.ceremonial_adept.label>仪式专家</OERitualist.degreeDatas.ceremonial_adept.label>
-<OERitualist.degreeDatas.ceremonial_adept.description>{PAWN_nameDef}高效且毫不犹豫地执行仪式。</OERitualist.degreeDatas.ceremonial_adept.description>
+<OERitualist.degreeDatas.ceremonial_adept.label>ceremonial adept</OERitualist.degreeDatas.ceremonial_adept.label>
+<OERitualist.degreeDatas.ceremonial_adept.description>{PAWN_nameDef} performs rituals efficiently and without hesitation.</OERitualist.degreeDatas.ceremonial_adept.description>
 
-<OERitualist.degreeDatas.unsteady_speaker.label>不稳定的演讲者</OERitualist.degreeDatas.unsteady_speaker.label>
-<OERitualist.degreeDatas.unsteady_speaker.description>仪式对{PAWN_nameDef}来说不自然，他经常在节奏中 falter。</OERitualist.degreeDatas.unsteady_speaker.description>
+<OERitualist.degreeDatas.unsteady_speaker.label>unsteady speaker</OERitualist.degreeDatas.unsteady_speaker.label>
+<OERitualist.degreeDatas.unsteady_speaker.description>Rituals don’t come naturally to {PAWN_nameDef}, who often falters in rhythm.</OERitualist.degreeDatas.unsteady_speaker.description>
 
-<OERitualist.degreeDatas.reluctant_vessel.label>不情愿的容器</OERitualist.degreeDatas.reluctant_vessel.label>
-<OERitualist.degreeDatas.reluctant_vessel.description>{PAWN_nameDef}厌恶神圣仪式并执行得很差。</OERitualist.degreeDatas.reluctant_vessel.description>
+<OERitualist.degreeDatas.reluctant_vessel.label>reluctant vessel</OERitualist.degreeDatas.reluctant_vessel.label>
+<OERitualist.degreeDatas.reluctant_vessel.description>{PAWN_nameDef} resents the sacred rites and performs them poorly.</OERitualist.degreeDatas.reluctant_vessel.description>
 
-<!--=============== 奥德赛 ====================-->
-<!--=============== 钓鱼 - 奥德赛 ====================-->
-<OEFisherman.degreeDatas.deep_catcher.label>深水捕手</OEFisherman.degreeDatas.deep_catcher.label>
-<OEFisherman.degreeDatas.deep_catcher.description>{PAWN_nameDef}钓鱼时小心专注，经常每次抛竿都能钓到更多。</OEFisherman.degreeDatas.deep_catcher.description>
+<!--=============== Odyssey ====================-->
+<!--=============== Fishing - Odyssey ====================-->
+<OEFisherman.degreeDatas.deep_catcher.label>deep catcher</OEFisherman.degreeDatas.deep_catcher.label>
+<OEFisherman.degreeDatas.deep_catcher.description>{PAWN_nameDef} fishes with care and focus, often reeling in more with every cast.</OEFisherman.degreeDatas.deep_catcher.description>
 
-<OEFisherman.degreeDatas.quick_hook.label>快速鱼钩</OEFisherman.degreeDatas.quick_hook.label>
-<OEFisherman.degreeDatas.quick_hook.description>{PAWN_nameDef}抛竿快速且频繁，尽管有些鱼可能会逃脱。</OEFisherman.degreeDatas.quick_hook.description>
+<OEFisherman.degreeDatas.quick_hook.label>quick hook</OEFisherman.degreeDatas.quick_hook.label>
+<OEFisherman.degreeDatas.quick_hook.description>{PAWN_nameDef} casts fast and often, though some fish may slip the hook.</OEFisherman.degreeDatas.quick_hook.description>
 
-<!--=============== 飞行能力 ====================-->
-<OEPilotingGood.degreeDatas.ace_pilot.label>王牌飞行员</OEPilotingGood.degreeDatas.ace_pilot.label>
-<OEPilotingGood.degreeDatas.ace_pilot.description>天生会飞，{PAWN_nameDef}把 even 最顽固的飞船变成跳舞的星鸟。</OEPilotingGood.degreeDatas.ace_pilot.description>
+<!--=============== Piloting Ability ====================-->
+<OEPilotingGood.degreeDatas.ace_pilot.label>ace pilot</OEPilotingGood.degreeDatas.ace_pilot.label>
+<OEPilotingGood.degreeDatas.ace_pilot.description>Born to fly, {PAWN_nameDef} turns even the most stubborn ship into a dancing starbird.</OEPilotingGood.degreeDatas.ace_pilot.description>
 
-<OEPilotingBad.degreeDatas.clumsy_flier.label>笨拙飞行员</OEPilotingBad.degreeDatas.clumsy_flier.label>
-<OEPilotingBad.degreeDatas.clumsy_flier.description>每次{PAWN_nameDef}触摸控制装置时，有人会检查逃生舱——以防万一。</OEPilotingBad.degreeDatas.clumsy_flier.description>
+<OEPilotingBad.degreeDatas.clumsy_flier.label>clumsy flier</OEPilotingBad.degreeDatas.clumsy_flier.label>
+<OEPilotingBad.degreeDatas.clumsy_flier.description>Every time {PAWN_nameDef} touches the controls, someone checks the escape pods-just in case.</OEPilotingBad.degreeDatas.clumsy_flier.description>
 
 </LanguageData>

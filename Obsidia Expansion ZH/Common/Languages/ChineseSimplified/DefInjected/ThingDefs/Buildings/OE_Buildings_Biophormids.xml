@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Biophormids - Hive ====================-->
+<OE_BiophormidsHive.label>生物形态蜂巢</OE_BiophormidsHive.label>
+<OE_BiophormidsHive.description>生物形态基因系巨型昆虫的蜂巢。如果激活，它会随着时间的推移生成额外的昆虫和蜂巢，以及珍贵的昆虫果冻。</OE_BiophormidsHive.description>
+
+<!--=============== Biophormids - Artificial Hive ====================-->
+<OE_ArtificialBiophormidsHive.label>人工生物形态蜂巢</OE_ArtificialBiophormidsHive.label>
+<OE_ArtificialBiophormidsHive.description>人工构建的巨型昆虫蜂巢。它能够随着时间的推移生成各种生物形态基因系昆虫体，以及一些昆虫果冻。它需要定期维护，而在彼此附近建造太多蜂巢会增加所需的维护量。</OE_ArtificialBiophormidsHive.description>
+
+<OE_ArtificialBiophormidsHive_Royal.label>人工皇家生物形态蜂巢</OE_ArtificialBiophormidsHive_Royal.label>
+<OE_ArtificialBiophormidsHive_Royal.description>人工构建的生物形态基因系昆虫体皇家蜂巢。与标准蜂巢不同，它专门随着时间的推移生成君主体，以及一些昆虫果冻。它需要定期维护，而在彼此附近建造太多蜂巢会增加所需的维护量。</OE_ArtificialBiophormidsHive_Royal.description>
+
+<!--=============== Biophormids - Thumper ====================-->
+<OE_Thumper_Monarchid.label>君主体重击器</OE_Thumper_Monarchid.label>
+<OE_Thumper_Monarchid.description>产生振动的重击装置。激活时，它开始发出强大的重击脉冲，这将吸引昆虫体君主体带着其护卫进行攻击。如果你能击败它，你可以从它的尸体上收集特殊的费洛核心。重击会使重击器不稳定，因此此建筑只能使用一次。</OE_Thumper_Monarchid.description>
+
+<OE_Thumper_Monarchid.comps.0.useLabel>激活重击器</OE_Thumper_Monarchid.comps.0.useLabel>
+
+</LanguageData>

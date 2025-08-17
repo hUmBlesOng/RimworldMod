@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<!--=============== 黑曜石雇佣兵帮派 - 派系 ====================-->
+  <ObsidiaMercenaryGangsNamerFaction.rulePack.rulesStrings>
+        <li>r_name(p=2)->[MGF][MGS][MGT]</li>
+        <li>r_name(p=2)->[MGF][MGS][MGT]</li>
+		<li>r_name(p=2)->[MGT]之[MGF][MGS]</li>
+		
+        <li>MGF->虚空</li>
+        <li>MGF->星坠</li>
+        <li>MGF->星云</li>
+        <li>MGF->黑暗地平线</li>
+		<li>MGF->天界</li>
+		<li>MGF->量子</li>
+		<li>MGF->恒星</li>
+		<li>MGF->幻影</li>
+		<li>MGF->新星</li>
+		<li>MGF->星影</li>
+		<li>MGF->黑日</li>
+		<li>MGF->深空</li>
+		<li>MGF->幽灵</li>
+		<li>MGF->银河</li>
+		<li>MGF->日蚀</li>
+		<li>MGF->太阳</li>
+		<li>MGF->星体</li>
+		<li>MGF->裂隙之子</li>
+		<li>MGF->太阳风</li>
+		<li>MGF->虚空之子</li>
+		<li>MGF->幽魂</li>
+		<li>MGF->星铸</li>
+		<li>MGF->宇宙</li>
+		<li>MGF->黄昏</li>
+		<li>MGF->暗星</li>
+		<li>MGF->脉冲星</li>
+		<li>MGF->深渊</li>
+		<li>MGF->星尘</li>
+		<li>MGF->暗光</li>
+		<li>MGF->太阳幻影</li>
+
+        <li>MGS->收割者</li>
+		<li>MGS->军团</li>
+		<li>MGS->狼群</li>
+		<li>MGS->联合</li>
+		<li>MGS->掠夺者</li>
+		<li>MGS->海盗</li>
+		<li>MGS->先锋</li>
+		<li>MGS->突击者</li>
+        <li>MGS->流亡者</li>
+        <li>MGS->利刃</li>
+		<li>MGS->特工</li>
+		<li>MGS->雇佣兵</li>
+		<li>MGS->猎人</li>
+		<li>MGS->掠夺者</li>
+		<li>MGS->流放者</li>
+		<li>MGS->漂泊者</li>
+		<li>MGS->船员</li>
+		<li>MGS->执法者</li>
+		<li>MGS->亡魂</li>
+		<li>MGS->流氓</li>
+		<li>MGS->游牧者</li>
+		<li>MGS->先锋</li>
+		<li>MGS->刺客</li>
+		<li>MGS->公司</li>
+		<li>MGS->掠夺者</li>
+		<li>MGS->叛徒</li>
+		<li>MGS->指挥</li>
+		<li>MGS->强盗</li>
+        <li>MGS->暗影</li>
+		
+		<li>MGT->帮派</li>
+		<li>MGT->氏族</li>
+		<li>MGT->卡特尔</li>
+		<li>MGT->组织</li>
+		<li>MGT->秘密结社</li>
+		<li>MGT->帮派</li>
+  </ObsidiaMercenaryGangsNamerFaction.rulePack.rulesStrings>
+
+</LanguageData>

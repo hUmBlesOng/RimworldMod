@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+<!--=============== Liquid Type ====================-->
+<!--=============== Honey ====================-->
+<OE_Slime_Honey.label>蜂蜜史莱姆</OE_Slime_Honey.label>
+<OE_Slime_Honey.labelPlural>蜂蜜史莱姆</OE_Slime_Honey.labelPlural>
+
+<!--=============== Jelly ====================-->
+<OE_Slime_Jelly.label>果冻史莱姆</OE_Slime_Jelly.label>
+<OE_Slime_Jelly.labelPlural>果冻史莱姆</OE_Slime_Jelly.labelPlural>
+
+<!--=============== Royal Jelly ====================-->
+<OE_Slime_RoyalJelly.label>蜂王浆史莱姆</OE_Slime_RoyalJelly.label>
+<OE_Slime_RoyalJelly.labelPlural>蜂王浆史莱姆</OE_Slime_RoyalJelly.labelPlural>
+
+<!--=============== Chemfuel ====================-->
+<OE_Slime_Chemfuel.label>化合燃料史莱姆</OE_Slime_Chemfuel.label>
+<OE_Slime_Chemfuel.labelPlural>化合燃料史莱姆</OE_Slime_Chemfuel.labelPlural>
+
+<!--=============== Neutroamine ====================-->
+<OE_Slime_Neutroamine.label>中性胺史莱姆</OE_Slime_Neutroamine.label>
+<OE_Slime_Neutroamine.labelPlural>中性胺史莱姆</OE_Slime_Neutroamine.labelPlural>
+
+<!--=============== Beer ====================-->
+<OE_Slime_Beer.label>啤酒史莱姆</OE_Slime_Beer.label>
+<OE_Slime_Beer.labelPlural>啤酒史莱姆</OE_Slime_Beer.labelPlural>
+
+<!--=============== Hemogen ====================-->
+<OE_Slime_Hemogen.label>血原质史莱姆</OE_Slime_Hemogen.label>
+<OE_Slime_Hemogen.labelPlural>血原质史莱姆</OE_Slime_Hemogen.labelPlural>
+
+<!--=============== Hemogen Animal ====================-->
+<OE_Slime_HemogenAnimal.label>动物血原质史莱姆</OE_Slime_HemogenAnimal.label>
+<OE_Slime_HemogenAnimal.labelPlural>动物血原质史莱姆</OE_Slime_HemogenAnimal.labelPlural>
+
+<!--=============== Hemogen Corpse ====================-->
+<OE_Slime_HemogenCorpse.label>尸体血原质史莱姆</OE_Slime_HemogenCorpse.label>
+<OE_Slime_HemogenCorpse.labelPlural>尸体血原质史莱姆</OE_Slime_HemogenCorpse.labelPlural>
+
+<!--=============== Hemogen Sanguophage ====================-->
+<OE_Slime_HemogenSanguophage.label>噬血者血原质史莱姆</OE_Slime_HemogenSanguophage.label>
+<OE_Slime_HemogenSanguophage.labelPlural>噬血者血原质史莱姆</OE_Slime_HemogenSanguophage.labelPlural>
+
+<!--=============== Rock Type ====================-->
+<!--=============== Steel ====================-->
+<OE_Slime_Steel.label>钢铁史莱姆</OE_Slime_Steel.label>
+<OE_Slime_Steel.labelPlural>钢铁史莱姆</OE_Slime_Steel.labelPlural>
+
+<!--=============== Gold ====================-->
+<OE_Slime_Gold.label>黄金史莱姆</OE_Slime_Gold.label>
+<OE_Slime_Gold.labelPlural>黄金史莱姆</OE_Slime_Gold.labelPlural>
+
+<!--=============== Silver ====================-->
+<OE_Slime_Silver.label>白银史莱姆</OE_Slime_Silver.label>
+<OE_Slime_Silver.labelPlural>白银史莱姆</OE_Slime_Silver.labelPlural>
+
+<!--=============== Uranium ====================-->
+<OE_Slime_Uranium.label>铀史莱姆</OE_Slime_Uranium.label>
+<OE_Slime_Uranium.labelPlural>铀史莱姆</OE_Slime_Uranium.labelPlural>
+
+<!--=============== Jade ====================-->
+<OE_Slime_Jade.label>玉石史莱姆</OE_Slime_Jade.label>
+<OE_Slime_Jade.labelPlural>玉石史莱姆</OE_Slime_Jade.labelPlural>
+
+<!--=============== Obsidian ====================-->
+<OE_Slime_Obsidian.label>黑曜石史莱姆</OE_Slime_Obsidian.label>
+<OE_Slime_Obsidian.labelPlural>黑曜石史莱姆</OE_Slime_Obsidian.labelPlural>
+
+<!--=============== Mythril ====================-->
+<OE_Slime_Mythril.label>秘银史莱姆</OE_Slime_Mythril.label>
+<OE_Slime_Mythril.labelPlural>秘银史莱姆</OE_Slime_Mythril.labelPlural>
+
+<!--=============== Platinum ====================-->
+<OE_Slime_Platinum.label>铂金史莱姆</OE_Slime_Platinum.label>
+<OE_Slime_Platinum.labelPlural>铂金史莱姆</OE_Slime_Platinum.labelPlural>
+
+<!--=============== Syntherius ====================-->
+<OE_Slime_Syntherius.label>合成史莱姆</OE_Slime_Syntherius.label>
+<OE_Slime_Syntherius.labelPlural>合成史莱姆</OE_Slime_Syntherius.labelPlural>
+
+<!--=============== Eltex ====================-->
+<OE_Slime_Eltex.label>灵质史莱姆</OE_Slime_Eltex.label>
+<OE_Slime_Eltex.labelPlural>灵质史莱姆</OE_Slime_Eltex.labelPlural>
+
+<!--=============== Syntherius of Sin ====================-->
+<OE_Slime_SyntheriusOfSin.label>罪恶合成史莱姆</OE_Slime_SyntheriusOfSin.label>
+<OE_Slime_SyntheriusOfSin.labelPlural>罪恶合成史莱姆</OE_Slime_SyntheriusOfSin.labelPlural>
+
+<!--=============== Bioferrite ====================-->
+<OE_Slime_Bioferrite.label>生物铁质史莱姆</OE_Slime_Bioferrite.label>
+<OE_Slime_Bioferrite.labelPlural>生物铁质史莱姆</OE_Slime_Bioferrite.labelPlural>
+
+<!--=============== Floral Type ====================-->
+<!--=============== Herbal ====================-->
+<OE_Slime_Herbal.label>草药史莱姆</OE_Slime_Herbal.label>
+<OE_Slime_Herbal.labelPlural>草药史莱姆</OE_Slime_Herbal.labelPlural>
+
+<!--=============== Ambrosia ====================-->
+<OE_Slime_Ambrosia.label>仙馐果史莱姆</OE_Slime_Ambrosia.label>
+<OE_Slime_Ambrosia.labelPlural>仙馐果史莱姆</OE_Slime_Ambrosia.labelPlural>
+
+<!--=============== Fungus ====================-->
+<OE_Slime_Fungus.label>真菌史莱姆</OE_Slime_Fungus.label>
+<OE_Slime_Fungus.labelPlural>真菌史莱姆</OE_Slime_Fungus.labelPlural>
+
+<!--=============== Jumy ====================-->
+<OE_Slime_Jumy.label>粘粘史莱姆</OE_Slime_Jumy.label>
+<OE_Slime_Jumy.labelPlural>粘粘史莱姆</OE_Slime_Jumy.labelPlural>
+
+<!--=============== Grape ====================-->
+<OE_Slime_Grape.label>葡萄史莱姆</OE_Slime_Grape.label>
+<OE_Slime_Grape.labelPlural>葡萄史莱姆</OE_Slime_Grape.labelPlural>
+
+<!--=============== Battle Types ====================-->
+<!--=============== Bone ====================-->
+<OE_Slime_Bone.label>骨质史莱姆</OE_Slime_Bone.label>
+<OE_Slime_Bone.labelPlural>骨质史莱姆</OE_Slime_Bone.labelPlural>
+
+<!--=============== Acid ====================-->
+<OE_Slime_Demon_Acid.label>酸液恶魔史莱姆</OE_Slime_Demon_Acid.label>
+<OE_Slime_Demon_Acid.labelPlural>酸液恶魔史莱姆</OE_Slime_Demon_Acid.labelPlural>
+
+<!--=============== Cryo ====================-->
+<OE_Slime_Demon_Cryo.label>冷冻恶魔史莱姆</OE_Slime_Demon_Cryo.label>
+<OE_Slime_Demon_Cryo.labelPlural>冷冻恶魔史莱姆</OE_Slime_Demon_Cryo.labelPlural>
+
+<!--=============== Fire ====================-->
+<OE_Slime_Demon_Fire.label>火焰恶魔史莱姆</OE_Slime_Demon_Fire.label>
+<OE_Slime_Demon_Fire.labelPlural>火焰恶魔史莱姆</OE_Slime_Demon_Fire.labelPlural>
+
+<!--=============== EMP ====================-->
+<OE_Slime_Demon_EMP.label>电磁恶魔史莱姆</OE_Slime_Demon_EMP.label>
+<OE_Slime_Demon_EMP.labelPlural>电磁恶魔史莱姆</OE_Slime_Demon_EMP.labelPlural>
+
+<!--=============== Toxic ====================-->
+<OE_Slime_Demon_Toxic.label>毒性恶魔史莱姆</OE_Slime_Demon_Toxic.label>
+<OE_Slime_Demon_Toxic.labelPlural>毒性恶魔史莱姆</OE_Slime_Demon_Toxic.labelPlural>
+
+<!--=============== Special Types ====================-->
+<!--=============== Ancient ====================-->
+<OE_Slime_Ancient.label>远古史莱姆</OE_Slime_Ancient.label>
+<OE_Slime_Ancient.labelPlural>远古史莱姆</OE_Slime_Ancient.labelPlural>
+
+<!--=============== Waste ====================-->
+<OE_Slime_Waste.label>废料史莱姆</OE_Slime_Waste.label>
+<OE_Slime_Waste.labelPlural>废料史莱姆</OE_Slime_Waste.labelPlural>
+
+<!--=============== Worker Companion ====================-->
+<OE_Slime_Companion_Worker.label>工作伙伴史莱姆</OE_Slime_Companion_Worker.label>
+<OE_Slime_Companion_Worker.labelPlural>工作伙伴史莱姆</OE_Slime_Companion_Worker.labelPlural>
+
+<!--=============== Battle Companion ====================-->
+<OE_Slime_Companion_Battle.label>战斗伙伴史莱姆</OE_Slime_Companion_Battle.label>
+<OE_Slime_Companion_Battle.labelPlural>战斗伙伴史莱姆</OE_Slime_Companion_Battle.labelPlural>
+
+<!--=============== Anima Companion ====================-->
+<OE_Slime_Companion_Anima.label>生命伙伴史莱姆</OE_Slime_Companion_Anima.label>
+<OE_Slime_Companion_Anima.labelPlural>生命伙伴史莱姆</OE_Slime_Companion_Anima.labelPlural>
+
+<!--=============== Hauler ====================-->
+<OE_Slime_Hauler.label>搬运史莱姆</OE_Slime_Hauler.label>
+<OE_Slime_Hauler.labelPlural>搬运史莱姆</OE_Slime_Hauler.labelPlural>
+
+</LanguageData>

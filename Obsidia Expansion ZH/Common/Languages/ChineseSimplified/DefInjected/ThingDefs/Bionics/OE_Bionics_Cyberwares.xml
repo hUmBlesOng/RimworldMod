@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== 躯干 ====================-->
+<!--=============== 网络组件 - 药物过滤器-基础 ====================-->
+<OE_CyberwareTorso_Drugfilter_Basic.label>网络组件 - 药物过滤器(基础)</OE_CyberwareTorso_Drugfilter_Basic.label>
+<OE_CyberwareTorso_Drugfilter_Basic.description>黑曜石网络组件是安装在人体内的技术，有时能够与神经系统接口。其目标是实现更高的性能并防止宿主感受到未沉迷于成瘾品的任何负面副作用。仅适用于基础药物。\n\n安装需要 - 网络组件接口。\n\n该网络组件最多可安装3次以增强其效果。</OE_CyberwareTorso_Drugfilter_Basic.description>
+<OE_CyberwareTorso_Drugfilter_Basic.comps.CompUsableImplant.useLabel>植入 {0_label}</OE_CyberwareTorso_Drugfilter_Basic.comps.CompUsableImplant.useLabel>
+<!--=============== 网络组件 - 药物过滤器-黑曜石 ====================-->
+<OE_CyberwareTorso_Drugfilter_Obsidia.label>网络组件 - 药物过滤器(黑曜石)</OE_CyberwareTorso_Drugfilter_Obsidia.label>
+<OE_CyberwareTorso_Drugfilter_Obsidia.description>黑曜石网络组件是安装在人体内的技术，有时能够与神经系统接口。其目标是实现更高的性能并防止宿主感受到未沉迷于成瘾品的任何负面副作用。仅适用于黑曜石药物。\n\n安装需要 - 网络组件接口。\n\n该网络组件最多可安装3次以增强其效果。</OE_CyberwareTorso_Drugfilter_Obsidia.description>
+<OE_CyberwareTorso_Drugfilter_Obsidia.comps.CompUsableImplant.useLabel>植入 {0_label}</OE_CyberwareTorso_Drugfilter_Obsidia.comps.CompUsableImplant.useLabel>
+<!--=============== 网络组件 - 药物过滤器-异域 ====================-->
+<OE_CyberwareTorso_Drugfilter_Exotic.label>网络组件 - 药物过滤器(异域)</OE_CyberwareTorso_Drugfilter_Exotic.label>
+<OE_CyberwareTorso_Drugfilter_Exotic.description>黑曜石网络组件是安装在人体内的技术，有时能够与神经系统接口。其目标是实现更高的性能并防止宿主感受到未沉迷于成瘾品的任何负面副作用。仅适用于稀有异域药物。\n\n安装需要 - 网络组件接口。\n\n该网络组件最多可安装3次以增强其效果。</OE_CyberwareTorso_Drugfilter_Exotic.description>
+<OE_CyberwareTorso_Drugfilter_Exotic.comps.CompUsableImplant.useLabel>植入 {0_label}</OE_CyberwareTorso_Drugfilter_Exotic.comps.CompUsableImplant.useLabel>
+<!--=============== 网络组件 - 温度 ====================-->
+<OE_CyberwareTorso_Temperature.label>网络组件 - 温度保护器</OE_CyberwareTorso_Temperature.label>
+<OE_CyberwareTorso_Temperature.description>黑曜石网络组件是安装在人体内的技术，有时能够与神经系统接口。其目标是实现更高的性能并带来新的增强舒适温度。\n\n安装需要 - 网络组件接口。\n\n该网络组件最多可安装5次以增强其效果。</OE_CyberwareTorso_Temperature.description>
+<OE_CyberwareTorso_Temperature.comps.CompUsableImplant.useLabel>植入 {0_label}</OE_CyberwareTorso_Temperature.comps.CompUsableImplant.useLabel>
+
+<!--=============== 头部 ====================-->
+<!--=============== 网络组件 - 远程 ====================-->
+<OE_CyberwareHead_Ranged.label>网络组件 - 远程</OE_CyberwareHead_Ranged.label>
+<OE_CyberwareHead_Ranged.description>黑曜石网络组件是安装在人体内的技术，有时能够与神经系统接口。其目标是实现更高的性能并带来远程战斗的新增强。\n\n安装需要 - 网络组件接口。\n\n该网络组件最多可安装3次以增强其效果。</OE_CyberwareHead_Ranged.description>
+<OE_CyberwareHead_Ranged.comps.CompUsableImplant.useLabel>植入 {0_label}</OE_CyberwareHead_Ranged.comps.CompUsableImplant.useLabel>
+<!--=============== 网络组件 - 近战 ====================-->
+<OE_CyberwareHead_Melee.label>网络组件 - 近战</OE_CyberwareHead_Melee.label>
+<OE_CyberwareHead_Melee.description>黑曜石网络组件是安装在人体内的技术，有时能够与神经系统接口。其目标是实现更高的性能并带来近战战斗的新增强。\n\n安装需要 - 网络组件接口。\n\n该网络组件最多可安装3次以增强其效果。</OE_CyberwareHead_Melee.description>
+<OE_CyberwareHead_Melee.comps.CompUsableImplant.useLabel>植入 {0_label}</OE_CyberwareHead_Melee.comps.CompUsableImplant.useLabel>
+<!--=============== 网络组件 - 心灵 ====================-->
+<OE_CyberwareHead_Psy.label>网络组件 - 心灵</OE_CyberwareHead_Psy.label>
+<OE_CyberwareHead_Psy.description>黑曜石网络组件是安装在人体内的技术，有时能够与神经系统接口。其目标是实现更高的性能并带来心灵能力的新增强。\n\n安装需要 - 网络组件接口。\n\n该网络组件最多可安装3次以增强其效果。</OE_CyberwareHead_Psy.description>
+<OE_CyberwareHead_Psy.comps.CompUsableImplant.useLabel>植入 {0_label}</OE_CyberwareHead_Psy.comps.CompUsableImplant.useLabel>
+<!--=============== 网络组件 - 乐观主义者 ====================-->
+<OE_CyberwareHead_Optimist.label>网络组件 - 乐观主义者</OE_CyberwareHead_Optimist.label>
+<OE_CyberwareHead_Optimist.description>黑曜石网络组件是安装在人体内的技术，有时能够与神经系统接口。其目标是实现更高的性能并改善情绪。\n\n安装需要 - 网络组件接口。\n\n该网络组件最多可安装3次以增强其效果。</OE_CyberwareHead_Optimist.description>
+<OE_CyberwareHead_Optimist.comps.CompUsableImplant.useLabel>植入 {0_label}</OE_CyberwareHead_Optimist.comps.CompUsableImplant.useLabel>
+<!--=============== 网络组件 - 悲观主义者 ====================-->
+<OE_CyberwareHead_Pessimist.label>网络组件 - 悲观主义者</OE_CyberwareHead_Pessimist.label>
+<OE_CyberwareHead_Pessimist.description>黑曜石网络组件是安装在人体内的技术，有时能够与神经系统接口。其目标是实现更高的性能并恶化情绪。\n\n安装需要 - 网络组件接口。\n\n该网络组件最多可安装3次以增强其效果。</OE_CyberwareHead_Pessimist.description>
+<OE_CyberwareHead_Pessimist.comps.CompUsableImplant.useLabel>植入 {0_label}</OE_CyberwareHead_Pessimist.comps.CompUsableImplant.useLabel>
+<!--=============== 网络组件 - 锻炼 ====================-->
+<OE_CyberwareHead_Workout.label>网络组件 - 锻炼</OE_CyberwareHead_Workout.label>
+<OE_CyberwareHead_Workout.description>黑曜石网络组件是安装在人体内的技术，有时能够与神经系统接口。其目标是实现更高的性能并改善工作速度。\n\n安装需要 - 网络组件接口。\n\n该网络组件最多可安装3次以增强其效果。</OE_CyberwareHead_Workout.description>
+<OE_CyberwareHead_Workout.comps.CompUsableImplant.useLabel>植入 {0_label}</OE_CyberwareHead_Workout.comps.CompUsableImplant.useLabel>
+<!--=============== 网络组件 - 放松 ====================-->
+<OE_CyberwareHead_Relaxing.label>网络组件 - 放松</OE_CyberwareHead_Relaxing.label>
+<OE_CyberwareHead_Relaxing.description>黑曜石网络组件是安装在人体内的技术，有时能够与神经系统接口。其目标是实现更高的性能并改善学习速度。\n\n安装需要 - 网络组件接口。\n\n该网络组件最多可安装3次以增强其效果。</OE_CyberwareHead_Relaxing.description>
+<OE_CyberwareHead_Relaxing.comps.CompUsableImplant.useLabel>植入 {0_label}</OE_CyberwareHead_Relaxing.comps.CompUsableImplant.useLabel>
+<!--=============== 网络组件 - 黑曜石意志 ====================-->
+<OE_CyberwareNeck_ObsidianWill.label>网络组件 - 黑曜石意志</OE_CyberwareNeck_ObsidianWill.label>
+<OE_CyberwareNeck_ObsidianWill.description>黑曜石网络组件是安装在人体内的技术，有时能够与神经系统接口。其目标是实现更高的性能并改善精神崩溃阈值。\n\n安装需要 - 网络组件接口。\n\n该网络组件最多可安装10次以增强其效果。</OE_CyberwareNeck_ObsidianWill.description>
+<OE_CyberwareNeck_ObsidianWill.comps.CompUsableImplant.useLabel>植入 {0_label}</OE_CyberwareNeck_ObsidianWill.comps.CompUsableImplant.useLabel>
+
+<!--=============== 颈部 ====================-->
+<!--=============== 网络组件 - 社交 ====================-->
+<OE_CyberwareNeck_Social.label>网络组件 - 社交</OE_CyberwareNeck_Social.label>
+<OE_CyberwareNeck_Social.description>黑曜石网络组件是安装在人体内的技术，有时能够与神经系统接口。其目标是实现更高的性能并带来社交技能的新增强。\n\n安装需要 - 网络组件接口。\n\n该网络组件最多可安装5次以增强其效果。</OE_CyberwareNeck_Social.description>
+<OE_CyberwareNeck_Social.comps.CompUsableImplant.useLabel>植入 {0_label}</OE_CyberwareNeck_Social.comps.CompUsableImplant.useLabel>
+<!--=============== 网络组件 - 驯兽师 ====================-->
+<OE_CyberwareNeck_Beastmaster.label>网络组件 - 驯兽师</OE_CyberwareNeck_Beastmaster.label>
+<OE_CyberwareNeck_Beastmaster.description>黑曜石网络组件是安装在人体内的技术，有时能够与神经系统接口。其目标是实现更高的性能并带来动物技能的新增强。\n\n安装需要 - 网络组件接口。\n\n该网络组件最多可安装5次以增强其效果。</OE_CyberwareNeck_Beastmaster.description>
+<OE_CyberwareNeck_Beastmaster.comps.CompUsableImplant.useLabel>植入 {0_label}</OE_CyberwareNeck_Beastmaster.comps.CompUsableImplant.useLabel>
+<!--=============== 网络组件 - 商人 ====================-->
+<OE_CyberwareNeck_Trader.label>网络组件 - 商人</OE_CyberwareNeck_Trader.label>
+<OE_CyberwareNeck_Trader.description>黑曜石网络组件是安装在人体内的技术，有时能够与神经系统接口。其目标是实现更高的性能并带来贸易技能的新增强。\n\n安装需要 - 网络组件接口。\n\n该网络组件最多可安装5次以增强其效果。</OE_CyberwareNeck_Trader.description>
+<OE_CyberwareNeck_Trader.comps.CompUsableImplant.useLabel>植入 {0_label}</OE_CyberwareNeck_Trader.comps.CompUsableImplant.useLabel>
+<!--=============== 网络组件 - 招募者 ====================-->
+<OE_CyberwareNeck_Recruiter.label>网络组件 - 招募者</OE_CyberwareNeck_Recruiter.label>
+<OE_CyberwareNeck_Recruiter.description>黑曜石网络组件是安装在人体内的技术，有时能够与神经系统接口。其目标是实现更高的性能并带来招募技能的新增强。\n\n安装需要 - 网络组件接口。\n\n该网络组件最多可安装5次以增强其效果。</OE_CyberwareNeck_Recruiter.description>
+<OE_CyberwareNeck_Recruiter.comps.CompUsableImplant.useLabel>植入 {0_label}</OE_CyberwareNeck_Recruiter.comps.CompUsableImplant.useLabel>
+<!--=============== 网络组件 - 意识形态家 ====================-->
+<OE_CyberwareNeck_Ideologist.label>网络组件 - 意识形态家</OE_CyberwareNeck_Ideologist.label>
+<OE_CyberwareNeck_Ideologist.description>黑曜石网络组件是安装在人体内的技术，有时能够与神经系统接口。其目标是实现更高的性能并带来意识形态技能的新增强。\n\n安装需要 - 网络组件接口。\n\n该网络组件最多可安装5次以增强其效果。</OE_CyberwareNeck_Ideologist.description>
+<OE_CyberwareNeck_Ideologist.comps.CompUsableImplant.useLabel>植入 {0_label}</OE_CyberwareNeck_Ideologist.comps.CompUsableImplant.useLabel>
+
+<!--=============== 大脑 ====================-->
+<!--=============== 网络组件 - 意识 ====================-->
+<OE_CyberwareBrain_Consciousness.label>网络组件AI - 意识</OE_CyberwareBrain_Consciousness.label>
+<OE_CyberwareBrain_Consciousness.description>黑曜石网络组件AI助手是安装在人脑中的技术，有时能够与神经系统接口。其目的是实现更高的性能并改善意识。\n\n安装需要 - 网络组件AI接口。\n\n该网络组件最多可安装10次以增强其效果。</OE_CyberwareBrain_Consciousness.description>
+<OE_CyberwareBrain_Consciousness.comps.CompUsableImplant.useLabel>植入 {0_label}</OE_CyberwareBrain_Consciousness.comps.CompUsableImplant.useLabel>
+<!--=============== 网络组件 - 建筑工人 ====================-->
+<OE_CyberwareBrain_Builder.label>网络组件AI - 建筑工人</OE_CyberwareBrain_Builder.label>
+<OE_CyberwareBrain_Builder.description>黑曜石网络组件AI助手是安装在人脑中的技术，有时能够与神经系统接口。其目的是实现更高的性能并改善建筑和施工技能。\n\n安装需要 - 网络组件AI接口。\n\n该网络组件最多可安装10次以增强其效果。</OE_CyberwareBrain_Builder.description>
+<OE_CyberwareBrain_Builder.comps.CompUsableImplant.useLabel>植入 {0_label}</OE_CyberwareBrain_Builder.comps.CompUsableImplant.useLabel>
+<!--=============== 网络组件 - 农学家 ====================-->
+<OE_CyberwareBrain_Agronomist.label>网络组件AI - 农学家</OE_CyberwareBrain_Agronomist.label>
+<OE_CyberwareBrain_Agronomist.description>黑曜石网络组件AI助手是安装在人脑中的技术，有时能够与神经系统接口。其目的是实现更高的性能并改善动物和植物技能。\n\n安装需要 - 网络组件AI接口。\n\n该网络组件最多可安装10次以增强其效果。</OE_CyberwareBrain_Agronomist.description>
+<OE_CyberwareBrain_Agronomist.comps.CompUsableImplant.useLabel>植入 {0_label}</OE_CyberwareBrain_Agronomist.comps.CompUsableImplant.useLabel>
+<!--=============== 网络组件 - 医生 ====================-->
+<OE_CyberwareBrain_Doctor.label>网络组件AI - 医生</OE_CyberwareBrain_Doctor.label>
+<OE_CyberwareBrain_Doctor.description>黑曜石网络组件AI助手是安装在人脑中的技术，有时能够与神经系统接口。其目的是实现更高的性能并改善医疗和智力技能。\n\n安装需要 - 网络组件AI接口。\n\n该网络组件最多可安装10次以增强其效果。</OE_CyberwareBrain_Doctor.description>
+<OE_CyberwareBrain_Doctor.comps.CompUsableImplant.useLabel>植入 {0_label}</OE_CyberwareBrain_Doctor.comps.CompUsableImplant.useLabel>
+<!--=============== 网络组件 - 士兵 ====================-->
+<OE_CyberwareBrain_Soldier.label>网络组件AI - 士兵</OE_CyberwareBrain_Soldier.label>
+<OE_CyberwareBrain_Soldier.description>黑曜石网络组件AI助手是安装在人脑中的技术，有时能够与神经系统接口。其目的是实现更高的性能并改善近战和射击技能。\n\n安装需要 - 网络组件AI接口。\n\n该网络组件最多可安装10次以增强其效果。</OE_CyberwareBrain_Soldier.description>
+<OE_CyberwareBrain_Soldier.comps.CompUsableImplant.useLabel>植入 {0_label}</OE_CyberwareBrain_Soldier.comps.CompUsableImplant.useLabel>
+<!--=============== 网络组件 - 心灵 ====================-->
+<OE_CyberwareBrain_Psy.label>网络组件AI - 心灵</OE_CyberwareBrain_Psy.label>
+<OE_CyberwareBrain_Psy.description>黑曜石网络组件AI助手是安装在人脑中的技术，有时能够与神经系统接口。其目的是实现更高的性能并改善心灵力量。\n\n安装需要 - 网络组件AI接口。\n\n该网络组件最多可安装10次以增强其效果。</OE_CyberwareBrain_Psy.description>
+<OE_CyberwareBrain_Psy.comps.CompUsableImplant.useLabel>植入 {0_label}</OE_CyberwareBrain_Psy.comps.CompUsableImplant.useLabel>
+<!--=============== 网络组件 - 机械师 ====================-->
+<OE_CyberwareBrain_Mechanitor.label>网络组件AI - 机械师</OE_CyberwareBrain_Mechanitor.label>
+<OE_CyberwareBrain_Mechanitor.description>黑曜石网络组件AI助手是安装在人脑中的技术，有时能够与神经系统接口。其目的是实现更高的性能并改善机械体控制能力。\n\n安装需要 - 网络组件AI接口。\n\n该网络组件最多可安装10次以增强其效果。</OE_CyberwareBrain_Mechanitor.description>
+<OE_CyberwareBrain_Mechanitor.comps.CompUsableImplant.useLabel>植入 {0_label}</OE_CyberwareBrain_Mechanitor.comps.CompUsableImplant.useLabel>
+
+</LanguageData>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+<!--=============== 黑曜石资源空投 ====================-->
+<!--=============== 普通 ====================-->
+<OE_NormalResourceDrop.label>黑曜石资源空投</OE_NormalResourceDrop.label>
+<OE_NormalResourceDrop.description>货舱空投75黑曜石、50秘银、25铂金、1合成素包</OE_NormalResourceDrop.description>
+<!--=============== 良好 ====================-->
+<OE_GoodResourceDrop.label>黑曜石资源空投</OE_GoodResourceDrop.label>
+<OE_GoodResourceDrop.description>货舱空投150黑曜石、100秘银、50铂金、2合成素包</OE_GoodResourceDrop.description>
+<!--=============== 优秀 ====================-->
+<OE_ExcellentResourceDrop.label>黑曜石资源空投</OE_ExcellentResourceDrop.label>
+<OE_ExcellentResourceDrop.description>货舱空投300黑曜石、200秘银、100铂金、3合成素包、1蜘蛛核心</OE_ExcellentResourceDrop.description>
+<!--=============== 传奇 ====================-->
+<OE_LegendaryResourceDrop.label>黑曜石资源空投</OE_LegendaryResourceDrop.label>
+<OE_LegendaryResourceDrop.description>货舱空投750黑曜石、500秘银、250铂金、5合成素包、2蜘蛛核心</OE_LegendaryResourceDrop.description>
+
+<!--=============== 黑曜石史莱姆空投 ====================-->
+<!--=============== 贫乏 ====================-->
+<OE_PoorSlimeDrop.label>黑曜石史莱姆空投</OE_PoorSlimeDrop.label>
+<OE_PoorSlimeDrop.description>货舱空投1只随机的已驯服史莱姆</OE_PoorSlimeDrop.description>
+<!--=============== 普通 ====================-->
+<OE_NormalSlimeDrop.label>黑曜石史莱姆空投</OE_NormalSlimeDrop.label>
+<OE_NormalSlimeDrop.description>货舱空投3只随机的已驯服史莱姆</OE_NormalSlimeDrop.description>
+<!--=============== 良好 ====================-->
+<OE_GoodSlimeDrop.label>黑曜石史莱姆空投</OE_GoodSlimeDrop.label>
+<OE_GoodSlimeDrop.description>货舱空投5只随机的已驯服史莱姆</OE_GoodSlimeDrop.description>
+<!--=============== 优秀 ====================-->
+<OE_ExcellentSlimeDrop.label>黑曜石史莱姆空投</OE_ExcellentSlimeDrop.label>
+<OE_ExcellentSlimeDrop.description>货舱空投7只随机的已驯服史莱姆</OE_ExcellentSlimeDrop.description>
+<!--=============== 传奇 ====================-->
+<OE_LegendarySlimeDrop.label>黑曜石史莱姆空投</OE_LegendarySlimeDrop.label>
+<OE_LegendarySlimeDrop.description>货舱空投10只随机的已驯服史莱姆</OE_LegendarySlimeDrop.description>
+
+</LanguageData>

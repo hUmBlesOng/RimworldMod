@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Artificial Ecosystem Small ====================-->
+<OE_ArtEcosysMicro_Sun.label>小型黑曜石人工生态系统(阳光)</OE_ArtEcosysMicro_Sun.label>
+<OE_ArtEcosysMicro_Sun.description>由于黑曜石技术，种植在这种小型人工生态系统中的植物生长得更快。需要大量电力才能工作；断电时植物会死亡。内置阳光灯为植物提供光照。</OE_ArtEcosysMicro_Sun.description>
+
+<OE_ArtEcosysMicro_Dusk.label>小型黑曜石人工生态系统(黄昏)</OE_ArtEcosysMicro_Dusk.label>
+<OE_ArtEcosysMicro_Dusk.description>由于黑曜石技术，种植在这种小型人工生态系统中的植物生长得更快。需要大量电力才能工作；断电时植物会死亡。</OE_ArtEcosysMicro_Dusk.description>
+
+<!--=============== Artificial Ecosystem Medium ====================-->
+<OE_ArtEcosysMedium_Sun.label>黑曜石人工生态系统(阳光)</OE_ArtEcosysMedium_Sun.label>
+<OE_ArtEcosysMedium_Sun.description>由于黑曜石技术，种植在这种人工生态系统中的植物生长得更快。需要大量电力才能工作；断电时植物会死亡。内置阳光灯为植物提供光照。</OE_ArtEcosysMedium_Sun.description>
+
+<OE_ArtEcosysMedium_Dusk.label>黑曜石人工生态系统(黄昏)</OE_ArtEcosysMedium_Dusk.label>
+<OE_ArtEcosysMedium_Dusk.description>由于黑曜石技术，种植在这种人工生态系统中的植物生长得更快。需要大量电力才能工作；断电时植物会死亡。</OE_ArtEcosysMedium_Dusk.description>
+
+<!--=============== Artificial Ecosystem Large ====================-->
+<OE_ArtEcosysLarge_Sun.label>大型黑曜石人工生态系统(阳光)</OE_ArtEcosysLarge_Sun.label>
+<OE_ArtEcosysLarge_Sun.description>由于黑曜石技术，种植在这种大型人工生态系统中的植物生长得更快。需要大量电力才能工作；断电时植物会死亡。内置阳光灯为植物提供光照。</OE_ArtEcosysLarge_Sun.description>
+
+<OE_ArtEcosysLarge_Dusk.label>大型黑曜石人工生态系统(黄昏)</OE_ArtEcosysLarge_Dusk.label>
+<OE_ArtEcosysLarge_Dusk.description>由于黑曜石技术，种植在这种大型人工生态系统中的植物生长得更快。需要大量电力才能工作；断电时植物会死亡。</OE_ArtEcosysLarge_Dusk.description>
+
+</LanguageData>

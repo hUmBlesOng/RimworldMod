@@ -1,54 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
-<!--=============== 年长恐狼 ====================-->  
-<OE_Elder_Direwolf.label>年长恐狼</OE_Elder_Direwolf.label>
-<OE_Elder_Direwolf.description>黑曜石恐狼看起来像普通的狼，但这些生物的体型几乎是普通狼的两倍。由于它们的毛皮，它们更喜欢生活在凉爽的气候中。很难驯服，但一旦驯服，它们就会成为忠诚的保护者。\n\n但在它们中，有一个关于单个恐狼的传说——一个在冰冻荒原中独自度过了无数个冬天的传奇，只捕食最强大的猎物并躲避猎人设置的每一个陷阱。这只野兽不仅生存下来了——它适应了。随着时间的推移，潜伏在它血液中的EGO种子觉醒了，与它的原始本能结合，形成了野性和耐力的自然融合。\n\n现在被称为年长恐狼，这种生物不再只是捕食者——它是一种自然力量。拥有强化的皮肤、强大的下颚和令人恐惧的跳跃能力，它体现了苔原本身的愤怒。\n\n年长恐狼比普通的恐狼更加稀有和危险。</OE_Elder_Direwolf.description>
-<OE_Elder_Direwolf.race.meatLabel>年长恐狼肉</OE_Elder_Direwolf.race.meatLabel>
-<OE_Elder_Direwolf.tools.left_claw.label>左爪</OE_Elder_Direwolf.tools.left_claw.label>
-<OE_Elder_Direwolf.tools.right_claw.label>右爪</OE_Elder_Direwolf.tools.right_claw.label>
-<OE_Elder_Direwolf.tools.head.label>头部</OE_Elder_Direwolf.tools.head.label>
+<!--=============== Elder Direwolf ====================-->  
+<OE_Elder_Direwolf.label>elder direwolf</OE_Elder_Direwolf.label>
+<OE_Elder_Direwolf.description>Obsidia Direwolves look like normal wolves, but these creatures are nearly twice the size. Because of their fur, they prefer to live in cool climates. Hard to tame, but once tamed, they become loyal protectors.\n\nBut among them, there are legends of a singular Direwolf—one who survived countless winters alone in the frozen wastelands, devouring only the strongest prey and evading every trap laid by hunters. This beast did not just survive—it adapted. Over time, the EGO Seed dormant within its blood awakened, binding to its primal instincts and forming a natural amalgam of ferocity and endurance.\n\nNow known as the Elder Direwolf, this creature is no longer just a predator—it's a force of nature. With reinforced hide, crushing jaws, and a terrifying ability to leap great distances, it embodies the wrath of the tundra itself.\n\nElder Direwolves are even rarer and more dangerous than the typical Direwolf.</OE_Elder_Direwolf.description>
+<OE_Elder_Direwolf.race.meatLabel>elder direwolf meat</OE_Elder_Direwolf.race.meatLabel>
+<OE_Elder_Direwolf.tools.left_claw.label>left claw</OE_Elder_Direwolf.tools.left_claw.label>
+<OE_Elder_Direwolf.tools.right_claw.label>right claw</OE_Elder_Direwolf.tools.right_claw.label>
+<OE_Elder_Direwolf.tools.head.label>head</OE_Elder_Direwolf.tools.head.label>
 
-<!--=============== 年长迅猛龙 ====================-->
-<OE_Elder_Raptor.label>年长迅猛龙</OE_Elder_Raptor.label>
-<OE_Elder_Raptor.description>迅猛龙是大型、具有攻击性的兽脚类恐龙，但对于野兽来说似乎非常聪明。这些兽脚类恐龙更喜欢生活在温暖的气候中。驯服困难但可行，这使得这些快速而致命的捕食者成为出色的战斗单位。\n\n然而有一只迅猛龙不同。在一次剧烈的火山爆发烧焦了南部平原后，这只孤独的幸存者开始表现出不自然的敏捷性和增强的攻击性。观察者们不知道的是，这只生物吸收了埋在古老熔岩床下的EGO种子——在多年的孤独和不断追逐中将其与自己的基因代码融合。\n\n由此产生的年长迅猛龙是运动和暴力的模糊身影。比眼睛更快，拥有撕裂钢铁的爪子和能瞬间缩短任何距离的野性跳跃，它是进化赋予目标的产物。\n\n年长迅猛龙比普通的迅猛龙更加稀有和危险。</OE_Elder_Raptor.description>
-<OE_Elder_Raptor.race.meatLabel>年长迅猛龙肉</OE_Elder_Raptor.race.meatLabel>
-<OE_Elder_Raptor.tools.left_foot_claw.label>左脚爪</OE_Elder_Raptor.tools.left_foot_claw.label>
-<OE_Elder_Raptor.tools.right_foot_claw.label>右脚爪</OE_Elder_Raptor.tools.right_foot_claw.label>
-<OE_Elder_Raptor.tools.left_arm_claw.label>左臂爪</OE_Elder_Raptor.tools.left_arm_claw.label>
-<OE_Elder_Raptor.tools.right_arm_claw.label>右臂爪</OE_Elder_Raptor.tools.right_arm_claw.label>
+<!--=============== Elder Raptor ====================-->
+<OE_Elder_Raptor.label>elder raptor</OE_Elder_Raptor.label>
+<OE_Elder_Raptor.description>Raptors are large, aggressive theropods, but seem to be very intelligent for beasts. These theropods prefer to live in warmer climates. Difficult but accessible to taming, which makes these fast and deadly predators an excellent fighting unit.\n\nYet one Raptor was different. After a violent volcanic eruption scorched the southern plains, this lone survivor began to display unnatural agility and heightened aggression. Unbeknownst to observers, the creature had absorbed an EGO Seed buried beneath ancient lava beds—melding it with its own genetic code over years of solitude and constant pursuit.\n\nThe resulting Elder Raptor is a blur of motion and violence. Quicker than the eye, with claws that rend steel and a feral leap that closes any distance in a flash, it is evolution given purpose.\n\nElder Raptors are even rarer and more dangerous than the typical Raptor.</OE_Elder_Raptor.description>
+<OE_Elder_Raptor.race.meatLabel>elder raptor meat</OE_Elder_Raptor.race.meatLabel>
+<OE_Elder_Raptor.tools.left_foot_claw.label>left foot claw</OE_Elder_Raptor.tools.left_foot_claw.label>
+<OE_Elder_Raptor.tools.right_foot_claw.label>right foot claw</OE_Elder_Raptor.tools.right_foot_claw.label>
+<OE_Elder_Raptor.tools.left_arm_claw.label>left arm claw</OE_Elder_Raptor.tools.left_arm_claw.label>
+<OE_Elder_Raptor.tools.right_arm_claw.label>right arm claw</OE_Elder_Raptor.tools.right_arm_claw.label>
 
-<!--=============== 年长提奥南特 ====================-->  
-<OE_Elder_Tionant_Blue.label>年长提奥南特（蓝色）</OE_Elder_Tionant_Blue.label>
-<OE_Elder_Tionant_Blue.description>提奥南特是黑曜石的祸害。在古代，这些生物恐吓了整个星球，古代黑曜石人类将它们崇拜为神，但几千年前它们毫无踪迹地消失了……但突然间，一百年前，这些生物再次出现了。继续它们在这个星球上的恐怖。它们消失和重现的原因尚不清楚，因为提奥南特很难研究。\n\n然而有一只提奥南特与众不同——更老、更黑暗，比它的同类安静得多。它的存在带有诡异的重量，仿佛时间本身在敬畏中放缓。目击者讲述了一只从世界边缘观察的野兽，耐心而睿智，它的动作充满了古老的意图。学者们相信，在提奥南特长期消失期间，它经历了其他任何生物都没有经历过的事情——与休眠的EGO种子的遭遇，重塑了它的本质而没有破坏它。\n\n年长提奥南特比普通的提奥南特更加稀有和危险。\n\n但尽管如此，提奥南特有一个有用的特征。蓝色提奥南特用它们的身体产生治疗果冻。</OE_Elder_Tionant_Blue.description>
-<OE_Elder_Tionant_Blue.tools.left_claw.label>左爪</OE_Elder_Tionant_Blue.tools.left_claw.label>
-<OE_Elder_Tionant_Blue.tools.right_claw.label>右爪</OE_Elder_Tionant_Blue.tools.right_claw.label>
-<OE_Elder_Tionant_Blue.tools.head.label>头部</OE_Elder_Tionant_Blue.tools.head.label>
+<!--=============== Elder Tionant ====================-->  
+<OE_Elder_Tionant_Blue.label>elder tionant (blue)</OE_Elder_Tionant_Blue.label>
+<OE_Elder_Tionant_Blue.description>Tionants are the scourge of Obsidia. In ancient times, these creatures terrorized the entire planet, the ancient Obsidia humans worshiped them as gods, but several thousand years ago they disappeared without a trace... But suddenly, a hundred years ago, these creatures again declared themselves. Continuing their terror on the planet. The reason for their disappearance and reappearance is not yet clear, since the Tionants are very difficult to study.\n\nYet one Tionant stood apart—older, darker, and far more silent than its kin. Its presence carries an eerie weight, as if time itself slows in reverence. Witnesses speak of a beast that watches from the edge of the world, patient and knowing, its movements filled with ancient intent. Scholars believe it endured something no other did during the Tionants’ long disappearance—an encounter with a dormant EGO Seed, reshaping its essence without breaking it.\n\nElder Tionants are even rarer and more dangerous than the typical Tionant.\n\nBut despite all this, Tionants have one useful feature. Blue Tionants produce a healing jelly with their bodies.</OE_Elder_Tionant_Blue.description>
+<OE_Elder_Tionant_Blue.tools.left_claw.label>left claw</OE_Elder_Tionant_Blue.tools.left_claw.label>
+<OE_Elder_Tionant_Blue.tools.right_claw.label>right claw</OE_Elder_Tionant_Blue.tools.right_claw.label>
+<OE_Elder_Tionant_Blue.tools.head.label>head</OE_Elder_Tionant_Blue.tools.head.label>
 
-<OE_Elder_Tionant_Green.label>年长提奥南特（绿色）</OE_Elder_Tionant_Green.label>
-<OE_Elder_Tionant_Green.description>提奥南特是黑曜石的祸害。在古代，这些生物恐吓了整个星球，古代黑曜石人类将它们崇拜为神，但几千年前它们毫无踪迹地消失了……但突然间，一百年前，这些生物再次出现了。继续它们在这个星球上的恐怖。它们消失和重现的原因尚不清楚，因为提奥南特很难研究。\n\n然而有一只提奥南特与众不同——更老、更黑暗，比它的同类安静得多。它的存在带有诡异的重量，仿佛时间本身在敬畏中放缓。目击者讲述了一只从世界边缘观察的野兽，耐心而睿智，它的动作充满了古老的意图。学者们相信，在提奥南特长期消失期间，它经历了其他任何生物都没有经历过的事情——与休眠的EGO种子的遭遇，重塑了它的本质而没有破坏它。\n\n年长提奥南特比普通的提奥南特更加稀有和危险。\n\n但尽管如此，提奥南特有一个有用的特征。绿色提奥南特用它们的身体产生营养丰富的蔬菜果冻。</OE_Elder_Tionant_Green.description>
-<OE_Elder_Tionant_Green.tools.left_claw.label>左爪</OE_Elder_Tionant_Green.tools.left_claw.label>
-<OE_Elder_Tionant_Green.tools.right_claw.label>右爪</OE_Elder_Tionant_Green.tools.right_claw.label>
-<OE_Elder_Tionant_Green.tools.head.label>头部</OE_Elder_Tionant_Green.tools.head.label>
+<OE_Elder_Tionant_Green.label>elder tionant (green)</OE_Elder_Tionant_Green.label>
+<OE_Elder_Tionant_Green.description>Tionants are the scourge of Obsidia. In ancient times, these creatures terrorized the entire planet, the ancient Obsidia humans worshiped them as gods, but several thousand years ago they disappeared without a trace... But suddenly, a hundred years ago, these creatures again declared themselves. Continuing their terror on the planet. The reason for their disappearance and reappearance is not yet clear, since the Tionants are very difficult to study.\n\nYet one Tionant stood apart—older, darker, and far more silent than its kin. Its presence carries an eerie weight, as if time itself slows in reverence. Witnesses speak of a beast that watches from the edge of the world, patient and knowing, its movements filled with ancient intent. Scholars believe it endured something no other did during the Tionants’ long disappearance—an encounter with a dormant EGO Seed, reshaping its essence without breaking it.\n\nElder Tionants are even rarer and more dangerous than the typical Tionant.\n\nBut despite all this, Tionants have one useful feature. Green Tionants produce a nutritious vegetable jelly with their bodies.</OE_Elder_Tionant_Green.description>
+<OE_Elder_Tionant_Green.tools.left_claw.label>left claw</OE_Elder_Tionant_Green.tools.left_claw.label>
+<OE_Elder_Tionant_Green.tools.right_claw.label>right claw</OE_Elder_Tionant_Green.tools.right_claw.label>
+<OE_Elder_Tionant_Green.tools.head.label>head</OE_Elder_Tionant_Green.tools.head.label>
 
-<OE_Elder_Tionant_Red.label>年长提奥南特（红色）</OE_Elder_Tionant_Red.label>
-<OE_Elder_Tionant_Red.description>提奥南特是黑曜石的祸害。在古代，这些生物恐吓了整个星球，古代黑曜石人类将它们崇拜为神，但几千年前它们毫无踪迹地消失了……但突然间，一百年前，这些生物再次出现了。继续它们在这个星球上的恐怖。它们消失和重现的原因尚不清楚，因为提奥南特很难研究。\n\n然而有一只提奥南特与众不同——更老、更黑暗，比它的同类安静得多。它的存在带有诡异的重量，仿佛时间本身在敬畏中放缓。目击者讲述了一只从世界边缘观察的野兽，耐心而睿智，它的动作充满了古老的意图。学者们相信，在提奥南特长期消失期间，它经历了其他任何生物都没有经历过的事情——与休眠的EGO种子的遭遇，重塑了它的本质而没有破坏它。\n\n年长提奥南特比普通的提奥南特更加稀有和危险。\n\n但尽管如此，提奥南特有一个有用的特征。红色提奥南特用它们的身体产生营养丰富的肉类果冻。</OE_Elder_Tionant_Red.description>
-<OE_Elder_Tionant_Red.tools.left_claw.label>左爪</OE_Elder_Tionant_Red.tools.left_claw.label>
-<OE_Elder_Tionant_Red.tools.right_claw.label>右爪</OE_Elder_Tionant_Red.tools.right_claw.label>
-<OE_Elder_Tionant_Red.tools.head.label>头部</OE_Elder_Tionant_Red.tools.head.label>
+<OE_Elder_Tionant_Red.label>elder tionant (red)</OE_Elder_Tionant_Red.label>
+<OE_Elder_Tionant_Red.description>Tionants are the scourge of Obsidia. In ancient times, these creatures terrorized the entire planet, the ancient Obsidia humans worshiped them as gods, but several thousand years ago they disappeared without a trace... But suddenly, a hundred years ago, these creatures again declared themselves. Continuing their terror on the planet. The reason for their disappearance and reappearance is not yet clear, since the Tionants are very difficult to study.\n\nYet one Tionant stood apart—older, darker, and far more silent than its kin. Its presence carries an eerie weight, as if time itself slows in reverence. Witnesses speak of a beast that watches from the edge of the world, patient and knowing, its movements filled with ancient intent. Scholars believe it endured something no other did during the Tionants’ long disappearance—an encounter with a dormant EGO Seed, reshaping its essence without breaking it.\n\nElder Tionants are even rarer and more dangerous than the typical Tionant.\n\nBut despite all this, Tionants have one useful feature. Red Tionantes produce nutritious meat-based jelly with their bodies.</OE_Elder_Tionant_Red.description>
+<OE_Elder_Tionant_Red.tools.left_claw.label>left claw</OE_Elder_Tionant_Red.tools.left_claw.label>
+<OE_Elder_Tionant_Red.tools.right_claw.label>right claw</OE_Elder_Tionant_Red.tools.right_claw.label>
+<OE_Elder_Tionant_Red.tools.head.label>head</OE_Elder_Tionant_Red.tools.head.label>
 
-<OE_Elder_Tionant_Yellow.label>年长提奥南特（黄色）</OE_Elder_Tionant_Yellow.label>
-<OE_Elder_Tionant_Yellow.description>提奥南特是黑曜石的祸害。在古代，这些生物恐吓了整个星球，古代黑曜石人类将它们崇拜为神，但几千年前它们毫无踪迹地消失了……但突然间，一百年前，这些生物再次出现了。继续它们在这个星球上的恐怖。它们消失和重现的原因尚不清楚，因为提奥南特很难研究。\n\n然而有一只提奥南特与众不同——更老、更黑暗，比它的同类安静得多。它的存在带有诡异的重量，仿佛时间本身在敬畏中放缓。目击者讲述了一只从世界边缘观察的野兽，耐心而睿智，它的动作充满了古老的意图。学者们相信，在提奥南特长期消失期间，它经历了其他任何生物都没有经历过的事情——与休眠的EGO种子的遭遇，重塑了它的本质而没有破坏它。\n\n年长提奥南特比普通的提奥南特更加稀有和危险。\n\n但尽管如此，提奥南特有一个有用的特征。黄色提奥南特用它们的身体产生营养丰富的动物果冻。</OE_Elder_Tionant_Yellow.description>
-<OE_Elder_Tionant_Yellow.tools.left_claw.label>左爪</OE_Elder_Tionant_Yellow.tools.left_claw.label>
-<OE_Elder_Tionant_Yellow.tools.right_claw.label>右爪</OE_Elder_Tionant_Yellow.tools.right_claw.label>
-<OE_Elder_Tionant_Yellow.tools.head.label>头部</OE_Elder_Tionant_Yellow.tools.head.label>
+<OE_Elder_Tionant_Yellow.label>elder tionant (yellow)</OE_Elder_Tionant_Yellow.label>
+<OE_Elder_Tionant_Yellow.description>Tionants are the scourge of Obsidia. In ancient times, these creatures terrorized the entire planet, the ancient Obsidia humans worshiped them as gods, but several thousand years ago they disappeared without a trace... But suddenly, a hundred years ago, these creatures again declared themselves. Continuing their terror on the planet. The reason for their disappearance and reappearance is not yet clear, since the Tionants are very difficult to study.\n\nYet one Tionant stood apart—older, darker, and far more silent than its kin. Its presence carries an eerie weight, as if time itself slows in reverence. Witnesses speak of a beast that watches from the edge of the world, patient and knowing, its movements filled with ancient intent. Scholars believe it endured something no other did during the Tionants’ long disappearance—an encounter with a dormant EGO Seed, reshaping its essence without breaking it.\n\nElder Tionants are even rarer and more dangerous than the typical Tionant.\n\nBut despite all this, Tionants have one useful feature. Yellow Thionants produce a nutritious animal jelly with their bodies.</OE_Elder_Tionant_Yellow.description>
+<OE_Elder_Tionant_Yellow.tools.left_claw.label>left claw</OE_Elder_Tionant_Yellow.tools.left_claw.label>
+<OE_Elder_Tionant_Yellow.tools.right_claw.label>right claw</OE_Elder_Tionant_Yellow.tools.right_claw.label>
+<OE_Elder_Tionant_Yellow.tools.head.label>head</OE_Elder_Tionant_Yellow.tools.head.label>
 
-<!--=============== 年长奥格林 ====================-->  
-<OE_Elder_Ogren.label>年长奥格林</OE_Elder_Ogren.label>
-<OE_Elder_Ogren.description>黑曜石奥格林是巨大且非常强壮的生物。它们本身并不具有攻击性，除非受到干扰。它们的力量使它们能够携带巨大的负载，这使它们成为优秀的驮兽。\n\n但在黑曜石洞穴深处，有一只奥格林未受文明影响——以富含心灵残留物的矿物质为食，吸收古代力量的无声低语。当EGO种子在它巨大的身躯中扎根时，它没有抵抗——它接受了。\n\n现在作为年长奥格林崛起，这个巨人带着可怕的意图移动。它的打击可以粉碎石头，它的存在让附近的敌人感到恐惧。曾经温顺的巨人已经成为一个活生生的壁垒，被原始本能和超凡力量唤醒。\n\n年长奥格林比普通的奥格林更加稀有和危险。</OE_Elder_Ogren.description>
-<OE_Elder_Ogren.race.meatLabel>年长奥格林肉</OE_Elder_Ogren.race.meatLabel>
-<OE_Elder_Ogren.tools.left_fist.label>左拳</OE_Elder_Ogren.tools.left_fist.label>
-<OE_Elder_Ogren.tools.right_fist.label>右拳</OE_Elder_Ogren.tools.right_fist.label>
-<OE_Elder_Ogren.tools.head.label>头部</OE_Elder_Ogren.tools.head.label>
+<!--=============== Elder Ogren ====================-->  
+<OE_Elder_Ogren.label>elder ogren</OE_Elder_Ogren.label>
+<OE_Elder_Ogren.description>Obsidia Ogren are huge and very strong creatures. By themselves, they are not aggressive unless disturbed. Their strength allows them to carry huge loads, which makes them excellent pack animals.\n\nBut deep beneath the Obsidian caverns, one Ogren remained untouched by civilization—feeding off minerals rich in psychic residue and absorbing the silent whispers of ancient forces. When the EGO Seed took root in its massive frame, it didn’t resist—it accepted.\n\nNow risen as the Elder Ogren, this titan moves with dreadful purpose. Its blows can shatter stone, and its presence incites terror in nearby foes. What once was a docile giant has become a living bulwark, awakened by raw primal instinct and otherworldly power.\n\nElder Ogrens are even rarer and more dangerous than the typical Ogren.</OE_Elder_Ogren.description>
+<OE_Elder_Ogren.race.meatLabel>elder ogren meat</OE_Elder_Ogren.race.meatLabel>
+<OE_Elder_Ogren.tools.left_fist.label>left fist</OE_Elder_Ogren.tools.left_fist.label>
+<OE_Elder_Ogren.tools.right_fist.label>right fist</OE_Elder_Ogren.tools.right_fist.label>
+<OE_Elder_Ogren.tools.head.label>head</OE_Elder_Ogren.tools.head.label>
 
 </LanguageData>

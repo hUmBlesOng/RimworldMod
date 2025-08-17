@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== Cosmol ====================-->
-<OE_Cosmol.label>科斯莫尔</OE_Cosmol.label>
-<OE_Cosmol.description>一种特殊的免疫增强剂，用于增强免疫力和治疗各种疾病。黑曜石技术，该药物不会上瘾且无副作用。</OE_Cosmol.description>
-<OE_Cosmol.ingestible.ingestCommandString>服用{0}</OE_Cosmol.ingestible.ingestCommandString>
-<OE_Cosmol.ingestible.ingestReportString>正在服用{0}</OE_Cosmol.ingestible.ingestReportString>
+<OE_Cosmol.label>cosmol</OE_Cosmol.label>
+<OE_Cosmol.description>A special immunostimulant used to enhance immunity and treat various diseases. Obsidia technology, the drug is non-addictive and has no after-effects.</OE_Cosmol.description>
+<OE_Cosmol.ingestible.ingestCommandString>Take {0}</OE_Cosmol.ingestible.ingestCommandString>
+<OE_Cosmol.ingestible.ingestReportString>Taking {0}</OE_Cosmol.ingestible.ingestReportString>
 
 <!--=============== Slugol ====================-->
-<OE_Slugol.label>斯鲁戈尔</OE_Slugol.label>
-<OE_Slugol.description>一种独特的医疗专用品，基于卢西弗姆的强效药物，用于治疗严重伤口和疾病。黑曜石技术，该药物不会上瘾且无副作用。</OE_Slugol.description>
-<OE_Slugol.ingestible.ingestCommandString>服用{0}</OE_Slugol.ingestible.ingestCommandString>
-<OE_Slugol.ingestible.ingestReportString>正在服用{0}</OE_Slugol.ingestible.ingestReportString>
+<OE_Slugol.label>slugol</OE_Slugol.label>
+<OE_Slugol.description>A unique medical specialty, a potent drug based on Luciferium, is used to treat serious wounds and diseases. Obsidia technology, the drug is non-addictive and has no after-effects.</OE_Slugol.description>
+<OE_Slugol.ingestible.ingestCommandString>Take {0}</OE_Slugol.ingestible.ingestCommandString>
+<OE_Slugol.ingestible.ingestReportString>Taking {0}</OE_Slugol.ingestible.ingestReportString>
 
 <!--=============== Sevide ====================-->
-<OE_Sevide.label>塞维德</OE_Sevide.label>
-<OE_Sevide.description>致命毒药，被刺客或作为处决手段使用。黑曜石技术逐渐削弱身体，导致致命后果。</OE_Sevide.description>
-<OE_Sevide.ingestible.ingestCommandString>服用致命的{0}</OE_Sevide.ingestible.ingestCommandString>
-<OE_Sevide.ingestible.ingestReportString>正在服用致命的{0}</OE_Sevide.ingestible.ingestReportString>
+<OE_Sevide.label>sevide</OE_Sevide.label>
+<OE_Sevide.description>Deadly poison, used by assassins or as a means of execution. Obsidia technology gradually weakens the body, with a minor lethal outcome.</OE_Sevide.description>
+<OE_Sevide.ingestible.ingestCommandString>Take deadly {0}</OE_Sevide.ingestible.ingestCommandString>
+<OE_Sevide.ingestible.ingestReportString>Taking deadly {0}</OE_Sevide.ingestible.ingestReportString>
 
 </LanguageData>

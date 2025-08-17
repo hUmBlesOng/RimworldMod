@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== EGO Armor ====================-->
+<!--=============== Various ====================-->
+<!--=============== Suit ====================-->
+<OE_Gestate_EGO_Armor_Suit.label>孕育EGO战衣</OE_Gestate_EGO_Armor_Suit.label>
+<OE_Gestate_EGO_Armor_Suit.description>孕育一个融合EGO战衣。</OE_Gestate_EGO_Armor_Suit.description>
+<OE_Gestate_EGO_Armor_Suit.jobString>正在孕育EGO战衣。</OE_Gestate_EGO_Armor_Suit.jobString>
+
+<OE_Reset_EGO_Armor_Suit.label>重置EGO战衣</OE_Reset_EGO_Armor_Suit.label>
+<OE_Reset_EGO_Armor_Suit.description>重置一个融合EGO战衣。</OE_Reset_EGO_Armor_Suit.description>
+<OE_Reset_EGO_Armor_Suit.jobString>正在重置EGO战衣。</OE_Reset_EGO_Armor_Suit.jobString>
+
+<!--=============== Carapace ====================-->
+<OE_Gestate_EGO_Armor_Carapace.label>孕育EGO甲壳</OE_Gestate_EGO_Armor_Carapace.label>
+<OE_Gestate_EGO_Armor_Carapace.description>孕育一个融合EGO甲壳。</OE_Gestate_EGO_Armor_Carapace.description>
+<OE_Gestate_EGO_Armor_Carapace.jobString>正在孕育EGO甲壳。</OE_Gestate_EGO_Armor_Carapace.jobString>
+
+<OE_Reset_EGO_Armor_Carapace.label>重置EGO甲壳</OE_Reset_EGO_Armor_Carapace.label>
+<OE_Reset_EGO_Armor_Carapace.description>重置一个融合EGO甲壳。</OE_Reset_EGO_Armor_Carapace.description>
+<OE_Reset_EGO_Armor_Carapace.jobString>正在重置EGO甲壳。</OE_Reset_EGO_Armor_Carapace.jobString>
+
+<!--=============== Shell ====================-->
+<!--=============== Various ====================-->
+<!--=============== Worker ====================-->
+<OE_Gestate_EGO_Armor_Shell_Worker.label>孕育EGO外壳(建设者)</OE_Gestate_EGO_Armor_Shell_Worker.label>
+<OE_Gestate_EGO_Armor_Shell_Worker.description>孕育一个融合EGO外壳(建设者)。</OE_Gestate_EGO_Armor_Shell_Worker.description>
+<OE_Gestate_EGO_Armor_Shell_Worker.jobString>正在孕育EGO外壳(建设者)。</OE_Gestate_EGO_Armor_Shell_Worker.jobString>
+
+<OE_Reset_EGO_Armor_Shell_Worker.label>重置EGO外壳(建设者)</OE_Reset_EGO_Armor_Shell_Worker.label>
+<OE_Reset_EGO_Armor_Shell_Worker.description>重置一个融合EGO外壳(建设者)。</OE_Reset_EGO_Armor_Shell_Worker.description>
+<OE_Reset_EGO_Armor_Shell_Worker.jobString>正在重置EGO外壳(建设者)。</OE_Reset_EGO_Armor_Shell_Worker.jobString>
+
+<!--=============== Melee ====================-->
+<OE_Gestate_EGO_Armor_Shell_Melee.label>孕育EGO外壳(狂战士)</OE_Gestate_EGO_Armor_Shell_Melee.label>
+<OE_Gestate_EGO_Armor_Shell_Melee.description>孕育一个融合EGO外壳(狂战士)。</OE_Gestate_EGO_Armor_Shell_Melee.description>
+<OE_Gestate_EGO_Armor_Shell_Melee.jobString>正在孕育EGO外壳(狂战士)。</OE_Gestate_EGO_Armor_Shell_Melee.jobString>
+
+<OE_Reset_EGO_Armor_Shell_Melee.label>重置EGO外壳(狂战士)</OE_Reset_EGO_Armor_Shell_Melee.label>
+<OE_Reset_EGO_Armor_Shell_Melee.description>重置一个融合EGO外壳(狂战士)。</OE_Reset_EGO_Armor_Shell_Melee.description>
+<OE_Reset_EGO_Armor_Shell_Melee.jobString>正在重置EGO外壳(狂战士)。</OE_Reset_EGO_Armor_Shell_Melee.jobString>
+
+<!--=============== Ranged ====================-->
+<OE_Gestate_EGO_Armor_Shell_Ranged.label>孕育EGO外壳(弩手)</OE_Gestate_EGO_Armor_Shell_Ranged.label>
+<OE_Gestate_EGO_Armor_Shell_Ranged.description>孕育一个融合EGO外壳(弩手)。</OE_Gestate_EGO_Armor_Shell_Ranged.description>
+<OE_Gestate_EGO_Armor_Shell_Ranged.jobString>正在孕育EGO外壳(弩手)。</OE_Gestate_EGO_Armor_Shell_Ranged.jobString>
+
+<OE_Reset_EGO_Armor_Shell_Ranged.label>重置EGO外壳(弩手)</OE_Reset_EGO_Armor_Shell_Ranged.label>
+<OE_Reset_EGO_Armor_Shell_Ranged.description>重置一个融合EGO外壳(弩手)。</OE_Reset_EGO_Armor_Shell_Ranged.description>
+<OE_Reset_EGO_Armor_Shell_Ranged.jobString>正在重置EGO外壳(弩手)。</OE_Reset_EGO_Armor_Shell_Ranged.jobString>
+
+<!--=============== Psy ====================-->
+<OE_Gestate_EGO_Armor_Shell_Psy.label>孕育EGO外壳(织梦者)</OE_Gestate_EGO_Armor_Shell_Psy.label>
+<OE_Gestate_EGO_Armor_Shell_Psy.description>孕育一个融合EGO外壳(织梦者)。</OE_Gestate_EGO_Armor_Shell_Psy.description>
+<OE_Gestate_EGO_Armor_Shell_Psy.jobString>正在孕育EGO外壳(织梦者)。</OE_Gestate_EGO_Armor_Shell_Psy.jobString>
+
+<OE_Reset_EGO_Armor_Shell_Psy.label>重置EGO外壳(织梦者)</OE_Reset_EGO_Armor_Shell_Psy.label>
+<OE_Reset_EGO_Armor_Shell_Psy.description>重置一个融合EGO外壳(织梦者)。</OE_Reset_EGO_Armor_Shell_Psy.description>
+<OE_Reset_EGO_Armor_Shell_Psy.jobString>正在重置EGO外壳(织梦者)。</OE_Reset_EGO_Armor_Shell_Psy.jobString>
+
+<!--=============== Mechanitor ====================-->
+<OE_Gestate_EGO_Armor_Shell_Mechanitor.label>孕育EGO外壳(机械师)</OE_Gestate_EGO_Armor_Shell_Mechanitor.label>
+<OE_Gestate_EGO_Armor_Shell_Mechanitor.description>孕育一个融合EGO外壳(机械师)。</OE_Gestate_EGO_Armor_Shell_Mechanitor.description>
+<OE_Gestate_EGO_Armor_Shell_Mechanitor.jobString>正在孕育EGO外壳(机械师)。</OE_Gestate_EGO_Armor_Shell_Mechanitor.jobString>
+
+<OE_Reset_EGO_Armor_Shell_Mechanitor.label>重置EGO外壳(机械师)</OE_Reset_EGO_Armor_Shell_Mechanitor.label>
+<OE_Reset_EGO_Armor_Shell_Mechanitor.description>重置一个融合EGO外壳(机械师)。</OE_Reset_EGO_Armor_Shell_Mechanitor.description>
+<OE_Reset_EGO_Armor_Shell_Mechanitor.jobString>正在重置EGO外壳(机械师)。</OE_Reset_EGO_Armor_Shell_Mechanitor.jobString>
+
+<!--=============== EGO Armor ====================-->
+<!--=============== Various ====================-->
+<!--=============== Mask ====================-->
+<OE_Gestate_EGO_Helmet_Mask.label>孕育EGO面具</OE_Gestate_EGO_Helmet_Mask.label>
+<OE_Gestate_EGO_Helmet_Mask.description>孕育一个融合EGO面具。</OE_Gestate_EGO_Helmet_Mask.description>
+<OE_Gestate_EGO_Helmet_Mask.jobString>正在孕育EGO面具。</OE_Gestate_EGO_Helmet_Mask.jobString>
+
+<OE_Reset_EGO_Helmet_Mask.label>重置EGO面具</OE_Reset_EGO_Helmet_Mask.label>
+<OE_Reset_EGO_Helmet_Mask.description>重置一个融合EGO面具。</OE_Reset_EGO_Helmet_Mask.description>
+<OE_Reset_EGO_Helmet_Mask.jobString>正在重置EGO面具。</OE_Reset_EGO_Helmet_Mask.jobString>
+
+<!--=============== Helm ====================-->
+<OE_Gestate_EGO_Helmet_Helm.label>孕育EGO头盔</OE_Gestate_EGO_Helmet_Helm.label>
+<OE_Gestate_EGO_Helmet_Helm.description>孕育一个融合EGO头盔。</OE_Gestate_EGO_Helmet_Helm.description>
+<OE_Gestate_EGO_Helmet_Helm.jobString>正在孕育EGO头盔。</OE_Gestate_EGO_Helmet_Helm.jobString>
+
+<OE_Reset_EGO_Helmet_Helm.label>重置EGO头盔</OE_Reset_EGO_Helmet_Helm.label>
+<OE_Reset_EGO_Helmet_Helm.description>重置一个融合EGO头盔。</OE_Reset_EGO_Helmet_Helm.description>
+<OE_Reset_EGO_Helmet_Helm.jobString>正在重置EGO头盔。</OE_Reset_EGO_Helmet_Helm.jobString>
+
+<!--=============== Exohelm ====================-->
+<!--=============== Various ====================-->
+<!--=============== Worker ====================-->
+<OE_Gestate_EGO_Helmet_Exohelm_Worker.label>孕育EGO外骨骼头盔(建设者)</OE_Gestate_EGO_Helmet_Exohelm_Worker.label>
+<OE_Gestate_EGO_Helmet_Exohelm_Worker.description>孕育一个融合EGO外骨骼头盔(建设者)。</OE_Gestate_EGO_Helmet_Exohelm_Worker.description>
+<OE_Gestate_EGO_Helmet_Exohelm_Worker.jobString>正在孕育EGO外骨骼头盔(建设者)。</OE_Gestate_EGO_Helmet_Exohelm_Worker.jobString>
+
+<OE_Reset_EGO_Helmet_Exohelm_Worker.label>重置EGO外骨骼头盔(建设者)</OE_Reset_EGO_Helmet_Exohelm_Worker.label>
+<OE_Reset_EGO_Helmet_Exohelm_Worker.description>重置一个融合EGO外骨骼头盔(建设者)。</OE_Reset_EGO_Helmet_Exohelm_Worker.description>
+<OE_Reset_EGO_Helmet_Exohelm_Worker.jobString>正在重置EGO外骨骼头盔(建设者)。</OE_Reset_EGO_Helmet_Exohelm_Worker.jobString>
+
+<!--=============== Melee ====================-->
+<OE_Gestate_EGO_Helmet_Exohelm_Melee.label>孕育EGO外骨骼头盔(狂战士)</OE_Gestate_EGO_Helmet_Exohelm_Melee.label>
+<OE_Gestate_EGO_Helmet_Exohelm_Melee.description>孕育一个融合EGO外骨骼头盔(狂战士)。</OE_Gestate_EGO_Helmet_Exohelm_Melee.description>
+<OE_Gestate_EGO_Helmet_Exohelm_Melee.jobString>正在孕育EGO外骨骼头盔(狂战士)。</OE_Gestate_EGO_Helmet_Exohelm_Melee.jobString>
+
+<OE_Reset_EGO_Helmet_Exohelm_Melee.label>重置EGO外骨骼头盔(狂战士)</OE_Reset_EGO_Helmet_Exohelm_Melee.label>
+<OE_Reset_EGO_Helmet_Exohelm_Melee.description>重置一个融合EGO外骨骼头盔(狂战士)。</OE_Reset_EGO_Helmet_Exohelm_Melee.description>
+<OE_Reset_EGO_Helmet_Exohelm_Melee.jobString>正在重置EGO外骨骼头盔(狂战士)。</OE_Reset_EGO_Helmet_Exohelm_Melee.jobString>
+
+<!--=============== Ranged ====================-->
+<OE_Gestate_EGO_Helmet_Exohelm_Ranged.label>孕育EGO外骨骼头盔(弩手)</OE_Gestate_EGO_Helmet_Exohelm_Ranged.label>
+<OE_Gestate_EGO_Helmet_Exohelm_Ranged.description>孕育一个融合EGO外骨骼头盔(弩手)。</OE_Gestate_EGO_Helmet_Exohelm_Ranged.description>
+<OE_Gestate_EGO_Helmet_Exohelm_Ranged.jobString>正在孕育EGO外骨骼头盔(弩手)。</OE_Gestate_EGO_Helmet_Exohelm_Ranged.jobString>
+
+<OE_Reset_EGO_Helmet_Exohelm_Ranged.label>重置EGO外骨骼头盔(弩手)</OE_Reset_EGO_Helmet_Exohelm_Ranged.label>
+<OE_Reset_EGO_Helmet_Exohelm_Ranged.description>重置一个融合EGO外骨骼头盔(弩手)。</OE_Reset_EGO_Helmet_Exohelm_Ranged.description>
+<OE_Reset_EGO_Helmet_Exohelm_Ranged.jobString>正在重置EGO外骨骼头盔(弩手)。</OE_Reset_EGO_Helmet_Exohelm_Ranged.jobString>
+
+<!--=============== Psy ====================-->
+<OE_Gestate_EGO_Helmet_Exohelm_Psy.label>孕育EGO外骨骼头盔(织梦者)</OE_Gestate_EGO_Helmet_Exohelm_Psy.label>
+<OE_Gestate_EGO_Helmet_Exohelm_Psy.description>孕育一个融合EGO外骨骼头盔(织梦者)。</OE_Gestate_EGO_Helmet_Exohelm_Psy.description>
+<OE_Gestate_EGO_Helmet_Exohelm_Psy.jobString>正在孕育EGO外骨骼头盔(织梦者)。</OE_Gestate_EGO_Helmet_Exohelm_Psy.jobString>
+
+<OE_Reset_EGO_Helmet_Exohelm_Psy.label>重置EGO外骨骼头盔(织梦者)</OE_Reset_EGO_Helmet_Exohelm_Psy.label>
+<OE_Reset_EGO_Helmet_Exohelm_Psy.description>重置一个融合EGO外骨骼头盔(织梦者)。</OE_Reset_EGO_Helmet_Exohelm_Psy.description>
+<OE_Reset_EGO_Helmet_Exohelm_Psy.jobString>正在重置EGO外骨骼头盔(织梦者)。</OE_Reset_EGO_Helmet_Exohelm_Psy.jobString>
+
+<!--=============== Mechanitor ====================-->
+<OE_Gestate_EGO_Helmet_Exohelm_Mechanitor.label>孕育EGO外骨骼头盔(机械师)</OE_Gestate_EGO_Helmet_Exohelm_Mechanitor.label>
+<OE_Gestate_EGO_Helmet_Exohelm_Mechanitor.description>孕育一个融合EGO外骨骼头盔(机械师)。</OE_Gestate_EGO_Helmet_Exohelm_Mechanitor.description>
+<OE_Gestate_EGO_Helmet_Exohelm_Mechanitor.jobString>正在孕育EGO外骨骼头盔(机械师)。</OE_Gestate_EGO_Helmet_Exohelm_Mechanitor.jobString>
+
+<OE_Reset_EGO_Helmet_Exohelm_Mechanitor.label>重置EGO外骨骼头盔(机械师)</OE_Reset_EGO_Helmet_Exohelm_Mechanitor.label>
+<OE_Reset_EGO_Helmet_Exohelm_Mechanitor.description>重置一个融合EGO外骨骼头盔(机械师)。</OE_Reset_EGO_Helmet_Exohelm_Mechanitor.description>
+<OE_Reset_EGO_Helmet_Exohelm_Mechanitor.jobString>正在重置EGO外骨骼头盔(机械师)。</OE_Reset_EGO_Helmet_Exohelm_Mechanitor.jobString>
+
+<!--=============== EGO Shields ====================-->
+<!--=============== Various ====================-->
+<!--=============== Medium ====================-->
+<OE_Gestate_EGO_Shield_Medium.label>孕育EGO神盾</OE_Gestate_EGO_Shield_Medium.label>
+<OE_Gestate_EGO_Shield_Medium.description>孕育一个融合EGO神盾。</OE_Gestate_EGO_Shield_Medium.description>
+<OE_Gestate_EGO_Shield_Medium.jobString>正在孕育EGO神盾。</OE_Gestate_EGO_Shield_Medium.jobString>
+
+<OE_Reset_EGO_Shield_Medium.label>重置EGO神盾</OE_Reset_EGO_Shield_Medium.label>
+<OE_Reset_EGO_Shield_Medium.description>重置一个融合EGO神盾。</OE_Reset_EGO_Shield_Medium.description>
+<OE_Reset_EGO_Shield_Medium.jobString>正在重置EGO神盾。</OE_Reset_EGO_Shield_Medium.jobString>
+
+</LanguageData>

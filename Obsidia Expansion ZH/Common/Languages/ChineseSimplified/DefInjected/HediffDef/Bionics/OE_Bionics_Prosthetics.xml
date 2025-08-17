@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Arms ====================-->
+<!--=============== Prosthetic - Normal ====================-->
+<OE_ProstheticArm.label>仿生臂</OE_ProstheticArm.label>
+<OE_ProstheticArm.labelNoun>一个仿生臂</OE_ProstheticArm.labelNoun>
+<OE_ProstheticArm.description>已安装的仿生臂。</OE_ProstheticArm.description>
+<OE_ProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>拳头</OE_ProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+<!--=============== Prosthetic - Mod ====================-->
+<OE_ProstheticArm_M.label>高级仿生臂</OE_ProstheticArm_M.label>
+<OE_ProstheticArm_M.labelNoun>一个高级仿生臂</OE_ProstheticArm_M.labelNoun>
+<OE_ProstheticArm_M.description>已安装的高级仿生臂。</OE_ProstheticArm_M.description>
+<OE_ProstheticArm_M.comps.HediffComp_VerbGiver.tools.fist.label>拳头</OE_ProstheticArm_M.comps.HediffComp_VerbGiver.tools.fist.label>
+<!--=============== Prosthetic - CAC ====================-->
+<OE_ProstheticArm_CAC.label>邪教徒仿生臂</OE_ProstheticArm_CAC.label>
+<OE_ProstheticArm_CAC.labelNoun>一个邪教徒仿生臂</OE_ProstheticArm_CAC.labelNoun>
+<OE_ProstheticArm_CAC.description>已安装的邪教徒仿生臂。</OE_ProstheticArm_CAC.description>
+<OE_ProstheticArm_CAC.comps.HediffComp_VerbGiver.tools.fist.label>拳头</OE_ProstheticArm_CAC.comps.HediffComp_VerbGiver.tools.fist.label>
+<!--=============== Prosthetic - OES ====================-->
+<OE_ProstheticArm_OES.label>英雄仿生臂</OE_ProstheticArm_OES.label>
+<OE_ProstheticArm_OES.labelNoun>一个英雄仿生臂</OE_ProstheticArm_OES.labelNoun>
+<OE_ProstheticArm_OES.description>已安装的英雄仿生臂。</OE_ProstheticArm_OES.description>
+<OE_ProstheticArm_OES.comps.HediffComp_VerbGiver.tools.fist.label>拳头</OE_ProstheticArm_OES.comps.HediffComp_VerbGiver.tools.fist.label>
+
+<!--=============== Legs ====================-->
+<!--=============== Prosthetic - Normal ====================-->
+<OE_ProstheticLeg.label>仿生腿</OE_ProstheticLeg.label>
+<OE_ProstheticLeg.labelNoun>一个仿生腿</OE_ProstheticLeg.labelNoun>
+<OE_ProstheticLeg.description>已安装的仿生腿。</OE_ProstheticLeg.description>
+<!--=============== Prosthetic - Mod ====================-->
+<OE_ProstheticLeg_M.label>高级仿生腿</OE_ProstheticLeg_M.label>
+<OE_ProstheticLeg_M.labelNoun>一个高级仿生腿</OE_ProstheticLeg_M.labelNoun>
+<OE_ProstheticLeg_M.description>已安装的高级仿生腿。</OE_ProstheticLeg_M.description>
+<!--=============== Prosthetic - CAC ====================-->
+<OE_ProstheticLeg_CAC.label>邪教徒仿生腿</OE_ProstheticLeg_CAC.label>
+<OE_ProstheticLeg_CAC.labelNoun>一个邪教徒仿生腿</OE_ProstheticLeg_CAC.labelNoun>
+<OE_ProstheticLeg_CAC.description>已安装的邪教徒仿生腿。</OE_ProstheticLeg_CAC.description>
+<!--=============== Prosthetic - OES ====================-->
+<OE_ProstheticLeg_OES.label>英雄仿生腿</OE_ProstheticLeg_OES.label>
+<OE_ProstheticLeg_OES.labelNoun>一个英雄仿生腿</OE_ProstheticLeg_OES.labelNoun>
+<OE_ProstheticLeg_OES.description>已安装的英雄仿生腿。</OE_ProstheticLeg_OES.description>
+
+<!--=============== Spine ====================-->
+<!--=============== Prosthetic - Normal ====================-->
+<OE_ProstheticSpine.label>仿生脊柱</OE_ProstheticSpine.label>
+<OE_ProstheticSpine.labelNoun>一个仿生脊柱</OE_ProstheticSpine.labelNoun>
+<OE_ProstheticSpine.description>已安装的仿生脊柱。</OE_ProstheticSpine.description>
+<!--=============== Prosthetic - Mod ====================-->
+<OE_ProstheticSpine_M.label>高级仿生脊柱</OE_ProstheticSpine_M.label>
+<OE_ProstheticSpine_M.labelNoun>一个高级仿生脊柱</OE_ProstheticSpine_M.labelNoun>
+<OE_ProstheticSpine_M.description>已安装的高级仿生脊柱。</OE_ProstheticSpine_M.description>
+<!--=============== Prosthetic - CAC ====================-->
+<OE_ProstheticSpine_CAC.label>邪教徒仿生脊柱</OE_ProstheticSpine_CAC.label>
+<OE_ProstheticSpine_CAC.labelNoun>一个邪教徒仿生脊柱</OE_ProstheticSpine_CAC.labelNoun>
+<OE_ProstheticSpine_CAC.description>已安装的邪教徒仿生脊柱。</OE_ProstheticSpine_CAC.description>
+<!--=============== Prosthetic - OES ====================-->
+<OE_ProstheticSpine_OES.label>英雄仿生脊柱</OE_ProstheticSpine_OES.label>
+<OE_ProstheticSpine_OES.labelNoun>一个英雄仿生脊柱</OE_ProstheticSpine_OES.labelNoun>
+<OE_ProstheticSpine_OES.description>已安装的英雄仿生脊柱。</OE_ProstheticSpine_OES.description>
+
+<!--=============== Stomach ====================-->
+<!--=============== Prosthetic - Normal ====================-->
+<OE_ProstheticStomach.label>仿生胃</OE_ProstheticStomach.label>
+<OE_ProstheticStomach.labelNoun>一个仿生胃</OE_ProstheticStomach.labelNoun>
+<OE_ProstheticStomach.description>已安装的仿生胃。</OE_ProstheticStomach.description>
+<!--=============== Prosthetic - Mod ====================-->
+<OE_ProstheticStomach_M.label>高级仿生胃</OE_ProstheticStomach_M.label>
+<OE_ProstheticStomach_M.labelNoun>一个高级仿生胃</OE_ProstheticStomach_M.labelNoun>
+<OE_ProstheticStomach_M.description>已安装的高级仿生胃。</OE_ProstheticStomach_M.description>
+<!--=============== Prosthetic - CAC ====================-->
+<OE_ProstheticStomach_CAC.label>邪教徒仿生胃</OE_ProstheticStomach_CAC.label>
+<OE_ProstheticStomach_CAC.labelNoun>一个邪教徒仿生胃</OE_ProstheticStomach_CAC.labelNoun>
+<OE_ProstheticStomach_CAC.description>已安装的邪教徒仿生胃。</OE_ProstheticStomach_CAC.description>
+<!--=============== Prosthetic - OES ====================-->
+<OE_ProstheticStomach_OES.label>英雄仿生胃</OE_ProstheticStomach_OES.label>
+<OE_ProstheticStomach_OES.labelNoun>一个英雄仿生胃</OE_ProstheticStomach_OES.labelNoun>
+<OE_ProstheticStomach_OES.description>已安装的英雄仿生胃。</OE_ProstheticStomach_OES.description>
+
+<!--=============== Heart ====================-->
+<!--=============== Prosthetic - Normal ====================-->
+<OE_ProstheticHeart.label>仿生心脏</OE_ProstheticHeart.label>
+<OE_ProstheticHeart.labelNoun>一个仿生心脏</OE_ProstheticHeart.labelNoun>
+<OE_ProstheticHeart.description>已安装的仿生心脏。</OE_ProstheticHeart.description>
+<!--=============== Prosthetic - Mod ====================-->
+<OE_ProstheticHeart_M.label>高级仿生心脏</OE_ProstheticHeart_M.label>
+<OE_ProstheticHeart_M.labelNoun>一个高级仿生心脏</OE_ProstheticHeart_M.labelNoun>
+<OE_ProstheticHeart_M.description>已安装的高级仿生心脏。</OE_ProstheticHeart_M.description>
+<!--=============== Prosthetic - CAC ====================-->
+<OE_ProstheticHeart_CAC.label>邪教徒仿生心脏</OE_ProstheticHeart_CAC.label>
+<OE_ProstheticHeart_CAC.labelNoun>一个邪教徒仿生心脏</OE_ProstheticHeart_CAC.labelNoun>
+<OE_ProstheticHeart_CAC.description>已安装的邪教徒仿生心脏。</OE_ProstheticHeart_CAC.description>
+<!--=============== Prosthetic - OES ====================-->
+<OE_ProstheticHeart_OES.label>英雄仿生心脏</OE_ProstheticHeart_OES.label>
+<OE_ProstheticHeart_OES.labelNoun>一个英雄仿生心脏</OE_ProstheticHeart_OES.labelNoun>
+<OE_ProstheticHeart_OES.description>已安装的英雄仿生心脏。</OE_ProstheticHeart_OES.description>
+
+<!--=============== Kidney ====================-->
+<!--=============== Prosthetic - Normal ====================-->
+<OE_ProstheticKidney.label>仿生肾</OE_ProstheticKidney.label>
+<OE_ProstheticKidney.labelNoun>一个仿生肾</OE_ProstheticKidney.labelNoun>
+<OE_ProstheticKidney.description>已安装的仿生肾。</OE_ProstheticKidney.description>
+<!--=============== Prosthetic - Mod ====================-->
+<OE_ProstheticKidney_M.label>高级仿生肾</OE_ProstheticKidney_M.label>
+<OE_ProstheticKidney_M.labelNoun>一个高级仿生肾</OE_ProstheticKidney_M.labelNoun>
+<OE_ProstheticKidney_M.description>已安装的高级仿生肾。</OE_ProstheticKidney_M.description>
+<!--=============== Prosthetic - CAC ====================-->
+<OE_ProstheticKidney_CAC.label>邪教徒仿生肾</OE_ProstheticKidney_CAC.label>
+<OE_ProstheticKidney_CAC.labelNoun>一个邪教徒仿生肾</OE_ProstheticKidney_CAC.labelNoun>
+<OE_ProstheticKidney_CAC.description>已安装的邪教徒仿生肾。</OE_ProstheticKidney_CAC.description>
+<!--=============== Prosthetic - OES ====================-->
+<OE_ProstheticKidney_OES.label>英雄仿生肾</OE_ProstheticKidney_OES.label>
+<OE_ProstheticKidney_OES.labelNoun>一个英雄仿生肾</OE_ProstheticKidney_OES.labelNoun>
+<OE_ProstheticKidney_OES.description>已安装的英雄仿生肾。</OE_ProstheticKidney_OES.description>
+
+<!--=============== Liver ====================-->
+<!--=============== Prosthetic - Normal ====================-->
+<OE_ProstheticLiver.label>仿生肝</OE_ProstheticLiver.label>
+<OE_ProstheticLiver.labelNoun>一个仿生肝</OE_ProstheticLiver.labelNoun>
+<OE_ProstheticLiver.description>已安装的仿生肝。</OE_ProstheticLiver.description>
+<!--=============== Prosthetic - Mod ====================-->
+<OE_ProstheticLiver_M.label>高级仿生肝</OE_ProstheticLiver_M.label>
+<OE_ProstheticLiver_M.labelNoun>一个高级仿生肝</OE_ProstheticLiver_M.labelNoun>
+<OE_ProstheticLiver_M.description>已安装的高级仿生肝。</OE_ProstheticLiver_M.description>
+<!--=============== Prosthetic - CAC ====================-->
+<OE_ProstheticLiver_CAC.label>邪教徒仿生肝</OE_ProstheticLiver_CAC.label>
+<OE_ProstheticLiver_CAC.labelNoun>一个邪教徒仿生肝</OE_ProstheticLiver_CAC.labelNoun>
+<OE_ProstheticLiver_CAC.description>已安装的邪教徒仿生肝。</OE_ProstheticLiver_CAC.description>
+<!--=============== Prosthetic - OES ====================-->
+<OE_ProstheticLiver_OES.label>英雄仿生肝</OE_ProstheticLiver_OES.label>
+<OE_ProstheticLiver_OES.labelNoun>一个英雄仿生肝</OE_ProstheticLiver_OES.labelNoun>
+<OE_ProstheticLiver_OES.description>已安装的英雄仿生肝。</OE_ProstheticLiver_OES.description>
+
+<!--=============== Lung ====================-->
+<!--=============== Prosthetic - Normal ====================-->
+<OE_ProstheticLung.label>仿生肺</OE_ProstheticLung.label>
+<OE_ProstheticLung.labelNoun>一个仿生肺</OE_ProstheticLung.labelNoun>
+<OE_ProstheticLung.description>已安装的仿生肺。</OE_ProstheticLung.description>
+<!--=============== Prosthetic - Mod ====================-->
+<OE_ProstheticLung_M.label>高级仿生肺</OE_ProstheticLung_M.label>
+<OE_ProstheticLung_M.labelNoun>一个高级仿生肺</OE_ProstheticLung_M.labelNoun>
+<OE_ProstheticLung_M.description>已安装的高级仿生肺。</OE_ProstheticLung_M.description>
+<!--=============== Prosthetic - CAC ====================-->
+<OE_ProstheticLung_CAC.label>邪教徒仿生肺</OE_ProstheticLung_CAC.label>
+<OE_ProstheticLung_CAC.labelNoun>一个邪教徒仿生肺</OE_ProstheticLung_CAC.labelNoun>
+<OE_ProstheticLung_CAC.description>已安装的邪教徒仿生肺。</OE_ProstheticLung_CAC.description>
+<!--=============== Prosthetic - OES ====================-->
+<OE_ProstheticLung_OES.label>英雄仿生肺</OE_ProstheticLung_OES.label>
+<OE_ProstheticLung_OES.labelNoun>一个英雄仿生肺</OE_ProstheticLung_OES.labelNoun>
+<OE_ProstheticLung_OES.description>已安装的英雄仿生肺。</OE_ProstheticLung_OES.description>
+
+<!--=============== Eyes ====================-->
+<!--=============== Prosthetic - Normal ====================-->
+<OE_ProstheticEye.label>仿生眼</OE_ProstheticEye.label>
+<OE_ProstheticEye.labelNoun>一个仿生眼</OE_ProstheticEye.labelNoun>
+<OE_ProstheticEye.description>已安装的仿生眼。</OE_ProstheticEye.description>
+<!--=============== Prosthetic - Mod ====================-->
+<OE_ProstheticEye_M.label>高级仿生眼</OE_ProstheticEye_M.label>
+<OE_ProstheticEye_M.labelNoun>一个高级仿生眼</OE_ProstheticEye_M.labelNoun>
+<OE_ProstheticEye_M.description>已安装的高级仿生眼。</OE_ProstheticEye_M.description>
+<!--=============== Prosthetic - CAC ====================-->
+<OE_ProstheticEye_CAC.label>邪教徒仿生眼</OE_ProstheticEye_CAC.label>
+<OE_ProstheticEye_CAC.labelNoun>一个邪教徒仿生眼</OE_ProstheticEye_CAC.labelNoun>
+<OE_ProstheticEye_CAC.description>已安装的邪教徒仿生眼。</OE_ProstheticEye_CAC.description>
+<!--=============== Prosthetic - OES ====================-->
+<OE_ProstheticEye_OES.label>英雄仿生眼</OE_ProstheticEye_OES.label>
+<OE_ProstheticEye_OES.labelNoun>一个英雄仿生眼</OE_ProstheticEye_OES.labelNoun>
+<OE_ProstheticEye_OES.description>已安装的英雄仿生眼。</OE_ProstheticEye_OES.description>
+
+<!--=============== Ears ====================-->
+<!--=============== Prosthetic - Normal ====================-->
+<OE_ProstheticEar.label>仿生耳</OE_ProstheticEar.label>
+<OE_ProstheticEar.labelNoun>一个仿生耳</OE_ProstheticEar.labelNoun>
+<OE_ProstheticEar.description>已安装的仿生耳。</OE_ProstheticEar.description>
+<!--=============== Prosthetic - Mod ====================-->
+<OE_ProstheticEar_M.label>高级仿生耳</OE_ProstheticEar_M.label>
+<OE_ProstheticEar_M.labelNoun>一个高级仿生耳</OE_ProstheticEar_M.labelNoun>
+<OE_ProstheticEar_M.description>已安装的高级仿生耳。</OE_ProstheticEar_M.description>
+<!--=============== Prosthetic - CAC ====================-->
+<OE_ProstheticEar_CAC.label>邪教徒仿生耳</OE_ProstheticEar_CAC.label>
+<OE_ProstheticEar_CAC.labelNoun>一个邪教徒仿生耳</OE_ProstheticEar_CAC.labelNoun>
+<OE_ProstheticEar_CAC.description>已安装的邪教徒仿生耳。</OE_ProstheticEar_CAC.description>
+<!--=============== Prosthetic - OES ====================-->
+<OE_ProstheticEar_OES.label>英雄仿生耳</OE_ProstheticEar_OES.label>
+<OE_ProstheticEar_OES.labelNoun>一个英雄仿生耳</OE_ProstheticEar_OES.labelNoun>
+<OE_ProstheticEar_OES.description>已安装的英雄仿生耳。</OE_ProstheticEar_OES.description>
+
+<!--=============== Jaw ====================-->
+<!--=============== Prosthetic - Normal ====================-->
+<OE_ProstheticJaw.label>仿生颌</OE_ProstheticJaw.label>
+<OE_ProstheticJaw.labelNoun>一个仿生颌</OE_ProstheticJaw.labelNoun>
+<OE_ProstheticJaw.description>已安装的仿生颌。</OE_ProstheticJaw.description>
+<!--=============== Prosthetic - Mod ====================-->
+<OE_ProstheticJaw_M.label>高级仿生颌</OE_ProstheticJaw_M.label>
+<OE_ProstheticJaw_M.labelNoun>一个高级仿生颌</OE_ProstheticJaw_M.labelNoun>
+<OE_ProstheticJaw_M.description>已安装的高级仿生颌。</OE_ProstheticJaw_M.description>
+<!--=============== Prosthetic - CAC ====================-->
+<OE_ProstheticJaw_CAC.label>邪教徒仿生颌</OE_ProstheticJaw_CAC.label>
+<OE_ProstheticJaw_CAC.labelNoun>一个邪教徒仿生颌</OE_ProstheticJaw_CAC.labelNoun>
+<OE_ProstheticJaw_CAC.description>已安装的邪教徒仿生颌。</OE_ProstheticJaw_CAC.description>
+<!--=============== Prosthetic - OES ====================-->
+<OE_ProstheticJaw_OES.label>英雄仿生颌</OE_ProstheticJaw_OES.label>
+<OE_ProstheticJaw_OES.labelNoun>一个英雄仿生颌</OE_ProstheticJaw_OES.labelNoun>
+<OE_ProstheticJaw_OES.description>已安装的英雄仿生颌。</OE_ProstheticJaw_OES.description>
+
+</LanguageData>

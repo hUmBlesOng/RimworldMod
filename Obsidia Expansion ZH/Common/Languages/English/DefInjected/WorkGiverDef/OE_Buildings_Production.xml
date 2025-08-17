@@ -1,34 +1,34 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
-<!--=============== 黑曜石合成打印机 ====================-->
-<OE_UseSynthesisPrinter.label>在黑曜石合成打印机合成物品</OE_UseSynthesisPrinter.label>
-<OE_UseSynthesisPrinter.verb>合成</OE_UseSynthesisPrinter.verb>
-<OE_UseSynthesisPrinter.gerund>在</OE_UseSynthesisPrinter.gerund>
+<!--=============== Obsidia Synthesis Printer ====================-->
+<OE_UseSynthesisPrinter.label>synthesis things at an obsidia synthesis printer</OE_UseSynthesisPrinter.label>
+<OE_UseSynthesisPrinter.verb>synthesis</OE_UseSynthesisPrinter.verb>
+<OE_UseSynthesisPrinter.gerund>synthesis at</OE_UseSynthesisPrinter.gerund>
   
-<!--=============== 黑曜石装甲工作站 ====================-->
-<OE_UseArmorStation.label>在黑曜石装甲工作站组装物品</OE_UseArmorStation.label>
-<OE_UseArmorStation.verb>制作</OE_UseArmorStation.verb>
-<OE_UseArmorStation.gerund>组装于</OE_UseArmorStation.gerund>
+<!--=============== Obsidia Armor Station ====================-->
+<OE_UseArmorStation.label>assembling things at an obsidia armor station</OE_UseArmorStation.label>
+<OE_UseArmorStation.verb>craft</OE_UseArmorStation.verb>
+<OE_UseArmorStation.gerund>assembling at</OE_UseArmorStation.gerund>
 
-<!--=============== 黑曜石武器工作台 ====================-->
-<OE_UseWeaponWorkbench.label>在黑曜石武器工作台组装物品</OE_UseWeaponWorkbench.label>
-<OE_UseWeaponWorkbench.verb>制作</OE_UseWeaponWorkbench.verb>
-<OE_UseWeaponWorkbench.gerund>组装于</OE_UseWeaponWorkbench.gerund>
+<!--=============== Obsidia Weapon Workbench ====================-->
+<OE_UseWeaponWorkbench.label>assembling things at an obsidia weapon workbench</OE_UseWeaponWorkbench.label>
+<OE_UseWeaponWorkbench.verb>craft</OE_UseWeaponWorkbench.verb>
+<OE_UseWeaponWorkbench.gerund>assembling at</OE_UseWeaponWorkbench.gerund>
 
-<!--=============== 黑曜石武装台 ====================-->
-<OE_UsePersonaWorkbench.label>在黑曜石武装台绑定武器</OE_UsePersonaWorkbench.label>
-<OE_UsePersonaWorkbench.verb>绑定</OE_UsePersonaWorkbench.verb>
-<OE_UsePersonaWorkbench.gerund>绑定于</OE_UsePersonaWorkbench.gerund>
+<!--=============== Obsidia Armament Table ====================-->
+<OE_UsePersonaWorkbench.label>bound weapon at an obsidia armament table</OE_UsePersonaWorkbench.label>
+<OE_UsePersonaWorkbench.verb>bond</OE_UsePersonaWorkbench.verb>
+<OE_UsePersonaWorkbench.gerund>bonding at</OE_UsePersonaWorkbench.gerund>
 
-<!--=============== 黑曜石仿生工作台 ====================-->
-<OE_UseBionicWorkbench.label>在黑曜石仿生台组装物品</OE_UseBionicWorkbench.label>
-<OE_UseBionicWorkbench.verb>制作</OE_UseBionicWorkbench.verb>
-<OE_UseBionicWorkbench.gerund>组装于</OE_UseBionicWorkbench.gerund>
+<!--=============== Obsidia Bionic Workbench ====================-->
+<OE_UseBionicWorkbench.label>assembling things at an obsidia bionic table</OE_UseBionicWorkbench.label>
+<OE_UseBionicWorkbench.verb>craft</OE_UseBionicWorkbench.verb>
+<OE_UseBionicWorkbench.gerund>assembling at</OE_UseBionicWorkbench.gerund>
 
-<!--=============== 黑曜石融合培养槽 ====================-->
-<OE_UseAmalgamVat.label>在黑曜石融合培养槽孕育物品</OE_UseAmalgamVat.label>
-<OE_UseAmalgamVat.verb>孕育</OE_UseAmalgamVat.verb>
-<OE_UseAmalgamVat.gerund>孕育于</OE_UseAmalgamVat.gerund>
+<!--=============== Obsidia Amalgam Vat ====================-->
+<OE_UseAmalgamVat.label>gestating things at an obsidia amalgam vat</OE_UseAmalgamVat.label>
+<OE_UseAmalgamVat.verb>gestate</OE_UseAmalgamVat.verb>
+<OE_UseAmalgamVat.gerund>gestating at</OE_UseAmalgamVat.gerund>
 
 </LanguageData>

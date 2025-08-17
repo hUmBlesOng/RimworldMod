@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <!--=============== Swarmella - Psybolt ====================-->
+  <Bullet_OE_Biophormids_Psybolt.label>心灵箭</Bullet_OE_Biophormids_Psybolt.label>
+
+  <!--=============== Biophormids - Knife ====================-->
+  <EGO_Biophormids_Knife.label>毒刺刃</EGO_Biophormids_Knife.label>
+  <EGO_Biophormids_Knife.description>剃刀赛特斯使用的融合体匕首。</EGO_Biophormids_Knife.description>
+
+  <EGO_Biophormids_Knife.tools.handle.label>握柄</EGO_Biophormids_Knife.tools.handle.label>
+  <EGO_Biophormids_Knife.tools.blade.label>刀刃</EGO_Biophormids_Knife.tools.blade.label>
+  <EGO_Biophormids_Knife.tools.point.label>刀尖</EGO_Biophormids_Knife.tools.point.label>
+
+  <!--=============== Biophormids - BigScythe ====================-->
+  <EGO_Biophormids_BigScythe.label>甲壳劈砍</EGO_Biophormids_BigScythe.label>
+  <EGO_Biophormids_BigScythe.description>巨角雷克使用的融合体大镰刀。</EGO_Biophormids_BigScythe.description>
+
+  <EGO_Biophormids_BigScythe.tools.handle.label>握柄</EGO_Biophormids_BigScythe.tools.handle.label>
+  <EGO_Biophormids_BigScythe.tools.edge.label>刀刃</EGO_Biophormids_BigScythe.tools.edge.label>
+
+  <!--=============== Biophormids - Scepter ====================-->
+  <EGO_Biophormids_Scepter.label>蜂巢召唤</EGO_Biophormids_Scepter.label>
+  <EGO_Biophormids_Scepter.description>虫群精灵使用的融合体权杖。</EGO_Biophormids_Scepter.description>
+
+  <EGO_Biophormids_Scepter.tools.ornament.label>装饰</EGO_Biophormids_Scepter.tools.ornament.label>
+
+  <!--=============== Biophormids - SMG ====================-->
+  <Bullet_EGO_Biophormids_SMG.label>蜂鸣弹</Bullet_EGO_Biophormids_SMG.label>
+
+  <EGO_Biophormids_SMG.label>蜂鸣刃</EGO_Biophormids_SMG.label>
+  <EGO_Biophormids_SMG.verbs.Verb_Shoot.label>蜂鸣刃</EGO_Biophormids_SMG.verbs.Verb_Shoot.label>
+  <EGO_Biophormids_SMG.description>翼枪使用的融合体冲锋枪。</EGO_Biophormids_SMG.description>
+
+  <EGO_Biophormids_SMG.tools.fang.label>尖牙</EGO_Biophormids_SMG.tools.fang.label>
+
+  <!--=============== Biophormids - SniperRifle ====================-->
+  <Bullet_EGO_Biophormids_SR.label>蛇眼弹</Bullet_EGO_Biophormids_SR.label>
+
+  <EGO_Biophormids_SniperRifle.label>蛇眼镜</EGO_Biophormids_SniperRifle.label>
+  <EGO_Biophormids_SniperRifle.verbs.Verb_Shoot.label>蛇眼镜</EGO_Biophormids_SniperRifle.verbs.Verb_Shoot.label>
+  <EGO_Biophormids_SniperRifle.description>君主蚁使用的融合体狙击步枪。</EGO_Biophormids_SniperRifle.description>
+
+  <EGO_Biophormids_SniperRifle.tools.fang.label>尖牙</EGO_Biophormids_SniperRifle.tools.fang.label>
+</LanguageData>

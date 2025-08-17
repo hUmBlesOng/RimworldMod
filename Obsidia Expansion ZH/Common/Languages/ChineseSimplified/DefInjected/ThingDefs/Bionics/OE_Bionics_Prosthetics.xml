@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== 手臂 ====================-->
+<!--=============== 假体 - 普通 ====================-->
+<OE_ProstheticArm.label>仿生手臂</OE_ProstheticArm.label>
+<OE_ProstheticArm.description>黑曜石仿生手臂。它在几乎所有方面都比生物手臂更好。即使受到伤害，它也会随着时间的推移自我修复。使用这种假体会对身体造成轻微负担。</OE_ProstheticArm.description>
+<!--=============== 假体 - 改装 ====================-->
+<OE_ProstheticArm_M.label>高级仿生手臂</OE_ProstheticArm_M.label>
+<OE_ProstheticArm_M.description>黑曜石高级仿生手臂。它在几乎所有方面都比生物手臂好得多。即使受到伤害，它也会随着时间的推移自我修复。使用这种假体会对身体造成负担。</OE_ProstheticArm_M.description>
+<!--=============== 假体 - 邪教徒 ====================-->
+<OE_ProstheticArm_CAC.label>邪教徒仿生手臂</OE_ProstheticArm_CAC.label>
+<OE_ProstheticArm_CAC.description>黑曜石邪教徒仿生手臂。它在所有方面都比生物手臂好得多。即使受到伤害，它也会随着时间的推移自我修复。使用这种假体会对身体造成明显负担。</OE_ProstheticArm_CAC.description>
+<!--=============== 假体 - 英雄 ====================-->
+<OE_ProstheticArm_OES.label>英雄仿生手臂</OE_ProstheticArm_OES.label>
+<OE_ProstheticArm_OES.description>黑曜石英雄仿生手臂。它在所有方面都比生物手臂好得多。即使受到伤害，它也会随着时间的推移自我修复。使用这种假体会对身体造成明显负担。</OE_ProstheticArm_OES.description>
+
+<!--=============== 腿部 ====================-->
+<!--=============== 假体 - 普通 ====================-->
+<OE_ProstheticLeg.label>仿生腿</OE_ProstheticLeg.label>
+<OE_ProstheticLeg.description>黑曜石仿生腿。它在几乎所有方面都比生物腿更好。即使受到伤害，它也会随着时间的推移自我修复。使用这种假体会对身体造成轻微负担。</OE_ProstheticLeg.description>
+<!--=============== 假体 - 改装 ====================-->
+<OE_ProstheticLeg_M.label>高级仿生腿</OE_ProstheticLeg_M.label>
+<OE_ProstheticLeg_M.description>黑曜石高级仿生腿。它在几乎所有方面都比生物腿好得多。即使受到伤害，它也会随着时间的推移自我修复。使用这种假体会对身体造成负担。</OE_ProstheticLeg_M.description>
+<!--=============== 假体 - 邪教徒 ====================-->
+<OE_ProstheticLeg_CAC.label>邪教徒仿生腿</OE_ProstheticLeg_CAC.label>
+<OE_ProstheticLeg_CAC.description>黑曜石邪教徒仿生腿。它在所有方面都比生物腿好得多。即使受到伤害，它也会随着时间的推移自我修复。使用这种假体会对身体造成明显负担。</OE_ProstheticLeg_CAC.description>
+<!--=============== 假体 - 英雄 ====================-->
+<OE_ProstheticLeg_OES.label>英雄仿生腿</OE_ProstheticLeg_OES.label>
+<OE_ProstheticLeg_OES.description>黑曜石英雄仿生腿。它在所有方面都比生物腿好得多。即使受到伤害，它也会随着时间的推移自我修复。使用这种假体会对身体造成明显负担。</OE_ProstheticLeg_OES.description>
+
+<!--=============== 脊柱 ====================-->
+<!--=============== 假体 - 普通 ====================-->
+<OE_ProstheticSpine.label>仿生脊柱</OE_ProstheticSpine.label>
+<OE_ProstheticSpine.description>黑曜石仿生脊柱。它在几乎所有方面都比生物脊柱更好。即使受到伤害，它也会随着时间的推移自我修复。使用这种假体会对身体造成轻微负担。</OE_ProstheticSpine.description>
+<!--=============== 假体 - 改装 ====================-->
+<OE_ProstheticSpine_M.label>高级仿生脊柱</OE_ProstheticSpine_M.label>
+<OE_ProstheticSpine_M.description>黑曜石高级仿生脊柱。它在几乎所有方面都比生物脊柱好得多。即使受到伤害，它也会随着时间的推移自我修复。使用这种假体会对身体造成负担。</OE_ProstheticSpine_M.description>
+<!--=============== 假体 - 邪教徒 ====================-->
+<OE_ProstheticSpine_CAC.label>邪教徒仿生脊柱</OE_ProstheticSpine_CAC.label>
+<OE_ProstheticSpine_CAC.description>黑曜石邪教徒仿生脊柱。它在所有方面都比生物脊柱好得多。即使受到伤害，它也会随着时间的推移自我修复。使用这种假体会对身体造成明显负担。</OE_ProstheticSpine_CAC.description>
+<!--=============== 假体 - 英雄 ====================-->
+<OE_ProstheticSpine_OES.label>英雄仿生脊柱</OE_ProstheticSpine_OES.label>
+<OE_ProstheticSpine_OES.description>黑曜石英雄仿生脊柱。它在所有方面都比生物脊柱好得多。即使受到伤害，它也会随着时间的推移自我修复。使用这种假体会对身体造成明显负担。</OE_ProstheticSpine_OES.description>
+
+<!--=============== 胃部 ====================-->
+<!--=============== 假体 - 普通 ====================-->
+<OE_ProstheticStomach.label>仿生胃</OE_ProstheticStomach.label>
+<OE_ProstheticStomach.description>黑曜石仿生胃。它在几乎所有方面都比生物胃更好。使用这种假体会对身体造成轻微负担。</OE_ProstheticStomach.description>
+<!--=============== 假体 - 改装 ====================-->
+<OE_ProstheticStomach_M.label>高级仿生胃</OE_ProstheticStomach_M.label>
+<OE_ProstheticStomach_M.description>黑曜石高级仿生胃。它在几乎所有方面都比生物胃好得多。使用这种假体会对身体造成负担。</OE_ProstheticStomach_M.description>
+<!--=============== 假体 - 邪教徒 ====================-->
+<OE_ProstheticStomach_CAC.label>邪教徒仿生胃</OE_ProstheticStomach_CAC.label>
+<OE_ProstheticStomach_CAC.description>黑曜石邪教徒仿生胃。它在所有方面都比生物胃好得多。使用这种假体会对身体造成明显负担。</OE_ProstheticStomach_CAC.description>
+<!--=============== 假体 - 英雄 ====================-->
+<OE_ProstheticStomach_OES.label>英雄仿生胃</OE_ProstheticStomach_OES.label>
+<OE_ProstheticStomach_OES.description>黑曜石英雄仿生胃。它在所有方面都比生物胃好得多。使用这种假体会对身体造成明显负担。</OE_ProstheticStomach_OES.description>
+
+<!--=============== 心脏 ====================-->
+<!--=============== 假体 - 普通 ====================-->
+<OE_ProstheticHeart.label>仿生心脏</OE_ProstheticHeart.label>
+<OE_ProstheticHeart.description>黑曜石仿生心脏。它在几乎所有方面都比生物心脏更好。使用这种假体会对身体造成轻微负担。</OE_ProstheticHeart.description>
+<!--=============== 假体 - 改装 ====================-->
+<OE_ProstheticHeart_M.label>高级仿生心脏</OE_ProstheticHeart_M.label>
+<OE_ProstheticHeart_M.description>黑曜石高级仿生心脏。它在几乎所有方面都比生物心脏好得多。使用这种假体会对身体造成负担。</OE_ProstheticHeart_M.description>
+<!--=============== 假体 - 邪教徒 ====================-->
+<OE_ProstheticHeart_CAC.label>邪教徒仿生心脏</OE_ProstheticHeart_CAC.label>
+<OE_ProstheticHeart_CAC.description>黑曜石邪教徒仿生心脏。它在所有方面都比生物心脏好得多。使用这种假体会对身体造成明显负担。</OE_ProstheticHeart_CAC.description>
+<!--=============== 假体 - 英雄 ====================-->
+<OE_ProstheticHeart_OES.label>英雄仿生心脏</OE_ProstheticHeart_OES.label>
+<OE_ProstheticHeart_OES.description>黑曜石英雄仿生心脏。它在所有方面都比生物心脏好得多。使用这种假体会对身体造成明显负担。</OE_ProstheticHeart_OES.description>
+
+<!--=============== 肾脏 ====================-->
+<!--=============== 假体 - 普通 ====================-->
+<OE_ProstheticKidney.label>仿生肾</OE_ProstheticKidney.label>
+<OE_ProstheticKidney.description>黑曜石仿生肾。它在几乎所有方面都比生物肾更好。使用这种假体会对身体造成轻微负担。</OE_ProstheticKidney.description>
+<!--=============== 假体 - 改装 ====================-->
+<OE_ProstheticKidney_M.label>高级仿生肾</OE_ProstheticKidney_M.label>
+<OE_ProstheticKidney_M.description>黑曜石高级仿生肾。它在几乎所有方面都比生物肾好得多。使用这种假体会对身体造成负担。</OE_ProstheticKidney_M.description>
+<!--=============== 假体 - 邪教徒 ====================-->
+<OE_ProstheticKidney_CAC.label>邪教徒仿生肾</OE_ProstheticKidney_CAC.label>
+<OE_ProstheticKidney_CAC.description>黑曜石邪教徒仿生肾。它在所有方面都比生物肾好得多。使用这种假体会对身体造成明显负担。</OE_ProstheticKidney_CAC.description>
+<!--=============== 假体 - 英雄 ====================-->
+<OE_ProstheticKidney_OES.label>英雄仿生肾</OE_ProstheticKidney_OES.label>
+<OE_ProstheticKidney_OES.description>黑曜石英雄仿生肾。它在所有方面都比生物肾好得多。使用这种假体会对身体造成明显负担。</OE_ProstheticKidney_OES.description>
+
+<!--=============== 肝脏 ====================-->
+<!--=============== 假体 - 普通 ====================-->
+<OE_ProstheticLiver.label>仿生肝</OE_ProstheticLiver.label>
+<OE_ProstheticLiver.description>黑曜石仿生肝。它在几乎所有方面都比生物肝更好。使用这种假体会对身体造成轻微负担。</OE_ProstheticLiver.description>
+<!--=============== 假体 - 改装 ====================-->
+<OE_ProstheticLiver_M.label>高级仿生肝</OE_ProstheticLiver_M.label>
+<OE_ProstheticLiver_M.description>黑曜石高级仿生肝。它在几乎所有方面都比生物肝好得多。使用这种假体会对身体造成负担。</OE_ProstheticLiver_M.description>
+<!--=============== 假体 - 邪教徒 ====================-->
+<OE_ProstheticLiver_CAC.label>邪教徒仿生肝</OE_ProstheticLiver_CAC.label>
+<OE_ProstheticLiver_CAC.description>黑曜石邪教徒仿生肝。它在所有方面都比生物肝好得多。使用这种假体会对身体造成明显负担。</OE_ProstheticLiver_CAC.description>
+<!--=============== 假体 - 英雄 ====================-->
+<OE_ProstheticLiver_OES.label>英雄仿生肝</OE_ProstheticLiver_OES.label>
+<OE_ProstheticLiver_OES.description>黑曜石英雄仿生肝。它在所有方面都比生物肝好得多。使用这种假体会对身体造成明显负担。</OE_ProstheticLiver_OES.description>
+
+<!--=============== 肺部 ====================-->
+<!--=============== 假体 - 普通 ====================-->
+<OE_ProstheticLung.label>仿生肺</OE_ProstheticLung.label>
+<OE_ProstheticLung.description>黑曜石仿生肺。它在几乎所有方面都比生物肺更好。使用这种假体会对身体造成轻微负担。</OE_ProstheticLung.description>
+<!--=============== 假体 - 改装 ====================-->
+<OE_ProstheticLung_M.label>高级仿生肺</OE_ProstheticLung_M.label>
+<OE_ProstheticLung_M.description>黑曜石高级仿生肺。它在几乎所有方面都比生物肺好得多。使用这种假体会对身体造成负担。</OE_ProstheticLung_M.description>
+<!--=============== 假体 - 邪教徒 ====================-->
+<OE_ProstheticLung_CAC.label>邪教徒仿生肺</OE_ProstheticLung_CAC.label>
+<OE_ProstheticLung_CAC.description>黑曜石邪教徒仿生肺。它在所有方面都比生物肺好得多。使用这种假体会对身体造成明显负担。</OE_ProstheticLung_CAC.description>
+<!--=============== 假体 - 英雄 ====================-->
+<OE_ProstheticLung_OES.label>英雄仿生肺</OE_ProstheticLung_OES.label>
+<OE_ProstheticLung_OES.description>黑曜石英雄仿生肺。它在所有方面都比生物肺好得多。使用这种假体会对身体造成明显负担。</OE_ProstheticLung_OES.description>
+
+<!--=============== 眼睛 ====================-->
+<!--=============== 假体 - 普通 ====================-->
+<OE_ProstheticEye.label>仿生眼</OE_ProstheticEye.label>
+<OE_ProstheticEye.description>黑曜石仿生眼。它在几乎所有方面都比生物眼更好。即使受到伤害，它也会随着时间的推移自我修复。使用这种假体会对身体造成轻微负担。</OE_ProstheticEye.description>
+<!--=============== 假体 - 改装 ====================-->
+<OE_ProstheticEye_M.label>高级仿生眼</OE_ProstheticEye_M.label>
+<OE_ProstheticEye_M.description>黑曜石高级仿生眼。它在几乎所有方面都比生物眼好得多。即使受到伤害，它也会随着时间的推移自我修复。使用这种假体会对身体造成负担。</OE_ProstheticEye_M.description>
+<!--=============== 假体 - 邪教徒 ====================-->
+<OE_ProstheticEye_CAC.label>邪教徒仿生眼</OE_ProstheticEye_CAC.label>
+<OE_ProstheticEye_CAC.description>黑曜石邪教徒仿生眼。它在所有方面都比生物眼好得多。即使受到伤害，它也会随着时间的推移自我修复。使用这种假体会对身体造成明显负担。</OE_ProstheticEye_CAC.description>
+<!--=============== 假体 - 英雄 ====================-->
+<OE_ProstheticEye_OES.label>英雄仿生眼</OE_ProstheticEye_OES.label>
+<OE_ProstheticEye_OES.description>黑曜石英雄仿生眼。它在所有方面都比生物眼好得多。即使受到伤害，它也会随着时间的推移自我修复。使用这种假体会对身体造成明显负担。</OE_ProstheticEye_OES.description>
+
+<!--=============== 耳朵 ====================-->
+<!--=============== 假体 - 普通 ====================-->
+<OE_ProstheticEar.label>仿生耳</OE_ProstheticEar.label>
+<OE_ProstheticEar.description>黑曜石仿生耳。它在几乎所有方面都比生物耳更好。即使受到伤害，它也会随着时间的推移自我修复。使用这种假体会对身体造成轻微负担。</OE_ProstheticEar.description>
+<!--=============== 假体 - 改装 ====================-->
+<OE_ProstheticEar_M.label>高级仿生耳</OE_ProstheticEar_M.label>
+<OE_ProstheticEar_M.description>黑曜石高级仿生耳。它在几乎所有方面都比生物耳好得多。即使受到伤害，它也会随着时间的推移自我修复。使用这种假体会对身体造成负担。</OE_ProstheticEar_M.description>
+<!--=============== 假体 - 邪教徒 ====================-->
+<OE_ProstheticEar_CAC.label>邪教徒仿生耳</OE_ProstheticEar_CAC.label>
+<OE_ProstheticEar_CAC.description>黑曜石邪教徒仿生耳。它在所有方面都比生物耳好得多。即使受到伤害，它也会随着时间的推移自我修复。使用这种假体会对身体造成明显负担。</OE_ProstheticEar_CAC.description>
+<!--=============== 假体 - 英雄 ====================-->
+<OE_ProstheticEar_OES.label>英雄仿生耳</OE_ProstheticEar_OES.label>
+<OE_ProstheticEar_OES.description>黑曜石英雄仿生耳。它在所有方面都比生物耳好得多。即使受到伤害，它也会随着时间的推移自我修复。使用这种假体会对身体造成明显负担。</OE_ProstheticEar_OES.description>
+
+<!--=============== 下颌 ====================-->
+<!--=============== 假体 - 普通 ====================-->
+<OE_ProstheticJaw.label>仿生下颌</OE_ProstheticJaw.label>
+<OE_ProstheticJaw.description>黑曜石仿生下颌。它在几乎所有方面都比生物下颌更好。即使受到伤害，它也会随着时间的推移自我修复。使用这种假体会对身体造成轻微负担。</OE_ProstheticJaw.description>
+<!--=============== 假体 - 改装 ====================-->
+<OE_ProstheticJaw_M.label>高级仿生下颌</OE_ProstheticJaw_M.label>
+<OE_ProstheticJaw_M.description>黑曜石高级仿生下颌。它在几乎所有方面都比生物下颌好得多。即使受到伤害，它也会随着时间的推移自我修复。使用这种假体会对身体造成负担。</OE_ProstheticJaw_M.description>
+<!--=============== 假体 - 邪教徒 ====================-->
+<OE_ProstheticJaw_CAC.label>邪教徒仿生下颌</OE_ProstheticJaw_CAC.label>
+<OE_ProstheticJaw_CAC.description>黑曜石邪教徒仿生下颌。它在所有方面都比生物下颌好得多。即使受到伤害，它也会随着时间的推移自我修复。使用这种假体会对身体造成明显负担。</OE_ProstheticJaw_CAC.description>
+<!--=============== 假体 - 英雄 ====================-->
+<OE_ProstheticJaw_OES.label>英雄仿生下颌</OE_ProstheticJaw_OES.label>
+<OE_ProstheticJaw_OES.description>黑曜石英雄仿生下颌。它在所有方面都比生物下颌好得多。即使受到伤害，它也会随着时间的推移自我修复。使用这种假体会对身体造成明显负担。</OE_ProstheticJaw_OES.description>
+
+</LanguageData>

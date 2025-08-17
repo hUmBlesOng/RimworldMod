@@ -2,18 +2,18 @@
 
 <LanguageData>
 <!--=============== OMG - Knife ====================-->
-<OE_Reset_OMG_Trophy_Knife.label>重置破甲刃</OE_Reset_OMG_Trophy_Knife.label>
-<OE_Reset_OMG_Trophy_Knife.description>重置破甲刃。\n\n警告！人格特征将会改变。</OE_Reset_OMG_Trophy_Knife.description>
-<OE_Reset_OMG_Trophy_Knife.jobString>正在重置破甲刃。</OE_Reset_OMG_Trophy_Knife.jobString>
+<OE_Reset_OMG_Trophy_Knife.label>Reset Platebreaker</OE_Reset_OMG_Trophy_Knife.label>
+<OE_Reset_OMG_Trophy_Knife.description>Reset a Platebreaker.\n\nWarning! Persona traits will be changed.</OE_Reset_OMG_Trophy_Knife.description>
+<OE_Reset_OMG_Trophy_Knife.jobString>Resetting a Platebreaker.</OE_Reset_OMG_Trophy_Knife.jobString>
 
 <!--=============== OMG - PowerGuitar ====================-->
-<OE_Reset_OMG_Trophy_PowerGuitar.label>重置霓虹回声</OE_Reset_OMG_Trophy_PowerGuitar.label>
-<OE_Reset_OMG_Trophy_PowerGuitar.description>重置霓虹回声。\n\n警告！巅峰特征将会改变。</OE_Reset_OMG_Trophy_PowerGuitar.description>
-<OE_Reset_OMG_Trophy_PowerGuitar.jobString>正在重置霓虹回声。</OE_Reset_OMG_Trophy_PowerGuitar.jobString>
+<OE_Reset_OMG_Trophy_PowerGuitar.label>Reset Neon Echo</OE_Reset_OMG_Trophy_PowerGuitar.label>
+<OE_Reset_OMG_Trophy_PowerGuitar.description>Reset a Neon Echo.\n\nWarning! Paragon traits will be changed.</OE_Reset_OMG_Trophy_PowerGuitar.description>
+<OE_Reset_OMG_Trophy_PowerGuitar.jobString>Resetting a Neon Echo.</OE_Reset_OMG_Trophy_PowerGuitar.jobString>
 
 <!--=============== OMG - Revolver ====================-->
-<OE_Reset_OMG_Trophy_Revolver.label>重置死亡召唤</OE_Reset_OMG_Trophy_Revolver.label>
-<OE_Reset_OMG_Trophy_Revolver.description>重置死亡召唤。\n\n警告！巅峰特征将会改变。</OE_Reset_OMG_Trophy_Revolver.description>
-<OE_Reset_OMG_Trophy_Revolver.jobString>正在重置死亡召唤。</OE_Reset_OMG_Trophy_Revolver.jobString>
+<OE_Reset_OMG_Trophy_Revolver.label>Reset Death’s Call</OE_Reset_OMG_Trophy_Revolver.label>
+<OE_Reset_OMG_Trophy_Revolver.description>Reset a Death’s Call.\n\nWarning! Paragon traits will be changed.</OE_Reset_OMG_Trophy_Revolver.description>
+<OE_Reset_OMG_Trophy_Revolver.jobString>Resetting a Death’s Call.</OE_Reset_OMG_Trophy_Revolver.jobString>
 
 </LanguageData>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== OE - Heroic Modules ====================-->
+<OE_Module_HeroicWarrior.label>英雄战斗模块 - 战士</OE_Module_HeroicWarrior.label>
+<OE_Module_HeroicWarrior.description>该模块根据型号为所有者提供各种加成。设计用于黑曜石的各个领域。</OE_Module_HeroicWarrior.description>
+
+<OE_Module_HeroicResist.label>英雄战斗模块 - 抵抗</OE_Module_HeroicResist.label>
+<OE_Module_HeroicResist.description>该模块根据型号为所有者提供各种加成。设计用于黑曜石的各个领域。</OE_Module_HeroicResist.description>
+
+<OE_Module_HeroicPsy.label>英雄战斗模块 - 灵能</OE_Module_HeroicPsy.label>
+<OE_Module_HeroicPsy.description>该模块根据型号为所有者提供各种加成。设计用于黑曜石的各个领域。</OE_Module_HeroicPsy.description>
+
+<OE_Module_HeroicMedic.label>英雄智能模块 - 医生</OE_Module_HeroicMedic.label>
+<OE_Module_HeroicMedic.description>该模块根据型号为所有者提供各种加成。设计用于黑曜石的各个领域。</OE_Module_HeroicMedic.description>
+
+<OE_Module_HeroicScientist.label>英雄智能模块 - 科学家</OE_Module_HeroicScientist.label>
+<OE_Module_HeroicScientist.description>该模块根据型号为所有者提供各种加成。设计用于黑曜石的各个领域。</OE_Module_HeroicScientist.description>
+
+<OE_Module_HeroicSocial.label>英雄智能模块 - 社交</OE_Module_HeroicSocial.label>
+<OE_Module_HeroicSocial.description>该模块根据型号为所有者提供各种加成。设计用于黑曜石的各个领域。</OE_Module_HeroicSocial.description>
+
+<OE_Module_HeroicMechanitor.label>英雄智能模块 - 机械师</OE_Module_HeroicMechanitor.label>
+<OE_Module_HeroicMechanitor.description>该模块根据型号为所有者提供各种加成。设计用于黑曜石的各个领域。</OE_Module_HeroicMechanitor.description>
+
+<OE_Module_HeroicBuilder.label>英雄工人模块 - 建筑工</OE_Module_HeroicBuilder.label>
+<OE_Module_HeroicBuilder.description>该模块根据型号为所有者提供各种加成。设计用于黑曜石的各个领域。</OE_Module_HeroicBuilder.description>
+
+<OE_Module_HeroicCook.label>英雄工人模块 - 厨师</OE_Module_HeroicCook.label>
+<OE_Module_HeroicCook.description>该模块根据型号为所有者提供各种加成。设计用于黑曜石的各个领域。</OE_Module_HeroicCook.description>
+
+<OE_Module_HeroicEngineer.label>英雄工人模块 - 工程师</OE_Module_HeroicEngineer.label>
+<OE_Module_HeroicEngineer.description>该模块根据型号为所有者提供各种加成。设计用于黑曜石的各个领域。</OE_Module_HeroicEngineer.description>
+
+<OE_Module_HeroicFarmer.label>英雄工人模块 - 农民</OE_Module_HeroicFarmer.label>
+<OE_Module_HeroicFarmer.description>该模块根据型号为所有者提供各种加成。设计用于黑曜石的各个领域。</OE_Module_HeroicFarmer.description>
+
+<OE_Module_HeroicHerdsman.label>英雄工人模块 - 牧民</OE_Module_HeroicHerdsman.label>
+<OE_Module_HeroicHerdsman.description>该模块根据型号为所有者提供各种加成。设计用于黑曜石的各个领域。</OE_Module_HeroicHerdsman.description>
+
+<!--=============== OE - Heroic Aura Modules ====================-->
+<OE_Module_HeroicAuraBrigadier.label>英雄光环模块 - 准将</OE_Module_HeroicAuraBrigadier.label>
+<OE_Module_HeroicAuraBrigadier.description>该模块根据型号为所有者提供各种带有加成的光环。设计用于黑曜石的各个领域。</OE_Module_HeroicAuraBrigadier.description>
+
+<OE_Module_HeroicAuraBattleCommander.label>英雄光环模块 - 战斗指挥官</OE_Module_HeroicAuraBattleCommander.label>
+<OE_Module_HeroicAuraBattleCommander.description>该模块根据型号为所有者提供各种带有加成的光环。设计用于黑曜石的各个领域。</OE_Module_HeroicAuraBattleCommander.description>
+
+<OE_Module_HeroicAuraGuardCommander.label>英雄光环模块 - 卫队指挥官</OE_Module_HeroicAuraGuardCommander.label>
+<OE_Module_HeroicAuraGuardCommander.description>该模块根据型号为所有者提供各种带有加成的光环。设计用于黑曜石的各个领域。</OE_Module_HeroicAuraGuardCommander.description>
+
+<OE_Module_HeroicAuraPsyLord.label>英雄光环模块 - 灵能领主</OE_Module_HeroicAuraPsyLord.label>
+<OE_Module_HeroicAuraPsyLord.description>该模块根据型号为所有者提供各种带有加成的光环。设计用于黑曜石的各个领域。</OE_Module_HeroicAuraPsyLord.description>
+
+</LanguageData>

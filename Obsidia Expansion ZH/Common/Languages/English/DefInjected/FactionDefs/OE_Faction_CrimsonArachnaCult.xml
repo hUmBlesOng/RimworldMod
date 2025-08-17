@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== Crimson Arachna Cult - Faction ====================-->
-<ObsidiaCrimsonArachnaCult.label>深红蜘蛛邪教</ObsidiaCrimsonArachnaCult.label>
-<ObsidiaCrimsonArachnaCult.description>古老的危险的黑曜石邪教，将蜘蛛视为神明崇拜，几个世纪前就被完全消灭了...但深红蜘蛛邪教幸存了下来，幸存的追随者隐藏在街道的阴暗深处和阴影中，逐步在黑曜石及其殖民地上扎根影响。在吸收了足够的影响力、权力和技术后，邪教再次向世界展示自己，以消灭所有异教徒！\n\n邪教完全拒绝与其它派系建立任何关系，除了敌对关系。</ObsidiaCrimsonArachnaCult.description>
-<ObsidiaCrimsonArachnaCult.leaderTitle>维齐尔</ObsidiaCrimsonArachnaCult.leaderTitle>
-<ObsidiaCrimsonArachnaCult.pawnSingular>邪教徒</ObsidiaCrimsonArachnaCult.pawnSingular>
-<ObsidiaCrimsonArachnaCult.pawnsPlural>邪教徒</ObsidiaCrimsonArachnaCult.pawnsPlural>
-<ObsidiaCrimsonArachnaCult.fixedName>深红蜘蛛邪教</ObsidiaCrimsonArachnaCult.fixedName>
-<ObsidiaCrimsonArachnaCult.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</ObsidiaCrimsonArachnaCult.messageDefendersAttacking>
+<ObsidiaCrimsonArachnaCult.label>Crimson Arachna Cult</ObsidiaCrimsonArachnaCult.label>
+<ObsidiaCrimsonArachnaCult.description>The ancient and dangerous cult of Obsidia, worshiping Arachnas as deities, was completely exterminated many centuries ago... But Crimson Arachna Cult survived, the surviving followers hid in the dark depths and shadows of the streets, step by step putting down the roots of their influence on Obsidia and its colonies. Having absorbed enough influence, power and technology, the cult again revealed itself to the world in order to exterminate all the infidels!\n\nThe cult completely rejects any relationship, other than hostility, with other factions.</ObsidiaCrimsonArachnaCult.description>
+<ObsidiaCrimsonArachnaCult.leaderTitle>vizier</ObsidiaCrimsonArachnaCult.leaderTitle>
+<ObsidiaCrimsonArachnaCult.pawnSingular>cultist</ObsidiaCrimsonArachnaCult.pawnSingular>
+<ObsidiaCrimsonArachnaCult.pawnsPlural>cultists</ObsidiaCrimsonArachnaCult.pawnsPlural>
+<ObsidiaCrimsonArachnaCult.fixedName>Crimson Arachna Cult</ObsidiaCrimsonArachnaCult.fixedName>
+<ObsidiaCrimsonArachnaCult.messageDefendersAttacking>{0} from {1} are attacking your {2}.</ObsidiaCrimsonArachnaCult.messageDefendersAttacking>
 
 </LanguageData>

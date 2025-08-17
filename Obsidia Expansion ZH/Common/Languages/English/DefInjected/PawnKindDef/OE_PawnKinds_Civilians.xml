@@ -2,15 +2,15 @@
 
 <LanguageData>
 <!--=============== Colonist ====================-->
-<OE_Colonist.label>黑曜石殖民者</OE_Colonist.label>
+<OE_Colonist.label>Obsidia colonist</OE_Colonist.label>
 
 <!--=============== Laborer ====================-->
-<OE_Laborer.label>黑曜石劳工</OE_Laborer.label>
+<OE_Laborer.label>Obsidia laborer</OE_Laborer.label>
 
 <!--=============== Trader ====================-->
-<OE_Trader.label>黑曜石商人</OE_Trader.label>
+<OE_Trader.label>Obsidia trader</OE_Trader.label>
 
 <!--=============== Сonsul ====================-->
-<OE_Consul.label>黑曜石执政官</OE_Consul.label>
+<OE_Consul.label>Obsidia consul</OE_Consul.label>
 
 </LanguageData>

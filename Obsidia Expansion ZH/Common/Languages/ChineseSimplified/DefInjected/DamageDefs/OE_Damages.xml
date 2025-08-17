@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== OCC - Blast ====================-->
+<OCCBlast.label>爆炸</OCCBlast.label>
+<OCCBlast.deathMessage>{0}被炸死了。</OCCBlast.deathMessage>
+
+<!--=============== OTC - Acid ====================-->
+<OTCAcid.label>酸液</OTCAcid.label>
+<OTCAcid.deathMessage>{0}被酸液烧死了。</OTCAcid.deathMessage>
+
+<!--=============== OTC - Cryo ====================-->
+<OTCCryo.label>冷冻</OTCCryo.label>
+<OTCCryo.deathMessage>{0}死于冻伤。</OTCCryo.deathMessage>
+
+<!--=============== OE - UnstableToxins ====================-->
+<OEUnstableToxins.label>不稳定毒素</OEUnstableToxins.label>
+<OEUnstableToxins.deathMessage>{0}因不稳定毒素过量而死亡。</OEUnstableToxins.deathMessage>
+
+<!--=============== Arachna Queen - DeathCry ====================-->
+<OEMechCry.label>女王之死的哀鸣</OEMechCry.label>
+<OEMechCry.deathMessage>{0}被震惊致死。</OEMechCry.deathMessage>
+
+<!--=============== Monarchid - DeathCry ====================-->
+<OEMonarchidCry.label>君主的哀鸣</OEMonarchidCry.label>
+<OEMonarchidCry.deathMessage>{0}被震惊致死。</OEMonarchidCry.deathMessage>
+
+<!--=============== OMG - Necrobane ====================-->
+<OMGNecrobane.label>死灵禁锢</OMGNecrobane.label>
+<OMGNecrobane.deathMessage>{0}死于死灵禁锢……但又重新行走。</OMGNecrobane.deathMessage>
+
+</LanguageData>

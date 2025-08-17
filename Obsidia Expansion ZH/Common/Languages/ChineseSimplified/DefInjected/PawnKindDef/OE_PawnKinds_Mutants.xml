@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== OMC Soldier Shambler ====================-->  
+<OMC_Soldier_Shambler.label>OMC士兵蹒跚者</OMC_Soldier_Shambler.label>
+<!--=============== OTC Mechanic Shambler ====================-->  
+<OTC_Mechanic_Shambler.label>OTC机械师蹒跚者</OTC_Mechanic_Shambler.label>
+<!--=============== OCC Knight Shambler ====================-->  
+<OCC_Knight_Shambler.label>OCC骑士蹒跚者</OCC_Knight_Shambler.label>
+<!--=============== OEC Hunter Shambler ====================-->  
+<OEC_Hunter_Shambler.label>OEC猎人蹒跚者</OEC_Hunter_Shambler.label>
+<!--=============== CAC Cultist Shambler ====================-->  
+<CAC_Cultist_Shambler.label>CAC邪教徒蹒跚者</CAC_Cultist_Shambler.label>
+
+</LanguageData>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Shovel ====================-->
+<OE_Bond_OE_Trophy_Shovel.label>人格绑定劳埃德的铲子</OE_Bond_OE_Trophy_Shovel.label>
+<OE_Bond_OE_Trophy_Shovel.description>人格绑定劳埃德的铲子。</OE_Bond_OE_Trophy_Shovel.description>
+<OE_Bond_OE_Trophy_Shovel.jobString>正在人格绑定劳埃德的铲子。</OE_Bond_OE_Trophy_Shovel.jobString>
+
+<OE_Reset_OE_Trophy_Shovel_P.label>重置人格劳埃德的铲子</OE_Reset_OE_Trophy_Shovel_P.label>
+<OE_Reset_OE_Trophy_Shovel_P.description>重置人格劳埃德的铲子。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OE_Trophy_Shovel_P.description>
+<OE_Reset_OE_Trophy_Shovel_P.jobString>正在重置人格劳埃德的铲子。</OE_Reset_OE_Trophy_Shovel_P.jobString>
+
+<!--=============== Broken Sword ====================-->
+<OE_Bond_OE_Trophy_BrokenSword.label>人格绑定黑王子剑</OE_Bond_OE_Trophy_BrokenSword.label>
+<OE_Bond_OE_Trophy_BrokenSword.description>人格绑定黑王子剑。</OE_Bond_OE_Trophy_BrokenSword.description>
+<OE_Bond_OE_Trophy_BrokenSword.jobString>正在人格绑定黑王子剑。</OE_Bond_OE_Trophy_BrokenSword.jobString>
+
+<OE_Reset_OE_Trophy_BrokenSword_P.label>重置人格黑王子剑</OE_Reset_OE_Trophy_BrokenSword_P.label>
+<OE_Reset_OE_Trophy_BrokenSword_P.description>重置人格黑王子剑。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OE_Trophy_BrokenSword_P.description>
+<OE_Reset_OE_Trophy_BrokenSword_P.jobString>正在重置人格黑王子剑。</OE_Reset_OE_Trophy_BrokenSword_P.jobString>
+
+<!--=============== Mech Hammer ====================-->
+<OE_Bond_OE_Trophy_MechHammer.label>人格绑定锻造风暴锤</OE_Bond_OE_Trophy_MechHammer.label>
+<OE_Bond_OE_Trophy_MechHammer.description>人格绑定锻造风暴锤。</OE_Bond_OE_Trophy_MechHammer.description>
+<OE_Bond_OE_Trophy_MechHammer.jobString>正在人格绑定锻造风暴锤。</OE_Bond_OE_Trophy_MechHammer.jobString>
+
+<OE_Reset_OE_Trophy_MechHammer_P.label>重置人格锻造风暴锤</OE_Reset_OE_Trophy_MechHammer_P.label>
+<OE_Reset_OE_Trophy_MechHammer_P.description>重置人格锻造风暴锤。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OE_Trophy_MechHammer_P.description>
+<OE_Reset_OE_Trophy_MechHammer_P.jobString>正在重置人格锻造风暴锤。</OE_Reset_OE_Trophy_MechHammer_P.jobString>
+
+<!--=============== Repair Pistol ====================-->
+<OE_Bond_OE_Trophy_RepairPistol.label>巅峰绑定原型sX-02a</OE_Bond_OE_Trophy_RepairPistol.label>
+<OE_Bond_OE_Trophy_RepairPistol.description>巅峰绑定原型sX-02a。</OE_Bond_OE_Trophy_RepairPistol.description>
+<OE_Bond_OE_Trophy_RepairPistol.jobString>正在巅峰绑定原型sX-02a。</OE_Bond_OE_Trophy_RepairPistol.jobString>
+
+<OE_Reset_OE_Trophy_RepairPistol_P.label>重置巅峰原型sX-02a</OE_Reset_OE_Trophy_RepairPistol_P.label>
+<OE_Reset_OE_Trophy_RepairPistol_P.description>重置巅峰原型sX-02a。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OE_Trophy_RepairPistol_P.description>
+<OE_Reset_OE_Trophy_RepairPistol_P.jobString>正在重置巅峰原型sX-02a。</OE_Reset_OE_Trophy_RepairPistol_P.jobString>
+
+<!--=============== Unstable Gun ====================-->
+<OE_Bond_OE_Trophy_UnstableGun.label>巅峰绑定泰坦之击</OE_Bond_OE_Trophy_UnstableGun.label>
+<OE_Bond_OE_Trophy_UnstableGun.description>巅峰绑定泰坦之击。</OE_Bond_OE_Trophy_UnstableGun.description>
+<OE_Bond_OE_Trophy_UnstableGun.jobString>正在巅峰绑定泰坦之击。</OE_Bond_OE_Trophy_UnstableGun.jobString>
+
+<OE_Reset_OE_Trophy_UnstableGun_P.label>重置巅峰泰坦之击</OE_Reset_OE_Trophy_UnstableGun_P.label>
+<OE_Reset_OE_Trophy_UnstableGun_P.description>重置巅峰泰坦之击。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OE_Trophy_UnstableGun_P.description>
+<OE_Reset_OE_Trophy_UnstableGun_P.jobString>正在重置巅峰泰坦之击。</OE_Reset_OE_Trophy_UnstableGun_P.jobString>
+
+<!--=============== Sample Collector ====================-->
+<OE_Bond_OE_Trophy_SampleCollector.label>巅峰绑定阿西索吉·吉藏</OE_Bond_OE_Trophy_SampleCollector.label>
+<OE_Bond_OE_Trophy_SampleCollector.description>巅峰绑定阿西索吉·吉藏。</OE_Bond_OE_Trophy_SampleCollector.description>
+<OE_Bond_OE_Trophy_SampleCollector.jobString>正在巅峰绑定阿西索吉·吉藏。</OE_Bond_OE_Trophy_SampleCollector.jobString>
+
+<OE_Reset_OE_Trophy_SampleCollector_P.label>重置巅峰阿西索吉·吉藏</OE_Reset_OE_Trophy_SampleCollector_P.label>
+<OE_Reset_OE_Trophy_SampleCollector_P.description>重置巅峰阿西索吉·吉藏。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OE_Trophy_SampleCollector_P.description>
+<OE_Reset_OE_Trophy_SampleCollector_P.jobString>正在重置巅峰阿西索吉·吉藏。</OE_Reset_OE_Trophy_SampleCollector_P.jobString>
+
+</LanguageData>

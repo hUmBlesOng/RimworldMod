@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== OMC - Chainsword ====================-->
+<OE_Inlay_OMC_Trophy_Chainsword.label>镶嵌 - 皇后祝福</OE_Inlay_OMC_Trophy_Chainsword.label>
+<OE_Inlay_OMC_Trophy_Chainsword.description>镶嵌 - 皇后祝福。</OE_Inlay_OMC_Trophy_Chainsword.description>
+<OE_Inlay_OMC_Trophy_Chainsword.jobString>正在镶嵌 - 皇后祝福。</OE_Inlay_OMC_Trophy_Chainsword.jobString>
+
+<!--=============== OMC - Pistol ====================-->
+<OE_Inlay_OMC_Trophy_Pistol.label>镶嵌 - 原型sX-01a</OE_Inlay_OMC_Trophy_Pistol.label>
+<OE_Inlay_OMC_Trophy_Pistol.description>镶嵌 - 原型sX-01a。</OE_Inlay_OMC_Trophy_Pistol.description>
+<OE_Inlay_OMC_Trophy_Pistol.jobString>正在镶嵌 - 原型sX-01a。</OE_Inlay_OMC_Trophy_Pistol.jobString>
+
+<!--=============== OTC - Elemental Sword ====================-->
+<!--=============== Acid ====================-->
+<OE_Inlay_OTC_Trophy_Sword_Acid.label>镶嵌 - 酸液裂隙</OE_Inlay_OTC_Trophy_Sword_Acid.label>
+<OE_Inlay_OTC_Trophy_Sword_Acid.description>镶嵌 - 酸液裂隙。</OE_Inlay_OTC_Trophy_Sword_Acid.description>
+<OE_Inlay_OTC_Trophy_Sword_Acid.jobString>正在镶嵌 - 酸液裂隙。</OE_Inlay_OTC_Trophy_Sword_Acid.jobString>
+<!--=============== Cryo ====================-->
+<OE_Inlay_OTC_Trophy_Sword_Cryo.label>镶嵌 - 冷冻裂隙</OE_Inlay_OTC_Trophy_Sword_Cryo.label>
+<OE_Inlay_OTC_Trophy_Sword_Cryo.description>镶嵌 - 冷冻裂隙。</OE_Inlay_OTC_Trophy_Sword_Cryo.description>
+<OE_Inlay_OTC_Trophy_Sword_Cryo.jobString>正在镶嵌 - 冷冻裂隙。</OE_Inlay_OTC_Trophy_Sword_Cryo.jobString>
+<!--=============== Fire ====================-->
+<OE_Inlay_OTC_Trophy_Sword_Fire.label>镶嵌 - 火焰裂隙</OE_Inlay_OTC_Trophy_Sword_Fire.label>
+<OE_Inlay_OTC_Trophy_Sword_Fire.description>镶嵌 - 火焰裂隙。</OE_Inlay_OTC_Trophy_Sword_Fire.description>
+<OE_Inlay_OTC_Trophy_Sword_Fire.jobString>正在镶嵌 - 火焰裂隙。</OE_Inlay_OTC_Trophy_Sword_Fire.jobString>
+<!--=============== EMP ====================-->
+<OE_Inlay_OTC_Trophy_Sword_EMP.label>镶嵌 - 电磁裂隙</OE_Inlay_OTC_Trophy_Sword_EMP.label>
+<OE_Inlay_OTC_Trophy_Sword_EMP.description>镶嵌 - 电磁裂隙。</OE_Inlay_OTC_Trophy_Sword_EMP.description>
+<OE_Inlay_OTC_Trophy_Sword_EMP.jobString>正在镶嵌 - 电磁裂隙。</OE_Inlay_OTC_Trophy_Sword_EMP.jobString>
+
+<!--=============== OTC - Cards ====================-->
+<OE_Inlay_OTC_Trophy_Cards.label>镶嵌 - 兰迪的牌组</OE_Inlay_OTC_Trophy_Cards.label>
+<OE_Inlay_OTC_Trophy_Cards.description>镶嵌 - 兰迪的牌组。</OE_Inlay_OTC_Trophy_Cards.description>
+<OE_Inlay_OTC_Trophy_Cards.jobString>正在镶嵌 - 兰迪的牌组。</OE_Inlay_OTC_Trophy_Cards.jobString>
+
+<!--=============== OCC - Drillspear ====================-->
+<OE_Inlay_OCC_Trophy_Drillspear.label>镶嵌 - 巴洛尔</OE_Inlay_OCC_Trophy_Drillspear.label>
+<OE_Inlay_OCC_Trophy_Drillspear.description>镶嵌 - 巴洛尔。</OE_Inlay_OCC_Trophy_Drillspear.description>
+<OE_Inlay_OCC_Trophy_Drillspear.jobString>正在镶嵌 - 巴洛尔。</OE_Inlay_OCC_Trophy_Drillspear.jobString>
+
+<!--=============== OCC - Railgun ====================-->
+<OE_Inlay_OCC_Trophy_Railgun.label>镶嵌 - 克洛诺斯</OE_Inlay_OCC_Trophy_Railgun.label>
+<OE_Inlay_OCC_Trophy_Railgun.description>镶嵌 - 克洛诺斯。</OE_Inlay_OCC_Trophy_Railgun.description>
+<OE_Inlay_OCC_Trophy_Railgun.jobString>正在镶嵌 - 克洛诺斯。</OE_Inlay_OCC_Trophy_Railgun.jobString>
+
+<!--=============== OEC - Scepter ====================-->
+<OE_Inlay_OEC_Trophy_Scepter.label>镶嵌 - 远古权杖</OE_Inlay_OEC_Trophy_Scepter.label>
+<OE_Inlay_OEC_Trophy_Scepter.description>镶嵌 - 远古权杖。</OE_Inlay_OEC_Trophy_Scepter.description>
+<OE_Inlay_OEC_Trophy_Scepter.jobString>正在镶嵌 - 远古权杖。</OE_Inlay_OEC_Trophy_Scepter.jobString>
+
+<!--=============== OEC - Pistol ====================-->
+<OE_Inlay_OEC_Trophy_Pistol.label>镶嵌 - 神性</OE_Inlay_OEC_Trophy_Pistol.label>
+<OE_Inlay_OEC_Trophy_Pistol.description>镶嵌 - 神性。</OE_Inlay_OEC_Trophy_Pistol.description>
+<OE_Inlay_OEC_Trophy_Pistol.jobString>正在镶嵌 - 神性。</OE_Inlay_OEC_Trophy_Pistol.jobString>
+
+<!--=============== ODC - Sickle ====================-->
+<OE_Inlay_ODC_Trophy_Sickle_C.label>镶嵌 - 诱惑 - 巅峰</OE_Inlay_ODC_Trophy_Sickle_C.label>
+<OE_Inlay_ODC_Trophy_Sickle_C.description>镶嵌 - 诱惑 - 巅峰。</OE_Inlay_ODC_Trophy_Sickle_C.description>
+<OE_Inlay_ODC_Trophy_Sickle_C.jobString>正在镶嵌 - 诱惑 - 巅峰。</OE_Inlay_ODC_Trophy_Sickle_C.jobString>
+
+<!--=============== ODC - Blade Launcher ====================-->
+<OE_Inlay_ODC_Trophy_BladeLauncher_C.label>镶嵌 - 收获 - 巅峰</OE_Inlay_ODC_Trophy_BladeLauncher_C.label>
+<OE_Inlay_ODC_Trophy_BladeLauncher_C.description>镶嵌 - 收获 - 巅峰。</OE_Inlay_ODC_Trophy_BladeLauncher_C.description>
+<OE_Inlay_ODC_Trophy_BladeLauncher_C.jobString>正在镶嵌 - 收获 - 巅峰。</OE_Inlay_ODC_Trophy_BladeLauncher_C.jobString>
+
+</LanguageData>

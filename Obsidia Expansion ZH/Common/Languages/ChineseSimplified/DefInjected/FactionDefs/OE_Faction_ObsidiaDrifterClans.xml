@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Obsidia Syndicate Clan - Faction ====================-->
+<ObsidiaSyndicateClan.label>黑曜石辛迪加氏族</ObsidiaSyndicateClan.label>
+<ObsidiaSyndicateClan.description>他们曾经是来自黑曜石星球的超科技殖民者社会，按军事线路组织。在拒绝黑曜石帝国后，形成了许多不同的派系，但随着时间推移，只有三个主要方向幸存下来，它们联合成为黑曜石漂流者氏族。\n\n变化是突然的、暴力的，是确保星球能够恢复增长状态的必要力量。黑曜石辛迪加氏族认为自己只是这种变化的工具。\n\n他们的目标是袭击和抢劫他们更有生产力的邻居。</ObsidiaSyndicateClan.description>
+<ObsidiaSyndicateClan.leaderTitle>老板</ObsidiaSyndicateClan.leaderTitle>
+<ObsidiaSyndicateClan.pawnSingular>黑曜石人</ObsidiaSyndicateClan.pawnSingular>
+<ObsidiaSyndicateClan.pawnsPlural>黑曜石人</ObsidiaSyndicateClan.pawnsPlural>
+<ObsidiaSyndicateClan.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</ObsidiaSyndicateClan.messageDefendersAttacking>
+
+<!--=============== Obsidia Renegade Clan - Faction ====================-->
+<ObsidiaRenegadeClan.label>黑曜石叛变氏族</ObsidiaRenegadeClan.label>
+<ObsidiaRenegadeClan.description>他们曾经是来自黑曜石星球的超科技殖民者社会，按军事线路组织。在拒绝黑曜石帝国后，形成了许多不同的派系，但随着时间推移，只有三个主要方向幸存下来，它们联合成为黑曜石漂流者氏族。\n\n黑曜石叛变氏族是自由殖民地剩余部分的宣誓保护者。\n\n他们的目标是通过带来繁荣和方向来恢复秩序，以应对暴力世界。</ObsidiaRenegadeClan.description>
+<ObsidiaRenegadeClan.leaderTitle>市长</ObsidiaRenegadeClan.leaderTitle>
+<ObsidiaRenegadeClan.pawnSingular>黑曜石人</ObsidiaRenegadeClan.pawnSingular>
+<ObsidiaRenegadeClan.pawnsPlural>黑曜石人</ObsidiaRenegadeClan.pawnsPlural>
+<ObsidiaRenegadeClan.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</ObsidiaRenegadeClan.messageDefendersAttacking>
+
+<!--=============== Obsidia Pilgrim Clan - Faction ====================-->
+<ObsidiaPilgrimClan.label>黑曜石朝圣者氏族</ObsidiaPilgrimClan.label>
+<ObsidiaPilgrimClan.description>他们曾经是来自黑曜石星球的超科技殖民者社会，按军事线路组织。在拒绝黑曜石帝国后，形成了许多不同的派系，但随着时间推移，只有三个主要方向幸存下来，它们联合成为黑曜石漂流者氏族。\n\n黑曜石朝圣者氏族体现了太空的冰冷真空——无情并决心夺取任何未受保护的东西。受利润驱动。\n\n他们的目标是通过与高科技邻居贸易来致富。</ObsidiaPilgrimClan.description>
+<ObsidiaPilgrimClan.leaderTitle>海军上将</ObsidiaPilgrimClan.leaderTitle>
+<ObsidiaPilgrimClan.pawnSingular>黑曜石人</ObsidiaPilgrimClan.pawnSingular>
+<ObsidiaPilgrimClan.pawnsPlural>黑曜石人</ObsidiaPilgrimClan.pawnsPlural>
+<ObsidiaPilgrimClan.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</ObsidiaPilgrimClan.messageDefendersAttacking>
+
+</LanguageData>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<!--=============== Luciferium ====================-->
+<OE_Synthesis_LuciferiumSingle.label>合成路西法</OE_Synthesis_LuciferiumSingle.label>
+<OE_Synthesis_LuciferiumSingle.description>用中性胺和蓝色巨蚁凝胶与合成材料合成路西法。</OE_Synthesis_LuciferiumSingle.description>
+<OE_Synthesis_LuciferiumSingle.jobString>正在合成路西法。</OE_Synthesis_LuciferiumSingle.jobString>
+
+<!--=============== Neutroamine ====================-->
+<OE_Synthesis_NeutroamineSingle.label>合成中性胺</OE_Synthesis_NeutroamineSingle.label>
+<OE_Synthesis_NeutroamineSingle.description>用精神叶和烟叶与合成材料合成中性胺。</OE_Synthesis_NeutroamineSingle.description>
+<OE_Synthesis_NeutroamineSingle.jobString>正在合成中性胺。</OE_Synthesis_NeutroamineSingle.jobString>
+
+<OE_Synthesis_NeutroaminePack.label>合成中性胺 x5</OE_Synthesis_NeutroaminePack.label>
+<OE_Synthesis_NeutroaminePack.description>用精神叶和烟叶与合成材料合成5个中性胺。</OE_Synthesis_NeutroaminePack.description>
+<OE_Synthesis_NeutroaminePack.jobString>正在合成5个中性胺。</OE_Synthesis_NeutroaminePack.jobString>
+
+<OE_Synthesis_NeutroamineBulk.label>合成中性胺 x10</OE_Synthesis_NeutroamineBulk.label>
+<OE_Synthesis_NeutroamineBulk.description>用精神叶和烟叶与合成材料合成10个中性胺。</OE_Synthesis_NeutroamineBulk.description>
+<OE_Synthesis_NeutroamineBulk.jobString>正在合成10个中性胺。</OE_Synthesis_NeutroamineBulk.jobString>
+
+<!--=============== Synthread ====================-->
+<OE_Synthesis_SynthreadSingle.label>合成合成纤维</OE_Synthesis_SynthreadSingle.label>
+<OE_Synthesis_SynthreadSingle.description>用布料与合成材料合成合成纤维。</OE_Synthesis_SynthreadSingle.description>
+<OE_Synthesis_SynthreadSingle.jobString>正在合成合成纤维。</OE_Synthesis_SynthreadSingle.jobString>
+
+<OE_Synthesis_SynthreadPack.label>合成合成纤维 x5</OE_Synthesis_SynthreadPack.label>
+<OE_Synthesis_SynthreadPack.description>用布料与合成材料合成5个合成纤维。</OE_Synthesis_SynthreadPack.description>
+<OE_Synthesis_SynthreadPack.jobString>正在合成5个合成纤维。</OE_Synthesis_SynthreadPack.jobString>
+
+<OE_Synthesis_SynthreadBulk.label>合成合成纤维 x10</OE_Synthesis_SynthreadBulk.label>
+<OE_Synthesis_SynthreadBulk.description>用布料与合成材料合成10个合成纤维。</OE_Synthesis_SynthreadBulk.description>
+<OE_Synthesis_SynthreadBulk.jobString>正在合成10个合成纤维。</OE_Synthesis_SynthreadBulk.jobString>
+
+<!--=============== Hyperweave ====================-->
+<OE_Synthesis_HyperweaveSingle.label>合成超织物</OE_Synthesis_HyperweaveSingle.label>
+<OE_Synthesis_HyperweaveSingle.description>用合成纤维与合成材料合成超织物。</OE_Synthesis_HyperweaveSingle.description>
+<OE_Synthesis_HyperweaveSingle.jobString>正在合成超织物。</OE_Synthesis_HyperweaveSingle.jobString>
+
+<OE_Synthesis_HyperweavePack.label>合成超织物 x5</OE_Synthesis_HyperweavePack.label>
+<OE_Synthesis_HyperweavePack.description>用合成纤维与合成材料合成5个超织物。</OE_Synthesis_HyperweavePack.description>
+<OE_Synthesis_HyperweavePack.jobString>正在合成5个超织物。</OE_Synthesis_HyperweavePack.jobString>
+
+<OE_Synthesis_HyperweaveBulk.label>合成超织物 x10</OE_Synthesis_HyperweaveBulk.label>
+<OE_Synthesis_HyperweaveBulk.description>用合成纤维与合成材料合成10个超织物。</OE_Synthesis_HyperweaveBulk.description>
+<OE_Synthesis_HyperweaveBulk.jobString>正在合成10个超织物。</OE_Synthesis_HyperweaveBulk.jobString>
+
+<!--=============== AI Persona Core ====================-->
+<OE_Synthesis_AIPersonaCore.label>合成AI人格核心</OE_Synthesis_AIPersonaCore.label>
+<OE_Synthesis_AIPersonaCore.description>用合成材料、秘银和黄金合成AI人格核心。</OE_Synthesis_AIPersonaCore.description>
+<OE_Synthesis_AIPersonaCore.jobString>正在合成AI人格核心。</OE_Synthesis_AIPersonaCore.jobString>
+
+</LanguageData>

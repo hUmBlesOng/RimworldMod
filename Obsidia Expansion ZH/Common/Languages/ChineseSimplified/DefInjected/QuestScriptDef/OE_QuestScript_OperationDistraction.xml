@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Quest - Operation Distraction ====================-->
+<!--=============== NameRules ====================-->
+<OE_Quest_OperationDistraction.questNameRules.rulesStrings>
+  <li>questName->[operationAdjective][operationNoun]</li>
+  <!-- Pieces -->
+  <li>operationAdjective->隐秘的</li>
+  <li>operationAdjective->加密的</li>
+  <li>operationAdjective->隐藏的</li>
+  <li>operationAdjective->虚假的</li>
+  <li>operationNoun->命令</li>
+  <li>operationNoun->行动</li>
+  <li>operationNoun->信号</li>
+</OE_Quest_OperationDistraction.questNameRules.rulesStrings>
+
+<!--=============== DescriptionRules ====================-->
+<OE_Quest_OperationDistraction.questDescriptionRules.rulesStrings>
+  <li>questDescription(askerIsNull==true)->一条神秘信息到达了你的殖民地——发件人身份不明，身份被掩盖。他们提供诱人的奖励，但作为交换，你必须吸引一个危险敌人的注意力。当你站在他们的道路上时，发件人将代表一位神秘的科学家赞助人执行任务……一个未被说出的名字，但一个带有隐藏目的的名字。</li>
+  <li>questDescription(asker_factionLeader==True)->你收到了来自[asker_nameFull]（[asker_faction_name]的[asker_faction_leaderTitle]）的直接信息。如果你帮助分散骚扰他们派系的敌对势力的注意力，他们愿意提供奖励——这都是因为他们正在与亚历山大·艾萨克斯博士合作。</li>
+  <li>questDescription(asker_royalInCurrentFaction==True)->来自[asker_nameFull]（[asker_faction_name]的[asker_royalTitleInCurrentFaction]）的正式请求已经到达，他谦逊地介绍自己是亚历山大·艾萨克斯博士的亲密盟友。如果你选择对抗困扰他们的威胁，让他们任务不受干扰地进行，他们将为你提供崇高的奖励。</li>
+</OE_Quest_OperationDistraction.questDescriptionRules.rulesStrings>
+
+<!--=============== Roots ====================-->
+
+
+</LanguageData>

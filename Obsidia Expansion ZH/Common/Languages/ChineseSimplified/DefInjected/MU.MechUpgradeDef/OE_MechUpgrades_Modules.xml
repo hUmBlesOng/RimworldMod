@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+<!--=============== Overcharged Modules ====================-->
+<!--=============== Repair ====================-->
+<OE_MechUpgrade_Module_Repair_O.label>超频修复模块</OE_MechUpgrade_Module_Repair_O.label>
+<OE_MechUpgrade_Module_Repair_O.description>超频模块，可以安装到机械体修复系统中，使其更加高效。\n\n这种黑曜石改装提高了效率但增加了耗电量。</OE_MechUpgrade_Module_Repair_O.description>
+
+<!--=============== Melee ====================-->
+<OE_MechUpgrade_Module_Melee_O.label>超频近战伤害模块</OE_MechUpgrade_Module_Melee_O.label>
+<OE_MechUpgrade_Module_Melee_O.description>超频模块，可以安装到机械体中，大幅提高近战伤害。\n\n这种黑曜石改装提高了效率但增加了耗电量。</OE_MechUpgrade_Module_Melee_O.description>
+
+<!--=============== Ranged ====================-->  
+<OE_MechUpgrade_Module_Ranged_O.label>超频远程伤害模块</OE_MechUpgrade_Module_Ranged_O.label>
+<OE_MechUpgrade_Module_Ranged_O.description>超频模块，可以安装到机械体弹药控制系统中，大幅提高远程伤害。\n\n这种黑曜石改装提高了效率但增加了耗电量。</OE_MechUpgrade_Module_Ranged_O.description>
+
+<!--=============== Shield ====================-->  
+<OE_MechUpgrade_Module_Shield_O.label>超频护盾模块</OE_MechUpgrade_Module_Shield_O.label>
+<OE_MechUpgrade_Module_Shield_O.description>超频模块，可以安装到机械体护盾核心中，大幅提高最大能量。\n\n这种黑曜石改装提高了效率但增加了耗电量。</OE_MechUpgrade_Module_Shield_O.description>
+
+</LanguageData>

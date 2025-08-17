@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== OE - ServoArm ====================-->
+<!--=============== Various ====================-->
+<!--=============== OE ====================-->
+<OE_ServoArm_Buff.label>黑曜石原型伺服臂</OE_ServoArm_Buff.label>
+<OE_ServoArm_Buff.description>此人正在使用黑曜石原型伺服臂。</OE_ServoArm_Buff.description>
+
+<!--=============== ODC ====================-->
+<ODC_ServoArm_Buff.label>ODC游牧者伺服臂</ODC_ServoArm_Buff.label>
+<ODC_ServoArm_Buff.description>此人正在使用ODC游牧者伺服臂。</ODC_ServoArm_Buff.description>
+
+<!--=============== CAC ====================-->
+<CAC_ServoArm_Buff.label>CAC邪教徒伺服臂</CAC_ServoArm_Buff.label>
+<CAC_ServoArm_Buff.description>此人正在使用CAC邪教徒伺服臂。</CAC_ServoArm_Buff.description>
+
+</LanguageData>

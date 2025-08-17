@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
 <!--=============== Synthesis Dryad ====================-->
-<OE_Synthesis.label>合成</OE_Synthesis.label>
-<OE_Synthesis.description>一种类似昆虫的树精族类，专门从事合成物质生产。与其身体上生长的水晶一起，这种树精可以持续生成合成物质。然而，它在工作或战斗方面缓慢而低效。</OE_Synthesis.description>
+<OE_Synthesis.label>synthesis</OE_Synthesis.label>
+<OE_Synthesis.description>An insect-like caste of dryad which specializes in syntherius production. Together with its crystal growing from the body, this dryad can generate a syntherius on an ongoing basis. However, it is slow and ineffective at work or combat.</OE_Synthesis.description>
 
 </LanguageData>

@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== OE - ServoArm ====================-->
 <!--=============== Various ====================-->
 <!--=============== OE ====================-->
-<OE_ServoArm.label>黑曜石原型伺服臂</OE_ServoArm.label>
-<OE_ServoArm.description>原型伺服臂，完美增强使用者的操作能力。为几百年前黑曜石帝国战士设计使用。</OE_ServoArm.description>
+<OE_ServoArm.label>obsidia proto servo-arm</OE_ServoArm.label>
+<OE_ServoArm.description>Proto servo-arm, perfectly enhances the user’s manipulation. Designed for use by Obsidia Empire warriors several centuries ago.</OE_ServoArm.description>
 
 <!--=============== ODC ====================-->
-<ODC_ServoArm.label>ODC游牧者伺服臂</ODC_ServoArm.label>
-<ODC_ServoArm.description>伺服臂，很好地增强使用者的操作能力。为黑曜石漂泊者设计使用。</ODC_ServoArm.description>
+<ODC_ServoArm.label>ODC Nomad servo-arm</ODC_ServoArm.label>
+<ODC_ServoArm.description>Servo-arm, well enhances the user’s manipulation. Designed for use by Obsidia Drifters.</ODC_ServoArm.description>
 
 <!--=============== CAC ====================-->
-<CAC_ServoArm.label>CAC邪教徒伺服臂</CAC_ServoArm.label>
-<CAC_ServoArm.description>战斗伺服臂，很好地增强使用者的操作能力。为CAC邪教徒设计和改装使用。</CAC_ServoArm.description>
+<CAC_ServoArm.label>CAC Cultist servo-arm</CAC_ServoArm.label>
+<CAC_ServoArm.description>Battle servo-arm, well enhances the user’s manipulation. Designed and modified for use by CAC Cultists.</CAC_ServoArm.description>
 
 </LanguageData>

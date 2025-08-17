@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== CAC ====================-->
+<!--=============== Scythe ====================-->
+<OE_Reset_CAC_Scythe_P.label>重置人格饮魂镰</OE_Reset_CAC_Scythe_P.label>
+<OE_Reset_CAC_Scythe_P.description>重置人格饮魂镰。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_CAC_Scythe_P.description>
+<OE_Reset_CAC_Scythe_P.jobString>正在重置人格饮魂镰。</OE_Reset_CAC_Scythe_P.jobString>
+
+<!--=============== BigScythe ====================-->
+<OE_Reset_CAC_BigScythe_P.label>重置人格噬魂镰</OE_Reset_CAC_BigScythe_P.label>
+<OE_Reset_CAC_BigScythe_P.description>重置人格噬魂镰。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_CAC_BigScythe_P.description>
+<OE_Reset_CAC_BigScythe_P.jobString>正在重置人格噬魂镰。</OE_Reset_CAC_BigScythe_P.jobString>
+
+<!--=============== Thurible ====================-->
+<OE_Reset_CAC_Thurible_P.label>重置人格冷漠</OE_Reset_CAC_Thurible_P.label>
+<OE_Reset_CAC_Thurible_P.description>重置人格冷漠。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_CAC_Thurible_P.description>
+<OE_Reset_CAC_Thurible_P.jobString>正在重置人格冷漠。</OE_Reset_CAC_Thurible_P.jobString>
+
+<!--=============== Pistol ====================-->
+<OE_Reset_CAC_Pistol_P.label>重置巅峰寂静之歌</OE_Reset_CAC_Pistol_P.label>
+<OE_Reset_CAC_Pistol_P.description>重置巅峰寂静之歌。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_CAC_Pistol_P.description>
+<OE_Reset_CAC_Pistol_P.jobString>正在重置巅峰寂静之歌。</OE_Reset_CAC_Pistol_P.jobString>
+
+<!--=============== Shotgun Sidearm ====================-->
+<OE_Reset_CAC_ShotgunS_P.label>重置巅峰穿心者</OE_Reset_CAC_ShotgunS_P.label>
+<OE_Reset_CAC_ShotgunS_P.description>重置巅峰穿心者。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_CAC_ShotgunS_P.description>
+<OE_Reset_CAC_ShotgunS_P.jobString>正在重置巅峰穿心者。</OE_Reset_CAC_ShotgunS_P.jobString>
+
+<!--=============== SMG ====================-->
+<OE_Reset_CAC_SMG_P.label>重置巅峰回声</OE_Reset_CAC_SMG_P.label>
+<OE_Reset_CAC_SMG_P.description>重置巅峰回声。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_CAC_SMG_P.description>
+<OE_Reset_CAC_SMG_P.jobString>正在重置巅峰回声。</OE_Reset_CAC_SMG_P.jobString>
+
+<!--=============== Shotgun ====================-->
+<OE_Reset_CAC_Shotgun_P.label>重置巅峰悲伤</OE_Reset_CAC_Shotgun_P.label>
+<OE_Reset_CAC_Shotgun_P.description>重置巅峰悲伤。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_CAC_Shotgun_P.description>
+<OE_Reset_CAC_Shotgun_P.jobString>正在重置巅峰悲伤。</OE_Reset_CAC_Shotgun_P.jobString>
+
+<!--=============== SniperRifle ====================-->
+<OE_Reset_CAC_SniperRifle_P.label>重置巅峰寡妇制造者</OE_Reset_CAC_SniperRifle_P.label>
+<OE_Reset_CAC_SniperRifle_P.description>重置巅峰寡妇制造者。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_CAC_SniperRifle_P.description>
+<OE_Reset_CAC_SniperRifle_P.jobString>正在重置巅峰寡妇制造者。</OE_Reset_CAC_SniperRifle_P.jobString>
+
+<!--=============== Minigun ====================-->
+<OE_Reset_CAC_Minigun_P.label>重置巅峰断电</OE_Reset_CAC_Minigun_P.label>
+<OE_Reset_CAC_Minigun_P.description>重置巅峰断电。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_CAC_Minigun_P.description>
+<OE_Reset_CAC_Minigun_P.jobString>正在重置巅峰断电。</OE_Reset_CAC_Minigun_P.jobString>
+
+</LanguageData>

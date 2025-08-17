@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Unfinished Gear ====================-->
+<OE_UnfinishedGear.label>未完成的黑曜石装备</OE_UnfinishedGear.label>
+<OE_UnfinishedGear.description>一件未完成的黑曜石装备。</OE_UnfinishedGear.description>
+
+<!--=============== Unfinished Melee ====================-->
+<OE_UnfinishedMelee.label>未完成的黑曜石近战武器</OE_UnfinishedMelee.label>
+<OE_UnfinishedMelee.description>一件未完成的黑曜石近战武器。</OE_UnfinishedMelee.description>
+
+<!--=============== Unfinished Ranged ====================-->
+<OE_UnfinishedRanged.label>未完成的黑曜石枪械</OE_UnfinishedRanged.label>
+<OE_UnfinishedRanged.description>一支未完成的黑曜石枪械。</OE_UnfinishedRanged.description>
+
+<!--=============== Unfinished Mods ====================-->
+<OE_UnfinishedMods.label>未完成的黑曜石高科技</OE_UnfinishedMods.label>
+<OE_UnfinishedMods.description>一件未完成的黑曜石高科技。</OE_UnfinishedMods.description>
+
+<!--=============== Unfinished Amalgama ====================-->
+<OE_UnfinishedAmalgama.label>未完成的融合体黑曜石装备</OE_UnfinishedAmalgama.label>
+<OE_UnfinishedAmalgama.description>一件未完成的融合体黑曜石装备。</OE_UnfinishedAmalgama.description>
+
+</LanguageData>

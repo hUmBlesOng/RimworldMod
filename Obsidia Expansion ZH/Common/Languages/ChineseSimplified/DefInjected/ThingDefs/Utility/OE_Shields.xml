@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== OMC - Shields ====================-->
+<OMC_Shield_Medium.label>神盾MK-II</OMC_Shield_Medium.label>
+<OMC_Shield_Medium.description>由OMC军官使用的改装中型护盾。</OMC_Shield_Medium.description>
+
+<OMC_Shield_Medium.tools.base.label>底部</OMC_Shield_Medium.tools.base.label>
+<OMC_Shield_Medium.tools.centre.label>中心</OMC_Shield_Medium.tools.centre.label>
+
+<!--=============== OTC - Shields ====================-->
+<OTC_Shield_Medium.label>神盾原型</OTC_Shield_Medium.label>
+<OTC_Shield_Medium.description>由OTC工程师使用的实验性中型护盾。</OTC_Shield_Medium.description>
+
+<OTC_Shield_Medium.tools.base.label>底部</OTC_Shield_Medium.tools.base.label>
+<OTC_Shield_Medium.tools.centre.label>中心</OTC_Shield_Medium.tools.centre.label>
+
+<!--=============== OCC - Shields ====================-->
+<OCC_Shield_Big.label>重铸壁垒</OCC_Shield_Big.label>
+<OCC_Shield_Big.description>由OCC圣骑士使用的重铸大型护盾。</OCC_Shield_Big.description>
+
+<OCC_Shield_Big.tools.base.label>底部</OCC_Shield_Big.tools.base.label>
+<OCC_Shield_Big.tools.centre.label>中心</OCC_Shield_Big.tools.centre.label>
+
+<!--=============== OEC - Shields ====================-->
+<OEC_Shield_Small.label>崇高偏转器</OEC_Shield_Small.label>
+<OEC_Shield_Small.description>由OEC审判官使用的崇高小型灵能护盾。</OEC_Shield_Small.description>
+
+<OEC_Shield_Small.tools.base.label>底部</OEC_Shield_Small.tools.base.label>
+<OEC_Shield_Small.tools.centre.label>中心</OEC_Shield_Small.tools.centre.label>
+
+<!--=============== ODC - Shields ====================-->
+<ODC_Shield_Small.label>偏转器 - 新兴</ODC_Shield_Small.label>
+<ODC_Shield_Small.description>由黑曜石漂泊者使用的改装小型护盾。</ODC_Shield_Small.description>
+
+<ODC_Shield_Small.tools.base.label>底部</ODC_Shield_Small.tools.base.label>
+<ODC_Shield_Small.tools.centre.label>中心</ODC_Shield_Small.tools.centre.label>
+
+<ODC_Shield_Medium.label>神盾 - 新兴</ODC_Shield_Medium.label>
+<ODC_Shield_Medium.description>由黑曜石漂泊者使用的改装中型护盾。</ODC_Shield_Medium.description>
+
+<ODC_Shield_Medium.tools.base.label>底部</ODC_Shield_Medium.tools.base.label>
+<ODC_Shield_Medium.tools.centre.label>中心</ODC_Shield_Medium.tools.centre.label>
+
+<!--=============== OCC - Shields ====================-->
+<CAC_Shield_Big.label>诅咒壁垒</CAC_Shield_Big.label>
+<CAC_Shield_Big.description>由CAC邪教徒使用的常规大型护盾。</CAC_Shield_Big.description>
+
+<CAC_Shield_Big.tools.base.label>底部</CAC_Shield_Big.tools.base.label>
+<CAC_Shield_Big.tools.centre.label>中心</CAC_Shield_Big.tools.centre.label>
+
+<!--=============== OES - Shields ====================-->
+<OES_Shield_Small.label>英雄偏转器</OES_Shield_Small.label>
+<OES_Shield_Small.description>由幻影使用的英雄小型护盾。\n\n此改装剥夺了物品的品质等级。</OES_Shield_Small.description>
+
+<OES_Shield_Small.tools.base.label>底部</OES_Shield_Small.tools.base.label>
+<OES_Shield_Small.tools.centre.label>中心</OES_Shield_Small.tools.centre.label>
+
+<OES_Shield_Big.label>英雄壁垒</OES_Shield_Big.label>
+<OES_Shield_Big.description>由幻影使用的英雄大型护盾。\n\n此改装剥夺了物品的品质等级。</OES_Shield_Big.description>
+
+<OES_Shield_Big.tools.base.label>底部</OES_Shield_Big.tools.base.label>
+<OES_Shield_Big.tools.centre.label>中心</OES_Shield_Big.tools.centre.label>
+
+<!--=============== OMG - Shields ====================-->
+<OMG_Shield_Medium.label>字节路障</OMG_Shield_Medium.label>
+<OMG_Shield_Medium.description>由OMG雇佣兵使用的改装中型护盾。\n\n此改装剥夺了物品的品质等级。</OMG_Shield_Medium.description>
+
+<OMG_Shield_Medium.tools.base.label>底部</OMG_Shield_Medium.tools.base.label>
+<OMG_Shield_Medium.tools.centre.label>中心</OMG_Shield_Medium.tools.centre.label>
+
+<!--=============== EGO - Shields ====================-->
+<EGO_Shield_Medium.label>EGO神盾</EGO_Shield_Medium.label>
+<EGO_Shield_Medium.description>特别培育的融合体护盾。</EGO_Shield_Medium.description>
+
+<EGO_Shield_Medium.tools.base.label>底部</EGO_Shield_Medium.tools.base.label>
+<EGO_Shield_Medium.tools.centre.label>中心</EGO_Shield_Medium.tools.centre.label>
+
+</LanguageData>

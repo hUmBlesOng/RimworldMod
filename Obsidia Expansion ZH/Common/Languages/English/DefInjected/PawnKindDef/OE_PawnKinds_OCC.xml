@@ -2,25 +2,25 @@
 
 <LanguageData>
 <!--=============== Recruit ====================-->
-<OCC_Recruit.label>OCC新兵</OCC_Recruit.label>
+<OCC_Recruit.label>OCC recruit</OCC_Recruit.label>
 
 <!--=============== Knight ====================-->
-<OCC_Knight_Melee.label>OCC骑士</OCC_Knight_Melee.label>
-<OCC_Knight_Ranged.label>OCC骑士</OCC_Knight_Ranged.label>
-<OCC_Knight_Heavy.label>OCC骑士</OCC_Knight_Heavy.label>
-<OCC_Knight_CallAid.label>OCC骑士</OCC_Knight_CallAid.label>
+<OCC_Knight_Melee.label>OCC knight</OCC_Knight_Melee.label>
+<OCC_Knight_Ranged.label>OCC knight</OCC_Knight_Ranged.label>
+<OCC_Knight_Heavy.label>OCC knight</OCC_Knight_Heavy.label>
+<OCC_Knight_CallAid.label>OCC knight</OCC_Knight_CallAid.label>
 
 <!--=============== Paladin ====================-->
-<OCC_Paladin_Melee.label>OCC圣骑士</OCC_Paladin_Melee.label>
-<OCC_Paladin_Ranged.label>OCC圣骑士</OCC_Paladin_Ranged.label>
-<OCC_Paladin_Heavy.label>OCC圣骑士</OCC_Paladin_Heavy.label>
-<OCC_Paladin_Mechanitor.label>OCC圣骑士</OCC_Paladin_Mechanitor.label>
-<OCC_Paladin_CallAid.label>OCC圣骑士</OCC_Paladin_CallAid.label>
+<OCC_Paladin_Melee.label>OCC paladin</OCC_Paladin_Melee.label>
+<OCC_Paladin_Ranged.label>OCC paladin</OCC_Paladin_Ranged.label>
+<OCC_Paladin_Heavy.label>OCC paladin</OCC_Paladin_Heavy.label>
+<OCC_Paladin_Mechanitor.label>OCC paladin</OCC_Paladin_Mechanitor.label>
+<OCC_Paladin_CallAid.label>OCC paladin</OCC_Paladin_CallAid.label>
 
 <!--=============== Arachna ====================-->
-<OCC_Mech_Arachna.label>OCC蜘蛛</OCC_Mech_Arachna.label>
+<OCC_Mech_Arachna.label>OCC Arachna</OCC_Mech_Arachna.label>
 
 <!--=============== Dominator ====================-->
-<OCC_Mech_Dominator.label>OCC支配者</OCC_Mech_Dominator.label>
+<OCC_Mech_Dominator.label>OCC Dominator</OCC_Mech_Dominator.label>
 
 </LanguageData>

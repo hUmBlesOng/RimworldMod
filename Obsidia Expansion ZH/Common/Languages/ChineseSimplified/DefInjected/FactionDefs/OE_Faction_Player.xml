@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Obsidia Player Colony ====================-->
+<OE_ObsidiaPlayerColony.label>黑曜石殖民地</OE_ObsidiaPlayerColony.label>
+<OE_ObsidiaPlayerColony.description>一个由最近抵达的黑曜石帝国殖民者组成的殖民地。</OE_ObsidiaPlayerColony.description>
+<OE_ObsidiaPlayerColony.pawnSingular>殖民者</OE_ObsidiaPlayerColony.pawnSingular>
+<OE_ObsidiaPlayerColony.pawnsPlural>殖民者</OE_ObsidiaPlayerColony.pawnsPlural>
+<OE_ObsidiaPlayerColony.leaderTitle>执政官</OE_ObsidiaPlayerColony.leaderTitle>
+<OE_ObsidiaPlayerColony.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</OE_ObsidiaPlayerColony.messageDefendersAttacking>
+
+<!--=============== Obsidia Agent Player Colony ====================-->
+<OE_ObsidiaAgentPlayerColony.label>黑曜石特工殖民地</OE_ObsidiaAgentPlayerColony.label>
+<OE_ObsidiaAgentPlayerColony.description>一个由最近坠毁的黑曜石帝国特工组成的殖民地。</OE_ObsidiaAgentPlayerColony.description>
+<OE_ObsidiaAgentPlayerColony.pawnSingular>特工</OE_ObsidiaAgentPlayerColony.pawnSingular>
+<OE_ObsidiaAgentPlayerColony.pawnsPlural>特工</OE_ObsidiaAgentPlayerColony.pawnsPlural>
+<OE_ObsidiaAgentPlayerColony.leaderTitle>执政官</OE_ObsidiaAgentPlayerColony.leaderTitle>
+<OE_ObsidiaAgentPlayerColony.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</OE_ObsidiaAgentPlayerColony.messageDefendersAttacking>
+
+</LanguageData>

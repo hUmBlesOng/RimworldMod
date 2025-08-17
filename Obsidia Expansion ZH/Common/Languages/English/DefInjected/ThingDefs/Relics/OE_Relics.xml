@@ -1,29 +1,29 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== Ancient Obsidia Blade ====================-->
-<OE_RelicBlade.label>远古黑曜石刀刃</OE_RelicBlade.label>
-<OE_RelicBlade.description>具有宗教意义的物品。</OE_RelicBlade.description>
+<OE_RelicBlade.label>ancient obsidia blade</OE_RelicBlade.label>
+<OE_RelicBlade.description>An object with ideoligious significance.</OE_RelicBlade.description>
 
 <!--=============== Ancient Dragon Skull ====================-->
-<OE_RelicDragonSkull.label>远古龙颅骨</OE_RelicDragonSkull.label>
-<OE_RelicDragonSkull.description>具有宗教意义的物品。</OE_RelicDragonSkull.description>
+<OE_RelicDragonSkull.label>ancient dragon skull</OE_RelicDragonSkull.label>
+<OE_RelicDragonSkull.description>An object with ideoligious significance.</OE_RelicDragonSkull.description>
 
 <!--=============== Crystal Star ====================-->
-<OE_RelicStar.label>水晶星</OE_RelicStar.label>
-<OE_RelicStar.description>具有宗教意义的物品。</OE_RelicStar.description>
+<OE_RelicStar.label>crystal star</OE_RelicStar.label>
+<OE_RelicStar.description>An object with ideoligious significance.</OE_RelicStar.description>
 
 <!--=============== Banners ====================-->
-<OE_RelicBannerA.label>黑曜石帝国旗帜</OE_RelicBannerA.label>
-<OE_RelicBannerA.description>具有宗教意义的物品。</OE_RelicBannerA.description>
+<OE_RelicBannerA.label>obsidia empire banner</OE_RelicBannerA.label>
+<OE_RelicBannerA.description>An object with ideoligious significance.</OE_RelicBannerA.description>
 
-<OE_RelicBannerB.label>黑曜石漂泊者部族旗帜</OE_RelicBannerB.label>
-<OE_RelicBannerB.description>具有宗教意义的物品。</OE_RelicBannerB.description>
+<OE_RelicBannerB.label>obsidia drifter clans banner</OE_RelicBannerB.label>
+<OE_RelicBannerB.description>An object with ideoligious significance.</OE_RelicBannerB.description>
 
-<OE_RelicBannerC.label>猩红蛛类教派旗帜</OE_RelicBannerC.label>
-<OE_RelicBannerC.description>具有宗教意义的物品。</OE_RelicBannerC.description>
+<OE_RelicBannerC.label>crimson arachna cult banner</OE_RelicBannerC.label>
+<OE_RelicBannerC.description>An object with ideoligious significance.</OE_RelicBannerC.description>
 
-<OE_RelicBannerD.label>黑曜石帝国英雄旗帜</OE_RelicBannerD.label>
-<OE_RelicBannerD.description>具有宗教意义的物品。</OE_RelicBannerD.description>
+<OE_RelicBannerD.label>obsidia empire heroes banner</OE_RelicBannerD.label>
+<OE_RelicBannerD.description>An object with ideoligious significance.</OE_RelicBannerD.description>
 
 </LanguageData>

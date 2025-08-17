@@ -1,32 +1,32 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== Implant - Evolution Power Stone ====================-->
-<OE_ImplantPowerStone_Evolution.label>进化能量石</OE_ImplantPowerStone_Evolution.label>
-<OE_ImplantPowerStone_Evolution.description>已安装 - 进化能量石。</OE_ImplantPowerStone_Evolution.description>
+<OE_ImplantPowerStone_Evolution.label>Evolution Power Stone</OE_ImplantPowerStone_Evolution.label>
+<OE_ImplantPowerStone_Evolution.description>An installed - Evolution Power Stone.</OE_ImplantPowerStone_Evolution.description>
 
 <!--=============== Implant - Operator Power Stone ====================-->
-<OE_ImplantPowerStone_Operator.label>操纵者能量石</OE_ImplantPowerStone_Operator.label>
-<OE_ImplantPowerStone_Operator.description>已安装 - 操纵者能量石。</OE_ImplantPowerStone_Operator.description>
+<OE_ImplantPowerStone_Operator.label>Operator Power Stone</OE_ImplantPowerStone_Operator.label>
+<OE_ImplantPowerStone_Operator.description>An installed - Operator Power Stone.</OE_ImplantPowerStone_Operator.description>
 
 <!--=============== Implant - Champion Power Stone ====================-->
-<OE_ImplantPowerStone_Champion.label>冠军能量石</OE_ImplantPowerStone_Champion.label>
-<OE_ImplantPowerStone_Champion.description>已安装 - 冠军能量石。</OE_ImplantPowerStone_Champion.description>
+<OE_ImplantPowerStone_Champion.label>Champion Power Stone</OE_ImplantPowerStone_Champion.label>
+<OE_ImplantPowerStone_Champion.description>An installed - Champion Power Stone.</OE_ImplantPowerStone_Champion.description>
 
 <!--=============== Implant - Outrider Power Stone ====================-->
-<OE_ImplantPowerStone_Outrider.label>先锋能量石</OE_ImplantPowerStone_Outrider.label>
-<OE_ImplantPowerStone_Outrider.description>已安装 - 先锋能量石。</OE_ImplantPowerStone_Outrider.description>
+<OE_ImplantPowerStone_Outrider.label>Outrider Power Stone</OE_ImplantPowerStone_Outrider.label>
+<OE_ImplantPowerStone_Outrider.description>An installed - Outrider Power Stone.</OE_ImplantPowerStone_Outrider.description>
 
 <!--=============== Implant - Monarch Power Stone ====================-->
-<OE_ImplantPowerStone_Monarch.label>君主能量石</OE_ImplantPowerStone_Monarch.label>
-<OE_ImplantPowerStone_Monarch.description>已安装 - 君主能量石。</OE_ImplantPowerStone_Monarch.description>
+<OE_ImplantPowerStone_Monarch.label>Monarch Power Stone</OE_ImplantPowerStone_Monarch.label>
+<OE_ImplantPowerStone_Monarch.description>An installed - Monarch Power Stone.</OE_ImplantPowerStone_Monarch.description>
 
 <!--=============== Implant - Techmaster Power Stone ====================-->
-<OE_ImplantPowerStone_Techmaster.label>科技大师能量石</OE_ImplantPowerStone_Techmaster.label>
-<OE_ImplantPowerStone_Techmaster.description>已安装 - 科技大师能量石。</OE_ImplantPowerStone_Techmaster.description>
+<OE_ImplantPowerStone_Techmaster.label>Techmaster Power Stone</OE_ImplantPowerStone_Techmaster.label>
+<OE_ImplantPowerStone_Techmaster.description>An installed - Techmaster Power Stone.</OE_ImplantPowerStone_Techmaster.description>
 
 <!--=============== Implant - Undead Power Stone ====================-->
-<OE_ImplantPowerStone_Undead.label>亡灵能量石</OE_ImplantPowerStone_Undead.label>
-<OE_ImplantPowerStone_Undead.description>已安装 - 亡灵能量石。</OE_ImplantPowerStone_Undead.description>
+<OE_ImplantPowerStone_Undead.label>Undead Power Stone</OE_ImplantPowerStone_Undead.label>
+<OE_ImplantPowerStone_Undead.description>An installed - Undead Power Stone.</OE_ImplantPowerStone_Undead.description>
 
 </LanguageData>

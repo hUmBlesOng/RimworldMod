@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Obsidia LED Lights Strip ====================-->
+<!--=============== Normal ====================-->
+<OE_LightsStrip.label>黑曜石LED灯带</OE_LightsStrip.label>
+<OE_LightsStrip.description>发光的灯带，是黑曜石标志性设计和照明的必需品。</OE_LightsStrip.description>
+
+<!--=============== Hidden ====================-->
+<OE_HiddenLightsStrip.label>隐藏式黑曜石LED灯带</OE_HiddenLightsStrip.label>
+<OE_HiddenLightsStrip.description>发光的隐藏式灯带，是黑曜石标志性设计和照明的必需品。它们比普通灯带更坚固，但建造速度更慢且更昂贵。</OE_HiddenLightsStrip.description>
+
+<!--=============== Obsidia Ceiling Lights ====================-->
+<!--=============== Small (1x1) ====================-->
+<OE_Lighting_CeilingLamp_Small.label>小型黑曜石吸顶灯</OE_Lighting_CeilingLamp_Small.label>
+<OE_Lighting_CeilingLamp_Small.description>这是一个1x1的吸顶灯，提供照明，同时不占用任何地面空间。昂贵但防护良好。</OE_Lighting_CeilingLamp_Small.description>
+
+<!--=============== Big (2x2) ====================-->
+<OE_Lighting_CeilingLamp_Big.label>大型黑曜石吸顶灯</OE_Lighting_CeilingLamp_Big.label>
+<OE_Lighting_CeilingLamp_Big.description>这是一个2x2的吸顶灯，提供照明，同时不占用任何地面空间。昂贵但防护良好。</OE_Lighting_CeilingLamp_Big.description>
+
+</LanguageData>

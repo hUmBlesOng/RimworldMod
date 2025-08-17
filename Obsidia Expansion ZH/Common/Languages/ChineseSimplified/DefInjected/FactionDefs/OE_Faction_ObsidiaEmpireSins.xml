@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Obsidia Empire Sins - Faction ====================-->
+<ObsidiaEmpireSins.label>黑曜石帝国罪恶</ObsidiaEmpireSins.label>
+<ObsidiaEmpireSins.description>这群被选中的人，他们拯救、保护并激励了整个帝国，他们是真正的利剑和每个人不可动摇的盾牌——黑曜石帝国英雄...但那是以前，现在他们被遗忘、被自己的帝国和他们为之付出一切的人们所抛弃——幻影...他们不再沐浴在自己荣耀的光芒中，但获得了仇恨后，他们找到了新的目标——自己。</ObsidiaEmpireSins.description>
+<ObsidiaEmpireSins.pawnSingular>幻影</ObsidiaEmpireSins.pawnSingular>
+<ObsidiaEmpireSins.pawnsPlural>幻影</ObsidiaEmpireSins.pawnsPlural>
+<ObsidiaEmpireSins.leaderTitle>首席罪人</ObsidiaEmpireSins.leaderTitle>
+<ObsidiaEmpireSins.fixedName>黑曜石帝国罪恶</ObsidiaEmpireSins.fixedName>
+<ObsidiaEmpireSins.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</ObsidiaEmpireSins.messageDefendersAttacking>
+
+</LanguageData>

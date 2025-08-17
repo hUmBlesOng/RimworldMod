@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== Worker Antenna ====================-->
-<OE_MechWorkerAntenna.label>机械效率黑曜石天线</OE_MechWorkerAntenna.label>
-<OE_MechWorkerAntenna.description>远程机械效率设备。其影响半径内的任何机械体都将提高工作属性。</OE_MechWorkerAntenna.description>
+<OE_MechWorkerAntenna.label>mech efficiency obsidia antenna</OE_MechWorkerAntenna.label>
+<OE_MechWorkerAntenna.description>A remote mech efficiency device. Any mechanoids in its effect radius will improves working stats.</OE_MechWorkerAntenna.description>
 
 <!--=============== Combat Antenna ====================-->
-<OE_MechCombatAntenna.label>机械战斗黑曜石天线</OE_MechCombatAntenna.label>
-<OE_MechCombatAntenna.description>远程机械战斗增强设备。其影响半径内的任何机械体都将提高战斗属性。</OE_MechCombatAntenna.description>
+<OE_MechCombatAntenna.label>mech combat obsidia antenna</OE_MechCombatAntenna.label>
+<OE_MechCombatAntenna.description>A remote mech combat enhancement device. Any mechanoids in its effect radius will improves combat stats.</OE_MechCombatAntenna.description>
 
 <!--=============== Corrupter Antenna ====================-->
-<OE_MechCorrupterAntenna.label>机械腐蚀黑曜石天线</OE_MechCorrupterAntenna.label>
-<OE_MechCorrupterAntenna.description>远程机械劣化设备。其影响半径内的任何机械体都将降低战斗属性。</OE_MechCorrupterAntenna.description>
+<OE_MechCorrupterAntenna.label>mech corrupter obsidia antenna</OE_MechCorrupterAntenna.label>
+<OE_MechCorrupterAntenna.description>A remote mech deterioration device. Any mechanoids in its effect radius will deteriorate combat stats.</OE_MechCorrupterAntenna.description>
 
 <!--=============== Mech Recharger ====================-->
-<OE_MechRecharger.label>黑曜石机械充电器</OE_MechRecharger.label>
-<OE_MechRecharger.description>黑曜石机械充电器是一种紧凑且多功能的单元。所有标准尺寸的机械体都可以在这里充电。\n\n充电期间，此充电器会产生有毒废料包并将其存储在内部。搬运工必须不时地将废料包移除。</OE_MechRecharger.description>
+<OE_MechRecharger.label>obsidia mech recharger</OE_MechRecharger.label>
+<OE_MechRecharger.description>Obsidia Mech Recharger is a compact and versatile unit. Mechanoids of all standard classified sizes can recharge here.\n\nDuring recharge, this recharger produces toxic wastepacks and stores them internally. Haulers must remove the wastepacks from time to time.</OE_MechRecharger.description>
 
 </LanguageData>

@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== EGO - Tree ====================-->
-<Plant_OE_EGOTree.label>EGO树</Plant_OE_EGOTree.label>
-<Plant_OE_EGOTree.description>一棵巨大的外星树，具有快速生长和广泛的根系。随着时间的推移，根系会突破到地表，可能包含合成素或带有EGO种子的豆荚。这棵树会发出无法防御的危险有毒粒子，使EGO树非常危险。\n\n长时间暴露在有毒粒子中可能是致命的。</Plant_OE_EGOTree.description>
+<Plant_OE_EGOTree.label>EGO tree</Plant_OE_EGOTree.label>
+<Plant_OE_EGOTree.description>A large alien tree with a fast growing and extensive root system. Over time, the roots break through to the surface and may contain Syntherius or a pod with EGO seed. The tree emits dangerous toxic particles from which it is impossible to defend itself, which makes the EGO tree very dangerous.\n\nProlonged exposure to toxic particles can be fatal.</Plant_OE_EGOTree.description>
 
 <!--=============== EGO - Syntherius Roots ====================-->
-<Plant_OE_SyntheriusRoot.label>合成素根</Plant_OE_SyntheriusRoot.label>
-<Plant_OE_SyntheriusRoot.description>一根巨大的根系突破到地表，含有合成素。它是EGO树广泛根系的一部分。</Plant_OE_SyntheriusRoot.description>
+<Plant_OE_SyntheriusRoot.label>syntherius root</Plant_OE_SyntheriusRoot.label>
+<Plant_OE_SyntheriusRoot.description>A large root has broken through to the surface and contains Syntherius. It is part of the EGO tree's extensive root system.</Plant_OE_SyntheriusRoot.description>
 
 <!--=============== EGO - Pod Roots ====================-->
-<Plant_OE_EGORoot.label>EGO豆荚</Plant_OE_EGORoot.label>
-<Plant_OE_EGORoot.description>一根巨大的根系突破到地表，含有带种子的EGO豆荚。它是EGO树广泛根系的一部分。</Plant_OE_EGORoot.description>
+<Plant_OE_EGORoot.label>EGO pod</Plant_OE_EGORoot.label>
+<Plant_OE_EGORoot.description>A large root has broken through to the surface and contains EGO pod with seed. It is part of the EGO tree's extensive root system.</Plant_OE_EGORoot.description>
 
 </LanguageData>

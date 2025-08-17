@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== 玩家可获得 ====================-->
+<!--=============== 求道者 ====================-->
+<OE_Title_1_Aspirant.label>求道者</OE_Title_1_Aspirant.label>
+<OE_Title_1_Aspirant.description>求道者头衔标志着在黑曜石帝国旅程的开始。求道者在学术、技术或行政领域表现出潜力，必须通过培训和服役来证明他们的忠诚和技能。这个初始阶段决定了他们未来的地位，许多外来者在寻求加入黑曜石帝国时都从求道者开始。</OE_Title_1_Aspirant.description>
+
+<!--=============== 仲裁者 ====================--> 
+<OE_Title_2_Arbiter.label>仲裁者</OE_Title_2_Arbiter.label>
+<OE_Title_2_Arbiter.description>仲裁者被委托在黑曜石帝国领土内维持秩序和正义。他们在争议事项中充当公正的法官，确保黑曜石帝国的法律得到精确和公正的执行。仲裁者经常监督谈判、和解和法律程序，处理内部冲突和与受信任的外部派系的关系。他们的决定具有重大分量，使他们成为黑曜石帝国司法系统的关键人物。</OE_Title_2_Arbiter.description>
+
+<!--=============== 守护者 ====================-->
+<OE_Title_3_Custodian.label>守护者</OE_Title_3_Custodian.label>
+<OE_Title_3_Custodian.labelFemale>女守护者</OE_Title_3_Custodian.labelFemale>
+<OE_Title_3_Custodian.description>守护者头衔授予那些负责保护黑曜石帝国最关键技术、知识和资源的人。守护者守卫着大量数据图书馆，保护稀有材料，并监督来自黑曜石帝国古代过去的技术遗物。除了单纯的保护之外，守护者还负责推进这些资源，确保黑曜石帝国的遗产继续发展。守护者经常领导研究计划或管理重要的工业综合体。</OE_Title_3_Custodian.description>
+
+<!--=============== 监督者 ====================-->
+<OE_Title_4_Overseer.label>监督者</OE_Title_4_Overseer.label>
+<OE_Title_4_Overseer.description>监督者在黑曜石帝国内部拥有对一个地区或关键行动的权威，如行星殖民地或大型研究项目。他们负责确保以最高水平维持生产力、效率和纪律。监督者直接向中央管理机构报告，在其指定领域充当黑曜石帝国的眼和耳。他们的领导对于维持黑曜石帝国的远距离扩张和基础设施至关重要。</OE_Title_4_Overseer.description>
+
+<!--=============== 高级大师 ====================-->
+<OE_Title_5_HighMaster.label>高级大师</OE_Title_5_HighMaster.label>
+<OE_Title_5_HighMaster.labelFemale>高级女大师</OE_Title_5_HighMaster.labelFemale>
+<OE_Title_5_HighMaster.description>高级大师是特定学科公认的专家，无论是在技术、行政还是黑曜石帝国的哲学教义方面。高级大师经常被要求指导低级成员，领导重大项目，或在塑造其专业领域未来的关键决策中发挥作用。他们的智慧和专业知识使他们成为黑曜石帝国的宝贵资产，在其精通的领域拥有相当的尊重和权威。</OE_Title_5_HighMaster.description>
+
+<!--=============== 首席执行官 ====================-->
+<OE_Title_6_ChiefAdvisor.label>首席执行官</OE_Title_6_ChiefAdvisor.label>
+<OE_Title_6_ChiefAdvisor.labelFemale>首席女执行官</OE_Title_6_ChiefAdvisor.labelFemale>
+<OE_Title_6_ChiefAdvisor.description>首席执行官是黑曜石帝国最强大领袖的最亲密顾问。负责提供战略指导和洞察，首席执行官在塑造政策、治理和长期规划中发挥关键作用。他们的知识涵盖广泛的领域，他们经常在外交使命或内部委员会中代表黑曜石帝国领导层发声。首席执行官的影响力往往能决定黑曜石帝国运营整个部门的方向。</OE_Title_6_ChiefAdvisor.description>
+
+<!--=============== 大执行官 ====================-->
+<OE_Title_7_GrandExecutor.label>大执行官</OE_Title_7_GrandExecutor.label>
+<OE_Title_7_GrandExecutor.description>大执行官负责在整个黑曜石帝国领域内执行黑曜石帝国的意志。作为最高权威人物之一，他们负责执行重大政策，监督关键行动，并确保黑曜石帝国的法律和命令得到无误执行。大执行官经常领导黑曜石帝国最雄心勃勃的事业，无论是扩张、征服还是改革。他们的话就是法律，他们的影响力遍及黑曜石帝国的各个角落。</OE_Title_7_GrandExecutor.description>
+
+<!-- ============== NPC专用灵能者 ============================= -->
+<!--=============== 最高摄政王 ====================-->
+<OE_Title_8_SupremeRegent.label>最高摄政王</OE_Title_8_SupremeRegent.label>
+<OE_Title_8_SupremeRegent.labelFemale>最高摄政女王</OE_Title_8_SupremeRegent.labelFemale>
+<OE_Title_8_SupremeRegent.description>最高摄政王头衔保留给在黑曜石帝国最高统治者缺席时进行统治的人。他们拥有近乎绝对的权威，有权代表统治精英做出决定。最高摄政王被信任在转型或危机时期维持稳定和控制。他们的领导确保即使黑曜石帝国的主要统治者忙于其他事务，黑曜石帝国也能继续繁荣。</OE_Title_8_SupremeRegent.description>
+
+<!--=============== 永恒支配者 ====================-->
+<OE_Title_9_EternalDominator.label>永恒支配者</OE_Title_9_EternalDominator.label>
+<OE_Title_9_EternalDominator.labelFemale>永恒支配女王</OE_Title_9_EternalDominator.labelFemale>
+<OE_Title_9_EternalDominator.description>永恒支配者是黑曜石帝国内无与伦比权威和力量的头衔。持有这个头衔的人对整个地区或黑曜石帝国的部门拥有完全控制权，用铁拳行使他们的权力。他们既令人恐惧又受人尊敬，被视为黑曜石帝国对统治和扩张不懈追求的化身。他们的决定塑造整个世界的未来，他们的统治以绝对命令为标志。</OE_Title_9_EternalDominator.description>
+
+<!--=============== 至尊皇帝 ====================-->
+<OE_Title_10_ExaltedEmperor.label>至尊皇帝</OE_Title_10_ExaltedEmperor.label>
+<OE_Title_10_ExaltedEmperor.labelFemale>至尊女皇</OE_Title_10_ExaltedEmperor.labelFemale>
+<OE_Title_10_ExaltedEmperor.description>至尊皇帝是黑曜石帝国至高无上的统治者，对所有领域拥有绝对权威。他们的智慧、远见和力量无可置疑，引导黑曜石帝国穿越时代。至尊皇帝既是黑曜石帝国永恒遗产的象征，也是所有事务的最终决策者，从军事行动到外交关系。在他们的统治下，黑曜石帝国蓬勃发展，以无与伦比的力量扩展其在整个银河系的影响力。</OE_Title_10_ExaltedEmperor.description>
+
+</LanguageData>

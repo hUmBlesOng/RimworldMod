@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+<!--=============== OTC ====================-->
+<!--=============== Acid ====================-->
+<OTC_MechUpgrade_Grenades_Acid.label>OTC手榴弹(酸性)</OTC_MechUpgrade_Grenades_Acid.label>
+<OTC_MechUpgrade_Grenades_Acid.description>装有爆炸物的手榴弹带，爆炸时造成强大的酸性伤害。专为机械体设计。\n\n可以使用Obsidia弹药包重新装填。</OTC_MechUpgrade_Grenades_Acid.description>
+
+<!--=============== Cryo ====================-->
+<OTC_MechUpgrade_Grenades_Cryo.label>OTC手榴弹(冷冻)</OTC_MechUpgrade_Grenades_Cryo.label>
+<OTC_MechUpgrade_Grenades_Cryo.description>装有爆炸物的手榴弹带，爆炸时造成强大的冷冻伤害。专为机械体设计。\n\n可以使用Obsidia弹药包重新装填。</OTC_MechUpgrade_Grenades_Cryo.description>
+
+<!--=============== Fire ====================-->
+<OTC_MechUpgrade_Grenades_Fire.label>OTC手榴弹(火焰)</OTC_MechUpgrade_Grenades_Fire.label>
+<OTC_MechUpgrade_Grenades_Fire.description>装有爆炸物的手榴弹带，爆炸时造成强大的火焰伤害。专为机械体设计。\n\n可以使用Obsidia弹药包重新装填。</OTC_MechUpgrade_Grenades_Fire.description>
+
+<!--=============== EMP ====================-->
+<OTC_MechUpgrade_Grenades_EMP.label>OTC手榴弹(电磁脉冲)</OTC_MechUpgrade_Grenades_EMP.label>
+<OTC_MechUpgrade_Grenades_EMP.description>装有爆炸物的手榴弹带，爆炸时造成强大的电磁脉冲伤害。专为机械体设计。\n\n可以使用Obsidia弹药包重新装填。</OTC_MechUpgrade_Grenades_EMP.description>
+
+<!--=============== OCC ====================-->
+<OCC_MechUpgrade_Grenades.label>OCC手榴弹</OCC_MechUpgrade_Grenades.label>
+<OCC_MechUpgrade_Grenades.description>装有爆炸物的手榴弹带，爆炸时造成强大的爆炸伤害。专为机械体设计。\n\n可以使用Obsidia弹药包重新装填。</OCC_MechUpgrade_Grenades.description>
+
+<!--=============== ODC ====================-->
+<ODC_MechUpgrade_Grenades.label>OCC手榴弹</ODC_MechUpgrade_Grenades.label>
+<ODC_MechUpgrade_Grenades.description>装有爆炸物的手榴弹带，爆炸时造成强大的眩晕伤害。专为机械体设计。\n\n可以使用Obsidia弹药包重新装填。</ODC_MechUpgrade_Grenades.description>
+
+<!--=============== OMG ====================-->
+<OMG_MechUpgrade_Grenades.label>雇佣兵手榴弹</OMG_MechUpgrade_Grenades.label>
+<OMG_MechUpgrade_Grenades.description>装有爆炸物的手榴弹带，爆炸时造成强大的死灵伤害。专为机械体设计。\n\n可以使用Obsidia弹药包重新装填。</OMG_MechUpgrade_Grenades.description>
+
+</LanguageData>

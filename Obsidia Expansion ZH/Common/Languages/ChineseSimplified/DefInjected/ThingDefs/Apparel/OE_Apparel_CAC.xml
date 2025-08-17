@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== CAC - 头盔 ====================-->
+<!--=============== 轻型 ====================-->
+<CAC_LightHelmet.label>CAC邪教徒轻型头盔</CAC_LightHelmet.label>
+<CAC_LightHelmet.description>轻型动力装甲头盔，很好地保护所有者。专为CAC邪教徒使用和改装而设计。</CAC_LightHelmet.description>
+
+<CAC_LightHelmet_Prestige.label>CAC邪教徒轻型头盔(领主)</CAC_LightHelmet_Prestige.label>
+<CAC_LightHelmet_Prestige.description>轻型动力装甲头盔，很好地保护所有者。专为CAC邪教徒使用和改装而设计。\n\n改装以增强所有者的心灵力量。</CAC_LightHelmet_Prestige.description>
+
+<CAC_LightHelmet_Mechanitor.label>CAC邪教徒轻型头盔(监督者)</CAC_LightHelmet_Mechanitor.label>
+<CAC_LightHelmet_Mechanitor.description>轻型动力装甲头盔，很好地保护所有者。专为CAC邪教徒使用和改装而设计。\n\n改装以增强机械体控制能力。</CAC_LightHelmet_Mechanitor.description>
+
+<!--=============== 重型 ====================-->
+<CAC_HeavyHelmet.label>CAC邪教徒重型头盔</CAC_HeavyHelmet.label>
+<CAC_HeavyHelmet.description>重型动力装甲头盔，出色地保护所有者。专为CAC邪教徒使用和改装而设计。</CAC_HeavyHelmet.description>
+
+<CAC_HeavyHelmet_Prestige.label>CAC邪教徒重型头盔(领主)</CAC_HeavyHelmet_Prestige.label>
+<CAC_HeavyHelmet_Prestige.description>重型动力装甲头盔，出色地保护所有者。专为CAC邪教徒使用和改装而设计。\n\n改装以增强所有者的心灵力量。</CAC_HeavyHelmet_Prestige.description>
+
+<CAC_HeavyHelmet_Mechanitor.label>CAC邪教徒重型头盔(监督者)</CAC_HeavyHelmet_Mechanitor.label>
+<CAC_HeavyHelmet_Mechanitor.description>重型动力装甲头盔，出色地保护所有者。专为CAC邪教徒使用和改装而设计。\n\n改装以增强机械体控制能力。</CAC_HeavyHelmet_Mechanitor.description>
+
+<!--=============== 牧师 ====================-->
+<CAC_PriestHelmet.label>CAC牧师头盔</CAC_PriestHelmet.label>
+<CAC_PriestHelmet.description>重型动力装甲头盔，出色地保护所有者。专为CAC牧师使用和改装而设计。</CAC_PriestHelmet.description>
+
+<!--=============== OMC - 装甲 ====================-->
+<!--=============== 轻型 ====================-->
+<CAC_LightArmor.label>CAC邪教徒轻型装甲</CAC_LightArmor.label>
+<CAC_LightArmor.description>轻型动力装甲，很好地保护所有者。专为CAC邪教徒使用和改装而设计。</CAC_LightArmor.description>
+
+<CAC_LightArmor_Smoker.label>CAC邪教徒轻型装甲(雾化器)</CAC_LightArmor_Smoker.label>
+<CAC_LightArmor_Smoker.verbs.Verb_SmokePop.label>CAC邪教徒轻型装甲(雾化器)</CAC_LightArmor_Smoker.verbs.Verb_SmokePop.label>
+<CAC_LightArmor_Smoker.description>轻型动力装甲，很好地保护所有者。专为CAC邪教徒使用和改装而设计。\n\n改装增加了烟雾弹背包。</CAC_LightArmor_Smoker.description>
+<CAC_LightArmor_Smoker.comps.CompApparelReloadable.chargeNoun>烟雾弹</CAC_LightArmor_Smoker.comps.CompApparelReloadable.chargeNoun>
+<CAC_LightArmor_Smoker.comps.CompApparelReloadable.cooldownGerund>冷却中</CAC_LightArmor_Smoker.comps.CompApparelReloadable.cooldownGerund>
+
+<CAC_LightArmor_Jump.label>CAC邪教徒轻型装甲(乌鸦)</CAC_LightArmor_Jump.label>
+<CAC_LightArmor_Jump.verbs.Verb_Jump.label>CAC邪教徒轻型装甲(乌鸦)</CAC_LightArmor_Jump.verbs.Verb_Jump.label>
+<CAC_LightArmor_Jump.description>轻型动力装甲，很好地保护所有者。专为CAC邪教徒使用和改装而设计。\n\n改装增加了跳跃背包。</CAC_LightArmor_Jump.description>
+<CAC_LightArmor_Jump.comps.CompApparelReloadable.chargeNoun>跳跃</CAC_LightArmor_Jump.comps.CompApparelReloadable.chargeNoun>
+<CAC_LightArmor_Jump.comps.CompApparelReloadable.cooldownGerund>冷却中</CAC_LightArmor_Jump.comps.CompApparelReloadable.cooldownGerund>
+
+<CAC_LightArmor_Prestige.label>CAC邪教徒轻型装甲(领主)</CAC_LightArmor_Prestige.label>
+<CAC_LightArmor_Prestige.description>轻型动力装甲，很好地保护所有者。专为CAC邪教徒使用和改装而设计。\n\n改装以增强所有者的心灵力量。</CAC_LightArmor_Prestige.description>
+
+<CAC_LightArmor_Mechanitor.label>CAC邪教徒轻型装甲(监督者)</CAC_LightArmor_Mechanitor.label>
+<CAC_LightArmor_Mechanitor.description>轻型动力装甲，很好地保护所有者。专为CAC邪教徒使用和改装而设计。\n\n改装增加了机械体控制背包。</CAC_LightArmor_Mechanitor.description>
+
+<CAC_LightArmor_Turret.label>CAC邪教徒轻型装甲(哥布林)</CAC_LightArmor_Turret.label>
+<CAC_LightArmor_Turret.description>轻型动力装甲，很好地保护所有者。专为CAC邪教徒使用和改装而设计。\n\n改装增加了允许用户部署电池供电炮塔的背包。</CAC_LightArmor_Turret.description>
+<CAC_LightArmor_Turret.verbs.deploy_turret.label>部署炮塔</CAC_LightArmor_Turret.verbs.deploy_turret.label>
+<CAC_LightArmor_Turret.comps.CompApparelReloadable.chargeNoun>燃烧弹</CAC_LightArmor_Turret.comps.CompApparelReloadable.chargeNoun>
+<CAC_LightArmor_Turret.comps.CompApparelReloadable.cooldownGerund>冷却中</CAC_LightArmor_Turret.comps.CompApparelReloadable.cooldownGerund>
+
+<CAC_LightArmor_Swarmling.label>CAC邪教徒轻型装甲(虫群)</CAC_LightArmor_Swarmling.label>
+<CAC_LightArmor_Swarmling.description>轻型动力装甲，很好地保护所有者。专为CAC邪教徒使用和改装而设计。\n\n改装增加了允许用户部署电池供电无人机的背包。</CAC_LightArmor_Swarmling.description>
+<CAC_LightArmor_Swarmling.verbs.deploy_swarmling_drone.label>部署虫群无人机</CAC_LightArmor_Swarmling.verbs.deploy_swarmling_drone.label>
+<CAC_LightArmor_Swarmling.comps.CompApparelReloadable.chargeNoun>燃烧弹</CAC_LightArmor_Swarmling.comps.CompApparelReloadable.chargeNoun>
+<CAC_LightArmor_Swarmling.comps.CompApparelReloadable.cooldownGerund>冷却中</CAC_LightArmor_Swarmling.comps.CompApparelReloadable.cooldownGerund>
+
+<!--=============== 重型 ====================-->
+<CAC_HeavyArmor.label>CAC邪教徒重型装甲</CAC_HeavyArmor.label>
+<CAC_HeavyArmor.description>重型动力装甲，出色地保护所有者。专为CAC邪教徒使用和改装而设计。</CAC_HeavyArmor.description>
+
+<CAC_HeavyArmor_Smoker.label>CAC邪教徒重型装甲(雾化器)</CAC_HeavyArmor_Smoker.label>
+<CAC_HeavyArmor_Smoker.verbs.Verb_SmokePop.label>CAC邪教徒重型装甲(雾化器)</CAC_HeavyArmor_Smoker.verbs.Verb_SmokePop.label>
+<CAC_HeavyArmor_Smoker.description>重型动力装甲，出色地保护所有者。专为CAC邪教徒使用和改装而设计。\n\n改装增加了烟雾弹背包。</CAC_HeavyArmor_Smoker.description>
+<CAC_HeavyArmor_Smoker.comps.CompApparelReloadable.chargeNoun>烟雾弹</CAC_HeavyArmor_Smoker.comps.CompApparelReloadable.chargeNoun>
+<CAC_HeavyArmor_Smoker.comps.CompApparelReloadable.cooldownGerund>冷却中</CAC_HeavyArmor_Smoker.comps.CompApparelReloadable.cooldownGerund>
+
+<CAC_HeavyArmor_Jump.label>CAC邪教徒重型装甲(乌鸦)</CAC_HeavyArmor_Jump.label>
+<CAC_HeavyArmor_Jump.verbs.Verb_Jump.label>CAC邪教徒重型装甲(乌鸦)</CAC_HeavyArmor_Jump.verbs.Verb_Jump.label>
+<CAC_HeavyArmor_Jump.description>重型动力装甲，出色地保护所有者。专为CAC邪教徒使用和改装而设计。\n\n改装增加了跳跃背包。</CAC_HeavyArmor_Jump.description>
+<CAC_HeavyArmor_Jump.comps.CompApparelReloadable.chargeNoun>跳跃</CAC_HeavyArmor_Jump.comps.CompApparelReloadable.chargeNoun>
+<CAC_HeavyArmor_Jump.comps.CompApparelReloadable.cooldownGerund>冷却中</CAC_HeavyArmor_Jump.comps.CompApparelReloadable.cooldownGerund>
+
+<CAC_HeavyArmor_Prestige.label>CAC邪教徒重型装甲(领主)</CAC_HeavyArmor_Prestige.label>
+<CAC_HeavyArmor_Prestige.description>重型动力装甲，出色地保护所有者。专为CAC邪教徒使用和改装而设计。\n\n改装以增强所有者的心灵力量。</CAC_HeavyArmor_Prestige.description>
+
+<CAC_HeavyArmor_Mechanitor.label>CAC邪教徒重型装甲(监督者)</CAC_HeavyArmor_Mechanitor.label>
+<CAC_HeavyArmor_Mechanitor.description>重型动力装甲，出色地保护所有者。专为CAC邪教徒使用和改装而设计。\n\n改装增加了机械体控制背包。</CAC_HeavyArmor_Mechanitor.description>
+
+<CAC_HeavyArmor_Turret.label>CAC邪教徒重型装甲(哥布林)</CAC_HeavyArmor_Turret.label>
+<CAC_HeavyArmor_Turret.description>重型动力装甲，出色地保护所有者。专为CAC邪教徒使用和改装而设计。\n\n改装增加了允许用户部署电池供电炮塔的背包。</CAC_HeavyArmor_Turret.description>
+<CAC_HeavyArmor_Turret.verbs.deploy_turret.label>部署炮塔</CAC_HeavyArmor_Turret.verbs.deploy_turret.label>
+<CAC_HeavyArmor_Turret.comps.CompApparelReloadable.chargeNoun>燃烧弹</CAC_HeavyArmor_Turret.comps.CompApparelReloadable.chargeNoun>
+<CAC_HeavyArmor_Turret.comps.CompApparelReloadable.cooldownGerund>冷却中</CAC_HeavyArmor_Turret.comps.CompApparelReloadable.cooldownGerund>
+
+<CAC_HeavyArmor_Swarmling.label>CAC邪教徒重型装甲(虫群)</CAC_HeavyArmor_Swarmling.label>
+<CAC_HeavyArmor_Swarmling.description>重型动力装甲，出色地保护所有者。专为CAC邪教徒使用和改装而设计。\n\n改装增加了允许用户部署电池供电无人机的背包。</CAC_HeavyArmor_Swarmling.description>
+<CAC_HeavyArmor_Swarmling.verbs.deploy_swarmling_drone.label>部署虫群无人机</CAC_HeavyArmor_Swarmling.verbs.deploy_swarmling_drone.label>
+<CAC_HeavyArmor_Swarmling.comps.CompApparelReloadable.chargeNoun>燃烧弹</CAC_HeavyArmor_Swarmling.comps.CompApparelReloadable.chargeNoun>
+<CAC_HeavyArmor_Swarmling.comps.CompApparelReloadable.cooldownGerund>冷却中</CAC_HeavyArmor_Swarmling.comps.CompApparelReloadable.cooldownGerund>
+
+<!--=============== CAC - 手榴弹 ====================-->
+<Grenade_Armor_CAC_TurretPack.label>CAC炮塔包胶囊</Grenade_Armor_CAC_TurretPack.label>
+<Grenade_Armor_CAC_SwarmlingPack.label>CAC虫群包胶囊</Grenade_Armor_CAC_SwarmlingPack.label>
+
+<!--=============== 牧师 ====================-->
+<CAC_PriestArmor.label>CAC牧师装甲</CAC_PriestArmor.label>
+<CAC_PriestArmor.description>重型动力装甲，出色地保护所有者。专为CAC牧师使用和改装而设计。\n\n内置了照明弹发射器模块。</CAC_PriestArmor.description>
+<CAC_PriestArmor.verbs.deploy_flare.label>部署照明弹</CAC_PriestArmor.verbs.deploy_flare.label>
+<CAC_PriestArmor.comps.CompApparelReloadable.chargeNoun>照明弹</CAC_PriestArmor.comps.CompApparelReloadable.chargeNoun>
+<CAC_PriestArmor.comps.CompApparelReloadable.cooldownGerund>冷却中</CAC_PriestArmor.comps.CompApparelReloadable.cooldownGerund>
+
+<CAC_DisruptorFlare.label>干扰照明弹</CAC_DisruptorFlare.label>
+
+</LanguageData>

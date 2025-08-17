@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 <!--=============== Raptor ====================-->
-<OELeftFootClawAttackTool.label>左镰刀爪</OELeftFootClawAttackTool.label>
-<OELeftFootClawAttackTool.labelShort>爪</OELeftFootClawAttackTool.labelShort>
+<OELeftFootClawAttackTool.label>left sickle claws</OELeftFootClawAttackTool.label>
+<OELeftFootClawAttackTool.labelShort>claws</OELeftFootClawAttackTool.labelShort>
 
-<OERightFootClawAttackTool.label>右镰刀爪</OERightFootClawAttackTool.label>
-<OERightFootClawAttackTool.labelShort>爪</OERightFootClawAttackTool.labelShort>
+<OERightFootClawAttackTool.label>right sickle claws</OERightFootClawAttackTool.label>
+<OERightFootClawAttackTool.labelShort>claws</OERightFootClawAttackTool.labelShort>
 
-<OELeftArmClawAttackTool.label>左臂爪</OELeftArmClawAttackTool.label>
-<OELeftArmClawAttackTool.labelShort>爪</OELeftArmClawAttackTool.labelShort>
+<OELeftArmClawAttackTool.label>left arm claws</OELeftArmClawAttackTool.label>
+<OELeftArmClawAttackTool.labelShort>claws</OELeftArmClawAttackTool.labelShort>
 
-<OERightArmClawAttackTool.label>右臂爪</OERightArmClawAttackTool.label>
-<OERightArmClawAttackTool.labelShort>爪</OERightArmClawAttackTool.labelShort>
+<OERightArmClawAttackTool.label>right arm claws</OERightArmClawAttackTool.label>
+<OERightArmClawAttackTool.labelShort>claws</OERightArmClawAttackTool.labelShort>
 
 <!--=============== Tionant ====================-->
-<OELeftInsectClawAttackTool.label>左昆虫爪</OELeftInsectClawAttackTool.label>
-<OELeftInsectClawAttackTool.labelShort>爪</OELeftInsectClawAttackTool.labelShort>
+<OELeftInsectClawAttackTool.label>left insect claws</OELeftInsectClawAttackTool.label>
+<OELeftInsectClawAttackTool.labelShort>claws</OELeftInsectClawAttackTool.labelShort>
 
-<OERightInsectClawAttackTool.label>右昆虫爪</OERightInsectClawAttackTool.label>
-<OERightInsectClawAttackTool.labelShort>爪</OERightInsectClawAttackTool.labelShort>
+<OERightInsectClawAttackTool.label>right insect claws</OERightInsectClawAttackTool.label>
+<OERightInsectClawAttackTool.labelShort>claws</OERightInsectClawAttackTool.labelShort>
 
 <!--=============== Returned ====================-->
-<OE_ReturnedLeftLimb.label>左蜘蛛臂</OE_ReturnedLeftLimb.label>
-<OE_ReturnedLeftLimb.labelShort>蜘蛛臂</OE_ReturnedLeftLimb.labelShort>
+<OE_ReturnedLeftLimb.label>left arachna arm</OE_ReturnedLeftLimb.label>
+<OE_ReturnedLeftLimb.labelShort>arachna arm</OE_ReturnedLeftLimb.labelShort>
 
-<OE_ReturnedRightLimb.label>右蜘蛛臂</OE_ReturnedRightLimb.label>
-<OE_ReturnedRightLimb.labelShort>蜘蛛臂</OE_ReturnedRightLimb.labelShort>
+<OE_ReturnedRightLimb.label>right arachna arm</OE_ReturnedRightLimb.label>
+<OE_ReturnedRightLimb.labelShort>arachna arm</OE_ReturnedRightLimb.labelShort>
 
 <!--=============== Scorpid ====================-->
-<OESting.label>螫针</OESting.label>
+<OESting.label>sting</OESting.label>
 
 </LanguageData>

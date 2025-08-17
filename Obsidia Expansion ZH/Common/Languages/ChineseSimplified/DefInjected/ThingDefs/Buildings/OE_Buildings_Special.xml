@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Broken Drill ====================-->
+<OE_BrokenDrill.label>黑曜石损坏钻机</OE_BrokenDrill.label>
+<OE_BrokenDrill.description>古老的黑曜石深钻原型机。无法用于钻探从地表深处提取矿物的钻机。但仍能扰动深处的某些生物。</OE_BrokenDrill.description>
+
+<!--=============== Gene Grower ====================-->
+<OE_GeneGrower.label>黑曜石基因培育器</OE_GeneGrower.label>
+<OE_GeneGrower.description>基因培育器是一种先进的实验设备，可以被动地生产随机基因包。这是一种非常精密且屏蔽不良的设备，会导致冷空气。</OE_GeneGrower.description>
+
+<!--=============== Ancient Heroic Antenna ====================-->
+<OE_AncientHeroicAntenna.label>古代神经同步黑曜石天线</OE_AncientHeroicAntenna.label>
+<OE_AncientHeroicAntenna.description>这种古代天线在黑曜石帝国英雄时代广泛分布于整个黑曜石帝国，是维持人民不懈警觉和坚定生产力的重要工具。这种古代神器广播神经同步波，直接影响大脑，消除睡眠需求并提高认知表现。其领域使范围内的人保持警觉和积极。</OE_AncientHeroicAntenna.description>
+
+</LanguageData>

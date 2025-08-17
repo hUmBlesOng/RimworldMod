@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Mercenary Gangs - Faction ====================-->
+<ObsidiaMercenaryGangs.label>黑曜石雇佣兵帮派</ObsidiaMercenaryGangs.label>
+<ObsidiaMercenaryGangs.description>黑曜石雇佣兵帮派曾经是黑曜石帝国英雄的精英部队。放弃了复仇，他们分裂成帮派，远离黑曜石核心区域，拥抱雇佣兵生活。几个世纪后，他们的影响力已无法被忽视，甚至被抛弃他们的帝国也无法忽视。他们采用任何必要手段——技术、战术或蛮力——为值得信赖的客户服务，确保他们在银河系最令人敬畏和最可靠的雇佣兵中占有一席之地。</ObsidiaMercenaryGangs.description>
+<ObsidiaMercenaryGangs.leaderTitle>大亨</ObsidiaMercenaryGangs.leaderTitle>
+<ObsidiaMercenaryGangs.pawnSingular>雇佣兵</ObsidiaMercenaryGangs.pawnSingular>
+<ObsidiaMercenaryGangs.pawnsPlural>雇佣兵</ObsidiaMercenaryGangs.pawnsPlural>
+<ObsidiaMercenaryGangs.royalFavorLabel>筹码</ObsidiaMercenaryGangs.royalFavorLabel>
+<ObsidiaMercenaryGangs.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</ObsidiaMercenaryGangs.messageDefendersAttacking>
+
+</LanguageData>

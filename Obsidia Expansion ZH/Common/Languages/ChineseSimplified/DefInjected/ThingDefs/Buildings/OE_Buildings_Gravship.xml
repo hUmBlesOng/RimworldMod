@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Obsidia Gravship Hull ====================-->
+<OE_GravshipHull.label>黑曜石重力飞船船体</OE_GravshipHull.label>
+<OE_GravshipHull.description>强化的黑曜石船体段，具有多层装甲和气密密封。专为重力飞船集成而设计，可防止在真空中漏氧，并直接连接到内部子结构，这意味着它只能在重力飞船上建造。</OE_GravshipHull.description>
+
+<!--=============== Obsidia Grav Field Extender ====================-->
+<OE_GravFieldExtender.label>黑曜石重力场扩展器</OE_GravFieldExtender.label>
+<OE_GravFieldExtender.description>一种专门的黑曜石设备，用于增加重力飞船的尺寸。它扩展了可以建造子结构的区域，并增加了重力飞船可以支撑的子结构数量。必须建在重力引擎附近。\n\n一艘重力飞船最多可以支撑四个黑曜石重力场扩展器。</OE_GravFieldExtender.description>
+
+<!--=============== Obsidia Pilot Console ====================-->
+<OE_PilotConsole.label>黑曜石飞行员控制台</OE_PilotConsole.label>
+<OE_PilotConsole.description>小型黑曜石飞行员控制台，允许发射和驾驶重力飞船。它直接从重力引擎获取电力。</OE_PilotConsole.description>
+
+<!--=============== Obsidia Repulsorlift Engine ====================-->
+<!--=============== Small ====================-->
+<OE_RepulsorliftEngine_Small.label>小型黑曜石反重力引擎</OE_RepulsorliftEngine_Small.label>
+<OE_RepulsorliftEngine_Small.description>反重力引擎使用聚焦的重力脉冲来减少飞行过程中的行星阻力。这种紧凑的黑曜石设计由化学燃料提供动力，增加了重力飞船的航程。需要重力飞船子结构和无障碍、无屋顶的区域。\n\n一艘重力飞船最多可以支撑十个小型黑曜石反重力引擎。</OE_RepulsorliftEngine_Small.description>
+
+<!--=============== Large ====================-->
+<OE_RepulsorliftEngine_Large.label>殖民地黑曜石反重力引擎</OE_RepulsorliftEngine_Large.label>
+<OE_RepulsorliftEngine_Large.description>反重力引擎使用聚焦的重力脉冲来减少飞行过程中的行星阻力。这种巨大的殖民地时代型号由化学燃料提供动力，大大增加了重力飞船的航程。需要重力飞船子结构和无障碍、无屋顶的区域。\n\n一艘重力飞船最多可以支撑四个殖民地黑曜石反重力引擎。</OE_RepulsorliftEngine_Large.description>
+
+<!--=============== Obsidia Fuel Optimizer ====================-->
+<OE_FuelOptimizer.label>黑曜石燃料优化器</OE_FuelOptimizer.label>
+<OE_FuelOptimizer.description>黑曜石工程重力科技单元，可精炼和混合化学燃料与反应化合物，减少飞行过程中的整体燃料消耗。它减少了重力飞船飞行所需的燃料。\n\n一艘重力飞船最多可以支撑两个黑曜石燃料优化器。</OE_FuelOptimizer.description>
+
+<!--=============== Obsidia Gravship Shield Generator ====================-->
+<OE_GravshipShieldTower.label>黑曜石重力飞船护盾塔</OE_GravshipShieldTower.label>
+<OE_GravshipShieldTower.description>黑曜石重力飞船护盾塔专为保护重力飞船而设计。它使用现代黑曜石重力科技投射聚焦偏导场，用脉冲动量屏障抵御来袭的抛射物。对普通射击和迫击炮弹有效。内部人员仍可向外射击。\n\n使用前需要充电。一艘重力飞船最多可以支撑五个黑曜石重力飞船护盾塔。</OE_GravshipShieldTower.description>
+
+<OE_GravshipShieldTower.comps.CompInteractable_GravshipShieldGenerator.jobString>激活</OE_GravshipShieldTower.comps.CompInteractable_GravshipShieldGenerator.jobString>
+
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Worker Antenna ====================-->
+<OE_MechWorkerBoost.label>效率提升</OE_MechWorkerBoost.label>
+<OE_MechWorkerBoost.description>这个机械体的能量效率、移动速度和工作速度正在通过附近的机械效率天线得到增强。</OE_MechWorkerBoost.description>
+
+<!--=============== Combat Antenna ====================-->
+<OE_MechCombatBoost.label>战斗提升</OE_MechCombatBoost.label>
+<OE_MechCombatBoost.description>这个机械体的装甲和瞄准能力正在通过附近的机械战斗天线得到增强。</OE_MechCombatBoost.description>
+
+<!--=============== Corrupter Antenna ====================-->
+<OE_MechCorrupterBoost.label>战斗恶化</OE_MechCorrupterBoost.label>
+<OE_MechCorrupterBoost.description>这个机械体的速度、装甲和瞄准能力正在通过附近的机械腐蚀天线被削弱。</OE_MechCorrupterBoost.description>
+
+</LanguageData>

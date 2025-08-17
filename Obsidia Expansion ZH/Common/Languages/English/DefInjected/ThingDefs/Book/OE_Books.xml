@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
-<!--=============== 黑曜石数据板 ====================-->
-<OE_Datapad.label>黑曜石数据板</OE_Datapad.label>
-<OE_Datapad.description>一个数据板，描述了黑曜石技术和使用方法。阅读数据板可以帮助解锁新的黑曜石技术。</OE_Datapad.description>
+<!--=============== Obsidia Datapad ====================-->
+<OE_Datapad.label>obsidia datapad</OE_Datapad.label>
+<OE_Datapad.description>A datapad which describes obsidia technology and methods for using it. Reading datapad can help unlock new obsidia technologies.</OE_Datapad.description>
 
 </LanguageData>

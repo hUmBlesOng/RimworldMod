@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<!--=============== 黑曜石帝国 - 轨道普通 ====================-->
+<Orbital_Obsidia_Common.label>轨道黑曜石商品交易商</Orbital_Obsidia_Common.label>
+<!--=============== 黑曜石帝国 - 轨道稀有 ====================-->
+<Orbital_Obsidia_Rare.label>轨道黑曜石异域商品交易商</Orbital_Obsidia_Rare.label>
+<!--=============== 黑曜石帝国 - 轨道奴隶 ====================-->
+<Orbital_Obsidia_Slaver.label>轨道黑曜石奴隶贩子</Orbital_Obsidia_Slaver.label>
+
+</LanguageData>

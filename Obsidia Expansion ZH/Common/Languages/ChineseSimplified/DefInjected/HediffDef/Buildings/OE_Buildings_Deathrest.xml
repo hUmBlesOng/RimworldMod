@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Battlecraft Pump ====================-->
+<OE_BattlecraftRush.label>战斗工艺冲刺</OE_BattlecraftRush.label>
+<OE_BattlecraftRush.description>此人在死亡休眠时使用了战斗工艺泵，因此战斗属性得到增强。此效果持续到下次死亡休眠。</OE_BattlecraftRush.description>
+<OE_BattlecraftRush.extraTooltip>持续到下次死亡休眠。</OE_BattlecraftRush.extraTooltip>
+
+<!--=============== Perfectioning Pump ====================-->
+<OE_PerfectioningRush.label>完美冲刺</OE_PerfectioningRush.label>
+<OE_PerfectioningRush.description>此人在死亡休眠时使用了完美泵，因此工作属性得到增强。此效果持续到下次死亡休眠。</OE_PerfectioningRush.description>
+<OE_PerfectioningRush.extraTooltip>持续到下次死亡休眠。</OE_PerfectioningRush.extraTooltip>
+
+</LanguageData>

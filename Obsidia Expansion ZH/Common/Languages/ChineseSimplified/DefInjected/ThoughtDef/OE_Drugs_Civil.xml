@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== 阿祖利姆 ====================-->
+<OE_AzuliumHigh.stages.relaxed_from_azulium.label>阿祖利姆带来的放松</OE_AzuliumHigh.stages.relaxed_from_azulium.label>
+<OE_AzuliumHigh.stages.relaxed_from_azulium.description>那阿祖利姆让我感到更放松，同时给我能量。</OE_AzuliumHigh.stages.relaxed_from_azulium.description>
+
+<!--=============== 蒂姆比姆 ====================-->
+<OE_TimbiumWithdrawal.stages.timbium_withdrawal.label>蒂姆比姆戒断</OE_TimbiumWithdrawal.stages.timbium_withdrawal.label>
+<OE_TimbiumWithdrawal.stages.timbium_withdrawal.description>我感到虚弱。我从未想过没有药物会这么难工作。</OE_TimbiumWithdrawal.stages.timbium_withdrawal.description>
+
+</LanguageData>

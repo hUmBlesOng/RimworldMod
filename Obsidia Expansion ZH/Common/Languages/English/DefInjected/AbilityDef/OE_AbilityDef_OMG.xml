@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
 <!--=============== OMG - Ignite ====================-->
-<OMG_Ignite.label>点燃</OMG_Ignite.label>
-<OMG_Ignite.description>释放短暂的火焰爆发，在近距离内灼烧敌人。</OMG_Ignite.description>
+<OMG_Ignite.label>ignite</OMG_Ignite.label>
+<OMG_Ignite.description>Unleashes a short burst of flames, scorching enemies at short range.</OMG_Ignite.description>
 
 <!--=============== OMG - Burner ====================-->
-<OMG_Burner.label>燃烧器</OMG_Burner.label>
-<OMG_Burner.description>释放稳定的火焰流，在中等距离内灼烧敌人。</OMG_Burner.description>
+<OMG_Burner.label>burner</OMG_Burner.label>
+<OMG_Burner.description>Unleashes a steady stream of flames, scorching enemies at medium range.</OMG_Burner.description>
 
 <!--=============== OMG - Inferno ====================-->
-<OMG_Inferno.label>地狱火</OMG_Inferno.label>
-<OMG_Inferno.description>释放强大的火焰流，在远距离内灼烧敌人。</OMG_Inferno.description>
+<OMG_Inferno.label>inferno</OMG_Inferno.label>
+<OMG_Inferno.description>Unleashes a powerful stream of flames, scorching enemies at long range.</OMG_Inferno.description>
 
 </LanguageData>

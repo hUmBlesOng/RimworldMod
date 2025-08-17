@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+<!--=============== Woods ====================-->
+<OE_FungiPlankFloor.label>真菌地板</OE_FungiPlankFloor.label>
+<OE_FungiPlankFloor.description>优秀的真菌木地板，足够美观，干净，由于燃烧几率低而通用。非常容易安装。</OE_FungiPlankFloor.description>
+
+<OE_DragonianPlankFloor.label>龙族地板</OE_DragonianPlankFloor.label>
+<OE_DragonianPlankFloor.description>龙族地板因其奢华而受到黑曜石贵族的高度推崇。主要用于狩猎小屋。</OE_DragonianPlankFloor.description>
+
+<!--=============== Metals ====================-->
+<OE_ObsidianTile.label>黑曜石瓷砖</OE_ObsidianTile.label>
+<OE_ObsidianTile.description>标准黑曜石地板美观而干净。铺设非常困难。</OE_ObsidianTile.description>
+
+<OE_MythrilTile.label>秘银瓷砖</OE_MythrilTile.label>
+<OE_MythrilTile.description>秘银瓷砖是最豪华的瓷砖，提供小幅度的清洁度加成。受到黑曜石贵族的高度推崇。</OE_MythrilTile.description>
+
+<OE_PlatinumTile.label>铂金瓷砖</OE_PlatinumTile.label>
+<OE_PlatinumTile.description>无菌铂金地板，具有特殊的清洁度增强特性。超洁净的房间可改善医院和研究实验室的结果。这种瓷砖建造非常缓慢，但清洁速度快。</OE_PlatinumTile.description>
+
+<OE_EmpyriumTile.label>终焉金属瓷砖</OE_EmpyriumTile.label>
+<OE_EmpyriumTile.description>终焉金属瓷砖是最豪华的瓷砖，提供清洁度加成。受到黑曜石贵族的高度推崇。</OE_EmpyriumTile.description>
+
+<OE_OrichalcumTile.label>山铜瓷砖</OE_OrichalcumTile.label>
+<OE_OrichalcumTile.description>山铜瓷砖是最豪华的瓷砖，提供清洁度加成。受到黑曜石贵族的高度推崇。</OE_OrichalcumTile.description>
+
+<!--=============== Crystal Tilled Soil ====================-->
+<OE_Crystal_TilledSoil.label>水晶耕作土</OE_Crystal_TilledSoil.label>
+<OE_Crystal_TilledSoil.description>三倍效率的耕作土，含有合成素。昂贵但有效的黑曜石技术。</OE_Crystal_TilledSoil.description>
+<OE_Crystal_TilledSoil.tools.dirt.label>泥土</OE_Crystal_TilledSoil.tools.dirt.label>
+
+<!--=============== Metals Matrix ====================-->
+<OE_ObsidianHexTile.label>黑曜石矩阵瓷砖</OE_ObsidianHexTile.label>
+<OE_ObsidianHexTile.description>标准黑曜石矩阵瓷砖美观而干净。铺设非常困难。</OE_ObsidianHexTile.description>
+
+<OE_MythrilHexTile.label>秘银矩阵瓷砖</OE_MythrilHexTile.label>
+<OE_MythrilHexTile.description>秘银矩阵瓷砖是最豪华的瓷砖，提供小幅度的清洁度加成。受到黑曜石贵族的高度推崇。</OE_MythrilHexTile.description>
+
+<OE_PlatinumHexTile.label>铂金矩阵瓷砖</OE_PlatinumHexTile.label>
+<OE_PlatinumHexTile.description>无菌铂金矩阵瓷砖，具有特殊的清洁度增强特性。超洁净的房间可改善医院和研究实验室的结果。这种瓷砖建造非常缓慢，但清洁速度快。</OE_PlatinumHexTile.description>
+
+<OE_EmpyriumHexTile.label>终焉金属矩阵瓷砖</OE_EmpyriumHexTile.label>
+<OE_EmpyriumHexTile.description>终焉金属矩阵瓷砖是最豪华的瓷砖，提供清洁度加成。受到黑曜石贵族的高度推崇。</OE_EmpyriumHexTile.description>
+
+<OE_OrichalcumHexTile.label>山铜矩阵瓷砖</OE_OrichalcumHexTile.label>
+<OE_OrichalcumHexTile.description>山铜矩阵瓷砖是最豪华的瓷砖，提供清洁度加成。受到黑曜石贵族的高度推崇。</OE_OrichalcumHexTile.description>
+
+</LanguageData>

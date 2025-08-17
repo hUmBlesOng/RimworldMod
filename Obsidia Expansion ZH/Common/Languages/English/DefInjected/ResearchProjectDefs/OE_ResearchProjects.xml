@@ -1,194 +1,194 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== Core ====================-->
-<OECore.label>OE - 核心</OECore.label>
-<OECore.description>研究黑曜石技术的基础知识。</OECore.description>
-<OECore.discoveredLetterTitle>关于：黑曜石资源</OECore.discoveredLetterTitle>
-<OECore.discoveredLetterText>你现在拥有了进入黑曜石扩展的知识。要继续前进，你需要特定的资源：\n\n-合成素和月布-种植特殊植物来收获它们。\n-黑曜石、秘银和铂金-在世界各地开采这些稀有矿物。\n\n你也可以通过任务奖励或与许多派系交易获得它们。</OECore.discoveredLetterText>
+<OECore.label>OE - Core</OECore.label>
+<OECore.description>Research basics of Obsidia technology.</OECore.description>
+<OECore.discoveredLetterTitle>About: Obsidia resources</OECore.discoveredLetterTitle>
+<OECore.discoveredLetterText>You now have the knowledge to begin your journey into Obsidia Expansion. To proceed, you’ll need specific resources:\n\n-Syntherius and Mooncloth – Grow specialized plants to harvest them.\n-Obsidian, Mythril, and Platinum – Mine these rare minerals across the world.\n\nYou can also find them as quest rewards or through trade with many factions.</OECore.discoveredLetterText>
 <!--=============== Construction ====================-->
-<OEConstruction.label>OE - 建筑</OEConstruction.label>
-<OEConstruction.description>研究黑曜石建筑技术的基础知识。</OEConstruction.description>
-<OEConstruction.discoveredLetterTitle>关于：黑曜石制造站</OEConstruction.discoveredLetterTitle>
-<OEConstruction.discoveredLetterText>你现在可以建造黑曜石装甲站和黑曜石武器工作台。\n\n这些是你制造黑曜石扩展提供的强大装备的主要设施。</OEConstruction.discoveredLetterText>
+<OEConstruction.label>OE - Construction</OEConstruction.label>
+<OEConstruction.description>Research basics of Obsidia construction technology.</OEConstruction.description>
+<OEConstruction.discoveredLetterTitle>About: Obsidia crafting stations</OEConstruction.discoveredLetterTitle>
+<OEConstruction.discoveredLetterText>You can now build the Obsidia Armor Station and the Obsidia Weapon Workbench.\n\nThese are your primary facilities for crafting the powerful equipment offered by Obsidia Expansion.</OEConstruction.discoveredLetterText>
 <!--=============== Building ====================-->
-<OEBuilding.label>OE - 建造</OEBuilding.label>
-<OEBuilding.description>研究黑曜石建造技术的基础知识。</OEBuilding.description>
+<OEBuilding.label>OE - Building</OEBuilding.label>
+<OEBuilding.description>Research basics of Obsidia building technology.</OEBuilding.description>
 <!--=============== Power ====================-->
-<OEPower.label>OE - 电力</OEPower.label>
-<OEPower.description>研究黑曜石电力技术的基础知识。</OEPower.description>
+<OEPower.label>OE - Power</OEPower.label>
+<OEPower.description>Research basics of Obsidia power technology.</OEPower.description>
 <!--=============== Advanced Power ====================-->
-<OEPowerAdv.label>OE - 高级电力</OEPowerAdv.label>
-<OEPowerAdv.description>研究黑曜石电力技术的高级知识。</OEPowerAdv.description>
+<OEPowerAdv.label>OE - Adv. Power</OEPowerAdv.label>
+<OEPowerAdv.description>Research advanced of Obsidia power technology.</OEPowerAdv.description>
 <!--=============== Experimental Power ====================-->
-<OEPowerExp.label>OE - 实验性电力</OEPowerExp.label>
-<OEPowerExp.description>研究黑曜石电力技术的实验性知识。</OEPowerExp.description>
+<OEPowerExp.label>OE - Exp. Power</OEPowerExp.label>
+<OEPowerExp.description>Research experimental of Obsidia power technology.</OEPowerExp.description>
 <!--=============== Furniture ====================-->
-<OEFurniture.label>OE - 家具</OEFurniture.label>
-<OEFurniture.description>研究黑曜石家具技术的基础知识。</OEFurniture.description>
+<OEFurniture.label>OE - Furniture</OEFurniture.label>
+<OEFurniture.description>Research basics of Obsidia furniture technology.</OEFurniture.description>
 <!--=============== Farming ====================-->
-<OEFarm.label>OE - 农业</OEFarm.label>
-<OEFarm.description>研究黑曜石农业技术的基础知识。</OEFarm.description>
+<OEFarm.label>OE - Farm</OEFarm.label>
+<OEFarm.description>Research basics of Obsidia farming technology.</OEFarm.description>
 <!--=============== Advanced Farming ====================-->
-<OEFarmAdv.label>OE - 高级农业</OEFarmAdv.label>
-<OEFarmAdv.description>研究黑曜石农业技术的高级知识。</OEFarmAdv.description>
+<OEFarmAdv.label>OE - Adv. Farm</OEFarmAdv.label>
+<OEFarmAdv.description>Research advanced of Obsidia farming technology.</OEFarmAdv.description>
 <!--=============== Experimental Farming ====================-->
-<OEFarmExp.label>OE - 实验性农业</OEFarmExp.label>
-<OEFarmExp.description>研究黑曜石农业技术的实验性知识。</OEFarmExp.description>
+<OEFarmExp.label>OE - Exp. Farm</OEFarmExp.label>
+<OEFarmExp.description>Research experimental of Obsidia farming technology.</OEFarmExp.description>
 <!--=============== Synthesis ====================-->
-<OESynth.label>OE - 合成</OESynth.label>
-<OESynth.description>研究黑曜石合成技术的基础知识。</OESynth.description>
-<OESynth.discoveredLetterTitle>关于：合成和稀有制造</OESynth.discoveredLetterTitle>
-<OESynth.discoveredLetterText>你已解锁了在黑曜石合成打印机中使用合成素进行高级合成的能力。\n\n这允许创造稀有材料，如终焉金属、山铜、中性胺、合成纤维、超织物，甚至路西法精。\n\n掌握合成技术对于获得高级资源至关重要，而无需依赖运气或贸易。</OESynth.discoveredLetterText>
+<OESynth.label>OE - Synthesis</OESynth.label>
+<OESynth.description>Research basics of Obsidia synthesis technology.</OESynth.description>
+<OESynth.discoveredLetterTitle>About: Synthesis and rare crafting</OESynth.discoveredLetterTitle>
+<OESynth.discoveredLetterText>You’ve unlocked the ability to perform advanced synthesis using Syntherius at the Obsidia Synthesis Printer.\n\nThis allows the creation of rare materials such as Empyrium, Orichalcum, Neutroamine, Synthread, Hyperweave, and even Luciferium.\n\nMastering synthesis is essential for obtaining high-tier resources without relying on luck or trade.</OESynth.discoveredLetterText>
 <!--=============== Advanced Synthesis ====================-->
-<OESynthAdv.label>OE - 高级合成</OESynthAdv.label>
-<OESynthAdv.description>研究黑曜石合成技术的高级知识。</OESynthAdv.description>
+<OESynthAdv.label>OE - Adv. Synthesis</OESynthAdv.label>
+<OESynthAdv.description>Research advanced of Obsidia synthesis technology.</OESynthAdv.description>
 <!--=============== Modernization ====================-->
-<OEGearMod.label>OE - 现代化</OEGearMod.label>
-<OEGearMod.description>研究黑曜石装备现代化技术的高级知识。</OEGearMod.description>
-<OEGearMod.discoveredLetterTitle>关于：升级黑曜石装备</OEGearMod.discoveredLetterTitle>
-<OEGearMod.discoveredLetterText>这项技术使你能够使用现代化套件制作增强型黑曜石装备。\n\n这些套件可以在黑曜石装甲站和武器工作台制作，对于提高殖民者战斗效率至关重要。</OEGearMod.discoveredLetterText>
+<OEGearMod.label>OE - Modernization</OEGearMod.label>
+<OEGearMod.description>Research advanced of Obsidia gear modernization technology.</OEGearMod.description>
+<OEGearMod.discoveredLetterTitle>About: Upgrading Obsidia gear</OEGearMod.discoveredLetterTitle>
+<OEGearMod.discoveredLetterText>This technology enables the crafting of enhanced Obsidia gear using Modernization Kits.\n\nThese kits can be crafted at the Obsidia Armor Station and Weapon Workbench and are vital for improving your colonists' combat efficiency.</OEGearMod.discoveredLetterText>
 <!--=============== Chip Modules ====================-->
-<OEModules.label>OE - 模块</OEModules.label>
-<OEModules.description>制造模块为拥有者提供各种奖励，取决于型号。</OEModules.description>
+<OEModules.label>OE - Modules</OEModules.label>
+<OEModules.description>Craft module provides the owner with various bonuses, depending on the model.</OEModules.description>
 <!--=============== Chip Cross Technologies ====================-->
-<OEGearCross.label>OE - 交叉技术</OEGearCross.label>
-<OEGearCross.description>研究黑曜石装备的交叉技术。</OEGearCross.description>
+<OEGearCross.label>OE - Cross Technologies</OEGearCross.label>
+<OEGearCross.description>Research Cross Technologies of Obsidia gear.</OEGearCross.description>
 <!--=============== OMС - Obsidia Military Corpus ====================-->
-<OMCWeapons.label>OMC - 常规武器</OMCWeapons.label>
-<OMCWeapons.description>制作常规黑曜石军事军团士兵武器。</OMCWeapons.description>
+<OMCWeapons.label>OMC - Regular Weapons</OMCWeapons.label>
+<OMCWeapons.description>Craft regular Obsidia Military Corpus soldiers weapons.</OMCWeapons.description>
 
-<OMCArmor.label>OMC - 常规装甲</OMCArmor.label>
-<OMCArmor.description>制作常规黑曜石军事军团士兵中型动力装甲。</OMCArmor.description>
+<OMCArmor.label>OMC - Regular Armor</OMCArmor.label>
+<OMCArmor.description>Craft regular Obsidia Military Corpus soldiers medium power armor.</OMCArmor.description>
 
-<OMCGearMod.label>OMC - 改装装备</OMCGearMod.label>
-<OMCGearMod.description>改装黑曜石军事军团军官装备。</OMCGearMod.description>
+<OMCGearMod.label>OMC - Modified Equipment</OMCGearMod.label>
+<OMCGearMod.description>Modification Obsidia Military Corpus officers equipment.</OMCGearMod.description>
 <!--=============== OTС - Obsidia Tech Corpus ====================-->
-<OTCWeapons.label>OTC - 常规武器</OTCWeapons.label>
-<OTCWeapons.description>制作常规黑曜石科技军团技工武器。</OTCWeapons.description>
+<OTCWeapons.label>OTC - Regular Weapons</OTCWeapons.label>
+<OTCWeapons.description>Craft regular Obsidia Tech Corpus mechanics weapons.</OTCWeapons.description>
 
-<OTCArmor.label>OTC - 常规装甲</OTCArmor.label>
-<OTCArmor.description>制作常规黑曜石科技军团技工轻型动力装甲。</OTCArmor.description>
+<OTCArmor.label>OTC - Regular Armor</OTCArmor.label>
+<OTCArmor.description>Craft regular Obsidia Tech Corpus mechanics light power armor.</OTCArmor.description>
 
-<OTCGearMod.label>OTC - 实验性装备</OTCGearMod.label>
-<OTCGearMod.description>制作实验性黑曜石科技军团工程师装备。</OTCGearMod.description>
+<OTCGearMod.label>OTC - Experimental Equipment</OTCGearMod.label>
+<OTCGearMod.description>Craft experimental Obsidia Tech Corpus engineers equipment.</OTCGearMod.description>
 <!--=============== OCC - Obsidia Crusaders Corpus ====================-->
-<OCCWeapons.label>OCC - 常规武器</OCCWeapons.label>
-<OCCWeapons.description>制作常规黑曜石十字军军团骑士武器。</OCCWeapons.description>
+<OCCWeapons.label>OCC - Regular Weapons</OCCWeapons.label>
+<OCCWeapons.description>Craft regular Obsidia Crusaders Corpus knights weapons.</OCCWeapons.description>
 
-<OCCArmor.label>OCC - 常规装甲</OCCArmor.label>
-<OCCArmor.description>制作常规黑曜石十字军军团骑士中型动力装甲。</OCCArmor.description>
+<OCCArmor.label>OCC - Regular Armor</OCCArmor.label>
+<OCCArmor.description>Craft regular Obsidia Crusaders Corpus knights medium power armor.</OCCArmor.description>
 
-<OCCGearMod.label>OCC - 重铸装备</OCCGearMod.label>
-<OCCGearMod.description>重铸黑曜石十字军军团圣骑士装备。</OCCGearMod.description>
+<OCCGearMod.label>OCC - Reforged Equipment</OCCGearMod.label>
+<OCCGearMod.description>Reforge Obsidia Crusaders Corpus paladins equipment.</OCCGearMod.description>
 <!--=============== OEC - Obsidia Exalted Corpus ====================-->
-<OECWeapons.label>OEC - 常规武器</OECWeapons.label>
-<OECWeapons.description>制作常规黑曜石尊贵军团猎手灵能武器。</OECWeapons.description>
+<OECWeapons.label>OEC - Regular Weapons</OECWeapons.label>
+<OECWeapons.description>Craft regular Obsidia Exalted Corpus hunters psy weapons.</OECWeapons.description>
 
-<OECArmor.label>OEC - 常规装甲</OECArmor.label>
-<OECArmor.description>制作常规黑曜石尊贵军团猎手轻型动力装甲。</OECArmor.description>
+<OECArmor.label>OEC - Regular Armor</OECArmor.label>
+<OECArmor.description>Craft regular Obsidia Exalted Corpus hunters light power armor.</OECArmor.description>
 
-<OECGearMod.label>OEC - 尊贵装备</OECGearMod.label>
-<OECGearMod.description>升华黑曜石尊贵军团审判官装备。</OECGearMod.description>
+<OECGearMod.label>OEC - Exalted Equipment</OECGearMod.label>
+<OECGearMod.description>Exaltation Obsidia Exalted Corpus inquisitors equipment.</OECGearMod.description>
 <!--=============== Drifters Clans - Core ====================-->
-<ODCGear.label>ODC - 核心</ODCGear.label>
-<ODCGear.description>研究漂泊者氏族技术的基础知识。</ODCGear.description>
-<ODCGear.discoveredLetterTitle>关于：漂泊者氏族装备</ODCGear.discoveredLetterTitle>
-<ODCGear.discoveredLetterText>你现在可以制作为黑曜石漂泊者氏族设计的装备，使用漂泊者套件。\n\n漂泊者套件在黑曜石装甲站和武器工作台制作，开启了一种坚韧、游牧的战斗风格。</ODCGear.discoveredLetterText>
+<ODCGear.label>ODC - Core</ODCGear.label>
+<ODCGear.description>Research basics of Drifter Clans technology.</ODCGear.description>
+<ODCGear.discoveredLetterTitle>About: Drifter Clans equipment</ODCGear.discoveredLetterTitle>
+<ODCGear.discoveredLetterText>You can now craft gear designed for the Obsidia Drifter Clans, using Drifters Kits.\n\nDrifters Kits are crafted at the Obsidia Armor Station and Weapon Workbench, and open the way to a rugged, nomadic combat style.</ODCGear.discoveredLetterText>
 <!--=============== Drifters Clans - Emergent ====================-->
-<ODCGearAdv.label>ODC - 新兴</ODCGearAdv.label>
-<ODCGearAdv.description>研究漂泊者氏族的新兴技术。</ODCGearAdv.description>
+<ODCGearAdv.label>ODC - Emergent</ODCGearAdv.label>
+<ODCGearAdv.description>Research Emergent technology of Drifter Clans.</ODCGearAdv.description>
 <!--=============== Drifters Clans - Apex ====================-->
-<ODCGearExp.label>ODC - 顶点</ODCGearExp.label>
-<ODCGearExp.description>研究漂泊者氏族的顶点技术。</ODCGearExp.description>
+<ODCGearExp.label>ODC - Apex</ODCGearExp.label>
+<ODCGearExp.description>Research Apex technology of Drifter Clans.</ODCGearExp.description>
 
 <!--=============== Obsidia Expansion - Mechtech ====================-->
-<OEMechtech.label>OE - 机械科技</OEMechtech.label>
-<OEMechtech.description>研究黑曜石机械师技术。</OEMechtech.description>
-<OEMechtech.discoveredLetterTitle>关于：建造黑曜石机械族</OEMechtech.discoveredLetterTitle>
-<OEMechtech.discoveredLetterText>你现在拥有了构建黑曜石扩展基础机械族的知识。\n\n使用标准机械培育器或大型机械培育器来建造它们，以增强你殖民地的实力。</OEMechtech.discoveredLetterText>
+<OEMechtech.label>OE - Mechtech</OEMechtech.label>
+<OEMechtech.description>Research Obsidia mechanitors technology.</OEMechtech.description>
+<OEMechtech.discoveredLetterTitle>About: Building Obsidia mechs</OEMechtech.discoveredLetterTitle>
+<OEMechtech.discoveredLetterText>You now have the knowledge to construct basic Mechanoids from the Obsidia Expansion.\n\nBuild them using standard Mech Gestators or Large Mech Gestators to bolster your colony’s strength.</OEMechtech.discoveredLetterText>
 <!--=============== Obsidia Expansion - Advanced Mechtech ====================-->
-<OEMechtechAdv.label>OE - 高级机械科技</OEMechtechAdv.label>
-<OEMechtechAdv.description>研究黑曜石机械师技术的高级知识。</OEMechtechAdv.description>
+<OEMechtechAdv.label>OE - Adv. Mechtech</OEMechtechAdv.label>
+<OEMechtechAdv.description>Research advanced Obsidia mechanitors technology.</OEMechtechAdv.description>
 <!--=============== Crimson Arachna Cult ====================-->
 <!--=============== Crimson Arachna Cult - Initiation ====================-->
-<CACGear.label>CAC - 启蒙</CACGear.label>
-<CACGear.description>研究猩红蜘蛛邪教的启蒙技术。</CACGear.description>
-<CACGear.discoveredLetterTitle>关于：邪教徒战斗装备</CACGear.discoveredLetterTitle>
-<CACGear.discoveredLetterText>你已解锁了使用邪教徒套件创造先进的猩红蜘蛛邪教装备的方法。\n\n在黑曜石装甲站和武器工作台制作这些套件，以拥抱邪教扭曲的力量。</CACGear.discoveredLetterText>
+<CACGear.label>CAC - Initiation</CACGear.label>
+<CACGear.description>Research Initiation technology of Crimson Arachna Cult.</CACGear.description>
+<CACGear.discoveredLetterTitle>About: Cultist combat gear</CACGear.discoveredLetterTitle>
+<CACGear.discoveredLetterText>You’ve unlocked the means to create advanced Crimson Arachna Cult gear using Cultist Kits.\n\nCraft these kits at the Obsidia Armor Station and Weapon Workbench to embrace the cult's twisted power.</CACGear.discoveredLetterText>
 <!--=============== Crimson Arachna Cult - Enlightenment ====================-->
-<CACGearAdv.label>CAC - 觉悟</CACGearAdv.label>
-<CACGearAdv.description>研究猩红蜘蛛邪教的觉悟技术。</CACGearAdv.description>
+<CACGearAdv.label>CAC - Enlightenment</CACGearAdv.label>
+<CACGearAdv.description>Research Enlightenment technology of Crimson Arachna Cult.</CACGearAdv.description>
 
 <!--=============== Obsidia Expansion - Defence ====================-->
-<OEDefence.label>OE - 防御</OEDefence.label>
-<OEDefence.description>研究黑曜石防御技术的基础知识。</OEDefence.description>
-<OEDefence.discoveredLetterTitle>关于：黑曜石炮塔防御</OEDefence.discoveredLetterTitle>
-<OEDefence.discoveredLetterText>你已解锁了建造黑曜石扩展的强大防御炮塔的能力。\n\n这些炮塔使用一种通用类型的弹药-黑曜石弹药套件-必须在黑曜石合成打印机中制作，以保持你的防御系统运行。</OEDefence.discoveredLetterText>
+<OEDefence.label>OE - Defence</OEDefence.label>
+<OEDefence.description>Research basics of Obsidia defence technology.</OEDefence.description>
+<OEDefence.discoveredLetterTitle>About: Obsidia turret defense</OEDefence.discoveredLetterTitle>
+<OEDefence.discoveredLetterText>You’ve unlocked the ability to build powerful defensive turrets from the Obsidia Expansion.\n\nThese turrets use a universal type of ammunition – the Obsidia Ammo Kit – which must be crafted, at the Obsidia Synthesis Printer, to keep your defenses operational.</OEDefence.discoveredLetterText>
 <!--=============== Obsidia Expansion - Defence ====================-->
-<OEDefenceAdv.label>OE - 高级防御</OEDefenceAdv.label>
-<OEDefenceAdv.description>研究黑曜石防御技术的高级知识。</OEDefenceAdv.description>
+<OEDefenceAdv.label>OE - Adv. Defence</OEDefenceAdv.label>
+<OEDefenceAdv.description>Research advanced of Obsidia defence technology.</OEDefenceAdv.description>
 
 <!--=============== Obsidia Expansion - Bionics ====================-->
-<OEBionics.label>OE - 仿生学</OEBionics.label>
-<OEBionics.description>研究黑曜石仿生技术的基础知识。</OEBionics.description>
-<OEBionics.discoveredLetterTitle>关于：黑曜石仿生学</OEBionics.discoveredLetterTitle>
-<OEBionics.discoveredLetterText>你现在可以使用黑曜石扩展的高级仿生学。\n\n在黑曜石仿生台使用各种资源制作它们，增强你殖民者的身体性能。</OEBionics.discoveredLetterText>
+<OEBionics.label>OE - Bionics</OEBionics.label>
+<OEBionics.description>Research basics of Obsidia bionics technology.</OEBionics.description>
+<OEBionics.discoveredLetterTitle>About: Obsidia bionics</OEBionics.discoveredLetterTitle>
+<OEBionics.discoveredLetterText>You now have access to advanced Obsidia Expansion bionics.\n\nUse a wide range of resources to craft them at the Obsidia Bionic Table and enhance your colonists' physical performance.</OEBionics.discoveredLetterText>
 <!--=============== Obsidia Expansion - Adv. Bionics ====================-->
-<OEBionicsAdv.label>OE - 高级仿生学</OEBionicsAdv.label>
-<OEBionicsAdv.description>研究黑曜石仿生技术的高级知识。</OEBionicsAdv.description>
+<OEBionicsAdv.label>OE - Adv. Bionics</OEBionicsAdv.label>
+<OEBionicsAdv.description>Research advanced of Obsidia bionics technology.</OEBionicsAdv.description>
 <!--=============== Obsidia Expansion - Implants ====================-->
-<OEImplants.label>OE - 植入物</OEImplants.label>
-<OEImplants.description>研究黑曜石植入技术的基础知识。</OEImplants.description>
+<OEImplants.label>OE - Implants</OEImplants.label>
+<OEImplants.description>Research basics of Obsidia implanting technology.</OEImplants.description>
 <!--=============== Obsidia Expansion - Cyberwares ====================-->
-<OECyberwares.label>OE - 赛博组件</OECyberwares.label>
-<OECyberwares.description>研究黑曜石赛博组件技术的基础知识。</OECyberwares.description>
-<OECyberwares.discoveredLetterTitle>关于：安装赛博组件</OECyberwares.discoveredLetterTitle>
-<OECyberwares.discoveredLetterText>你现在可以创造赛博组件-多层级的植入物，以各种方式增强你的殖民者。\n\n在黑曜石仿生台制作它们。注意：要安装赛博组件，你必须首先安装赛博组件接口或赛博组件AI接口。</OECyberwares.discoveredLetterText>
+<OECyberwares.label>OE - Cyberwares</OECyberwares.label>
+<OECyberwares.description>Research basics of Obsidia cyberwares technology.</OECyberwares.description>
+<OECyberwares.discoveredLetterTitle>About: Installing cyberwares</OECyberwares.discoveredLetterTitle>
+<OECyberwares.discoveredLetterText>You can now create Cyberwares – multi-tier implants that enhance your colonists in various ways.\n\nCraft them at the Obsidia Bionic Table. Note: To install Cyberwares, you must first install a Cyberware Interface or Cyberware AI Interface.</OECyberwares.discoveredLetterText>
 <!--=============== Obsidia Expansion - Adv. Cyberwares ====================-->
-<OECyberwaresAdv.label>OE - 高级赛博组件</OECyberwaresAdv.label>
-<OECyberwaresAdv.description>研究黑曜石赛博组件技术的高级知识。</OECyberwaresAdv.description>
+<OECyberwaresAdv.label>OE - Adv. Cyberwares</OECyberwaresAdv.label>
+<OECyberwaresAdv.description>Research advanced of Obsidia cyberwares technology.</OECyberwaresAdv.description>
 
 <!--=============== Obsidia Expansion - Bioengineering ====================-->
-<OEBioengineering.label>OE - 生物工程</OEBioengineering.label>
-<OEBioengineering.description>研究黑曜石生物工程技术的基础知识。</OEBioengineering.description>
-<OEBioengineering.discoveredLetterTitle>关于：种植EGO树</OEBioengineering.discoveredLetterTitle>
-<OEBioengineering.discoveredLetterText>你已解锁融合技术的力量，主要使用神秘的EGO种子制作。\n\n使用EGO种子种植EGO树，以生长这些先进生物增强所需的基本材料。</OEBioengineering.discoveredLetterText>
+<OEBioengineering.label>OE - Bioengineering</OEBioengineering.label>
+<OEBioengineering.description>Research basics of Obsidia bioengineering technology.</OEBioengineering.description>
+<OEBioengineering.discoveredLetterTitle>About: Growing EGO Trees</OEBioengineering.discoveredLetterTitle>
+<OEBioengineering.discoveredLetterText>You’ve unlocked the power of Amalgama technology, crafted primarily using the mysterious EGO Seed.\n\nPlant an EGO Tree using an EGO Seed to grow the essential materials needed for these advanced biological enhancements.</OEBioengineering.discoveredLetterText>
 <!--=============== Obsidia Expansion - Advanced Bioengineering ====================-->
-<OEBioengineeringAdv.label>OE - 高级生物工程</OEBioengineeringAdv.label>
-<OEBioengineeringAdv.description>研究黑曜石生物工程技术的高级知识。</OEBioengineeringAdv.description>
+<OEBioengineeringAdv.label>OE - Adv. Bioengineering</OEBioengineeringAdv.label>
+<OEBioengineeringAdv.description>Research advanced of Obsidia bioengineering technology.</OEBioengineeringAdv.description>
 
 <!--=============== OES - The Fall ====================-->
-<OESGear.label>OES - 堕落</OESGear.label>
-<OESGear.description>研究黑曜石幻影的高级技术碎片。</OESGear.description>
-<OESGear.discoveredLetterTitle>关于：帝国罪恶装备</OESGear.discoveredLetterTitle>
-<OESGear.discoveredLetterText>你已获得了制作黑曜石帝国罪恶部分超等级装备的知识。\n\n这需要英雄套件，通过拆解英雄级装备获得。</OESGear.discoveredLetterText>
+<OESGear.label>OES - The Fall</OESGear.label>
+<OESGear.description>Research advanced fragments of Obsidia Eidolons technology.</OESGear.description>
+<OESGear.discoveredLetterTitle>About: Empire Sins equipment</OESGear.discoveredLetterTitle>
+<OESGear.discoveredLetterText>You've gained the knowledge to craft part of the ultra-tier gear from the Obsidia Empire Sins.\n\nThis requires Heroic Kits, which are obtained by dismantling Heroic-grade equipment.</OESGear.discoveredLetterText>
 
 <!--=============== Anomaly ====================-->
 <!--=============== Obsidia Expansion - Containment ====================-->
-<OEContainment.label>OE - 收容</OEContainment.label>
-<OEContainment.description>研究黑曜石收容技术的基础知识。</OEContainment.description>
+<OEContainment.label>OE - Containment</OEContainment.label>
+<OEContainment.description>Research basics of Obsidia сontainment technology.</OEContainment.description>
 
 <!--=============== Crimson Arachna Cult - Initiation ====================-->
-<CACGhoulBionics.label>CAC - 食尸鬼仿生学</CACGhoulBionics.label>
-<CACGhoulBionics.description>研究猩红蜘蛛邪教食尸鬼仿生技术的高级知识。</CACGhoulBionics.description>
+<CACGhoulBionics.label>CAC - Ghoul Bionics</CACGhoulBionics.label>
+<CACGhoulBionics.description>Research advanced of Crimson Arachna Cult ghoul's bionics technology.</CACGhoulBionics.description>
 
 <!--=============== Crimson Arachna Cult - Nano Technologies ====================-->
-<CACSerum.label>CAC - 纳米技术</CACSerum.label>
-<CACSerum.description>研究猩红蜘蛛邪教血清技术的实验性知识。</CACSerum.description>
+<CACSerum.label>CAC - Nano Technologies</CACSerum.label>
+<CACSerum.description>Research experimental of Crimson Arachna Cult serum's technology.</CACSerum.description>
 
 <!--=============== Drifters Clans - Legends ====================-->
-<ODCGearLeg.label>ODC - 传说</ODCGearLeg.label>
-<ODCGearLeg.description>研究来自传说的漂泊者氏族技术。</ODCGearLeg.description>
+<ODCGearLeg.label>ODC - Legends</ODCGearLeg.label>
+<ODCGearLeg.description>Research technology of Drifter Clans from Legends.</ODCGearLeg.description>
 
 <!--=============== OMG - Mercenary Grid Access ====================-->
-<OMGGear.label>OMG - 雇佣兵网格访问</OMGGear.label>
-<OMGGear.description>研究黑曜石雇佣兵帮派技术的高级碎片。</OMGGear.description>
-<OMGGear.discoveredLetterTitle>关于：雇佣兵级装备</OMGGear.discoveredLetterTitle>
-<OMGGear.discoveredLetterText>你现在可以锻造黑曜石雇佣兵帮派青睐的重度改装装备。\n\n在黑曜石装甲站和武器工作台使用雇佣兵现代化套件来访问这种残酷而高效的军火库。</OMGGear.discoveredLetterText>
+<OMGGear.label>OMG - Mercenary Grid Access</OMGGear.label>
+<OMGGear.description>Research advanced fragments of Obsidia Mercenary Gangs technology.</OMGGear.description>
+<OMGGear.discoveredLetterTitle>About: Mercenary-grade loadouts</OMGGear.discoveredLetterTitle>
+<OMGGear.discoveredLetterText>You can now forge heavily modified equipment favored by Obsidia Mercenary Gangs.\n\nUse Mercenaries Modernization Kits at the Obsidia Armor Station and Weapon Workbench to access this brutal and efficient arsenal.</OMGGear.discoveredLetterText>
 
 <!--=============== Obsidia Expansion - Gravtech ====================-->
-<OEGravtech.label>OE - 重力科技</OEGravtech.label>
-<OEGravtech.description>研究黑曜石重力飞船技术。</OEGravtech.description>
+<OEGravtech.label>OE - Gravtech</OEGravtech.label>
+<OEGravtech.description>Research Obsidia gravship technology.</OEGravtech.description>
 
 </LanguageData>

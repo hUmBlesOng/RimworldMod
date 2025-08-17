@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== Cosmol ====================-->
-<OE_CosmolHigh.label>科斯莫尔效果</OE_CosmolHigh.label>
-<OE_CosmolHigh.description>血液中活跃的科斯莫尔免疫刺激剂。有助于在感染发生之前预防感染并对抗一般细菌感染。</OE_CosmolHigh.description>
+<OE_CosmolHigh.label>cosmol effect</OE_CosmolHigh.label>
+<OE_CosmolHigh.description>Active cosmol immunostimulant in the bloodstream. Helps preventing infections before they take hold and fight against general bacterial infections.</OE_CosmolHigh.description>
 
 <!--=============== Slugol ====================-->
-<OE_SlugolHigh.label>斯鲁戈尔效果</OE_SlugolHigh.label>
-<OE_SlugolHigh.description>血液中独特的斯鲁戈尔化合物。缓慢愈合伤口，去除疤痕组织，促进新陈代谢从而提高免疫反应。</OE_SlugolHigh.description>
+<OE_SlugolHigh.label>slugol effect</OE_SlugolHigh.label>
+<OE_SlugolHigh.description>Unique slugol compounds in the bloodstream. Slowly healing of wounds, removes scar tissue, boosting the metabolism and therefore the immune response.</OE_SlugolHigh.description>
 
 <!--=============== Sevide ====================-->
-<OE_SevideHigh.label>塞维德效果</OE_SevideHigh.label>
-<OE_SevideHigh.description>血液中致命的塞维德毒素化合物。引起极度抽搐、呼吸困难和最终死亡。</OE_SevideHigh.description>
-<OE_SevideHigh.stages.trembling.label>颤抖</OE_SevideHigh.stages.trembling.label>
-<OE_SevideHigh.stages.convulsing.label>抽搐</OE_SevideHigh.stages.convulsing.label>
-<OE_SevideHigh.stages.death.label>死亡</OE_SevideHigh.stages.death.label>
+<OE_SevideHigh.label>sevide effect</OE_SevideHigh.label>
+<OE_SevideHigh.description>Deadly poison sevide compounds in the bloodstream. Causes extreme convulsions, trouble breathing and eventual death.</OE_SevideHigh.description>
+<OE_SevideHigh.stages.trembling.label>trembling</OE_SevideHigh.stages.trembling.label>
+<OE_SevideHigh.stages.convulsing.label>convulsing</OE_SevideHigh.stages.convulsing.label>
+<OE_SevideHigh.stages.death.label>death</OE_SevideHigh.stages.death.label>
 
 </LanguageData>

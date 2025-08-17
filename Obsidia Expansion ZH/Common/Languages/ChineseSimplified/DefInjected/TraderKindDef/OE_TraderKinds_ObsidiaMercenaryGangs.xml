@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+<!--=============== 黑曜石雇佣兵帮派 - 标准商队 ====================-->
+<Caravan_ObsidiaMercenaryGangs_Standard.label>黑曜石雇佣兵商品交易商</Caravan_ObsidiaMercenaryGangs_Standard.label>
+<!--=============== 黑曜石雇佣兵帮派 - 异域商队 ====================-->
+<Caravan_ObsidiaMercenaryGangs_Exotic.label>黑曜石雇佣兵异域商品交易商</Caravan_ObsidiaMercenaryGangs_Exotic.label>
+<!--=============== 黑曜石雇佣兵帮派 - 贡品收集者 ====================-->
+<Base_ObsidiaMercenaryGangs_TributeCollector.label>黑曜石雇佣兵贡品收集者</Base_ObsidiaMercenaryGangs_TributeCollector.label>
+
+<!--=============== 黑曜石雇佣兵帮派 - 轨道标准 ====================-->
+<Orbital_ObsidiaMercenaryGangs_Standard.label>轨道雇佣兵商品交易商</Orbital_ObsidiaMercenaryGangs_Standard.label>
+<!--=============== 黑曜石雇佣兵帮派 - 轨道异域 ====================-->
+<Orbital_ObsidiaMercenaryGangs_Exotic.label>轨道雇佣兵异域商品交易商</Orbital_ObsidiaMercenaryGangs_Exotic.label>
+
+</LanguageData>

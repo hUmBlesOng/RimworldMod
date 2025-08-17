@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Arms ====================-->
+<!--=============== Implant - Sting ====================-->
+<!--=============== Acid ====================-->
+<OE_InstallImplantArm_Sting_Acid.label>安装手臂植入物 - 刺针(酸液)</OE_InstallImplantArm_Sting_Acid.label>
+<OE_InstallImplantArm_Sting_Acid.description>安装手臂植入物 - 刺针。</OE_InstallImplantArm_Sting_Acid.description>
+<OE_InstallImplantArm_Sting_Acid.jobString>正在安装手臂植入物 - 刺针。</OE_InstallImplantArm_Sting_Acid.jobString>
+
+<OE_RemoveImplantArm_Sting_Acid.label>移除手臂植入物 - 刺针(酸液)</OE_RemoveImplantArm_Sting_Acid.label>
+<OE_RemoveImplantArm_Sting_Acid.description>移除手臂植入物 - 刺针。</OE_RemoveImplantArm_Sting_Acid.description>
+<OE_RemoveImplantArm_Sting_Acid.jobString>正在移除手臂植入物 - 刺针。</OE_RemoveImplantArm_Sting_Acid.jobString>
+<!--=============== Cryo ====================-->
+<OE_InstallImplantArm_Sting_Cryo.label>安装手臂植入物 - 刺针(冷冻)</OE_InstallImplantArm_Sting_Cryo.label>
+<OE_InstallImplantArm_Sting_Cryo.description>安装手臂植入物 - 刺针。</OE_InstallImplantArm_Sting_Cryo.description>
+<OE_InstallImplantArm_Sting_Cryo.jobString>正在安装手臂植入物 - 刺针。</OE_InstallImplantArm_Sting_Cryo.jobString>
+
+<OE_RemoveImplantArm_Sting_Cryo.label>移除手臂植入物 - 刺针(冷冻)</OE_RemoveImplantArm_Sting_Cryo.label>
+<OE_RemoveImplantArm_Sting_Cryo.description>移除手臂植入物 - 刺针。</OE_RemoveImplantArm_Sting_Cryo.description>
+<OE_RemoveImplantArm_Sting_Cryo.jobString>正在移除手臂植入物 - 刺针。</OE_RemoveImplantArm_Sting_Cryo.jobString>
+<!--=============== Fire ====================-->
+<OE_InstallImplantArm_Sting_Fire.label>安装手臂植入物 - 刺针(火焰)</OE_InstallImplantArm_Sting_Fire.label>
+<OE_InstallImplantArm_Sting_Fire.description>安装手臂植入物 - 刺针。</OE_InstallImplantArm_Sting_Fire.description>
+<OE_InstallImplantArm_Sting_Fire.jobString>正在安装手臂植入物 - 刺针。</OE_InstallImplantArm_Sting_Fire.jobString>
+
+<OE_RemoveImplantArm_Sting_Fire.label>移除手臂植入物 - 刺针(火焰)</OE_RemoveImplantArm_Sting_Fire.label>
+<OE_RemoveImplantArm_Sting_Fire.description>移除手臂植入物 - 刺针。</OE_RemoveImplantArm_Sting_Fire.description>
+<OE_RemoveImplantArm_Sting_Fire.jobString>正在移除手臂植入物 - 刺针。</OE_RemoveImplantArm_Sting_Fire.jobString>
+<!--=============== EMP ====================-->
+<OE_InstallImplantArm_Sting_EMP.label>安装手臂植入物 - 刺针(电磁)</OE_InstallImplantArm_Sting_EMP.label>
+<OE_InstallImplantArm_Sting_EMP.description>安装手臂植入物 - 刺针。</OE_InstallImplantArm_Sting_EMP.description>
+<OE_InstallImplantArm_Sting_EMP.jobString>正在安装手臂植入物 - 刺针。</OE_InstallImplantArm_Sting_EMP.jobString>
+
+<OE_RemoveImplantArm_Sting_EMP.label>移除手臂植入物 - 刺针(电磁)</OE_RemoveImplantArm_Sting_EMP.label>
+<OE_RemoveImplantArm_Sting_EMP.description>移除手臂植入物 - 刺针。</OE_RemoveImplantArm_Sting_EMP.description>
+<OE_RemoveImplantArm_Sting_EMP.jobString>正在移除手臂植入物 - 刺针。</OE_RemoveImplantArm_Sting_EMP.jobString>
+
+<!--=============== Implant - Demolisher ====================-->
+<OE_InstallImplantArm_Demolisher.label>安装手臂植入物 - 破坏者</OE_InstallImplantArm_Demolisher.label>
+<OE_InstallImplantArm_Demolisher.description>安装手臂植入物 - 破坏者。</OE_InstallImplantArm_Demolisher.description>
+<OE_InstallImplantArm_Demolisher.jobString>正在安装手臂植入物 - 破坏者。</OE_InstallImplantArm_Demolisher.jobString>
+
+<OE_RemoveImplantArm_Demolisher.label>移除手臂植入物 - 破坏者</OE_RemoveImplantArm_Demolisher.label>
+<OE_RemoveImplantArm_Demolisher.description>移除手臂植入物 - 破坏者。</OE_RemoveImplantArm_Demolisher.description>
+<OE_RemoveImplantArm_Demolisher.jobString>正在移除手臂植入物 - 破坏者。</OE_RemoveImplantArm_Demolisher.jobString>
+<!--=============== Implant - Assassin ====================-->
+<OE_InstallImplantArm_Assassin.label>安装手臂植入物 - 刺客</OE_InstallImplantArm_Assassin.label>
+<OE_InstallImplantArm_Assassin.description>安装手臂植入物 - 刺客。</OE_InstallImplantArm_Assassin.description>
+<OE_InstallImplantArm_Assassin.jobString>正在安装手臂植入物 - 刺客。</OE_InstallImplantArm_Assassin.jobString>
+
+<OE_RemoveImplantArm_Assassin.label>移除手臂植入物 - 刺客</OE_RemoveImplantArm_Assassin.label>
+<OE_RemoveImplantArm_Assassin.description>移除手臂植入物 - 刺客。</OE_RemoveImplantArm_Assassin.description>
+<OE_RemoveImplantArm_Assassin.jobString>正在移除手臂植入物 - 刺客。</OE_RemoveImplantArm_Assassin.jobString>
+<!--=============== Implant - Duelist ====================-->
+<OE_InstallImplantArm_Duelist.label>安装手臂植入物 - 决斗者</OE_InstallImplantArm_Duelist.label>
+<OE_InstallImplantArm_Duelist.description>安装手臂植入物 - 决斗者。</OE_InstallImplantArm_Duelist.description>
+<OE_InstallImplantArm_Duelist.jobString>正在安装手臂植入物 - 决斗者。</OE_InstallImplantArm_Duelist.jobString>
+
+<OE_RemoveImplantArm_Duelist.label>移除手臂植入物 - 决斗者</OE_RemoveImplantArm_Duelist.label>
+<OE_RemoveImplantArm_Duelist.description>移除手臂植入物 - 决斗者。</OE_RemoveImplantArm_Duelist.description>
+<OE_RemoveImplantArm_Duelist.jobString>正在移除手臂植入物 - 决斗者。</OE_RemoveImplantArm_Duelist.jobString>
+
+<!--=============== Hands ====================-->
+<!--=============== Implant - Builder ====================-->
+<OE_InstallImplantHand_Builder.label>安装手部植入物 - 建造者</OE_InstallImplantHand_Builder.label>
+<OE_InstallImplantHand_Builder.description>安装手部植入物 - 建造者。</OE_InstallImplantHand_Builder.description>
+<OE_InstallImplantHand_Builder.jobString>正在安装手部植入物 - 建造者。</OE_InstallImplantHand_Builder.jobString>
+
+<OE_RemoveImplantHand_Builder.label>移除手部植入物 - 建造者</OE_RemoveImplantHand_Builder.label>
+<OE_RemoveImplantHand_Builder.description>移除手部植入物 - 建造者。</OE_RemoveImplantHand_Builder.description>
+<OE_RemoveImplantHand_Builder.jobString>正在移除手部植入物 - 建造者。</OE_RemoveImplantHand_Builder.jobString>
+<!--=============== Implant - Agronomist ====================-->
+<OE_InstallImplantHand_Agronomist.label>安装手部植入物 - 农学家</OE_InstallImplantHand_Agronomist.label>
+<OE_InstallImplantHand_Agronomist.description>安装手部植入物 - 农学家。</OE_InstallImplantHand_Agronomist.description>
+<OE_InstallImplantHand_Agronomist.jobString>正在安装手部植入物 - 农学家。</OE_InstallImplantHand_Agronomist.jobString>
+
+<OE_RemoveImplantHand_Agronomist.label>移除手部植入物 - 农学家</OE_RemoveImplantHand_Agronomist.label>
+<OE_RemoveImplantHand_Agronomist.description>移除手部植入物 - 农学家。</OE_RemoveImplantHand_Agronomist.description>
+<OE_RemoveImplantHand_Agronomist.jobString>正在移除手部植入物 - 农学家。</OE_RemoveImplantHand_Agronomist.jobString>
+<!--=============== Implant - Doctor ====================-->
+<OE_InstallImplantHand_Doctor.label>安装手部植入物 - 医生</OE_InstallImplantHand_Doctor.label>
+<OE_InstallImplantHand_Doctor.description>安装手部植入物 - 医生。</OE_InstallImplantHand_Doctor.description>
+<OE_InstallImplantHand_Doctor.jobString>正在安装手部植入物 - 医生。</OE_InstallImplantHand_Doctor.jobString>
+
+<OE_RemoveImplantHand_Doctor.label>移除手部植入物 - 医生</OE_RemoveImplantHand_Doctor.label>
+<OE_RemoveImplantHand_Doctor.description>移除手部植入物 - 医生。</OE_RemoveImplantHand_Doctor.description>
+<OE_RemoveImplantHand_Doctor.jobString>正在移除手部植入物 - 医生。</OE_RemoveImplantHand_Doctor.jobString>
+<!--=============== Implant - Harvester ====================-->
+<OE_InstallImplantHand_Harvester.label>安装手部植入物 - 收割者</OE_InstallImplantHand_Harvester.label>
+<OE_InstallImplantHand_Harvester.description>安装手部植入物 - 收割者。</OE_InstallImplantHand_Harvester.description>
+<OE_InstallImplantHand_Harvester.jobString>正在安装手部植入物 - 收割者。</OE_InstallImplantHand_Harvester.jobString>
+
+<OE_RemoveImplantHand_Harvester.label>移除手部植入物 - 收割者</OE_RemoveImplantHand_Harvester.label>
+<OE_RemoveImplantHand_Harvester.description>移除手部植入物 - 收割者。</OE_RemoveImplantHand_Harvester.description>
+<OE_RemoveImplantHand_Harvester.jobString>正在移除手部植入物 - 收割者。</OE_RemoveImplantHand_Harvester.jobString>
+<!--=============== Implant - Soldier ====================-->
+<OE_InstallImplantHand_Soldier.label>安装手部植入物 - 士兵</OE_InstallImplantHand_Soldier.label>
+<OE_InstallImplantHand_Soldier.description>安装手部植入物 - 士兵。</OE_InstallImplantHand_Soldier.description>
+<OE_InstallImplantHand_Soldier.jobString>正在安装手部植入物 - 士兵。</OE_InstallImplantHand_Soldier.jobString>
+
+<OE_RemoveImplantHand_Soldier.label>移除手部植入物 - 士兵</OE_RemoveImplantHand_Soldier.label>
+<OE_RemoveImplantHand_Soldier.description>移除手部植入物 - 士兵。</OE_RemoveImplantHand_Soldier.description>
+<OE_RemoveImplantHand_Soldier.jobString>正在移除手部植入物 - 士兵。</OE_RemoveImplantHand_Soldier.jobString>
+<!--=============== Implant - Psy ====================-->
+<OE_InstallImplantHand_Psy.label>安装手部植入物 - 灵能者</OE_InstallImplantHand_Psy.label>
+<OE_InstallImplantHand_Psy.description>安装手部植入物 - 灵能者。</OE_InstallImplantHand_Psy.description>
+<OE_InstallImplantHand_Psy.jobString>正在安装手部植入物 - 灵能者。</OE_InstallImplantHand_Psy.jobString>
+
+<OE_RemoveImplantHand_Psy.label>移除手部植入物 - 灵能者</OE_RemoveImplantHand_Psy.label>
+<OE_RemoveImplantHand_Psy.description>移除手部植入物 - 灵能者。</OE_RemoveImplantHand_Psy.description>
+<OE_RemoveImplantHand_Psy.jobString>正在移除手部植入物 - 灵能者。</OE_RemoveImplantHand_Psy.jobString>
+
+<!--=============== Legs ====================-->
+<!--=============== Implant - Ninja ====================-->
+<OE_InstallImplantLeg_Ninja.label>安装腿部植入物 - 忍者</OE_InstallImplantLeg_Ninja.label>
+<OE_InstallImplantLeg_Ninja.description>安装腿部植入物 - 忍者。</OE_InstallImplantLeg_Ninja.description>
+<OE_InstallImplantLeg_Ninja.jobString>正在安装腿部植入物 - 忍者。</OE_InstallImplantLeg_Ninja.jobString>
+
+<OE_RemoveImplantLeg_Ninja.label>移除腿部植入物 - 忍者</OE_RemoveImplantLeg_Ninja.label>
+<OE_RemoveImplantLeg_Ninja.description>移除腿部植入物 - 忍者。</OE_RemoveImplantLeg_Ninja.description>
+<OE_RemoveImplantLeg_Ninja.jobString>正在移除腿部植入物 - 忍者。</OE_RemoveImplantLeg_Ninja.jobString>
+
+<!--=============== Skin ====================-->
+<!--=============== Implant - Obsidian ====================-->
+<OE_InstallImplantSkin_Obsidian.label>安装皮肤植入物 - 黑曜石</OE_InstallImplantSkin_Obsidian.label>
+<OE_InstallImplantSkin_Obsidian.description>安装皮肤植入物 - 黑曜石。</OE_InstallImplantSkin_Obsidian.description>
+<OE_InstallImplantSkin_Obsidian.jobString>正在安装皮肤植入物 - 黑曜石。</OE_InstallImplantSkin_Obsidian.jobString>
+
+<OE_RemoveImplantSkin_Obsidian.label>移除皮肤植入物 - 黑曜石</OE_RemoveImplantSkin_Obsidian.label>
+<OE_RemoveImplantSkin_Obsidian.description>移除皮肤植入物 - 黑曜石。</OE_RemoveImplantSkin_Obsidian.description>
+<OE_RemoveImplantSkin_Obsidian.jobString>正在移除皮肤植入物 - 黑曜石。</OE_RemoveImplantSkin_Obsidian.jobString>
+<!--=============== Implant - Mythril ====================-->
+<OE_InstallImplantSkin_Mythril.label>安装皮肤植入物 - 秘银</OE_InstallImplantSkin_Mythril.label>
+<OE_InstallImplantSkin_Mythril.description>安装皮肤植入物 - 秘银。</OE_InstallImplantSkin_Mythril.description>
+<OE_InstallImplantSkin_Mythril.jobString>正在安装皮肤植入物 - 秘银。</OE_InstallImplantSkin_Mythril.jobString>
+
+<OE_RemoveImplantSkin_Mythril.label>移除皮肤植入物 - 秘银</OE_RemoveImplantSkin_Mythril.label>
+<OE_RemoveImplantSkin_Mythril.description>移除皮肤植入物 - 秘银。</OE_RemoveImplantSkin_Mythril.description>
+<OE_RemoveImplantSkin_Mythril.jobString>正在移除皮肤植入物 - 秘银。</OE_RemoveImplantSkin_Mythril.jobString>
+<!--=============== Implant - CAC ====================-->
+<OE_InstallImplantSkin_CAC.label>安装皮肤植入物 - 邪教徒</OE_InstallImplantSkin_CAC.label>
+<OE_InstallImplantSkin_CAC.description>安装皮肤植入物 - 邪教徒。</OE_InstallImplantSkin_CAC.description>
+<OE_InstallImplantSkin_CAC.jobString>正在安装皮肤植入物 - 邪教徒。</OE_InstallImplantSkin_CAC.jobString>
+
+<OE_RemoveImplantSkin_CAC.label>移除皮肤植入物 - 邪教徒</OE_RemoveImplantSkin_CAC.label>
+<OE_RemoveImplantSkin_CAC.description>移除皮肤植入物 - 邪教徒。</OE_RemoveImplantSkin_CAC.description>
+<OE_RemoveImplantSkin_CAC.jobString>正在移除皮肤植入物 - 邪教徒。</OE_RemoveImplantSkin_CAC.jobString>
+
+<!--=============== Torso ====================-->
+<!--=============== Implant - Implantation interface ====================-->
+<OE_InstallImplantTorso_Interface.label>安装神经接口</OE_InstallImplantTorso_Interface.label>
+<OE_InstallImplantTorso_Interface.description>安装神经接口。</OE_InstallImplantTorso_Interface.description>
+<OE_InstallImplantTorso_Interface.jobString>正在安装神经接口。</OE_InstallImplantTorso_Interface.jobString>
+
+<OE_RemoveImplantTorso_Interface.label>移除神经接口</OE_RemoveImplantTorso_Interface.label>
+<OE_RemoveImplantTorso_Interface.description>移除神经接口。</OE_RemoveImplantTorso_Interface.description>
+<OE_RemoveImplantTorso_Interface.jobString>正在移除神经接口。</OE_RemoveImplantTorso_Interface.jobString>
+
+<!--=============== Implant - EGO Symbiont ====================-->
+<EGO_InstallImplantTorso_Interface.label>安装共生体</EGO_InstallImplantTorso_Interface.label>
+<EGO_InstallImplantTorso_Interface.description>安装共生体。</EGO_InstallImplantTorso_Interface.description>
+<EGO_InstallImplantTorso_Interface.jobString>正在安装共生体。</EGO_InstallImplantTorso_Interface.jobString>
+
+<EGO_RemoveImplantTorso_Interface.label>移除共生体</EGO_RemoveImplantTorso_Interface.label>
+<EGO_RemoveImplantTorso_Interface.description>移除共生体。</EGO_RemoveImplantTorso_Interface.description>
+<EGO_RemoveImplantTorso_Interface.jobString>正在移除共生体。</EGO_RemoveImplantTorso_Interface.jobString>
+
+<!--=============== Brain ====================-->
+<!--=============== Implant - Psydeaf ====================-->
+<OE_InstallImplantBrain_Psydeaf.label>安装大脑植入物 - 精神聋哑</OE_InstallImplantBrain_Psydeaf.label>
+<OE_InstallImplantBrain_Psydeaf.description>安装大脑植入物 - 精神聋哑。</OE_InstallImplantBrain_Psydeaf.description>
+<OE_InstallImplantBrain_Psydeaf.jobString>正在安装大脑植入物 - 精神聋哑。</OE_InstallImplantBrain_Psydeaf.jobString>
+
+<OE_RemoveImplantBrain_Psydeaf.label>移除大脑植入物 - 精神聋哑</OE_RemoveImplantBrain_Psydeaf.label>
+<OE_RemoveImplantBrain_Psydeaf.description>移除大脑植入物 - 精神聋哑。</OE_RemoveImplantBrain_Psydeaf.description>
+<OE_RemoveImplantBrain_Psydeaf.jobString>正在移除大脑植入物 - 精神聋哑。</OE_RemoveImplantBrain_Psydeaf.jobString>
+<!--=============== Implant - Prisoner ====================-->
+<OE_InstallImplantBrain_Prisoner.label>安装大脑植入物 - 压制</OE_InstallImplantBrain_Prisoner.label>
+<OE_InstallImplantBrain_Prisoner.description>安装大脑植入物 - 压制。</OE_InstallImplantBrain_Prisoner.description>
+<OE_InstallImplantBrain_Prisoner.jobString>正在安装大脑植入物 - 压制。</OE_InstallImplantBrain_Prisoner.jobString>
+
+<OE_RemoveImplantBrain_Prisoner.label>移除大脑植入物 - 压制</OE_RemoveImplantBrain_Prisoner.label>
+<OE_RemoveImplantBrain_Prisoner.description>移除大脑植入物 - 压制。</OE_RemoveImplantBrain_Prisoner.description>
+<OE_RemoveImplantBrain_Prisoner.jobString>正在移除大脑植入物 - 压制。</OE_RemoveImplantBrain_Prisoner.jobString>
+<!--=============== Implant - Slave ====================-->
+<OE_InstallImplantBrain_Slave.label>安装大脑植入物 - 祭品</OE_InstallImplantBrain_Slave.label>
+<OE_InstallImplantBrain_Slave.description>安装大脑植入物 - 祭品。</OE_InstallImplantBrain_Slave.description>
+<OE_InstallImplantBrain_Slave.jobString>正在安装大脑植入物 - 祭品。</OE_InstallImplantBrain_Slave.jobString>
+
+<OE_RemoveImplantBrain_Slave.label>移除大脑植入物 - 祭品</OE_RemoveImplantBrain_Slave.label>
+<OE_RemoveImplantBrain_Slave.description>移除大脑植入物 - 祭品。</OE_RemoveImplantBrain_Slave.description>
+<OE_RemoveImplantBrain_Slave.jobString>正在移除大脑植入物 - 祭品。</OE_RemoveImplantBrain_Slave.jobString>
+<!--=============== Implant - AI interface ====================-->
+<OE_InstallImplantBrain_Interface.label>安装神经AI接口</OE_InstallImplantBrain_Interface.label>
+<OE_InstallImplantBrain_Interface.description>安装神经AI接口。</OE_InstallImplantBrain_Interface.description>
+<OE_InstallImplantBrain_Interface.jobString>正在安装神经AI接口。</OE_InstallImplantBrain_Interface.jobString>
+
+<OE_RemoveImplantBrain_Interface.label>移除神经AI接口</OE_RemoveImplantBrain_Interface.label>
+<OE_RemoveImplantBrain_Interface.description>移除神经AI接口。</OE_RemoveImplantBrain_Interface.description>
+<OE_RemoveImplantBrain_Interface.jobString>正在移除神经AI接口。</OE_RemoveImplantBrain_Interface.jobString>
+
+<!--=============== Stomach ====================-->
+<!--=============== Implant - Traveler ====================-->
+<OE_InstallImplantStomach_Traveler.label>安装胃部植入物 - 旅行者</OE_InstallImplantStomach_Traveler.label>
+<OE_InstallImplantStomach_Traveler.description>安装胃部植入物 - 旅行者。</OE_InstallImplantStomach_Traveler.description>
+<OE_InstallImplantStomach_Traveler.jobString>正在安装胃部植入物 - 旅行者。</OE_InstallImplantStomach_Traveler.jobString>
+
+<OE_RemoveImplantStomach_Traveler.label>移除胃部植入物 - 旅行者</OE_RemoveImplantStomach_Traveler.label>
+<OE_RemoveImplantStomach_Traveler.description>移除胃部植入物 - 旅行者。</OE_RemoveImplantStomach_Traveler.description>
+<OE_RemoveImplantStomach_Traveler.jobString>正在移除胃部植入物 - 旅行者。</OE_RemoveImplantStomach_Traveler.jobString>
+
+<!--=============== Heart ====================-->
+<!--=============== Implant - Healing ====================-->
+<OE_InstallImplantHeart_Healing.label>安装心脏植入物 - 治愈</OE_InstallImplantHeart_Healing.label>
+<OE_InstallImplantHeart_Healing.description>安装心脏植入物 - 治愈。</OE_InstallImplantHeart_Healing.description>
+<OE_InstallImplantHeart_Healing.jobString>正在安装心脏植入物 - 治愈。</OE_InstallImplantHeart_Healing.jobString>
+
+<OE_RemoveImplantHeart_Healing.label>移除心脏植入物 - 治愈</OE_RemoveImplantHeart_Healing.label>
+<OE_RemoveImplantHeart_Healing.description>移除心脏植入物 - 治愈。</OE_RemoveImplantHeart_Healing.description>
+<OE_RemoveImplantHeart_Healing.jobString>正在移除心脏植入物 - 治愈。</OE_RemoveImplantHeart_Healing.jobString>
+
+<!--=============== Kidney ====================-->
+<!--=============== Implant - Coagulator ====================-->
+<OE_InstallImplantKidney_Coagulator.label>安装肾脏植入物 - 凝血</OE_InstallImplantKidney_Coagulator.label>
+<OE_InstallImplantKidney_Coagulator.description>安装肾脏植入物 - 凝血。</OE_InstallImplantKidney_Coagulator.description>
+<OE_InstallImplantKidney_Coagulator.jobString>正在安装肾脏植入物 - 凝血。</OE_InstallImplantKidney_Coagulator.jobString>
+
+<OE_RemoveImplantKidney_Coagulator.label>移除肾脏植入物 - 凝血</OE_RemoveImplantKidney_Coagulator.label>
+<OE_RemoveImplantKidney_Coagulator.description>移除肾脏植入物 - 凝血。</OE_RemoveImplantKidney_Coagulator.description>
+<OE_RemoveImplantKidney_Coagulator.jobString>正在移除肾脏植入物 - 凝血。</OE_RemoveImplantKidney_Coagulator.jobString>
+
+<!--=============== Liver ====================-->
+<!--=============== Implant - Antibiotic ====================-->
+<OE_InstallImplantLiver_Antibiotic.label>安装肝脏植入物 - 免疫助手</OE_InstallImplantLiver_Antibiotic.label>
+<OE_InstallImplantLiver_Antibiotic.description>安装肝脏植入物 - 免疫助手。</OE_InstallImplantLiver_Antibiotic.description>
+<OE_InstallImplantLiver_Antibiotic.jobString>正在安装肝脏植入物 - 免疫助手。</OE_InstallImplantLiver_Antibiotic.jobString>
+
+<OE_RemoveImplantLiver_Antibiotic.label>移除肝脏植入物 - 免疫助手</OE_RemoveImplantLiver_Antibiotic.label>
+<OE_RemoveImplantLiver_Antibiotic.description>移除肝脏植入物 - 免疫助手。</OE_RemoveImplantLiver_Antibiotic.description>
+<OE_RemoveImplantLiver_Antibiotic.jobString>正在移除肝脏植入物 - 免疫助手。</OE_RemoveImplantLiver_Antibiotic.jobString>
+
+<!--=============== Lung ====================-->
+<!--=============== Implant - Filtration ====================-->
+<OE_InstallImplantLung_Filtration.label>安装肺部植入物 - 抗毒素过滤器</OE_InstallImplantLung_Filtration.label>
+<OE_InstallImplantLung_Filtration.description>安装肺部植入物 - 抗毒素过滤器。</OE_InstallImplantLung_Filtration.description>
+<OE_InstallImplantLung_Filtration.jobString>正在安装肺部植入物 - 抗毒素过滤器。</OE_InstallImplantLung_Filtration.jobString>
+
+<OE_RemoveImplantLung_Filtration.label>移除肺部植入物 - 抗毒素过滤器</OE_RemoveImplantLung_Filtration.label>
+<OE_RemoveImplantLung_Filtration.description>移除肺部植入物 - 抗毒素过滤器。</OE_RemoveImplantLung_Filtration.description>
+<OE_RemoveImplantLung_Filtration.jobString>正在移除肺部植入物 - 抗毒素过滤器。</OE_RemoveImplantLung_Filtration.jobString>
+
+</LanguageData>

@@ -1,130 +1,130 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
-<!--=============== ODC - 头盔 ====================-->
-<ODC_Helmet_Nomad.label>ODC游牧者面具</ODC_Helmet_Nomad.label>
-<ODC_Helmet_Nomad.description>动力装甲面具，很好地保护所有者。专为黑曜石漂泊者使用而设计。</ODC_Helmet_Nomad.description>
+<!--=============== ODC - Helmet ====================-->
+<ODC_Helmet_Nomad.label>ODC Nomad Mask</ODC_Helmet_Nomad.label>
+<ODC_Helmet_Nomad.description>Power armor Mask, good protects the owner. Designed for use by Obsidia Drifters.</ODC_Helmet_Nomad.description>
 
-<ODC_Helmet_Spacer.label>ODC太空人面具</ODC_Helmet_Spacer.label>
-<ODC_Helmet_Spacer.description>改装动力装甲面具，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n密封版本设计用于在太空中保持佩戴者的生命。</ODC_Helmet_Spacer.description>
+<ODC_Helmet_Spacer.label>ODC Spacer Mask</ODC_Helmet_Spacer.label>
+<ODC_Helmet_Spacer.description>Moded power armor Mask, good protects the owner. Designed for use by Obsidia Drifters.\n\nPressure-sealed version designed to keep the occupant alive in outer space.</ODC_Helmet_Spacer.description>
 
-<ODC_Helmet_Recon.label>ODC侦察面具</ODC_Helmet_Recon.label>
-<ODC_Helmet_Recon.description>改装动力装甲面具，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n改装以增强所有者的射击技能。</ODC_Helmet_Recon.description>
+<ODC_Helmet_Recon.label>ODC Recon Mask</ODC_Helmet_Recon.label>
+<ODC_Helmet_Recon.description>Moded power armor Mask, good protects the owner. Designed for use by Obsidia Drifters.\n\nModified for improves shooting skills to the owner.</ODC_Helmet_Recon.description>
 
-<ODC_Helmet_Duelist.label>ODC决斗者面具</ODC_Helmet_Duelist.label>
-<ODC_Helmet_Duelist.description>改装动力装甲面具，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n改装以增强所有者的近战技能。</ODC_Helmet_Duelist.description>
+<ODC_Helmet_Duelist.label>ODC Duelist Mask</ODC_Helmet_Duelist.label>
+<ODC_Helmet_Duelist.description>Moded power armor Mask, good protects the owner. Designed for use by Obsidia Drifters.\n\nModified for improves melee skills to the owner.</ODC_Helmet_Duelist.description>
 
-<ODC_Helmet_Trader.label>ODC商人面具</ODC_Helmet_Trader.label>
-<ODC_Helmet_Trader.description>改装动力装甲面具，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n改装以增强所有者的贸易技能。</ODC_Helmet_Trader.description>
+<ODC_Helmet_Trader.label>ODC Trader Mask</ODC_Helmet_Trader.label>
+<ODC_Helmet_Trader.description>Moded power armor Mask, good protects the owner. Designed for use by Obsidia Drifters.\n\nModified for improves trader skills to the owner.</ODC_Helmet_Trader.description>
 
-<ODC_Helmet_Beastmaster.label>ODC驯兽师面具</ODC_Helmet_Beastmaster.label>
-<ODC_Helmet_Beastmaster.description>改装动力装甲面具，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n改装以增强所有者的动物技能。</ODC_Helmet_Beastmaster.description>
+<ODC_Helmet_Beastmaster.label>ODC Beastmaster Mask</ODC_Helmet_Beastmaster.label>
+<ODC_Helmet_Beastmaster.description>Moded power armor Mask, good protects the owner. Designed for use by Obsidia Drifters.\n\nModified for improves animal skills to the owner.</ODC_Helmet_Beastmaster.description>
 
-<ODC_Helmet_Constructor.label>ODC建造者面具</ODC_Helmet_Constructor.label>
-<ODC_Helmet_Constructor.description>改装动力装甲面具，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n改装以增强所有者的制作技能。</ODC_Helmet_Constructor.description>
+<ODC_Helmet_Constructor.label>ODC Constructor Mask</ODC_Helmet_Constructor.label>
+<ODC_Helmet_Constructor.description>Moded power armor Mask, good protects the owner. Designed for use by Obsidia Drifters.\n\nModified for improves crafting skills to the owner.</ODC_Helmet_Constructor.description>
 
-<ODC_Helmet_Miner.label>ODC矿工面具</ODC_Helmet_Miner.label>
-<ODC_Helmet_Miner.description>改装动力装甲面具，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n改装以增强所有者的采矿技能。</ODC_Helmet_Miner.description>
+<ODC_Helmet_Miner.label>ODC Miner Mask</ODC_Helmet_Miner.label>
+<ODC_Helmet_Miner.description>Moded power armor Mask, good protects the owner. Designed for use by Obsidia Drifters.\n\nModified for improves mining skills to the owner.</ODC_Helmet_Miner.description>
 
-<ODC_Helmet_Medic.label>ODC医师面具</ODC_Helmet_Medic.label>
-<ODC_Helmet_Medic.description>改装动力装甲面具，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n改装以增强所有者的医疗技能。</ODC_Helmet_Medic.description>
+<ODC_Helmet_Medic.label>ODC Medic Mask</ODC_Helmet_Medic.label>
+<ODC_Helmet_Medic.description>Moded power armor Mask, good protects the owner. Designed for use by Obsidia Drifters.\n\nModified for improves medical skills to the owner.</ODC_Helmet_Medic.description>
 
-<ODC_Helmet_Prestige.label>ODC领主面具</ODC_Helmet_Prestige.label>
-<ODC_Helmet_Prestige.description>改装动力装甲面具，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n改装以增强所有者的心灵力量。</ODC_Helmet_Prestige.description>
+<ODC_Helmet_Prestige.label>ODC Lord Mask</ODC_Helmet_Prestige.label>
+<ODC_Helmet_Prestige.description>Moded power armor Mask, good protects the owner. Designed for use by Obsidia Drifters.\n\nModified for improves psychic powers to the owner.</ODC_Helmet_Prestige.description>
 
-<ODC_Helmet_Mechanitor.label>ODC监督者面具</ODC_Helmet_Mechanitor.label>
-<ODC_Helmet_Mechanitor.description>改装动力装甲面具，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n改装以增强机械体控制能力。</ODC_Helmet_Mechanitor.description>
+<ODC_Helmet_Mechanitor.label>ODC Overseer Mask</ODC_Helmet_Mechanitor.label>
+<ODC_Helmet_Mechanitor.description>Moded power armor Mask, good protects the owner. Designed for use by Obsidia Drifters.\n\nModified for improves Mechanoids Control abilities.</ODC_Helmet_Mechanitor.description>
 
-<!--=============== ODC - 装甲 ====================-->
-<ODC_Armor_Nomad.label>ODC游牧者装甲</ODC_Armor_Nomad.label>
-<ODC_Armor_Nomad.description>动力装甲，很好地保护所有者。专为黑曜石漂泊者使用而设计。</ODC_Armor_Nomad.description>
+<!--=============== ODC - Armor ====================-->
+<ODC_Armor_Nomad.label>ODC Nomad Armor</ODC_Armor_Nomad.label>
+<ODC_Armor_Nomad.description>Power armor, good protects the owner. Designed for use by Obsidia Drifters.</ODC_Armor_Nomad.description>
 
-<ODC_Armor_Recon.label>ODC侦察装甲</ODC_Armor_Recon.label>
-<ODC_Armor_Recon.description>改装动力装甲，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n侦察版本改善所有者的射击技能。</ODC_Armor_Recon.description>
+<ODC_Armor_Recon.label>ODC Recon Armor</ODC_Armor_Recon.label>
+<ODC_Armor_Recon.description>Moded power armor, good protects the owner. Designed for use by Obsidia Drifters.\n\nRecon version improves shooting skills to the owner.</ODC_Armor_Recon.description>
 
-<ODC_Armor_Recon_Spacer.label>ODC侦察装甲(太空狮鹫)</ODC_Armor_Recon_Spacer.label>
-<ODC_Armor_Recon_Spacer.description>改装动力装甲，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n侦察版本改善所有者的射击技能。\n\n密封版本设计用于在太空中保持佩戴者的生命。</ODC_Armor_Recon_Spacer.description>
+<ODC_Armor_Recon_Spacer.label>ODC Recon Armor(Space Griffin)</ODC_Armor_Recon_Spacer.label>
+<ODC_Armor_Recon_Spacer.description>Moded power armor, good protects the owner. Designed for use by Obsidia Drifters.\n\nRecon version improves shooting skills to the owner.\n\nPressure-sealed version designed to keep the occupant alive in outer space.</ODC_Armor_Recon_Spacer.description>
 
-<ODC_Armor_Recon_Smoker.label>ODC侦察装甲(雾化器)</ODC_Armor_Recon_Smoker.label>
-<ODC_Armor_Recon_Smoker.verbs.Verb_SmokePop.label>ODC侦察装甲(雾化器)</ODC_Armor_Recon_Smoker.verbs.Verb_SmokePop.label>
-<ODC_Armor_Recon_Smoker.description>改装动力装甲，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n侦察版本改善所有者的射击技能。\n\n改装增加了烟雾弹背包。</ODC_Armor_Recon_Smoker.description>
-<ODC_Armor_Recon_Smoker.comps.CompApparelReloadable.chargeNoun>烟雾弹</ODC_Armor_Recon_Smoker.comps.CompApparelReloadable.chargeNoun>
-<ODC_Armor_Recon_Smoker.comps.CompApparelReloadable.cooldownGerund>冷却中</ODC_Armor_Recon_Smoker.comps.CompApparelReloadable.cooldownGerund>
+<ODC_Armor_Recon_Smoker.label>ODC Recon Armor(Fogler)</ODC_Armor_Recon_Smoker.label>
+<ODC_Armor_Recon_Smoker.verbs.Verb_SmokePop.label>ODC Recon Armor(Fogler)</ODC_Armor_Recon_Smoker.verbs.Verb_SmokePop.label>
+<ODC_Armor_Recon_Smoker.description>Moded power armor, good protects the owner. Designed for use by Obsidia Drifters.\n\nRecon version improves shooting skills to the owner.\n\nModified with the addition of a Smokepop pack.</ODC_Armor_Recon_Smoker.description>
+<ODC_Armor_Recon_Smoker.comps.CompApparelReloadable.chargeNoun>smokepop</ODC_Armor_Recon_Smoker.comps.CompApparelReloadable.chargeNoun>
+<ODC_Armor_Recon_Smoker.comps.CompApparelReloadable.cooldownGerund>on cooldown</ODC_Armor_Recon_Smoker.comps.CompApparelReloadable.cooldownGerund>
 
-<ODC_Armor_Recon_Shield.label>ODC侦察装甲(守护者)</ODC_Armor_Recon_Shield.label>
-<ODC_Armor_Recon_Shield.description>改装动力装甲，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n侦察版本改善所有者的射击技能。\n\n改装增加了强化屏障。</ODC_Armor_Recon_Shield.description>
+<ODC_Armor_Recon_Shield.label>ODC Recon Armor(Guardian)</ODC_Armor_Recon_Shield.label>
+<ODC_Armor_Recon_Shield.description>Moded power armor, good protects the owner. Designed for use by Obsidia Drifters.\n\nRecon version improves shooting skills to the owner.\n\nModified with the addition of a Reinforced Barrier.</ODC_Armor_Recon_Shield.description>
 
-<ODC_Armor_Recon_Barrier.label>ODC侦察装甲(保护者)</ODC_Armor_Recon_Barrier.label>
-<ODC_Armor_Recon_Barrier.description>改装动力装甲，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n侦察版本改善所有者的射击技能。\n\n改装增加了通用屏障。</ODC_Armor_Recon_Barrier.description>
+<ODC_Armor_Recon_Barrier.label>ODC Recon Armor(Protector)</ODC_Armor_Recon_Barrier.label>
+<ODC_Armor_Recon_Barrier.description>Moded power armor, good protects the owner. Designed for use by Obsidia Drifters.\n\nRecon version improves shooting skills to the owner.\n\nModified with the addition of the Universal Barrier.</ODC_Armor_Recon_Barrier.description>
 
-<ODC_Armor_Recon_Jump.label>ODC侦察装甲(乌鸦)</ODC_Armor_Recon_Jump.label>
-<ODC_Armor_Recon_Jump.verbs.Verb_Jump.label>ODC侦察装甲(乌鸦)</ODC_Armor_Recon_Jump.verbs.Verb_Jump.label>
-<ODC_Armor_Recon_Jump.description>改装动力装甲，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n侦察版本改善所有者的射击技能。\n\n改装增加了跳跃背包。</ODC_Armor_Recon_Jump.description>
-<ODC_Armor_Recon_Jump.comps.CompApparelReloadable.chargeNoun>跳跃</ODC_Armor_Recon_Jump.comps.CompApparelReloadable.chargeNoun>
-<ODC_Armor_Recon_Jump.comps.CompApparelReloadable.cooldownGerund>冷却中</ODC_Armor_Recon_Jump.comps.CompApparelReloadable.cooldownGerund>
+<ODC_Armor_Recon_Jump.label>ODC Recon Armor(Raven)</ODC_Armor_Recon_Jump.label>
+<ODC_Armor_Recon_Jump.verbs.Verb_Jump.label>ODC Recon Armor(Raven)</ODC_Armor_Recon_Jump.verbs.Verb_Jump.label>
+<ODC_Armor_Recon_Jump.description>Moded power armor, good protects the owner. Designed for use by Obsidia Drifters.\n\nRecon version improves shooting skills to the owner.\n\nModified with the addition of a Jump pack.</ODC_Armor_Recon_Jump.description>
+<ODC_Armor_Recon_Jump.comps.CompApparelReloadable.chargeNoun>jump</ODC_Armor_Recon_Jump.comps.CompApparelReloadable.chargeNoun>
+<ODC_Armor_Recon_Jump.comps.CompApparelReloadable.cooldownGerund>on cooldown</ODC_Armor_Recon_Jump.comps.CompApparelReloadable.cooldownGerund>
 
-<ODC_Armor_Recon_Prestige.label>ODC侦察装甲(领主)</ODC_Armor_Recon_Prestige.label>
-<ODC_Armor_Recon_Prestige.description>改装动力装甲，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n侦察版本改善所有者的射击技能。\n\n改装以增强所有者的心灵力量。</ODC_Armor_Recon_Prestige.description>
+<ODC_Armor_Recon_Prestige.label>ODC Recon Armor(Lord)</ODC_Armor_Recon_Prestige.label>
+<ODC_Armor_Recon_Prestige.description>Moded power armor, good protects the owner. Designed for use by Obsidia Drifters.\n\nRecon version improves shooting skills to the owner.\n\nModified for improves psychic powers to the owner.</ODC_Armor_Recon_Prestige.description>
 
-<ODC_Armor_Recon_Mechanitor.label>ODC侦察装甲(监督者)</ODC_Armor_Recon_Mechanitor.label>
-<ODC_Armor_Recon_Mechanitor.description>改装动力装甲，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n侦察版本改善所有者的射击技能。\n\n改装增加了机械体控制背包。</ODC_Armor_Recon_Mechanitor.description>
+<ODC_Armor_Recon_Mechanitor.label>ODC Recon Armor(Overseer)</ODC_Armor_Recon_Mechanitor.label>
+<ODC_Armor_Recon_Mechanitor.description>Moded power armor, good protects the owner. Designed for use by Obsidia Drifters.\n\nRecon version improves shooting skills to the owner.\n\nModified with the addition of a Mechanoids Control pack.</ODC_Armor_Recon_Mechanitor.description>
 
-<ODC_Armor_Recon_Turret.label>ODC侦察装甲(哥布林)</ODC_Armor_Recon_Turret.label>
-<ODC_Armor_Recon_Turret.description>改装动力装甲，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n侦察版本改善所有者的射击技能。\n\n改装增加了允许用户部署电池供电炮塔的背包。</ODC_Armor_Recon_Turret.description>
-<ODC_Armor_Recon_Turret.verbs.deploy_turret.label>部署炮塔</ODC_Armor_Recon_Turret.verbs.deploy_turret.label>
-<ODC_Armor_Recon_Turret.comps.CompApparelReloadable.chargeNoun>燃烧弹</ODC_Armor_Recon_Turret.comps.CompApparelReloadable.chargeNoun>
-<ODC_Armor_Recon_Turret.comps.CompApparelReloadable.cooldownGerund>冷却中</ODC_Armor_Recon_Turret.comps.CompApparelReloadable.cooldownGerund>
+<ODC_Armor_Recon_Turret.label>ODC Recon Armor(Goblin)</ODC_Armor_Recon_Turret.label>
+<ODC_Armor_Recon_Turret.description>Moded power armor, good protects the owner. Designed for use by Obsidia Drifters.\n\nRecon version improves shooting skills to the owner.\n\nModified with the pack that allows the user to deploy a battery-powered turret.</ODC_Armor_Recon_Turret.description>
+<ODC_Armor_Recon_Turret.verbs.deploy_turret.label>deploy turret</ODC_Armor_Recon_Turret.verbs.deploy_turret.label>
+<ODC_Armor_Recon_Turret.comps.CompApparelReloadable.chargeNoun>incendiary</ODC_Armor_Recon_Turret.comps.CompApparelReloadable.chargeNoun>
+<ODC_Armor_Recon_Turret.comps.CompApparelReloadable.cooldownGerund>on cooldown</ODC_Armor_Recon_Turret.comps.CompApparelReloadable.cooldownGerund>
 
-<ODC_Armor_Duelist.label>ODC决斗者装甲</ODC_Armor_Duelist.label>
-<ODC_Armor_Duelist.description>改装动力装甲，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n决斗者版本改善所有者的近战技能。</ODC_Armor_Duelist.description>
+<ODC_Armor_Duelist.label>ODC Duelist Armor</ODC_Armor_Duelist.label>
+<ODC_Armor_Duelist.description>Moded power armor, good protects the owner. Designed for use by Obsidia Drifters.\n\nDuelist version improves melee skills to the owner.</ODC_Armor_Duelist.description>
 
-<ODC_Armor_Duelist_Spacer.label>ODC决斗者装甲(太空狮鹫)</ODC_Armor_Duelist_Spacer.label>
-<ODC_Armor_Duelist_Spacer.description>改装动力装甲，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n决斗者版本改善所有者的近战技能。\n\n密封版本设计用于在太空中保持佩戴者的生命。</ODC_Armor_Duelist_Spacer.description>
+<ODC_Armor_Duelist_Spacer.label>ODC Duelist Armor(Space Griffin)</ODC_Armor_Duelist_Spacer.label>
+<ODC_Armor_Duelist_Spacer.description>Moded power armor, good protects the owner. Designed for use by Obsidia Drifters.\n\nDuelist version improves melee skills to the owner.\n\nPressure-sealed version designed to keep the occupant alive in outer space.</ODC_Armor_Duelist_Spacer.description>
 
-<ODC_Armor_Duelist_Smoker.label>ODC决斗者装甲(雾化器)</ODC_Armor_Duelist_Smoker.label>
-<ODC_Armor_Duelist_Smoker.verbs.Verb_SmokePop.label>ODC决斗者装甲(雾化器)</ODC_Armor_Duelist_Smoker.verbs.Verb_SmokePop.label>
-<ODC_Armor_Duelist_Smoker.description>改装动力装甲，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n决斗者版本改善所有者的近战技能。\n\n改装增加了烟雾弹背包。</ODC_Armor_Duelist_Smoker.description>
-<ODC_Armor_Duelist_Smoker.comps.CompApparelReloadable.chargeNoun>烟雾弹</ODC_Armor_Duelist_Smoker.comps.CompApparelReloadable.chargeNoun>
-<ODC_Armor_Duelist_Smoker.comps.CompApparelReloadable.cooldownGerund>冷却中</ODC_Armor_Duelist_Smoker.comps.CompApparelReloadable.cooldownGerund>
+<ODC_Armor_Duelist_Smoker.label>ODC Duelist Armor(Fogler)</ODC_Armor_Duelist_Smoker.label>
+<ODC_Armor_Duelist_Smoker.verbs.Verb_SmokePop.label>ODC Duelist Armor(Fogler)</ODC_Armor_Duelist_Smoker.verbs.Verb_SmokePop.label>
+<ODC_Armor_Duelist_Smoker.description>Moded power armor, good protects the owner. Designed for use by Obsidia Drifters.\n\nDuelist version improves melee skills to the owner.\n\nModified with the addition of a Smokepop pack.</ODC_Armor_Duelist_Smoker.description>
+<ODC_Armor_Duelist_Smoker.comps.CompApparelReloadable.chargeNoun>smokepop</ODC_Armor_Duelist_Smoker.comps.CompApparelReloadable.chargeNoun>
+<ODC_Armor_Duelist_Smoker.comps.CompApparelReloadable.cooldownGerund>on cooldown</ODC_Armor_Duelist_Smoker.comps.CompApparelReloadable.cooldownGerund>
 
-<ODC_Armor_Duelist_Shield.label>ODC决斗者装甲(守护者)</ODC_Armor_Duelist_Shield.label>
-<ODC_Armor_Duelist_Shield.description>改装动力装甲，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n决斗者版本改善所有者的近战技能。\n\n改装增加了强化屏障。</ODC_Armor_Duelist_Shield.description>
+<ODC_Armor_Duelist_Shield.label>ODC Duelist Armor(Guardian)</ODC_Armor_Duelist_Shield.label>
+<ODC_Armor_Duelist_Shield.description>Moded power armor, good protects the owner. Designed for use by Obsidia Drifters.\n\nDuelist version improves melee skills to the owner.\n\nModified with the addition of a Reinforced Barrier.</ODC_Armor_Duelist_Shield.description>
 
-<ODC_Armor_Duelist_Barrier.label>ODC决斗者装甲(保护者)</ODC_Armor_Duelist_Barrier.label>
-<ODC_Armor_Duelist_Barrier.description>改装动力装甲，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n决斗者版本改善所有者的近战技能。\n\n改装增加了通用屏障。</ODC_Armor_Duelist_Barrier.description>
+<ODC_Armor_Duelist_Barrier.label>ODC Duelist Armor(Protector)</ODC_Armor_Duelist_Barrier.label>
+<ODC_Armor_Duelist_Barrier.description>Moded power armor, good protects the owner. Designed for use by Obsidia Drifters.\n\nDuelist version improves melee skills to the owner.\n\nModified with the addition of the Universal Barrier.</ODC_Armor_Duelist_Barrier.description>
 
-<ODC_Armor_Duelist_Jump.label>ODC决斗者装甲(乌鸦)</ODC_Armor_Duelist_Jump.label>
-<ODC_Armor_Duelist_Jump.verbs.Verb_Jump.label>ODC决斗者装甲(乌鸦)</ODC_Armor_Duelist_Jump.verbs.Verb_Jump.label>
-<ODC_Armor_Duelist_Jump.description>改装动力装甲，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n决斗者版本改善所有者的近战技能。\n\n改装增加了跳跃背包。</ODC_Armor_Duelist_Jump.description>
-<ODC_Armor_Duelist_Jump.comps.CompApparelReloadable.chargeNoun>跳跃</ODC_Armor_Duelist_Jump.comps.CompApparelReloadable.chargeNoun>
-<ODC_Armor_Duelist_Jump.comps.CompApparelReloadable.cooldownGerund>冷却中</ODC_Armor_Duelist_Jump.comps.CompApparelReloadable.cooldownGerund>
+<ODC_Armor_Duelist_Jump.label>ODC Duelist Armor(Raven)</ODC_Armor_Duelist_Jump.label>
+<ODC_Armor_Duelist_Jump.verbs.Verb_Jump.label>ODC Duelist Armor(Raven)</ODC_Armor_Duelist_Jump.verbs.Verb_Jump.label>
+<ODC_Armor_Duelist_Jump.description>Moded power armor, good protects the owner. Designed for use by Obsidia Drifters.\n\nDuelist version improves melee skills to the owner.\n\nModified with the addition of a Jump pack.</ODC_Armor_Duelist_Jump.description>
+<ODC_Armor_Duelist_Jump.comps.CompApparelReloadable.chargeNoun>jump</ODC_Armor_Duelist_Jump.comps.CompApparelReloadable.chargeNoun>
+<ODC_Armor_Duelist_Jump.comps.CompApparelReloadable.cooldownGerund>on cooldown</ODC_Armor_Duelist_Jump.comps.CompApparelReloadable.cooldownGerund>
 
-<ODC_Armor_Duelist_Prestige.label>ODC决斗者装甲(领主)</ODC_Armor_Duelist_Prestige.label>
-<ODC_Armor_Duelist_Prestige.description>改装动力装甲，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n决斗者版本改善所有者的近战技能。\n\n改装以增强所有者的心灵力量。</ODC_Armor_Duelist_Prestige.description>
+<ODC_Armor_Duelist_Prestige.label>ODC Duelist Armor(Lord)</ODC_Armor_Duelist_Prestige.label>
+<ODC_Armor_Duelist_Prestige.description>Moded power armor, good protects the owner. Designed for use by Obsidia Drifters.\n\nDuelist version improves melee skills to the owner.\n\nModified for improves psychic powers to the owner.</ODC_Armor_Duelist_Prestige.description>
 
-<ODC_Armor_Duelist_Mechanitor.label>ODC决斗者装甲(监督者)</ODC_Armor_Duelist_Mechanitor.label>
-<ODC_Armor_Duelist_Mechanitor.description>改装动力装甲，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n决斗者版本改善所有者的近战技能。\n\n改装增加了机械体控制背包。</ODC_Armor_Duelist_Mechanitor.description>
+<ODC_Armor_Duelist_Mechanitor.label>ODC Duelist Armor(Overseer)</ODC_Armor_Duelist_Mechanitor.label>
+<ODC_Armor_Duelist_Mechanitor.description>Moded power armor, good protects the owner. Designed for use by Obsidia Drifters.\n\nDuelist version improves melee skills to the owner.\n\nModified with the addition of a Mechanoids Control pack.</ODC_Armor_Duelist_Mechanitor.description>
 
-<ODC_Armor_Duelist_Turret.label>ODC决斗者装甲(哥布林)</ODC_Armor_Duelist_Turret.label>
-<ODC_Armor_Duelist_Turret.description>改装动力装甲，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n决斗者版本改善所有者的近战技能。\n\n改装增加了允许用户部署电池供电炮塔的背包。</ODC_Armor_Duelist_Turret.description>
-<ODC_Armor_Duelist_Turret.verbs.deploy_turret.label>部署炮塔</ODC_Armor_Duelist_Turret.verbs.deploy_turret.label>
-<ODC_Armor_Duelist_Turret.comps.CompApparelReloadable.chargeNoun>燃烧弹</ODC_Armor_Duelist_Turret.comps.CompApparelReloadable.chargeNoun>
-<ODC_Armor_Duelist_Turret.comps.CompApparelReloadable.cooldownGerund>冷却中</ODC_Armor_Duelist_Turret.comps.CompApparelReloadable.cooldownGerund>
+<ODC_Armor_Duelist_Turret.label>ODC Duelist Armor(Goblin)</ODC_Armor_Duelist_Turret.label>
+<ODC_Armor_Duelist_Turret.description>Moded power armor, good protects the owner. Designed for use by Obsidia Drifters.\n\nDuelist version improves melee skills to the owner.\n\nModified with the pack that allows the user to deploy a battery-powered turret.</ODC_Armor_Duelist_Turret.description>
+<ODC_Armor_Duelist_Turret.verbs.deploy_turret.label>deploy turret</ODC_Armor_Duelist_Turret.verbs.deploy_turret.label>
+<ODC_Armor_Duelist_Turret.comps.CompApparelReloadable.chargeNoun>incendiary</ODC_Armor_Duelist_Turret.comps.CompApparelReloadable.chargeNoun>
+<ODC_Armor_Duelist_Turret.comps.CompApparelReloadable.cooldownGerund>on cooldown</ODC_Armor_Duelist_Turret.comps.CompApparelReloadable.cooldownGerund>
 
-<!--=============== ODC - 手榴弹 ====================-->
-<Grenade_Armor_ODC_TurretPack.label>ODC炮塔包胶囊</Grenade_Armor_ODC_TurretPack.label>
+<!--=============== ODC - Grenades ====================-->
+<Grenade_Armor_ODC_TurretPack.label>ODC turret pack capsule</Grenade_Armor_ODC_TurretPack.label>
 
-<!--=============== ODC - 潜行者装甲 ====================-->
-<ODC_Armor_Stalker_Direwolf.label>ODC潜行者装甲(年长恐狼)</ODC_Armor_Stalker_Direwolf.label>
-<ODC_Armor_Stalker_Direwolf.description>改装动力装甲，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n潜行者版本通过从年长野兽身上获得的战利品进行增强，赋予穿戴者野兽般的力量。\n\n改装了年长恐狼的精华。</ODC_Armor_Stalker_Direwolf.description>
+<!--=============== ODC - Stalker Armor ====================-->
+<ODC_Armor_Stalker_Direwolf.label>ODC Stalker Armor(Elder Direwolf)</ODC_Armor_Stalker_Direwolf.label>
+<ODC_Armor_Stalker_Direwolf.description>Moded power armor, good protects the owner. Designed for use by Obsidia Drifters.\n\nStalker version is enhanced with trophies taken from Elder Beasts, empowering the wearer with beast-like power.\n\nModified with the essence of an Elder Direwolf.</ODC_Armor_Stalker_Direwolf.description>
 
-<ODC_Armor_Stalker_Raptor.label>ODC潜行者装甲(年长迅猛龙)</ODC_Armor_Stalker_Raptor.label>
-<ODC_Armor_Stalker_Raptor.description>改装动力装甲，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n潜行者版本通过从年长野兽身上获得的战利品进行增强，赋予穿戴者野兽般的力量。\n\n改装了年长迅猛龙的精华。</ODC_Armor_Stalker_Raptor.description>
+<ODC_Armor_Stalker_Raptor.label>ODC Stalker Armor(Elder Raptor)</ODC_Armor_Stalker_Raptor.label>
+<ODC_Armor_Stalker_Raptor.description>Moded power armor, good protects the owner. Designed for use by Obsidia Drifters.\n\nStalker version is enhanced with trophies taken from Elder Beasts, empowering the wearer with beast-like power.\n\nModified with the essence of an Elder Raptor.</ODC_Armor_Stalker_Raptor.description>
 
-<ODC_Armor_Stalker_Ogren.label>ODC潜行者装甲(年长奥格林)</ODC_Armor_Stalker_Ogren.label>
-<ODC_Armor_Stalker_Ogren.description>改装动力装甲，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n潜行者版本通过从年长野兽身上获得的战利品进行增强，赋予穿戴者野兽般的力量。\n\n改装了年长恐狼的精华。</ODC_Armor_Stalker_Ogren.description>
+<ODC_Armor_Stalker_Ogren.label>ODC Stalker Armor(Elder Ogren)</ODC_Armor_Stalker_Ogren.label>
+<ODC_Armor_Stalker_Ogren.description>Moded power armor, good protects the owner. Designed for use by Obsidia Drifters.\n\nStalker version is enhanced with trophies taken from Elder Beasts, empowering the wearer with beast-like power.\n\nModified with the essence of an Elder Direwolf.</ODC_Armor_Stalker_Ogren.description>
 
-<ODC_Armor_Stalker_Tionant.label>ODC潜行者装甲(年长提奥南特)</ODC_Armor_Stalker_Tionant.label>
-<ODC_Armor_Stalker_Tionant.description>改装动力装甲，很好地保护所有者。专为黑曜石漂泊者使用而设计。\n\n潜行者版本通过从年长野兽身上获得的战利品进行增强，赋予穿戴者野兽般的力量。\n\n改装了年长恐狼的精华。</ODC_Armor_Stalker_Tionant.description>
+<ODC_Armor_Stalker_Tionant.label>ODC Stalker Armor(Elder Tionant)</ODC_Armor_Stalker_Tionant.label>
+<ODC_Armor_Stalker_Tionant.description>Moded power armor, good protects the owner. Designed for use by Obsidia Drifters.\n\nStalker version is enhanced with trophies taken from Elder Beasts, empowering the wearer with beast-like power.\n\nModified with the essence of an Elder Direwolf.</ODC_Armor_Stalker_Tionant.description>
 
 </LanguageData>

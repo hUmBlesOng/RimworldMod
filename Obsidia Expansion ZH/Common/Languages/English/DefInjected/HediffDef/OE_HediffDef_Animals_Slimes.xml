@@ -1,26 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
 <!--=============== Companion Slime ====================-->
 <!--=============== Worker ====================-->
-<OE_Slime_Companion_Worker_Bonded.label>工人伴侣史莱姆绑定</OE_Slime_Companion_Worker_Bonded.label>
-<OE_Slime_Companion_Worker_Bonded.description>这个伴侣史莱姆已经与一个殖民者绑定。它将提供与该殖民者的心灵连接，增加工作技能，但如果绑定的殖民者死亡，史莱姆也会死亡。</OE_Slime_Companion_Worker_Bonded.description>
+<OE_Slime_Companion_Worker_Bonded.label>worker companion slime bonded</OE_Slime_Companion_Worker_Bonded.label>
+<OE_Slime_Companion_Worker_Bonded.description>This companion slime has bonded with a colonist. It will provide a psychic connection to that colonist increasing working skills, but the slime will die if the bonded colonist dies.</OE_Slime_Companion_Worker_Bonded.description>
 
-<OE_Slime_Companion_Worker_BondedPawn.label>工人伴侣史莱姆绑定</OE_Slime_Companion_Worker_BondedPawn.label>
-<OE_Slime_Companion_Worker_BondedPawn.description>与增加工作技能的伴侣史莱姆的心灵连接。</OE_Slime_Companion_Worker_BondedPawn.description>
+<OE_Slime_Companion_Worker_BondedPawn.label>worker companion slime bond</OE_Slime_Companion_Worker_BondedPawn.label>
+<OE_Slime_Companion_Worker_BondedPawn.description>Psychic connection with a companion slime that increasing working skills.</OE_Slime_Companion_Worker_BondedPawn.description>
 
 <!--=============== Battle ====================-->
-<OE_Slime_Companion_Battle_Bonded.label>战斗伴侣史莱姆绑定</OE_Slime_Companion_Battle_Bonded.label>
-<OE_Slime_Companion_Battle_Bonded.description>这个伴侣史莱姆已经与一个殖民者绑定。它将提供与该殖民者的心灵连接，增加战斗技能，但如果绑定的殖民者死亡，史莱姆也会死亡。</OE_Slime_Companion_Battle_Bonded.description>
+<OE_Slime_Companion_Battle_Bonded.label>battle companion slime bonded</OE_Slime_Companion_Battle_Bonded.label>
+<OE_Slime_Companion_Battle_Bonded.description>This companion slime has bonded with a colonist. It will provide a psychic connection to that colonist increasing combat skills, but the slime will die if the bonded colonist dies.</OE_Slime_Companion_Battle_Bonded.description>
 
-<OE_Slime_Companion_Battle_BondedPawn.label>战斗伴侣史莱姆绑定</OE_Slime_Companion_Battle_BondedPawn.label>
-<OE_Slime_Companion_Battle_BondedPawn.description>与增加战斗技能的伴侣史莱姆的心灵连接。</OE_Slime_Companion_Battle_BondedPawn.description>
+<OE_Slime_Companion_Battle_BondedPawn.label>battle companion slime bond</OE_Slime_Companion_Battle_BondedPawn.label>
+<OE_Slime_Companion_Battle_BondedPawn.description>Psychic connection with a companion slime that increasing combat skills.</OE_Slime_Companion_Battle_BondedPawn.description>
 
 <!--=============== Anima ====================-->
-<OE_Slime_Companion_Anima_Bonded.label>心灵伴侣史莱姆绑定</OE_Slime_Companion_Anima_Bonded.label>
-<OE_Slime_Companion_Anima_Bonded.description>这个伴侣史莱姆已经与一个殖民者绑定。它将提供与该殖民者的心灵连接，增加心灵能力，但如果绑定的殖民者死亡，史莱姆也会死亡。</OE_Slime_Companion_Anima_Bonded.description>
+<OE_Slime_Companion_Anima_Bonded.label>anima companion slime bonded</OE_Slime_Companion_Anima_Bonded.label>
+<OE_Slime_Companion_Anima_Bonded.description>This companion slime has bonded with a colonist. It will provide a psychic connection to that colonist increasing psychic powers, but the slime will die if the bonded colonist dies.</OE_Slime_Companion_Anima_Bonded.description>
 
-<OE_Slime_Companion_Anima_BondedPawn.label>心灵伴侣史莱姆绑定</OE_Slime_Companion_Anima_BondedPawn.label>
-<OE_Slime_Companion_Anima_BondedPawn.description>与增加心灵能力的伴侣史莱姆的心灵连接。</OE_Slime_Companion_Anima_BondedPawn.description>
+<OE_Slime_Companion_Anima_BondedPawn.label>anima companion slime bond</OE_Slime_Companion_Anima_BondedPawn.label>
+<OE_Slime_Companion_Anima_BondedPawn.description>Psychic connection with a companion slime that increasing psychic powers.</OE_Slime_Companion_Anima_BondedPawn.description>
 
 </LanguageData>

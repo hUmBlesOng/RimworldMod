@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-<!--=============== 黑曜石漂泊者氏族 - 标准商队 ====================-->
-<Caravan_ObsidiaDrifterClans_Standard.label>黑曜石漂泊者商品交易商</Caravan_ObsidiaDrifterClans_Standard.label>
-<!--=============== 黑曜石漂泊者氏族 - 联合商队 ====================-->
-<Caravan_ObsidiaDrifterClans_Slaver.label>黑曜石联合奴隶贩子</Caravan_ObsidiaDrifterClans_Slaver.label>
-<!--=============== 黑曜石漂泊者氏族 - 叛徒商队 ====================-->
-<Caravan_ObsidiaDrifterClans_Animals.label>黑曜石叛徒宠物店</Caravan_ObsidiaDrifterClans_Animals.label>
-<!--=============== 黑曜石漂泊者氏族 - 异域商队 ====================-->
-<Caravan_ObsidiaDrifterClans_Exotic.label>黑曜石漂泊者异域商品交易商</Caravan_ObsidiaDrifterClans_Exotic.label>
+<!--=============== Obsidia Drifter Clans - Caravan Standard ====================-->
+<Caravan_ObsidiaDrifterClans_Standard.label>obsidia drifters goods trader</Caravan_ObsidiaDrifterClans_Standard.label>
+<!--=============== Obsidia Drifter Clans - Caravan Syndicate ====================-->
+<Caravan_ObsidiaDrifterClans_Slaver.label>obsidia syndicate slaver</Caravan_ObsidiaDrifterClans_Slaver.label>
+<!--=============== Obsidia Drifter Clans - Caravan Renegade ====================-->
+<Caravan_ObsidiaDrifterClans_Animals.label>obsidia renegade pet shop</Caravan_ObsidiaDrifterClans_Animals.label>
+<!--=============== Obsidia Drifter Clans - Caravan Exotic ====================-->
+<Caravan_ObsidiaDrifterClans_Exotic.label>obsidia drifters exotic goods trader</Caravan_ObsidiaDrifterClans_Exotic.label>
 
 </LanguageData>

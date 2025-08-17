@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+<!--=============== Swarmella ====================-->
+<OE_Biophormids_Psybolt.label>心灵箭</OE_Biophormids_Psybolt.label>
+<OE_Biophormids_Psybolt.description>斯瓦梅拉引导她的精神能力，向敌人释放最多5个心灵箭。</OE_Biophormids_Psybolt.description>
+
+<!--=============== Monarchid ====================-->
+<OE_Biophormids_PsyStun.label>心灵眩晕</OE_Biophormids_PsyStun.label>
+<OE_Biophormids_PsyStun.description>暂时干扰目标大脑中的运动功能，阻止任何移动。</OE_Biophormids_PsyStun.description>
+
+</LanguageData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+<!--=============== Redline ====================-->
+<OE_MechRedline.label>红线模式</OE_MechRedline.label>
+<OE_MechRedline.description>红线模式赋予支配者增强战斗潜力和移动速度的能力。警告！使用后需要时间恢复。</OE_MechRedline.description>
+
+<!--=============== Rocket Launcher ====================-->
+<OE_MechRocketLauncher.label>火箭发射器</OE_MechRocketLauncher.label>
+<OE_MechRocketLauncher.description>装载的火箭发射器赋予支配者向目标发射小型爆炸火箭的能力。</OE_MechRocketLauncher.description>
+
+<!--=============== Chaos ====================-->
+<OE_MechChaos.label>混沌程序</OE_MechChaos.label>
+<OE_MechChaos.description>混沌程序赋予支配者在多个目标心中诱发愤怒精神病的能力，使他们攻击附近的任何人。</OE_MechChaos.description>
+
+<!--=============== Vanguard ====================-->
+<OE_MechVanguard.label>先锋程序</OE_MechVanguard.label>
+<OE_MechVanguard.description>先锋程序赋予支配者减少受到的伤害但小幅降低移动速度的能力。</OE_MechVanguard.description>
+
+<!--=============== Blink ====================-->
+<OE_MechBlink.label>闪现装置</OE_MechBlink.label>
+<OE_MechBlink.description>闪现装置赋予支配者将目标传送到距离起始点不远的指定位置的能力。过大的物体无法被传送。</OE_MechBlink.description>
+
+<!--=============== Camouflage ====================-->
+<OE_MechCamouflage.label>伪装装置</OE_MechCamouflage.label>
+<OE_MechCamouflage.description>伪装装置赋予支配者激活内置隐形模块使使用者隐形的能力。</OE_MechCamouflage.description>
+
+<!--=============== Provoke ====================-->
+<OE_MechProvoke.label>挑衅程序</OE_MechProvoke.label>
+<OE_MechProvoke.description>挑衅程序赋予支配者吸引多个目标接近施法者的能力。</OE_MechProvoke.description>
+
+</LanguageData>

@@ -1,119 +1,119 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
-<!--=============== 黑曜石扩展类别 - 武器 ====================-->
-<OE_Category_Weapons.label>黑曜石武器</OE_Category_Weapons.label>
+<!--=============== Obsidia Expansion Category - Weapons ====================-->
+<OE_Category_Weapons.label>obsidia weapons</OE_Category_Weapons.label>
 <!-- OMC -->
-<OE_Category_Weapons_OMC.label>OMC武器</OE_Category_Weapons_OMC.label>
-<OE_Category_Weapons_OMC_Melee.label>近战武器</OE_Category_Weapons_OMC_Melee.label>
-<OE_Category_Weapons_OMC_Ranged.label>远程武器</OE_Category_Weapons_OMC_Ranged.label>
+<OE_Category_Weapons_OMC.label>OMC weapons</OE_Category_Weapons_OMC.label>
+<OE_Category_Weapons_OMC_Melee.label>melee weapons</OE_Category_Weapons_OMC_Melee.label>
+<OE_Category_Weapons_OMC_Ranged.label>ranged weapons</OE_Category_Weapons_OMC_Ranged.label>
 <!-- OTC -->
-<OE_Category_Weapons_OTC.label>OTC武器</OE_Category_Weapons_OTC.label>
-<OE_Category_Weapons_OTC_Melee.label>近战武器</OE_Category_Weapons_OTC_Melee.label>
-<OE_Category_Weapons_OTC_Ranged.label>远程武器</OE_Category_Weapons_OTC_Ranged.label>
+<OE_Category_Weapons_OTC.label>OTC weapons</OE_Category_Weapons_OTC.label>
+<OE_Category_Weapons_OTC_Melee.label>melee weapons</OE_Category_Weapons_OTC_Melee.label>
+<OE_Category_Weapons_OTC_Ranged.label>ranged weapons</OE_Category_Weapons_OTC_Ranged.label>
 <!-- OCC -->
-<OE_Category_Weapons_OCC.label>OCC武器</OE_Category_Weapons_OCC.label>
-<OE_Category_Weapons_OCC_Melee.label>近战武器</OE_Category_Weapons_OCC_Melee.label>
-<OE_Category_Weapons_OCC_Ranged.label>远程武器</OE_Category_Weapons_OCC_Ranged.label>
+<OE_Category_Weapons_OCC.label>OCC weapons</OE_Category_Weapons_OCC.label>
+<OE_Category_Weapons_OCC_Melee.label>melee weapons</OE_Category_Weapons_OCC_Melee.label>
+<OE_Category_Weapons_OCC_Ranged.label>ranged weapons</OE_Category_Weapons_OCC_Ranged.label>
 <!-- OEC -->
-<OE_Category_Weapons_OEC.label>OEC武器</OE_Category_Weapons_OEC.label>
-<OE_Category_Weapons_OEC_Melee.label>近战武器</OE_Category_Weapons_OEC_Melee.label>
-<OE_Category_Weapons_OEC_Ranged.label>远程武器</OE_Category_Weapons_OEC_Ranged.label>
+<OE_Category_Weapons_OEC.label>OEC weapons</OE_Category_Weapons_OEC.label>
+<OE_Category_Weapons_OEC_Melee.label>melee weapons</OE_Category_Weapons_OEC_Melee.label>
+<OE_Category_Weapons_OEC_Ranged.label>ranged weapons</OE_Category_Weapons_OEC_Ranged.label>
 <!-- ODC -->
-<OE_Category_Weapons_ODC.label>ODC武器</OE_Category_Weapons_ODC.label>
-<OE_Category_Weapons_ODC_Melee.label>近战武器</OE_Category_Weapons_ODC_Melee.label>
-<OE_Category_Weapons_ODC_Ranged.label>远程武器</OE_Category_Weapons_ODC_Ranged.label>
+<OE_Category_Weapons_ODC.label>ODC weapons</OE_Category_Weapons_ODC.label>
+<OE_Category_Weapons_ODC_Melee.label>melee weapons</OE_Category_Weapons_ODC_Melee.label>
+<OE_Category_Weapons_ODC_Ranged.label>ranged weapons</OE_Category_Weapons_ODC_Ranged.label>
 <!-- CAC -->
-<OE_Category_Weapons_CAC.label>CAC武器</OE_Category_Weapons_CAC.label>
-<OE_Category_Weapons_CAC_Melee.label>近战武器</OE_Category_Weapons_CAC_Melee.label>
-<OE_Category_Weapons_CAC_Ranged.label>远程武器</OE_Category_Weapons_CAC_Ranged.label>
+<OE_Category_Weapons_CAC.label>CAC weapons</OE_Category_Weapons_CAC.label>
+<OE_Category_Weapons_CAC_Melee.label>melee weapons</OE_Category_Weapons_CAC_Melee.label>
+<OE_Category_Weapons_CAC_Ranged.label>ranged weapons</OE_Category_Weapons_CAC_Ranged.label>
 <!-- OES -->
-<OE_Category_Weapons_OES.label>OES武器</OE_Category_Weapons_OES.label>
-<OE_Category_Weapons_OES_Melee.label>近战武器</OE_Category_Weapons_OES_Melee.label>
-<OE_Category_Weapons_OES_Ranged.label>远程武器</OE_Category_Weapons_OES_Ranged.label>
+<OE_Category_Weapons_OES.label>OES weapons</OE_Category_Weapons_OES.label>
+<OE_Category_Weapons_OES_Melee.label>melee weapons</OE_Category_Weapons_OES_Melee.label>
+<OE_Category_Weapons_OES_Ranged.label>ranged weapons</OE_Category_Weapons_OES_Ranged.label>
 <!-- OMG -->
-<OE_Category_Weapons_OMG.label>OMG武器</OE_Category_Weapons_OMG.label>
-<OE_Category_Weapons_OMG_Melee.label>近战武器</OE_Category_Weapons_OMG_Melee.label>
-<OE_Category_Weapons_OMG_Ranged.label>远程武器</OE_Category_Weapons_OMG_Ranged.label>
+<OE_Category_Weapons_OMG.label>OMG weapons</OE_Category_Weapons_OMG.label>
+<OE_Category_Weapons_OMG_Melee.label>melee weapons</OE_Category_Weapons_OMG_Melee.label>
+<OE_Category_Weapons_OMG_Ranged.label>ranged weapons</OE_Category_Weapons_OMG_Ranged.label>
 <!-- EGO -->
-<OE_Category_Weapons_EGO.label>EGO武器</OE_Category_Weapons_EGO.label>
-<OE_Category_Weapons_EGO_Melee.label>近战武器</OE_Category_Weapons_EGO_Melee.label>
-<OE_Category_Weapons_EGO_Ranged.label>远程武器</OE_Category_Weapons_EGO_Ranged.label>
+<OE_Category_Weapons_EGO.label>EGO weapons</OE_Category_Weapons_EGO.label>
+<OE_Category_Weapons_EGO_Melee.label>melee weapons</OE_Category_Weapons_EGO_Melee.label>
+<OE_Category_Weapons_EGO_Ranged.label>ranged weapons</OE_Category_Weapons_EGO_Ranged.label>
 <!-- Trophy -->
-<OE_Category_Weapons_Trophy.label>战利品武器</OE_Category_Weapons_Trophy.label>
-<OE_Category_Weapons_Trophy_Melee.label>近战武器</OE_Category_Weapons_Trophy_Melee.label>
-<OE_Category_Weapons_Trophy_Ranged.label>远程武器</OE_Category_Weapons_Trophy_Ranged.label>
+<OE_Category_Weapons_Trophy.label>trophy weapons</OE_Category_Weapons_Trophy.label>
+<OE_Category_Weapons_Trophy_Melee.label>melee weapons</OE_Category_Weapons_Trophy_Melee.label>
+<OE_Category_Weapons_Trophy_Ranged.label>ranged weapons</OE_Category_Weapons_Trophy_Ranged.label>
 <!-- OE -->
-<OE_Category_Weapons_OE.label>其他武器</OE_Category_Weapons_OE.label>
-<OE_Category_Weapons_OE_Melee.label>近战武器</OE_Category_Weapons_OE_Melee.label>
-<OE_Category_Weapons_OE_Ranged.label>远程武器</OE_Category_Weapons_OE_Ranged.label>
+<OE_Category_Weapons_OE.label>other weapons</OE_Category_Weapons_OE.label>
+<OE_Category_Weapons_OE_Melee.label>melee weapons</OE_Category_Weapons_OE_Melee.label>
+<OE_Category_Weapons_OE_Ranged.label>ranged weapons</OE_Category_Weapons_OE_Ranged.label>
 
-<!--=============== 黑曜石扩展类别 - 装备 ====================-->
-<OE_Category_Gear.label>黑曜石装备</OE_Category_Gear.label>
+<!--=============== Obsidia Expansion Category - Gear ====================-->
+<OE_Category_Gear.label>obsidia gear</OE_Category_Gear.label>
 <!-- OMC -->
-<OE_Category_Gear_OMC.label>OMC装备</OE_Category_Gear_OMC.label>
-<OE_Category_Gear_OMC_Headgear.label>头饰</OE_Category_Gear_OMC_Headgear.label>
-<OE_Category_Gear_OMC_Armor.label>装甲</OE_Category_Gear_OMC_Armor.label>
-<OE_Category_Gear_OMC_Utility.label>实用装备</OE_Category_Gear_OMC_Utility.label>
+<OE_Category_Gear_OMC.label>OMC gear</OE_Category_Gear_OMC.label>
+<OE_Category_Gear_OMC_Headgear.label>headgear</OE_Category_Gear_OMC_Headgear.label>
+<OE_Category_Gear_OMC_Armor.label>armor</OE_Category_Gear_OMC_Armor.label>
+<OE_Category_Gear_OMC_Utility.label>utility</OE_Category_Gear_OMC_Utility.label>
 <!-- OTC -->
-<OE_Category_Gear_OTC.label>OTC装备</OE_Category_Gear_OTC.label>
-<OE_Category_Gear_OTC_Headgear.label>头饰</OE_Category_Gear_OTC_Headgear.label>
-<OE_Category_Gear_OTC_Armor.label>装甲</OE_Category_Gear_OTC_Armor.label>
-<OE_Category_Gear_OTC_Utility.label>实用装备</OE_Category_Gear_OTC_Utility.label>
+<OE_Category_Gear_OTC.label>OTC gear</OE_Category_Gear_OTC.label>
+<OE_Category_Gear_OTC_Headgear.label>headgear</OE_Category_Gear_OTC_Headgear.label>
+<OE_Category_Gear_OTC_Armor.label>armor</OE_Category_Gear_OTC_Armor.label>
+<OE_Category_Gear_OTC_Utility.label>utility</OE_Category_Gear_OTC_Utility.label>
 <!-- OCC -->
-<OE_Category_Gear_OCC.label>OCC装备</OE_Category_Gear_OCC.label>
-<OE_Category_Gear_OCC_Headgear.label>头饰</OE_Category_Gear_OCC_Headgear.label>
-<OE_Category_Gear_OCC_Armor.label>装甲</OE_Category_Gear_OCC_Armor.label>
-<OE_Category_Gear_OCC_Utility.label>实用装备</OE_Category_Gear_OCC_Utility.label>
+<OE_Category_Gear_OCC.label>OCC gear</OE_Category_Gear_OCC.label>
+<OE_Category_Gear_OCC_Headgear.label>headgear</OE_Category_Gear_OCC_Headgear.label>
+<OE_Category_Gear_OCC_Armor.label>armor</OE_Category_Gear_OCC_Armor.label>
+<OE_Category_Gear_OCC_Utility.label>utility</OE_Category_Gear_OCC_Utility.label>
 <!-- OEC -->
-<OE_Category_Gear_OEC.label>OEC装备</OE_Category_Gear_OEC.label>
-<OE_Category_Gear_OEC_Headgear.label>头饰</OE_Category_Gear_OEC_Headgear.label>
-<OE_Category_Gear_OEC_Armor.label>装甲</OE_Category_Gear_OEC_Armor.label>
-<OE_Category_Gear_OEC_Utility.label>实用装备</OE_Category_Gear_OEC_Utility.label>
+<OE_Category_Gear_OEC.label>OEC gear</OE_Category_Gear_OEC.label>
+<OE_Category_Gear_OEC_Headgear.label>headgear</OE_Category_Gear_OEC_Headgear.label>
+<OE_Category_Gear_OEC_Armor.label>armor</OE_Category_Gear_OEC_Armor.label>
+<OE_Category_Gear_OEC_Utility.label>utility</OE_Category_Gear_OEC_Utility.label>
 <!-- ODC -->
-<OE_Category_Gear_ODC.label>ODC装备</OE_Category_Gear_ODC.label>
-<OE_Category_Gear_ODC_Headgear.label>头饰</OE_Category_Gear_ODC_Headgear.label>
-<OE_Category_Gear_ODC_Armor.label>装甲</OE_Category_Gear_ODC_Armor.label>
-<OE_Category_Gear_ODC_Utility.label>实用装备</OE_Category_Gear_ODC_Utility.label>
+<OE_Category_Gear_ODC.label>ODC gear</OE_Category_Gear_ODC.label>
+<OE_Category_Gear_ODC_Headgear.label>headgear</OE_Category_Gear_ODC_Headgear.label>
+<OE_Category_Gear_ODC_Armor.label>armor</OE_Category_Gear_ODC_Armor.label>
+<OE_Category_Gear_ODC_Utility.label>utility</OE_Category_Gear_ODC_Utility.label>
 <!-- CAC -->
-<OE_Category_Gear_CAC.label>CAC装备</OE_Category_Gear_CAC.label>
-<OE_Category_Gear_CAC_Headgear.label>头饰</OE_Category_Gear_CAC_Headgear.label>
-<OE_Category_Gear_CAC_Armor.label>装甲</OE_Category_Gear_CAC_Armor.label>
-<OE_Category_Gear_CAC_Utility.label>实用装备</OE_Category_Gear_CAC_Utility.label>
+<OE_Category_Gear_CAC.label>CAC gear</OE_Category_Gear_CAC.label>
+<OE_Category_Gear_CAC_Headgear.label>headgear</OE_Category_Gear_CAC_Headgear.label>
+<OE_Category_Gear_CAC_Armor.label>armor</OE_Category_Gear_CAC_Armor.label>
+<OE_Category_Gear_CAC_Utility.label>utility</OE_Category_Gear_CAC_Utility.label>
 <!-- OES -->
-<OE_Category_Gear_OES.label>OES装备</OE_Category_Gear_OES.label>
-<OE_Category_Gear_OES_Headgear.label>头饰</OE_Category_Gear_OES_Headgear.label>
-<OE_Category_Gear_OES_Armor.label>装甲</OE_Category_Gear_OES_Armor.label>
-<OE_Category_Gear_OES_Utility.label>实用装备</OE_Category_Gear_OES_Utility.label>
+<OE_Category_Gear_OES.label>OES gear</OE_Category_Gear_OES.label>
+<OE_Category_Gear_OES_Headgear.label>headgear</OE_Category_Gear_OES_Headgear.label>
+<OE_Category_Gear_OES_Armor.label>armor</OE_Category_Gear_OES_Armor.label>
+<OE_Category_Gear_OES_Utility.label>utility</OE_Category_Gear_OES_Utility.label>
 <!-- OMG -->
-<OE_Category_Gear_OMG.label>OMG装备</OE_Category_Gear_OMG.label>
-<OE_Category_Gear_OMG_Headgear.label>头饰</OE_Category_Gear_OMG_Headgear.label>
-<OE_Category_Gear_OMG_Armor.label>装甲</OE_Category_Gear_OMG_Armor.label>
-<OE_Category_Gear_OMG_Utility.label>实用装备</OE_Category_Gear_OMG_Utility.label>
+<OE_Category_Gear_OMG.label>OMG gear</OE_Category_Gear_OMG.label>
+<OE_Category_Gear_OMG_Headgear.label>headgear</OE_Category_Gear_OMG_Headgear.label>
+<OE_Category_Gear_OMG_Armor.label>armor</OE_Category_Gear_OMG_Armor.label>
+<OE_Category_Gear_OMG_Utility.label>utility</OE_Category_Gear_OMG_Utility.label>
 <!-- EGO -->
-<OE_Category_Gear_EGO.label>EGO装备</OE_Category_Gear_EGO.label>
-<OE_Category_Gear_EGO_Headgear.label>头饰</OE_Category_Gear_EGO_Headgear.label>
-<OE_Category_Gear_EGO_Armor.label>装甲</OE_Category_Gear_EGO_Armor.label>
-<OE_Category_Gear_EGO_Utility.label>实用装备</OE_Category_Gear_EGO_Utility.label>
+<OE_Category_Gear_EGO.label>EGO gear</OE_Category_Gear_EGO.label>
+<OE_Category_Gear_EGO_Headgear.label>headgear</OE_Category_Gear_EGO_Headgear.label>
+<OE_Category_Gear_EGO_Armor.label>armor</OE_Category_Gear_EGO_Armor.label>
+<OE_Category_Gear_EGO_Utility.label>utility</OE_Category_Gear_EGO_Utility.label>
 <!-- OE -->
-<OE_Category_Gear_OE.label>其他装备</OE_Category_Gear_OE.label>
-<OE_Category_Gear_Headgear.label>头饰</OE_Category_Gear_Headgear.label>
-<OE_Category_Gear_Armor.label>装甲</OE_Category_Gear_Armor.label>
-<OE_Category_Gear_Apparel.label>服装</OE_Category_Gear_Apparel.label>
-<OE_Category_Gear_Modules.label>模块</OE_Category_Gear_Modules.label>
-<OE_Category_Gear_Utility.label>实用装备</OE_Category_Gear_Utility.label>
+<OE_Category_Gear_OE.label>other gear</OE_Category_Gear_OE.label>
+<OE_Category_Gear_Headgear.label>headgear</OE_Category_Gear_Headgear.label>
+<OE_Category_Gear_Armor.label>armor</OE_Category_Gear_Armor.label>
+<OE_Category_Gear_Apparel.label>apparel</OE_Category_Gear_Apparel.label>
+<OE_Category_Gear_Modules.label>modules</OE_Category_Gear_Modules.label>
+<OE_Category_Gear_Utility.label>utility</OE_Category_Gear_Utility.label>
 
-<!--=============== 黑曜石扩展类别 - 身体部件 ====================-->
-<OE_Category_BodyParts.label>黑曜石仿生体</OE_Category_BodyParts.label>
+<!--=============== Obsidia Expansion Category - BodyParts ====================-->
+<OE_Category_BodyParts.label>obsidia bionics</OE_Category_BodyParts.label>
 <!-- Normal Bionic -->
-<OE_Category_BodyParts_N.label>仿生体</OE_Category_BodyParts_N.label>
+<OE_Category_BodyParts_N.label>bionic</OE_Category_BodyParts_N.label>
 <!-- Advanced Bionic -->
-<OE_Category_BodyParts_M.label>高级仿生体</OE_Category_BodyParts_M.label>
+<OE_Category_BodyParts_M.label>advanced bionic</OE_Category_BodyParts_M.label>
 <!-- Cultist Bionic -->
-<OE_Category_BodyParts_CAC.label>邪教徒仿生体</OE_Category_BodyParts_CAC.label>
+<OE_Category_BodyParts_CAC.label>cultist bionic</OE_Category_BodyParts_CAC.label>
 <!-- Heroic Bionic -->
-<OE_Category_BodyParts_OES.label>英雄仿生体</OE_Category_BodyParts_OES.label>
+<OE_Category_BodyParts_OES.label>heroic bionic</OE_Category_BodyParts_OES.label>
 <!-- Cyberware -->
-<OE_Category_BodyParts_Cyberware.label>赛博组件</OE_Category_BodyParts_Cyberware.label>
+<OE_Category_BodyParts_Cyberware.label>cyberware</OE_Category_BodyParts_Cyberware.label>
 
 </LanguageData>

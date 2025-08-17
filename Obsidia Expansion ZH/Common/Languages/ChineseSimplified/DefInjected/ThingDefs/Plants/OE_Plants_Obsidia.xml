@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== OE - Tree Pearlapple ====================-->
+<Plant_OE_TreePearlapple.label>珍珠苹果树</Plant_OE_TreePearlapple.label>
+<Plant_OE_TreePearlapple.description>黑曜石长期生长的水晶树，结珍珠苹果。珍珠苹果用作肉类替代品。</Plant_OE_TreePearlapple.description>
+
+<!--=============== OE - Tree Syntherius ====================-->
+<Plant_OE_TreeSyntherius.label>合成素树</Plant_OE_TreeSyntherius.label>
+<Plant_OE_TreeSyntherius.description>来自黑曜石的奇异且之前被低估的植物。树内生长着合成素晶体。以前，它被用于珠宝，但在进一步探索这种植物的可能性后，它成为生产黑曜石的关键元素。\n\n这种植物中等大小，可以种植在屋顶下。</Plant_OE_TreeSyntherius.description>
+
+<!--=============== OE - Tree Fungi ====================-->
+<Plant_OE_TreeFungi.label>真菌树</Plant_OE_TreeFungi.label>
+<Plant_OE_TreeFungi.description>巨大的黑曜石蘑菇，产出独特的木材。这种木材更耐用且不易燃。\n\n它们不需要大量空间生长，可以彼此近距离生长。</Plant_OE_TreeFungi.description>
+
+<!--=============== OE - Tree Dragonian ====================-->
+<Plant_OE_TreeDragonian.label>龙族树</Plant_OE_TreeDragonian.label>
+<Plant_OE_TreeDragonian.description>根据古老传说，这些树生长在远古龙类生物的埋葬地，这些生物在人类出现在黑曜石之前很久就已居住在那里。非常稀有和珍贵的中等大小黑曜石树。这种树产出少量非常珍贵、耐用和美丽的木材。\n\n它甚至可以在岩石地形上生长。</Plant_OE_TreeDragonian.description>
+
+<!--=============== OE - Moonplant ====================-->
+<Plant_OE_Moonplant.label>月光植物</Plant_OE_Moonplant.label>
+<Plant_OE_Moonplant.description>黑曜石中等大小的水晶作物，产出既难以撕裂又触感柔软的丝网。这些用于制作月光布。</Plant_OE_Moonplant.description>
+
+<!--=============== OE - Jumy ====================-->
+<Plant_OE_Jumy.label>朱米</Plant_OE_Jumy.label>
+<Plant_OE_Jumy.description>小型黑曜石植物，内部生长着美味甜美的浆果。</Plant_OE_Jumy.description>
+
+<!--=============== OE - Pellashroom ====================-->
+<Plant_OE_Pellashroom.label>佩拉蘑菇</Plant_OE_Pellashroom.label>
+<Plant_OE_Pellashroom.description>基因改造的黑曜石蘑菇。产出少量化合燃料。</Plant_OE_Pellashroom.description>
+
+<!--=============== OE - Lotus ====================-->
+<!--=============== Dusk ====================-->
+<Plant_OE_Lotus_D.label>黄昏莲花</Plant_OE_Lotus_D.label>
+<Plant_OE_Lotus_D.description>美丽的黑曜石莲花暗色花朵。</Plant_OE_Lotus_D.description>
+
+<!--=============== Sunny ====================-->
+<Plant_OE_Lotus_S.label>阳光莲花</Plant_OE_Lotus_S.label>
+<Plant_OE_Lotus_S.description>美丽的黑曜石莲花亮色花朵。</Plant_OE_Lotus_S.description>
+
+<!--=============== OE - Belladonna ====================-->
+<!--=============== Tundral ====================-->
+<Plant_OE_Tundral_B.label>苔原颠茄</Plant_OE_Tundral_B.label>
+<Plant_OE_Tundral_B.description>黑曜石颠茄的奇特蓝色花朵。可用作夜灯。</Plant_OE_Tundral_B.description>
+
+<!--=============== Coral ====================-->
+<Plant_OE_Coral_B.label>珊瑚颠茄</Plant_OE_Coral_B.label>
+<Plant_OE_Coral_B.description>黑曜石颠茄的奇特粉色花朵。可用作夜灯。</Plant_OE_Coral_B.description>
+
+<!--=============== Alpine ====================-->
+<Plant_OE_Alpine_B.label>高山颠茄</Plant_OE_Alpine_B.label>
+<Plant_OE_Alpine_B.description>黑曜石颠茄的奇特黄色花朵。可用作夜灯。</Plant_OE_Alpine_B.description>
+
+<!--=============== Oasis ====================-->
+<Plant_OE_Oasis_B.label>绿洲颠茄</Plant_OE_Oasis_B.label>
+<Plant_OE_Oasis_B.description>黑曜石颠茄的奇特绿色花朵。可用作夜灯。</Plant_OE_Oasis_B.description>
+
+<!--=============== Bloody ====================-->
+<Plant_OE_Bloody_B.label>血腥颠茄</Plant_OE_Bloody_B.label>
+<Plant_OE_Bloody_B.description>黑曜石颠茄的阴郁红色花朵。可用作夜灯。</Plant_OE_Bloody_B.description>
+
+<!--=============== OE - Iglolia ====================-->
+<Plant_OE_Iglolia.label>伊格洛利亚</Plant_OE_Iglolia.label>
+<Plant_OE_Iglolia.description>在黑曜石茂密的树林中生长的快速生长的藤蔓。伊格洛利亚可以收获获得类似木材的材料。植物本身并不美观。</Plant_OE_Iglolia.description>
+
+<!--=============== OE - JumyBush ====================-->
+<Plant_OE_JumyBush.label>朱米灌木</Plant_OE_JumyBush.label>
+<Plant_OE_JumyBush.description>人工培育的中等黑曜石植物，内部生长着美味甜美的浆果。</Plant_OE_JumyBush.description>
+
+<!--=============== OE - MyceliumStump ====================-->
+<Plant_OE_MyceliumStump.label>菌丝 stump</Plant_OE_MyceliumStump.label>
+<Plant_OE_MyceliumStump.description>人工培育的树和黑曜石菌丝的共生体。生长不快，但可以成为原始真菌的绝佳来源。</Plant_OE_MyceliumStump.description>
+
+<!--=============== OE - Tree Pearlpeach ====================-->
+<Plant_OE_TreePearlpeach.label>珍珠桃树</Plant_OE_TreePearlpeach.label>
+<Plant_OE_TreePearlpeach.description>黑曜石长期生长的毒素适应性水晶树，结珍珠桃。珍珠桃用作肉类替代品。它只能在污染区域生长。</Plant_OE_TreePearlpeach.description>
+
+<!--=============== OE - Toxi Jumy ====================-->
+<Plant_OE_ToxiJumy.label>毒素朱米</Plant_OE_ToxiJumy.label>
+<Plant_OE_ToxiJumy.description>小型毒素适应性黑曜石植物，内部生长着美味甜美的浆果。它只能在污染区域生长。</Plant_OE_ToxiJumy.description>
+
+<!--=============== OE - Toxi JumyBush ====================-->
+<Plant_OE_ToxiJumyBush.label>毒素朱米灌木</Plant_OE_ToxiJumyBush.label>
+<Plant_OE_ToxiJumyBush.description>人工培育的中等毒素适应性黑曜石植物，内部生长着美味甜美的浆果。它只能在污染区域生长。</Plant_OE_ToxiJumyBush.description>
+
+<!--=============== Succulent of Doom ====================-->
+<!--=============== Flower ====================-->
+<Plant_OE_SucculentOfDoom_Flower.label>末日多肉植物的花朵</Plant_OE_SucculentOfDoom_Flower.label>
+<Plant_OE_SucculentOfDoom_Flower.description>没人想到末日会以花盆的形式到来。数字艺术家@LNS_OWL在网上以她可爱的插图而闻名，她曾从一群流浪商人那里购买了一套迷人的小多肉植物套装。起初，它只是窗台上的一点绿色。但很快，小芽开始到处出现。她一个接一个地将它们重新移植到新花盆里。一季又一季，花盆成倍增加，慢慢占据了架子、桌子和每个阳光充足的表面。现在她舒适的画室成了叶状房客的迷宫……而植物仍在寻找更多空间。\n\n幸运的是，它只在污染区域生长。</Plant_OE_SucculentOfDoom_Flower.description>
+<!--=============== Grass ====================-->
+<Plant_OE_SucculentOfDoom_Grass.label>末日多肉植物的草</Plant_OE_SucculentOfDoom_Grass.label>
+<Plant_OE_SucculentOfDoom_Grass.description>这种蔓延的草由花朵的根系传播——悄悄地、稳定地——仿佛在帮助它的盆栽兄弟殖民所有柔软和绿色的东西。当你注意到它时，你的家不再是你的——而是它们的。</Plant_OE_SucculentOfDoom_Grass.description>
+
+</LanguageData>

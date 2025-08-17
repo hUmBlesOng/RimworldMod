@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
-<!--=============== 制服 - 军用 ====================-->
-<OE_Uniform_Military.label>黑曜石军用制服</OE_Uniform_Military.label>
-<OE_Uniform_Military.description>军用制服，完美地保护并为穿戴者提供先进的皮肤感知反馈。专为所有黑曜石帝国军队使用而设计。</OE_Uniform_Military.description>
+<!--=============== Uniform - Military ====================-->
+<OE_Uniform_Military.label>obsidia military uniform</OE_Uniform_Military.label>
+<OE_Uniform_Military.description>Military uniform, perfectly protects and providing advanced skin sense feedback to the wearer. Designed for use by all Obsidia Empire militaries.</OE_Uniform_Military.description>
 
-<!--=============== 制服 - 工人 ====================-->
-<OE_Uniform_Worker.label>黑曜石工人制服</OE_Uniform_Worker.label>
-<OE_Uniform_Worker.description>工人制服，很好地保护并为穿戴者提供性能提升。专为所有黑曜石帝国工人使用而设计。</OE_Uniform_Worker.description>
+<!--=============== Uniform - Worker ====================-->
+<OE_Uniform_Worker.label>obsidia worker uniform</OE_Uniform_Worker.label>
+<OE_Uniform_Worker.description>Worker uniform, good protects and providing performance improvement to the wearer. Designed for use by all Obsidia Empire workers.</OE_Uniform_Worker.description>
 
-<!--=============== 制服 - 儿童 ====================-->
-<OE_Uniform_Kid.label>黑曜石儿童制服</OE_Uniform_Kid.label>
-<OE_Uniform_Kid.description>适合儿童尺寸的制服，很好地保护并为穿戴者提供先进的皮肤感知反馈。专为黑曜石帝国儿童使用而设计。</OE_Uniform_Kid.description>
+<!--=============== Uniform - Child ====================-->
+<OE_Uniform_Kid.label>obsidia kid uniform</OE_Uniform_Kid.label>
+<OE_Uniform_Kid.description>Uniform sized for kids, well protects and providing advanced skin sense feedback to the wearer. Designed for use by Obsidia Empire kids.</OE_Uniform_Kid.description>
 
 </LanguageData>

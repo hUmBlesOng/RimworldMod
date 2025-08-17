@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+<!--=============== Animals ====================-->
+<!--=============== Raptor ====================-->
+<OEFootClaw.label>镰刀爪</OEFootClaw.label>
+<OEFootClaw.labelShort>爪</OEFootClaw.labelShort>
+
+<!--=============== Tionant ====================-->
+<OETionantShell.label>外壳</OETionantShell.label>
+<OEClaw.label>昆虫爪</OEClaw.label>
+<OEClaw.labelShort>爪</OEClaw.labelShort>
+
+<!--=============== Bruul ====================-->
+<OEBruulHood.label>兜帽</OEBruulHood.label>
+<OEBruulTentacle.label>触手</OEBruulTentacle.label>
+<OEBruulHydrogenSac.label>氢气囊</OEBruulHydrogenSac.label>
+
+<!--=============== Arachna ====================-->
+<OEArachnaThorax.label>胸部</OEArachnaThorax.label>
+
+<!--=============== Slime ====================-->
+<OESlimeGel.label>粘液凝胶</OESlimeGel.label>
+<OESlimeHeart.label>粘液心脏</OESlimeHeart.label>
+<OESlimeMouth.label>粘液口器</OESlimeMouth.label>
+<OESlimeFloater.label>粘液漂浮器</OESlimeFloater.label>
+
+<!--=============== Scorpid ====================-->
+<OEInsectTail.label>尾巴</OEInsectTail.label>
+<OEInsectSting.label>螫针</OEInsectSting.label>
+
+<!--=============== Mechanoids ====================-->
+<OEMechanicalHead.label>头部</OEMechanicalHead.label>
+<OEMechanicalHeadLarge.label>头部</OEMechanicalHeadLarge.label>
+
+<OEMechanicalThorax.label>胸部</OEMechanicalThorax.label>
+<OEMechanicalThoraxLarge.label>胸部</OEMechanicalThoraxLarge.label>
+
+<OEMechanicalShoulder.label>肩膀</OEMechanicalShoulder.label>
+<OEMechanicalShoulderLarge.label>肩膀</OEMechanicalShoulderLarge.label>
+
+<OEMechanicalArm.label>手臂</OEMechanicalArm.label>
+<OEMechanicalArmLarge.label>手臂</OEMechanicalArmLarge.label>
+
+<OEMechanicalHand.label>手</OEMechanicalHand.label>
+<OEMechanicalHandLarge.label>手</OEMechanicalHandLarge.label>
+
+<OEMechanicalFinger.label>手指</OEMechanicalFinger.label>
+<OEMechanicalFingerLarge.label>手指</OEMechanicalFingerLarge.label>
+
+<OEMechanicalLeg.label>腿</OEMechanicalLeg.label>
+<OEMechanicalLegLarge.label>腿</OEMechanicalLegLarge.label>
+
+<OEMechanicalFoot.label>脚</OEMechanicalFoot.label>
+<OEMechanicalFootLarge.label>脚</OEMechanicalFootLarge.label>
+
+<!--=============== Octo ====================-->
+<OEOctoHood.label>兜帽</OEOctoHood.label>
+<OEOctoTentacle.label>触手</OEOctoTentacle.label>
+
+<!--=============== Entities ====================-->
+<!--=============== Returned ====================-->
+<OE_ReturnedLimb.label>肢体</OE_ReturnedLimb.label>
+
+<!--=============== Cyber Arachna ====================-->
+<OEThoraxLarge.label>胸部</OEThoraxLarge.label>
+
+</LanguageData>

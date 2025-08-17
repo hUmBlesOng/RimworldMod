@@ -1,37 +1,37 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== Obsidia Walls ====================-->
-<OE_Wall.label>黑曜石墙</OE_Wall.label>
-<OE_Wall.description>强化的黑曜石重型墙，具有多层装甲。几乎完全抵抗爆炸和任何破墙工具。能够支撑屋顶。</OE_Wall.description>
+<OE_Wall.label>obsidia wall</OE_Wall.label>
+<OE_Wall.description>Reinforced Obsidia heavy wall with multiple layers of armor. Nearly completely resistant to explosives and any breaching tools. Capable of holding up a roof.</OE_Wall.description>
 
-<OE_Embrasure.label>黑曜石射击孔</OE_Embrasure.label>
-<OE_Embrasure.description>强化的黑曜石重型墙，具有多层装甲。几乎完全抵抗爆炸和任何破墙工具。能够支撑屋顶。设计有战术孔，可以观察和射击。</OE_Embrasure.description>
+<OE_Embrasure.label>obsidia embrasure</OE_Embrasure.label>
+<OE_Embrasure.description>Reinforced Obsidia heavy wall with multiple layers of armor. Nearly completely resistant to explosives and any breaching tools. Capable of holding up a roof. Designed with tactical holes to see and fire through.</OE_Embrasure.description>
 
 <!--=============== Obsidia Doors ====================-->
-<OE_Door.label>黑曜石门</OE_Door.label>
-<OE_Door.description>强化的黑曜石重型门。简单的门必须手动打开，这会减慢人们的速度。减速量取决于门的材料。</OE_Door.description>
+<OE_Door.label>obsidia door</OE_Door.label>
+<OE_Door.description>Reinforced Obsidia heavy doorway. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of.</OE_Door.description>
   
-<OE_Autodoor.label>黑曜石自动门</OE_Autodoor.label>
-<OE_Autodoor.description>强化的黑曜石重型自动门。电力驱动的操作允许人们通过门而不减速。</OE_Autodoor.description>
+<OE_Autodoor.label>obsidia autodoor</OE_Autodoor.label>
+<OE_Autodoor.description>Reinforced Obsidia heavy doorway. Powered operation allows people to move through the door without slowing down.</OE_Autodoor.description>
 
-<OE_Petdoor.label>黑曜石动物门</OE_Petdoor.label>
-<OE_Petdoor.description>强化的黑曜石重型门。允许动物通过同时保持温度绝缘。动物门襟通常用作谷仓门，为圈养的动物提供遮风挡雨的睡觉场所。</OE_Petdoor.description>
+<OE_Petdoor.label>obsidia animal door</OE_Petdoor.label>
+<OE_Petdoor.description>Reinforced Obsidia heavy doorway. Allows animals to pass while insulating the temperature. Animal flaps are commonly used as barn doors to give penned animals a sheltered place to sleep.</OE_Petdoor.description>
 
-<OE_ArmoredDoor.label>装甲黑曜石门</OE_ArmoredDoor.label>
-<OE_ArmoredDoor.description>装甲黑曜石重型双开门。简单的门必须手动打开，这会减慢人们的速度。减速量取决于门的材料。\n\n这种大型重型门需要相邻的墙壁才能发挥作用。</OE_ArmoredDoor.description>
+<OE_ArmoredDoor.label>armored obsidia door</OE_ArmoredDoor.label>
+<OE_ArmoredDoor.description>Armored Obsidia heavy double doorway. Simple doors must be manually opened, which slows people down. The amount of slowdown depends on what the door is made of.\n\nThis large, heavy door requires adjacent walls to function.</OE_ArmoredDoor.description>
 
-<OE_ArmoredAutodoor.label>装甲黑曜石自动门</OE_ArmoredAutodoor.label>
-<OE_ArmoredAutodoor.description>装甲黑曜石重型双开自动门。电力驱动的操作允许人们通过门而不减速。\n\n这种大型重型门需要相邻的墙壁才能发挥作用。</OE_ArmoredAutodoor.description>
+<OE_ArmoredAutodoor.label>armored obsidia autodoor</OE_ArmoredAutodoor.label>
+<OE_ArmoredAutodoor.description>Armored Obsidia heavy double doorway. Powered operation allows people to move through the door without slowing down.\n\nThis large, heavy door requires adjacent walls to function.</OE_ArmoredAutodoor.description>
 
-<OE_ArmoredPetdoor.label>装甲黑曜石动物门</OE_ArmoredPetdoor.label>
-<OE_ArmoredPetdoor.description>装甲黑曜石重型双开动物门。允许动物通过同时保持温度绝缘。动物门襟通常用作谷仓门，为圈养的动物提供遮风挡雨的睡觉场所。\n\n这种大型重型门需要相邻的墙壁才能发挥作用。</OE_ArmoredPetdoor.description>
+<OE_ArmoredPetdoor.label>armored obsidia animal door</OE_ArmoredPetdoor.label>
+<OE_ArmoredPetdoor.description>Armored Obsidia heavy double doorway. Allows animals to pass while insulating the temperature. Animal flaps are commonly used as barn doors to give penned animals a sheltered place to sleep.\n\nThis large, heavy door requires adjacent walls to function.</OE_ArmoredPetdoor.description>
 
 <!--=============== Obsidia Columns ====================-->
-<OE_Column_Armored.label>黑曜石柱</OE_Column_Armored.label>
-<OE_Column_Armored.description>强化的黑曜石重型柱。能够支撑屋顶。不阻挡视线或移动，看起来相当不错。</OE_Column_Armored.description>
+<OE_Column_Armored.label>obsidia column</OE_Column_Armored.label>
+<OE_Column_Armored.description>Reinforced Obsidia heavy column. Capable of holding up a roof. Does not block sight or movement and looks quite nice.</OE_Column_Armored.description>
 
-<OE_Column_Light.label>黑曜石光柱</OE_Column_Light.label>
-<OE_Column_Light.description>强化的黑曜石重型柱。能够支撑屋顶。不阻挡视线或移动，看起来相当不错，还能照亮区域。</OE_Column_Light.description>
+<OE_Column_Light.label>obsidia light column</OE_Column_Light.label>
+<OE_Column_Light.description>Reinforced Obsidia heavy column. Capable of holding up a roof. Does not block sight or movement and looks quite nice, also lights the area.</OE_Column_Light.description>
 
 </LanguageData>

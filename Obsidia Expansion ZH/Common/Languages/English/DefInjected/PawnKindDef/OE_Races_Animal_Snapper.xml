@@ -2,32 +2,32 @@
 
 <LanguageData>
 <!--=============== Snapper ====================-->
-<OE_Snapper.label>咬咬龟</OE_Snapper.label>
-<OE_Snapper.labelPlural>咬咬龟</OE_Snapper.labelPlural>
-<OE_Snapper.labelMale>咬咬龟</OE_Snapper.labelMale>
-<OE_Snapper.labelMalePlural>咬咬龟</OE_Snapper.labelMalePlural>
-<OE_Snapper.labelFemale>咬咬龟</OE_Snapper.labelFemale>
-<OE_Snapper.labelFemalePlural>咬咬龟</OE_Snapper.labelFemalePlural>
+<OE_Snapper.label>snapper</OE_Snapper.label>
+<OE_Snapper.labelPlural>snappers</OE_Snapper.labelPlural>
+<OE_Snapper.labelMale>snapper</OE_Snapper.labelMale>
+<OE_Snapper.labelMalePlural>snappers</OE_Snapper.labelMalePlural>
+<OE_Snapper.labelFemale>snapper</OE_Snapper.labelFemale>
+<OE_Snapper.labelFemalePlural>snappers</OE_Snapper.labelFemalePlural>
 
-<OE_Snapper.lifeStages.0.label>咬咬龟</OE_Snapper.lifeStages.0.label>
-<OE_Snapper.lifeStages.0.labelPlural>咬咬龟</OE_Snapper.lifeStages.0.labelPlural>
-<OE_Snapper.lifeStages.0.labelMale>咬咬龟</OE_Snapper.lifeStages.0.labelMale>
-<OE_Snapper.lifeStages.0.labelMalePlural>咬咬龟</OE_Snapper.lifeStages.0.labelMalePlural>
-<OE_Snapper.lifeStages.0.labelFemale>咬咬龟</OE_Snapper.lifeStages.0.labelFemale>
-<OE_Snapper.lifeStages.0.labelFemalePlural>咬咬龟</OE_Snapper.lifeStages.0.labelFemalePlural>
+<OE_Snapper.lifeStages.0.label>snapper</OE_Snapper.lifeStages.0.label>
+<OE_Snapper.lifeStages.0.labelPlural>snappers</OE_Snapper.lifeStages.0.labelPlural>
+<OE_Snapper.lifeStages.0.labelMale>snapper</OE_Snapper.lifeStages.0.labelMale>
+<OE_Snapper.lifeStages.0.labelMalePlural>snappers</OE_Snapper.lifeStages.0.labelMalePlural>
+<OE_Snapper.lifeStages.0.labelFemale>snapper</OE_Snapper.lifeStages.0.labelFemale>
+<OE_Snapper.lifeStages.0.labelFemalePlural>snappers</OE_Snapper.lifeStages.0.labelFemalePlural>
 
-<OE_Snapper.lifeStages.1.label>咬咬龟</OE_Snapper.lifeStages.1.label>
-<OE_Snapper.lifeStages.1.labelPlural>咬咬龟</OE_Snapper.lifeStages.1.labelPlural>
-<OE_Snapper.lifeStages.1.labelMale>咬咬龟</OE_Snapper.lifeStages.1.labelMale>
-<OE_Snapper.lifeStages.1.labelMalePlural>咬咬龟</OE_Snapper.lifeStages.1.labelMalePlural>
-<OE_Snapper.lifeStages.1.labelFemale>咬咬龟</OE_Snapper.lifeStages.1.labelFemale>
-<OE_Snapper.lifeStages.1.labelFemalePlural>咬咬龟</OE_Snapper.lifeStages.1.labelFemalePlural>
+<OE_Snapper.lifeStages.1.label>snapper</OE_Snapper.lifeStages.1.label>
+<OE_Snapper.lifeStages.1.labelPlural>snappers</OE_Snapper.lifeStages.1.labelPlural>
+<OE_Snapper.lifeStages.1.labelMale>snapper</OE_Snapper.lifeStages.1.labelMale>
+<OE_Snapper.lifeStages.1.labelMalePlural>snappers</OE_Snapper.lifeStages.1.labelMalePlural>
+<OE_Snapper.lifeStages.1.labelFemale>snapper</OE_Snapper.lifeStages.1.labelFemale>
+<OE_Snapper.lifeStages.1.labelFemalePlural>snappers</OE_Snapper.lifeStages.1.labelFemalePlural>
 
-<OE_Snapper.lifeStages.2.label>咬咬龟</OE_Snapper.lifeStages.2.label>
-<OE_Snapper.lifeStages.2.labelPlural>咬咬龟</OE_Snapper.lifeStages.2.labelPlural>
-<OE_Snapper.lifeStages.2.labelMale>咬咬龟</OE_Snapper.lifeStages.2.labelMale>
-<OE_Snapper.lifeStages.2.labelMalePlural>咬咬龟</OE_Snapper.lifeStages.2.labelMalePlural>
-<OE_Snapper.lifeStages.2.labelFemale>咬咬龟</OE_Snapper.lifeStages.2.labelFemale>
-<OE_Snapper.lifeStages.2.labelFemalePlural>咬咬龟</OE_Snapper.lifeStages.2.labelFemalePlural>
+<OE_Snapper.lifeStages.2.label>snapper</OE_Snapper.lifeStages.2.label>
+<OE_Snapper.lifeStages.2.labelPlural>snappers</OE_Snapper.lifeStages.2.labelPlural>
+<OE_Snapper.lifeStages.2.labelMale>snapper</OE_Snapper.lifeStages.2.labelMale>
+<OE_Snapper.lifeStages.2.labelMalePlural>snappers</OE_Snapper.lifeStages.2.labelMalePlural>
+<OE_Snapper.lifeStages.2.labelFemale>snapper</OE_Snapper.lifeStages.2.labelFemale>
+<OE_Snapper.lifeStages.2.labelFemalePlural>snappers</OE_Snapper.lifeStages.2.labelFemalePlural>
 
 </LanguageData>

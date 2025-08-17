@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== 玩家可获得 ====================-->
+<!--=============== 访客 ====================-->
+<OE_Title_1_Visitor.label>访客</OE_Title_1_Visitor.label>
+<OE_Title_1_Visitor.labelFemale>女访客</OE_Title_1_Visitor.labelFemale>
+<OE_Title_1_Visitor.description>对于那些已经向黑曜石雇佣兵帮派迈出第一步的人来说，这是起点。作为访客，你从边缘观察，还不是内部运作的一部分。对你的关注很少，但每一步都被衡量着。在这里，信任是一种稀有而宝贵的货币，而你尚未赢得它。</OE_Title_1_Visitor.description>
+
+<!--=============== 成员 ====================-->
+<OE_Title_2_Member.label>成员</OE_Title_2_Member.label>
+<OE_Title_2_Member.description>现在作为圈子的一部分，作为成员，你已经获得了足够的信任，不再是局外人。你不再只是人群中的一张面孔，但你走向全面参与的旅程才刚刚开始。你现在所看到和听到的都受到一种不言而喻的规则约束——一个不允许失误的规则。</OE_Title_2_Member.description>
+
+<!--=============== 赞助人 ====================-->
+<OE_Title_3_Sponsor.label>赞助人</OE_Title_3_Sponsor.label>
+<OE_Title_3_Sponsor.description>作为赞助人，你的地位不仅仅意味着参与。你的行动和决定开始具有分量。你不再被质疑，因为你已经证明了自己的忠诚。随着每一步，你不仅被信任——你的影响力开始被注意到。但影响力带来了看不见的义务。</OE_Title_3_Sponsor.description>
+
+<!--=============== VIP ====================-->
+<OE_Title_4_VIP.label>VIP</OE_Title_4_VIP.label>
+<OE_Title_4_VIP.description>在VIP级别，你已获得真正的认可。这个等级让你接触到大多数眼睛看不到的东西。你的存在不再被质疑——你在很少有人达到的层面上被信任。然而，这种地位带来了责任，这是不能掉以轻心的。你现在做出的每个决定都有改变平衡的力量。</OE_Title_4_VIP.description>
+
+<!--=============== 山铜客户 ====================-->
+<OE_Title_5_OrichalcumClient.label>山铜客户</OE_Title_5_OrichalcumClient.label>
+<OE_Title_5_OrichalcumClient.labelFemale>山铜女客户</OE_Title_5_OrichalcumClient.labelFemale>
+<OE_Title_5_OrichalcumClient.description>最高头衔——山铜客户——不仅仅是信任；它象征着比你预期的更多东西对你来说是可用的。你已经达到了一个不再有任何问题被提出的 level，你的决定被毫不犹豫地接受。但这种地位不仅是一种特权——它对你走细线的能力的考验，在这里每个错误可能付出的代价远比看起来要多。</OE_Title_5_OrichalcumClient.description>
+
+</LanguageData>

@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== Obsidian Ore ====================-->
-<OE_Obsidian.label>黑曜石</OE_Obsidian.label>
-<OE_Obsidian.description>最稀有的材料。黑曜石由于其独特的分子结构而极其坚固。</OE_Obsidian.description>
+<OE_Obsidian.label>obsidian</OE_Obsidian.label>
+<OE_Obsidian.description>Most rare material. Obsidian is extremely strong due to its unique molecular structure.</OE_Obsidian.description>
 
 <!--=============== Mythril Ore ====================-->
-<OE_Mythril.label>秘银</OE_Mythril.label>
-<OE_Mythril.description>所有金属中最美丽的。看看这珍贵的...</OE_Mythril.description>
+<OE_Mythril.label>mythril</OE_Mythril.label>
+<OE_Mythril.description>The most beautiful metal of them all. Just look at this precious...</OE_Mythril.description>
 
 <!--=============== Platinum Ore ====================-->
-<OE_Platinum.label>铂金</OE_Platinum.label>
-<OE_Platinum.description>美丽的强金属，用于建造结构、武器和机器。</OE_Platinum.description>
+<OE_Platinum.label>platinum</OE_Platinum.label>
+<OE_Platinum.description>Beautiful and strong metal used for building of structures, weapons, and machines.</OE_Platinum.description>
 
 <!--=============== Empyrium Ore ====================-->
-<OE_Empyrium.label>天金</OE_Empyrium.label>
-<OE_Empyrium.description>基于黑曜石使用铂金合成的金属。这种金属极其坚固但难以建造。</OE_Empyrium.description>
+<OE_Empyrium.label>empyrium</OE_Empyrium.label>
+<OE_Empyrium.description>Synthesized metal based on Obsidian using Platinum. This metal is incredibly strong but difficult to build.</OE_Empyrium.description>
 
 <!--=============== Orichalcum Ore ====================-->
-<OE_Orichalcum.label>山铜</OE_Orichalcum.label>
-<OE_Orichalcum.description>基于秘银使用铂金合成的金属。这种金属极其美丽但难以建造。</OE_Orichalcum.description>
+<OE_Orichalcum.label>orichalcum</OE_Orichalcum.label>
+<OE_Orichalcum.description>Synthesized metal based on Mythril using Platinum. This metal is incredibly beautiful but difficult to build.</OE_Orichalcum.description>
 
 </LanguageData>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Obsidian Ore ====================-->
+<MineableOEObsidian.label>黑曜石矿石</MineableOEObsidian.label>
+<MineableOEObsidian.description>含有黑曜石碎片的岩石。</MineableOEObsidian.description>
+  
+<!--=============== Mythril Ore ====================-->
+<MineableOEMythril.label>秘银矿石</MineableOEMythril.label>
+<MineableOEMythril.description>含有秘银碎片的岩石。</MineableOEMythril.description>
+
+<!--=============== Platinum Ore ====================-->
+<MineableOEPlatinum.label>铂金矿石</MineableOEPlatinum.label>
+<MineableOEPlatinum.description>含有铂金碎片的岩石。</MineableOEPlatinum.description>
+
+<!--=============== Slime Spawners ====================-->
+<!--=============== Slime Hive Core ====================-->  
+<OE_ChaosSlimeHive_Core.label>核心混沌史莱姆蜂巢</OE_ChaosSlimeHive_Core.label>
+<OE_ChaosSlimeHive_Core.description>危险混沌史莱姆的核心蜂巢。如果激活，它会随着时间的推移生成额外的混沌史莱姆和较小的蜂巢。</OE_ChaosSlimeHive_Core.description>
+<!--=============== Slime Hive Small ====================-->  
+<OE_ChaosSlimeHive_Small.label>小型混沌史莱姆蜂巢</OE_ChaosSlimeHive_Small.label>
+<OE_ChaosSlimeHive_Small.description>危险混沌史莱姆的小型蜂巢。如果激活，它会生成额外的混沌史莱姆。</OE_ChaosSlimeHive_Small.description>
+<!--=============== Slime Hive Medium ====================-->
+<OE_ChaosSlimeHive_Medium.label>中型混沌史莱姆蜂巢</OE_ChaosSlimeHive_Medium.label>
+<OE_ChaosSlimeHive_Medium.description>危险混沌史莱姆的中型蜂巢。如果激活，它会生成额外的危险混沌史莱姆。</OE_ChaosSlimeHive_Medium.description>
+<!--=============== Slime Hive Big ====================-->
+<OE_ChaosSlimeHive_Big.label>大型混沌史莱姆蜂巢</OE_ChaosSlimeHive_Big.label>
+<OE_ChaosSlimeHive_Big.description>危险混沌史莱姆的大型蜂巢。如果激活，它会生成额外的非常危险的混沌史莱姆。</OE_ChaosSlimeHive_Big.description>
+<!--=============== Slime Hive Giant ====================-->
+<OE_ChaosSlimeHive_Giant.label>巨型混沌史莱姆蜂巢</OE_ChaosSlimeHive_Giant.label>
+<OE_ChaosSlimeHive_Giant.description>危险混沌史莱姆的巨型蜂巢。如果激活，它会生成额外的无敌混沌史莱姆。</OE_ChaosSlimeHive_Giant.description>
+
+</LanguageData>

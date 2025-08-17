@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Slime Hearts ====================-->
+<!--=============== UnСonfigured ====================-->
+<OE_SlimeHeart.label>史莱姆核心(未配置)</OE_SlimeHeart.label>
+<OE_SlimeHeart.description>超先进的史莱姆核心，通过正确的配置和添加材料，能够培育出真正的史莱姆。这是来自黑曜石的失落技术，由疯狂科学家和史莱姆大师利姆鲁·坦派斯特开发。</OE_SlimeHeart.description>
+
+<!--=============== Сonfigured ====================-->
+<!--=============== Liquid Type ====================-->
+<!--=============== Honey ====================-->
+<OE_SlimeHeart_Honey.label>蜂蜜史莱姆核心(已配置)</OE_SlimeHeart_Honey.label>
+<OE_SlimeHeart_Honey.description>超先进的史莱姆核心，配置为在7天内成长为蜂蜜史莱姆。蜂蜜史莱姆每5天生产25个生蜂蜜。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Honey.description>
+
+<!--=============== Jelly ====================-->
+<OE_SlimeHeart_Jelly.label>果冻史莱姆核心(已配置)</OE_SlimeHeart_Jelly.label>
+<OE_SlimeHeart_Jelly.description>超先进的史莱姆核心，配置为在7天内成长为果冻史莱姆。果冻史莱姆每5天生产250个昆虫果冻。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Jelly.description>
+
+<!--=============== Royal Jelly ====================-->
+<OE_SlimeHeart_RoyalJelly.label>王浆史莱姆核心(已配置)</OE_SlimeHeart_RoyalJelly.label>
+<OE_SlimeHeart_RoyalJelly.description>超先进的史莱姆核心，配置为在7天内成长为王浆史莱姆。王浆史莱姆每5天生产15个王浆。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_RoyalJelly.description>
+
+<!--=============== Chemfuel ====================-->
+<OE_SlimeHeart_Chemfuel.label>化合燃料史莱姆核心(已配置)</OE_SlimeHeart_Chemfuel.label>
+<OE_SlimeHeart_Chemfuel.description>超先进的史莱姆核心，配置为在7天内成长为化合燃料史莱姆。化合燃料史莱姆每5天生产125个化合燃料。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Chemfuel.description>
+
+<!--=============== Neutroamine ====================-->
+<OE_SlimeHeart_Neutroamine.label>中性胺史莱姆核心(已配置)</OE_SlimeHeart_Neutroamine.label>
+<OE_SlimeHeart_Neutroamine.description>超先进的史莱姆核心，配置为在7天内成长为中性胺史莱姆。中性胺史莱姆每5天生产5个中性胺。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Neutroamine.description>
+
+<!--=============== Beer ====================-->
+<OE_SlimeHeart_Beer.label>啤酒史莱姆核心(已配置)</OE_SlimeHeart_Beer.label>
+<OE_SlimeHeart_Beer.description>超先进的史莱姆核心，配置为在7天内成长为啤酒史莱姆。啤酒史莱姆每5天生产25个啤酒。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Beer.description>
+
+<!--=============== Hemogen ====================-->
+<OE_SlimeHeart_Hemogen.label>血原质史莱姆核心(已配置)</OE_SlimeHeart_Hemogen.label>
+<OE_SlimeHeart_Hemogen.description>超先进的史莱姆核心，配置为在7天内成长为血原质史莱姆。血原质史莱姆每2天生产3个血原质。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Hemogen.description>
+
+<!--=============== Hemogen Animal ====================-->
+<OE_SlimeHeart_HemogenAnimal.label>动物血原质史莱姆核心(已配置)</OE_SlimeHeart_HemogenAnimal.label>
+<OE_SlimeHeart_HemogenAnimal.description>超先进的史莱姆核心，配置为在7天内成长为动物血原质史莱姆。动物血原质史莱姆每2天生产4个动物血原质。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_HemogenAnimal.description>
+
+<!--=============== Hemogen Corpse ====================-->
+<OE_SlimeHeart_HemogenCorpse.label>尸体血原质史莱姆核心(已配置)</OE_SlimeHeart_HemogenCorpse.label>
+<OE_SlimeHeart_HemogenCorpse.description>超先进的史莱姆核心，配置为在7天内成长为尸体血原质史莱姆。尸体血原质史莱姆每2天生产5个尸体血原质。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_HemogenCorpse.description>
+
+<!--=============== Hemogen Sanguophage ====================-->
+<OE_SlimeHeart_HemogenSanguophage.label>噬血者血原质史莱姆核心(已配置)</OE_SlimeHeart_HemogenSanguophage.label>
+<OE_SlimeHeart_HemogenSanguophage.description>超先进的史莱姆核心，配置为在7天内成长为噬血者血原质史莱姆。噬血者血原质史莱姆每2天生产3个噬血者血原质。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_HemogenSanguophage.description>
+
+<!--=============== Rock Type ====================-->
+<!--=============== Steel ====================-->
+<OE_SlimeHeart_Steel.label>钢铁史莱姆核心(已配置)</OE_SlimeHeart_Steel.label>
+<OE_SlimeHeart_Steel.description>超先进的史莱姆核心，配置为在7天内成长为钢铁史莱姆。钢铁史莱姆每10天生产150个钢铁。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Steel.description>
+
+<!--=============== Gold ====================-->
+<OE_SlimeHeart_Gold.label>黄金史莱姆核心(已配置)</OE_SlimeHeart_Gold.label>
+<OE_SlimeHeart_Gold.description>超先进的史莱姆核心，配置为在7天内成长为黄金史莱姆。黄金史莱姆每18天生产40个黄金。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Gold.description>
+
+<!--=============== Silver ====================-->
+<OE_SlimeHeart_Silver.label>白银史莱姆核心(已配置)</OE_SlimeHeart_Silver.label>
+<OE_SlimeHeart_Silver.description>超先进的史莱姆核心，配置为在7天内成长为白银史莱姆。白银史莱姆每10天生产100个白银。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Silver.description>
+
+<!--=============== Uranium ====================-->
+<OE_SlimeHeart_Uranium.label>铀史莱姆核心(已配置)</OE_SlimeHeart_Uranium.label>
+<OE_SlimeHeart_Uranium.description>超先进的史莱姆核心，配置为在7天内成长为铀史莱姆。铀史莱姆每10天生产45个铀。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Uranium.description>
+
+<!--=============== Jade ====================-->
+<OE_SlimeHeart_Jade.label>玉石史莱姆核心(已配置)</OE_SlimeHeart_Jade.label>
+<OE_SlimeHeart_Jade.description>超先进的史莱姆核心，配置为在7天内成长为玉石史莱姆。玉石史莱姆每18天生产30个玉石。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Jade.description>
+
+<!--=============== Obsidian ====================-->
+<OE_SlimeHeart_Obsidian.label>黑曜石史莱姆核心(已配置)</OE_SlimeHeart_Obsidian.label>
+<OE_SlimeHeart_Obsidian.description>超先进的史莱姆核心，配置为在7天内成长为黑曜石史莱姆。黑曜石史莱姆每10天生产30个黑曜石。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Obsidian.description>
+
+<!--=============== Mythril ====================-->
+<OE_SlimeHeart_Mythril.label>秘银史莱姆核心(已配置)</OE_SlimeHeart_Mythril.label>
+<OE_SlimeHeart_Mythril.description>超先进的史莱姆核心，配置为在7天内成长为秘银史莱姆。秘银史莱姆每18天生产20个秘银。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Mythril.description>
+
+<!--=============== Platinum ====================-->
+<OE_SlimeHeart_Platinum.label>铂金史莱姆核心(已配置)</OE_SlimeHeart_Platinum.label>
+<OE_SlimeHeart_Platinum.description>超先进的史莱姆核心，配置为在7天内成长为铂金史莱姆。铂金史莱姆每10天生产30个铂金。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Platinum.description>
+
+<!--=============== Syntherius ====================-->
+<OE_SlimeHeart_Syntherius.label>合成素史莱姆核心(已配置)</OE_SlimeHeart_Syntherius.label>
+<OE_SlimeHeart_Syntherius.description>超先进的史莱姆核心，配置为在7天内成长为合成素史莱姆。合成素史莱姆每18天生产1个合成素。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Syntherius.description>
+
+<!--=============== Eltex ====================-->
+<OE_SlimeHeart_Eltex.label>灵质史莱姆核心(已配置)</OE_SlimeHeart_Eltex.label>
+<OE_SlimeHeart_Eltex.description>超先进的史莱姆核心，配置为在7天内成长为灵质史莱姆。灵质史莱姆每18天生产5个灵质。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Eltex.description>
+
+<!--=============== Syntherius of Sin ====================-->
+<OE_SlimeHeart_SyntheriusOfSin.label>罪恶合成素史莱姆核心(已配置)</OE_SlimeHeart_SyntheriusOfSin.label>
+<OE_SlimeHeart_SyntheriusOfSin.description>超先进的史莱姆核心，配置为在7天内成长为罪恶合成素史莱姆。罪恶合成素史莱姆每30天生产1个罪恶合成素。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_SyntheriusOfSin.description>
+
+<!--=============== Bioferrite ====================-->
+<OE_SlimeHeart_Bioferrite.label>生物铁质史莱姆核心(已配置)</OE_SlimeHeart_Bioferrite.label>
+<OE_SlimeHeart_Bioferrite.description>超先进的史莱姆核心，配置为在7天内成长为生物铁质史莱姆。生物铁质史莱姆每10天生产50个生物铁质。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Bioferrite.description>
+
+<!--=============== Floral Type ====================-->
+<!--=============== Herbal ====================-->
+<OE_SlimeHeart_Herbal.label>草药史莱姆核心(已配置)</OE_SlimeHeart_Herbal.label>
+<OE_SlimeHeart_Herbal.description>超先进的史莱姆核心，配置为在7天内成长为草药史莱姆。草药史莱姆每12天生产3个草药。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Herbal.description>
+
+<!--=============== Ambrosia ====================-->
+<OE_SlimeHeart_Ambrosia.label>仙馐果史莱姆核心(已配置)</OE_SlimeHeart_Ambrosia.label>
+<OE_SlimeHeart_Ambrosia.description>超先进的史莱姆核心，配置为在7天内成长为仙馐果史莱姆。仙馐果史莱姆每12天生产15个仙馐果。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Ambrosia.description>
+
+<!--=============== Fungus ====================-->
+<OE_SlimeHeart_Fungus.label>真菌史莱姆核心(已配置)</OE_SlimeHeart_Fungus.label>
+<OE_SlimeHeart_Fungus.description>超先进的史莱姆核心，配置为在7天内成长为真菌史莱姆。真菌史莱姆每12天生产35个生真菌。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Fungus.description>
+
+<!--=============== Jumy ====================-->
+<OE_SlimeHeart_Jumy.label>朱米史莱姆核心(已配置)</OE_SlimeHeart_Jumy.label>
+<OE_SlimeHeart_Jumy.description>超先进的史莱姆核心，配置为在7天内成长为朱米史莱姆。朱米史莱姆每12天生产15个朱米浆果。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Jumy.description>
+
+<!--=============== Grape ====================-->
+<OE_SlimeHeart_Grape.label>葡萄史莱姆核心(已配置)</OE_SlimeHeart_Grape.label>
+<OE_SlimeHeart_Grape.description>超先进的史莱姆核心，配置为在7天内成长为葡萄史莱姆。葡萄史莱姆每12天生产10个葡萄。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Grape.description>
+
+<!--=============== Battle Types ====================-->
+<!--=============== Bone ====================-->
+<OE_SlimeHeart_Bone.label>骨质史莱姆核心(已配置)</OE_SlimeHeart_Bone.label>
+<OE_SlimeHeart_Bone.description>超先进的史莱姆核心，配置为在7天内成长为骨质史莱姆。骨质史莱姆战斗类型，具有增强的智力用于训练。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Bone.description>
+
+<!--=============== Acid ====================-->
+<OE_SlimeHeart_Demon_Acid.label>酸性恶魔史莱姆核心(已配置)</OE_SlimeHeart_Demon_Acid.label>
+<OE_SlimeHeart_Demon_Acid.description>超先进的史莱姆核心，配置为在7天内成长为酸性恶魔史莱姆。酸性恶魔史莱姆远程战斗类型，具有增强的智力用于训练。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Demon_Acid.description>
+
+<!--=============== Cryo ====================-->
+<OE_SlimeHeart_Demon_Cryo.label>冷冻恶魔史莱姆核心(已配置)</OE_SlimeHeart_Demon_Cryo.label>
+<OE_SlimeHeart_Demon_Cryo.description>超先进的史莱姆核心，配置为在7天内成长为冷冻恶魔史莱姆。冷冻恶魔史莱姆远程战斗类型，具有增强的智力用于训练。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Demon_Cryo.description>
+
+<!--=============== Fire ====================-->
+<OE_SlimeHeart_Demon_Fire.label>火焰恶魔史莱姆核心(已配置)</OE_SlimeHeart_Demon_Fire.label>
+<OE_SlimeHeart_Demon_Fire.description>超先进的史莱姆核心，配置为在7天内成长为火焰恶魔史莱姆。火焰恶魔史莱姆远程战斗类型，具有增强的智力用于训练。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Demon_Fire.description>
+
+<!--=============== EMP ====================-->
+<OE_SlimeHeart_Demon_EMP.label>电磁脉冲恶魔史莱姆核心(已配置)</OE_SlimeHeart_Demon_EMP.label>
+<OE_SlimeHeart_Demon_EMP.description>超先进的史莱姆核心，配置为在7天内成长为电磁脉冲恶魔史莱姆。电磁脉冲恶魔史莱姆远程战斗类型，具有增强的智力用于训练。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Demon_EMP.description>
+
+<!--=============== Toxic ====================-->
+<OE_SlimeHeart_Demon_Toxic.label>毒性恶魔史莱姆核心(已配置)</OE_SlimeHeart_Demon_Toxic.label>
+<OE_SlimeHeart_Demon_Toxic.description>超先进的史莱姆核心，配置为在7天内成长为毒性恶魔史莱姆。毒性恶魔史莱姆远程战斗类型，具有增强的智力用于训练。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Demon_Toxic.description>
+
+<!--=============== Special Types ====================-->
+<!--=============== Waste ====================-->
+<OE_SlimeHeart_Waste.label>废料史莱姆核心(已配置)</OE_SlimeHeart_Waste.label>
+<OE_SlimeHeart_Waste.description>超先进的史莱姆核心，配置为在7天内成长为废料史莱姆。废料史莱姆特殊类型，已发展出食用有毒废料包的能力。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Waste.description>
+
+<!--=============== Companion Worker ====================-->
+<OE_SlimeHeart_Companion_Worker.label>工人伙伴史莱姆核心(已配置)</OE_SlimeHeart_Companion_Worker.label>
+<OE_SlimeHeart_Companion_Worker.description>超先进的史莱姆核心，配置为在7天内成长为工人伙伴史莱姆。工人伙伴史莱姆特殊类型，已发展出增强与其绑定的任何人工作技能的能力。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Companion_Worker.description>
+
+<!--=============== Companion Battle ====================-->
+<OE_SlimeHeart_Companion_Battle.label>战斗伙伴史莱姆核心(已配置)</OE_SlimeHeart_Companion_Battle.label>
+<OE_SlimeHeart_Companion_Battle.description>超先进的史莱姆核心，配置为在7天内成长为战斗伙伴史莱姆。战斗伙伴史莱姆特殊类型，已发展出增强与其绑定的任何人战斗技能的能力。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Companion_Battle.description>
+
+<!--=============== Companion Anima ====================-->
+<OE_SlimeHeart_Companion_Anima.label>心灵伙伴史莱姆核心(已配置)</OE_SlimeHeart_Companion_Anima.label>
+<OE_SlimeHeart_Companion_Anima.description>超先进的史莱姆核心，配置为在7天内成长为心灵伙伴史莱姆。心灵伙伴史莱姆特殊类型，已发展出增强与其绑定的任何人心灵能力的能力。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Companion_Anima.description>
+
+<!--=============== Hauler ====================-->
+<OE_SlimeHeart_Hauler.label>搬运工史莱姆核心(已配置)</OE_SlimeHeart_Hauler.label>
+<OE_SlimeHeart_Hauler.description>超先进的史莱姆核心，配置为在7天内成长为搬运工史莱姆。搬运工史莱姆群体类型，具有高智力和卓越的携带能力。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Hauler.description>
+
+</LanguageData>

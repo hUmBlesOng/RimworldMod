@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== 黑曜石合成素前哨站 ====================-->
+<OE_Outpost_Syntherius.label>黑曜石合成素前哨站</OE_Outpost_Syntherius.label>
+<OE_Outpost_Syntherius.description>放置一个临时的、自主管理的营地，专门从区域内的合成素树收集合成素，不能放置在沙漠上。一旦收集到足够数量，将会在派系主要殖民地的郊外进行交付。</OE_Outpost_Syntherius.description>
+
+<!--=============== 黑曜石能源前哨站 ====================-->
+<!--=============== 黑曜石地热电网 ====================-->
+<OE_Outpost_PowerGrid_Geothermal.label>黑曜石地热电网</OE_Outpost_PowerGrid_Geothermal.label>
+<OE_Outpost_PowerGrid_Geothermal.description>放置一个临时的、自主管理的营地，专门用地热发电机发电。持续向派系主要殖民地供电。</OE_Outpost_PowerGrid_Geothermal.description>
+
+<!--=============== 黑曜石合成素电网 ====================-->
+<OE_Outpost_PowerGrid_Syntherius.label>黑曜石合成素供电电网</OE_Outpost_PowerGrid_Syntherius.label>
+<OE_Outpost_PowerGrid_Syntherius.description>放置一个临时的、自主管理的营地，专门用合成素供电发电机发电。持续向派系主要殖民地供电。</OE_Outpost_PowerGrid_Syntherius.description>
+
+<!--=============== 黑曜石量子电网 ====================-->
+<OE_Outpost_PowerGrid_Quantum.label>黑曜石量子电网</OE_Outpost_PowerGrid_Quantum.label>
+<OE_Outpost_PowerGrid_Quantum.description>放置一个临时的、自主管理的营地，专门用量子发电机发电。持续向派系主要殖民地供电。</OE_Outpost_PowerGrid_Quantum.description>
+
+</LanguageData>

@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
 <!--=============== Obsidia Colonists ====================-->
-<OE_ObsidiaColonists.label>黑曜石殖民者</OE_ObsidiaColonists.label>
-<OE_ObsidiaColonists.description>你的殖民地是黑曜石帝国星际扩张计划的一部分。你必须在基本支援包的帮助下生存并建立一个繁荣的殖民地。</OE_ObsidiaColonists.description>
-<OE_ObsidiaColonists.scenario.description>你的殖民地是黑曜石帝国星际扩张计划的一部分。你必须在基本支援包的帮助下生存并建立一个繁荣的殖民地。</OE_ObsidiaColonists.scenario.description>
-<OE_ObsidiaColonists.scenario.name>黑曜石殖民者</OE_ObsidiaColonists.scenario.name>
-<OE_ObsidiaColonists.scenario.summary>一组黑曜石帝国殖民者 - 经典的黑曜石扩展体验。</OE_ObsidiaColonists.scenario.summary>
-<OE_ObsidiaColonists.scenario.parts.GameStartDialog.text>恭喜！你已成为黑曜石帝国星际扩张计划的一部分。\n\n是时候建立农业区，建造住宅结构。建设电源、防御设施并获得殖民地所需的一切，如果你想在这个严酷的世界中生存下来。</OE_ObsidiaColonists.scenario.parts.GameStartDialog.text>
+<OE_ObsidiaColonists.label>obsidia colonists</OE_ObsidiaColonists.label>
+<OE_ObsidiaColonists.description>Your colony is part of the Interplanetary Expansion Program of Obsidia Empire. You have to survive and build a thriving colony with a basic support package.</OE_ObsidiaColonists.description>
+<OE_ObsidiaColonists.scenario.description>Your colony is part of the Interplanetary Expansion Program of Obsidia Empire. You have to survive and build a thriving colony with a basic support package.</OE_ObsidiaColonists.scenario.description>
+<OE_ObsidiaColonists.scenario.name>Obsidia colonists</OE_ObsidiaColonists.scenario.name>
+<OE_ObsidiaColonists.scenario.summary>A group of Obsidia Empire colonists - the classic Obsidia Expansion experience.</OE_ObsidiaColonists.scenario.summary>
+<OE_ObsidiaColonists.scenario.parts.GameStartDialog.text>Congratulations! You have become part of the Interplanetary Expansion Program of Obsidia Empire.\n\nIt is time to setting up a farming zone, build residential structures. Construct power sources, defenses and get everything what colony need if you want to make it on this harsh world.</OE_ObsidiaColonists.scenario.parts.GameStartDialog.text>
 
 <!--=============== Obsidia Colonists ====================-->
-<OE_ObsidiaAgent.label>黑曜石特工</OE_ObsidiaAgent.label>
-<OE_ObsidiaAgent.description>你是飞船失事后在未知星球上幸存下来的特工之一。你必须生存下来并创建一个殖民地以进一步执行你的任务。</OE_ObsidiaAgent.description>
-<OE_ObsidiaAgent.scenario.description>你是飞船失事后在未知星球上幸存下来的特工之一。你必须生存下来并创建一个殖民地以进一步执行你的任务。</OE_ObsidiaAgent.scenario.description>
-<OE_ObsidiaAgent.scenario.name>黑曜石特工</OE_ObsidiaAgent.scenario.name>
-<OE_ObsidiaAgent.scenario.summary>黑曜石帝国特工之一 - 高级的黑曜石扩展体验。</OE_ObsidiaAgent.scenario.summary>
-<OE_ObsidiaAgent.scenario.parts.GameStartDialog.text>任务日志 #94%#02$-Y3:\n\n主要状态: #未知#\n\n附加状态: 船舶失事\n\n进一步指示:\n\n-建立殖民地\n\n-消灭 #未知#\n\n-与 #未知# 联系\n\n-#未知# 生存\n\n-启动任务 #94%80*$-Y4\n\n你准备好了吗?\n\nY/#未知#</OE_ObsidiaAgent.scenario.parts.GameStartDialog.text>
+<OE_ObsidiaAgent.label>obsidia agent</OE_ObsidiaAgent.label>
+<OE_ObsidiaAgent.description>You're one of the surviving agents after a shipwreck on an unknown planet. You have to survive and create a colony for further implementation your mission.</OE_ObsidiaAgent.description>
+<OE_ObsidiaAgent.scenario.description>You're one of the surviving agents after a shipwreck on an unknown planet. You have to survive and create a colony for further implementation your mission.</OE_ObsidiaAgent.scenario.description>
+<OE_ObsidiaAgent.scenario.name>Obsidia agent</OE_ObsidiaAgent.scenario.name>
+<OE_ObsidiaAgent.scenario.summary>One of the Obsidia Empire agents - the advanced Obsidia Expansion experience.</OE_ObsidiaAgent.scenario.summary>
+<OE_ObsidiaAgent.scenario.parts.GameStartDialog.text>Mission log #94%#02$-Y3:\n\nMain status: #unknown#\n\nAdditional status: shipwreck\n\nFurther instructions:\n\n-create a colony\n\n-eliminate #unknown#\n\n-make contacts with #unknown#\n\n-#unknown# survive\n\n-start the Mission #94%80*$-Y4\n\nYou are ready?\n\nY/#unknown#</OE_ObsidiaAgent.scenario.parts.GameStartDialog.text>
 
 </LanguageData>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Quest - Weird Bandit Camp ====================-->
+<!--=============== NameRules ====================-->
+<OE_Quest_WeirdBanditCamp.questNameRules.rulesStrings>
+  <li>questName->[bandit][camp]</li>
+  <li>questName->[bandit][camp]</li>
+  <li>questName->[asker_nameDef]与[camp]</li>
+  <li>questName->奇怪的发现</li>
+  <li>questName->消灭威胁</li>
+  <!-- Pieces -->
+  <li>camp->营地</li>
+  <li>camp->前哨站</li>
+  <li>camp->巢穴</li>
+  <li>camp->营地</li>
+  <li>bandit->强盗</li>
+  <li>bandit->掠夺者</li>
+  <li>bandit->非法之徒</li>
+  <li>bandit->掠夺者</li>
+  <li>bandit->强盗</li>
+</OE_Quest_WeirdBanditCamp.questNameRules.rulesStrings>
+
+<!--=============== DescriptionRules ====================-->
+<OE_Quest_WeirdBanditCamp.questDescriptionRules.rulesStrings>
+  <li>questDescription->[asker_nameFull]，[asker_faction_name]的[asker_faction_leaderTitle]，报告他们在对深红蜘蛛邪教活动的侦察中发现了异常情况。他们的侦察兵跟踪可疑的踪迹，发现附近有一个奇怪的营地，由[siteFaction_name]控制。\n\n[asker_nameDef]请求我们帮助消灭营地，摧毁所有敌人和防御设施，以阻止深红蜘蛛邪教可能的计划。[asker_label]说[sitePart0_description]。</li>
+  <li>questDescription->[asker_nameFull]，[asker_faction_name]的[asker_faction_leaderTitle]，分享了令人不安的消息。他们对深红蜘蛛邪教活动的侦察发现了一个隐藏在附近的阴暗营地。他们跟踪的踪迹直接指向[siteFaction_name]，似乎正在策划一些邪恶的事情。\n\n[asker_label]敦促我们先发制人，在那里的黑暗力量释放之前摧毁营地。[asker_label]说[sitePart0_description]。</li>
+</OE_Quest_WeirdBanditCamp.questDescriptionRules.rulesStrings>
+
+<!--=============== Roots ====================-->
+<!--=============== Raid ====================-->
+<OE_Quest_WeirdBanditCamp.root.nodes.Delay.node.parms.customLetterLabel.value.slateRef>{BASELABEL}：这是个陷阱！</OE_Quest_WeirdBanditCamp.root.nodes.Delay.node.parms.customLetterLabel.value.slateRef>
+<OE_Quest_WeirdBanditCamp.root.nodes.Delay.node.parms.customLetterText.value.slateRef>{BASETEXT}\n\n一队邪教徒截获了我们的信息，获得了我们营地的坐标，现在正朝我们的定居点前进。</OE_Quest_WeirdBanditCamp.root.nodes.Delay.node.parms.customLetterText.value.slateRef>
+<!--=============== Bandit camp moved ====================-->
+<OE_Quest_WeirdBanditCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>任务过期：[resolvedQuestName]</OE_Quest_WeirdBanditCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+<OE_Quest_WeirdBanditCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>强盗营地已经迁移。任务[resolvedQuestName]已过期。</OE_Quest_WeirdBanditCamp.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+<!--=============== Leave, the map ====================-->
+<OE_Quest_WeirdBanditCamp.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>任务失败：[resolvedQuestName]</OE_Quest_WeirdBanditCamp.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+<OE_Quest_WeirdBanditCamp.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>被发现后，强盗营地已经解散。任务[resolvedQuestName]已结束。</OE_Quest_WeirdBanditCamp.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+<!--=============== Complete ====================-->
+<OE_Quest_WeirdBanditCamp.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterLabel.slateRef>报酬已送达</OE_Quest_WeirdBanditCamp.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterLabel.slateRef>
+<OE_Quest_WeirdBanditCamp.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterText.slateRef>你已经击败了强盗营地！\n\n来自[asker_faction_name]的报酬已经送达。</OE_Quest_WeirdBanditCamp.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.customLetterText.slateRef>
+<OE_Quest_WeirdBanditCamp.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</OE_Quest_WeirdBanditCamp.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.label.slateRef>
+<OE_Quest_WeirdBanditCamp.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>这些殖民者参与了任务[resolvedQuestName]的胜利。[asker_definite]想知道谁应该获得这次服务的[royalFavorReward_amount][asker_faction_royalFavorLabel]。</OE_Quest_WeirdBanditCamp.root.nodes.siteAllEnemiesDefeated.node.nodes.GiveRewards.nodeIfChosenPawnSignalUsed.text.slateRef>
+
+</LanguageData>

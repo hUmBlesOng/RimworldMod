@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== EGO头盔 ====================-->
+<!--=============== 面具 ====================-->
+<EGO_Helmet_Mask.label>EGO面具</EGO_Helmet_Mask.label>
+<EGO_Helmet_Mask.description>特殊培育的融合面具，很好地保护所有者。专为不死者使用而设计。融合体是EGO种子和黑曜石技术的混合体。\n\n可以使用EGO种子重置物品的品质等级。</EGO_Helmet_Mask.description>
+
+<!--=============== 头盔 ====================-->
+<EGO_Helmet_Helm.label>EGO头盔</EGO_Helmet_Helm.label>
+<EGO_Helmet_Helm.description>特殊培育的融合头盔，完美地保护所有者。专为不死者使用而设计。融合体是EGO种子和黑曜石技术的混合体。\n\n可以使用EGO种子重置物品的品质等级。</EGO_Helmet_Helm.description>
+
+<!--=============== 外骨骼头盔 ====================-->
+<!--=============== 工人 ====================-->
+<EGO_Helmet_Exohelm_Worker.label>EGO外骨骼头盔(建造者)</EGO_Helmet_Exohelm_Worker.label>
+<EGO_Helmet_Exohelm_Worker.description>特殊培育的融合外骨骼头盔，出色地保护所有者。专为不死者使用而设计。融合体是EGO种子和黑曜石技术的混合体。\n\n此改装改善工作属性。\n\n可以使用EGO种子重置物品的品质等级。</EGO_Helmet_Exohelm_Worker.description>
+
+<!--=============== 近战 ====================-->
+<EGO_Helmet_Exohelm_Melee.label>EGO外骨骼头盔(狂战士)</EGO_Helmet_Exohelm_Melee.label>
+<EGO_Helmet_Exohelm_Melee.description>特殊培育的融合外骨骼头盔，出色地保护所有者。专为不死者使用而设计。融合体是EGO种子和黑曜石技术的混合体。\n\n此改装改善近战战斗属性。\n\n可以使用EGO种子重置物品的品质等级。</EGO_Helmet_Exohelm_Melee.description>
+
+<!--=============== 远程 ====================-->
+<EGO_Helmet_Exohelm_Ranged.label>EGO外骨骼头盔(弩炮)</EGO_Helmet_Exohelm_Ranged.label>
+<EGO_Helmet_Exohelm_Ranged.description>特殊培育的融合外骨骼头盔，出色地保护所有者。专为不死者使用而设计。融合体是EGO种子和黑曜石技术的混合体。\n\n此改装改善远程战斗属性。\n\n可以使用EGO种子重置物品的品质等级。</EGO_Helmet_Exohelm_Ranged.description>
+
+<!--=============== 心灵 ====================-->
+<EGO_Helmet_Exohelm_Psy.label>EGO外骨骼头盔(织梦者)</EGO_Helmet_Exohelm_Psy.label>
+<EGO_Helmet_Exohelm_Psy.description>特殊培育的融合外骨骼头盔，出色地保护所有者。专为不死者使用而设计。融合体是EGO种子和黑曜石技术的混合体。\n\n此改装改善心灵属性。\n\n可以使用EGO种子重置物品的品质等级。</EGO_Helmet_Exohelm_Psy.description>
+
+<!--=============== 机械师 ====================-->
+<EGO_Helmet_Exohelm_Mechanitor.label>EGO外骨骼头盔(自动法师)</EGO_Helmet_Exohelm_Mechanitor.label>
+<EGO_Helmet_Exohelm_Mechanitor.description>特殊培育的融合外骨骼头盔，出色地保护所有者。专为不死者使用而设计。融合体是EGO种子和黑曜石技术的混合体。\n\n此改装改善机械师属性。\n\n可以使用EGO种子重置物品的品质等级。</EGO_Helmet_Exohelm_Mechanitor.description>
+
+<!--=============== EGO装甲 ====================-->
+<!--=============== 战衣 ====================-->
+<EGO_Armor_Suit.label>EGO战衣</EGO_Armor_Suit.label>
+<EGO_Armor_Suit.description>特殊培育的融合战衣，很好地保护所有者。专为不死者使用而设计。融合体是EGO种子和黑曜石技术的混合体。\n\n可以使用EGO种子重置物品的品质等级。</EGO_Armor_Suit.description>
+
+<!--=============== 甲壳 ====================-->
+<EGO_Armor_Carapace.label>EGO甲壳</EGO_Armor_Carapace.label>
+<EGO_Armor_Carapace.description>特殊培育的融合甲壳，完美地保护所有者。专为不死者使用而设计。融合体是EGO种子和黑曜石技术的混合体。\n\n可以使用EGO种子重置物品的品质等级。</EGO_Armor_Carapace.description>
+
+<!--=============== 外骨骼装甲 ====================-->
+<!--=============== 工人 ====================-->
+<EGO_Armor_Shell_Worker.label>EGO外骨骼装甲(建造者)</EGO_Armor_Shell_Worker.label>
+<EGO_Armor_Shell_Worker.description>特殊培育的融合外骨骼装甲，出色地保护所有者。专为不死者使用而设计。融合体是EGO种子和黑曜石技术的混合体。\n\n此改装改善工作属性。\n\n可以使用EGO种子重置物品的品质等级。</EGO_Armor_Shell_Worker.description>
+
+<!--=============== 近战 ====================-->
+<EGO_Armor_Shell_Melee.label>EGO外骨骼装甲(狂战士)</EGO_Armor_Shell_Melee.label>
+<EGO_Armor_Shell_Melee.verbs.Verb_SmokePop.label>EGO外骨骼装甲(狂战士)</EGO_Armor_Shell_Melee.verbs.Verb_SmokePop.label>
+<EGO_Armor_Shell_Melee.description>特殊培育的融合外骨骼装甲，出色地保护所有者。专为不死者使用而设计。融合体是EGO种子和黑曜石技术的混合体。\n\n此改装改善近战战斗属性并改装增加了烟雾弹背包。\n\n可以使用EGO种子重置物品的品质等级。</EGO_Armor_Shell_Melee.description>
+<EGO_Armor_Shell_Melee.comps.CompApparelReloadable.chargeNoun>烟雾弹</EGO_Armor_Shell_Melee.comps.CompApparelReloadable.chargeNoun>
+<EGO_Armor_Shell_Melee.comps.CompApparelReloadable.cooldownGerund>冷却中</EGO_Armor_Shell_Melee.comps.CompApparelReloadable.cooldownGerund>
+
+<!--=============== 远程 ====================-->
+<EGO_Armor_Shell_Ranged.label>EGO外骨骼装甲(弩炮)</EGO_Armor_Shell_Ranged.label>
+<EGO_Armor_Shell_Ranged.verbs.Verb_LaunchProjectileStatic.label>EGO外骨骼装甲(弩炮)</EGO_Armor_Shell_Ranged.verbs.Verb_LaunchProjectileStatic.label>
+<EGO_Armor_Shell_Ranged.description>特殊培育的融合外骨骼装甲，出色地保护所有者。专为不死者使用而设计。融合体是EGO种子和黑曜石技术的混合体。\n\n此改装改善远程战斗属性并改装安装了榴弹发射器。\n\n可以使用EGO种子重置物品的品质等级。</EGO_Armor_Shell_Ranged.description>
+<EGO_Armor_Shell_Ranged.comps.CompApparelReloadable.chargeNoun>榴弹</EGO_Armor_Shell_Ranged.comps.CompApparelReloadable.chargeNoun>
+<EGO_Armor_Shell_Ranged.comps.CompApparelReloadable.cooldownGerund>冷却中</EGO_Armor_Shell_Ranged.comps.CompApparelReloadable.cooldownGerund>
+
+<EGO_Grenade.label>EGO弩炮榴弹</EGO_Grenade.label>
+
+<!--=============== 心灵 ====================-->
+<EGO_Armor_Shell_Psy.label>EGO外骨骼装甲(织梦者)</EGO_Armor_Shell_Psy.label>
+<EGO_Armor_Shell_Psy.verbs.Verb_Jump.label>EGO外骨骼装甲(织梦者)</EGO_Armor_Shell_Psy.verbs.Verb_Jump.label>
+<EGO_Armor_Shell_Psy.description>特殊培育的融合外骨骼装甲，出色地保护所有者。专为不死者使用而设计。融合体是EGO种子和黑曜石技术的混合体。\n\n此改装改善心灵属性并改装增加了跳跃背包。\n\n可以使用EGO种子重置物品的品质等级。</EGO_Armor_Shell_Psy.description>
+<EGO_Armor_Shell_Psy.comps.CompApparelReloadable.chargeNoun>跳跃</EGO_Armor_Shell_Psy.comps.CompApparelReloadable.chargeNoun>
+<EGO_Armor_Shell_Psy.comps.CompApparelReloadable.cooldownGerund>冷却中</EGO_Armor_Shell_Psy.comps.CompApparelReloadable.cooldownGerund>
+
+<!--=============== 机械师 ====================-->
+<EGO_Armor_Shell_Mechanitor.label>EGO外骨骼装甲(自动法师)</EGO_Armor_Shell_Mechanitor.label>
+<EGO_Armor_Shell_Mechanitor.description>特殊培育的融合外骨骼装甲，出色地保护所有者。专为不死者使用而设计。融合体是EGO种子和黑曜石技术的混合体。\n\n此改装改善机械师属性并改装增加了允许用户部署电池供电炮塔的背包。\n\n可以使用EGO种子重置物品的品质等级。</EGO_Armor_Shell_Mechanitor.description>
+
+<EGO_Armor_Shell_Mechanitor.verbs.deploy_turret.label>部署炮塔</EGO_Armor_Shell_Mechanitor.verbs.deploy_turret.label>
+<Grenade_Armor_EGO_TurretPack.label>EGO炮塔包胶囊</Grenade_Armor_EGO_TurretPack.label>
+<EGO_Armor_Shell_Mechanitor.comps.CompApparelReloadable.chargeNoun>燃烧弹</EGO_Armor_Shell_Mechanitor.comps.CompApparelReloadable.chargeNoun>
+<EGO_Armor_Shell_Mechanitor.comps.CompApparelReloadable.cooldownGerund>冷却中</EGO_Armor_Shell_Mechanitor.comps.CompApparelReloadable.cooldownGerund>
+
+</LanguageData>

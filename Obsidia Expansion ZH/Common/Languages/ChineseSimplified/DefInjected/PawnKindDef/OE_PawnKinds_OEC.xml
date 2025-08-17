@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Recruit ====================-->
+<OEC_Recruit.label>OEC新兵</OEC_Recruit.label>
+
+<!--=============== Hunter ====================-->
+<OEC_Hunter_Melee.label>OEC猎人</OEC_Hunter_Melee.label>
+<OEC_Hunter_RMelee.label>OEC猎人</OEC_Hunter_RMelee.label>
+<OEC_Hunter_Ranged.label>OEC猎人</OEC_Hunter_Ranged.label>
+<OEC_Hunter_Sniper.label>OEC猎人</OEC_Hunter_Sniper.label>
+<OEC_Hunter_CallAid.label>OEC猎人</OEC_Hunter_CallAid.label>
+
+<!--=============== Inquisitor ====================-->
+<OEC_Inquisitor_Melee.label>OEC审判官</OEC_Inquisitor_Melee.label>
+<OEC_Inquisitor_RMelee.label>OEC审判官</OEC_Inquisitor_RMelee.label>
+<OEC_Inquisitor_Ranged.label>OEC审判官</OEC_Inquisitor_Ranged.label>
+<OEC_Inquisitor_Sniper.label>OEC审判官</OEC_Inquisitor_Sniper.label>
+<OEC_Inquisitor_Mechanitor.label>OEC审判官</OEC_Inquisitor_Mechanitor.label>
+<OEC_Inquisitor_CallAid.label>OEC审判官</OEC_Inquisitor_CallAid.label>
+
+<!--=============== Arachna ====================-->
+<OEC_Mech_Arachna.label>OEC蜘蛛</OEC_Mech_Arachna.label>
+
+<!--=============== Dominator ====================-->
+<OEC_Mech_Dominator.label>OEC支配者</OEC_Mech_Dominator.label>
+
+</LanguageData>

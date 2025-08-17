@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== OE - Trophy Grimoire ====================-->
+<!--=============== Various ====================-->
+<!--=============== Worker ====================-->
+<OE_Trophy_Grimoire_Worker_Aura.label>重建光环</OE_Trophy_Grimoire_Worker_Aura.label>
+<OE_Trophy_Grimoire_Worker_Aura.description>此人正在使用重建魔法书。效果半径内的每个人都会获得工作属性加成。</OE_Trophy_Grimoire_Worker_Aura.description>
+
+<OE_Trophy_Grimoire_Worker_AuraBuff.label>重建光环</OE_Trophy_Grimoire_Worker_AuraBuff.label>
+<OE_Trophy_Grimoire_Worker_AuraBuff.description>附近有人正在使用重建魔法书，提升此人的工作属性加成。</OE_Trophy_Grimoire_Worker_AuraBuff.description>
+
+<!--=============== Ranged ====================-->
+<OE_Trophy_Grimoire_Ranged_Aura.label>神射手光环</OE_Trophy_Grimoire_Ranged_Aura.label>
+<OE_Trophy_Grimoire_Ranged_Aura.description>此人正在使用神射手魔法书。效果半径内的每个人都会获得远程战斗属性加成。</OE_Trophy_Grimoire_Ranged_Aura.description>
+
+<OE_Trophy_Grimoire_Ranged_AuraBuff.label>神射手光环</OE_Trophy_Grimoire_Ranged_AuraBuff.label>
+<OE_Trophy_Grimoire_Ranged_AuraBuff.description>附近有人正在使用神射手魔法书，提升此人的远程战斗属性加成。</OE_Trophy_Grimoire_Ranged_AuraBuff.description>
+
+<!--=============== Melee ====================-->
+<OE_Trophy_Grimoire_Melee_Aura.label>钢铁灵魂光环</OE_Trophy_Grimoire_Melee_Aura.label>
+<OE_Trophy_Grimoire_Melee_Aura.description>此人正在使用钢铁灵魂魔法书。效果半径内的每个人都会获得近战战斗属性加成。</OE_Trophy_Grimoire_Melee_Aura.description>
+
+<OE_Trophy_Grimoire_Melee_AuraBuff.label>钢铁灵魂光环</OE_Trophy_Grimoire_Melee_AuraBuff.label>
+<OE_Trophy_Grimoire_Melee_AuraBuff.description>附近有人正在使用钢铁灵魂魔法书，提升此人的近战战斗属性加成。</OE_Trophy_Grimoire_Melee_AuraBuff.description>
+
+<!--=============== Defender ====================-->
+<OE_Trophy_Grimoire_Defender_Aura.label>圣域光环</OE_Trophy_Grimoire_Defender_Aura.label>
+<OE_Trophy_Grimoire_Defender_Aura.description>此人正在使用圣域魔法书。效果半径内的每个人都会获得防御属性加成。</OE_Trophy_Grimoire_Defender_Aura.description>
+
+<OE_Trophy_Grimoire_Defender_AuraBuff.label>圣域光环</OE_Trophy_Grimoire_Defender_AuraBuff.label>
+<OE_Trophy_Grimoire_Defender_AuraBuff.description>附近有人正在使用圣域魔法书，提升此人的防御属性加成。</OE_Trophy_Grimoire_Defender_AuraBuff.description>
+
+<!--=============== Psy ====================-->
+<OE_Trophy_Grimoire_Psy_Aura.label>心灵至高光环</OE_Trophy_Grimoire_Psy_Aura.label>
+<OE_Trophy_Grimoire_Psy_Aura.description>此人正在使用心灵至高魔法书。效果半径内的每个人都会获得心灵属性加成。</OE_Trophy_Grimoire_Psy_Aura.description>
+
+<OE_Trophy_Grimoire_Psy_AuraBuff.label>心灵至高光环</OE_Trophy_Grimoire_Psy_AuraBuff.label>
+<OE_Trophy_Grimoire_Psy_AuraBuff.description>附近有人正在使用心灵至高魔法书，提升此人心灵属性加成。</OE_Trophy_Grimoire_Psy_AuraBuff.description>
+
+<!--=============== Social ====================-->
+<OE_Trophy_Grimoire_Social_Aura.label>皇家回响光环</OE_Trophy_Grimoire_Social_Aura.label>
+<OE_Trophy_Grimoire_Social_Aura.description>此人正在使用皇家回响魔法书。效果半径内的每个人都会获得社交属性加成。</OE_Trophy_Grimoire_Social_Aura.description>
+
+<OE_Trophy_Grimoire_Social_AuraBuff.label>皇家回响光环</OE_Trophy_Grimoire_Social_AuraBuff.label>
+<OE_Trophy_Grimoire_Social_AuraBuff.description>附近有人正在使用皇家回响魔法书，提升此人的社交属性加成。</OE_Trophy_Grimoire_Social_AuraBuff.description>
+
+<!--=============== Mechanitor ====================-->
+
+<!--=============== Scientist ====================-->
+<OE_Trophy_Grimoire_Scientist_Aura.label>禁忌洞察光环</OE_Trophy_Grimoire_Scientist_Aura.label>
+<OE_Trophy_Grimoire_Scientist_Aura.description>此人正在使用禁忌洞察魔法书。效果半径内的每个人都会获得研究属性加成。</OE_Trophy_Grimoire_Scientist_Aura.description>
+
+<OE_Trophy_Grimoire_Scientist_AuraBuff.label>禁忌洞察光环</OE_Trophy_Grimoire_Scientist_AuraBuff.label>
+<OE_Trophy_Grimoire_Scientist_AuraBuff.description>附近有人正在使用禁忌洞察魔法书，提升此人的研究属性加成。</OE_Trophy_Grimoire_Scientist_AuraBuff.description>
+
+</LanguageData>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Blast - Shredded Armor ====================-->
+<OCC_BlastShreddedArmor.label>装甲撕裂</OCC_BlastShreddedArmor.label>
+<OCC_BlastShreddedArmor.description>受到爆炸伤害后临时装甲减少。</OCC_BlastShreddedArmor.description>
+
+<!--=============== Unstable Toxins ====================-->
+<OE_UnstableToxins_Poison.label>不稳定毒素</OE_UnstableToxins_Poison.label>
+<OE_UnstableToxins_Poison.description>不稳定毒素中毒。引起随机的负面或正面副作用。</OE_UnstableToxins_Poison.description>
+
+<!--=============== Arachna Queen - DeathCry ====================-->
+<OE_QueenDeathCry.label>女王死亡之嚎</OE_QueenDeathCry.label>
+<OE_QueenDeathCry.labelNoun>女王之嚎</OE_QueenDeathCry.labelNoun>
+<OE_QueenDeathCry.description>诅咒完全解除目标武装并增加受到的伤害。诅咒持续时间很长。</OE_QueenDeathCry.description>
+
+<!--=============== Monarchid - DeathCry ====================-->
+<OE_MonarchidDeathCry.label>君主死亡之嚎</OE_MonarchidDeathCry.label>
+<OE_MonarchidDeathCry.labelNoun>君主之嚎</OE_MonarchidDeathCry.labelNoun>
+<OE_MonarchidDeathCry.description>死亡时，君主释放最后的嚎叫，散播其信息素。令人惊讶的是，这些信息素对接触它们的人有正面效果。</OE_MonarchidDeathCry.description>
+
+<!--=============== Necrobane - Necrobane Venom ====================-->
+<OMG_NecrobaneVenom.label>死神毒液</OMG_NecrobaneVenom.label>
+<OMG_NecrobaneVenom.description>这种毒液削弱目标的防御力，增加受到的伤害。随着积累更多，其效果会增强，使目标逐渐变得更加脆弱。</OMG_NecrobaneVenom.description>
+
+</LanguageData>

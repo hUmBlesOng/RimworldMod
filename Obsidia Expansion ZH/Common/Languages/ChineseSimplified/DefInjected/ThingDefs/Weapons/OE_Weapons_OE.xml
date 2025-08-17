@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== OE - Sword ====================-->
+<OE_Sword.label>原型分隔者</OE_Sword.label>
+<OE_Sword.description>原型剑，几个世纪前为黑曜石帝国战士设计。</OE_Sword.description>
+
+<OE_Sword.tools.handle.label>剑柄</OE_Sword.tools.handle.label>
+<OE_Sword.tools.point.label>剑尖</OE_Sword.tools.point.label>
+<OE_Sword.tools.edge.label>剑刃</OE_Sword.tools.edge.label>
+
+<!--=============== OE - Hammer ====================-->
+<OE_Hammer.label>原型复仇者</OE_Hammer.label>
+<OE_Hammer.description>原型锤，几个世纪前为黑曜石帝国战士设计。</OE_Hammer.description>
+
+<OE_Hammer.tools.handle.label>锤柄</OE_Hammer.tools.handle.label>
+<OE_Hammer.tools.head.label>锤头</OE_Hammer.tools.head.label>
+
+<!--=============== OE - Spear ====================-->
+<OE_Spear.label>原型鞘翅</OE_Spear.label>
+<OE_Spear.description>原型矛，几个世纪前为黑曜石帝国战士设计。</OE_Spear.description>
+
+<OE_Spear.tools.shaft.label>矛杆</OE_Spear.tools.shaft.label>
+<OE_Spear.tools.point.label>矛尖</OE_Spear.tools.point.label>
+
+<!--=============== OE - Pistol ====================-->
+<Bullet_OE_P.label>原型穿刺者子弹</Bullet_OE_P.label>
+
+<OE_Pistol.label>原型穿刺者</OE_Pistol.label>
+<OE_Pistol.verbs.Verb_Shoot.label>原型穿刺者</OE_Pistol.verbs.Verb_Shoot.label>
+<OE_Pistol.description>原型手枪，几个世纪前为黑曜石帝国战士设计。</OE_Pistol.description>
+
+<OE_Pistol.tools.grip.label>握把</OE_Pistol.tools.grip.label>
+<OE_Pistol.tools.barrel.label>枪管</OE_Pistol.tools.barrel.label>
+
+<!--=============== OE - SMG ====================-->
+<Bullet_OE_SMG.label>原型平衡者子弹</Bullet_OE_SMG.label>
+
+<OE_SMG.label>原型平衡者</OE_SMG.label>
+<OE_SMG.verbs.Verb_Shoot.label>原型平衡者</OE_SMG.verbs.Verb_Shoot.label>
+<OE_SMG.description>原型冲锋枪，几个世纪前为黑曜石帝国战士设计。</OE_SMG.description>
+
+<OE_SMG.tools.stock.label>枪托</OE_SMG.tools.stock.label>
+<OE_SMG.tools.barrel.label>枪管</OE_SMG.tools.barrel.label>
+
+<!--=============== OE - Shotgun ====================-->
+<Bullet_OE_S.label>原型末日爆弹</Bullet_OE_S.label>
+
+<OE_Shotgun.label>原型末日</OE_Shotgun.label>
+<OE_Shotgun.verbs.Verb_Shoot.label>原型末日</OE_Shotgun.verbs.Verb_Shoot.label>
+<OE_Shotgun.description>原型霰弹枪，几个世纪前为黑曜石帝国战士设计。</OE_Shotgun.description>
+
+<OE_Shotgun.tools.stock.label>枪托</OE_Shotgun.tools.stock.label>
+<OE_Shotgun.tools.barrel.label>枪管</OE_Shotgun.tools.barrel.label>
+
+<!--=============== OE - Rifle ====================-->
+<Bullet_OE_R.label>原型地狱犬子弹</Bullet_OE_R.label>
+
+<OE_Rifle.label>原型地狱犬</OE_Rifle.label>
+<OE_Rifle.verbs.Verb_Shoot.label>原型地狱犬</OE_Rifle.verbs.Verb_Shoot.label>
+<OE_Rifle.description>原型步枪，几个世纪前为黑曜石帝国战士设计。</OE_Rifle.description>
+
+<OE_Rifle.tools.stock.label>枪托</OE_Rifle.tools.stock.label>
+<OE_Rifle.tools.barrel.label>枪管</OE_Rifle.tools.barrel.label>
+
+<!--=============== OE - Bow ====================-->
+<Bullet_OE_B.label>原型傲慢箭矢</Bullet_OE_B.label>
+
+<OE_Bow.label>原型傲慢</OE_Bow.label>
+<OE_Bow.verbs.Verb_Shoot.label>原型傲慢</OE_Bow.verbs.Verb_Shoot.label>
+<OE_Bow.description>原型弓，几个世纪前为黑曜石帝国战士设计。</OE_Bow.description>
+
+<OE_Bow.tools.limb.label>弓臂</OE_Bow.tools.limb.label>
+
+</LanguageData>

@@ -1,62 +1,62 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== OE - Aura Modules ====================-->
 <!--=============== Brigadier ====================-->
-<OE_AuraBrigadier.label>光环模块 - 准将</OE_AuraBrigadier.label>
-<OE_AuraBrigadier.description>此人正在使用光环模块 - 准将。效果半径内的每个人都会获得工作属性加成。</OE_AuraBrigadier.description>
+<OE_AuraBrigadier.label>Aura Module - Brigadier</OE_AuraBrigadier.label>
+<OE_AuraBrigadier.description>This person is using a Aura Module - Brigadier. Everyone within an effect radius gains working stats bonuses.</OE_AuraBrigadier.description>
 
-<OE_AuraBrigadierBuff.label>光环模块 - 准将</OE_AuraBrigadierBuff.label>
-<OE_AuraBrigadierBuff.description>附近有人正在使用光环模块 - 准将，提升此人的工作属性加成。</OE_AuraBrigadierBuff.description>
+<OE_AuraBrigadierBuff.label>Aura Module - Brigadier</OE_AuraBrigadierBuff.label>
+<OE_AuraBrigadierBuff.description>Someone is using the Aura Module - Brigadier nearby, boosting this person's working stats bonuses.</OE_AuraBrigadierBuff.description>
 
 <!--=============== Battle Commander ====================-->
-<OE_AuraBattleCommander.label>光环模块 - 战斗指挥官</OE_AuraBattleCommander.label>
-<OE_AuraBattleCommander.description>此人正在使用光环模块 - 战斗指挥官。效果半径内的每个人都会获得战斗属性加成。</OE_AuraBattleCommander.description>
+<OE_AuraBattleCommander.label>Aura Module - Battle Commander</OE_AuraBattleCommander.label>
+<OE_AuraBattleCommander.description>This person is using a Aura Module - Battle Commander. Everyone within an effect radius gains combat stats bonuses.</OE_AuraBattleCommander.description>
 
-<OE_AuraBattleCommanderBuff.label>光环模块 - 战斗指挥官</OE_AuraBattleCommanderBuff.label>
-<OE_AuraBattleCommanderBuff.description>附近有人正在使用光环模块 - 战斗指挥官，提升此人的战斗属性加成。</OE_AuraBattleCommanderBuff.description>
+<OE_AuraBattleCommanderBuff.label>Aura Module - Battle Commander</OE_AuraBattleCommanderBuff.label>
+<OE_AuraBattleCommanderBuff.description>Someone is using the Aura Module - Battle Commander nearby, boosting this person's combat stats bonuses.</OE_AuraBattleCommanderBuff.description>
 
 <!--=============== Guard Commander ====================-->
-<OE_AuraGuardCommander.label>光环模块 - 卫戍指挥官</OE_AuraGuardCommander.label>
-<OE_AuraGuardCommander.description>此人正在使用光环模块 - 卫戍指挥官。效果半径内的每个人都会获得防御属性加成。</OE_AuraGuardCommander.description>
+<OE_AuraGuardCommander.label>Aura Module - Guard Commander</OE_AuraGuardCommander.label>
+<OE_AuraGuardCommander.description>This person is using a Aura Module - Guard Commander. Everyone within an effect radius gains defensive stats bonuses.</OE_AuraGuardCommander.description>
 
-<OE_AuraGuardCommanderBuff.label>光环模块 - 卫戍指挥官</OE_AuraGuardCommanderBuff.label>
-<OE_AuraGuardCommanderBuff.description>附近有人正在使用光环模块 - 卫戍指挥官，提升此人的防御属性加成。</OE_AuraGuardCommanderBuff.description>
+<OE_AuraGuardCommanderBuff.label>Aura Module - Guard Commander</OE_AuraGuardCommanderBuff.label>
+<OE_AuraGuardCommanderBuff.description>Someone is using the Aura Module - Guard Commander nearby, boosting this person's defensive stats bonuses.</OE_AuraGuardCommanderBuff.description>
 
 <!--=============== Psy Lord ====================-->
-<OE_AuraPsyLord.label>光环模块 - 心灵领主</OE_AuraPsyLord.label>
-<OE_AuraPsyLord.description>此人正在使用光环模块 - 心灵领主。效果半径内的每个人都会获得心灵属性加成。</OE_AuraPsyLord.description>
+<OE_AuraPsyLord.label>Aura Module - Psy Lord</OE_AuraPsyLord.label>
+<OE_AuraPsyLord.description>This person is using a Aura Module - Psy Lord. Everyone within an effect radius gains psy stats bonuses.</OE_AuraPsyLord.description>
 
-<OE_AuraPsyLordBuff.label>光环模块 - 心灵领主</OE_AuraPsyLordBuff.label>
-<OE_AuraPsyLordBuff.description>附近有人正在使用光环模块 - 战斗指挥官，提升此人心灵属性加成。</OE_AuraPsyLordBuff.description>
+<OE_AuraPsyLordBuff.label>Aura Module - Psy Lord</OE_AuraPsyLordBuff.label>
+<OE_AuraPsyLordBuff.description>Someone is using the Aura Module - Battle Commander nearby, boosting this person's psy stats bonuses.</OE_AuraPsyLordBuff.description>
 
 <!--=============== OE - Heroic Aura Modules ====================-->
 <!--=============== Heroic Brigadier ====================-->
-<OE_HeroicAuraBrigadier.label>英雄光环模块 - 准将</OE_HeroicAuraBrigadier.label>
-<OE_HeroicAuraBrigadier.description>此人正在使用英雄光环模块 - 准将。效果半径内的每个人都会获得工作属性加成。</OE_HeroicAuraBrigadier.description>
+<OE_HeroicAuraBrigadier.label>Heroic Aura Module - Brigadier</OE_HeroicAuraBrigadier.label>
+<OE_HeroicAuraBrigadier.description>This person is using a Heroic Aura Module - Brigadier. Everyone within an effect radius gains working stats bonuses.</OE_HeroicAuraBrigadier.description>
 
-<OE_HeroicAuraBrigadierBuff.label>英雄光环模块 - 准将</OE_HeroicAuraBrigadierBuff.label>
-<OE_HeroicAuraBrigadierBuff.description>附近有人正在使用英雄光环模块 - 准将，提升此人的工作属性加成。</OE_HeroicAuraBrigadierBuff.description>
+<OE_HeroicAuraBrigadierBuff.label>Heroic Aura Module - Brigadier</OE_HeroicAuraBrigadierBuff.label>
+<OE_HeroicAuraBrigadierBuff.description>Someone is using the Heroic Aura Module - Brigadier nearby, boosting this person's working stats bonuses.</OE_HeroicAuraBrigadierBuff.description>
 
 <!--=============== Heroic Battle Commander ====================-->
-<OE_HeroicAuraBattleCommander.label>英雄光环模块 - 战斗指挥官</OE_HeroicAuraBattleCommander.label>
-<OE_HeroicAuraBattleCommander.description>此人正在使用英雄光环模块 - 战斗指挥官。效果半径内的每个人都会获得战斗属性加成。</OE_HeroicAuraBattleCommander.description>
+<OE_HeroicAuraBattleCommander.label>Heroic Aura Module - Battle Commander</OE_HeroicAuraBattleCommander.label>
+<OE_HeroicAuraBattleCommander.description>This person is using a Heroic Aura Module - Battle Commander. Everyone within an effect radius gains combat stats bonuses.</OE_HeroicAuraBattleCommander.description>
 
-<OE_HeroicAuraBattleCommanderBuff.label>英雄光环模块 - 战斗指挥官</OE_HeroicAuraBattleCommanderBuff.label>
-<OE_HeroicAuraBattleCommanderBuff.description>附近有人正在使用英雄光环模块 - 战斗指挥官，提升此人的战斗属性加成。</OE_HeroicAuraBattleCommanderBuff.description>
+<OE_HeroicAuraBattleCommanderBuff.label>Heroic Aura Module - Battle Commander</OE_HeroicAuraBattleCommanderBuff.label>
+<OE_HeroicAuraBattleCommanderBuff.description>Someone is using the Heroic Aura Module - Battle Commander nearby, boosting this person's combat stats bonuses.</OE_HeroicAuraBattleCommanderBuff.description>
 
 <!--=============== Heroic Guard Commander ====================-->
-<OE_HeroicAuraGuardCommander.label>英雄光环模块 - 卫戍指挥官</OE_HeroicAuraGuardCommander.label>
-<OE_HeroicAuraGuardCommander.description>此人正在使用英雄光环模块 - 卫戍指挥官。效果半径内的每个人都会获得防御属性加成。</OE_HeroicAuraGuardCommander.description>
+<OE_HeroicAuraGuardCommander.label>Heroic Aura Module - Guard Commander</OE_HeroicAuraGuardCommander.label>
+<OE_HeroicAuraGuardCommander.description>This person is using a Heroic Aura Module - Guard Commander. Everyone within an effect radius gains defensive stats bonuses.</OE_HeroicAuraGuardCommander.description>
 
-<OE_HeroicAuraGuardCommanderBuff.label>英雄光环模块 - 卫戍指挥官</OE_HeroicAuraGuardCommanderBuff.label>
-<OE_HeroicAuraGuardCommanderBuff.description>附近有人正在使用英雄光环模块 - 卫戍指挥官，提升此人的防御属性加成。</OE_HeroicAuraGuardCommanderBuff.description>
+<OE_HeroicAuraGuardCommanderBuff.label>Heroic Aura Module - Guard Commander</OE_HeroicAuraGuardCommanderBuff.label>
+<OE_HeroicAuraGuardCommanderBuff.description>Someone is using the Heroic Aura Module - Guard Commander nearby, boosting this person's defensive stats bonuses.</OE_HeroicAuraGuardCommanderBuff.description>
 
 <!--=============== Heroic Psy Lord ====================-->
-<OE_HeroicAuraPsyLord.label>英雄光环模块 - 心灵领主</OE_HeroicAuraPsyLord.label>
-<OE_HeroicAuraPsyLord.description>此人正在使用英雄光环模块 - 心灵领主。效果半径内的每个人都会获得心灵属性加成。</OE_HeroicAuraPsyLord.description>
+<OE_HeroicAuraPsyLord.label>Heroic Aura Module - Psy Lord</OE_HeroicAuraPsyLord.label>
+<OE_HeroicAuraPsyLord.description>This person is using a Heroic Aura Module - Psy Lord. Everyone within an effect radius gains psy stats bonuses.</OE_HeroicAuraPsyLord.description>
 
-<OE_HeroicAuraPsyLordBuff.label>英雄光环模块 - 心灵领主</OE_HeroicAuraPsyLordBuff.label>
-<OE_HeroicAuraPsyLordBuff.description>附近有人正在使用英雄光环模块 - 心灵领主，提升此人心灵属性加成。</OE_HeroicAuraPsyLordBuff.description>
+<OE_HeroicAuraPsyLordBuff.label>Heroic Aura Module - Psy Lord</OE_HeroicAuraPsyLordBuff.label>
+<OE_HeroicAuraPsyLordBuff.description>Someone is using the Heroic Aura Module - Psy Lord nearby, boosting this person's psy stats bonuses.</OE_HeroicAuraPsyLordBuff.description>
 
 </LanguageData>

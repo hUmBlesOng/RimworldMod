@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== 儿童头盔 ====================-->
+<OE_Helmet_Kid.label>黑曜石儿童头盔</OE_Helmet_Kid.label>
+<OE_Helmet_Kid.description>轻型头盔，很好地保护所有者。专为黑曜石帝国儿童使用而设计。</OE_Helmet_Kid.description>
+
+<OE_Helmet_Kid_Spacer.label>黑曜石儿童头盔(太空狮鹫)</OE_Helmet_Kid_Spacer.label>
+<OE_Helmet_Kid_Spacer.description>轻型头盔，很好地保护所有者。专为黑曜石帝国儿童使用而设计。\n\n密封版本设计用于在太空中保持佩戴者的生命。</OE_Helmet_Kid_Spacer.description>
+
+<!--=============== 儿童装甲 ====================-->
+<OE_Armor_Kid.label>黑曜石儿童装甲</OE_Armor_Kid.label>
+<OE_Armor_Kid.description>轻型装甲，很好地保护所有者，行动限制很少。专为黑曜石帝国儿童使用而设计。</OE_Armor_Kid.description>
+
+<OE_Armor_Kid_Spacer.label>黑曜石儿童装甲(太空狮鹫)</OE_Armor_Kid_Spacer.label>
+<OE_Armor_Kid_Spacer.description>轻型装甲，很好地保护所有者，行动限制很少。专为黑曜石帝国儿童使用而设计。\n\n密封版本设计用于在太空中保持佩戴者的生命。</OE_Armor_Kid_Spacer.description>
+
+<!--=============== 头盔 ====================-->
+<OE_Helmet_Proto.label>黑曜石原型头盔</OE_Helmet_Proto.label>
+<OE_Helmet_Proto.description>原型动力装甲头盔，完美地保护所有者。专为几百年前黑曜石帝国战士使用而设计。</OE_Helmet_Proto.description>
+
+<!--=============== 装甲 ====================-->
+<OE_Armor_Proto.label>黑曜石原型装甲</OE_Armor_Proto.label>
+<OE_Armor_Proto.description>原型动力装甲，完美地保护所有者。专为几百年前黑曜石帝国战士使用而设计。</OE_Armor_Proto.description>
+
+</LanguageData>

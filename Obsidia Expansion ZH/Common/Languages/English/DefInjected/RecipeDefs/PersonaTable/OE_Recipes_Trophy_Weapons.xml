@@ -2,57 +2,57 @@
 
 <LanguageData>
 <!--=============== Shovel ====================-->
-<OE_Bond_OE_Trophy_Shovel.label>人格绑定劳埃德的铲子</OE_Bond_OE_Trophy_Shovel.label>
-<OE_Bond_OE_Trophy_Shovel.description>人格绑定劳埃德的铲子。</OE_Bond_OE_Trophy_Shovel.description>
-<OE_Bond_OE_Trophy_Shovel.jobString>正在人格绑定劳埃德的铲子。</OE_Bond_OE_Trophy_Shovel.jobString>
+<OE_Bond_OE_Trophy_Shovel.label>Persona bond Lloyd's Shovel</OE_Bond_OE_Trophy_Shovel.label>
+<OE_Bond_OE_Trophy_Shovel.description>Persona bond a Lloyd's Shovel.</OE_Bond_OE_Trophy_Shovel.description>
+<OE_Bond_OE_Trophy_Shovel.jobString>Persona bonding a Lloyd's Shovel.</OE_Bond_OE_Trophy_Shovel.jobString>
 
-<OE_Reset_OE_Trophy_Shovel_P.label>重置人格劳埃德的铲子</OE_Reset_OE_Trophy_Shovel_P.label>
-<OE_Reset_OE_Trophy_Shovel_P.description>重置人格劳埃德的铲子。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OE_Trophy_Shovel_P.description>
-<OE_Reset_OE_Trophy_Shovel_P.jobString>正在重置人格劳埃德的铲子。</OE_Reset_OE_Trophy_Shovel_P.jobString>
+<OE_Reset_OE_Trophy_Shovel_P.label>Reset Persona Lloyd's Shovel</OE_Reset_OE_Trophy_Shovel_P.label>
+<OE_Reset_OE_Trophy_Shovel_P.description>Reset a Persona Lloyd's Shovel.\n\nWarning! Item Quality and Persona traits will be changed.</OE_Reset_OE_Trophy_Shovel_P.description>
+<OE_Reset_OE_Trophy_Shovel_P.jobString>Resetting a Persona Lloyd's Shovel.</OE_Reset_OE_Trophy_Shovel_P.jobString>
 
 <!--=============== Broken Sword ====================-->
-<OE_Bond_OE_Trophy_BrokenSword.label>人格绑定黑王子剑</OE_Bond_OE_Trophy_BrokenSword.label>
-<OE_Bond_OE_Trophy_BrokenSword.description>人格绑定黑王子剑。</OE_Bond_OE_Trophy_BrokenSword.description>
-<OE_Bond_OE_Trophy_BrokenSword.jobString>正在人格绑定黑王子剑。</OE_Bond_OE_Trophy_BrokenSword.jobString>
+<OE_Bond_OE_Trophy_BrokenSword.label>Persona bond Black Prince Sword</OE_Bond_OE_Trophy_BrokenSword.label>
+<OE_Bond_OE_Trophy_BrokenSword.description>Persona bond a Black Prince Sword.</OE_Bond_OE_Trophy_BrokenSword.description>
+<OE_Bond_OE_Trophy_BrokenSword.jobString>Persona bonding a Black Prince Sword.</OE_Bond_OE_Trophy_BrokenSword.jobString>
 
-<OE_Reset_OE_Trophy_BrokenSword_P.label>重置人格黑王子剑</OE_Reset_OE_Trophy_BrokenSword_P.label>
-<OE_Reset_OE_Trophy_BrokenSword_P.description>重置人格黑王子剑。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OE_Trophy_BrokenSword_P.description>
-<OE_Reset_OE_Trophy_BrokenSword_P.jobString>正在重置人格黑王子剑。</OE_Reset_OE_Trophy_BrokenSword_P.jobString>
+<OE_Reset_OE_Trophy_BrokenSword_P.label>Reset Persona Black Prince Sword</OE_Reset_OE_Trophy_BrokenSword_P.label>
+<OE_Reset_OE_Trophy_BrokenSword_P.description>Reset a Persona Black Prince Sword.\n\nWarning! Item Quality and Persona traits will be changed.</OE_Reset_OE_Trophy_BrokenSword_P.description>
+<OE_Reset_OE_Trophy_BrokenSword_P.jobString>Resetting a Persona Black Prince Sword.</OE_Reset_OE_Trophy_BrokenSword_P.jobString>
 
 <!--=============== Mech Hammer ====================-->
-<OE_Bond_OE_Trophy_MechHammer.label>人格绑定锻造风暴锤</OE_Bond_OE_Trophy_MechHammer.label>
-<OE_Bond_OE_Trophy_MechHammer.description>人格绑定锻造风暴锤。</OE_Bond_OE_Trophy_MechHammer.description>
-<OE_Bond_OE_Trophy_MechHammer.jobString>正在人格绑定锻造风暴锤。</OE_Bond_OE_Trophy_MechHammer.jobString>
+<OE_Bond_OE_Trophy_MechHammer.label>Persona bond Forgestorm</OE_Bond_OE_Trophy_MechHammer.label>
+<OE_Bond_OE_Trophy_MechHammer.description>Persona bond a Forgestorm.</OE_Bond_OE_Trophy_MechHammer.description>
+<OE_Bond_OE_Trophy_MechHammer.jobString>Persona bonding a Forgestorm.</OE_Bond_OE_Trophy_MechHammer.jobString>
 
-<OE_Reset_OE_Trophy_MechHammer_P.label>重置人格锻造风暴锤</OE_Reset_OE_Trophy_MechHammer_P.label>
-<OE_Reset_OE_Trophy_MechHammer_P.description>重置人格锻造风暴锤。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OE_Trophy_MechHammer_P.description>
-<OE_Reset_OE_Trophy_MechHammer_P.jobString>正在重置人格锻造风暴锤。</OE_Reset_OE_Trophy_MechHammer_P.jobString>
+<OE_Reset_OE_Trophy_MechHammer_P.label>Reset Persona Forgestorm</OE_Reset_OE_Trophy_MechHammer_P.label>
+<OE_Reset_OE_Trophy_MechHammer_P.description>Reset a Persona Forgestorm.\n\nWarning! Item Quality and Persona traits will be changed.</OE_Reset_OE_Trophy_MechHammer_P.description>
+<OE_Reset_OE_Trophy_MechHammer_P.jobString>Resetting a Persona Forgestorm.</OE_Reset_OE_Trophy_MechHammer_P.jobString>
 
 <!--=============== Repair Pistol ====================-->
-<OE_Bond_OE_Trophy_RepairPistol.label>巅峰绑定原型sX-02a</OE_Bond_OE_Trophy_RepairPistol.label>
-<OE_Bond_OE_Trophy_RepairPistol.description>巅峰绑定原型sX-02a。</OE_Bond_OE_Trophy_RepairPistol.description>
-<OE_Bond_OE_Trophy_RepairPistol.jobString>正在巅峰绑定原型sX-02a。</OE_Bond_OE_Trophy_RepairPistol.jobString>
+<OE_Bond_OE_Trophy_RepairPistol.label>Paragon bond Prototype sX-02a</OE_Bond_OE_Trophy_RepairPistol.label>
+<OE_Bond_OE_Trophy_RepairPistol.description>Paragon bond a Prototype sX-02a.</OE_Bond_OE_Trophy_RepairPistol.description>
+<OE_Bond_OE_Trophy_RepairPistol.jobString>Paragon bonding a Prototype sX-02a.</OE_Bond_OE_Trophy_RepairPistol.jobString>
 
-<OE_Reset_OE_Trophy_RepairPistol_P.label>重置巅峰原型sX-02a</OE_Reset_OE_Trophy_RepairPistol_P.label>
-<OE_Reset_OE_Trophy_RepairPistol_P.description>重置巅峰原型sX-02a。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OE_Trophy_RepairPistol_P.description>
-<OE_Reset_OE_Trophy_RepairPistol_P.jobString>正在重置巅峰原型sX-02a。</OE_Reset_OE_Trophy_RepairPistol_P.jobString>
+<OE_Reset_OE_Trophy_RepairPistol_P.label>Reset Paragon Prototype sX-02a</OE_Reset_OE_Trophy_RepairPistol_P.label>
+<OE_Reset_OE_Trophy_RepairPistol_P.description>Reset a Paragon Prototype sX-02a.\n\nWarning! Item Quality and Paragon traits will be changed.</OE_Reset_OE_Trophy_RepairPistol_P.description>
+<OE_Reset_OE_Trophy_RepairPistol_P.jobString>Resetting a Paragon Prototype sX-02a.</OE_Reset_OE_Trophy_RepairPistol_P.jobString>
 
 <!--=============== Unstable Gun ====================-->
-<OE_Bond_OE_Trophy_UnstableGun.label>巅峰绑定泰坦之击</OE_Bond_OE_Trophy_UnstableGun.label>
-<OE_Bond_OE_Trophy_UnstableGun.description>巅峰绑定泰坦之击。</OE_Bond_OE_Trophy_UnstableGun.description>
-<OE_Bond_OE_Trophy_UnstableGun.jobString>正在巅峰绑定泰坦之击。</OE_Bond_OE_Trophy_UnstableGun.jobString>
+<OE_Bond_OE_Trophy_UnstableGun.label>Paragon bond Titanstrike</OE_Bond_OE_Trophy_UnstableGun.label>
+<OE_Bond_OE_Trophy_UnstableGun.description>Paragon bond a Titanstrike.</OE_Bond_OE_Trophy_UnstableGun.description>
+<OE_Bond_OE_Trophy_UnstableGun.jobString>Paragon bonding a Titanstrike.</OE_Bond_OE_Trophy_UnstableGun.jobString>
 
-<OE_Reset_OE_Trophy_UnstableGun_P.label>重置巅峰泰坦之击</OE_Reset_OE_Trophy_UnstableGun_P.label>
-<OE_Reset_OE_Trophy_UnstableGun_P.description>重置巅峰泰坦之击。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OE_Trophy_UnstableGun_P.description>
-<OE_Reset_OE_Trophy_UnstableGun_P.jobString>正在重置巅峰泰坦之击。</OE_Reset_OE_Trophy_UnstableGun_P.jobString>
+<OE_Reset_OE_Trophy_UnstableGun_P.label>Reset Paragon Titanstrike</OE_Reset_OE_Trophy_UnstableGun_P.label>
+<OE_Reset_OE_Trophy_UnstableGun_P.description>Reset a Paragon Titanstrike.\n\nWarning! Item Quality and Paragon traits will be changed.</OE_Reset_OE_Trophy_UnstableGun_P.description>
+<OE_Reset_OE_Trophy_UnstableGun_P.jobString>Resetting a Paragon Titanstrike.</OE_Reset_OE_Trophy_UnstableGun_P.jobString>
 
 <!--=============== Sample Collector ====================-->
-<OE_Bond_OE_Trophy_SampleCollector.label>巅峰绑定阿西索吉·吉藏</OE_Bond_OE_Trophy_SampleCollector.label>
-<OE_Bond_OE_Trophy_SampleCollector.description>巅峰绑定阿西索吉·吉藏。</OE_Bond_OE_Trophy_SampleCollector.description>
-<OE_Bond_OE_Trophy_SampleCollector.jobString>正在巅峰绑定阿西索吉·吉藏。</OE_Bond_OE_Trophy_SampleCollector.jobString>
+<OE_Bond_OE_Trophy_SampleCollector.label>Paragon bond Ashisogi Jizō</OE_Bond_OE_Trophy_SampleCollector.label>
+<OE_Bond_OE_Trophy_SampleCollector.description>Paragon bond an Ashisogi Jizō.</OE_Bond_OE_Trophy_SampleCollector.description>
+<OE_Bond_OE_Trophy_SampleCollector.jobString>Paragon bonding an Ashisogi Jizō.</OE_Bond_OE_Trophy_SampleCollector.jobString>
 
-<OE_Reset_OE_Trophy_SampleCollector_P.label>重置巅峰阿西索吉·吉藏</OE_Reset_OE_Trophy_SampleCollector_P.label>
-<OE_Reset_OE_Trophy_SampleCollector_P.description>重置巅峰阿西索吉·吉藏。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OE_Trophy_SampleCollector_P.description>
-<OE_Reset_OE_Trophy_SampleCollector_P.jobString>正在重置巅峰阿西索吉·吉藏。</OE_Reset_OE_Trophy_SampleCollector_P.jobString>
+<OE_Reset_OE_Trophy_SampleCollector_P.label>Reset Paragon Ashisogi Jizō</OE_Reset_OE_Trophy_SampleCollector_P.label>
+<OE_Reset_OE_Trophy_SampleCollector_P.description>Reset an Paragon Ashisogi Jizō.\n\nWarning! Item Quality and Paragon traits will be changed.</OE_Reset_OE_Trophy_SampleCollector_P.description>
+<OE_Reset_OE_Trophy_SampleCollector_P.jobString>Resetting an Paragon Ashisogi Jizō.</OE_Reset_OE_Trophy_SampleCollector_P.jobString>
 
 </LanguageData>

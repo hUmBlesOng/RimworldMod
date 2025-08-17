@@ -1,40 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
-<!--=============== 酸性感染虫 ====================-->
-<OE_Infestor_Acid.label>酸性感染虫</OE_Infestor_Acid.label>
-<OE_Infestor_Acid.description>黑曜石感染虫是一种基因工程的中等大小昆虫类生物。专为远程战斗而设计。然而，它在近战中非常缓慢和脆弱。\n\n这个标本分泌酸性胆汁进行喷吐。</OE_Infestor_Acid.description>
-<OE_Infestor_Acid.tools.head_claw.label>头爪</OE_Infestor_Acid.tools.head_claw.label>
-<OE_Infestor_Acid.tools.head.label>头部</OE_Infestor_Acid.tools.head.label>
-<OE_Infestor_Acid.verbs.acid_spit.label>酸性喷吐</OE_Infestor_Acid.verbs.acid_spit.label>
-<Bullet_Infestor_Acid.label>酸性感染虫喷吐</Bullet_Infestor_Acid.label>
+<!--=============== Acid Infestor ====================-->
+<OE_Infestor_Acid.label>acid infestor</OE_Infestor_Acid.label>
+<OE_Infestor_Acid.description>Obsidia infestor is a genetically-engineered medium-sized insectoid. Designed for long-range combat. It is, however, very slow and weak in close combat.\n\nThis specimen secrete Acid bile for spitting.</OE_Infestor_Acid.description>
+<OE_Infestor_Acid.tools.head_claw.label>head claw</OE_Infestor_Acid.tools.head_claw.label>
+<OE_Infestor_Acid.tools.head.label>head</OE_Infestor_Acid.tools.head.label>
+<OE_Infestor_Acid.verbs.acid_spit.label>acid spit</OE_Infestor_Acid.verbs.acid_spit.label>
+<Bullet_Infestor_Acid.label>acid infestor spit</Bullet_Infestor_Acid.label>
 
-<!--=============== 火焰感染虫 ====================-->
-<OE_Infestor_Fire.label>火焰感染虫</OE_Infestor_Fire.label>
-<OE_Infestor_Fire.description>黑曜石感染虫是一种基因工程的中等大小昆虫类生物。专为远程战斗而设计。然而，它在近战中非常缓慢和脆弱。\n\n这个标本分泌火焰胆汁进行喷吐。</OE_Infestor_Fire.description>
-<OE_Infestor_Fire.tools.head_claw.label>头爪</OE_Infestor_Fire.tools.head_claw.label>
-<OE_Infestor_Fire.tools.head.label>头部</OE_Infestor_Fire.tools.head.label>
-<OE_Infestor_Fire.verbs.fire_spit.label>火焰喷吐</OE_Infestor_Fire.verbs.fire_spit.label>
-<Bullet_Infestor_Fire.label>火焰感染虫喷吐</Bullet_Infestor_Fire.label>
+<!--=============== Fire Infestor ====================-->
+<OE_Infestor_Fire.label>fire infestor</OE_Infestor_Fire.label>
+<OE_Infestor_Fire.description>Obsidia infestor is a genetically-engineered medium-sized insectoid. Designed for long-range combat. It is, however, very slow and weak in close combat.\n\nThis specimen secrete Fire bile for spitting.</OE_Infestor_Fire.description>
+<OE_Infestor_Fire.tools.head_claw.label>head claw</OE_Infestor_Fire.tools.head_claw.label>
+<OE_Infestor_Fire.tools.head.label>head</OE_Infestor_Fire.tools.head.label>
+<OE_Infestor_Fire.verbs.fire_spit.label>fire spit</OE_Infestor_Fire.verbs.fire_spit.label>
+<Bullet_Infestor_Fire.label>fire infestor spit</Bullet_Infestor_Fire.label>
 
-<!--=============== 毒性感染虫 ====================-->
-<OE_Infestor_Tox.label>毒性感染虫</OE_Infestor_Tox.label>
-<OE_Infestor_Tox.description>黑曜石感染虫是一种基因工程的中等大小昆虫类生物。专为远程战斗而设计。然而，它在近战中非常缓慢和脆弱。\n\n这个标本分泌毒性胆汁进行喷吐。</OE_Infestor_Tox.description>
-<OE_Infestor_Tox.tools.head_claw.label>头爪</OE_Infestor_Tox.tools.head_claw.label>
-<OE_Infestor_Tox.tools.head.label>头部</OE_Infestor_Tox.tools.head.label>
-<OE_Infestor_Tox.verbs.tox_spit.label>毒性喷吐</OE_Infestor_Tox.verbs.tox_spit.label>
-<Bullet_Infestor_Tox.label>毒性感染虫喷吐</Bullet_Infestor_Tox.label>
+<!--=============== Tox Infestor ====================-->
+<OE_Infestor_Tox.label>tox infestor</OE_Infestor_Tox.label>
+<OE_Infestor_Tox.description>Obsidia infestor is a genetically-engineered medium-sized insectoid. Designed for long-range combat. It is, however, very slow and weak in close combat.\n\nThis specimen secrete Toxic bile for spitting.</OE_Infestor_Tox.description>
+<OE_Infestor_Tox.tools.head_claw.label>head claw</OE_Infestor_Tox.tools.head_claw.label>
+<OE_Infestor_Tox.tools.head.label>head</OE_Infestor_Tox.tools.head.label>
+<OE_Infestor_Tox.verbs.tox_spit.label>tox spit</OE_Infestor_Tox.verbs.tox_spit.label>
+<Bullet_Infestor_Tox.label>tox infestor spit</Bullet_Infestor_Tox.label>
 
-<!--=============== 腐化者变异虫 ====================-->
-<OE_Mutalisk_Corrupter.label>腐化者变异虫</OE_Mutalisk_Corrupter.label>
-<OE_Mutalisk_Corrupter.description>黑曜石变异虫是一种基因工程的巨型昆虫类生物。这不是战斗单位。设计为支援单位，发出削弱对手的光环。\n\n光环增加移动速度但减少护甲。</OE_Mutalisk_Corrupter.description>
-<OE_Mutalisk_Corrupter.tools.head_claw.label>头爪</OE_Mutalisk_Corrupter.tools.head_claw.label>
-<OE_Mutalisk_Corrupter.tools.head.label>头部</OE_Mutalisk_Corrupter.tools.head.label>
+<!--=============== Corrupter Mutalisk ====================-->
+<OE_Mutalisk_Corrupter.label>corrupter mutalisk</OE_Mutalisk_Corrupter.label>
+<OE_Mutalisk_Corrupter.description>Obsidia mutalisk is a genetically-engineered giant insectoid. This is not a combat unit. Designed as a support unit that emits an aura that weakens opponents.\n\nThe aura increases movement speed but reduces armor.</OE_Mutalisk_Corrupter.description>
+<OE_Mutalisk_Corrupter.tools.head_claw.label>head claw</OE_Mutalisk_Corrupter.tools.head_claw.label>
+<OE_Mutalisk_Corrupter.tools.head.label>head</OE_Mutalisk_Corrupter.tools.head.label>
 
-<!--=============== 心灵变异虫 ====================-->
-<OE_Mutalisk_Psy.label>心灵变异虫</OE_Mutalisk_Psy.label>
-<OE_Mutalisk_Psy.description>黑曜石变异虫是一种基因工程的巨型昆虫类生物。这不是战斗单位。设计为支援单位，发出削弱对手的光环。\n\n光环增加心灵敏感性但减少其余心灵潜能。</OE_Mutalisk_Psy.description>
-<OE_Mutalisk_Psy.tools.head_claw.label>头爪</OE_Mutalisk_Psy.tools.head_claw.label>
-<OE_Mutalisk_Psy.tools.head.label>头部</OE_Mutalisk_Psy.tools.head.label>
+<!--=============== Psy-Mutalisk ====================-->
+<OE_Mutalisk_Psy.label>psy-mutalisk</OE_Mutalisk_Psy.label>
+<OE_Mutalisk_Psy.description>Obsidia mutalisk is a genetically-engineered giant insectoid. This is not a combat unit. Designed as a support unit that emits an aura that weakens opponents.\n\nThe aura increases psy-sensitivity but reduces the rest of the psy potential.</OE_Mutalisk_Psy.description>
+<OE_Mutalisk_Psy.tools.head_claw.label>head claw</OE_Mutalisk_Psy.tools.head_claw.label>
+<OE_Mutalisk_Psy.tools.head.label>head</OE_Mutalisk_Psy.tools.head.label>
 
 </LanguageData>

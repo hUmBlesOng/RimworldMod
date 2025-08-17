@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+<!--=============== Obsidia Dialects ====================-->
+<!--=============== Standard ====================-->
+<OE_Obsidia_Standard.label>标准黑曜石方言</OE_Obsidia_Standard.label>
+<OE_Obsidia_Standard.description>在整个黑曜石帝国通用的语言主要形式。它代表了在黑曜石最后战争之后形成的稳定和规范化的黑曜石语言版本。其特点是结构正式、语法适应性强并强调清晰度，这种方言因其计算精确性和嵌入的文化权威而与许多银河语言不同。它用于治理、军事指挥和星际协调，体现了帝国的意识形态统一和纪律。</OE_Obsidia_Standard.description>
+
+<!--=============== Outerworld ====================-->
+<OE_Obsidia_Outerworld.label>外世界黑曜石方言</OE_Obsidia_Outerworld.label>
+<OE_Obsidia_Outerworld.description>原始语言的一种分歧变体，由时间、距离和外国环境的影响所塑造。由殖民者、游牧者、流亡者和帝国控制范围之外的雇佣兵所使用，它融合了借来的术语、改变的语音和简化的结构。虽然根植于标准黑曜石语，但这种方言反映了适应性、文化融合和那些选择远离帝国控制生活的人的独立性。它通常被认为不那么严格，更具表现力，并以地区创新为标志。</OE_Obsidia_Outerworld.description>
+
+<!--=============== Ancient ====================-->
+<OE_Obsidia_Ancient.label>古代黑曜石方言</OE_Obsidia_Ancient.label>
+<OE_Obsidia_Ancient.description>在黑曜石最后战争时期使用的原始、未改变的语言形式。它不受现代改革和简化的影响，保留了密集、多面的结构，融合了众多被吸收的文化、方言和意识形态的元素。丰富的仪式措辞、古老的语法和象征深度使其在语言上复杂且具有历史意义。经常在古代铭文、受限档案和军事遗迹中遇到，学者和神秘主义者 alike都研究它在塑造黑曜石意识形态基础中的作用。</OE_Obsidia_Ancient.description>
+
+</LanguageData>

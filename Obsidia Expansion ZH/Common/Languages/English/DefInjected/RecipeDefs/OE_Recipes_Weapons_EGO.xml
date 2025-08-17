@@ -2,68 +2,68 @@
 
 <LanguageData>
 <!--=============== EGO - Knife ====================-->
-<OE_Gestate_EGO_Knife.label>孕育淋巴囊</OE_Gestate_EGO_Knife.label>
-<OE_Gestate_EGO_Knife.description>孕育一个融合刀 - 淋巴囊。</OE_Gestate_EGO_Knife.description>
-<OE_Gestate_EGO_Knife.jobString>正在孕育淋巴囊。</OE_Gestate_EGO_Knife.jobString>
+<OE_Gestate_EGO_Knife.label>gestate Lymocyst</OE_Gestate_EGO_Knife.label>
+<OE_Gestate_EGO_Knife.description>Gestate an amalgam Knife - Lymocyst.</OE_Gestate_EGO_Knife.description>
+<OE_Gestate_EGO_Knife.jobString>Gestating a Lymocyst.</OE_Gestate_EGO_Knife.jobString>
 
 <!--=============== EGO - Claws ====================-->
-<OE_Gestate_EGO_Claws.label>孕育吞噬者</OE_Gestate_EGO_Claws.label>
-<OE_Gestate_EGO_Claws.description>孕育一个融合爪 - 吞噬者。</OE_Gestate_EGO_Claws.description>
-<OE_Gestate_EGO_Claws.jobString>正在孕育吞噬者。</OE_Gestate_EGO_Claws.jobString>
+<OE_Gestate_EGO_Claws.label>gestate Devourer</OE_Gestate_EGO_Claws.label>
+<OE_Gestate_EGO_Claws.description>Gestate an amalgam Claws - Devourer.</OE_Gestate_EGO_Claws.description>
+<OE_Gestate_EGO_Claws.jobString>Gestating a Devourer.</OE_Gestate_EGO_Claws.jobString>
 
 <!--=============== EGO - BigSword ====================-->
-<OE_Gestate_EGO_BigSword.label>孕育骨剑</OE_Gestate_EGO_BigSword.label>
-<OE_Gestate_EGO_BigSword.description>孕育一个融合长剑 - 骨剑。</OE_Gestate_EGO_BigSword.description>
-<OE_Gestate_EGO_BigSword.jobString>正在孕育骨剑。</OE_Gestate_EGO_BigSword.jobString>
+<OE_Gestate_EGO_BigSword.label>gestate Bonesword</OE_Gestate_EGO_BigSword.label>
+<OE_Gestate_EGO_BigSword.description>Gestate an amalgam Longsword - Bonesword.</OE_Gestate_EGO_BigSword.description>
+<OE_Gestate_EGO_BigSword.jobString>Gestating a Bonesword.</OE_Gestate_EGO_BigSword.jobString>
 
 <!--=============== EGO - BigHammer ====================-->
-<OE_Gestate_EGO_BigHammer.label>孕育击骨锤</OE_Gestate_EGO_BigHammer.label>
-<OE_Gestate_EGO_BigHammer.description>孕育一个融合大锤 - 击骨锤。</OE_Gestate_EGO_BigHammer.description>
-<OE_Gestate_EGO_BigHammer.jobString>正在孕育击骨锤。</OE_Gestate_EGO_BigHammer.jobString>
+<OE_Gestate_EGO_BigHammer.label>gestate Batterbone</OE_Gestate_EGO_BigHammer.label>
+<OE_Gestate_EGO_BigHammer.description>Gestate an amalgam Big Hammer - Batterbone.</OE_Gestate_EGO_BigHammer.description>
+<OE_Gestate_EGO_BigHammer.jobString>Gestating a Batterbone.</OE_Gestate_EGO_BigHammer.jobString>
 
 <!--=============== EGO - BigScythe ====================-->
-<OE_Gestate_EGO_BigScythe.label>孕育击骨镰</OE_Gestate_EGO_BigScythe.label>
-<OE_Gestate_EGO_BigScythe.description>孕育一个融合大镰刀 - 击骨镰。</OE_Gestate_EGO_BigScythe.description>
-<OE_Gestate_EGO_BigScythe.jobString>正在孕育击骨镰。</OE_Gestate_EGO_BigScythe.jobString>
+<OE_Gestate_EGO_BigScythe.label>gestate Batterskull</OE_Gestate_EGO_BigScythe.label>
+<OE_Gestate_EGO_BigScythe.description>Gestate an amalgam Big Scythe - Batterskull.</OE_Gestate_EGO_BigScythe.description>
+<OE_Gestate_EGO_BigScythe.jobString>Gestating a Batterskull.</OE_Gestate_EGO_BigScythe.jobString>
 
 <!--=============== EGO - Scepter ====================-->
-<OE_Gestate_EGO_Scepter.label>孕育血肉收割者</OE_Gestate_EGO_Scepter.label>
-<OE_Gestate_EGO_Scepter.description>孕育一个融合权杖 - 血肉收割者。</OE_Gestate_EGO_Scepter.description>
-<OE_Gestate_EGO_Scepter.jobString>正在孕育血肉收割者。</OE_Gestate_EGO_Scepter.jobString>
+<OE_Gestate_EGO_Scepter.label>gestate Carnifex</OE_Gestate_EGO_Scepter.label>
+<OE_Gestate_EGO_Scepter.description>Gestate an amalgam Scepter - Carnifex.</OE_Gestate_EGO_Scepter.description>
+<OE_Gestate_EGO_Scepter.jobString>Gestating a Carnifex.</OE_Gestate_EGO_Scepter.jobString>
 
 <!--=============== EGO - Whip ====================-->
-<OE_Gestate_EGO_Whip.label>孕育吻部</OE_Gestate_EGO_Whip.label>
-<OE_Gestate_EGO_Whip.description>孕育一个融合鞭子 - 吻部。</OE_Gestate_EGO_Whip.description>
-<OE_Gestate_EGO_Whip.jobString>正在孕育吻部。</OE_Gestate_EGO_Whip.jobString>
+<OE_Gestate_EGO_Whip.label>gestate Proboscis</OE_Gestate_EGO_Whip.label>
+<OE_Gestate_EGO_Whip.description>Gestate an amalgam Whip - Proboscis.</OE_Gestate_EGO_Whip.description>
+<OE_Gestate_EGO_Whip.jobString>Gestating a Proboscis.</OE_Gestate_EGO_Whip.jobString>
 
 <!--=============== EGO - Pistol ====================-->
-<OE_Gestate_EGO_Pistol.label>孕育小恶魔</OE_Gestate_EGO_Pistol.label>
-<OE_Gestate_EGO_Pistol.description>孕育一个融合手枪 - 小恶魔。</OE_Gestate_EGO_Pistol.description>
-<OE_Gestate_EGO_Pistol.jobString>正在孕育小恶魔。</OE_Gestate_EGO_Pistol.jobString>
+<OE_Gestate_EGO_Pistol.label>gestate Humunculus</OE_Gestate_EGO_Pistol.label>
+<OE_Gestate_EGO_Pistol.description>Gestate an amalgam Pistol - Humunculus.</OE_Gestate_EGO_Pistol.description>
+<OE_Gestate_EGO_Pistol.jobString>Gestating a Humunculus.</OE_Gestate_EGO_Pistol.jobString>
 
 <!--=============== EGO - Shotgun ====================-->
-<OE_Gestate_EGO_Shotgun.label>孕育腐化者</OE_Gestate_EGO_Shotgun.label>
-<OE_Gestate_EGO_Shotgun.description>孕育一个融合霰弹枪 - 腐化者。</OE_Gestate_EGO_Shotgun.description>
-<OE_Gestate_EGO_Shotgun.jobString>正在孕育腐化者。</OE_Gestate_EGO_Shotgun.jobString>
+<OE_Gestate_EGO_Shotgun.label>gestate Corrupter</OE_Gestate_EGO_Shotgun.label>
+<OE_Gestate_EGO_Shotgun.description>Gestate an amalgam Shotgun - Corrupter.</OE_Gestate_EGO_Shotgun.description>
+<OE_Gestate_EGO_Shotgun.jobString>Gestating a Corrupter.</OE_Gestate_EGO_Shotgun.jobString>
 
 <!--=============== EGO - SMG ====================-->
-<OE_Gestate_EGO_SMG.label>孕育毒素囊</OE_Gestate_EGO_SMG.label>
-<OE_Gestate_EGO_SMG.description>孕育一个融合冲锋枪 - 毒素囊。</OE_Gestate_EGO_SMG.description>
-<OE_Gestate_EGO_SMG.jobString>正在孕育毒素囊。</OE_Gestate_EGO_SMG.jobString>
+<OE_Gestate_EGO_SMG.label>gestate Toxocyst</OE_Gestate_EGO_SMG.label>
+<OE_Gestate_EGO_SMG.description>Gestate an amalgam SMG - Toxocyst.</OE_Gestate_EGO_SMG.description>
+<OE_Gestate_EGO_SMG.jobString>Gestating a Toxocyst.</OE_Gestate_EGO_SMG.jobString>
 
 <!--=============== EGO - SniperRifle ====================-->
-<OE_Gestate_EGO_SniperRifle.label>孕育翼状体</OE_Gestate_EGO_SniperRifle.label>
-<OE_Gestate_EGO_SniperRifle.description>孕育一个融合狙击步枪 - 翼状体。</OE_Gestate_EGO_SniperRifle.description>
-<OE_Gestate_EGO_SniperRifle.jobString>正在孕育翼状体。</OE_Gestate_EGO_SniperRifle.jobString>
+<OE_Gestate_EGO_SniperRifle.label>gestate Patagius</OE_Gestate_EGO_SniperRifle.label>
+<OE_Gestate_EGO_SniperRifle.description>Gestate an amalgam Sniper Rifle - Patagius.</OE_Gestate_EGO_SniperRifle.description>
+<OE_Gestate_EGO_SniperRifle.jobString>Gestating a Patagius.</OE_Gestate_EGO_SniperRifle.jobString>
 
 <!--=============== EGO - GrenadeLauncher ====================-->
-<OE_Gestate_EGO_GrenadeLauncher.label>孕育孢子丝</OE_Gestate_EGO_GrenadeLauncher.label>
-<OE_Gestate_EGO_GrenadeLauncher.description>孕育一个融合榴弹发射器 - 孢子丝。</OE_Gestate_EGO_GrenadeLauncher.description>
-<OE_Gestate_EGO_GrenadeLauncher.jobString>正在孕育孢子丝。</OE_Gestate_EGO_GrenadeLauncher.jobString>
+<OE_Gestate_EGO_GrenadeLauncher.label>gestate Sporothrix</OE_Gestate_EGO_GrenadeLauncher.label>
+<OE_Gestate_EGO_GrenadeLauncher.description>Gestate an amalgam Grenade Launcher - Sporothrix.</OE_Gestate_EGO_GrenadeLauncher.description>
+<OE_Gestate_EGO_GrenadeLauncher.jobString>Gestating a Sporothrix.</OE_Gestate_EGO_GrenadeLauncher.jobString>
 
 <!--=============== EGO - RocketLauncher ====================-->
-<OE_Gestate_EGO_RocketLauncher.label>孕育溃疡</OE_Gestate_EGO_RocketLauncher.label>
-<OE_Gestate_EGO_RocketLauncher.description>孕育一个融合火箭发射器 - 溃疡。</OE_Gestate_EGO_RocketLauncher.description>
-<OE_Gestate_EGO_RocketLauncher.jobString>正在孕育溃疡。</OE_Gestate_EGO_RocketLauncher.jobString>
+<OE_Gestate_EGO_RocketLauncher.label>gestate Ulcerated</OE_Gestate_EGO_RocketLauncher.label>
+<OE_Gestate_EGO_RocketLauncher.description>Gestate an amalgam Rocket Launcher - Ulcerated.</OE_Gestate_EGO_RocketLauncher.description>
+<OE_Gestate_EGO_RocketLauncher.jobString>Gestating a Ulcerated.</OE_Gestate_EGO_RocketLauncher.jobString>
 
 </LanguageData>

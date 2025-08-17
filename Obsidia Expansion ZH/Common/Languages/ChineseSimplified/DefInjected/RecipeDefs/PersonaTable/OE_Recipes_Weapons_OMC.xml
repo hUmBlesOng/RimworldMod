@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== OMC ====================-->
+<!--=============== Sword ====================-->
+<OE_Reset_OMC_Sword_P.label>重置人格界限MK-II</OE_Reset_OMC_Sword_P.label>
+<OE_Reset_OMC_Sword_P.description>重置人格界限MK-II。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OMC_Sword_P.description>
+<OE_Reset_OMC_Sword_P.jobString>正在重置人格界限MK-II。</OE_Reset_OMC_Sword_P.jobString>
+
+<!--=============== Axe ====================-->
+<OE_Reset_OMC_Axe_P.label>重置人格狂怒MK-II</OE_Reset_OMC_Axe_P.label>
+<OE_Reset_OMC_Axe_P.description>重置人格狂怒MK-II。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OMC_Axe_P.description>
+<OE_Reset_OMC_Axe_P.jobString>正在重置人格狂怒MK-II。</OE_Reset_OMC_Axe_P.jobString>
+
+<!--=============== Whip ====================-->
+<OE_Reset_OMC_Whip_P.label>重置人格血溅MK-II</OE_Reset_OMC_Whip_P.label>
+<OE_Reset_OMC_Whip_P.description>重置人格血溅MK-II。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OMC_Whip_P.description>
+<OE_Reset_OMC_Whip_P.jobString>正在重置人格血溅MK-II。</OE_Reset_OMC_Whip_P.jobString>
+
+<!--=============== Elemental Whip ====================-->
+<!--=============== Acid ====================-->
+<OE_Reset_OMC_Whip_P_Acid.label>重置人格血溅MK-II(酸液)</OE_Reset_OMC_Whip_P_Acid.label>
+<OE_Reset_OMC_Whip_P_Acid.description>重置人格血溅MK-II(酸液)。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OMC_Whip_P_Acid.description>
+<OE_Reset_OMC_Whip_P_Acid.jobString>正在重置人格血溅MK-II(酸液)。</OE_Reset_OMC_Whip_P_Acid.jobString>
+<!--=============== Cryo ====================-->
+<OE_Reset_OMC_Whip_P_Cryo.label>重置人格血溅MK-II(冷冻)</OE_Reset_OMC_Whip_P_Cryo.label>
+<OE_Reset_OMC_Whip_P_Cryo.description>重置人格血溅MK-II(冷冻)。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OMC_Whip_P_Cryo.description>
+<OE_Reset_OMC_Whip_P_Cryo.jobString>正在重置人格血溅MK-II(冷冻)。</OE_Reset_OMC_Whip_P_Cryo.jobString>
+<!--=============== Fire ====================-->
+<OE_Reset_OMC_Whip_P_Fire.label>重置人格血溅MK-II(火焰)</OE_Reset_OMC_Whip_P_Fire.label>
+<OE_Reset_OMC_Whip_P_Fire.description>重置人格血溅MK-II(火焰)。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OMC_Whip_P_Fire.description>
+<OE_Reset_OMC_Whip_P_Fire.jobString>正在重置人格血溅MK-II(火焰)。</OE_Reset_OMC_Whip_P_Fire.jobString>
+<!--=============== EMP ====================-->
+<OE_Reset_OMC_Whip_P_EMP.label>重置人格血溅MK-II(电磁)</OE_Reset_OMC_Whip_P_EMP.label>
+<OE_Reset_OMC_Whip_P_EMP.description>重置人格血溅MK-II(电磁)。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OMC_Whip_P_EMP.description>
+<OE_Reset_OMC_Whip_P_EMP.jobString>正在重置人格血溅MK-II(电磁)。</OE_Reset_OMC_Whip_P_EMP.jobString>
+
+<!--=============== Pistol ====================-->
+<OE_Reset_OMC_Pistol_P.label>重置巅峰穿刺者MK-II</OE_Reset_OMC_Pistol_P.label>
+<OE_Reset_OMC_Pistol_P.description>重置巅峰穿刺者MK-II。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OMC_Pistol_P.description>
+<OE_Reset_OMC_Pistol_P.jobString>正在重置巅峰穿刺者MK-II。</OE_Reset_OMC_Pistol_P.jobString>
+
+<!--=============== Shotgun Sidearm ====================-->
+<OE_Reset_OMC_ShotgunS_P.label>重置巅峰地狱尖啸MK-II</OE_Reset_OMC_ShotgunS_P.label>
+<OE_Reset_OMC_ShotgunS_P.description>重置巅峰地狱尖啸MK-II。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OMC_ShotgunS_P.description>
+<OE_Reset_OMC_ShotgunS_P.jobString>正在重置巅峰地狱尖啸MK-II。</OE_Reset_OMC_ShotgunS_P.jobString>
+
+<!--=============== AssaultRifle ====================-->
+<OE_Reset_OMC_AR_P.label>重置巅峰打击者MK-II</OE_Reset_OMC_AR_P.label>
+<OE_Reset_OMC_AR_P.description>重置巅峰打击者MK-II。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OMC_AR_P.description>
+<OE_Reset_OMC_AR_P.jobString>正在重置巅峰打击者MK-II。</OE_Reset_OMC_AR_P.jobString>
+
+<!--=============== Shotgun ====================-->
+<OE_Reset_OMC_Shotgun_P.label>重置巅峰末日MK-II</OE_Reset_OMC_Shotgun_P.label>
+<OE_Reset_OMC_Shotgun_P.description>重置巅峰末日MK-II。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OMC_Shotgun_P.description>
+<OE_Reset_OMC_Shotgun_P.jobString>正在重置巅峰末日MK-II。</OE_Reset_OMC_Shotgun_P.jobString>
+
+<!--=============== SniperRifle ====================-->
+<OE_Reset_OMC_SniperRifle_P.label>重置巅峰碎颅者MK-II</OE_Reset_OMC_SniperRifle_P.label>
+<OE_Reset_OMC_SniperRifle_P.description>重置巅峰碎颅者MK-II。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OMC_SniperRifle_P.description>
+<OE_Reset_OMC_SniperRifle_P.jobString>正在重置巅峰碎颅者MK-II。</OE_Reset_OMC_SniperRifle_P.jobString>
+
+<!--=============== Cross ====================-->
+<!--=============== Rocket Launcher ====================-->
+<OE_Reset_OMC_RocketLauncher_P.label>重置巅峰巨人克星MK-II</OE_Reset_OMC_RocketLauncher_P.label>
+<OE_Reset_OMC_RocketLauncher_P.description>重置巅峰巨人克星MK-II。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OMC_RocketLauncher_P.description>
+<OE_Reset_OMC_RocketLauncher_P.jobString>正在重置巅峰巨人克星MK-II。</OE_Reset_OMC_RocketLauncher_P.jobString>
+
+<!--=============== Revolver ====================-->
+<OE_Reset_OMC_Revolver_P.label>重置巅峰无情MK-II</OE_Reset_OMC_Revolver_P.label>
+<OE_Reset_OMC_Revolver_P.description>重置巅峰无情MK-II。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OMC_Revolver_P.description>
+<OE_Reset_OMC_Revolver_P.jobString>正在重置巅峰无情MK-II。</OE_Reset_OMC_Revolver_P.jobString>
+
+</LanguageData>

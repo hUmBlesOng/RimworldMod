@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
-<!--=============== 靴子 - 军用 ====================-->
-<OE_Footwear_Military.label>黑曜石军用靴</OE_Footwear_Military.label>
-<OE_Footwear_Military.description>军用靴，完美地保护并为穿戴者提供先进的皮肤感知反馈。专为所有黑曜石帝国军队使用而设计。</OE_Footwear_Military.description>
+<!--=============== Boots - Military ====================-->
+<OE_Footwear_Military.label>obsidia military boots</OE_Footwear_Military.label>
+<OE_Footwear_Military.description>Military boots, perfectly protects and providing advanced skin sense feedback to the wearer. Designed for use by all Obsidia Empire militaries.</OE_Footwear_Military.description>
 
-<!--=============== 靴子 - 工人 ====================-->
-<OE_Footwear_Worker.label>黑曜石工人靴</OE_Footwear_Worker.label>
-<OE_Footwear_Worker.description>工人靴，很好地保护并为穿戴者提供性能提升。专为所有黑曜石帝国工人使用而设计。</OE_Footwear_Worker.description>
+<!--=============== Boots - Worker ====================-->
+<OE_Footwear_Worker.label>obsidia worker boots</OE_Footwear_Worker.label>
+<OE_Footwear_Worker.description>Worker boots, good protects and providing performance improvement to the wearer. Designed for use by all Obsidia Empire workers.</OE_Footwear_Worker.description>
 
-<!--=============== 手套 - 军用 ====================-->
-<OE_Handwear_Military.label>黑曜石军用手套</OE_Handwear_Military.label>
-<OE_Handwear_Military.description>军用手套，完美地保护并为穿戴者提供先进的皮肤感知反馈。专为所有黑曜石帝国军队使用而设计。</OE_Handwear_Military.description>
+<!--=============== Gloves - Military ====================-->
+<OE_Handwear_Military.label>obsidia military gloves</OE_Handwear_Military.label>
+<OE_Handwear_Military.description>Military gloves, perfectly protects and providing advanced skin sense feedback to the wearer. Designed for use by all Obsidia Empire militaries.</OE_Handwear_Military.description>
 
-<!--=============== 手套 - 工人 ====================-->
-<OE_Handwear_Worker.label>黑曜石工人手套</OE_Handwear_Worker.label>
-<OE_Handwear_Worker.description>工人手套，很好地保护并为穿戴者提供性能提升。专为所有黑曜石帝国工人使用而设计。</OE_Handwear_Worker.description>
+<!--=============== Gloves - Worker ====================-->
+<OE_Handwear_Worker.label>obsidia worker gloves</OE_Handwear_Worker.label>
+<OE_Handwear_Worker.description>Worker gloves, good protects and providing performance improvement to the wearer. Designed for use by all Obsidia Empire workers.</OE_Handwear_Worker.description>
 
 </LanguageData>

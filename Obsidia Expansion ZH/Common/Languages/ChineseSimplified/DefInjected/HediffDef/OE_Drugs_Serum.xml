@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Torraxin Serum ====================-->
+<OE_TorraxinSerum.label>托拉辛血清</OE_TorraxinSerum.label>
+<OE_TorraxinSerum.description>血液中的托拉辛血清。增强近战战斗属性。</OE_TorraxinSerum.description>
+
+<!--=============== Joltixin Serum ====================-->
+<OE_JoltixinSerum.label>乔尔提辛血清</OE_JoltixinSerum.label>
+<OE_JoltixinSerum.description>血液中的乔尔提辛血清。增强远程战斗属性。</OE_JoltixinSerum.description>
+
+<!--=============== Luraxin Serum ====================-->
+<OE_LuraxinSerum.label>卢拉辛血清</OE_LuraxinSerum.label>
+<OE_LuraxinSerum.description>血液中的卢拉辛血清。增强心灵能力属性。</OE_LuraxinSerum.description>
+
+<!--=============== Alcrexin Serum ====================-->
+<OE_AlcrexinSerum.label>阿尔克辛血清</OE_AlcrexinSerum.label>
+<OE_AlcrexinSerum.description>血液中的阿尔克辛血清。增强机械师属性。</OE_AlcrexinSerum.description>
+
+</LanguageData>

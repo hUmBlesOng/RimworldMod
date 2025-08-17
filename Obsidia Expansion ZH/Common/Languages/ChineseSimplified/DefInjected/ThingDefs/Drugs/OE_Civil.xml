@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Azulium ====================-->
+<OE_Azulium.label>阿祖利姆</OE_Azulium.label>
+<OE_Azulium.description>一种常见的抗精神病药物，用于预防精神崩溃并改善整体情绪。黑曜石技术，该药物不会上瘾且无副作用。</OE_Azulium.description>
+<OE_Azulium.ingestible.ingestCommandString>服用{0}</OE_Azulium.ingestible.ingestCommandString>
+<OE_Azulium.ingestible.ingestReportString>正在服用{0}</OE_Azulium.ingestible.ingestReportString>
+
+<!--=============== Timbium ====================-->
+<OE_Timbium.label>蒂姆比姆</OE_Timbium.label>
+<OE_Timbium.description>工人使用的硬性兴奋剂，被黑曜石工人用来提高生产力。黑曜石技术，兴奋剂可能会上瘾但无副作用。</OE_Timbium.description>
+<OE_Timbium.ingestible.ingestCommandString>服用{0}</OE_Timbium.ingestible.ingestCommandString>
+<OE_Timbium.ingestible.ingestReportString>正在服用{0}</OE_Timbium.ingestible.ingestReportString>
+
+<!--=============== Garganadol ====================-->
+<OE_Garganadol.label>加尔加纳多尔</OE_Garganadol.label>
+<OE_Garganadol.description>一种独特的医疗专用品，基于卢西弗姆的强效药物，是一种机械体混合物，能显著改善身体功能。\n\n禁用需求：食物。</OE_Garganadol.description>
+<OE_Garganadol.ingestible.ingestCommandString>服用{0}</OE_Garganadol.ingestible.ingestCommandString>
+<OE_Garganadol.ingestible.ingestReportString>正在服用{0}</OE_Garganadol.ingestible.ingestReportString>
+
+<!--=============== Cofagradol ====================-->
+<OE_Cofagradol.label>科法格拉多尔</OE_Cofagradol.label>
+<OE_Cofagradol.description>一种独特的医疗专用品，基于卢西弗姆的强效药物，是一种机械体混合物，能显著改善身体功能。\n\n禁用需求：休息。</OE_Cofagradol.description>
+<OE_Cofagradol.ingestible.ingestCommandString>服用{0}</OE_Cofagradol.ingestible.ingestCommandString>
+<OE_Cofagradol.ingestible.ingestReportString>正在服用{0}</OE_Cofagradol.ingestible.ingestReportString>
+
+<!--=============== Cressadol ====================-->
+<OE_Cressadol.label>克雷萨多尔</OE_Cressadol.label>
+<OE_Cressadol.description>一种独特的医疗专用品，基于卢西弗姆的强效药物，是一种机械体混合物，能显著改善身体功能。\n\n禁用需求：娱乐。</OE_Cressadol.description>
+<OE_Cressadol.ingestible.ingestCommandString>服用{0}</OE_Cressadol.ingestible.ingestCommandString>
+<OE_Cressadol.ingestible.ingestReportString>正在服用{0}</OE_Cressadol.ingestible.ingestReportString>
+
+<!--=============== Florgadol ====================-->
+<OE_Florgadol.label>弗洛加多尔</OE_Florgadol.label>
+<OE_Florgadol.description>一种独特的医疗专用品，基于卢西弗姆的强效药物，是一种机械体混合物，能显著改善身体功能。\n\n禁用需求：情绪。</OE_Florgadol.description>
+<OE_Florgadol.ingestible.ingestCommandString>服用{0}</OE_Florgadol.ingestible.ingestCommandString>
+<OE_Florgadol.ingestible.ingestReportString>正在服用{0}</OE_Florgadol.ingestible.ingestReportString>
+
+</LanguageData>

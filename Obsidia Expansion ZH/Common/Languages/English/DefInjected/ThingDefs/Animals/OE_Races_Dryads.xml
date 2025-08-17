@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
-<!--=============== 合成树妖 ====================-->
-<OE_Dryad_Synthesis.label>合成树妖</OE_Dryad_Synthesis.label>
-<OE_Dryad_Synthesis.description>一种专门从事合成素生产的昆虫类树妖。与其身体上生长的水晶一起，这种树妖可以持续生成合成素。然而，它在工作或战斗中缓慢且无效。\n\n总的来说，树妖是类似哺乳动物的生物，与高卢树有着共生关系。它们与包含隐藏树妖女王的树木一起繁殖。树妖可以变形为各种专门化种族。</OE_Dryad_Synthesis.description>
-<OE_Dryad_Synthesis.tools.left_claw.label>左爪</OE_Dryad_Synthesis.tools.left_claw.label>
-<OE_Dryad_Synthesis.tools.left_claw.labelNoLocation>左爪</OE_Dryad_Synthesis.tools.left_claw.labelNoLocation>
-<OE_Dryad_Synthesis.tools.right_claw.label>右爪</OE_Dryad_Synthesis.tools.right_claw.label>
-<OE_Dryad_Synthesis.tools.right_claw.labelNoLocation>右爪</OE_Dryad_Synthesis.tools.right_claw.labelNoLocation>
-<OE_Dryad_Synthesis.tools.head.label>头部</OE_Dryad_Synthesis.tools.head.label>
+<!--=============== Synthesis Dryad ====================-->
+<OE_Dryad_Synthesis.label>synthesis dryad</OE_Dryad_Synthesis.label>
+<OE_Dryad_Synthesis.description>An insect-like caste of dryad which specializes in syntherius production. Together with its crystal growing from the body, this dryad can generate a syntherius on an ongoing basis. However, it is slow and ineffective at work or combat.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes.</OE_Dryad_Synthesis.description>
+<OE_Dryad_Synthesis.tools.left_claw.label>left claw</OE_Dryad_Synthesis.tools.left_claw.label>
+<OE_Dryad_Synthesis.tools.left_claw.labelNoLocation>left claw</OE_Dryad_Synthesis.tools.left_claw.labelNoLocation>
+<OE_Dryad_Synthesis.tools.right_claw.label>right claw</OE_Dryad_Synthesis.tools.right_claw.label>
+<OE_Dryad_Synthesis.tools.right_claw.labelNoLocation>right claw</OE_Dryad_Synthesis.tools.right_claw.labelNoLocation>
+<OE_Dryad_Synthesis.tools.head.label>head</OE_Dryad_Synthesis.tools.head.label>
 
-<!--=============== 觉醒合成树妖 ====================-->  
-<OE_AwakenedDryad_Synthesis.label>觉醒合成树妖</OE_AwakenedDryad_Synthesis.label>
-<OE_AwakenedDryad_Synthesis.description>一种专门从事合成素生产的昆虫类树妖。它的觉醒加速了合成素的生产，并使几丁质更加耐用，几乎没有增加生物大小。\n\n与它们的绑定亲属相比，觉醒树妖既有优势也有劣势。虽然更熟练、专业化且不受束缚，但它们既不能变形也不能从女王那里获得营养，导致寿命非常有限。</OE_AwakenedDryad_Synthesis.description>
-<OE_AwakenedDryad_Synthesis.tools.left_claw.label>左爪</OE_AwakenedDryad_Synthesis.tools.left_claw.label>
-<OE_AwakenedDryad_Synthesis.tools.right_claw.label>右爪</OE_AwakenedDryad_Synthesis.tools.right_claw.label>
-<OE_AwakenedDryad_Synthesis.tools.head.label>头部</OE_AwakenedDryad_Synthesis.tools.head.label>
+<!--=============== Synthesis Awakened Dryad ====================-->  
+<OE_AwakenedDryad_Synthesis.label>awakened synthesis dryad</OE_AwakenedDryad_Synthesis.label>
+<OE_AwakenedDryad_Synthesis.description>An insect-like caste of dryad which specializes in syntherius production. Its awakening has accelerated the syntherius production and made chitin more durable with almost no increase in creature size..\n\nAwakened dryads have both advantages and disadvantages compared to their bound relatives. While more proficient, specialized and unshackled, they can neither morph nor receive nourishment from a queen, resulting in a very limited lifespan.</OE_AwakenedDryad_Synthesis.description>
+<OE_AwakenedDryad_Synthesis.tools.left_claw.label>left claw</OE_AwakenedDryad_Synthesis.tools.left_claw.label>
+<OE_AwakenedDryad_Synthesis.tools.right_claw.label>right claw</OE_AwakenedDryad_Synthesis.tools.right_claw.label>
+<OE_AwakenedDryad_Synthesis.tools.head.label>head</OE_AwakenedDryad_Synthesis.tools.head.label>
 
 </LanguageData>

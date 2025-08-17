@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
 <!--=============== Special ====================-->
 <!--=============== Cultist ====================-->
-<OE_Cultist.title>深红蜘蛛邪教教徒</OE_Cultist.title>
-<OE_Cultist.titleShort>邪教教徒</OE_Cultist.titleShort>
-<OE_Cultist.description>[PAWN_nameDef]作为深红蜘蛛邪教的一员，拥有坚定不移的信仰，并渴望以任何方式将他们的信仰传播给每个人。</OE_Cultist.description>
+<OE_Cultist.title>crimson arachna cultist</OE_Cultist.title>
+<OE_Cultist.titleShort>cultist</OE_Cultist.titleShort>
+<OE_Cultist.description>[PAWN_nameDef] as a member of Crimson Arachna Cult has an unwavering faith and the desire to bring their faith to everyone in any way.</OE_Cultist.description>
 
 <!--=============== Cryptkeeper ====================-->
-<OE_Cryptkeeper.title>深红蜘蛛邪教墓穴守护者</OE_Cryptkeeper.title>
-<OE_Cryptkeeper.titleShort>墓穴守护者</OE_Cryptkeeper.titleShort>
-<OE_Cryptkeeper.description>[PAWN_nameDef]曾是深红蜘蛛邪教中禁忌墓穴和生物封印圣物箱的守护者。对死者低语，编目圣物，并维护那些永远不应苏醒之物。</OE_Cryptkeeper.description>
+<OE_Cryptkeeper.title>crimson arachna cryptkeeper</OE_Cryptkeeper.title>
+<OE_Cryptkeeper.titleShort>cryptkeeper</OE_Cryptkeeper.titleShort>
+<OE_Cryptkeeper.description>[PAWN_nameDef] served as a guardian of forbidden tombs and bio-sealed reliquaries within the Crimson Arachna Cult. Whispered to the dead, catalogued relics, and performed maintenance on what should never be awoken.</OE_Cryptkeeper.description>
 
 <!--=============== Zealot ====================-->
-<OE_Zealot.title>深红蜘蛛邪教狂热者</OE_Zealot.title>
-<OE_Zealot.titleShort>狂热者</OE_Zealot.titleShort>
-<OE_Zealot.description>[PAWN_nameDef]以深红蜘蛛邪教之名领导血腥仪式。凭借坚定不移的信念，他们通过吟唱、火焰和献祭激发恐惧和敬畏。</OE_Zealot.description>
+<OE_Zealot.title>crimson arachna zealot</OE_Zealot.title>
+<OE_Zealot.titleShort>zealot</OE_Zealot.titleShort>
+<OE_Zealot.description>[PAWN_nameDef] led bloodlit rituals in the name of the Crimson Arachna Cult. Driven by unwavering conviction, they inspired dread and awe through chanting, fire, and sacrifice.</OE_Zealot.description>
 
 <!--=============== Herald ====================-->
-<OE_Herald.title>深红蜘蛛邪教使者</OE_Herald.title>
-<OE_Herald.titleShort>使者</OE_Herald.titleShort>
-<OE_Herald.description>[PAWN_nameDef]曾是深红蜘蛛邪教的声音，通过幻象、仪式演讲和低语的启示向边缘世界传递神圣教义。他们的话语播下忠诚与恐惧。</OE_Herald.description>
+<OE_Herald.title>crimson arachna herald</OE_Herald.title>
+<OE_Herald.titleShort>herald</OE_Herald.titleShort>
+<OE_Herald.description>[PAWN_nameDef] served as a voice of Crimson Arachna Cult, delivering sacred doctrine to fringe worlds through visions, ritual oratory, and whispered revelations. Their words sow both devotion and dread.</OE_Herald.description>
 
 </LanguageData>

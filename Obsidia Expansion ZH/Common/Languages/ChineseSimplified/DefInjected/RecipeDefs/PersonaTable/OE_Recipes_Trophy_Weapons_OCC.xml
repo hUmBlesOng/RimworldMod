@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== OCC - Drillspear ====================-->
+<OE_Bond_OCC_Trophy_Drillspear.label>人格绑定巴洛尔</OE_Bond_OCC_Trophy_Drillspear.label>
+<OE_Bond_OCC_Trophy_Drillspear.description>人格绑定巴洛尔。</OE_Bond_OCC_Trophy_Drillspear.description>
+<OE_Bond_OCC_Trophy_Drillspear.jobString>正在人格绑定巴洛尔。</OE_Bond_OCC_Trophy_Drillspear.jobString>
+
+<OE_Reset_OCC_Trophy_Drillspear_P.label>重置人格巴洛尔</OE_Reset_OCC_Trophy_Drillspear_P.label>
+<OE_Reset_OCC_Trophy_Drillspear_P.description>重置人格巴洛尔。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OCC_Trophy_Drillspear_P.description>
+<OE_Reset_OCC_Trophy_Drillspear_P.jobString>正在重置人格巴洛尔。</OE_Reset_OCC_Trophy_Drillspear_P.jobString>
+
+<OE_Reset_OCC_Trophy_Drillspear_I.label>重置镶嵌巴洛尔</OE_Reset_OCC_Trophy_Drillspear_I.label>
+<OE_Reset_OCC_Trophy_Drillspear_I.description>重置镶嵌巴洛尔。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OCC_Trophy_Drillspear_I.description>
+<OE_Reset_OCC_Trophy_Drillspear_I.jobString>正在重置镶嵌巴洛尔。</OE_Reset_OCC_Trophy_Drillspear_I.jobString>
+
+<!--=============== OCC - Railgun ====================-->
+<OE_Bond_OCC_Trophy_Railgun_P.label>巅峰绑定克洛诺斯</OE_Bond_OCC_Trophy_Railgun_P.label>
+<OE_Bond_OCC_Trophy_Railgun_P.description>巅峰绑定克洛诺斯。</OE_Bond_OCC_Trophy_Railgun_P.description>
+<OE_Bond_OCC_Trophy_Railgun_P.jobString>正在巅峰绑定克洛诺斯。</OE_Bond_OCC_Trophy_Railgun_P.jobString>
+
+<OE_Reset_OCC_Trophy_Railgun_P.label>重置巅峰克洛诺斯</OE_Reset_OCC_Trophy_Railgun_P.label>
+<OE_Reset_OCC_Trophy_Railgun_P.description>重置巅峰克洛诺斯。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OCC_Trophy_Railgun_P.description>
+<OE_Reset_OCC_Trophy_Railgun_P.jobString>正在重置巅峰克洛诺斯。</OE_Reset_OCC_Trophy_Railgun_P.jobString>
+
+<OE_Reset_OCC_Trophy_Railgun_I.label>重置镶嵌克洛诺斯</OE_Reset_OCC_Trophy_Railgun_I.label>
+<OE_Reset_OCC_Trophy_Railgun_I.description>重置镶嵌克洛诺斯。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OCC_Trophy_Railgun_I.description>
+<OE_Reset_OCC_Trophy_Railgun_I.jobString>正在重置镶嵌克洛诺斯。</OE_Reset_OCC_Trophy_Railgun_I.jobString>
+
+</LanguageData>

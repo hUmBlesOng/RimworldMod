@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== OTC - Elemental Sword ====================-->
+<!--=============== Acid ====================-->
+<OE_Bond_OTC_Trophy_Sword_Acid.label>人格绑定酸液裂隙</OE_Bond_OTC_Trophy_Sword_Acid.label>
+<OE_Bond_OTC_Trophy_Sword_Acid.description>人格绑定酸液裂隙。</OE_Bond_OTC_Trophy_Sword_Acid.description>
+<OE_Bond_OTC_Trophy_Sword_Acid.jobString>正在人格绑定酸液裂隙。</OE_Bond_OTC_Trophy_Sword_Acid.jobString>
+
+<OE_Reset_OTC_Trophy_Sword_P_Acid.label>重置人格酸液裂隙</OE_Reset_OTC_Trophy_Sword_P_Acid.label>
+<OE_Reset_OTC_Trophy_Sword_P_Acid.description>重置人格酸液裂隙。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OTC_Trophy_Sword_P_Acid.description>
+<OE_Reset_OTC_Trophy_Sword_P_Acid.jobString>正在重置人格酸液裂隙。</OE_Reset_OTC_Trophy_Sword_P_Acid.jobString>
+
+<OE_Reset_OTC_Trophy_Sword_I_Acid.label>重置镶嵌酸液裂隙</OE_Reset_OTC_Trophy_Sword_I_Acid.label>
+<OE_Reset_OTC_Trophy_Sword_I_Acid.description>重置镶嵌酸液裂隙。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OTC_Trophy_Sword_I_Acid.description>
+<OE_Reset_OTC_Trophy_Sword_I_Acid.jobString>正在重置镶嵌酸液裂隙。</OE_Reset_OTC_Trophy_Sword_I_Acid.jobString>
+
+<!--=============== Cryo ====================-->
+<OE_Bond_OTC_Trophy_Sword_Cryo.label>人格绑定冷冻裂隙</OE_Bond_OTC_Trophy_Sword_Cryo.label>
+<OE_Bond_OTC_Trophy_Sword_Cryo.description>人格绑定冷冻裂隙。</OE_Bond_OTC_Trophy_Sword_Cryo.description>
+<OE_Bond_OTC_Trophy_Sword_Cryo.jobString>正在人格绑定冷冻裂隙。</OE_Bond_OTC_Trophy_Sword_Cryo.jobString>
+
+<OE_Reset_OTC_Trophy_Sword_P_Cryo.label>重置人格冷冻裂隙</OE_Reset_OTC_Trophy_Sword_P_Cryo.label>
+<OE_Reset_OTC_Trophy_Sword_P_Cryo.description>重置人格冷冻裂隙。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OTC_Trophy_Sword_P_Cryo.description>
+<OE_Reset_OTC_Trophy_Sword_P_Cryo.jobString>正在重置人格冷冻裂隙。</OE_Reset_OTC_Trophy_Sword_P_Cryo.jobString>
+
+<OE_Reset_OTC_Trophy_Sword_I_Cryo.label>重置镶嵌冷冻裂隙</OE_Reset_OTC_Trophy_Sword_I_Cryo.label>
+<OE_Reset_OTC_Trophy_Sword_I_Cryo.description>重置镶嵌冷冻裂隙。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OTC_Trophy_Sword_I_Cryo.description>
+<OE_Reset_OTC_Trophy_Sword_I_Cryo.jobString>正在重置镶嵌冷冻裂隙。</OE_Reset_OTC_Trophy_Sword_I_Cryo.jobString>
+
+<!--=============== Fire ====================-->
+<OE_Bond_OTC_Trophy_Sword_Fire.label>人格绑定火焰裂隙</OE_Bond_OTC_Trophy_Sword_Fire.label>
+<OE_Bond_OTC_Trophy_Sword_Fire.description>人格绑定火焰裂隙。</OE_Bond_OTC_Trophy_Sword_Fire.description>
+<OE_Bond_OTC_Trophy_Sword_Fire.jobString>正在人格绑定火焰裂隙。</OE_Bond_OTC_Trophy_Sword_Fire.jobString>
+
+<OE_Reset_OTC_Trophy_Sword_P_Fire.label>重置人格火焰裂隙</OE_Reset_OTC_Trophy_Sword_P_Fire.label>
+<OE_Reset_OTC_Trophy_Sword_P_Fire.description>重置人格火焰裂隙。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OTC_Trophy_Sword_P_Fire.description>
+<OE_Reset_OTC_Trophy_Sword_P_Fire.jobString>正在重置人格火焰裂隙。</OE_Reset_OTC_Trophy_Sword_P_Fire.jobString>
+
+<OE_Reset_OTC_Trophy_Sword_I_Fire.label>重置镶嵌火焰裂隙</OE_Reset_OTC_Trophy_Sword_I_Fire.label>
+<OE_Reset_OTC_Trophy_Sword_I_Fire.description>重置镶嵌火焰裂隙。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OTC_Trophy_Sword_I_Fire.description>
+<OE_Reset_OTC_Trophy_Sword_I_Fire.jobString>正在重置镶嵌火焰裂隙。</OE_Reset_OTC_Trophy_Sword_I_Fire.jobString>
+
+<!--=============== EMP ====================-->
+<OE_Bond_OTC_Trophy_Sword_EMP.label>人格绑定电磁裂隙</OE_Bond_OTC_Trophy_Sword_EMP.label>
+<OE_Bond_OTC_Trophy_Sword_EMP.description>人格绑定电磁裂隙。</OE_Bond_OTC_Trophy_Sword_EMP.description>
+<OE_Bond_OTC_Trophy_Sword_EMP.jobString>正在人格绑定电磁裂隙。</OE_Bond_OTC_Trophy_Sword_EMP.jobString>
+
+<OE_Reset_OTC_Trophy_Sword_P_EMP.label>重置人格电磁裂隙</OE_Reset_OTC_Trophy_Sword_P_EMP.label>
+<OE_Reset_OTC_Trophy_Sword_P_EMP.description>重置人格电磁裂隙。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OTC_Trophy_Sword_P_EMP.description>
+<OE_Reset_OTC_Trophy_Sword_P_EMP.jobString>正在重置人格电磁裂隙。</OE_Reset_OTC_Trophy_Sword_P_EMP.jobString>
+
+<OE_Reset_OTC_Trophy_Sword_I_EMP.label>重置镶嵌电磁裂隙</OE_Reset_OTC_Trophy_Sword_I_EMP.label>
+<OE_Reset_OTC_Trophy_Sword_I_EMP.description>重置镶嵌电磁裂隙。\n\n警告！物品品质和人格特征将会改变。</OE_Reset_OTC_Trophy_Sword_I_EMP.description>
+<OE_Reset_OTC_Trophy_Sword_I_EMP.jobString>正在重置镶嵌电磁裂隙。</OE_Reset_OTC_Trophy_Sword_I_EMP.jobString>
+
+<!--=============== OTC - Cards ====================-->
+<OE_Bond_OTC_Trophy_Cards.label>巅峰绑定兰迪的牌组</OE_Bond_OTC_Trophy_Cards.label>
+<OE_Bond_OTC_Trophy_Cards.description>巅峰绑定兰迪的牌组。</OE_Bond_OTC_Trophy_Cards.description>
+<OE_Bond_OTC_Trophy_Cards.jobString>正在巅峰绑定兰迪的牌组。</OE_Bond_OTC_Trophy_Cards.jobString>
+
+<OE_Reset_OTC_Trophy_Cards_P.label>重置巅峰兰迪的牌组</OE_Reset_OTC_Trophy_Cards_P.label>
+<OE_Reset_OTC_Trophy_Cards_P.description>重置巅峰兰迪的牌组。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OTC_Trophy_Cards_P.description>
+<OE_Reset_OTC_Trophy_Cards_P.jobString>正在重置巅峰兰迪的牌组。</OE_Reset_OTC_Trophy_Cards_P.jobString>
+
+<OE_Reset_OTC_Trophy_Cards_I.label>重置镶嵌兰迪的牌组</OE_Reset_OTC_Trophy_Cards_I.label>
+<OE_Reset_OTC_Trophy_Cards_I.description>重置镶嵌兰迪的牌组。\n\n警告！物品品质和巅峰特征将会改变。</OE_Reset_OTC_Trophy_Cards_I.description>
+<OE_Reset_OTC_Trophy_Cards_I.jobString>正在重置镶嵌兰迪的牌组。</OE_Reset_OTC_Trophy_Cards_I.jobString>
+
+</LanguageData>

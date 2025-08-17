@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+<!--=============== Player Obsidia Colonist ====================-->
+<OE_PlayerColonist.label>黑曜石殖民者</OE_PlayerColonist.label>
+
+<!--=============== Player Obsidia Agent ====================-->
+<OE_PlayerAgent.label>黑曜石特工</OE_PlayerAgent.label>
+
+</LanguageData>

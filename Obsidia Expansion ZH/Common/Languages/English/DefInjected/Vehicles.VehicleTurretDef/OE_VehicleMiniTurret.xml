@@ -1,35 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
-<!--=============== 梦魇 ====================-->
+<!--=============== Nightmare ====================-->
 <!--=============== OMC ====================-->
-<OMC_Nightmare_MiniTurret.label>苏塞塔斯小型炮塔</OMC_Nightmare_MiniTurret.label>
-<OMC_Nightmare_MiniTurret.description>OMC梦魇使用的小型自动手枪炮塔。</OMC_Nightmare_MiniTurret.description>
+<OMC_Nightmare_MiniTurret.label>Sutherland mini-turret</OMC_Nightmare_MiniTurret.label>
+<OMC_Nightmare_MiniTurret.description>A small mounted Auto Pistol turret used by OMC nightmare.</OMC_Nightmare_MiniTurret.description>
 
 <!--=============== OTC ====================-->
-<!--=============== 酸液 ====================-->
-<OTC_Nightmare_Acid_MainTurret.label>格拉斯哥小型炮塔(酸液)</OTC_Nightmare_Acid_MainTurret.label>
-<OTC_Nightmare_Acid_MainTurret.description>OTC梦魇使用的小型手枪炮塔。充能酸性伤害。</OTC_Nightmare_Acid_MainTurret.description>
-<!--=============== 冷冻 ====================-->
-<OTC_Nightmare_Cryo_MainTurret.label>格拉斯哥小型炮塔(冷冻)</OTC_Nightmare_Cryo_MainTurret.label>
-<OTC_Nightmare_Cryo_MainTurret.description>OTC梦魇使用的小型手枪炮塔。充能冷冻伤害。</OTC_Nightmare_Cryo_MainTurret.description>
-<!--=============== 火焰 ====================-->
-<OTC_Nightmare_Fire_MainTurret.label>格拉斯哥小型炮塔(火焰)</OTC_Nightmare_Fire_MainTurret.label>
-<OTC_Nightmare_Fire_MainTurret.description>OTC梦魇使用的小型手枪炮塔。充能火焰伤害。</OTC_Nightmare_Fire_MainTurret.description>
-<!--=============== 电磁脉冲 ====================-->
-<OTC_Nightmare_EMP_MainTurret.label>格拉斯哥小型炮塔(电磁脉冲)</OTC_Nightmare_EMP_MainTurret.label>
-<OTC_Nightmare_EMP_MainTurret.description>OTC梦魇使用的小型手枪炮塔。充能电磁脉冲伤害。\n\n警告！电磁脉冲伤害并非旨在摧毁血肉之躯。</OTC_Nightmare_EMP_MainTurret.description>
+<!--=============== Acid ====================-->
+<OTC_Nightmare_Acid_MainTurret.label>Glasgow mini-turret(Acid)</OTC_Nightmare_Acid_MainTurret.label>
+<OTC_Nightmare_Acid_MainTurret.description>A small mounted Pistol turret used by OTC nightmare. Charged with Acid damage.</OTC_Nightmare_Acid_MainTurret.description>
+<!--=============== Cryo ====================-->
+<OTC_Nightmare_Cryo_MainTurret.label>Glasgow mini-turret(Cryo)</OTC_Nightmare_Cryo_MainTurret.label>
+<OTC_Nightmare_Cryo_MainTurret.description>A small mounted Pistol turret used by OTC nightmare. Charged with Cryo damage.</OTC_Nightmare_Cryo_MainTurret.description>
+<!--=============== Fire ====================-->
+<OTC_Nightmare_Fire_MainTurret.label>Glasgow mini-turret(Fire)</OTC_Nightmare_Fire_MainTurret.label>
+<OTC_Nightmare_Fire_MainTurret.description>A small mounted Pistol turret used by OTC nightmare. Charged with Fire damage.</OTC_Nightmare_Fire_MainTurret.description>
+<!--=============== EMP ====================-->
+<OTC_Nightmare_EMP_MainTurret.label>Glasgow mini-turret(EMP)</OTC_Nightmare_EMP_MainTurret.label>
+<OTC_Nightmare_EMP_MainTurret.description>A small mounted Pistol turret used by OTC nightmare. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags.</OTC_Nightmare_EMP_MainTurret.description>
 
 <!--=============== OCC ====================-->
-<OCC_Nightmare_MainTurret.label>格洛斯特小型炮塔</OCC_Nightmare_MainTurret.label>
-<OCC_Nightmare_MainTurret.description>OCC梦魇使用的小型左轮手枪炮塔。</OCC_Nightmare_MainTurret.description>
+<OCC_Nightmare_MainTurret.label>Gloucester mini-turret</OCC_Nightmare_MainTurret.label>
+<OCC_Nightmare_MainTurret.description>A small mounted Revolver turret used by OCC nightmare.</OCC_Nightmare_MainTurret.description>
 
 <!--=============== OEC ====================-->
-<OEC_Nightmare_MainTurret.label>晓小型炮塔</OEC_Nightmare_MainTurret.label>
-<OEC_Nightmare_MainTurret.description>OEC梦魇使用的小型左轮手枪炮塔。</OEC_Nightmare_MainTurret.description>
+<OEC_Nightmare_MainTurret.label>Akatsuki mini-turret</OEC_Nightmare_MainTurret.label>
+<OEC_Nightmare_MainTurret.description>A small mounted Revolver turret used by OEC nightmare.</OEC_Nightmare_MainTurret.description>
 
 <!--=============== ODC ====================-->
-<ODC_Nightmare_MainTurret.label>武雷小型炮塔</ODC_Nightmare_MainTurret.label>
-<ODC_Nightmare_MainTurret.description>OEC梦魇使用的小型自动手枪炮塔。</ODC_Nightmare_MainTurret.description>
+<ODC_Nightmare_MainTurret.label>Burai mini-turret</ODC_Nightmare_MainTurret.label>
+<ODC_Nightmare_MainTurret.description>A small mounted Auto Pistol turret used by OEC nightmare.</ODC_Nightmare_MainTurret.description>
 
 </LanguageData>
