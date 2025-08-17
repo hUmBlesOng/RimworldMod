@@ -2,7 +2,7 @@
 
 <LanguageData>
 
-<OE_AmmoStorage_ExtractAmmo>Extract 25 obsidia ammo kit</OE_AmmoStorage_ExtractAmmo>
-<OE_AmmoStorage_ExtractAmmoDesc>Extract 25 obsidia ammo kit from the storage. A pawn will come to extract it.</OE_AmmoStorage_ExtractAmmoDesc>
+<OE_AmmoStorage_ExtractAmmo>提取25个黑曜石弹药包</OE_AmmoStorage_ExtractAmmo>
+<OE_AmmoStorage_ExtractAmmoDesc>从存储中提取25个黑曜石弹药包。一名殖民者会来提取它。</OE_AmmoStorage_ExtractAmmoDesc>
 
 </LanguageData>

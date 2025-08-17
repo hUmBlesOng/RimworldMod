@@ -2,29 +2,29 @@
 
 <LanguageData>
 
-<oe_attention_text>Recommended to restart the game to apply new settings.</oe_attention_text>
+<oe_attention_text>建议重新启动游戏以应用新设置。</oe_attention_text>
 
 <!--=============== Syntherius Harvest Yield ====================-->	
-<oe_syntheriusharvestyield_text>Syntherius Harvest Yield:</oe_syntheriusharvestyield_text>
+<oe_syntheriusharvestyield_text>合成兽收获产量：</oe_syntheriusharvestyield_text>
 
-<oe_syntheriustree_text>Syntherius Tree: {oe_syntheriustree_harvestyield}</oe_syntheriustree_text>
-<oe_syntheriusslime_text>Syntherius Slime: {oe_syntheriusslime_milkamount}</oe_syntheriusslime_text>
-<oe_syntheriusdryad_text>Synthesis Dryad: {oe_syntheriusdryad_spawncount}</oe_syntheriusdryad_text>
-<oe_syntheriusroot_text>Syntherius Root: {oe_syntheriusroot_harvestyield}</oe_syntheriusroot_text>
-<oe_syntheriuspack_text>Compressed Syntherius: {oe_syntheriuspack_killedleavings}</oe_syntheriuspack_text>
-<oe_syntheriusdryadawakened_text>Awakened Synthesis Dryad: {oe_syntheriusdryadawakened_spawncount}</oe_syntheriusdryadawakened_text>
-<oe_syntheriusoutpost_text>Obsidia Syntherius Outpost: {oe_syntheriusoutpost_amountperpawn}</oe_syntheriusoutpost_text>
+<oe_syntheriustree_text>合成兽树：{oe_syntheriustree_harvestyield}</oe_syntheriustree_text>
+<oe_syntheriusslime_text>合成兽粘液：{oe_syntheriusslime_milkamount}</oe_syntheriusslime_text>
+<oe_syntheriusdryad_text>合成树精：{oe_syntheriusdryad_spawncount}</oe_syntheriusdryad_text>
+<oe_syntheriusroot_text>合成兽根：{oe_syntheriusroot_harvestyield}</oe_syntheriusroot_text>
+<oe_syntheriuspack_text>压缩合成兽：{oe_syntheriuspack_killedleavings}</oe_syntheriuspack_text>
+<oe_syntheriusdryadawakened_text>觉醒合成树精：{oe_syntheriusdryadawakened_spawncount}</oe_syntheriusdryadawakened_text>
+<oe_syntheriusoutpost_text>黑曜石合成兽前哨：{oe_syntheriusoutpost_amountperpawn}</oe_syntheriusoutpost_text>
 
 <!--=============== Research Cost Amount ====================-->
-<oe_researchcostamount_text>Research Cost Amount:</oe_researchcostamount_text>
+<oe_researchcostamount_text>研究成本数量：</oe_researchcostamount_text>
 
-<oe_researchcostamount_large>Normal cost - 100%</oe_researchcostamount_large>
-<oe_researchcostamount_medium>Low cost - 50%</oe_researchcostamount_medium>
-<oe_researchcostamount_small>Kids cost - 20%</oe_researchcostamount_small>
+<oe_researchcostamount_large>正常成本 - 100%</oe_researchcostamount_large>
+<oe_researchcostamount_medium>低成本 - 50%</oe_researchcostamount_medium>
+<oe_researchcostamount_small>儿童成本 - 20%</oe_researchcostamount_small>
 
 <!--=============== Misk Settings ====================-->
-<oe_misksettings_text>Misk Settings:</oe_misksettings_text>
-<OE_ChaosSlimeHiveGen_text>Chaos Slimes Hives – Player Map Only</OE_ChaosSlimeHiveGen_text>
-<OE_ChaosSlimeHiveGen_tip>When enabled(true), Chaos Slimes Hives will only spawn on player home maps, never on enemy or neutral maps. When disabled(false), Hives may appear during world generation or raids on any faction map.</OE_ChaosSlimeHiveGen_tip>
+<oe_misksettings_text>其他设置：</oe_misksettings_text>
+<OE_ChaosSlimeHiveGen_text>混沌粘液蜂巢 – 仅限玩家地图</OE_ChaosSlimeHiveGen_text>
+<OE_ChaosSlimeHiveGen_tip>启用(true)时，混沌粘液蜂巢只会生成在玩家的主地图上，不会出现在敌人或中立派系地图上。禁用(false)时，蜂巢可能在世界生成期间或袭击中出现在任何派系地图上。</OE_ChaosSlimeHiveGen_tip>
 
 </LanguageData>
