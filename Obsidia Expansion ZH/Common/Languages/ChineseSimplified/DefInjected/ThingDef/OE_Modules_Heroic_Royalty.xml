@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<LanguageData>
-  
-  <!-- EN: Heroic Battle Module - Psy -->
-  <OE_Module_HeroicPsy.label>英雄战斗模块 - 超能</OE_Module_HeroicPsy.label>
-  <!-- EN: The module provides the owner with various bonuses, depending on the model. Designed for use in various areas of Obsidia. -->
-  <OE_Module_HeroicPsy.description>该模块根据型号为所有者提供各种增益效果。专为在Obsidia的各个领域使用而设计。</OE_Module_HeroicPsy.description>
-  
-</LanguageData>

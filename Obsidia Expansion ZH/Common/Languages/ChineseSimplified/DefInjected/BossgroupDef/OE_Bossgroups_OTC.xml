@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<LanguageData>
-  
-  <!-- EN: Combat squad led by {LEADERKIND_label} armed with OTC gear. -->
-  <OE_Beacongroup_OTC.leaderDescription>由{LEADERKIND_label}领导的装备OTC装备的战斗小队。</OE_Beacongroup_OTC.leaderDescription>
-  
-</LanguageData>

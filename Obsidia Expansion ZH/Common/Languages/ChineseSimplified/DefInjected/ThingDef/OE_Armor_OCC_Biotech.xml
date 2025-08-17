@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<LanguageData>
-  
-  <!-- EN: OCC Paladin Armor(Overseer) -->
-  <OCC_Armor_M_Mechanitor.label>OCC圣骑士护甲（监督者）</OCC_Armor_M_Mechanitor.label>
-  <!-- EN: Heavy power armor, excellent protects the owner with little mobility restriction. Designed and modified for use by OCC Paladins.\n\nModified with the addition of a Mechanoids Control pack. -->
-  <OCC_Armor_M_Mechanitor.description>重型动力护甲，出色地保护穿戴者，且对行动限制很小。由OCC圣骑士设计和改良。\n\n增加了机械体控制背包的改良版本。</OCC_Armor_M_Mechanitor.description>
-  
-</LanguageData>
