@@ -1,58 +1,58 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== OMC ====================-->
-<OMC_Arachna_AR.label>Mech Striker</OMC_Arachna_AR.label>
-<OMC_Arachna_AR.verbs.Verb_Shoot.label>Mech Striker</OMC_Arachna_AR.verbs.Verb_Shoot.label>
-<OMC_Arachna_AR.description>Reconstructed OMC Assault Rifle for use by mechanoids. Rapid-fire and multiple-charge weapons with reduced damage.</OMC_Arachna_AR.description>
+<OMC_Arachna_AR.label>机械突击者</OMC_Arachna_AR.label>
+<OMC_Arachna_AR.verbs.Verb_Shoot.label>机械突击者</OMC_Arachna_AR.verbs.Verb_Shoot.label>
+<OMC_Arachna_AR.description>为机械体使用的OMC突击步枪重构版本。快速射击和多充能武器，但伤害有所降低。</OMC_Arachna_AR.description>
 
-<OMC_Arachna_AR.tools.barrel.label>barrel</OMC_Arachna_AR.tools.barrel.label>
+<OMC_Arachna_AR.tools.barrel.label>枪管</OMC_Arachna_AR.tools.barrel.label>
 
 <!--=============== OTC ====================-->
 <!--=============== Acid ====================-->
-<OTC_Arachna_Shotgun_Acid.label>Mech Quasar(Acid)</OTC_Arachna_Shotgun_Acid.label>
-<OTC_Arachna_Shotgun_Acid.verbs.Verb_Shoot.label>Mech Quasar(Acid)</OTC_Arachna_Shotgun_Acid.verbs.Verb_Shoot.label>
-<OTC_Arachna_Shotgun_Acid.description>Reconstructed OTC Shotgun for use by mechanoids. Balanced weapon with Acid charges.</OTC_Arachna_Shotgun_Acid.description>
+<OTC_Arachna_Shotgun_Acid.label>机械类星体(酸液)</OTC_Arachna_Shotgun_Acid.label>
+<OTC_Arachna_Shotgun_Acid.verbs.Verb_Shoot.label>机械类星体(酸液)</OTC_Arachna_Shotgun_Acid.verbs.Verb_Shoot.label>
+<OTC_Arachna_Shotgun_Acid.description>为机械体使用的OTC霰弹枪重构版本。平衡型武器，带有酸液充能。</OTC_Arachna_Shotgun_Acid.description>
 
-<OTC_Arachna_Shotgun_Acid.tools.barrel.label>barrel</OTC_Arachna_Shotgun_Acid.tools.barrel.label>
+<OTC_Arachna_Shotgun_Acid.tools.barrel.label>枪管</OTC_Arachna_Shotgun_Acid.tools.barrel.label>
 <!--=============== Cryo ====================-->
-<OTC_Arachna_Shotgun_Cryo.label>Mech Quasar(Cryo)</OTC_Arachna_Shotgun_Cryo.label>
-<OTC_Arachna_Shotgun_Cryo.verbs.Verb_Shoot.label>Mech Quasar(Cryo)</OTC_Arachna_Shotgun_Cryo.verbs.Verb_Shoot.label>
-<OTC_Arachna_Shotgun_Cryo.description>Reconstructed OTC Shotgun for use by mechanoids. Balanced weapon with Cryo charges.</OTC_Arachna_Shotgun_Cryo.description>
+<OTC_Arachna_Shotgun_Cryo.label>机械类星体(冷冻)</OTC_Arachna_Shotgun_Cryo.label>
+<OTC_Arachna_Shotgun_Cryo.verbs.Verb_Shoot.label>机械类星体(冷冻)</OTC_Arachna_Shotgun_Cryo.verbs.Verb_Shoot.label>
+<OTC_Arachna_Shotgun_Cryo.description>为机械体使用的OTC霰弹枪重构版本。平衡型武器，带有冷冻充能。</OTC_Arachna_Shotgun_Cryo.description>
 
-<OTC_Arachna_Shotgun_Cryo.tools.barrel.label>barrel</OTC_Arachna_Shotgun_Cryo.tools.barrel.label>
+<OTC_Arachna_Shotgun_Cryo.tools.barrel.label>枪管</OTC_Arachna_Shotgun_Cryo.tools.barrel.label>
 <!--=============== Fire ====================-->
-<OTC_Arachna_Shotgun_Fire.label>Mech Quasar(Fire)</OTC_Arachna_Shotgun_Fire.label>
-<OTC_Arachna_Shotgun_Fire.verbs.Verb_Shoot.label>Mech Quasar(Fire)</OTC_Arachna_Shotgun_Fire.verbs.Verb_Shoot.label>
-<OTC_Arachna_Shotgun_Fire.description>Reconstructed OTC Shotgun for use by mechanoids. Balanced weapon with Fire charges.</OTC_Arachna_Shotgun_Fire.description>
+<OTC_Arachna_Shotgun_Fire.label>机械类星体(火焰)</OTC_Arachna_Shotgun_Fire.label>
+<OTC_Arachna_Shotgun_Fire.verbs.Verb_Shoot.label>机械类星体(火焰)</OTC_Arachna_Shotgun_Fire.verbs.Verb_Shoot.label>
+<OTC_Arachna_Shotgun_Fire.description>为机械体使用的OTC霰弹枪重构版本。平衡型武器，带有火焰充能。</OTC_Arachna_Shotgun_Fire.description>
 
-<OTC_Arachna_Shotgun_Fire.tools.barrel.label>barrel</OTC_Arachna_Shotgun_Fire.tools.barrel.label>
+<OTC_Arachna_Shotgun_Fire.tools.barrel.label>枪管</OTC_Arachna_Shotgun_Fire.tools.barrel.label>
 <!--=============== EMP ====================-->
-<OTC_Arachna_Shotgun_EMP.label>Mech Quasar(EMP)</OTC_Arachna_Shotgun_EMP.label>
-<OTC_Arachna_Shotgun_EMP.verbs.Verb_Shoot.label>Mech Quasar(EMP)</OTC_Arachna_Shotgun_EMP.verbs.Verb_Shoot.label>
-<OTC_Arachna_Shotgun_EMP.description>Reconstructed OTC Shotgun for use by mechanoids. Balanced weapon with EMP charges.\n\nWarning! EMP damage isn't intended to destroy meatbags.</OTC_Arachna_Shotgun_EMP.description>
+<OTC_Arachna_Shotgun_EMP.label>机械类星体(电磁脉冲)</OTC_Arachna_Shotgun_EMP.label>
+<OTC_Arachna_Shotgun_EMP.verbs.Verb_Shoot.label>机械类星体(电磁脉冲)</OTC_Arachna_Shotgun_EMP.verbs.Verb_Shoot.label>
+<OTC_Arachna_Shotgun_EMP.description>为机械体使用的OTC霰弹枪重构版本。平衡型武器，带有电磁脉冲充能。\n\n警告！电磁脉冲伤害并非用于摧毁血肉之躯。</OTC_Arachna_Shotgun_EMP.description>
 
-<OTC_Arachna_Shotgun_EMP.tools.barrel.label>barrel</OTC_Arachna_Shotgun_EMP.tools.barrel.label>
+<OTC_Arachna_Shotgun_EMP.tools.barrel.label>枪管</OTC_Arachna_Shotgun_EMP.tools.barrel.label>
 
 <!--=============== OCC ====================-->
-<OCC_Arachna_Rifle.label>Mech Cerberus</OCC_Arachna_Rifle.label>
-<OCC_Arachna_Rifle.verbs.Verb_Shoot.label>Mech Cerberus</OCC_Arachna_Rifle.verbs.Verb_Shoot.label>
-<OCC_Arachna_Rifle.description>Reconstructed OCC Rifle for use by mechanoids. Slow weapon are designed to use blast bullets.</OCC_Arachna_Rifle.description>
+<OCC_Arachna_Rifle.label>机械地狱犬</OCC_Arachna_Rifle.label>
+<OCC_Arachna_Rifle.verbs.Verb_Shoot.label>机械地狱犬</OCC_Arachna_Rifle.verbs.Verb_Shoot.label>
+<OCC_Arachna_Rifle.description>为机械体使用的OCC步枪重构版本。缓慢的武器，专为使用爆炸子弹而设计。</OCC_Arachna_Rifle.description>
 
-<OCC_Arachna_Rifle.tools.barrel.label>barrel</OCC_Arachna_Rifle.tools.barrel.label>
+<OCC_Arachna_Rifle.tools.barrel.label>枪管</OCC_Arachna_Rifle.tools.barrel.label>
 
 <!--=============== OEC ====================-->
-<OEC_Arachna_SniperRifle.label>Mech Judgement</OEC_Arachna_SniperRifle.label>
-<OEC_Arachna_SniperRifle.verbs.Verb_Shoot.label>Mech Judgement</OEC_Arachna_SniperRifle.verbs.Verb_Shoot.label>
-<OEC_Arachna_SniperRifle.description>Reconstructed OEC Sniper Rifle for use by mechanoids. Extremely armor-piercing and equipped with a melee blade.</OEC_Arachna_SniperRifle.description>
+<OEC_Arachna_SniperRifle.label>机械审判</OEC_Arachna_SniperRifle.label>
+<OEC_Arachna_SniperRifle.verbs.Verb_Shoot.label>机械审判</OEC_Arachna_SniperRifle.verbs.Verb_Shoot.label>
+<OEC_Arachna_SniperRifle.description>为机械体使用的OEC狙击步枪重构版本。极强的穿甲能力，并配备近战刀刃。</OEC_Arachna_SniperRifle.description>
 
-<OEC_Arachna_SniperRifle.tools.blade.label>blade</OEC_Arachna_SniperRifle.tools.blade.label>
+<OEC_Arachna_SniperRifle.tools.blade.label>刀刃</OEC_Arachna_SniperRifle.tools.blade.label>
 
 <!--=============== CAC ====================-->
-<CAC_Arachna_Minigun.label>Mech Blackout</CAC_Arachna_Minigun.label>
-<CAC_Arachna_Minigun.verbs.Verb_Shoot.label>Mech Blackout</CAC_Arachna_Minigun.verbs.Verb_Shoot.label>
-<CAC_Arachna_Minigun.description>Reconstructed CAC Minigun for use by mechanoids. Specially modified weapon with increased power but difficult to handle.</CAC_Arachna_Minigun.description>
+<CAC_Arachna_Minigun.label>机械黑障</CAC_Arachna_Minigun.label>
+<CAC_Arachna_Minigun.verbs.Verb_Shoot.label>机械黑障</CAC_Arachna_Minigun.verbs.Verb_Shoot.label>
+<CAC_Arachna_Minigun.description>为机械体使用的CAC机枪重构版本。经过特殊改装的武器，威力增强但难以操控。</CAC_Arachna_Minigun.description>
 
-<CAC_Arachna_Minigun.tools.barrel.label>barrel</CAC_Arachna_Minigun.tools.barrel.label>
+<CAC_Arachna_Minigun.tools.barrel.label>枪管</CAC_Arachna_Minigun.tools.barrel.label>
 
 </LanguageData>
