@@ -1,86 +1,86 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
 <!--=============== Civilians ====================-->
 <!--=============== Colonist ====================-->
-<OE_Colonist.title>obsidia colonist</OE_Colonist.title>
-<OE_Colonist.titleShort>colonist</OE_Colonist.titleShort>
-<OE_Colonist.description>[PAWN_nameDef] completed Obsidia Colonists course. Possesses all the necessary skills to support life in the colony.</OE_Colonist.description>
+<OE_Colonist.title>黑曜石殖民者</OE_Colonist.title>
+<OE_Colonist.titleShort>殖民者</OE_Colonist.titleShort>
+<OE_Colonist.description>[PAWN_nameDef]完成了黑曜石殖民者课程。拥有支持殖民地生活的所有必要技能。</OE_Colonist.description>
 
 <!--=============== Worker ====================-->
-<OE_Worker.title>obsidia worker</OE_Worker.title>
-<OE_Worker.titleShort>worker</OE_Worker.titleShort>
-<OE_Worker.description>[PAWN_nameDef] completed course Obsidia Workers course. Possesses all the necessary skills to build a colony and extract useful resources.</OE_Worker.description>
+<OE_Worker.title>黑曜石工人</OE_Worker.title>
+<OE_Worker.titleShort>工人</OE_Worker.titleShort>
+<OE_Worker.description>[PAWN_nameDef]完成了黑曜石工人课程。拥有建设殖民地和提取有用资源的所有必要技能。</OE_Worker.description>
 
 <!--=============== Scientist ====================-->
-<OE_Scientist.title>obsidia scientist</OE_Scientist.title>
-<OE_Scientist.titleShort>scientist</OE_Scientist.titleShort>
-<OE_Scientist.description>[PAWN_nameDef] completed Obsidia Scientists course. Possesses all the necessary skills for the development and improvement the colony.</OE_Scientist.description>
+<OE_Scientist.title>黑曜石科学家</OE_Scientist.title>
+<OE_Scientist.titleShort>科学家</OE_Scientist.titleShort>
+<OE_Scientist.description>[PAWN_nameDef]完成了黑曜石科学家课程。拥有发展和改进殖民地的所有必要技能。</OE_Scientist.description>
 
 <!--=============== Artisan ====================-->
-<OE_Artisan.title>obsidia artisan</OE_Artisan.title>
-<OE_Artisan.titleShort>artisan</OE_Artisan.titleShort>
-<OE_Artisan.description>[PAWN_nameDef] mastered the arts of form and function in Obsidia’s creative guilds. Able to turn even discarded scrap into breathtaking works. Has an eye for beauty, but little interest in fieldwork.</OE_Artisan.description>
+<OE_Artisan.title>黑曜石工匠</OE_Artisan.title>
+<OE_Artisan.titleShort>工匠</OE_Artisan.titleShort>
+<OE_Artisan.description>[PAWN_nameDef]在黑曜石的创意公会中掌握了形式与功能的艺术。能够将废弃的废料变成令人惊叹的作品。有审美眼光，但对实地工作兴趣不大。</OE_Artisan.description>
 
 <!--=============== Trader ====================-->
-<OE_Trader.title>obsidia trader</OE_Trader.title>
-<OE_Trader.titleShort>trader</OE_Trader.titleShort>
-<OE_Trader.description>[PAWN_nameDef] traveled between scattered Obsidia enclaves, negotiating deals and uncovering rare goods. Learned to read people well—but rarely touched a tool or weapon.</OE_Trader.description>
+<OE_Trader.title>黑曜石商人</OE_Trader.title>
+<OE_Trader.titleShort>商人</OE_Trader.titleShort>
+<OE_Trader.description>[PAWN_nameDef]在分散的黑曜石飞地之间旅行，谈判交易并发现稀有商品。善于识人，但很少接触工具或武器。</OE_Trader.description>
 
 <!--=============== Caretaker ====================-->
-<OE_Caretaker.title>obsidia caretaker</OE_Caretaker.title>
-<OE_Caretaker.titleShort>caretaker</OE_Caretaker.titleShort>
-<OE_Caretaker.description>[PAWN_nameDef] devoted years to caring for Obsidia’s wounded, orphans, and beasts of burden. Soft-spoken and patient, but ill-suited for combat roles.</OE_Caretaker.description>
+<OE_Caretaker.title>黑曜石看护者</OE_Caretaker.title>
+<OE_Caretaker.titleShort>看护者</OE_Caretaker.titleShort>
+<OE_Caretaker.description>[PAWN_nameDef]多年来致力于照顾黑曜石的伤者、孤儿和役畜。说话轻柔耐心，但不适合战斗角色。</OE_Caretaker.description>
 
 <!--=============== Scholar ====================-->
-<OE_Scholar.title>obsidia scholar</OE_Scholar.title>
-<OE_Scholar.titleShort>scholar</OE_Scholar.titleShort>
-<OE_Scholar.description>[PAWN_nameDef] spent countless hours in databanks and echo-archives, studying Obsidia’s forgotten legacies. Brilliant with theory—awkward with social and tools.</OE_Scholar.description>
+<OE_Scholar.title>黑曜石学者</OE_Scholar.title>
+<OE_Scholar.titleShort>学者</OE_Scholar.titleShort>
+<OE_Scholar.description>[PAWN_nameDef]在数据库和回音档案中度过了无数个小时，研究黑曜石被遗忘的遗产。理论方面很出色，但在社交和工具方面很笨拙。</OE_Scholar.description>
 
 <!--=============== Engineer ====================-->
-<OE_Engineer.title>obsidia engineer</OE_Engineer.title>
-<OE_Engineer.titleShort>engineer</OE_Engineer.titleShort>
-<OE_Engineer.description>[PAWN_nameDef] worked on critical infrastructure during the collapse of the Obsidia core systems. Skilled at building and repairing, but tends to avoid social entanglements.</OE_Engineer.description>
+<OE_Engineer.title>黑曜石工程师</OE_Engineer.title>
+<OE_Engineer.titleShort>工程师</OE_Engineer.titleShort>
+<OE_Engineer.description>[PAWN_nameDef]在黑曜石核心系统崩溃期间负责关键基础设施。擅长建造和维修，但倾向于避免社交纠葛。</OE_Engineer.description>
 
 <!--=============== Psycaster ====================-->
-<OE_Psy.title>obsidia psycaster</OE_Psy.title>
-<OE_Psy.titleShort>psycaster</OE_Psy.titleShort>
-<OE_Psy.description>[PAWN_nameDef] representative of one of the ancient genera of Obsidia. Instead of participating in political clashes for power, chose the path of conquering new lands. Has excellent intellectual abilities and a sense of beauty.</OE_Psy.description>
+<OE_Psy.title>黑曜石灵能者</OE_Psy.title>
+<OE_Psy.titleShort>灵能者</OE_Psy.titleShort>
+<OE_Psy.description>[PAWN_nameDef]是黑曜石古代血统的代表。没有参与权力的政治冲突，而是选择了征服新土地的道路。拥有出色的知识能力和美感。</OE_Psy.description>
 
 <!--=============== Mindseeker ====================-->
-<OE_Mindseeker.title>obsidia mindseeker</OE_Mindseeker.title>
-<OE_Mindseeker.titleShort>mindseeker</OE_Mindseeker.titleShort>
-<OE_Mindseeker.description>[PAWN_nameDef] representative of Obsidia spiritual circles. Dedicated their life to inner harmony, healing, and understanding the unseen. Gifted in speech and medicine.</OE_Mindseeker.description>
+<OE_Mindseeker.title>黑曜石心灵探索者</OE_Mindseeker.title>
+<OE_Mindseeker.titleShort>心灵探索者</OE_Mindseeker.titleShort>
+<OE_Mindseeker.description>[PAWN_nameDef]是黑曜石精神圈的代表。致力于内在和谐、治疗和理解无形之物。在言语和医学方面有天赋。</OE_Mindseeker.description>
 
 <!--=============== Mechanitor ====================-->
-<OE_Mechanitor.title>obsidia mechanitor</OE_Mechanitor.title>
-<OE_Mechanitor.titleShort>mechanitor</OE_Mechanitor.titleShort>
-<OE_Mechanitor.description>[PAWN_nameDef] representative of one of the most popular Obsidia mecha fan clubs. Becoming a full-fledged mechanitor is able to reveal hiden potential. Possesses excellent creative skills.</OE_Mechanitor.description>
+<OE_Mechanitor.title>黑曜石机械师</OE_Mechanitor.title>
+<OE_Mechanitor.titleShort>机械师</OE_Mechanitor.titleShort>
+<OE_Mechanitor.description>[PAWN_nameDef]是黑曜石最受欢迎的机甲粉丝俱乐部之一的代表。成为成熟的机械师后能够释放隐藏的潜力。拥有出色的创造技能。</OE_Mechanitor.description>
 
 <!--=============== Mech-architect ====================-->
-<OE_Mecharchitect.title>obsidia mech-architect</OE_Mecharchitect.title>
-<OE_Mecharchitect.titleShort>mech-architect</OE_Mecharchitect.titleShort>
-<OE_Mecharchitect.description>[PAWN_nameDef] former employee of Obsidia robotics foundries. Specialized in chassis design and autonomous systems. Possesses outstanding artistic talent.</OE_Mecharchitect.description>
+<OE_Mecharchitect.title>黑曜石机械建筑师</OE_Mecharchitect.title>
+<OE_Mecharchitect.titleShort>机械建筑师</OE_Mecharchitect.titleShort>
+<OE_Mecharchitect.description>[PAWN_nameDef]曾是黑曜石机器人铸造厂的前雇员。专攻底盘设计和自主系统。拥有出色的艺术天赋。</OE_Mecharchitect.description>
 
 <!--=============== Combat ====================-->
 <!--=============== Melee ====================-->
-<OE_Soldier_Melee.title>obsidia warrior</OE_Soldier_Melee.title>
-<OE_Soldier_Melee.titleShort>warrior</OE_Soldier_Melee.titleShort>
-<OE_Soldier_Melee.description>[PAWN_nameDef] completed combat Obsidia Warriors courses. Trained in close combat and medicine to keep his comrades healthy.</OE_Soldier_Melee.description>
+<OE_Soldier_Melee.title>黑曜石战士</OE_Soldier_Melee.title>
+<OE_Soldier_Melee.titleShort>战士</OE_Soldier_Melee.titleShort>
+<OE_Soldier_Melee.description>[PAWN_nameDef]完成了黑曜石战士战斗课程。接受近战和医学训练以保持战友健康。</OE_Soldier_Melee.description>
 
 <!--=============== Psy-Melee ====================-->
-<OE_Soldier_MeleePsy.title>obsidia warpriest</OE_Soldier_MeleePsy.title>
-<OE_Soldier_MeleePsy.titleShort>warpriest</OE_Soldier_MeleePsy.titleShort>
-<OE_Soldier_MeleePsy.description>[PAWN_nameDef] underwent intensive combat and psi-training under the Obsidia Inquisition. Trained to inspire allies and eliminate enemies with righteous fury. Skilled in melee combat and social influence.</OE_Soldier_MeleePsy.description>
+<OE_Soldier_MeleePsy.title>黑曜石战争牧师</OE_Soldier_MeleePsy.title>
+<OE_Soldier_MeleePsy.titleShort>战争牧师</OE_Soldier_MeleePsy.titleShort>
+<OE_Soldier_MeleePsy.description>[PAWN_nameDef]在黑曜石宗教裁判所接受了密集的战斗和灵能训练。训练以正义的愤怒激励盟友并消灭敌人。擅长近战和社交影响。</OE_Soldier_MeleePsy.description>
 
 <!--=============== Ranged ====================-->
-<OE_Soldier_Ranged.title>obsidia gunner</OE_Soldier_Ranged.title>
-<OE_Soldier_Ranged.titleShort>gunner</OE_Soldier_Ranged.titleShort>
-<OE_Soldier_Ranged.description>[PAWN_nameDef] completed combat Obsidia Gunners courses. Trained in ranged combat and construction skills to maintain vehicles and buildings.</OE_Soldier_Ranged.description>
+<OE_Soldier_Ranged.title>黑曜石枪手</OE_Soldier_Ranged.title>
+<OE_Soldier_Ranged.titleShort>枪手</OE_Soldier_Ranged.titleShort>
+<OE_Soldier_Ranged.description>[PAWN_nameDef]完成了黑曜石枪手战斗课程。接受远程战斗和建筑技能培训以维护车辆和建筑物。</OE_Soldier_Ranged.description>
 
 <!--=============== Psy-Ranged ====================-->
-<OE_Soldier_RangedPsy.title>obsidia reaver</OE_Soldier_RangedPsy.title>
-<OE_Soldier_RangedPsy.titleShort>reaver</OE_Soldier_RangedPsy.titleShort>
-<OE_Soldier_RangedPsy.description>[PAWN_nameDef] descendant of Obsidia nobility who chose the path of a psi-warrior. Completed specialized military training focused on precision and tactical superiority. Highly skilled in ranged combat and intellectual pursuits.</OE_Soldier_RangedPsy.description>
+<OE_Soldier_RangedPsy.title>黑曜石掠夺者</OE_Soldier_RangedPsy.title>
+<OE_Soldier_RangedPsy.titleShort>掠夺者</OE_Soldier_RangedPsy.titleShort>
+<OE_Soldier_RangedPsy.description>[PAWN_nameDef]是选择灵能战士道路的黑曜石贵族后裔。完成了专注于精确性和战术优势的专门军事训练。在远程战斗和知识追求方面技能高超。</OE_Soldier_RangedPsy.description>
 
 </LanguageData>

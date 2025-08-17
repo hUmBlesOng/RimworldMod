@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
 <!--=============== Royal Target ====================-->
-<OE_RoyalTarget.label>royal target</OE_RoyalTarget.label>
-<OE_RoyalTarget.description>This ability places a lasting mark on the target, designating them as prey for the nobility of Obsidia Empire. The marked target suffers mental weakening, takes increased damage, and experiences a reduction in movement speed, making escape nearly impossible.</OE_RoyalTarget.description>
+<OE_RoyalTarget.label>皇家目标</OE_RoyalTarget.label>
+<OE_RoyalTarget.description>此能力在目标身上放置一个持久标记，将其指定为黑曜石帝国贵族的猎物。被标记的目标会遭受精神削弱，承受更多伤害，并且移动速度降低，几乎无法逃脱。</OE_RoyalTarget.description>
 
 </LanguageData>

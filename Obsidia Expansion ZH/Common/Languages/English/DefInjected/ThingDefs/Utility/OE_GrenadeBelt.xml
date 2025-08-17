@@ -1,65 +1,65 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== OTC ====================-->
 <!--=============== Acid ====================-->
-<OTC_GrenadeBelt_Acid.label>OTC grenade belt(Acid)</OTC_GrenadeBelt_Acid.label>
-<OTC_GrenadeBelt_Acid.description>A grenade belt loaded with explosives that deal powerful Acid damage on explode. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. Designed and modified for use by OTC Engineers.\n\nCan be reloaded using Obsidia Ammo Kit.</OTC_GrenadeBelt_Acid.description>
-<OTC_GrenadeBelt_Acid.verbs.throw_acid_grenade.label>throw acid grenade</OTC_GrenadeBelt_Acid.verbs.throw_acid_grenade.label>
-<OTC_GrenadeBelt_Acid.comps.CompApparelReloadable.chargeNoun>grenade</OTC_GrenadeBelt_Acid.comps.CompApparelReloadable.chargeNoun>
-<OTC_GrenadeBelt_Acid.comps.CompApparelReloadable.cooldownGerund>on cooldown</OTC_GrenadeBelt_Acid.comps.CompApparelReloadable.cooldownGerund>
+<OTC_GrenadeBelt_Acid.label>OTC手榴弹腰带(酸性)</OTC_GrenadeBelt_Acid.label>
+<OTC_GrenadeBelt_Acid.description>装有爆炸物的手榴弹带，爆炸时造成强大的酸性伤害。可以投掷到短距离内，在那里爆炸，对附近任何事物和人员造成伤害。专为OTC工程师使用而设计和改装。\n\n可以使用黑曜石弹药包重新装填。</OTC_GrenadeBelt_Acid.description>
+<OTC_GrenadeBelt_Acid.verbs.throw_acid_grenade.label>投掷酸性手榴弹</OTC_GrenadeBelt_Acid.verbs.throw_acid_grenade.label>
+<OTC_GrenadeBelt_Acid.comps.CompApparelReloadable.chargeNoun>手榴弹</OTC_GrenadeBelt_Acid.comps.CompApparelReloadable.chargeNoun>
+<OTC_GrenadeBelt_Acid.comps.CompApparelReloadable.cooldownGerund>冷却中</OTC_GrenadeBelt_Acid.comps.CompApparelReloadable.cooldownGerund>
 
-<Grenade_GrenadeBelt_OTC_Acid.label>OTC grenade(Acid)</Grenade_GrenadeBelt_OTC_Acid.label>
+<Grenade_GrenadeBelt_OTC_Acid.label>OTC手榴弹(酸性)</Grenade_GrenadeBelt_OTC_Acid.label>
 <!--=============== Cryo ====================-->
-<OTC_GrenadeBelt_Cryo.label>OTC grenade belt(Cryo)</OTC_GrenadeBelt_Cryo.label>
-<OTC_GrenadeBelt_Cryo.description>A grenade belt loaded with explosives that deal powerful Cryo damage on explode. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. Designed and modified for use by OTC Engineers.\n\nCan be reloaded using Obsidia Ammo Kit.</OTC_GrenadeBelt_Cryo.description>
-<OTC_GrenadeBelt_Cryo.verbs.throw_cryo_grenade.label>throw cryo grenade</OTC_GrenadeBelt_Cryo.verbs.throw_cryo_grenade.label>
-<OTC_GrenadeBelt_Cryo.comps.CompApparelReloadable.chargeNoun>grenade</OTC_GrenadeBelt_Cryo.comps.CompApparelReloadable.chargeNoun>
-<OTC_GrenadeBelt_Cryo.comps.CompApparelReloadable.cooldownGerund>on cooldown</OTC_GrenadeBelt_Cryo.comps.CompApparelReloadable.cooldownGerund>
+<OTC_GrenadeBelt_Cryo.label>OTC手榴弹腰带(冷冻)</OTC_GrenadeBelt_Cryo.label>
+<OTC_GrenadeBelt_Cryo.description>装有爆炸物的手榴弹带，爆炸时造成强大的冷冻伤害。可以投掷到短距离内，在那里爆炸，对附近任何事物和人员造成伤害。专为OTC工程师使用而设计和改装。\n\n可以使用黑曜石弹药包重新装填。</OTC_GrenadeBelt_Cryo.description>
+<OTC_GrenadeBelt_Cryo.verbs.throw_cryo_grenade.label>投掷冷冻手榴弹</OTC_GrenadeBelt_Cryo.verbs.throw_cryo_grenade.label>
+<OTC_GrenadeBelt_Cryo.comps.CompApparelReloadable.chargeNoun>手榴弹</OTC_GrenadeBelt_Cryo.comps.CompApparelReloadable.chargeNoun>
+<OTC_GrenadeBelt_Cryo.comps.CompApparelReloadable.cooldownGerund>冷却中</OTC_GrenadeBelt_Cryo.comps.CompApparelReloadable.cooldownGerund>
 
-<Grenade_GrenadeBelt_OTC_Cryo.label>OTC grenade(Cryo)</Grenade_GrenadeBelt_OTC_Cryo.label>
+<Grenade_GrenadeBelt_OTC_Cryo.label>OTC手榴弹(冷冻)</Grenade_GrenadeBelt_OTC_Cryo.label>
 <!--=============== Fire ====================-->
-<OTC_GrenadeBelt_Fire.label>OTC grenade belt(Fire)</OTC_GrenadeBelt_Fire.label>
-<OTC_GrenadeBelt_Fire.description>A grenade belt loaded with explosives that deal powerful Fire damage on explode. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. Designed and modified for use by OTC Engineers.\n\nCan be reloaded using Obsidia Ammo Kit.</OTC_GrenadeBelt_Fire.description>
-<OTC_GrenadeBelt_Fire.verbs.throw_fire_grenade.label>throw fire grenade</OTC_GrenadeBelt_Fire.verbs.throw_fire_grenade.label>
-<OTC_GrenadeBelt_Fire.comps.CompApparelReloadable.chargeNoun>grenade</OTC_GrenadeBelt_Fire.comps.CompApparelReloadable.chargeNoun>
-<OTC_GrenadeBelt_Fire.comps.CompApparelReloadable.cooldownGerund>on cooldown</OTC_GrenadeBelt_Fire.comps.CompApparelReloadable.cooldownGerund>
+<OTC_GrenadeBelt_Fire.label>OTC手榴弹腰带(火焰)</OTC_GrenadeBelt_Fire.label>
+<OTC_GrenadeBelt_Fire.description>装有爆炸物的手榴弹带，爆炸时造成强大的火焰伤害。可以投掷到短距离内，在那里爆炸，对附近任何事物和人员造成伤害。专为OTC工程师使用而设计和改装。\n\n可以使用黑曜石弹药包重新装填。</OTC_GrenadeBelt_Fire.description>
+<OTC_GrenadeBelt_Fire.verbs.throw_fire_grenade.label>投掷火焰手榴弹</OTC_GrenadeBelt_Fire.verbs.throw_fire_grenade.label>
+<OTC_GrenadeBelt_Fire.comps.CompApparelReloadable.chargeNoun>手榴弹</OTC_GrenadeBelt_Fire.comps.CompApparelReloadable.chargeNoun>
+<OTC_GrenadeBelt_Fire.comps.CompApparelReloadable.cooldownGerund>冷却中</OTC_GrenadeBelt_Fire.comps.CompApparelReloadable.cooldownGerund>
 
-<Grenade_GrenadeBelt_OTC_Fire.label>OTC grenade(Fire)</Grenade_GrenadeBelt_OTC_Fire.label>
+<Grenade_GrenadeBelt_OTC_Fire.label>OTC手榴弹(火焰)</Grenade_GrenadeBelt_OTC_Fire.label>
 <!--=============== EMP ====================-->
-<OTC_GrenadeBelt_EMP.label>OTC grenade belt(EMP)</OTC_GrenadeBelt_EMP.label>
-<OTC_GrenadeBelt_EMP.description>A grenade belt loaded with explosives that deal powerful EMP damage on explode. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. Designed and modified for use by OTC Engineers.\n\nCan be reloaded using Obsidia Ammo Kit.</OTC_GrenadeBelt_EMP.description>
-<OTC_GrenadeBelt_EMP.verbs.throw_EMP_grenade.label>throw EMP grenade</OTC_GrenadeBelt_EMP.verbs.throw_EMP_grenade.label>
-<OTC_GrenadeBelt_EMP.comps.CompApparelReloadable.chargeNoun>grenade</OTC_GrenadeBelt_EMP.comps.CompApparelReloadable.chargeNoun>
-<OTC_GrenadeBelt_EMP.comps.CompApparelReloadable.cooldownGerund>on cooldown</OTC_GrenadeBelt_EMP.comps.CompApparelReloadable.cooldownGerund>
+<OTC_GrenadeBelt_EMP.label>OTC手榴弹腰带(电磁脉冲)</OTC_GrenadeBelt_EMP.label>
+<OTC_GrenadeBelt_EMP.description>装有爆炸物的手榴弹带，爆炸时造成强大的电磁脉冲伤害。可以投掷到短距离内，在那里爆炸，对附近任何事物和人员造成伤害。专为OTC工程师使用而设计和改装。\n\n可以使用黑曜石弹药包重新装填。</OTC_GrenadeBelt_EMP.description>
+<OTC_GrenadeBelt_EMP.verbs.throw_EMP_grenade.label>投掷电磁脉冲手榴弹</OTC_GrenadeBelt_EMP.verbs.throw_EMP_grenade.label>
+<OTC_GrenadeBelt_EMP.comps.CompApparelReloadable.chargeNoun>手榴弹</OTC_GrenadeBelt_EMP.comps.CompApparelReloadable.chargeNoun>
+<OTC_GrenadeBelt_EMP.comps.CompApparelReloadable.cooldownGerund>冷却中</OTC_GrenadeBelt_EMP.comps.CompApparelReloadable.cooldownGerund>
 
-<Grenade_GrenadeBelt_OTC_EMP.label>OTC grenade(EMP)</Grenade_GrenadeBelt_OTC_EMP.label>
+<Grenade_GrenadeBelt_OTC_EMP.label>OTC手榴弹(电磁脉冲)</Grenade_GrenadeBelt_OTC_EMP.label>
 
 <!--=============== OCC ====================-->
-<OCC_GrenadeBelt.label>OCC grenade belt</OCC_GrenadeBelt.label>
-<OCC_GrenadeBelt.description>A grenade belt loaded with explosives that deal powerful Blast damage on explode. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. Designed and modified for use by OCC Paladins.\n\nCan be reloaded using Obsidia Ammo Kit.</OCC_GrenadeBelt.description>
-<OCC_GrenadeBelt.verbs.throw_blast_grenade.label>throw blast grenade</OCC_GrenadeBelt.verbs.throw_blast_grenade.label>
-<OCC_GrenadeBelt.comps.CompApparelReloadable.chargeNoun>grenade</OCC_GrenadeBelt.comps.CompApparelReloadable.chargeNoun>
-<OCC_GrenadeBelt.comps.CompApparelReloadable.cooldownGerund>on cooldown</OCC_GrenadeBelt.comps.CompApparelReloadable.cooldownGerund>
+<OCC_GrenadeBelt.label>OCC手榴弹腰带</OCC_GrenadeBelt.label>
+<OCC_GrenadeBelt.description>装有爆炸物的手榴弹带，爆炸时造成强大的爆炸伤害。可以投掷到短距离内，在那里爆炸，对附近任何事物和人员造成伤害。专为OCC圣骑士使用而设计和改装。\n\n可以使用黑曜石弹药包重新装填。</OCC_GrenadeBelt.description>
+<OCC_GrenadeBelt.verbs.throw_blast_grenade.label>投掷爆炸手榴弹</OCC_GrenadeBelt.verbs.throw_blast_grenade.label>
+<OCC_GrenadeBelt.comps.CompApparelReloadable.chargeNoun>手榴弹</OCC_GrenadeBelt.comps.CompApparelReloadable.chargeNoun>
+<OCC_GrenadeBelt.comps.CompApparelReloadable.cooldownGerund>冷却中</OCC_GrenadeBelt.comps.CompApparelReloadable.cooldownGerund>
 
-<Grenade_GrenadeBelt_OCC.label>OCC grenade</Grenade_GrenadeBelt_OCC.label>
+<Grenade_GrenadeBelt_OCC.label>OCC手榴弹</Grenade_GrenadeBelt_OCC.label>
 
 <!--=============== ODC ====================-->
-<ODC_GrenadeBelt.label>ODC grenade belt</ODC_GrenadeBelt.label>
-<ODC_GrenadeBelt.description>A grenade belt loaded with explosives that deal powerful Stun damage on explode. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. Designed for use by Obsidia Drifters.\n\nCan be reloaded using Obsidia Ammo Kit.</ODC_GrenadeBelt.description>
-<ODC_GrenadeBelt.verbs.throw_stun_grenade.label>throw stun grenade</ODC_GrenadeBelt.verbs.throw_stun_grenade.label>
-<ODC_GrenadeBelt.comps.CompApparelReloadable.chargeNoun>grenade</ODC_GrenadeBelt.comps.CompApparelReloadable.chargeNoun>
-<ODC_GrenadeBelt.comps.CompApparelReloadable.cooldownGerund>on cooldown</ODC_GrenadeBelt.comps.CompApparelReloadable.cooldownGerund>
+<ODC_GrenadeBelt.label>ODC手榴弹腰带</ODC_GrenadeBelt.label>
+<ODC_GrenadeBelt.description>装有爆炸物的手榴弹带，爆炸时造成强大的眩晕伤害。可以投掷到短距离内，在那里爆炸，对附近任何事物和人员造成伤害。专为黑曜石漂泊者使用而设计。\n\n可以使用黑曜石弹药包重新装填。</ODC_GrenadeBelt.description>
+<ODC_GrenadeBelt.verbs.throw_stun_grenade.label>投掷眩晕手榴弹</ODC_GrenadeBelt.verbs.throw_stun_grenade.label>
+<ODC_GrenadeBelt.comps.CompApparelReloadable.chargeNoun>手榴弹</ODC_GrenadeBelt.comps.CompApparelReloadable.chargeNoun>
+<ODC_GrenadeBelt.comps.CompApparelReloadable.cooldownGerund>冷却中</ODC_GrenadeBelt.comps.CompApparelReloadable.cooldownGerund>
 
-<Grenade_GrenadeBelt_ODC.label>ODC grenade</Grenade_GrenadeBelt_ODC.label>
+<Grenade_GrenadeBelt_ODC.label>ODC手榴弹</Grenade_GrenadeBelt_ODC.label>
 
 <!--=============== OMG ====================-->
-<OMG_GrenadeBelt.label>Mercenaries grenade belt</OMG_GrenadeBelt.label>
-<OMG_GrenadeBelt.description>A grenade belt loaded with explosives that deal powerful Necrobane damage on explode. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. Designed for use by Mercenaries.\n\nCan be reloaded using Obsidia Ammo Kit.</OMG_GrenadeBelt.description>
-<OMG_GrenadeBelt.verbs.throw_necrobane_grenade.label>throw necrobane grenade</OMG_GrenadeBelt.verbs.throw_necrobane_grenade.label>
-<OMG_GrenadeBelt.comps.CompApparelReloadable.chargeNoun>grenade</OMG_GrenadeBelt.comps.CompApparelReloadable.chargeNoun>
-<OMG_GrenadeBelt.comps.CompApparelReloadable.cooldownGerund>on cooldown</OMG_GrenadeBelt.comps.CompApparelReloadable.cooldownGerund>
+<OMG_GrenadeBelt.label>雇佣兵手榴弹腰带</OMG_GrenadeBelt.label>
+<OMG_GrenadeBelt.description>装有爆炸物的手榴弹带，爆炸时造成强大的死灵伤害。可以投掷到短距离内，在那里爆炸，对附近任何事物和人员造成伤害。专为雇佣兵使用而设计。\n\n可以使用黑曜石弹药包重新装填。</OMG_GrenadeBelt.description>
+<OMG_GrenadeBelt.verbs.throw_necrobane_grenade.label>投掷死灵手榴弹</OMG_GrenadeBelt.verbs.throw_necrobane_grenade.label>
+<OMG_GrenadeBelt.comps.CompApparelReloadable.chargeNoun>手榴弹</OMG_GrenadeBelt.comps.CompApparelReloadable.chargeNoun>
+<OMG_GrenadeBelt.comps.CompApparelReloadable.cooldownGerund>冷却中</OMG_GrenadeBelt.comps.CompApparelReloadable.cooldownGerund>
 
-<Grenade_GrenadeBelt_OMG.label>OMG grenade</Grenade_GrenadeBelt_OMG.label>
+<Grenade_GrenadeBelt_OMG.label>OMG手榴弹</Grenade_GrenadeBelt_OMG.label>
 
 </LanguageData>

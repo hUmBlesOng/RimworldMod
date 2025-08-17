@@ -1,41 +1,41 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
-<!--=============== MCV Upgrade Tree ====================-->
-<ODC_MCV_UpgradeTree.nodes.0.label>Expanded Cargo Space</ODC_MCV_UpgradeTree.nodes.0.label>
-<ODC_MCV_UpgradeTree.nodes.0.description>Increase the amount of cargo that can be hauled by this vehicle.</ODC_MCV_UpgradeTree.nodes.0.description>
+<!--=============== MCV升级树 ====================-->
+<ODC_MCV_UpgradeTree.nodes.0.label>扩展货舱空间</ODC_MCV_UpgradeTree.nodes.0.label>
+<ODC_MCV_UpgradeTree.nodes.0.description>增加该载具可运输的货物量。</ODC_MCV_UpgradeTree.nodes.0.description>
 
-<ODC_MCV_UpgradeTree.nodes.1.label>Reinforced Armor</ODC_MCV_UpgradeTree.nodes.1.label>
-<ODC_MCV_UpgradeTree.nodes.1.description>Weld a layer of reinforced obsidian plating to the vehicle, increasing its armor value at the cost of increasing vehicle mass and lowering acceleration.</ODC_MCV_UpgradeTree.nodes.1.description>
+<ODC_MCV_UpgradeTree.nodes.1.label>强化装甲</ODC_MCV_UpgradeTree.nodes.1.label>
+<ODC_MCV_UpgradeTree.nodes.1.description>在载具上焊接一层强化黑曜石装甲板，增加其装甲值，但会增加载具重量并降低加速度。</ODC_MCV_UpgradeTree.nodes.1.description>
 
-<ODC_MCV_UpgradeTree.nodes.2.label>Armored Wheels</ODC_MCV_UpgradeTree.nodes.2.label>
-<ODC_MCV_UpgradeTree.nodes.2.description>Improve the armor of the wheels by covering them in thick obsidian plating.</ODC_MCV_UpgradeTree.nodes.2.description>
+<ODC_MCV_UpgradeTree.nodes.2.label>装甲车轮</ODC_MCV_UpgradeTree.nodes.2.label>
+<ODC_MCV_UpgradeTree.nodes.2.description>用车厚黑曜石装甲板覆盖车轮来提高车轮装甲。</ODC_MCV_UpgradeTree.nodes.2.description>
 
-<ODC_MCV_UpgradeTree.nodes.3.label>Off Road Tires</ODC_MCV_UpgradeTree.nodes.3.label>
-<ODC_MCV_UpgradeTree.nodes.3.description>Replace the tires with deep threaded tires that provide more traction and will allow the vehicle to move significantly faster offroad.</ODC_MCV_UpgradeTree.nodes.3.description>
+<ODC_MCV_UpgradeTree.nodes.3.label>越野轮胎</ODC_MCV_UpgradeTree.nodes.3.label>
+<ODC_MCV_UpgradeTree.nodes.3.description>用深纹轮胎替换原有轮胎，提供更好的牵引力，使载具在越野时能显著提高速度。</ODC_MCV_UpgradeTree.nodes.3.description>
 
-<ODC_MCV_UpgradeTree.nodes.4.label>Improved Exhaust</ODC_MCV_UpgradeTree.nodes.4.label>
-<ODC_MCV_UpgradeTree.nodes.4.description>Change the exhaust system of the vehicle into a more efficient one, decreasing the visibility of the vehicle and improving fuel efficiency.</ODC_MCV_UpgradeTree.nodes.4.description>
+<ODC_MCV_UpgradeTree.nodes.4.label>改进排气系统</ODC_MCV_UpgradeTree.nodes.4.label>
+<ODC_MCV_UpgradeTree.nodes.4.description>将载具的排气系统更换为更高效的版本，降低载具的可见性并提高燃油效率。</ODC_MCV_UpgradeTree.nodes.4.description>
 
-<ODC_MCV_UpgradeTree.nodes.5.label>Big Fueltanks</ODC_MCV_UpgradeTree.nodes.5.label>
-<ODC_MCV_UpgradeTree.nodes.5.description>Attach two big fueltanks to the bottom of the vehicle to allow it to travel greater distances without the risk of running out of fuel.</ODC_MCV_UpgradeTree.nodes.5.description>
+<ODC_MCV_UpgradeTree.nodes.5.label>大型油箱</ODC_MCV_UpgradeTree.nodes.5.label>
+<ODC_MCV_UpgradeTree.nodes.5.description>在载具底部安装两个大型油箱，使其能够在不担心燃料耗尽的情况下行驶更远的距离。</ODC_MCV_UpgradeTree.nodes.5.description>
 
-<ODC_MCV_UpgradeTree.nodes.6.label>Cargo Capacity</ODC_MCV_UpgradeTree.nodes.6.label>
-<ODC_MCV_UpgradeTree.nodes.6.description>Improve the cargo capacity of the vehicle slightly.</ODC_MCV_UpgradeTree.nodes.6.description>
+<ODC_MCV_UpgradeTree.nodes.6.label>货舱容量</ODC_MCV_UpgradeTree.nodes.6.label>
+<ODC_MCV_UpgradeTree.nodes.6.description>略微提高载具的货舱容量。</ODC_MCV_UpgradeTree.nodes.6.description>
 
-<ODC_MCV_UpgradeTree.nodes.7.label>Armor</ODC_MCV_UpgradeTree.nodes.7.label>
-<ODC_MCV_UpgradeTree.nodes.7.description>Reinforce the armor of the vehicle slightly.</ODC_MCV_UpgradeTree.nodes.7.description>
+<ODC_MCV_UpgradeTree.nodes.7.label>装甲</ODC_MCV_UpgradeTree.nodes.7.label>
+<ODC_MCV_UpgradeTree.nodes.7.description>略微强化载具的装甲。</ODC_MCV_UpgradeTree.nodes.7.description>
 
-<ODC_MCV_UpgradeTree.nodes.8.label>Speed</ODC_MCV_UpgradeTree.nodes.8.label>
-<ODC_MCV_UpgradeTree.nodes.8.description>Improve the engine of the vehicle, allowing it to reach higher maximum speed.</ODC_MCV_UpgradeTree.nodes.8.description>
+<ODC_MCV_UpgradeTree.nodes.8.label>速度</ODC_MCV_UpgradeTree.nodes.8.label>
+<ODC_MCV_UpgradeTree.nodes.8.description>改进载具的引擎，使其能够达到更高的最高速度。</ODC_MCV_UpgradeTree.nodes.8.description>
 
-<ODC_MCV_UpgradeTree.nodes.9.label>Acceleration</ODC_MCV_UpgradeTree.nodes.9.label>
-<ODC_MCV_UpgradeTree.nodes.9.description>Improve shifting capabilities of transmission to increase acceleration speed of the vehicle slightly.</ODC_MCV_UpgradeTree.nodes.9.description>
+<ODC_MCV_UpgradeTree.nodes.9.label>加速</ODC_MCV_UpgradeTree.nodes.9.label>
+<ODC_MCV_UpgradeTree.nodes.9.description>改进变速器的换挡能力，略微提高载具的加速速度。</ODC_MCV_UpgradeTree.nodes.9.description>
 
-<ODC_MCV_UpgradeTree.nodes.10.label>Fuel Consumption</ODC_MCV_UpgradeTree.nodes.10.label>
-<ODC_MCV_UpgradeTree.nodes.10.description>Improve the exhaust system of the vehicle, improving fuel efficiency slightly.</ODC_MCV_UpgradeTree.nodes.10.description>
+<ODC_MCV_UpgradeTree.nodes.10.label>燃油消耗</ODC_MCV_UpgradeTree.nodes.10.label>
+<ODC_MCV_UpgradeTree.nodes.10.description>改进载具的排气系统，略微提高燃油效率。</ODC_MCV_UpgradeTree.nodes.10.description>
 
-<ODC_MCV_UpgradeTree.nodes.11.label>Fuel Capacity</ODC_MCV_UpgradeTree.nodes.11.label>
-<ODC_MCV_UpgradeTree.nodes.11.description>Increase the size of the fueltank slightly.</ODC_MCV_UpgradeTree.nodes.11.description>
+<ODC_MCV_UpgradeTree.nodes.11.label>燃油容量</ODC_MCV_UpgradeTree.nodes.11.label>
+<ODC_MCV_UpgradeTree.nodes.11.description>略微增加油箱的大小。</ODC_MCV_UpgradeTree.nodes.11.description>
 
 </LanguageData>

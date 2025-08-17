@@ -1,11 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
 <!--=============== Rimopoly Table ====================-->
-<OE_UseJoyTable.reportString>playing rimopoly.</OE_UseJoyTable.reportString>
+<OE_UseJoyTable.reportString>正在玩边缘大富翁。</OE_UseJoyTable.reportString>
   
 <!--=============== Rimotroops Arcade Machine ====================-->
-<OE_UseJoyArcadeMachine.reportString>playing rimotroops.</OE_UseJoyArcadeMachine.reportString>
+<OE_UseJoyArcadeMachine.reportString>正在玩边缘部队。</OE_UseJoyArcadeMachine.reportString>
 
   
 </LanguageData>

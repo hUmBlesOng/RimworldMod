@@ -1,69 +1,69 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== Compressed Syntherius ====================-->
-<OE_SyntheriusPack.label>compressed syntherius</OE_SyntheriusPack.label>
-<OE_SyntheriusPack.description>A batch of syntherius hermetically compressed into a special container for safe transportation and storage.\n\nFor further use, be sure to decompresse it.</OE_SyntheriusPack.description>
+<OE_SyntheriusPack.label>压缩合成素</OE_SyntheriusPack.label>
+<OE_SyntheriusPack.description>一批合成素被密封压缩到特殊容器中以安全运输和储存。\n\n如需进一步使用，请务必进行解压缩。</OE_SyntheriusPack.description>
 
-<OE_SyntheriusPack.comps.CompUsable.useLabel>Decompresse syntherius</OE_SyntheriusPack.comps.CompUsable.useLabel>
+<OE_SyntheriusPack.comps.CompUsable.useLabel>解压缩合成素</OE_SyntheriusPack.comps.CompUsable.useLabel>
 
 <!--=============== Arachna Core ====================-->
-<OE_ArachnaCore.label>arachna core</OE_ArachnaCore.label>
-<OE_ArachnaCore.description>A hyper-advanced computer core containing the AI persona of the Arachne Queen. It's unknown how the Crimson Arachna Cult got it, but with proper tuning it has huge potential.</OE_ArachnaCore.description>
+<OE_ArachnaCore.label>蛛后核心</OE_ArachnaCore.label>
+<OE_ArachnaCore.description>包含蛛后AI人格的超先进计算机核心。未知猩红蛛类教派是如何获得它的，但经过适当调校后具有巨大潜力。</OE_ArachnaCore.description>
 
-<OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.completedLetterLabel>Arachna Core studied: {RESEARCH} unlocked</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
-<OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.completedLetter>By studying the Arachna Core, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology.</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.completedLetter>
-<OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.activateLabelString>Analyze...</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.activateLabelString>
-<OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.activateDescString>Analyze the arachna core.</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.activateDescString>
-<OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.jobString>Analyze arachna core</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.jobString>
-<OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.guiLabelString>Choose who should analyze this</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.guiLabelString>
-<OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.inspectString>Can be analyzed by a colonist.</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.inspectString>
+<OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.completedLetterLabel>蛛后核心研究：{RESEARCH}已解锁</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+<OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.completedLetter>通过研究蛛后核心，{PAWN_labelShort}获得了研究项目{RESEARCH}所需的见解。\n\n您的研究人员现在可以使用研究台开始研究如何实际使用该技术。</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.completedLetter>
+<OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.activateLabelString>分析...</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.activateLabelString>
+<OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.activateDescString>分析蛛后核心。</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.activateDescString>
+<OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.jobString>分析蛛后核心</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.jobString>
+<OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.guiLabelString>选择应该分析此物品的人</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.guiLabelString>
+<OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.inspectString>可由殖民者分析。</OE_ArachnaCore.comps.CompAnalyzableUnlockResearch.inspectString>
 
 <!--=============== Syntherius Of Sin ====================-->
-<OE_SyntheriusOfSin.label>Syntherius of Sin</OE_SyntheriusOfSin.label>
-<OE_SyntheriusOfSin.description>A fragment of a strange Syntherius used at the heart of the Fallen Legion.</OE_SyntheriusOfSin.description>
+<OE_SyntheriusOfSin.label>罪恶合成素</OE_SyntheriusOfSin.label>
+<OE_SyntheriusOfSin.description>堕落军团核心使用的奇异合成素碎片。</OE_SyntheriusOfSin.description>
 
-<OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.completedLetterLabel>Syntherius of Sin studied: {RESEARCH} unlocked</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
-<OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.completedLetter>By studying the Syntherius of Sin, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology.</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.completedLetter>
-<OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.activateLabelString>Analyze...</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.activateLabelString>
-<OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.activateDescString>Analyze the Syntherius Of Sin.</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.activateDescString>
-<OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.jobString>Analyze Syntherius Of Sin</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.jobString>
-<OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.guiLabelString>Choose who should analyze this</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.guiLabelString>
-<OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.inspectString>Can be analyzed by a colonist.</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.inspectString>
+<OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.completedLetterLabel>罪恶合成素研究：{RESEARCH}已解锁</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+<OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.completedLetter>通过研究罪恶合成素，{PAWN_labelShort}获得了研究项目{RESEARCH}所需的见解。\n\n您的研究人员现在可以使用研究台开始研究如何实际使用该技术。</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.completedLetter>
+<OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.activateLabelString>分析...</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.activateLabelString>
+<OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.activateDescString>分析罪恶合成素。</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.activateDescString>
+<OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.jobString>分析罪恶合成素</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.jobString>
+<OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.guiLabelString>选择应该分析此物品的人</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.guiLabelString>
+<OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.inspectString>可由殖民者分析。</OE_SyntheriusOfSin.comps.CompAnalyzableUnlockResearch.inspectString>
 
 <!--=============== Unstable Stone ====================-->
-<OE_UnstableStone.label>ustable power stone</OE_UnstableStone.label>
-<OE_UnstableStone.description>An unstable power stone from legends. By studying it, you can be able to stabilize and use its power.</OE_UnstableStone.description>
+<OE_UnstableStone.label>不稳定的能量石</OE_UnstableStone.label>
+<OE_UnstableStone.description>传说中的不稳定能量石。通过研究它，您可以设法稳定并利用其力量。</OE_UnstableStone.description>
 
-<OE_UnstableStone.comps.CompAnalyzableUnlockResearch.completedLetterLabel>Ustable Power Stone studied: {RESEARCH} unlocked</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
-<OE_UnstableStone.comps.CompAnalyzableUnlockResearch.completedLetter>By studying the Ustable Power Stone, {PAWN_labelShort} has acquired the insight needed for the research project(s) {RESEARCH}.\n\nYour researchers can now use research benches to begin researching how to actually use the technology.</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.completedLetter>
-<OE_UnstableStone.comps.CompAnalyzableUnlockResearch.activateLabelString>Analyze...</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.activateLabelString>
-<OE_UnstableStone.comps.CompAnalyzableUnlockResearch.activateDescString>Analyze the Ustable Power Stone.</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.activateDescString>
-<OE_UnstableStone.comps.CompAnalyzableUnlockResearch.jobString>Analyze Ustable Power Stone</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.jobString>
-<OE_UnstableStone.comps.CompAnalyzableUnlockResearch.guiLabelString>Choose who should analyze this</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.guiLabelString>
-<OE_UnstableStone.comps.CompAnalyzableUnlockResearch.inspectString>Can be analyzed by a colonist.</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.inspectString>
+<OE_UnstableStone.comps.CompAnalyzableUnlockResearch.completedLetterLabel>不稳定能量石研究：{RESEARCH}已解锁</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.completedLetterLabel>
+<OE_UnstableStone.comps.CompAnalyzableUnlockResearch.completedLetter>通过研究不稳定能量石，{PAWN_labelShort}获得了研究项目{RESEARCH}所需的见解。\n\n您的研究人员现在可以使用研究台开始研究如何实际使用该技术。</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.completedLetter>
+<OE_UnstableStone.comps.CompAnalyzableUnlockResearch.activateLabelString>分析...</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.activateLabelString>
+<OE_UnstableStone.comps.CompAnalyzableUnlockResearch.activateDescString>分析不稳定能量石。</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.activateDescString>
+<OE_UnstableStone.comps.CompAnalyzableUnlockResearch.jobString>分析不稳定能量石</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.jobString>
+<OE_UnstableStone.comps.CompAnalyzableUnlockResearch.guiLabelString>选择应该分析此物品的人</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.guiLabelString>
+<OE_UnstableStone.comps.CompAnalyzableUnlockResearch.inspectString>可由殖民者分析。</OE_UnstableStone.comps.CompAnalyzableUnlockResearch.inspectString>
 
 <!--=============== Biophormids - Pherocore ====================-->
-<OE_PherocoreBiophormids.label>biophormids pherocore</OE_PherocoreBiophormids.label>
-<OE_PherocoreBiophormids.description>A pheromone controlling micro-organ. It is necessary to construct certain types of insectoid hives. Pherocores have been embedded deep into the brains of geneline leaders which allowed ancient civilizations to control the hives.\n\nThis pherocore belongs to the Biophormids geneline, artificially created from a blend of insectoid genes across the galaxy and advanced technologies, known for their humanoid forms and remarkable intelligence.</OE_PherocoreBiophormids.description>
+<OE_PherocoreBiophormids.label>生化虫族信息素核心</OE_PherocoreBiophormids.label>
+<OE_PherocoreBiophormids.description>控制信息素的微型器官。构建某些类型的虫族蜂巢所必需。信息素核心已深深植入基因系领袖的大脑中，这使古代文明能够控制蜂巢。\n\n这个信息素核心属于生化虫族基因系，由银河系各地的虫族基因和先进技术人工创造，以其人形形态和卓越智慧而闻名。</OE_PherocoreBiophormids.description>
 
-<OE_PherocoreBiophormids.comps.CompUsable.useLabel>Use {0_labelShort} to increase the size of the hive</OE_PherocoreBiophormids.comps.CompUsable.useLabel>
+<OE_PherocoreBiophormids.comps.CompUsable.useLabel>使用{0_labelShort}增加蜂巢规模</OE_PherocoreBiophormids.comps.CompUsable.useLabel>
 
 <!--=============== Mutated EGO Seeds ====================-->
 <!--=============== Elder Direwolf ====================-->
-<OE_EGOSeed_Elder_Direwolf.label>mutated EGO seed – Elder Direwolf</OE_EGOSeed_Elder_Direwolf.label>
-<OE_EGOSeed_Elder_Direwolf.description>Once the seed of an EGO tree, this specimen mutated under unknown conditions after entering the body of an Elder Direwolf. It sprouted within the host, forming an amalgam symbiosis. It can no longer be used to grow an EGO tree.</OE_EGOSeed_Elder_Direwolf.description>
+<OE_EGOSeed_Elder_Direwolf.label>变异的EGO种子 - 远古恐狼</OE_EGOSeed_Elder_Direwolf.label>
+<OE_EGOSeed_Elder_Direwolf.description>曾经是EGO树的种子，在进入远古恐狼体内后在未知条件下发生变异。它在宿主体内发芽，形成融合共生体。不能再用于种植EGO树。</OE_EGOSeed_Elder_Direwolf.description>
 
 <!--=============== Elder Raptor ====================-->
-<OE_EGOSeed_Elder_Raptor.label>mutated EGO seed – Elder Raptor</OE_EGOSeed_Elder_Raptor.label>
-<OE_EGOSeed_Elder_Raptor.description>Once the seed of an EGO tree, this specimen mutated under unknown conditions after entering the body of an Elder Raptor. It sprouted within the host, forming an amalgam symbiosis. It can no longer be used to grow an EGO tree.</OE_EGOSeed_Elder_Raptor.description>
+<OE_EGOSeed_Elder_Raptor.label>变异的EGO种子 - 远古迅猛龙</OE_EGOSeed_Elder_Raptor.label>
+<OE_EGOSeed_Elder_Raptor.description>曾经是EGO树的种子，在进入远古迅猛龙体内后在未知条件下发生变异。它在宿主体内发芽，形成融合共生体。不能再用于种植EGO树。</OE_EGOSeed_Elder_Raptor.description>
 
 <!--=============== Elder Ogren ====================-->
-<OE_EGOSeed_Elder_Ogren.label>mutated EGO seed – Elder Ogren</OE_EGOSeed_Elder_Ogren.label>
-<OE_EGOSeed_Elder_Ogren.description>Once the seed of an EGO tree, this specimen mutated under unknown conditions after entering the body of an Elder Ogren. It sprouted within the host, forming an amalgam symbiosis. It can no longer be used to grow an EGO tree.</OE_EGOSeed_Elder_Ogren.description>
+<OE_EGOSeed_Elder_Ogren.label>变异的EGO种子 - 远古食人魔</OE_EGOSeed_Elder_Ogren.label>
+<OE_EGOSeed_Elder_Ogren.description>曾经是EGO树的种子，在进入远古食人魔体内后在未知条件下发生变异。它在宿主体内发芽，形成融合共生体。不能再用于种植EGO树。</OE_EGOSeed_Elder_Ogren.description>
 
 <!--=============== Elder Tionant ====================-->
-<OE_EGOSeed_Elder_Tionant.label>mutated EGO seed – Elder Tionant</OE_EGOSeed_Elder_Tionant.label>
-<OE_EGOSeed_Elder_Tionant.description>Once the seed of an EGO tree, this specimen mutated under unknown conditions after entering the body of an Elder Tionant. It sprouted within the host, forming an amalgam symbiosis. It can no longer be used to grow an EGO tree.</OE_EGOSeed_Elder_Tionant.description>
+<OE_EGOSeed_Elder_Tionant.label>变异的EGO种子 - 远古提奥南特</OE_EGOSeed_Elder_Tionant.label>
+<OE_EGOSeed_Elder_Tionant.description>曾经是EGO树的种子，在进入远古提奥南特体内后在未知条件下发生变异。它在宿主体内发芽，形成融合共生体。不能再用于种植EGO树。</OE_EGOSeed_Elder_Tionant.description>
 
 </LanguageData>

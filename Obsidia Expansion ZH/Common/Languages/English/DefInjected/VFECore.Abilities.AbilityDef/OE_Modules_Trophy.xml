@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 
-<OE_GrapplingHook.label>grappling hook</OE_GrapplingHook.label>
-<OE_GrapplingHook.description>Grappling hook connects to walls and solid rock and allows the users to quickly move to the desired location. The launcher does not require ammunition, but time needs to be reserved between shots to wind it up again.</OE_GrapplingHook.description>
-<OE_GrapplingHook.modExtensions.0.labelUnloaded>reload grappling hook</OE_GrapplingHook.modExtensions.0.labelUnloaded>
+<OE_GrapplingHook.label>抓钩</OE_GrapplingHook.label>
+<OE_GrapplingHook.description>抓钩可以连接到墙壁和坚固的岩石上，使使用者能够快速移动到指定位置。发射器不需要弹药，但在两次射击之间需要预留时间来重新上膛。</OE_GrapplingHook.description>
+<OE_GrapplingHook.modExtensions.0.labelUnloaded>重新装填抓钩</OE_GrapplingHook.modExtensions.0.labelUnloaded>
 
 </LanguageData>

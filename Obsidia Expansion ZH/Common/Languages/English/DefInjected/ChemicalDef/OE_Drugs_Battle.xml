@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== Torraxin ====================-->
-<OE_Torraxin.label>torraxin</OE_Torraxin.label>
+<OE_Torraxin.label>托拉辛</OE_Torraxin.label>
 
 <!--=============== Joltixin ====================-->
-<OE_Joltixin.label>joltixin</OE_Joltixin.label>
+<OE_Joltixin.label>乔尔提辛</OE_Joltixin.label>
 
 <!--=============== Luraxin ====================-->
-<OE_Luraxin.label>luraxin</OE_Luraxin.label>
+<OE_Luraxin.label>卢拉辛</OE_Luraxin.label>
 
 <!--=============== Alcrexin ====================-->
-<OE_Alcrexin.label>alcrexin</OE_Alcrexin.label>
+<OE_Alcrexin.label>阿尔克辛</OE_Alcrexin.label>
 
 </LanguageData>

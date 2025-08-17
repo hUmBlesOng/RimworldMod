@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== Obsidia Empire Sins - Faction ====================-->
-<ObsidiaEmpireSins.label>Obsidia Empire Sins</ObsidiaEmpireSins.label>
-<ObsidiaEmpireSins.description>This group of the chosen ones, they saved, protected and inspired the entire Empire, they were a true sword and an unshakable shield for everyone - Obsidia Empire Heroes... But they were called so before, now they are forgotten, rejected and abandoned by their own Empire and the people for whom they did everything - Eidolons... They no longer bathe in the rays of their own glory, but having gained hatred they have found a new goal - themselves.</ObsidiaEmpireSins.description>
-<ObsidiaEmpireSins.pawnSingular>eidolon</ObsidiaEmpireSins.pawnSingular>
-<ObsidiaEmpireSins.pawnsPlural>eidolons</ObsidiaEmpireSins.pawnsPlural>
-<ObsidiaEmpireSins.leaderTitle>archsin</ObsidiaEmpireSins.leaderTitle>
-<ObsidiaEmpireSins.fixedName>Obsidia Empire Sins</ObsidiaEmpireSins.fixedName>
-<ObsidiaEmpireSins.messageDefendersAttacking>{0} from {1} are attacking your {2}.</ObsidiaEmpireSins.messageDefendersAttacking>
+<ObsidiaEmpireSins.label>黑曜石帝国罪恶</ObsidiaEmpireSins.label>
+<ObsidiaEmpireSins.description>这群被选中的人，他们拯救、保护并激励了整个帝国，他们是真正的利剑和每个人不可动摇的盾牌——黑曜石帝国英雄...但那是以前，现在他们被遗忘、被自己的帝国和他们为之付出一切的人们所抛弃——幻影...他们不再沐浴在自己荣耀的光芒中，但获得了仇恨后，他们找到了新的目标——自己。</ObsidiaEmpireSins.description>
+<ObsidiaEmpireSins.pawnSingular>幻影</ObsidiaEmpireSins.pawnSingular>
+<ObsidiaEmpireSins.pawnsPlural>幻影</ObsidiaEmpireSins.pawnsPlural>
+<ObsidiaEmpireSins.leaderTitle>首席罪人</ObsidiaEmpireSins.leaderTitle>
+<ObsidiaEmpireSins.fixedName>黑曜石帝国罪恶</ObsidiaEmpireSins.fixedName>
+<ObsidiaEmpireSins.messageDefendersAttacking>来自{1}的{0}正在攻击你的{2}。</ObsidiaEmpireSins.messageDefendersAttacking>
 
 </LanguageData>

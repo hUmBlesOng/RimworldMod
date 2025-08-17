@@ -1,17 +1,17 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== Obsidia Comms Console ====================-->
-<OE_CommsConsole.label>obsidia comms console</OE_CommsConsole.label>
-<OE_CommsConsole.description>Small Obsidia communications console. Allows radio contact with other factions and orbital traders.</OE_CommsConsole.description>
-<OE_CommsConsole.comps.CompUsable.useLabel>Summon diabolus threat</OE_CommsConsole.comps.CompUsable.useLabel>
+<OE_CommsConsole.label>黑曜石通讯控制台</OE_CommsConsole.label>
+<OE_CommsConsole.description>小型黑曜石通讯控制台。允许与其他派系和轨道贸易商进行无线电联系。</OE_CommsConsole.description>
+<OE_CommsConsole.comps.CompUsable.useLabel>召唤恶魔威胁</OE_CommsConsole.comps.CompUsable.useLabel>
 
 <!--=============== Obsidia Holding Platform ====================-->
-<OE_HoldingPlatform.label>obsidia holding platform</OE_HoldingPlatform.label>
-<OE_HoldingPlatform.description>An obsidia heavy platform for holding dangerous entities. The corners have eyelets where strong chains can be attached.\n\nDowned entities can be captured and secured on a holding platform, where they can be studied for Anomaly knowledge. Increase containment strength by building strong walls and doors, and other special containment devices.\n\nContainment efficiency is 125%.</OE_HoldingPlatform.description>
+<OE_HoldingPlatform.label>黑曜石拘束平台</OE_HoldingPlatform.label>
+<OE_HoldingPlatform.description>黑曜石重型平台，用于拘束危险实体。角落有眼环，可以附加强链。\n\n被击倒的实体可以被捕获并固定在拘束平台上，在那里可以研究异常知识。通过建造坚固的墙壁和门以及其他特殊的拘束装置来提高收容强度。\n\n收容效率为125%。</OE_HoldingPlatform.description>
 
 <!--=============== EGO Inhibitor ====================-->
-<OE_EGOInhibitor.label>EGO inhibitor</OE_EGOInhibitor.label>
-<OE_EGOInhibitor.description>A device that emits a specially tuned field which numbs the neural activity of captured entities. Uses the EGO seed as a catalyst. As long as it is powered, it improves the containment strength of any holding platform that it is pointed at. The electric field does not affect humans or normal animals.</OE_EGOInhibitor.description>
+<OE_EGOInhibitor.label>EGO抑制器</OE_EGOInhibitor.label>
+<OE_EGOInhibitor.description>一种发射特殊调谐场的设备，可以麻痹被捕获实体的神经活动。使用EGO种子作为催化剂。只要通电，它就能提高任何指向的拘束平台的收容强度。电场不会影响人类或普通动物。</OE_EGOInhibitor.description>
 
 </LanguageData>

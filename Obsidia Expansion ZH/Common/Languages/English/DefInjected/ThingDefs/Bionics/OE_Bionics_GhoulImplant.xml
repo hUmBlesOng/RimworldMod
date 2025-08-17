@@ -1,28 +1,28 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
-<!--=============== Ghoul Skin ====================-->
-<OE_GhoulImplantSkin.label>ghoul skin implant - Carapace</OE_GhoulImplantSkin.label>
-<OE_GhoulImplantSkin.description>Obsidia cultist skin implant for ghouls releases chemicals and nanomachines that toughen the skin and add flexible subdermal empyrium and orichalcum plates at strategic points. This makes the ghoul more resistant to damage across their whole body.\n\nDue to the extremely painful nature of the prosthetic, only ghouls can tolerate this implant.</OE_GhoulImplantSkin.description>
+<!--=============== 食尸鬼皮肤 ====================-->
+<OE_GhoulImplantSkin.label>食尸鬼皮肤植入物 - 甲壳</OE_GhoulImplantSkin.label>
+<OE_GhoulImplantSkin.description>黑曜石邪教徒为食尸鬼设计的皮肤植入物会释放化学物质和纳米机器，使皮肤变得坚韧，并在关键部位添加柔性的皮下琥珀金和奥利哈钢板块。这使得食尸鬼全身对伤害更具抵抗力。\n\n由于这种假体极其痛苦的性质，只有食尸鬼能够承受这种植入物。</OE_GhoulImplantSkin.description>
 
-<!--=============== Ghoul Stomach ====================-->
-<OE_GhoulImplantStomach.label>ghoul stomach implant - Larva</OE_GhoulImplantStomach.label>
-<OE_GhoulImplantStomach.description>Obsidia cultist stomach implant for ghouls is installed under the stomach and integrated into the digestive system. Helps digest food more efficiently. This slightly reduces the ghoul's metabolism, causing it to eat less.\n\nDue to the extremely painful nature of the prosthetic, only ghouls can tolerate this implant.</OE_GhoulImplantStomach.description>
+<!--=============== 食尸鬼胃部 ====================-->
+<OE_GhoulImplantStomach.label>食尸鬼胃部植入物 - 幼虫</OE_GhoulImplantStomach.label>
+<OE_GhoulImplantStomach.description>黑曜石邪教徒为食尸鬼设计的胃部植入物安装在胃部下方并与消化系统整合。有助于更有效地消化食物。这会略微降低食尸鬼的新陈代谢，导致其吃得更少。\n\n由于这种假体极其痛苦的性质，只有食尸鬼能够承受这种植入物。</OE_GhoulImplantStomach.description>
 
-<!--=============== Ghoul Skeleton ====================-->
-<OE_GhoulImplantSkeleton.label>ghoul skeleton implant - Scarab</OE_GhoulImplantSkeleton.label>
-<OE_GhoulImplantSkeleton.description>Obsidia cultist skeleton implant for ghouls replaces all the bones in the body with stronger ones. This makes the ghoul unstoppable and more effective in melee combat.\n\nDue to the extremely painful nature of the prosthetic, only ghouls can tolerate this implant.</OE_GhoulImplantSkeleton.description>
+<!--=============== 食尸鬼骨架 ====================-->
+<OE_GhoulImplantSkeleton.label>食尸鬼骨架植入物 - 圣甲虫</OE_GhoulImplantSkeleton.label>
+<OE_GhoulImplantSkeleton.description>黑曜石邪教徒为食尸鬼设计的骨架植入物用更坚固的骨骼替换身体中的所有骨骼。这使得食尸鬼变得势不可挡，在近战中更加有效。\n\n由于这种假体极其痛苦的性质，只有食尸鬼能够承受这种植入物。</OE_GhoulImplantSkeleton.description>
 
-<!--=============== Ghoul Head Prosthetic ====================-->
-<CAC_GhoulProstheticHelmet.label>ghoul skull prosthetic - Crusader's Helmet</CAC_GhoulProstheticHelmet.label>
-<CAC_GhoulProstheticHelmet.description>Obsidia cultist skull prosthetic for ghouls integrates brutally into the cranium and neural core, enhancing close-combat potential and significantly reinforcing the head against incoming damage.\n\nDue to the extremely painful nature of the prosthetic, only ghouls can tolerate this prosthetic.</CAC_GhoulProstheticHelmet.description>
+<!--=============== 食尸鬼头部假体 ====================-->
+<CAC_GhoulProstheticHelmet.label>食尸鬼头骨假体 - 十字军头盔</CAC_GhoulProstheticHelmet.label>
+<CAC_GhoulProstheticHelmet.description>黑曜石邪教徒为食尸鬼设计的头骨假体与颅骨和神经核心残酷地整合，增强近战潜力并显著加强头部对来袭伤害的防护。\n\n由于这种假体极其痛苦的性质，只有食尸鬼能够承受这种假体。</CAC_GhoulProstheticHelmet.description>
 
-<!--=============== Ghoul Shoulder Prosthetic ====================-->
-<CAC_GhoulProstheticClaws.label>ghoul arm prosthetic - Crusader's Claws</CAC_GhoulProstheticClaws.label>
-<CAC_GhoulProstheticClaws.description>Obsidia cultist arm prosthetic for ghouls replaces part of the arm with a massive mechanized combat claw, enabling the wearer to deliver devastating melee strikes and overwhelm most organic opponents.\n\nDue to the extremely painful nature of the prosthetic, only ghouls can tolerate this prosthetic.</CAC_GhoulProstheticClaws.description>
+<!--=============== 食尸鬼肩部假体 ====================-->
+<CAC_GhoulProstheticClaws.label>食尸鬼手臂假体 - 十字军利爪</CAC_GhoulProstheticClaws.label>
+<CAC_GhoulProstheticClaws.description>黑曜石邪教徒为食尸鬼设计的手臂假体用巨大的机械化战斗爪替换部分手臂，使穿戴者能够发动毁灭性的近战攻击，压倒大多数有机对手。\n\n由于这种假体极其痛苦的性质，只有食尸鬼能够承受这种假体。</CAC_GhoulProstheticClaws.description>
 
-<!--=============== Ghoul Torso Prosthetic ====================-->
-<CAC_GhoulProstheticChamber.label>ghoul body prosthetic - Crusader's Drive</CAC_GhoulProstheticChamber.label>
-<CAC_GhoulProstheticChamber.description>Obsidia cultist body prosthetic for ghouls integrates a system of pumps and chemical reservoirs into the torso via spinal implantation, enabling the user to deploy two distinct chemical enhancers - one that accelerates movement and boosts melee damage, and another that reduces incoming damage and lowers susceptibility to fire.\n\nDue to the extremely painful nature of the prosthetic, only ghouls can tolerate this prosthetic.</CAC_GhoulProstheticChamber.description>
+<!--=============== 食尸鬼躯干假体 ====================-->
+<CAC_GhoulProstheticChamber.label>食尸鬼身体假体 - 十字军驱动器</CAC_GhoulProstheticChamber.label>
+<CAC_GhoulProstheticChamber.description>黑曜石邪教徒为食尸鬼设计的身体假体通过脊髓植入将泵系统和化学储存器整合到躯干中，使使用者能够部署两种不同的化学增强剂——一种加速移动并增强近战伤害，另一种减少受到的伤害并降低对火焰的敏感性。\n\n由于这种假体极其痛苦的性质，只有食尸鬼能够承受这种假体。</CAC_GhoulProstheticChamber.description>
 
 </LanguageData>

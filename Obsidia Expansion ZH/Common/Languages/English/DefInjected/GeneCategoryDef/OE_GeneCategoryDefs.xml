@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
 <!--=============== Amalgam Genes ====================-->
-<OE_AmalgamGenes.label>amalgam</OE_AmalgamGenes.label>
+<OE_AmalgamGenes.label>融合基因</OE_AmalgamGenes.label>
 
 <!--=============== Amalgam Aptitudes Genes ====================-->
-<OE_AmalgamAptitudesGenes.label>amalgam Aptitudes</OE_AmalgamAptitudesGenes.label>
+<OE_AmalgamAptitudesGenes.label>融合能力基因</OE_AmalgamAptitudesGenes.label>
 
 </LanguageData>

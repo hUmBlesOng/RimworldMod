@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== Broken Drill ====================-->
-<OE_JoyTable.label>rimopoly table</OE_JoyTable.label>
-<OE_JoyTable.description>A table designed for playing Obsidia board game where players balance unions and the labor market in order to become greatest in rimopoly!</OE_JoyTable.description>
+<OE_JoyTable.label>边缘大亨桌</OE_JoyTable.label>
+<OE_JoyTable.description>一张专为玩黑曜石棋盘游戏而设计的桌子，玩家在游戏中平衡工会和劳动力市场，以成为最伟大的边缘大亨！</OE_JoyTable.description>
 
 <!--=============== Rimotroops Arcade Machine ====================-->
-<OE_JoyArcadeMachine.label>rare arcade machine "rimotroops"</OE_JoyArcadeMachine.label>
-<OE_JoyArcadeMachine.description>Old rare Obsidia arcade machine with installed rimotroops game.</OE_JoyArcadeMachine.description>
+<OE_JoyArcadeMachine.label>稀有街机"边缘部队"</OE_JoyArcadeMachine.label>
+<OE_JoyArcadeMachine.description>古老的稀有黑曜石街机，安装了边缘部队游戏。</OE_JoyArcadeMachine.description>
 
 </LanguageData>

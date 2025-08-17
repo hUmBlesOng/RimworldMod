@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
 <!--=============== Queen's Grip ====================-->
-<OE_MechQueenGrip.label>queen's grip</OE_MechQueenGrip.label>
-<OE_MechQueenGrip.description>Queen's Grip grant the Arachna Queen an ability to teleport the target right next to the caster. Objects which are too large cannot be teleported.</OE_MechQueenGrip.description>
+<OE_MechQueenGrip.label>女王之握</OE_MechQueenGrip.label>
+<OE_MechQueenGrip.description>女王之握赋予蛛后将目标传送到施法者身边的能力。过大的物体无法被传送。</OE_MechQueenGrip.description>
 
 <!--=============== Queen's Curse ====================-->
-<OE_MechQueenCurse.label>queen's curse</OE_MechQueenCurse.label>
-<OE_MechQueenCurse.description>Queen's Curse grant the Arachna Queen an ability to fully disarm the target and increases incoming damage for an extended 12 hours.</OE_MechQueenCurse.description>
+<OE_MechQueenCurse.label>女王诅咒</OE_MechQueenCurse.label>
+<OE_MechQueenCurse.description>女王诅咒赋予蛛后完全缴械目标并在12小时内增加目标受到的伤害的能力。</OE_MechQueenCurse.description>
 
 <!--=============== Drone Assault ====================-->
-<OE_MechDroneJump.label>drone assault</OE_MechDroneJump.label>
-<OE_MechDroneJump.description>Jumps towards its target.</OE_MechDroneJump.description>
+<OE_MechDroneJump.label>无人机突击</OE_MechDroneJump.label>
+<OE_MechDroneJump.description>向目标跳跃。</OE_MechDroneJump.description>
 
 </LanguageData>

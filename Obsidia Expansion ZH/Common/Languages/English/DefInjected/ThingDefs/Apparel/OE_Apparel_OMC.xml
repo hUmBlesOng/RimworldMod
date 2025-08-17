@@ -1,69 +1,69 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
-<!--=============== OMC - Helmet ====================-->
-<OMC_Helmet.label>OMC Soldier Helmet</OMC_Helmet.label>
-<OMC_Helmet.description>Medium power armor Helmet, perfectly protects the owner. Designed for use by regular OMC soldiers.</OMC_Helmet.description>
+<!--=============== OMC - 头盔 ====================-->
+<OMC_Helmet.label>OMC士兵头盔</OMC_Helmet.label>
+<OMC_Helmet.description>中型动力装甲头盔，完美地保护所有者。专为普通OMC士兵使用而设计。</OMC_Helmet.description>
 
-<OMC_Helmet_M.label>OMC Officer Helmet</OMC_Helmet_M.label>
-<OMC_Helmet_M.description>Medium power armor Helmet, perfectly protects the owner. Designed and modified for use by OMC Regular Officers.\n\nThe hardened version provides more protection to the owner.</OMC_Helmet_M.description>
+<OMC_Helmet_M.label>OMC军官头盔</OMC_Helmet_M.label>
+<OMC_Helmet_M.description>中型动力装甲头盔，完美地保护所有者。专为OMC正规军官使用和改装而设计。\n\n硬化版本为所有者提供更多保护。</OMC_Helmet_M.description>
 
-<OMC_Helmet_M_Spacer.label>OMC Officer Helmet(Space Griffin)</OMC_Helmet_M_Spacer.label>
-<OMC_Helmet_M_Spacer.description>Medium power armor Helmet, perfectly protects the owner. Designed and modified for use by OMC Regular Officers.\n\nPressure-sealed version designed to keep the occupant alive in outer space.</OMC_Helmet_M_Spacer.description>
+<OMC_Helmet_M_Spacer.label>OMC军官头盔(太空狮鹫)</OMC_Helmet_M_Spacer.label>
+<OMC_Helmet_M_Spacer.description>中型动力装甲头盔，完美地保护所有者。专为OMC正规军官使用和改装而设计。\n\n密封版本设计用于在太空中保持佩戴者的生命。</OMC_Helmet_M_Spacer.description>
 
-<OMC_Helmet_M_Melee.label>OMC Officer Helmet(Gladiator)</OMC_Helmet_M_Melee.label>
-<OMC_Helmet_M_Melee.description>Medium power armor Helmet, perfectly protects the owner. Designed and modified for use by OMC Regular Officers.\n\nModified visor with analyzing computer that helps the user close combat.</OMC_Helmet_M_Melee.description>
+<OMC_Helmet_M_Melee.label>OMC军官头盔(角斗士)</OMC_Helmet_M_Melee.label>
+<OMC_Helmet_M_Melee.description>中型动力装甲头盔，完美地保护所有者。专为OMC正规军官使用和改装而设计。\n\n改装的面罩配有分析计算机，帮助用户进行近战。</OMC_Helmet_M_Melee.description>
 
-<OMC_Helmet_M_Ranged.label>OMC Officer Helmet(Ranger)</OMC_Helmet_M_Ranged.label>
-<OMC_Helmet_M_Ranged.description>Medium power armor Helmet, perfectly protects the owner. Designed and modified for use by OMC Regular Officers.\n\nModified visor with targeting computer that helps the user aim.</OMC_Helmet_M_Ranged.description>
+<OMC_Helmet_M_Ranged.label>OMC军官头盔(游侠)</OMC_Helmet_M_Ranged.label>
+<OMC_Helmet_M_Ranged.description>中型动力装甲头盔，完美地保护所有者。专为OMC正规军官使用和改装而设计。\n\n改装的面罩配有瞄准计算机，帮助用户瞄准。</OMC_Helmet_M_Ranged.description>
 
-<OMC_Helmet_M_Mechanitor.label>OMC Officer Helmet(Overseer)</OMC_Helmet_M_Mechanitor.label>
-<OMC_Helmet_M_Mechanitor.description>Medium power armor Helmet, perfectly protects the owner. Designed and modified for use by OMC Regular Officers.\n\nModified for improves Mechanoids Control abilities.</OMC_Helmet_M_Mechanitor.description>
+<OMC_Helmet_M_Mechanitor.label>OMC军官头盔(监督者)</OMC_Helmet_M_Mechanitor.label>
+<OMC_Helmet_M_Mechanitor.description>中型动力装甲头盔，完美地保护所有者。专为OMC正规军官使用和改装而设计。\n\n改装以增强机械体控制能力。</OMC_Helmet_M_Mechanitor.description>
 
-<!--=============== OMC - Armor ====================-->
-<OMC_Armor.label>OMC Soldier Armor</OMC_Armor.label>
-<OMC_Armor.description>Medium power armor, perfectly protects the owner with little mobility restriction. Designed for use by regular OMC soldiers.</OMC_Armor.description>
+<!--=============== OMC - 装甲 ====================-->
+<OMC_Armor.label>OMC士兵装甲</OMC_Armor.label>
+<OMC_Armor.description>中型动力装甲，完美地保护所有者，行动限制很少。专为普通OMC士兵使用而设计。</OMC_Armor.description>
 
-<OMC_Armor_M.label>OMC Officer Armor</OMC_Armor_M.label>
-<OMC_Armor_M.description>Medium power armor, perfectly protects the owner with little mobility restriction. Designed and modified for use by OMC Regular Officers.\n\nThe hardened version provides more protection to the owner.</OMC_Armor_M.description>
+<OMC_Armor_M.label>OMC军官装甲</OMC_Armor_M.label>
+<OMC_Armor_M.description>中型动力装甲，完美地保护所有者，行动限制很少。专为OMC正规军官使用和改装而设计。\n\n硬化版本为所有者提供更多保护。</OMC_Armor_M.description>
 
-<OMC_Armor_M_Spacer.label>OMC Officer Armor(Space Griffin)</OMC_Armor_M_Spacer.label>
-<OMC_Armor_M_Spacer.description>Medium power armor, perfectly protects the owner with little mobility restriction. Designed and modified for use by OMC Regular Officers.\n\nPressure-sealed version designed to keep the occupant alive in outer space.</OMC_Armor_M_Spacer.description>
+<OMC_Armor_M_Spacer.label>OMC军官装甲(太空狮鹫)</OMC_Armor_M_Spacer.label>
+<OMC_Armor_M_Spacer.description>中型动力装甲，完美地保护所有者，行动限制很少。专为OMC正规军官使用和改装而设计。\n\n密封版本设计用于在太空中保持佩戴者的生命。</OMC_Armor_M_Spacer.description>
 
-<OMC_Armor_M_Smoker.label>OMC Officer Armor(Fogler)</OMC_Armor_M_Smoker.label>
-<OMC_Armor_M_Smoker.verbs.Verb_SmokePop.label>OMC Officer Armor(Fogler)</OMC_Armor_M_Smoker.verbs.Verb_SmokePop.label>
-<OMC_Armor_M_Smoker.description>Medium power armor, perfectly protects the owner with little mobility restriction. Designed and modified for use by OMC Regular Officers.\n\nModified with the addition of a Smokepop pack.</OMC_Armor_M_Smoker.description>
-<OMC_Armor_M_Smoker.comps.CompApparelReloadable.chargeNoun>smokepop</OMC_Armor_M_Smoker.comps.CompApparelReloadable.chargeNoun>
-<OMC_Armor_M_Smoker.comps.CompApparelReloadable.cooldownGerund>on cooldown</OMC_Armor_M_Smoker.comps.CompApparelReloadable.cooldownGerund>
+<OMC_Armor_M_Smoker.label>OMC军官装甲(雾化器)</OMC_Armor_M_Smoker.label>
+<OMC_Armor_M_Smoker.verbs.Verb_SmokePop.label>OMC军官装甲(雾化器)</OMC_Armor_M_Smoker.verbs.Verb_SmokePop.label>
+<OMC_Armor_M_Smoker.description>中型动力装甲，完美地保护所有者，行动限制很少。专为OMC正规军官使用和改装而设计。\n\n改装增加了烟雾弹背包。</OMC_Armor_M_Smoker.description>
+<OMC_Armor_M_Smoker.comps.CompApparelReloadable.chargeNoun>烟雾弹</OMC_Armor_M_Smoker.comps.CompApparelReloadable.chargeNoun>
+<OMC_Armor_M_Smoker.comps.CompApparelReloadable.cooldownGerund>冷却中</OMC_Armor_M_Smoker.comps.CompApparelReloadable.cooldownGerund>
 
-<OMC_Armor_M_Jump.label>OMC Officer Armor(Raven)</OMC_Armor_M_Jump.label>
-<OMC_Armor_M_Jump.verbs.Verb_Jump.label>OMC Officer Armor(Raven)</OMC_Armor_M_Jump.verbs.Verb_Jump.label>
-<OMC_Armor_M_Jump.description>Medium power armor, perfectly protects the owner with little mobility restriction. Designed and modified for use by OMC Regular Officers.\n\nModified with the addition of a Jump pack.</OMC_Armor_M_Jump.description>
-<OMC_Armor_M_Jump.comps.CompApparelReloadable.chargeNoun>jump</OMC_Armor_M_Jump.comps.CompApparelReloadable.chargeNoun>
-<OMC_Armor_M_Jump.comps.CompApparelReloadable.cooldownGerund>on cooldown</OMC_Armor_M_Jump.comps.CompApparelReloadable.cooldownGerund>
+<OMC_Armor_M_Jump.label>OMC军官装甲(乌鸦)</OMC_Armor_M_Jump.label>
+<OMC_Armor_M_Jump.verbs.Verb_Jump.label>OMC军官装甲(乌鸦)</OMC_Armor_M_Jump.verbs.Verb_Jump.label>
+<OMC_Armor_M_Jump.description>中型动力装甲，完美地保护所有者，行动限制很少。专为OMC正规军官使用和改装而设计。\n\n改装增加了跳跃背包。</OMC_Armor_M_Jump.description>
+<OMC_Armor_M_Jump.comps.CompApparelReloadable.chargeNoun>跳跃</OMC_Armor_M_Jump.comps.CompApparelReloadable.chargeNoun>
+<OMC_Armor_M_Jump.comps.CompApparelReloadable.cooldownGerund>冷却中</OMC_Armor_M_Jump.comps.CompApparelReloadable.cooldownGerund>
 
-<OMC_Armor_M_Shield.label>OMC Officer Armor(Guardian)</OMC_Armor_M_Shield.label>
-<OMC_Armor_M_Shield.description>Medium power armor, perfectly protects the owner with little mobility restriction. Designed and modified for use by OMC Regular Officers.\n\nModified with the addition of the Reinforced Barrier.</OMC_Armor_M_Shield.description>
+<OMC_Armor_M_Shield.label>OMC军官装甲(守护者)</OMC_Armor_M_Shield.label>
+<OMC_Armor_M_Shield.description>中型动力装甲，完美地保护所有者，行动限制很少。专为OMC正规军官使用和改装而设计。\n\n改装增加了强化屏障。</OMC_Armor_M_Shield.description>
 
-<OMC_Armor_M_Barrier.label>OMC Officer Armor(Protector)</OMC_Armor_M_Barrier.label>
-<OMC_Armor_M_Barrier.description>Medium power armor, perfectly protects the owner with little mobility restriction. Designed and modified for use by OMC Regular Officers.\n\nModified with the addition of the Universal Barrier.</OMC_Armor_M_Barrier.description>
+<OMC_Armor_M_Barrier.label>OMC军官装甲(保护者)</OMC_Armor_M_Barrier.label>
+<OMC_Armor_M_Barrier.description>中型动力装甲，完美地保护所有者，行动限制很少。专为OMC正规军官使用和改装而设计。\n\n改装增加了通用屏障。</OMC_Armor_M_Barrier.description>
 
-<OMC_Armor_M_ForceField.label>OMC Officer Armor(Warden)</OMC_Armor_M_ForceField.label>
-<OMC_Armor_M_ForceField.verbs.Verb_DeployBroadshield.label>OMC Officer Armor(Warden)</OMC_Armor_M_ForceField.verbs.Verb_DeployBroadshield.label>
-<OMC_Armor_M_ForceField.description>Medium power armor, perfectly protects the owner with little mobility restriction. Designed and modified for use by OMC Regular Officers.\n\nModified with the addition of a Low-Shield pack.</OMC_Armor_M_ForceField.description>
-<OMC_Armor_M_ForceField.comps.CompApparelReloadable.chargeNoun>shield</OMC_Armor_M_ForceField.comps.CompApparelReloadable.chargeNoun>
-<OMC_Armor_M_ForceField.comps.CompApparelReloadable.cooldownGerund>on cooldown</OMC_Armor_M_ForceField.comps.CompApparelReloadable.cooldownGerund>
+<OMC_Armor_M_ForceField.label>OMC军官装甲(典狱长)</OMC_Armor_M_ForceField.label>
+<OMC_Armor_M_ForceField.verbs.Verb_DeployBroadshield.label>OMC军官装甲(典狱长)</OMC_Armor_M_ForceField.verbs.Verb_DeployBroadshield.label>
+<OMC_Armor_M_ForceField.description>中型动力装甲，完美地保护所有者，行动限制很少。专为OMC正规军官使用和改装而设计。\n\n改装增加了低能护盾背包。</OMC_Armor_M_ForceField.description>
+<OMC_Armor_M_ForceField.comps.CompApparelReloadable.chargeNoun>护盾</OMC_Armor_M_ForceField.comps.CompApparelReloadable.chargeNoun>
+<OMC_Armor_M_ForceField.comps.CompApparelReloadable.cooldownGerund>冷却中</OMC_Armor_M_ForceField.comps.CompApparelReloadable.cooldownGerund>
 
-<OMC_Armor_M_Mechanitor.label>OMC Officer Armor(Overseer)</OMC_Armor_M_Mechanitor.label>
-<OMC_Armor_M_Mechanitor.description>Medium power armor, perfectly protects the owner with little mobility restriction. Designed and modified for use by OMC Regular Officers.\n\nModified with the addition of a Mechanoids Control pack.</OMC_Armor_M_Mechanitor.description>
+<OMC_Armor_M_Mechanitor.label>OMC军官装甲(监督者)</OMC_Armor_M_Mechanitor.label>
+<OMC_Armor_M_Mechanitor.description>中型动力装甲，完美地保护所有者，行动限制很少。专为OMC正规军官使用和改装而设计。\n\n改装增加了机械体控制背包。</OMC_Armor_M_Mechanitor.description>
 
-<OMC_Armor_M_Turret.label>OMC Officer Armor(Goblin)</OMC_Armor_M_Turret.label>
-<OMC_Armor_M_Turret.description>Medium power armor, perfectly protects the owner with little mobility restriction. Designed and modified for use by OMC Regular Officers.\n\nModified with the pack that allows the user to deploy a battery-powered turret.</OMC_Armor_M_Turret.description>
-<OMC_Armor_M_Turret.verbs.deploy_turret.label>deploy turret</OMC_Armor_M_Turret.verbs.deploy_turret.label>
-<OMC_Armor_M_Turret.comps.CompApparelReloadable.chargeNoun>incendiary</OMC_Armor_M_Turret.comps.CompApparelReloadable.chargeNoun>
-<OMC_Armor_M_Turret.comps.CompApparelReloadable.cooldownGerund>on cooldown</OMC_Armor_M_Turret.comps.CompApparelReloadable.cooldownGerund>
+<OMC_Armor_M_Turret.label>OMC军官装甲(哥布林)</OMC_Armor_M_Turret.label>
+<OMC_Armor_M_Turret.description>中型动力装甲，完美地保护所有者，行动限制很少。专为OMC正规军官使用和改装而设计。\n\n改装增加了允许用户部署电池供电炮塔的背包。</OMC_Armor_M_Turret.description>
+<OMC_Armor_M_Turret.verbs.deploy_turret.label>部署炮塔</OMC_Armor_M_Turret.verbs.deploy_turret.label>
+<OMC_Armor_M_Turret.comps.CompApparelReloadable.chargeNoun>燃烧弹</OMC_Armor_M_Turret.comps.CompApparelReloadable.chargeNoun>
+<OMC_Armor_M_Turret.comps.CompApparelReloadable.cooldownGerund>冷却中</OMC_Armor_M_Turret.comps.CompApparelReloadable.cooldownGerund>
 
-<!--=============== OМC - Grenades ====================-->
-<Grenade_Armor_OMC_TurretPack.label>OMC turret pack capsule</Grenade_Armor_OMC_TurretPack.label>
+<!--=============== OМC - 手榴弹 ====================-->
+<Grenade_Armor_OMC_TurretPack.label>OMC炮塔包胶囊</Grenade_Armor_OMC_TurretPack.label>
 
 </LanguageData>

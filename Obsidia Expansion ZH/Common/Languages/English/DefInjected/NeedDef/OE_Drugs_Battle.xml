@@ -1,20 +1,20 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== Torraxin ====================-->
-<OE_Chemical_Torraxin.label>torraxin addiction</OE_Chemical_Torraxin.label>
-<OE_Chemical_Torraxin.description>Because of an torraxin addiction, this person needs to regularly consume torraxin to avoid withdrawal symptoms.</OE_Chemical_Torraxin.description>
+<OE_Chemical_Torraxin.label>托拉辛成瘾</OE_Chemical_Torraxin.label>
+<OE_Chemical_Torraxin.description>由于托拉辛成瘾，此人需要定期摄入托拉辛以避免戒断症状。</OE_Chemical_Torraxin.description>
 
 <!--=============== Joltixin ====================-->
-<OE_Chemical_Joltixin.label>joltixin addiction</OE_Chemical_Joltixin.label>
-<OE_Chemical_Joltixin.description>Because of an joltixin addiction, this person needs to regularly consume joltixin to avoid withdrawal symptoms.</OE_Chemical_Joltixin.description>
+<OE_Chemical_Joltixin.label>乔尔提辛成瘾</OE_Chemical_Joltixin.label>
+<OE_Chemical_Joltixin.description>由于乔尔提辛成瘾，此人需要定期摄入乔尔提辛以避免戒断症状。</OE_Chemical_Joltixin.description>
 
 <!--=============== Luraxin ====================-->
-<OE_Chemical_Luraxin.label>luraxin addiction</OE_Chemical_Luraxin.label>
-<OE_Chemical_Luraxin.description>Because of an luraxin addiction, this person needs to regularly consume luraxin to avoid withdrawal symptoms.</OE_Chemical_Luraxin.description>
+<OE_Chemical_Luraxin.label>卢拉辛成瘾</OE_Chemical_Luraxin.label>
+<OE_Chemical_Luraxin.description>由于卢拉辛成瘾，此人需要定期摄入卢拉辛以避免戒断症状。</OE_Chemical_Luraxin.description>
 
 <!--=============== Alcrexin ====================-->
-<OE_Chemical_Alcrexin.label>alcrexin addiction</OE_Chemical_Alcrexin.label>
-<OE_Chemical_Alcrexin.description>Because of an alcrexin addiction, this person needs to regularly consume alcrexin to avoid withdrawal symptoms.</OE_Chemical_Alcrexin.description>
+<OE_Chemical_Alcrexin.label>阿尔克辛成瘾</OE_Chemical_Alcrexin.label>
+<OE_Chemical_Alcrexin.description>由于阿尔克辛成瘾，此人需要定期摄入阿尔克辛以避免戒断症状。</OE_Chemical_Alcrexin.description>
 
 </LanguageData>

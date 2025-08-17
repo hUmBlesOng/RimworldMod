@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
 <!--=============== Corrupter Mutalisk ====================-->
-<OE_AuraMutalisk_Corrupter.label>weakening disturbance</OE_AuraMutalisk_Corrupter.label>
-<OE_AuraMutalisk_Corrupter.description>Strong waves of psychic energy increase move speed but reduce armor.\n\nTo remove this effect, you need to track down and eliminate the corrupter mutalisk.</OE_AuraMutalisk_Corrupter.description>
+<OE_AuraMutalisk_Corrupter.label>削弱干扰</OE_AuraMutalisk_Corrupter.label>
+<OE_AuraMutalisk_Corrupter.description>强烈的灵能力量波增加移动速度但减少装甲。\n\n要消除此效果，您需要追踪并消灭腐蚀 mutalisk。</OE_AuraMutalisk_Corrupter.description>
 
 <!--=============== Psy-Mutalisk ====================-->
-<OE_AuraMutalisk_Psy.label>psy-disturbance</OE_AuraMutalisk_Psy.label>
-<OE_AuraMutalisk_Psy.description>Strong waves of psychic energy increase psychic sensitivity but reduce it's recovery rate.\n\nTo remove this effect, you need to track down and eliminate the psy-mutalisk.</OE_AuraMutalisk_Psy.description>
+<OE_AuraMutalisk_Psy.label>心灵干扰</OE_AuraMutalisk_Psy.label>
+<OE_AuraMutalisk_Psy.description>强烈的灵能力量波增加心灵敏感性但降低恢复速度。\n\n要消除此效果，您需要追踪并消灭心灵 mutalisk。</OE_AuraMutalisk_Psy.description>
 
 <!--=============== Biophormids Pherocore Buff ====================-->
-<OE_PherocoreBiophormidsBuff.label>Biophormids strengthening</OE_PherocoreBiophormidsBuff.label>
-<OE_PherocoreBiophormidsBuff.description>A concentrated dose of Biophormids pherocore grants enhanced physical and mental capabilities, elevating performance to new heights.</OE_PherocoreBiophormidsBuff.description>
+<OE_PherocoreBiophormidsBuff.label>生化虫群强化</OE_PherocoreBiophormidsBuff.label>
+<OE_PherocoreBiophormidsBuff.description>高浓度的生化虫群信息素核心赋予增强的物理和心理能力，将性能提升到新的高度。</OE_PherocoreBiophormidsBuff.description>
 
 </LanguageData>

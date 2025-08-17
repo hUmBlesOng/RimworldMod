@@ -1,20 +1,20 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
-<!--=============== Torraxin ====================-->
-<OE_TorraxinWithdrawal.stages.torraxin_withdrawal.label>torraxin withdrawal</OE_TorraxinWithdrawal.stages.torraxin_withdrawal.label>
-<OE_TorraxinWithdrawal.stages.torraxin_withdrawal.description>I feel my weakness. I never thought it was so hard without stimpacks.</OE_TorraxinWithdrawal.stages.torraxin_withdrawal.description>
+<!--=============== 托拉辛 ====================-->
+<OE_TorraxinWithdrawal.stages.torraxin_withdrawal.label>托拉辛戒断</OE_TorraxinWithdrawal.stages.torraxin_withdrawal.label>
+<OE_TorraxinWithdrawal.stages.torraxin_withdrawal.description>我感到虚弱。我从未想过没有兴奋剂会这么难。</OE_TorraxinWithdrawal.stages.torraxin_withdrawal.description>
 
-<!--=============== Joltixin ====================-->
-<OE_JoltixinWithdrawal.stages.joltixin_withdrawal.label>joltixin withdrawal</OE_JoltixinWithdrawal.stages.joltixin_withdrawal.label>
-<OE_JoltixinWithdrawal.stages.joltixin_withdrawal.description>I feel my weakness. I never thought it was so hard without stimpacks.</OE_JoltixinWithdrawal.stages.joltixin_withdrawal.description>
+<!--=============== 乔尔提辛 ====================-->
+<OE_JoltixinWithdrawal.stages.joltixin_withdrawal.label>乔尔提辛戒断</OE_JoltixinWithdrawal.stages.joltixin_withdrawal.label>
+<OE_JoltixinWithdrawal.stages.joltixin_withdrawal.description>我感到虚弱。我从未想过没有兴奋剂会这么难。</OE_JoltixinWithdrawal.stages.joltixin_withdrawal.description>
 
-<!--=============== Luraxin ====================-->
-<OE_LuraxinWithdrawal.stages.luraxin_withdrawal.label>luraxin withdrawal</OE_LuraxinWithdrawal.stages.luraxin_withdrawal.label>
-<OE_LuraxinWithdrawal.stages.luraxin_withdrawal.description>I feel my weakness. I never thought it was so hard without stimpacks.</OE_LuraxinWithdrawal.stages.luraxin_withdrawal.description>
+<!--=============== 卢拉辛 ====================-->
+<OE_LuraxinWithdrawal.stages.luraxin_withdrawal.label>卢拉辛戒断</OE_LuraxinWithdrawal.stages.luraxin_withdrawal.label>
+<OE_LuraxinWithdrawal.stages.luraxin_withdrawal.description>我感到虚弱。我从未想过没有兴奋剂会这么难。</OE_LuraxinWithdrawal.stages.luraxin_withdrawal.description>
 
-<!--=============== Alcrexin ====================-->
-<OE_AlcrexinWithdrawal.stages.alcrexin_withdrawal.label>alcrexin withdrawal</OE_AlcrexinWithdrawal.stages.alcrexin_withdrawal.label>
-<OE_AlcrexinWithdrawal.stages.alcrexin_withdrawal.description>I feel my weakness. I never thought it was so hard without stimpacks.</OE_AlcrexinWithdrawal.stages.alcrexin_withdrawal.description>
+<!--=============== 阿尔克雷辛 ====================-->
+<OE_AlcrexinWithdrawal.stages.alcrexin_withdrawal.label>阿尔克雷辛戒断</OE_AlcrexinWithdrawal.stages.alcrexin_withdrawal.label>
+<OE_AlcrexinWithdrawal.stages.alcrexin_withdrawal.description>我感到虚弱。我从未想过没有兴奋剂会这么难。</OE_AlcrexinWithdrawal.stages.alcrexin_withdrawal.description>
 
 </LanguageData>

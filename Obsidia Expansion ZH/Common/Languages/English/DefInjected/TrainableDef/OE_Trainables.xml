@@ -1,28 +1,28 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
-<!--=============== Elder Direwolf Powers ====================-->
-<OE_ElderPower_Direwolf.label>elder direwolf power</OE_ElderPower_Direwolf.label>
-<OE_ElderPower_Direwolf.description>Unleash the power of the elder direwolf, empowering your strikes and lending supernatural speed to your movements.</OE_ElderPower_Direwolf.description>
+<!--=============== 年长恐狼能力 ====================-->
+<OE_ElderPower_Direwolf.label>年长恐狼能力</OE_ElderPower_Direwolf.label>
+<OE_ElderPower_Direwolf.description>释放年长恐狼的力量，增强你的攻击并赋予你超自然的速度。</OE_ElderPower_Direwolf.description>
 
-<!--=============== Elder Raptor Powers ====================-->
-<OE_ElderPower_Raptor.label>elder raptor power</OE_ElderPower_Raptor.label>
-<OE_ElderPower_Raptor.description>Unleash the power of the elder raptor, gaining deadly precision, blinding speed, and brutal efficiency in close combat.</OE_ElderPower_Raptor.description>
+<!--=============== 年长迅猛龙能力 ====================-->
+<OE_ElderPower_Raptor.label>年长迅猛龙能力</OE_ElderPower_Raptor.label>
+<OE_ElderPower_Raptor.description>释放年长迅猛龙的力量，获得致命的精准度、惊人的速度和近战中的残酷效率。</OE_ElderPower_Raptor.description>
 
-<!--=============== Elder Ogren Powers ====================-->
-<OE_ElderPower_Ogren.label>elder ogren power</OE_ElderPower_Ogren.label>
-<OE_ElderPower_Ogren.description>Unleash the power of the elder ogren, empowering each blow and hardening flesh like stone.</OE_ElderPower_Ogren.description>
+<!--=============== 年长奥格林能力 ====================-->
+<OE_ElderPower_Ogren.label>年长奥格林能力</OE_ElderPower_Ogren.label>
+<OE_ElderPower_Ogren.description>释放年长奥格林的力量，强化每次攻击并使肉体如石头般坚硬。</OE_ElderPower_Ogren.description>
 
-<!--=============== Elder Tionant Powers ====================-->
-<OE_ElderPower_Tionant.label>elder tionant power</OE_ElderPower_Tionant.label>
-<OE_ElderPower_Tionant.description>Unleash the power of the elder tionant, amplifying your strength and accelerating the mending of wounds.</OE_ElderPower_Tionant.description>
+<!--=============== 年长提奥南特能力 ====================-->
+<OE_ElderPower_Tionant.label>年长提奥南特能力</OE_ElderPower_Tionant.label>
+<OE_ElderPower_Tionant.description>释放年长提奥南特的力量，增强你的力量并加速伤口愈合。</OE_ElderPower_Tionant.description>
 
-<!--=============== Elder Provoke ====================-->
-<OE_ElderProvoke.label>elder provoke</OE_ElderProvoke.label>
-<OE_ElderProvoke.description>A thunderous roar compels nearby creatures to turn their focus toward the source, drawn by an overwhelming, primal force.</OE_ElderProvoke.description>
+<!--=============== 年长挑衅 ====================-->
+<OE_ElderProvoke.label>年长挑衅</OE_ElderProvoke.label>
+<OE_ElderProvoke.description>一声雷鸣般的咆哮迫使附近的生物将注意力转向声源，被一种压倒性的原始力量所吸引。</OE_ElderProvoke.description>
 
-<!--=============== Elder Jump ====================-->
-<OE_ElderJump.label>elder jump</OE_ElderJump.label>
-<OE_ElderJump.description>Jumps towards its target.</OE_ElderJump.description>
+<!--=============== 年长跳跃 ====================-->
+<OE_ElderJump.label>年长跳跃</OE_ElderJump.label>
+<OE_ElderJump.description>向目标跳跃。</OE_ElderJump.description>
 
 </LanguageData>

@@ -1,214 +1,214 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 <!--=============== Maid ====================-->
-<OE_Mech_Maid.label>Maid</OE_Mech_Maid.label>
-<OE_Mech_Maid.description>A mechanoid designed as homemaker. Lacking a ranged weapon, it can make only weak melee attacks. Maid can cleaning, cooking, hauling also rescue the wounded, fight fires, treat the sick, and even perform surgery when a more-qualified human is not available.</OE_Mech_Maid.description>
-<OE_Mech_Maid.tools.left_fist.label>left fist</OE_Mech_Maid.tools.left_fist.label>
-<OE_Mech_Maid.tools.right_fist.label>right fist</OE_Mech_Maid.tools.right_fist.label>
-<OE_Mech_Maid.tools.head.label>head</OE_Mech_Maid.tools.head.label>
-<OE_Mech_Maid.tools.head-1.label>head</OE_Mech_Maid.tools.head-1.label>
+<OE_Mech_Maid.label>女仆机器人</OE_Mech_Maid.label>
+<OE_Mech_Maid.description>专为家务设计的机械体。缺乏远程武器，只能进行微弱的近战攻击。女仆机器人可以清洁、烹饪、搬运，还能救援伤员、灭火、治疗病人，甚至在没有更合格的人类时进行手术。</OE_Mech_Maid.description>
+<OE_Mech_Maid.tools.left_fist.label>左拳</OE_Mech_Maid.tools.left_fist.label>
+<OE_Mech_Maid.tools.right_fist.label>右拳</OE_Mech_Maid.tools.right_fist.label>
+<OE_Mech_Maid.tools.head.label>头部</OE_Mech_Maid.tools.head.label>
+<OE_Mech_Maid.tools.head-1.label>头部</OE_Mech_Maid.tools.head-1.label>
 
 <!--=============== Octo ====================-->
-<OE_Mech_Octo.label>Octo-Bot</OE_Mech_Octo.label>
-<OE_Mech_Octo.description>A mechanoid designed as worker. Lacking a ranged weapon, it can make only weak melee attacks. Octo-Bot is designed to perform a large number of tasks such as construction, crafting, hauling, mining, smithing, and tailoring.</OE_Mech_Octo.description>
-<OE_Mech_Octo.tools.tentacle.label>tentacle</OE_Mech_Octo.tools.tentacle.label>
-<OE_Mech_Octo.tools.head.label>head</OE_Mech_Octo.tools.head.label>
-<OE_Mech_Octo.tools.head-1.label>head</OE_Mech_Octo.tools.head-1.label>
+<OE_Mech_Octo.label>八爪机器人</OE_Mech_Octo.label>
+<OE_Mech_Octo.description>专为工作设计的机械体。缺乏远程武器，只能进行微弱的近战攻击。八爪机器人被设计用来执行大量任务，如建筑、制造、搬运、采矿、锻造和裁缝。</OE_Mech_Octo.description>
+<OE_Mech_Octo.tools.tentacle.label>触手</OE_Mech_Octo.tools.tentacle.label>
+<OE_Mech_Octo.tools.head.label>头部</OE_Mech_Octo.tools.head.label>
+<OE_Mech_Octo.tools.head-1.label>头部</OE_Mech_Octo.tools.head-1.label>
 
 <!--=============== Arachna ====================-->
 <!--=============== OMC ====================-->
-<OE_Mech_OMC_Arachna.label>OMC Arachna</OE_Mech_OMC_Arachna.label>
-<OE_Mech_OMC_Arachna.description>A medium-sized armored combat mechanoid. The creatures of the same name are taken as the basis for the design.\n\nThis model uses reconstructed OMC Assault Rifle.</OE_Mech_OMC_Arachna.description>
-<OE_Mech_OMC_Arachna.tools.front_left_leg.label>front left leg</OE_Mech_OMC_Arachna.tools.front_left_leg.label>
-<OE_Mech_OMC_Arachna.tools.front_right_leg.label>front right leg</OE_Mech_OMC_Arachna.tools.front_right_leg.label>
-<OE_Mech_OMC_Arachna.tools.head.label>head</OE_Mech_OMC_Arachna.tools.head.label>
+<OE_Mech_OMC_Arachna.label>OMC蛛形纲</OE_Mech_OMC_Arachna.label>
+<OE_Mech_OMC_Arachna.description>中型装甲战斗机械体。以同名生物为设计基础。\n\n该型号使用重构的OMC突击步枪。</OE_Mech_OMC_Arachna.description>
+<OE_Mech_OMC_Arachna.tools.front_left_leg.label>左前腿</OE_Mech_OMC_Arachna.tools.front_left_leg.label>
+<OE_Mech_OMC_Arachna.tools.front_right_leg.label>右前腿</OE_Mech_OMC_Arachna.tools.front_right_leg.label>
+<OE_Mech_OMC_Arachna.tools.head.label>头部</OE_Mech_OMC_Arachna.tools.head.label>
 
 <!--=============== OTC ====================-->
 <!--=============== Acid ====================-->
-<OE_Mech_OTC_Arachna_Acid.label>OTC Arachna(Acid)</OE_Mech_OTC_Arachna_Acid.label>
-<OE_Mech_OTC_Arachna_Acid.description>A medium-sized armored combat mechanoid. The creatures of the same name are taken as the basis for the design.\n\nThis model uses reconstructed OTC Shotgun with Acid charges.</OE_Mech_OTC_Arachna_Acid.description>
-<OE_Mech_OTC_Arachna_Acid.tools.front_left_leg.label>front left leg</OE_Mech_OTC_Arachna_Acid.tools.front_left_leg.label>
-<OE_Mech_OTC_Arachna_Acid.tools.front_right_leg.label>front right leg</OE_Mech_OTC_Arachna_Acid.tools.front_right_leg.label>
-<OE_Mech_OTC_Arachna_Acid.tools.head.label>head</OE_Mech_OTC_Arachna_Acid.tools.head.label>
+<OE_Mech_OTC_Arachna_Acid.label>OTC蛛形纲(酸性)</OE_Mech_OTC_Arachna_Acid.label>
+<OE_Mech_OTC_Arachna_Acid.description>中型装甲战斗机械体。以同名生物为设计基础。\n\n该型号使用带有酸性弹药的重构OTC霰弹枪。</OE_Mech_OTC_Arachna_Acid.description>
+<OE_Mech_OTC_Arachna_Acid.tools.front_left_leg.label>左前腿</OE_Mech_OTC_Arachna_Acid.tools.front_left_leg.label>
+<OE_Mech_OTC_Arachna_Acid.tools.front_right_leg.label>右前腿</OE_Mech_OTC_Arachna_Acid.tools.front_right_leg.label>
+<OE_Mech_OTC_Arachna_Acid.tools.head.label>头部</OE_Mech_OTC_Arachna_Acid.tools.head.label>
 <!--=============== Cryo ====================-->
-<OE_Mech_OTC_Arachna_Cryo.label>OTC Arachna(Cryo)</OE_Mech_OTC_Arachna_Cryo.label>
-<OE_Mech_OTC_Arachna_Cryo.description>A medium-sized armored combat mechanoid. The creatures of the same name are taken as the basis for the design.\n\nThis model uses reconstructed OTC Shotgun with Cryo charges.</OE_Mech_OTC_Arachna_Cryo.description>
-<OE_Mech_OTC_Arachna_Cryo.tools.front_left_leg.label>front left leg</OE_Mech_OTC_Arachna_Cryo.tools.front_left_leg.label>
-<OE_Mech_OTC_Arachna_Cryo.tools.front_right_leg.label>front right leg</OE_Mech_OTC_Arachna_Cryo.tools.front_right_leg.label>
-<OE_Mech_OTC_Arachna_Cryo.tools.head.label>head</OE_Mech_OTC_Arachna_Cryo.tools.head.label>
+<OE_Mech_OTC_Arachna_Cryo.label>OTC蛛形纲(冷冻)</OE_Mech_OTC_Arachna_Cryo.label>
+<OE_Mech_OTC_Arachna_Cryo.description>中型装甲战斗机械体。以同名生物为设计基础。\n\n该型号使用带有冷冻弹药的重构OTC霰弹枪。</OE_Mech_OTC_Arachna_Cryo.description>
+<OE_Mech_OTC_Arachna_Cryo.tools.front_left_leg.label>左前腿</OE_Mech_OTC_Arachna_Cryo.tools.front_left_leg.label>
+<OE_Mech_OTC_Arachna_Cryo.tools.front_right_leg.label>右前腿</OE_Mech_OTC_Arachna_Cryo.tools.front_right_leg.label>
+<OE_Mech_OTC_Arachna_Cryo.tools.head.label>头部</OE_Mech_OTC_Arachna_Cryo.tools.head.label>
 <!--=============== Fire ====================-->
-<OE_Mech_OTC_Arachna_Fire.label>OTC Arachna(Fire)</OE_Mech_OTC_Arachna_Fire.label>
-<OE_Mech_OTC_Arachna_Fire.description>A medium-sized armored combat mechanoid. The creatures of the same name are taken as the basis for the design.\n\nThis model uses reconstructed OTC Shotgun with Fire charges.</OE_Mech_OTC_Arachna_Fire.description>
-<OE_Mech_OTC_Arachna_Fire.tools.front_left_leg.label>front left leg</OE_Mech_OTC_Arachna_Fire.tools.front_left_leg.label>
-<OE_Mech_OTC_Arachna_Fire.tools.front_right_leg.label>front right leg</OE_Mech_OTC_Arachna_Fire.tools.front_right_leg.label>
-<OE_Mech_OTC_Arachna_Fire.tools.head.label>head</OE_Mech_OTC_Arachna_Fire.tools.head.label>
+<OE_Mech_OTC_Arachna_Fire.label>OTC蛛形纲(火焰)</OE_Mech_OTC_Arachna_Fire.label>
+<OE_Mech_OTC_Arachna_Fire.description>中型装甲战斗机械体。以同名生物为设计基础。\n\n该型号使用带有火焰弹药的重构OTC霰弹枪。</OE_Mech_OTC_Arachna_Fire.description>
+<OE_Mech_OTC_Arachna_Fire.tools.front_left_leg.label>左前腿</OE_Mech_OTC_Arachna_Fire.tools.front_left_leg.label>
+<OE_Mech_OTC_Arachna_Fire.tools.front_right_leg.label>右前腿</OE_Mech_OTC_Arachna_Fire.tools.front_right_leg.label>
+<OE_Mech_OTC_Arachna_Fire.tools.head.label>头部</OE_Mech_OTC_Arachna_Fire.tools.head.label>
 <!--=============== EMP ====================-->
-<OE_Mech_OTC_Arachna_EMP.label>OTC Arachna(EMP)</OE_Mech_OTC_Arachna_EMP.label>
-<OE_Mech_OTC_Arachna_EMP.description>A medium-sized armored combat mechanoid. The creatures of the same name are taken as the basis for the design.\n\nThis model uses reconstructed OTC Shotgun with EMP charges.</OE_Mech_OTC_Arachna_EMP.description>
-<OE_Mech_OTC_Arachna_EMP.tools.front_left_leg.label>front left leg</OE_Mech_OTC_Arachna_EMP.tools.front_left_leg.label>
-<OE_Mech_OTC_Arachna_EMP.tools.front_right_leg.label>front right leg</OE_Mech_OTC_Arachna_EMP.tools.front_right_leg.label>
-<OE_Mech_OTC_Arachna_EMP.tools.head.label>head</OE_Mech_OTC_Arachna_EMP.tools.head.label>
+<OE_Mech_OTC_Arachna_EMP.label>OTC蛛形纲(电磁脉冲)</OE_Mech_OTC_Arachna_EMP.label>
+<OE_Mech_OTC_Arachna_EMP.description>中型装甲战斗机械体。以同名生物为设计基础。\n\n该型号使用带有电磁脉冲弹药的重构OTC霰弹枪。</OE_Mech_OTC_Arachna_EMP.description>
+<OE_Mech_OTC_Arachna_EMP.tools.front_left_leg.label>左前腿</OE_Mech_OTC_Arachna_EMP.tools.front_left_leg.label>
+<OE_Mech_OTC_Arachna_EMP.tools.front_right_leg.label>右前腿</OE_Mech_OTC_Arachna_EMP.tools.front_right_leg.label>
+<OE_Mech_OTC_Arachna_EMP.tools.head.label>头部</OE_Mech_OTC_Arachna_EMP.tools.head.label>
 
 <!--=============== OCC ====================-->
-<OE_Mech_OCC_Arachna.label>OCC Arachna</OE_Mech_OCC_Arachna.label>
-<OE_Mech_OCC_Arachna.description>A medium-sized armored combat mechanoid. The creatures of the same name are taken as the basis for the design.\n\nThis model uses reconstructed OCC Rifle.</OE_Mech_OCC_Arachna.description>
-<OE_Mech_OCC_Arachna.tools.front_left_leg.label>front left leg</OE_Mech_OCC_Arachna.tools.front_left_leg.label>
-<OE_Mech_OCC_Arachna.tools.front_right_leg.label>front right leg</OE_Mech_OCC_Arachna.tools.front_right_leg.label>
-<OE_Mech_OCC_Arachna.tools.head.label>head</OE_Mech_OCC_Arachna.tools.head.label>
+<OE_Mech_OCC_Arachna.label>OCC蛛形纲</OE_Mech_OCC_Arachna.label>
+<OE_Mech_OCC_Arachna.description>中型装甲战斗机械体。以同名生物为设计基础。\n\n该型号使用重构的OCC步枪。</OE_Mech_OCC_Arachna.description>
+<OE_Mech_OCC_Arachna.tools.front_left_leg.label>左前腿</OE_Mech_OCC_Arachna.tools.front_left_leg.label>
+<OE_Mech_OCC_Arachna.tools.front_right_leg.label>右前腿</OE_Mech_OCC_Arachna.tools.front_right_leg.label>
+<OE_Mech_OCC_Arachna.tools.head.label>头部</OE_Mech_OCC_Arachna.tools.head.label>
 
 <!--=============== OEC ====================-->
-<OE_Mech_OEC_Arachna.label>OEC Arachna</OE_Mech_OEC_Arachna.label>
-<OE_Mech_OEC_Arachna.description>A medium-sized armored combat mechanoid. The creatures of the same name are taken as the basis for the design.\n\nThis model uses reconstructed OEC Sniper Rifle.</OE_Mech_OEC_Arachna.description>
-<OE_Mech_OEC_Arachna.tools.front_left_leg.label>front left leg</OE_Mech_OEC_Arachna.tools.front_left_leg.label>
-<OE_Mech_OEC_Arachna.tools.front_right_leg.label>front right leg</OE_Mech_OEC_Arachna.tools.front_right_leg.label>
-<OE_Mech_OEC_Arachna.tools.head.label>head</OE_Mech_OEC_Arachna.tools.head.label>
+<OE_Mech_OEC_Arachna.label>OEC蛛形纲</OE_Mech_OEC_Arachna.label>
+<OE_Mech_OEC_Arachna.description>中型装甲战斗机械体。以同名生物为设计基础。\n\n该型号使用重构的OEC狙击步枪。</OE_Mech_OEC_Arachna.description>
+<OE_Mech_OEC_Arachna.tools.front_left_leg.label>左前腿</OE_Mech_OEC_Arachna.tools.front_left_leg.label>
+<OE_Mech_OEC_Arachna.tools.front_right_leg.label>右前腿</OE_Mech_OEC_Arachna.tools.front_right_leg.label>
+<OE_Mech_OEC_Arachna.tools.head.label>头部</OE_Mech_OEC_Arachna.tools.head.label>
 
 <!--=============== CAC ====================-->
-<OE_Mech_CAC_Arachna.label>CAC Arachna</OE_Mech_CAC_Arachna.label>
-<OE_Mech_CAC_Arachna.description>A medium-sized armored combat mechanoid. The creatures of the same name are taken as the basis for the design.\n\nThis model uses reconstructed CAC Minigun.</OE_Mech_CAC_Arachna.description>
-<OE_Mech_CAC_Arachna.tools.front_left_leg.label>front left leg</OE_Mech_CAC_Arachna.tools.front_left_leg.label>
-<OE_Mech_CAC_Arachna.tools.front_right_leg.label>front right leg</OE_Mech_CAC_Arachna.tools.front_right_leg.label>
-<OE_Mech_CAC_Arachna.tools.head.label>head</OE_Mech_CAC_Arachna.tools.head.label>
+<OE_Mech_CAC_Arachna.label>CAC蛛形纲</OE_Mech_CAC_Arachna.label>
+<OE_Mech_CAC_Arachna.description>中型装甲战斗机械体。以同名生物为设计基础。\n\n该型号使用重构的CAC机枪。</OE_Mech_CAC_Arachna.description>
+<OE_Mech_CAC_Arachna.tools.front_left_leg.label>左前腿</OE_Mech_CAC_Arachna.tools.front_left_leg.label>
+<OE_Mech_CAC_Arachna.tools.front_right_leg.label>右前腿</OE_Mech_CAC_Arachna.tools.front_right_leg.label>
+<OE_Mech_CAC_Arachna.tools.head.label>头部</OE_Mech_CAC_Arachna.tools.head.label>
 
 <!--=============== Arachna Queen ====================-->
-<OE_Mech_ArachnaQueen.label>Arachna Queen</OE_Mech_ArachnaQueen.label>
-<OE_Mech_ArachnaQueen.description>An ultra-tech and ultra-heavy mech with a built-in mech gestator. Fed with appropriate resources, the Arachna Queen can form small Arachna Drones combat mechs within its massive carapace and deploy them into combat\n\nThe Arachna Queen is the avatar's replica of the deity worshiped by the Crimson Arachna Cult. The Queen's Grasp and Queen's Curse abilities help her dominate the battlefield. Even her death has consequences for her enemies.</OE_Mech_ArachnaQueen.description>
-<OE_Mech_ArachnaQueen.tools.front_left_leg.label>front left leg</OE_Mech_ArachnaQueen.tools.front_left_leg.label>
-<OE_Mech_ArachnaQueen.tools.front_right_leg.label>front right leg</OE_Mech_ArachnaQueen.tools.front_right_leg.label>
-<OE_Mech_ArachnaQueen.tools.head.label>head</OE_Mech_ArachnaQueen.tools.head.label>
+<OE_Mech_ArachnaQueen.label>蛛后</OE_Mech_ArachnaQueen.label>
+<OE_Mech_ArachnaQueen.description>一种高科技超重型机械体，内置机械培育器。通过适当的资源供给，蛛后可以在其巨大的外壳内形成小型蛛形纲无人机战斗机械体并将其部署到战斗中\n\n蛛后是猩红蛛形纲教派所崇拜神祇的化身复制品。女王之握和女王诅咒能力帮助她在战场上占据主导地位。甚至她的死亡也会对敌人产生后果。</OE_Mech_ArachnaQueen.description>
+<OE_Mech_ArachnaQueen.tools.front_left_leg.label>左前腿</OE_Mech_ArachnaQueen.tools.front_left_leg.label>
+<OE_Mech_ArachnaQueen.tools.front_right_leg.label>右前腿</OE_Mech_ArachnaQueen.tools.front_right_leg.label>
+<OE_Mech_ArachnaQueen.tools.head.label>头部</OE_Mech_ArachnaQueen.tools.head.label>
 
 <!--=============== Crimson Arachna ====================-->
-<OE_Mech_CrimsonArachna.label>Crimson Arachna</OE_Mech_CrimsonArachna.label>
-<OE_Mech_CrimsonArachna.description>An ultra-tech and ultra-heavy mech with a built-in mech gestator. Fed with appropriate resources, the Crimson Arachna can form small Crimson Arachna Drones combat mechs within its massive carapace and deploy them into combat\n\nThe Crimson Arachna is the avatar of the deity worshiped by the Crimson Arachna Cult. The Queen's Grasp and Queen's Curse abilities help her dominate the battlefield. Even her death has consequences for her enemies.</OE_Mech_CrimsonArachna.description>
-<OE_Mech_CrimsonArachna.tools.front_left_leg.label>front left leg</OE_Mech_CrimsonArachna.tools.front_left_leg.label>
-<OE_Mech_CrimsonArachna.tools.front_right_leg.label>front right leg</OE_Mech_CrimsonArachna.tools.front_right_leg.label>
-<OE_Mech_CrimsonArachna.tools.head.label>head</OE_Mech_CrimsonArachna.tools.head.label>
+<OE_Mech_CrimsonArachna.label>猩红蛛形纲</OE_Mech_CrimsonArachna.label>
+<OE_Mech_CrimsonArachna.description>一种高科技超重型机械体，内置机械培育器。通过适当的资源供给，猩红蛛形纲可以在其巨大的外壳内形成小型猩红蛛形纲无人机战斗机械体并将其部署到战斗中\n\n猩红蛛形纲是猩红蛛形纲教派所崇拜神祇的化身。女王之握和女王诅咒能力帮助她在战场上占据主导地位。甚至她的死亡也会对敌人产生后果。</OE_Mech_CrimsonArachna.description>
+<OE_Mech_CrimsonArachna.tools.front_left_leg.label>左前腿</OE_Mech_CrimsonArachna.tools.front_left_leg.label>
+<OE_Mech_CrimsonArachna.tools.front_right_leg.label>右前腿</OE_Mech_CrimsonArachna.tools.front_right_leg.label>
+<OE_Mech_CrimsonArachna.tools.head.label>头部</OE_Mech_CrimsonArachna.tools.head.label>
 
 <!--=============== Arachna Drone ====================-->
-<OE_Mech_ArachnaDrone.label>Arachna Drone</OE_Mech_ArachnaDrone.label>
-<OE_Mech_ArachnaDrone.description>A small, deployable combat mechanoid usually manufactured inside an ultra-heavy Arachna Queen mech. Arachna Drone are expendable melee fighters designed to swarm-attack enemies. They are mounted with non-rechargeable power source.</OE_Mech_ArachnaDrone.description>
-<OE_Mech_ArachnaDrone.tools.front_left_leg.label>front left leg</OE_Mech_ArachnaDrone.tools.front_left_leg.label>
-<OE_Mech_ArachnaDrone.tools.front_right_leg.label>front right leg</OE_Mech_ArachnaDrone.tools.front_right_leg.label>
-<OE_Mech_ArachnaDrone.tools.head.label>head</OE_Mech_ArachnaDrone.tools.head.label>
-<OE_Mech_ArachnaDrone.tools.head-1.label>head</OE_Mech_ArachnaDrone.tools.head-1.label>
+<OE_Mech_ArachnaDrone.label>蛛形纲无人机</OE_Mech_ArachnaDrone.label>
+<OE_Mech_ArachnaDrone.description>一种小型可部署的战斗机械体，通常在超重型蛛后机械体内制造。蛛形纲无人机是可消耗的近战战士，被设计用来群体攻击敌人。它们配备了不可充电的电源。</OE_Mech_ArachnaDrone.description>
+<OE_Mech_ArachnaDrone.tools.front_left_leg.label>左前腿</OE_Mech_ArachnaDrone.tools.front_left_leg.label>
+<OE_Mech_ArachnaDrone.tools.front_right_leg.label>右前腿</OE_Mech_ArachnaDrone.tools.front_right_leg.label>
+<OE_Mech_ArachnaDrone.tools.head.label>头部</OE_Mech_ArachnaDrone.tools.head.label>
+<OE_Mech_ArachnaDrone.tools.head-1.label>头部</OE_Mech_ArachnaDrone.tools.head-1.label>
 
 <!--=============== Crimson Arachna Drone ====================-->
-<OE_Mech_CrimsonArachnaDrone.label>Crimson Arachna Drone</OE_Mech_CrimsonArachnaDrone.label>
-<OE_Mech_CrimsonArachnaDrone.description>A small, deployable combat mechanoid usually manufactured inside an ultra-heavy Crimson Arachna mech. Crimson Arachna Drone are expendable melee fighters designed to swarm-attack enemies. They are mounted with non-rechargeable power source.</OE_Mech_CrimsonArachnaDrone.description>
-<OE_Mech_CrimsonArachnaDrone.tools.front_left_leg.label>front left leg</OE_Mech_CrimsonArachnaDrone.tools.front_left_leg.label>
-<OE_Mech_CrimsonArachnaDrone.tools.front_right_leg.label>front right leg</OE_Mech_CrimsonArachnaDrone.tools.front_right_leg.label>
-<OE_Mech_CrimsonArachnaDrone.tools.head.label>head</OE_Mech_CrimsonArachnaDrone.tools.head.label>
-<OE_Mech_CrimsonArachnaDrone.tools.head-1.label>head</OE_Mech_CrimsonArachnaDrone.tools.head-1.label>
+<OE_Mech_CrimsonArachnaDrone.label>猩红蛛形纲无人机</OE_Mech_CrimsonArachnaDrone.label>
+<OE_Mech_CrimsonArachnaDrone.description>一种小型可部署的战斗机械体，通常在超重型猩红蛛形纲机械体内制造。猩红蛛形纲无人机是可消耗的近战战士，被设计用来群体攻击敌人。它们配备了不可充电的电源。</OE_Mech_CrimsonArachnaDrone.description>
+<OE_Mech_CrimsonArachnaDrone.tools.front_left_leg.label>左前腿</OE_Mech_CrimsonArachnaDrone.tools.front_left_leg.label>
+<OE_Mech_CrimsonArachnaDrone.tools.front_right_leg.label>右前腿</OE_Mech_CrimsonArachnaDrone.tools.front_right_leg.label>
+<OE_Mech_CrimsonArachnaDrone.tools.head.label>头部</OE_Mech_CrimsonArachnaDrone.tools.head.label>
+<OE_Mech_CrimsonArachnaDrone.tools.head-1.label>头部</OE_Mech_CrimsonArachnaDrone.tools.head-1.label>
 
 <!--=============== Dominator ====================-->
 <!--=============== OMC ====================-->
-<OE_Mech_OMC_Dominator.label>OMC Dominator</OE_Mech_OMC_Dominator.label>
-<OE_Mech_OMC_Dominator.description>A medium-sized well armored combat mechanoid. The Dominator series is a modern combat mechanoid designed to sow death and destruction on the battlefield.\n\nThis model with additionally mounted Rocket Launcher and uses reconstructed OMC Auto Shotgun.</OE_Mech_OMC_Dominator.description>
-<OE_Mech_OMC_Dominator.tools.left_fist.label>left fist</OE_Mech_OMC_Dominator.tools.left_fist.label>
-<OE_Mech_OMC_Dominator.tools.right_fist.label>right fist</OE_Mech_OMC_Dominator.tools.right_fist.label>
-<OE_Mech_OMC_Dominator.tools.head.label>head</OE_Mech_OMC_Dominator.tools.head.label>
+<OE_Mech_OMC_Dominator.label>OMC支配者</OE_Mech_OMC_Dominator.label>
+<OE_Mech_OMC_Dominator.description>中型装甲精良的战斗机械体。支配者系列是专为在战场上播撒死亡和毁灭而设计的现代战斗机械体。\n\n该型号额外安装了火箭发射器，使用重构的OMC自动霰弹枪。</OE_Mech_OMC_Dominator.description>
+<OE_Mech_OMC_Dominator.tools.left_fist.label>左拳</OE_Mech_OMC_Dominator.tools.left_fist.label>
+<OE_Mech_OMC_Dominator.tools.right_fist.label>右拳</OE_Mech_OMC_Dominator.tools.right_fist.label>
+<OE_Mech_OMC_Dominator.tools.head.label>头部</OE_Mech_OMC_Dominator.tools.head.label>
 
-<Bullet_OMC_MRL.label>Mini's Bane MK-II rocket</Bullet_OMC_MRL.label>
+<Bullet_OMC_MRL.label>迷你克星MK-II火箭</Bullet_OMC_MRL.label>
 
 <!--=============== OTC ====================-->
 <!--=============== Acid ====================-->
-<OE_Mech_OTC_Dominator_Acid.label>OTC Dominator(Acid)</OE_Mech_OTC_Dominator_Acid.label>
-<OE_Mech_OTC_Dominator_Acid.description>A medium-sized well armored combat mechanoid. The Dominator series is a modern combat mechanoid designed to sow death and destruction on the battlefield.\n\nThis model with additionally installed Chaos program and uses reconstructed OTC Multi-Cannon with Acid charges.</OE_Mech_OTC_Dominator_Acid.description>
-<OE_Mech_OTC_Dominator_Acid.tools.left_fist.label>left fist</OE_Mech_OTC_Dominator_Acid.tools.left_fist.label>
-<OE_Mech_OTC_Dominator_Acid.tools.right_fist.label>right fist</OE_Mech_OTC_Dominator_Acid.tools.right_fist.label>
-<OE_Mech_OTC_Dominator_Acid.tools.head.label>head</OE_Mech_OTC_Dominator_Acid.tools.head.label>
+<OE_Mech_OTC_Dominator_Acid.label>OTC支配者(酸性)</OE_Mech_OTC_Dominator_Acid.label>
+<OE_Mech_OTC_Dominator_Acid.description>中型装甲精良的战斗机械体。支配者系列是专为在战场上播撒死亡和毁灭而设计的现代战斗机械体。\n\n该型号额外安装了混沌程序，使用带有酸性弹药的重构OTC多管火炮。</OE_Mech_OTC_Dominator_Acid.description>
+<OE_Mech_OTC_Dominator_Acid.tools.left_fist.label>左拳</OE_Mech_OTC_Dominator_Acid.tools.left_fist.label>
+<OE_Mech_OTC_Dominator_Acid.tools.right_fist.label>右拳</OE_Mech_OTC_Dominator_Acid.tools.right_fist.label>
+<OE_Mech_OTC_Dominator_Acid.tools.head.label>头部</OE_Mech_OTC_Dominator_Acid.tools.head.label>
 <!--=============== Cryo ====================-->
-<OE_Mech_OTC_Dominator_Cryo.label>OTC Dominator(Cryo)</OE_Mech_OTC_Dominator_Cryo.label>
-<OE_Mech_OTC_Dominator_Cryo.description>A medium-sized well armored combat mechanoid. The Dominator series is a modern combat mechanoid designed to sow death and destruction on the battlefield.\n\nThis model with additionally installed Chaos program and uses reconstructed OTC Multi-Cannon with Cryo charges.</OE_Mech_OTC_Dominator_Cryo.description>
-<OE_Mech_OTC_Dominator_Cryo.tools.left_fist.label>left fist</OE_Mech_OTC_Dominator_Cryo.tools.left_fist.label>
-<OE_Mech_OTC_Dominator_Cryo.tools.right_fist.label>right fist</OE_Mech_OTC_Dominator_Cryo.tools.right_fist.label>
-<OE_Mech_OTC_Dominator_Cryo.tools.head.label>head</OE_Mech_OTC_Dominator_Cryo.tools.head.label>
+<OE_Mech_OTC_Dominator_Cryo.label>OTC支配者(冷冻)</OE_Mech_OTC_Dominator_Cryo.label>
+<OE_Mech_OTC_Dominator_Cryo.description>中型装甲精良的战斗机械体。支配者系列是专为在战场上播撒死亡和毁灭而设计的现代战斗机械体。\n\n该型号额外安装了混沌程序，使用带有冷冻弹药的重构OTC多管火炮。</OE_Mech_OTC_Dominator_Cryo.description>
+<OE_Mech_OTC_Dominator_Cryo.tools.left_fist.label>左拳</OE_Mech_OTC_Dominator_Cryo.tools.left_fist.label>
+<OE_Mech_OTC_Dominator_Cryo.tools.right_fist.label>右拳</OE_Mech_OTC_Dominator_Cryo.tools.right_fist.label>
+<OE_Mech_OTC_Dominator_Cryo.tools.head.label>头部</OE_Mech_OTC_Dominator_Cryo.tools.head.label>
 <!--=============== Fire ====================-->
-<OE_Mech_OTC_Dominator_Fire.label>OTC Dominator(Fire)</OE_Mech_OTC_Dominator_Fire.label>
-<OE_Mech_OTC_Dominator_Fire.description>A medium-sized well armored combat mechanoid. The Dominator series is a modern combat mechanoid designed to sow death and destruction on the battlefield.\n\nThis model with additionally installed Chaos program and uses reconstructed OTC Multi-Cannon with Fire charges.</OE_Mech_OTC_Dominator_Fire.description>
-<OE_Mech_OTC_Dominator_Fire.tools.left_fist.label>left fist</OE_Mech_OTC_Dominator_Fire.tools.left_fist.label>
-<OE_Mech_OTC_Dominator_Fire.tools.right_fist.label>right fist</OE_Mech_OTC_Dominator_Fire.tools.right_fist.label>
-<OE_Mech_OTC_Dominator_Fire.tools.head.label>head</OE_Mech_OTC_Dominator_Fire.tools.head.label>
+<OE_Mech_OTC_Dominator_Fire.label>OTC支配者(火焰)</OE_Mech_OTC_Dominator_Fire.label>
+<OE_Mech_OTC_Dominator_Fire.description>中型装甲精良的战斗机械体。支配者系列是专为在战场上播撒死亡和毁灭而设计的现代战斗机械体。\n\n该型号额外安装了混沌程序，使用带有火焰弹药的重构OTC多管火炮。</OE_Mech_OTC_Dominator_Fire.description>
+<OE_Mech_OTC_Dominator_Fire.tools.left_fist.label>左拳</OE_Mech_OTC_Dominator_Fire.tools.left_fist.label>
+<OE_Mech_OTC_Dominator_Fire.tools.right_fist.label>右拳</OE_Mech_OTC_Dominator_Fire.tools.right_fist.label>
+<OE_Mech_OTC_Dominator_Fire.tools.head.label>头部</OE_Mech_OTC_Dominator_Fire.tools.head.label>
 <!--=============== EMP ====================-->
-<OE_Mech_OTC_Dominator_EMP.label>OTC Dominator(EMP)</OE_Mech_OTC_Dominator_EMP.label>
-<OE_Mech_OTC_Dominator_EMP.description>A medium-sized well armored combat mechanoid. The Dominator series is a modern combat mechanoid designed to sow death and destruction on the battlefield.\n\nThis model with additionally installed Chaos program and uses reconstructed OTC Multi-Cannon with EMP charges.</OE_Mech_OTC_Dominator_EMP.description>
-<OE_Mech_OTC_Dominator_EMP.tools.left_fist.label>left fist</OE_Mech_OTC_Dominator_EMP.tools.left_fist.label>
-<OE_Mech_OTC_Dominator_EMP.tools.right_fist.label>right fist</OE_Mech_OTC_Dominator_EMP.tools.right_fist.label>
-<OE_Mech_OTC_Dominator_EMP.tools.head.label>head</OE_Mech_OTC_Dominator_EMP.tools.head.label>
+<OE_Mech_OTC_Dominator_EMP.label>OTC支配者(电磁脉冲)</OE_Mech_OTC_Dominator_EMP.label>
+<OE_Mech_OTC_Dominator_EMP.description>中型装甲精良的战斗机械体。支配者系列是专为在战场上播撒死亡和毁灭而设计的现代战斗机械体。\n\n该型号额外安装了混沌程序，使用带有电磁脉冲弹药的重构OTC多管火炮。</OE_Mech_OTC_Dominator_EMP.description>
+<OE_Mech_OTC_Dominator_EMP.tools.left_fist.label>左拳</OE_Mech_OTC_Dominator_EMP.tools.left_fist.label>
+<OE_Mech_OTC_Dominator_EMP.tools.right_fist.label>右拳</OE_Mech_OTC_Dominator_EMP.tools.right_fist.label>
+<OE_Mech_OTC_Dominator_EMP.tools.head.label>头部</OE_Mech_OTC_Dominator_EMP.tools.head.label>
 
 <!--=============== OCC ====================-->
-<OE_Mech_OCC_Dominator.label>OCC Dominator</OE_Mech_OCC_Dominator.label>
-<OE_Mech_OCC_Dominator.description>A medium-sized heavy armored combat mechanoid. The Dominator series is a modern combat mechanoid designed to sow death and destruction on the battlefield.\n\nThis model with additionally installed Vanguard program and uses reconstructed OCC Drill.</OE_Mech_OCC_Dominator.description>
-<OE_Mech_OCC_Dominator.tools.left_fist.label>left fist</OE_Mech_OCC_Dominator.tools.left_fist.label>
-<OE_Mech_OCC_Dominator.tools.right_fist.label>right fist</OE_Mech_OCC_Dominator.tools.right_fist.label>
-<OE_Mech_OCC_Dominator.tools.head.label>head</OE_Mech_OCC_Dominator.tools.head.label>
+<OE_Mech_OCC_Dominator.label>OCC支配者</OE_Mech_OCC_Dominator.label>
+<OE_Mech_OCC_Dominator.description>中型重型装甲战斗机械体。支配者系列是专为在战场上播撒死亡和毁灭而设计的现代战斗机械体。\n\n该型号额外安装了先锋程序，使用重构的OCC钻头。</OE_Mech_OCC_Dominator.description>
+<OE_Mech_OCC_Dominator.tools.left_fist.label>左拳</OE_Mech_OCC_Dominator.tools.left_fist.label>
+<OE_Mech_OCC_Dominator.tools.right_fist.label>右拳</OE_Mech_OCC_Dominator.tools.right_fist.label>
+<OE_Mech_OCC_Dominator.tools.head.label>头部</OE_Mech_OCC_Dominator.tools.head.label>
 
 <!--=============== OEC ====================-->
-<OE_Mech_OEC_Dominator.label>OEC Dominator</OE_Mech_OEC_Dominator.label>
-<OE_Mech_OEC_Dominator.description>A medium-sized armored combat mechanoid. The Dominator series is a modern combat mechanoid designed to sow death and destruction on the battlefield.\n\nThis model with additionally installed Blink device and uses reconstructed OEC Bow.</OE_Mech_OEC_Dominator.description>
-<OE_Mech_OEC_Dominator.tools.left_fist.label>left fist</OE_Mech_OEC_Dominator.tools.left_fist.label>
-<OE_Mech_OEC_Dominator.tools.right_fist.label>right fist</OE_Mech_OEC_Dominator.tools.right_fist.label>
-<OE_Mech_OEC_Dominator.tools.head.label>head</OE_Mech_OEC_Dominator.tools.head.label>
+<OE_Mech_OEC_Dominator.label>OEC支配者</OE_Mech_OEC_Dominator.label>
+<OE_Mech_OEC_Dominator.description>中型装甲战斗机械体。支配者系列是专为在战场上播撒死亡和毁灭而设计的现代战斗机械体。\n\n该型号额外安装了闪现装置，使用重构的OEC弓。</OE_Mech_OEC_Dominator.description>
+<OE_Mech_OEC_Dominator.tools.left_fist.label>左拳</OE_Mech_OEC_Dominator.tools.left_fist.label>
+<OE_Mech_OEC_Dominator.tools.right_fist.label>右拳</OE_Mech_OEC_Dominator.tools.right_fist.label>
+<OE_Mech_OEC_Dominator.tools.head.label>头部</OE_Mech_OEC_Dominator.tools.head.label>
 
 <!--=============== ODC ====================-->
 <!--=============== Light ====================-->
-<OE_Mech_ODC_Dominator_Light.label>ODC Dominator(Light)</OE_Mech_ODC_Dominator_Light.label>
-<OE_Mech_ODC_Dominator_Light.description>A medium-sized armored combat mechanoid. The Dominator series is a modern combat mechanoid designed to sow death and destruction on the battlefield.\n\nThis model with additionally installed Camouflage device and uses reconstructed ODC Claws.</OE_Mech_ODC_Dominator_Light.description>
-<OE_Mech_ODC_Dominator_Light.tools.left_claws.label>left claws</OE_Mech_ODC_Dominator_Light.tools.left_claws.label>
-<OE_Mech_ODC_Dominator_Light.tools.right_claws.label>right claws</OE_Mech_ODC_Dominator_Light.tools.right_claws.label>
-<OE_Mech_ODC_Dominator_Light.tools.head.label>head</OE_Mech_ODC_Dominator_Light.tools.head.label>
+<OE_Mech_ODC_Dominator_Light.label>ODC支配者(轻型)</OE_Mech_ODC_Dominator_Light.label>
+<OE_Mech_ODC_Dominator_Light.description>中型装甲战斗机械体。支配者系列是专为在战场上播撒死亡和毁灭而设计的现代战斗机械体。\n\n该型号额外安装了伪装装置，使用重构的ODC爪。</OE_Mech_ODC_Dominator_Light.description>
+<OE_Mech_ODC_Dominator_Light.tools.left_claws.label>左爪</OE_Mech_ODC_Dominator_Light.tools.left_claws.label>
+<OE_Mech_ODC_Dominator_Light.tools.right_claws.label>右爪</OE_Mech_ODC_Dominator_Light.tools.right_claws.label>
+<OE_Mech_ODC_Dominator_Light.tools.head.label>头部</OE_Mech_ODC_Dominator_Light.tools.head.label>
 <!--=============== Heavy ====================-->
-<OE_Mech_ODC_Dominator_Heavy.label>ODC Dominator(Heavy)</OE_Mech_ODC_Dominator_Heavy.label>
-<OE_Mech_ODC_Dominator_Heavy.description>A medium-sized heavy armored combat mechanoid. The Dominator series is a modern combat mechanoid designed to sow death and destruction on the battlefield.\n\nThis model with additionally installed Provoke program and uses reconstructed heavy ODC Blade Launcher.</OE_Mech_ODC_Dominator_Heavy.description>
-<OE_Mech_ODC_Dominator_Heavy.tools.left_fist.label>left fist</OE_Mech_ODC_Dominator_Heavy.tools.left_fist.label>
-<OE_Mech_ODC_Dominator_Heavy.tools.right_fist.label>right fist</OE_Mech_ODC_Dominator_Heavy.tools.right_fist.label>
-<OE_Mech_ODC_Dominator_Heavy.tools.head.label>head</OE_Mech_ODC_Dominator_Heavy.tools.head.label>
+<OE_Mech_ODC_Dominator_Heavy.label>ODC支配者(重型)</OE_Mech_ODC_Dominator_Heavy.label>
+<OE_Mech_ODC_Dominator_Heavy.description>中型重型装甲战斗机械体。支配者系列是专为在战场上播撒死亡和毁灭而设计的现代战斗机械体。\n\n该型号额外安装了挑衅程序，使用重构的重型ODC刀片发射器。</OE_Mech_ODC_Dominator_Heavy.description>
+<OE_Mech_ODC_Dominator_Heavy.tools.left_fist.label>左拳</OE_Mech_ODC_Dominator_Heavy.tools.left_fist.label>
+<OE_Mech_ODC_Dominator_Heavy.tools.right_fist.label>右拳</OE_Mech_ODC_Dominator_Heavy.tools.right_fist.label>
+<OE_Mech_ODC_Dominator_Heavy.tools.head.label>头部</OE_Mech_ODC_Dominator_Heavy.tools.head.label>
 
 <!--=============== OMG ====================-->
-<OE_Mech_OMG_Dominator.label>Mercenary Dominator</OE_Mech_OMG_Dominator.label>
-<OE_Mech_OMG_Dominator.description>Highly modified medium-sized heavy armored combat mechanoid. The Dominator series is a modern combat mechanoid designed to sow death and destruction on the battlefield.\n\nThis model uses reconstructed heavy OMG Shotgun, Sniper Rifle or Minigun.</OE_Mech_OMG_Dominator.description>
-<OE_Mech_OMG_Dominator.tools.left_fist.label>left fist</OE_Mech_OMG_Dominator.tools.left_fist.label>
-<OE_Mech_OMG_Dominator.tools.right_fist.label>right fist</OE_Mech_OMG_Dominator.tools.right_fist.label>
-<OE_Mech_OMG_Dominator.tools.head.label>head</OE_Mech_OMG_Dominator.tools.head.label>
+<OE_Mech_OMG_Dominator.label>雇佣兵支配者</OE_Mech_OMG_Dominator.label>
+<OE_Mech_OMG_Dominator.description>高度改装的中型重型装甲战斗机械体。支配者系列是专为在战场上播撒死亡和毁灭而设计的现代战斗机械体。\n\n该型号使用重构的重型OMG霰弹枪、狙击步枪或机枪。</OE_Mech_OMG_Dominator.description>
+<OE_Mech_OMG_Dominator.tools.left_fist.label>左拳</OE_Mech_OMG_Dominator.tools.left_fist.label>
+<OE_Mech_OMG_Dominator.tools.right_fist.label>右拳</OE_Mech_OMG_Dominator.tools.right_fist.label>
+<OE_Mech_OMG_Dominator.tools.head.label>头部</OE_Mech_OMG_Dominator.tools.head.label>
 
 <!--=============== Chaos Lord ====================-->
-<OE_Mech_ChaosLord.label>Chaos Lord</OE_Mech_ChaosLord.label>
-<OE_Mech_ChaosLord.description>Chaos Lord is a prototype based on the Dominator, a medium-sized well-armored mechanoid. Originally designed as a combat mechandroid, tests revealed significantly improved results, leading to their use as assassins. Additionally, they can use the enhanced abilities of the Dominators.\n\nUses specially designed unique Grand Proton Rifle.</OE_Mech_ChaosLord.description>
-<OE_Mech_ChaosLord.tools.left_fist.label>left fist</OE_Mech_ChaosLord.tools.left_fist.label>
-<OE_Mech_ChaosLord.tools.right_fist.label>right fist</OE_Mech_ChaosLord.tools.right_fist.label>
-<OE_Mech_ChaosLord.tools.head.label>head</OE_Mech_ChaosLord.tools.head.label>
+<OE_Mech_ChaosLord.label>混沌领主</OE_Mech_ChaosLord.label>
+<OE_Mech_ChaosLord.description>混沌领主是基于支配者的原型，一种中型装甲精良的机械体。最初设计为战斗机械体，但测试显示结果显著改善，因此被用作刺客。此外，他们还能使用支配者的增强能力。\n\n使用专门设计的独特质子步枪。</OE_Mech_ChaosLord.description>
+<OE_Mech_ChaosLord.tools.left_fist.label>左拳</OE_Mech_ChaosLord.tools.left_fist.label>
+<OE_Mech_ChaosLord.tools.right_fist.label>右拳</OE_Mech_ChaosLord.tools.right_fist.label>
+<OE_Mech_ChaosLord.tools.head.label>头部</OE_Mech_ChaosLord.tools.head.label>
 
 <!--=============== Fallen Legion ====================-->
-<OE_Mech_FallenLegion.label>Fallen Legion</OE_Mech_FallenLegion.label>
-<OE_Mech_FallenLegion.description>An ultra-tech, ultra-armored, fortress-sized mechanoid with a built-in mech gestator. Fed with appropriate resources, the Fallen Legion can form medium Fallen Legion Guards combat mechs. Fallen Legion is a unknown development model based on the Dominator. Designed for suppression of enemies and total control of the battlefield.\n\nUses specially designed gun-spear Fallen Legion Spear and mounted with 4 Legion Beam Turret.</OE_Mech_FallenLegion.description>
-<OE_Mech_FallenLegion.tools.left_fist.label>left fist</OE_Mech_FallenLegion.tools.left_fist.label>
-<OE_Mech_FallenLegion.tools.right_fist.label>right fist</OE_Mech_FallenLegion.tools.right_fist.label>
-<OE_Mech_FallenLegion.tools.head.label>head</OE_Mech_FallenLegion.tools.head.label>
+<OE_Mech_FallenLegion.label>堕落军团</OE_Mech_FallenLegion.label>
+<OE_Mech_FallenLegion.description>一种高科技、超装甲、要塞级的机械体，内置机械培育器。通过适当的资源供给，堕落军团可以形成中型堕落军团守卫战斗机械体。堕落军团是基于支配者的未知开发型号。专为压制敌人和全面控制战场而设计。\n\n使用专门设计的枪矛堕落军团之矛，并配备4个军团光束炮塔。</OE_Mech_FallenLegion.description>
+<OE_Mech_FallenLegion.tools.left_fist.label>左拳</OE_Mech_FallenLegion.tools.left_fist.label>
+<OE_Mech_FallenLegion.tools.right_fist.label>右拳</OE_Mech_FallenLegion.tools.right_fist.label>
+<OE_Mech_FallenLegion.tools.head.label>头部</OE_Mech_FallenLegion.tools.head.label>
 
 <!--=============== Fallen Legion Guard ====================-->
-<OE_Mech_LegionGuard.label>Fallen Legion Guard</OE_Mech_LegionGuard.label>
-<OE_Mech_LegionGuard.description>An ultra-tech and ultra-armored medium-sized mechanoid with a built-in mech gestator. Fed with appropriate resources, the Fallen Legion Guard can form small Fallen Legion Drones combat mechs. Fallen Legion Guard are deployable combat mechanoid usually manufactured inside an ultra-tech Fallen Legion mech. They are mounted with non-rechargeable power source.\n\nUses specially designed gun-spear Fallen Legion Guard Spear.</OE_Mech_LegionGuard.description>
-<OE_Mech_LegionGuard.tools.left_fist.label>left fist</OE_Mech_LegionGuard.tools.left_fist.label>
-<OE_Mech_LegionGuard.tools.right_fist.label>right fist</OE_Mech_LegionGuard.tools.right_fist.label>
-<OE_Mech_LegionGuard.tools.head.label>head</OE_Mech_LegionGuard.tools.head.label>
+<OE_Mech_LegionGuard.label>堕落军团守卫</OE_Mech_LegionGuard.label>
+<OE_Mech_LegionGuard.description>一种高科技、超装甲的中型机械体，内置机械培育器。通过适当的资源供给，堕落军团守卫可以形成小型堕落军团无人机战斗机械体。堕落军团守卫是可在超科技堕落军团机械体内制造的可部署战斗机械体。它们配备了不可充电的电源。\n\n使用专门设计的枪矛堕落军团守卫之矛。</OE_Mech_LegionGuard.description>
+<OE_Mech_LegionGuard.tools.left_fist.label>左拳</OE_Mech_LegionGuard.tools.left_fist.label>
+<OE_Mech_LegionGuard.tools.right_fist.label>右拳</OE_Mech_LegionGuard.tools.right_fist.label>
+<OE_Mech_LegionGuard.tools.head.label>头部</OE_Mech_LegionGuard.tools.head.label>
 
 <!--=============== Fallen Legion Drone ====================-->
-<OE_Mech_LegionDrone.label>Fallen Legion Drone</OE_Mech_LegionDrone.label>
-<OE_Mech_LegionDrone.description>A small, deployable combat mechanoid usually manufactured inside an ultra-tech Fallen Legion Guard mech. Fallen Legion Drone are expendable melee fighters designed to swarm-attack enemies. They are mounted with non-rechargeable power source.</OE_Mech_LegionDrone.description>
-<OE_Mech_LegionDrone.tools.left_fist.label>left fist</OE_Mech_LegionDrone.tools.left_fist.label>
-<OE_Mech_LegionDrone.tools.right_fist.label>right fist</OE_Mech_LegionDrone.tools.right_fist.label>
-<OE_Mech_LegionDrone.tools.head.label>head</OE_Mech_LegionDrone.tools.head.label>
-<OE_Mech_LegionDrone.tools.head-1.label>head</OE_Mech_LegionDrone.tools.head-1.label>
+<OE_Mech_LegionDrone.label>堕落军团无人机</OE_Mech_LegionDrone.label>
+<OE_Mech_LegionDrone.description>一种小型可部署的战斗机械体，通常在超科技堕落军团守卫机械体内制造。堕落军团无人机是可消耗的近战战士，被设计用来群体攻击敌人。它们配备了不可充电的电源。</OE_Mech_LegionDrone.description>
+<OE_Mech_LegionDrone.tools.left_fist.label>左拳</OE_Mech_LegionDrone.tools.left_fist.label>
+<OE_Mech_LegionDrone.tools.right_fist.label>右拳</OE_Mech_LegionDrone.tools.right_fist.label>
+<OE_Mech_LegionDrone.tools.head.label>头部</OE_Mech_LegionDrone.tools.head.label>
+<OE_Mech_LegionDrone.tools.head-1.label>头部</OE_Mech_LegionDrone.tools.head-1.label>
 
 <!--=============== Swarmling Drone ====================-->
 <!--=============== CAC ====================-->
-<CAC_Swarmling_Drone.label>Cultist Swarmling Drone</CAC_Swarmling_Drone.label>
-<CAC_Swarmling_Drone.description>Cultist Swarmling Drone - small autonomous mechanoid built for efficient elimination. Swarmling Drones are powered by a long-lasting battery.</CAC_Swarmling_Drone.description>
-<CAC_Swarmling_Drone.tools.stinger.label>stinger</CAC_Swarmling_Drone.tools.stinger.label>
+<CAC_Swarmling_Drone.label>教派虫群无人机</CAC_Swarmling_Drone.label>
+<CAC_Swarmling_Drone.description>教派虫群无人机 - 为高效清除而建造的小型自主机械体。虫群无人机由长效电池供电。</CAC_Swarmling_Drone.description>
+<CAC_Swarmling_Drone.tools.stinger.label>毒刺</CAC_Swarmling_Drone.tools.stinger.label>
 
 <!--=============== OMG ====================-->
-<OMG_Swarmling_Drone.label>Mercenary Swarmling Drone</OMG_Swarmling_Drone.label>
-<OMG_Swarmling_Drone.description>Mercenary Swarmling Drone - small autonomous mechanoid built for efficient elimination. Swarmling Drones are powered by a long-lasting battery.</OMG_Swarmling_Drone.description>
-<OMG_Swarmling_Drone.tools.stinger.label>stinger</OMG_Swarmling_Drone.tools.stinger.label>
+<OMG_Swarmling_Drone.label>雇佣兵虫群无人机</OMG_Swarmling_Drone.label>
+<OMG_Swarmling_Drone.description>雇佣兵虫群无人机 - 为高效清除而建造的小型自主机械体。虫群无人机由长效电池供电。</OMG_Swarmling_Drone.description>
+<OMG_Swarmling_Drone.tools.stinger.label>毒刺</OMG_Swarmling_Drone.tools.stinger.label>
 
 </LanguageData>

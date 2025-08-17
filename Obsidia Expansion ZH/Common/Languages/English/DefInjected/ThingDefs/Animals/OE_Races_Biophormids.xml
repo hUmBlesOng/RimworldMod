@@ -1,59 +1,59 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
-<!--=============== Biophormids ====================-->
-<!--=============== Labryscid ====================-->
-<OE_Labryscid.label>labryscid</OE_Labryscid.label>
-<OE_Labryscid.description>A small, non-combat worker-class insectoid, the Labryscid fulfills essential hive duties without engaging in battle. Biophormids are the results of genetic experimentation by the android David in the Obsidia Empire. Initially considered failures, these insectoids were in fact David’s deliberate creation, intended as his legacy in the form of a new life form.\n\nDespite its lack of combat skills, the Labryscid is the backbone of the hive, tirelessly working to maintain the infrastructure and ensure the survival of its more dangerous counterparts.</OE_Labryscid.description>
-<OE_Labryscid.tools.left_hand.label>left hand</OE_Labryscid.tools.left_hand.label>
-<OE_Labryscid.tools.right_hand.label>right hand</OE_Labryscid.tools.right_hand.label>
-<OE_Labryscid.tools.mandibles.label>mandibles</OE_Labryscid.tools.mandibles.label>
-<OE_Labryscid.tools.head.label>head</OE_Labryscid.tools.head.label>
+<!--=============== 生物形态虫 ====================-->
+<!--=============== 拉布里斯克 ====================-->
+<OE_Labryscid.label>拉布里斯克</OE_Labryscid.label>
+<OE_Labryscid.description>一种小型、非战斗工人类昆虫类生物，拉布里斯克履行蜂巢的基本职责而不参与战斗。生物形态虫是黑曜石帝国中的机器人人大卫进行基因实验的结果。最初被认为是失败品，这些昆虫类生物实际上是大卫的刻意创造，旨在以新生命形式的形式作为他的遗产。\n\n尽管缺乏战斗技能，拉布里斯克是蜂巢的骨干，不知疲倦地工作以维持基础设施并确保其更危险的同类的生存。</OE_Labryscid.description>
+<OE_Labryscid.tools.left_hand.label>左手</OE_Labryscid.tools.left_hand.label>
+<OE_Labryscid.tools.right_hand.label>右手</OE_Labryscid.tools.right_hand.label>
+<OE_Labryscid.tools.mandibles.label>颚</OE_Labryscid.tools.mandibles.label>
+<OE_Labryscid.tools.head.label>头部</OE_Labryscid.tools.head.label>
 
-<!--=============== Razorsythe ====================-->
-<OE_Razorsythe.label>razorsythe</OE_Razorsythe.label>
-<OE_Razorsythe.description>This medium-sized warrior-class insectoid serves as the frontline soldier for hive defense and attack, wielding an amalgam knife. Biophormids are the results of genetic experimentation by the android David in the Obsidia Empire. Initially considered failures, these insectoids were in fact David’s deliberate creation, intended as his legacy in the form of a new life form.\n\nRazorsythe operates as the hive’s primary defensive force, using swift strikes with its knife to fend off threats or lead attacks on enemies. Its dedication to the hive is unmatched, sacrificing itself without hesitation.</OE_Razorsythe.description>
-<OE_Razorsythe.tools.left_hand.label>left hand</OE_Razorsythe.tools.left_hand.label>
-<OE_Razorsythe.tools.right_hand.label>right hand</OE_Razorsythe.tools.right_hand.label>
-<OE_Razorsythe.tools.mandibles.label>mandibles</OE_Razorsythe.tools.mandibles.label>
-<OE_Razorsythe.tools.head.label>head</OE_Razorsythe.tools.head.label>
+<!--=============== 刀锋赛斯 ====================-->
+<OE_Razorsythe.label>刀锋赛斯</OE_Razorsythe.label>
+<OE_Razorsythe.description>这种中等大小的战士类昆虫类生物是蜂巢防御和攻击的前线士兵，挥舞着融合刀。生物形态虫是黑曜石帝国中的机器人人大卫进行基因实验的结果。最初被认为是失败品，这些昆虫类生物实际上是大卫的刻意创造，旨在以新生命形式的形式作为他的遗产。\n\n刀锋赛斯作为蜂巢的主要防御力量，使用其刀快速攻击来抵御威胁或领导对敌人的攻击。它对蜂巢的奉献是无与伦比的，毫不犹豫地牺牲自己。</OE_Razorsythe.description>
+<OE_Razorsythe.tools.left_hand.label>左手</OE_Razorsythe.tools.left_hand.label>
+<OE_Razorsythe.tools.right_hand.label>右手</OE_Razorsythe.tools.right_hand.label>
+<OE_Razorsythe.tools.mandibles.label>颚</OE_Razorsythe.tools.mandibles.label>
+<OE_Razorsythe.tools.head.label>头部</OE_Razorsythe.tools.head.label>
 
-<!--=============== Winglance ====================-->
-<OE_Winglance.label>winglance</OE_Winglance.label>
-<OE_Winglance.description>A medium-sized hunter-class insectoid, Winglance is known for its agility and ability to fly, using its wings to move quickly while armed with an amalgam SMG. Biophormids are the results of genetic experimentation by the android David in the Obsidia Empire. Initially considered failures, these insectoids were in fact David’s deliberate creation, intended as his legacy in the form of a new life form.\n\nWinglance excels in swift, precise strikes from the air. Its mobility makes it a perfect scout and assassin, often ambushing prey with deadly accuracy before retreating into the sky.</OE_Winglance.description>
-<OE_Winglance.tools.left_hand.label>left hand</OE_Winglance.tools.left_hand.label>
-<OE_Winglance.tools.right_hand.label>right hand</OE_Winglance.tools.right_hand.label>
-<OE_Winglance.tools.mandibles.label>mandibles</OE_Winglance.tools.mandibles.label>
-<OE_Winglance.tools.head.label>head</OE_Winglance.tools.head.label>
+<!--=============== 翼枪手 ====================-->
+<OE_Winglance.label>翼枪手</OE_Winglance.label>
+<OE_Winglance.description>一种中等大小的猎人类昆虫类生物，翼枪手以其敏捷性和飞行能力而闻名，使用翅膀快速移动，同时配备融合冲锋枪。生物形态虫是黑曜石帝国中的机器人人大卫进行基因实验的结果。最初被认为是失败品，这些昆虫类生物实际上是大卫的刻意创造，旨在以新生命形式的形式作为他的遗产。\n\n翼枪手在空中表现出色，精确打击。它的机动性使其成为完美的侦察兵和刺客，经常在敌人身上进行致命的准确伏击，然后退回到天空中。</OE_Winglance.description>
+<OE_Winglance.tools.left_hand.label>左手</OE_Winglance.tools.left_hand.label>
+<OE_Winglance.tools.right_hand.label>右手</OE_Winglance.tools.right_hand.label>
+<OE_Winglance.tools.mandibles.label>颚</OE_Winglance.tools.mandibles.label>
+<OE_Winglance.tools.head.label>头部</OE_Winglance.tools.head.label>
 
-<!--=============== Brontarok ====================-->
-<OE_Brontarok.label>brontarok</OE_Brontarok.label>
-<OE_Brontarok.description>A large, heavily-armored defender-class insectoid, Brontarok moves slowly but is nearly impervious to damage, wielding a massive amalgam scythe. Biophormids are the results of genetic experimentation by the android David in the Obsidia Empire. Initially considered failures, these insectoids were in fact David’s deliberate creation, intended as his legacy in the form of a new life form.\n\nBrontarok’s thick chitinous armor makes it a fortress on legs, designed to absorb blows while methodically cutting through enemies with its immense scythe. Slow but relentless, it protects the hive from any that dare approach.</OE_Brontarok.description>
-<OE_Brontarok.tools.left_hand.label>left hand</OE_Brontarok.tools.left_hand.label>
-<OE_Brontarok.tools.right_hand.label>right hand</OE_Brontarok.tools.right_hand.label>
-<OE_Brontarok.tools.mandibles.label>mandibles</OE_Brontarok.tools.mandibles.label>
-<OE_Brontarok.tools.head.label>head</OE_Brontarok.tools.head.label>
+<!--=============== 布朗塔洛克 ====================-->
+<OE_Brontarok.label>布朗塔洛克</OE_Brontarok.label>
+<OE_Brontarok.description>一种大型、重装甲的防御类昆虫类生物，布朗塔洛克移动缓慢但几乎刀枪不入，挥舞着巨大的融合镰刀。生物形态虫是黑曜石帝国中的机器人人大卫进行基因实验的结果。最初被认为是失败品，这些昆虫类生物实际上是大卫的刻意创造，旨在以新生命形式的形式作为他的遗产。\n\n布朗塔洛克厚厚的几丁质盔甲使其成为移动的堡垒，旨在吸收打击，同时用其巨大的镰刀有条不紊地切割敌人。缓慢但无情，它保护蜂巢免受任何敢于接近的威胁。</OE_Brontarok.description>
+<OE_Brontarok.tools.left_hand.label>左手</OE_Brontarok.tools.left_hand.label>
+<OE_Brontarok.tools.right_hand.label>右手</OE_Brontarok.tools.right_hand.label>
+<OE_Brontarok.tools.mandibles.label>颚</OE_Brontarok.tools.mandibles.label>
+<OE_Brontarok.tools.head.label>头部</OE_Brontarok.tools.head.label>
 
-<!--=============== Swarmella ====================-->
-<OE_Swarmella.label>swarmella</OE_Swarmella.label>
-<OE_Swarmella.description>A medium-sized, female-only hunter-class insectoid, Swarmella acts as a queen within the hive, summoning Pincerlin drones to fight alongside her and wielding an amalgam scepter. Biophormids are the results of genetic experimentation by the android David in the Obsidia Empire. Initially considered failures, these insectoids were in fact David’s deliberate creation, intended as his legacy in the form of a new life form.\n\nSwarmella’s ability to summon small drones in battle and her strategic control of the battlefield make her both a powerful ally and a feared opponent. Her regal presence commands respect, ensuring that her Pincerlin swarm never strays far from her defense.</OE_Swarmella.description>
-<OE_Swarmella.tools.left_hand.label>left hand</OE_Swarmella.tools.left_hand.label>
-<OE_Swarmella.tools.right_hand.label>right hand</OE_Swarmella.tools.right_hand.label>
-<OE_Swarmella.tools.mandibles.label>mandibles</OE_Swarmella.tools.mandibles.label>
-<OE_Swarmella.tools.head.label>head</OE_Swarmella.tools.head.label>
+<!--=============== 斯瓦梅拉 ====================-->
+<OE_Swarmella.label>斯瓦梅拉</OE_Swarmella.label>
+<OE_Swarmella.description>一种中等大小、仅雌性的猎人类昆虫类生物，斯瓦梅拉在蜂巢中充当女王，召唤钳虫无人机与其并肩作战，并挥舞着融合权杖。生物形态虫是黑曜石帝国中的机器人人大卫进行基因实验的结果。最初被认为是失败品，这些昆虫类生物实际上是大卫的刻意创造，旨在以新生命形式的形式作为他的遗产。\n\n斯瓦梅拉在战斗中召唤小型无人机并在战场上进行战略控制的能力使她既是强大的盟友也是令人恐惧的对手。她高贵的存在赢得了尊重，确保她的钳虫群不会远离她的防御。</OE_Swarmella.description>
+<OE_Swarmella.tools.left_hand.label>左手</OE_Swarmella.tools.left_hand.label>
+<OE_Swarmella.tools.right_hand.label>右手</OE_Swarmella.tools.right_hand.label>
+<OE_Swarmella.tools.mandibles.label>颚</OE_Swarmella.tools.mandibles.label>
+<OE_Swarmella.tools.head.label>头部</OE_Swarmella.tools.head.label>
 
-<!--=============== Pincerlin ====================-->
-<OE_Pincerlin.label>pincerlin</OE_Pincerlin.label>
-<OE_Pincerlin.description>A small, drone-class insectoid, Pincerlin is summoned by Swarmella to assist her in battle, often used for her personal protection. Biophormids are the results of genetic experimentation by the android David in the Obsidia Empire. Initially considered failures, these insectoids were in fact David’s deliberate creation, intended as his legacy in the form of a new life form.\n\nThough tiny, Pincerlin plays a crucial role in Swarmella’s survival, swarming her enemies with bites and stings. Individually weak, they are deadly in numbers, overwhelming foes with sheer tenacity.</OE_Pincerlin.description>
-<OE_Pincerlin.tools.mandibles.label>mandibles</OE_Pincerlin.tools.mandibles.label>
-<OE_Pincerlin.tools.head.label>head</OE_Pincerlin.tools.head.label>
+<!--=============== 钳虫 ====================-->
+<OE_Pincerlin.label>钳虫</OE_Pincerlin.label>
+<OE_Pincerlin.description>一种小型、无人机类昆虫类生物，钳虫由斯瓦梅拉召唤以协助她在战斗中，通常用于她的个人保护。生物形态虫是黑曜石帝国中的机器人人大卫进行基因实验的结果。最初被认为是失败品，这些昆虫类生物实际上是大卫的刻意创造，旨在以新生命形式的形式作为他的遗产。\n\n虽然微小，但钳虫在斯瓦梅拉的生存中发挥着至关重要的作用，用咬和刺攻击她的敌人。单独来看很弱，但数量众多时，它们用纯粹的坚韧压倒敌人。</OE_Pincerlin.description>
+<OE_Pincerlin.tools.mandibles.label>颚</OE_Pincerlin.tools.mandibles.label>
+<OE_Pincerlin.tools.head.label>头部</OE_Pincerlin.tools.head.label>
 
-<!--=============== Monarchid ====================-->
-<OE_Monarchid.label>monarchid</OE_Monarchid.label>
-<OE_Monarchid.description>A medium-sized, male-only boss-class insectoid, Monarchid is the true ruler of the hive, wielding an amalgam sniper rifle and commanding with absolute authority. Biophormids are the results of genetic experimentation by the android David in the Obsidia Empire. Initially considered failures, these insectoids were in fact David’s deliberate creation, intended as his legacy in the form of a new life form.\n\nMonarchid’s rule is absolute, and his sharp, strategic mind is matched only by his deadliness in combat. Unlike other Biophormids, Monarchid possesses a unique intelligence, often seen overseeing the hive’s activities from a distance, calculating every move with cold precision. His amalgam sniper rifle allows him to eliminate threats long before they can approach the hive, but he is equally dangerous in close combat. The weapon is an extension of his will, capable of shifting between long-range precision shots and devastating melee strikes when enemies get too close.\n\nLegends among the Biophormids speak of Monarchid as the firstborn of David’s "children," crafted with a blend of superior genes to become the perfect ruler. His loyalty to the hive is unwavering, but he also harbors a deep sense of responsibility toward the legacy of David, seeing himself as the continuation of his creator’s vision. When Monarchid fights, it is not only to defend his hive but also to uphold the purpose for which he was designed: the perfection of their species. His decisions are final, and any opposition within the hive is met with swift, brutal consequences. Monarchid’s reign is one of calculated dominance, ensuring that the hive thrives under his unchallenged authority.</OE_Monarchid.description>
-<OE_Monarchid.tools.left_hand.label>left hand</OE_Monarchid.tools.left_hand.label>
-<OE_Monarchid.tools.right_hand.label>right hand</OE_Monarchid.tools.right_hand.label>
-<OE_Monarchid.tools.mandibles.label>mandibles</OE_Monarchid.tools.mandibles.label>
-<OE_Monarchid.tools.head.label>head</OE_Monarchid.tools.head.label>
+<!--=============== 莫纳基德 ====================-->
+<OE_Monarchid.label>莫纳基德</OE_Monarchid.label>
+<OE_Monarchid.description>一种中等大小、仅雄性的首领类昆虫类生物，莫纳基德是蜂巢的真正统治者，挥舞着融合狙击步枪，以绝对权威进行指挥。生物形态虫是黑曜石帝国中的机器人人大卫进行基因实验的结果。最初被认为是失败品，这些昆虫类生物实际上是大卫的刻意创造，旨在以新生命形式的形式作为他的遗产。\n\n莫纳基德的统治是绝对的，他敏锐、战略性的头脑与他在战斗中的致命性相匹配。与其他生物形态虫不同，莫纳基德拥有独特的智力，经常被看到从远处监督蜂巢的活动，以冷静的精确性计算每一步行动。他的融合狙击步枪使他能够在敌人接近蜂巢之前很久就消灭威胁，但在近距离战斗中同样危险。武器是他意志的延伸，能够在远程精确射击和近距离毁灭性近战攻击之间切换。\n\n生物形态虫中的传说将莫纳基德视为大卫"孩子们"中的长子，由优越的基因混合而成，成为完美的统治者。他对蜂巢的忠诚是坚定不移的，但他也对大卫的遗产怀有深深的责任感，将自己视为其创造者愿景的延续。当莫纳基德战斗时，他不仅是为了保护他的蜂巢，也是为了维护他被设计的目的：完善他们的物种。他的决定是最终的，蜂巢内的任何反对都会遭到迅速而残酷的后果。莫纳基德的统治是一种经过计算的支配，确保蜂巢在他的无可争议的权威下繁荣发展。</OE_Monarchid.description>
+<OE_Monarchid.tools.left_hand.label>左手</OE_Monarchid.tools.left_hand.label>
+<OE_Monarchid.tools.right_hand.label>右手</OE_Monarchid.tools.right_hand.label>
+<OE_Monarchid.tools.mandibles.label>颚</OE_Monarchid.tools.mandibles.label>
+<OE_Monarchid.tools.head.label>头部</OE_Monarchid.tools.head.label>
 
 </LanguageData>

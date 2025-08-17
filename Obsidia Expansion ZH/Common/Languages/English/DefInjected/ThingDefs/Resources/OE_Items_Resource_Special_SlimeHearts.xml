@@ -1,167 +1,167 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== Slime Hearts ====================-->
 <!--=============== UnСonfigured ====================-->
-<OE_SlimeHeart.label>slime heart (Unconf.)</OE_SlimeHeart.label>
-<OE_SlimeHeart.description>A hyper-advanced slime core with correct configuration and the addition of materials it is able to grow a real slime. It's a lost technology from Obsidia, developed by mad scientist and slime master Rimuru Tempest.</OE_SlimeHeart.description>
+<OE_SlimeHeart.label>史莱姆核心(未配置)</OE_SlimeHeart.label>
+<OE_SlimeHeart.description>超先进的史莱姆核心，通过正确的配置和添加材料，能够培育出真正的史莱姆。这是来自黑曜石的失落技术，由疯狂科学家和史莱姆大师利姆鲁·坦派斯特开发。</OE_SlimeHeart.description>
 
 <!--=============== Сonfigured ====================-->
 <!--=============== Liquid Type ====================-->
 <!--=============== Honey ====================-->
-<OE_SlimeHeart_Honey.label>honey slime heart (Сonf.)</OE_SlimeHeart_Honey.label>
-<OE_SlimeHeart_Honey.description>A hyper-advanced slime core with configuration to grow up into Honey slime in 7 days. Honey slime produces 25 Raw Honey every 5 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Honey.description>
+<OE_SlimeHeart_Honey.label>蜂蜜史莱姆核心(已配置)</OE_SlimeHeart_Honey.label>
+<OE_SlimeHeart_Honey.description>超先进的史莱姆核心，配置为在7天内成长为蜂蜜史莱姆。蜂蜜史莱姆每5天生产25个生蜂蜜。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Honey.description>
 
 <!--=============== Jelly ====================-->
-<OE_SlimeHeart_Jelly.label>jelly slime heart (Сonf.)</OE_SlimeHeart_Jelly.label>
-<OE_SlimeHeart_Jelly.description>A hyper-advanced slime core with configuration to grow up into Jelly slime in 7 days. Jelly slime produces 250 Insect Jelly every 5 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Jelly.description>
+<OE_SlimeHeart_Jelly.label>果冻史莱姆核心(已配置)</OE_SlimeHeart_Jelly.label>
+<OE_SlimeHeart_Jelly.description>超先进的史莱姆核心，配置为在7天内成长为果冻史莱姆。果冻史莱姆每5天生产250个昆虫果冻。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Jelly.description>
 
 <!--=============== Royal Jelly ====================-->
-<OE_SlimeHeart_RoyalJelly.label>royal jelly slime heart (Сonf.)</OE_SlimeHeart_RoyalJelly.label>
-<OE_SlimeHeart_RoyalJelly.description>A hyper-advanced slime core with configuration to grow up into Jelly slime in 7 days. Royal jelly slime produces 15 Royal Jelly every 5 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_RoyalJelly.description>
+<OE_SlimeHeart_RoyalJelly.label>王浆史莱姆核心(已配置)</OE_SlimeHeart_RoyalJelly.label>
+<OE_SlimeHeart_RoyalJelly.description>超先进的史莱姆核心，配置为在7天内成长为王浆史莱姆。王浆史莱姆每5天生产15个王浆。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_RoyalJelly.description>
 
 <!--=============== Chemfuel ====================-->
-<OE_SlimeHeart_Chemfuel.label>chemfuel slime heart (Сonf.)</OE_SlimeHeart_Chemfuel.label>
-<OE_SlimeHeart_Chemfuel.description>A hyper-advanced slime core with configuration to grow up into Chemfuel slime in 7 days. Chemfuel slime produces 125 Chemfuel every 5 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Chemfuel.description>
+<OE_SlimeHeart_Chemfuel.label>化合燃料史莱姆核心(已配置)</OE_SlimeHeart_Chemfuel.label>
+<OE_SlimeHeart_Chemfuel.description>超先进的史莱姆核心，配置为在7天内成长为化合燃料史莱姆。化合燃料史莱姆每5天生产125个化合燃料。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Chemfuel.description>
 
 <!--=============== Neutroamine ====================-->
-<OE_SlimeHeart_Neutroamine.label>neutroamine slime heart (Сonf.)</OE_SlimeHeart_Neutroamine.label>
-<OE_SlimeHeart_Neutroamine.description>A hyper-advanced slime core with configuration to grow up into Neutroamine slime in 7 days. Neutroamine slime produces 5 Neutroamine every 5 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Neutroamine.description>
+<OE_SlimeHeart_Neutroamine.label>中性胺史莱姆核心(已配置)</OE_SlimeHeart_Neutroamine.label>
+<OE_SlimeHeart_Neutroamine.description>超先进的史莱姆核心，配置为在7天内成长为中性胺史莱姆。中性胺史莱姆每5天生产5个中性胺。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Neutroamine.description>
 
 <!--=============== Beer ====================-->
-<OE_SlimeHeart_Beer.label>beer slime heart (Сonf.)</OE_SlimeHeart_Beer.label>
-<OE_SlimeHeart_Beer.description>A hyper-advanced slime core with configuration to grow up into Beer slime in 7 days. Beer slime produces 25 Beer every 5 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Beer.description>
+<OE_SlimeHeart_Beer.label>啤酒史莱姆核心(已配置)</OE_SlimeHeart_Beer.label>
+<OE_SlimeHeart_Beer.description>超先进的史莱姆核心，配置为在7天内成长为啤酒史莱姆。啤酒史莱姆每5天生产25个啤酒。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Beer.description>
 
 <!--=============== Hemogen ====================-->
-<OE_SlimeHeart_Hemogen.label>hemogen slime heart (Сonf.)</OE_SlimeHeart_Hemogen.label>
-<OE_SlimeHeart_Hemogen.description>A hyper-advanced slime core with configuration to grow up into Hemogen slime in 7 days. Hemogen slime produces 3 Hemogen every 2 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Hemogen.description>
+<OE_SlimeHeart_Hemogen.label>血原质史莱姆核心(已配置)</OE_SlimeHeart_Hemogen.label>
+<OE_SlimeHeart_Hemogen.description>超先进的史莱姆核心，配置为在7天内成长为血原质史莱姆。血原质史莱姆每2天生产3个血原质。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Hemogen.description>
 
 <!--=============== Hemogen Animal ====================-->
-<OE_SlimeHeart_HemogenAnimal.label>animal hemogen slime heart (Сonf.)</OE_SlimeHeart_HemogenAnimal.label>
-<OE_SlimeHeart_HemogenAnimal.description>A hyper-advanced slime core with configuration to grow up into Animal hemogen slime in 7 days. Animal hemogen slime produces 4 Animal hemogen every 2 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_HemogenAnimal.description>
+<OE_SlimeHeart_HemogenAnimal.label>动物血原质史莱姆核心(已配置)</OE_SlimeHeart_HemogenAnimal.label>
+<OE_SlimeHeart_HemogenAnimal.description>超先进的史莱姆核心，配置为在7天内成长为动物血原质史莱姆。动物血原质史莱姆每2天生产4个动物血原质。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_HemogenAnimal.description>
 
 <!--=============== Hemogen Corpse ====================-->
-<OE_SlimeHeart_HemogenCorpse.label>corpse hemogen slime heart (Сonf.)</OE_SlimeHeart_HemogenCorpse.label>
-<OE_SlimeHeart_HemogenCorpse.description>A hyper-advanced slime core with configuration to grow up into Corpse hemogen slime in 7 days. Corpse hemogen slime produces 5 Corpse hemogen every 2 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_HemogenCorpse.description>
+<OE_SlimeHeart_HemogenCorpse.label>尸体血原质史莱姆核心(已配置)</OE_SlimeHeart_HemogenCorpse.label>
+<OE_SlimeHeart_HemogenCorpse.description>超先进的史莱姆核心，配置为在7天内成长为尸体血原质史莱姆。尸体血原质史莱姆每2天生产5个尸体血原质。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_HemogenCorpse.description>
 
 <!--=============== Hemogen Sanguophage ====================-->
-<OE_SlimeHeart_HemogenSanguophage.label>sanguophage hemogen slime heart (Сonf.)</OE_SlimeHeart_HemogenSanguophage.label>
-<OE_SlimeHeart_HemogenSanguophage.description>A hyper-advanced slime core with configuration to grow up into Sanguophage hemogen slime in 7 days. Sanguophage hemogen slime produces 3 Sanguophage hemogen every 2 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_HemogenSanguophage.description>
+<OE_SlimeHeart_HemogenSanguophage.label>噬血者血原质史莱姆核心(已配置)</OE_SlimeHeart_HemogenSanguophage.label>
+<OE_SlimeHeart_HemogenSanguophage.description>超先进的史莱姆核心，配置为在7天内成长为噬血者血原质史莱姆。噬血者血原质史莱姆每2天生产3个噬血者血原质。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_HemogenSanguophage.description>
 
 <!--=============== Rock Type ====================-->
 <!--=============== Steel ====================-->
-<OE_SlimeHeart_Steel.label>steel slime heart (Сonf.)</OE_SlimeHeart_Steel.label>
-<OE_SlimeHeart_Steel.description>A hyper-advanced slime core with configuration to grow up into Steel slime in 7 days. Steel slime produces 150 Steel every 10 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Steel.description>
+<OE_SlimeHeart_Steel.label>钢铁史莱姆核心(已配置)</OE_SlimeHeart_Steel.label>
+<OE_SlimeHeart_Steel.description>超先进的史莱姆核心，配置为在7天内成长为钢铁史莱姆。钢铁史莱姆每10天生产150个钢铁。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Steel.description>
 
 <!--=============== Gold ====================-->
-<OE_SlimeHeart_Gold.label>gold slime heart (Сonf.)</OE_SlimeHeart_Gold.label>
-<OE_SlimeHeart_Gold.description>A hyper-advanced slime core with configuration to grow up into Gold slime in 7 days. Gold slime produces 40 Gold every 18 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Gold.description>
+<OE_SlimeHeart_Gold.label>黄金史莱姆核心(已配置)</OE_SlimeHeart_Gold.label>
+<OE_SlimeHeart_Gold.description>超先进的史莱姆核心，配置为在7天内成长为黄金史莱姆。黄金史莱姆每18天生产40个黄金。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Gold.description>
 
 <!--=============== Silver ====================-->
-<OE_SlimeHeart_Silver.label>silver slime heart (Сonf.)</OE_SlimeHeart_Silver.label>
-<OE_SlimeHeart_Silver.description>A hyper-advanced slime core with configuration to grow up into Silver slime in 7 days. Silver slime produces 100 Silver every 10 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Silver.description>
+<OE_SlimeHeart_Silver.label>白银史莱姆核心(已配置)</OE_SlimeHeart_Silver.label>
+<OE_SlimeHeart_Silver.description>超先进的史莱姆核心，配置为在7天内成长为白银史莱姆。白银史莱姆每10天生产100个白银。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Silver.description>
 
 <!--=============== Uranium ====================-->
-<OE_SlimeHeart_Uranium.label>uranium slime heart (Сonf.)</OE_SlimeHeart_Uranium.label>
-<OE_SlimeHeart_Uranium.description>A hyper-advanced slime core with configuration to grow up into Uranium slime in 7 days. Uranium slime produces 45 Uranium every 10 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Uranium.description>
+<OE_SlimeHeart_Uranium.label>铀史莱姆核心(已配置)</OE_SlimeHeart_Uranium.label>
+<OE_SlimeHeart_Uranium.description>超先进的史莱姆核心，配置为在7天内成长为铀史莱姆。铀史莱姆每10天生产45个铀。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Uranium.description>
 
 <!--=============== Jade ====================-->
-<OE_SlimeHeart_Jade.label>jade slime heart (Сonf.)</OE_SlimeHeart_Jade.label>
-<OE_SlimeHeart_Jade.description>A hyper-advanced slime core with configuration to grow up into Jade slime in 7 days. Jade slime produces 30 Jade every 18 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Jade.description>
+<OE_SlimeHeart_Jade.label>玉石史莱姆核心(已配置)</OE_SlimeHeart_Jade.label>
+<OE_SlimeHeart_Jade.description>超先进的史莱姆核心，配置为在7天内成长为玉石史莱姆。玉石史莱姆每18天生产30个玉石。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Jade.description>
 
 <!--=============== Obsidian ====================-->
-<OE_SlimeHeart_Obsidian.label>obsidian slime heart (Сonf.)</OE_SlimeHeart_Obsidian.label>
-<OE_SlimeHeart_Obsidian.description>A hyper-advanced slime core with configuration to grow up into Obsidian slime in 7 days. Obsidian slime produces 30 Obsidian every 10 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Obsidian.description>
+<OE_SlimeHeart_Obsidian.label>黑曜石史莱姆核心(已配置)</OE_SlimeHeart_Obsidian.label>
+<OE_SlimeHeart_Obsidian.description>超先进的史莱姆核心，配置为在7天内成长为黑曜石史莱姆。黑曜石史莱姆每10天生产30个黑曜石。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Obsidian.description>
 
 <!--=============== Mythril ====================-->
-<OE_SlimeHeart_Mythril.label>mythril slime heart (Сonf.)</OE_SlimeHeart_Mythril.label>
-<OE_SlimeHeart_Mythril.description>A hyper-advanced slime core with configuration to grow up into Mythril slime in 7 days. Mythril slime produces 20 Mythril every 18 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Mythril.description>
+<OE_SlimeHeart_Mythril.label>秘银史莱姆核心(已配置)</OE_SlimeHeart_Mythril.label>
+<OE_SlimeHeart_Mythril.description>超先进的史莱姆核心，配置为在7天内成长为秘银史莱姆。秘银史莱姆每18天生产20个秘银。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Mythril.description>
 
 <!--=============== Platinum ====================-->
-<OE_SlimeHeart_Platinum.label>platinum slime heart (Сonf.)</OE_SlimeHeart_Platinum.label>
-<OE_SlimeHeart_Platinum.description>A hyper-advanced slime core with configuration to grow up into Platinum slime in 7 days. Platinum slime produces 30 Platinum every 10 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Platinum.description>
+<OE_SlimeHeart_Platinum.label>铂金史莱姆核心(已配置)</OE_SlimeHeart_Platinum.label>
+<OE_SlimeHeart_Platinum.description>超先进的史莱姆核心，配置为在7天内成长为铂金史莱姆。铂金史莱姆每10天生产30个铂金。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Platinum.description>
 
 <!--=============== Syntherius ====================-->
-<OE_SlimeHeart_Syntherius.label>syntherius slime heart (Сonf.)</OE_SlimeHeart_Syntherius.label>
-<OE_SlimeHeart_Syntherius.description>A hyper-advanced slime core with configuration to grow up into Syntherius slime in 7 days. Syntherius slime produces 1 Syntherius every 18 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Syntherius.description>
+<OE_SlimeHeart_Syntherius.label>合成素史莱姆核心(已配置)</OE_SlimeHeart_Syntherius.label>
+<OE_SlimeHeart_Syntherius.description>超先进的史莱姆核心，配置为在7天内成长为合成素史莱姆。合成素史莱姆每18天生产1个合成素。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Syntherius.description>
 
 <!--=============== Eltex ====================-->
-<OE_SlimeHeart_Eltex.label>eltex slime heart (Сonf.)</OE_SlimeHeart_Eltex.label>
-<OE_SlimeHeart_Eltex.description>A hyper-advanced slime core with configuration to grow up into Eltex slime in 7 days. Eltex slime produces 5 Eltex every 18 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Eltex.description>
+<OE_SlimeHeart_Eltex.label>灵质史莱姆核心(已配置)</OE_SlimeHeart_Eltex.label>
+<OE_SlimeHeart_Eltex.description>超先进的史莱姆核心，配置为在7天内成长为灵质史莱姆。灵质史莱姆每18天生产5个灵质。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Eltex.description>
 
 <!--=============== Syntherius of Sin ====================-->
-<OE_SlimeHeart_SyntheriusOfSin.label>Syntherius of Sin slime heart (Сonf.)</OE_SlimeHeart_SyntheriusOfSin.label>
-<OE_SlimeHeart_SyntheriusOfSin.description>A hyper-advanced slime core with configuration to grow up into Syntherius of Sin slime in 7 days. Syntherius of Sin slime produces 1 Syntherius of Sin every 30 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_SyntheriusOfSin.description>
+<OE_SlimeHeart_SyntheriusOfSin.label>罪恶合成素史莱姆核心(已配置)</OE_SlimeHeart_SyntheriusOfSin.label>
+<OE_SlimeHeart_SyntheriusOfSin.description>超先进的史莱姆核心，配置为在7天内成长为罪恶合成素史莱姆。罪恶合成素史莱姆每30天生产1个罪恶合成素。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_SyntheriusOfSin.description>
 
 <!--=============== Bioferrite ====================-->
-<OE_SlimeHeart_Bioferrite.label>bioferrite slime heart (Сonf.)</OE_SlimeHeart_Bioferrite.label>
-<OE_SlimeHeart_Bioferrite.description>A hyper-advanced slime core with configuration to grow up into Bioferrite slime in 7 days. Bioferrite slime produces 50 Bioferrite every 10 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Bioferrite.description>
+<OE_SlimeHeart_Bioferrite.label>生物铁质史莱姆核心(已配置)</OE_SlimeHeart_Bioferrite.label>
+<OE_SlimeHeart_Bioferrite.description>超先进的史莱姆核心，配置为在7天内成长为生物铁质史莱姆。生物铁质史莱姆每10天生产50个生物铁质。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Bioferrite.description>
 
 <!--=============== Floral Type ====================-->
 <!--=============== Herbal ====================-->
-<OE_SlimeHeart_Herbal.label>herbal slime heart (Сonf.)</OE_SlimeHeart_Herbal.label>
-<OE_SlimeHeart_Herbal.description>A hyper-advanced slime core with configuration to grow up into Herbal slime in 7 days. Herbal slime produces 3 Herbal medicine every 12 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Herbal.description>
+<OE_SlimeHeart_Herbal.label>草药史莱姆核心(已配置)</OE_SlimeHeart_Herbal.label>
+<OE_SlimeHeart_Herbal.description>超先进的史莱姆核心，配置为在7天内成长为草药史莱姆。草药史莱姆每12天生产3个草药。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Herbal.description>
 
 <!--=============== Ambrosia ====================-->
-<OE_SlimeHeart_Ambrosia.label>ambrosia slime heart (Сonf.)</OE_SlimeHeart_Ambrosia.label>
-<OE_SlimeHeart_Ambrosia.description>A hyper-advanced slime core with configuration to grow up into Ambrosia slime in 7 days. Ambrosia slime produces 15 Ambrosia every 12 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Ambrosia.description>
+<OE_SlimeHeart_Ambrosia.label>仙馐果史莱姆核心(已配置)</OE_SlimeHeart_Ambrosia.label>
+<OE_SlimeHeart_Ambrosia.description>超先进的史莱姆核心，配置为在7天内成长为仙馐果史莱姆。仙馐果史莱姆每12天生产15个仙馐果。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Ambrosia.description>
 
 <!--=============== Fungus ====================-->
-<OE_SlimeHeart_Fungus.label>fungus slime heart (Сonf.)</OE_SlimeHeart_Fungus.label>
-<OE_SlimeHeart_Fungus.description>A hyper-advanced slime core with configuration to grow up into Fungus slime in 7 days. Fungus slime produces 35 Raw Fungus every 12 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Fungus.description>
+<OE_SlimeHeart_Fungus.label>真菌史莱姆核心(已配置)</OE_SlimeHeart_Fungus.label>
+<OE_SlimeHeart_Fungus.description>超先进的史莱姆核心，配置为在7天内成长为真菌史莱姆。真菌史莱姆每12天生产35个生真菌。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Fungus.description>
 
 <!--=============== Jumy ====================-->
-<OE_SlimeHeart_Jumy.label>jumy slime heart (Сonf.)</OE_SlimeHeart_Jumy.label>
-<OE_SlimeHeart_Jumy.description>A hyper-advanced slime core with configuration to grow up into Jumy slime in 7 days. Jumy slime produces 15 Jumy Berries every 12 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Jumy.description>
+<OE_SlimeHeart_Jumy.label>朱米史莱姆核心(已配置)</OE_SlimeHeart_Jumy.label>
+<OE_SlimeHeart_Jumy.description>超先进的史莱姆核心，配置为在7天内成长为朱米史莱姆。朱米史莱姆每12天生产15个朱米浆果。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Jumy.description>
 
 <!--=============== Grape ====================-->
-<OE_SlimeHeart_Grape.label>grape slime heart (Сonf.)</OE_SlimeHeart_Grape.label>
-<OE_SlimeHeart_Grape.description>A hyper-advanced slime core with configuration to grow up into Grape slime in 7 days. Grape slime produces 10 Grapes every 12 days.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Grape.description>
+<OE_SlimeHeart_Grape.label>葡萄史莱姆核心(已配置)</OE_SlimeHeart_Grape.label>
+<OE_SlimeHeart_Grape.description>超先进的史莱姆核心，配置为在7天内成长为葡萄史莱姆。葡萄史莱姆每12天生产10个葡萄。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Grape.description>
 
 <!--=============== Battle Types ====================-->
 <!--=============== Bone ====================-->
-<OE_SlimeHeart_Bone.label>bone slime heart (Сonf.)</OE_SlimeHeart_Bone.label>
-<OE_SlimeHeart_Bone.description>A hyper-advanced slime core with configuration to grow up into Bone slime in 7 days. Bone slime battle type, with increased intelligence for training.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Bone.description>
+<OE_SlimeHeart_Bone.label>骨质史莱姆核心(已配置)</OE_SlimeHeart_Bone.label>
+<OE_SlimeHeart_Bone.description>超先进的史莱姆核心，配置为在7天内成长为骨质史莱姆。骨质史莱姆战斗类型，具有增强的智力用于训练。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Bone.description>
 
 <!--=============== Acid ====================-->
-<OE_SlimeHeart_Demon_Acid.label>acid demon slime heart (Сonf.)</OE_SlimeHeart_Demon_Acid.label>
-<OE_SlimeHeart_Demon_Acid.description>A hyper-advanced slime core with configuration to grow up into Acid demon slime in 7 days. Acid demon slime ranged battle type, with increased intelligence for training.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Demon_Acid.description>
+<OE_SlimeHeart_Demon_Acid.label>酸性恶魔史莱姆核心(已配置)</OE_SlimeHeart_Demon_Acid.label>
+<OE_SlimeHeart_Demon_Acid.description>超先进的史莱姆核心，配置为在7天内成长为酸性恶魔史莱姆。酸性恶魔史莱姆远程战斗类型，具有增强的智力用于训练。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Demon_Acid.description>
 
 <!--=============== Cryo ====================-->
-<OE_SlimeHeart_Demon_Cryo.label>cryo demon slime heart (Сonf.)</OE_SlimeHeart_Demon_Cryo.label>
-<OE_SlimeHeart_Demon_Cryo.description>A hyper-advanced slime core with configuration to grow up into Cryo demon slime in 7 days. Cryo demon slime ranged battle type, with increased intelligence for training.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Demon_Cryo.description>
+<OE_SlimeHeart_Demon_Cryo.label>冷冻恶魔史莱姆核心(已配置)</OE_SlimeHeart_Demon_Cryo.label>
+<OE_SlimeHeart_Demon_Cryo.description>超先进的史莱姆核心，配置为在7天内成长为冷冻恶魔史莱姆。冷冻恶魔史莱姆远程战斗类型，具有增强的智力用于训练。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Demon_Cryo.description>
 
 <!--=============== Fire ====================-->
-<OE_SlimeHeart_Demon_Fire.label>fire demon slime heart (Сonf.)</OE_SlimeHeart_Demon_Fire.label>
-<OE_SlimeHeart_Demon_Fire.description>A hyper-advanced slime core with configuration to grow up into Fire demon slime in 7 days. Fire demon slime ranged battle type, with increased intelligence for training.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Demon_Fire.description>
+<OE_SlimeHeart_Demon_Fire.label>火焰恶魔史莱姆核心(已配置)</OE_SlimeHeart_Demon_Fire.label>
+<OE_SlimeHeart_Demon_Fire.description>超先进的史莱姆核心，配置为在7天内成长为火焰恶魔史莱姆。火焰恶魔史莱姆远程战斗类型，具有增强的智力用于训练。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Demon_Fire.description>
 
 <!--=============== EMP ====================-->
-<OE_SlimeHeart_Demon_EMP.label>EMP demon slime heart (Сonf.)</OE_SlimeHeart_Demon_EMP.label>
-<OE_SlimeHeart_Demon_EMP.description>A hyper-advanced slime core with configuration to grow up into EMP demon slime in 7 days. EMP demon slime ranged battle type, with increased intelligence for training.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Demon_EMP.description>
+<OE_SlimeHeart_Demon_EMP.label>电磁脉冲恶魔史莱姆核心(已配置)</OE_SlimeHeart_Demon_EMP.label>
+<OE_SlimeHeart_Demon_EMP.description>超先进的史莱姆核心，配置为在7天内成长为电磁脉冲恶魔史莱姆。电磁脉冲恶魔史莱姆远程战斗类型，具有增强的智力用于训练。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Demon_EMP.description>
 
 <!--=============== Toxic ====================-->
-<OE_SlimeHeart_Demon_Toxic.label>toxic demon slime heart (Сonf.)</OE_SlimeHeart_Demon_Toxic.label>
-<OE_SlimeHeart_Demon_Toxic.description>A hyper-advanced slime core with configuration to grow up into Toxic demon slime in 7 days. Toxic demon slime ranged battle type, with increased intelligence for training.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Demon_Toxic.description>
+<OE_SlimeHeart_Demon_Toxic.label>毒性恶魔史莱姆核心(已配置)</OE_SlimeHeart_Demon_Toxic.label>
+<OE_SlimeHeart_Demon_Toxic.description>超先进的史莱姆核心，配置为在7天内成长为毒性恶魔史莱姆。毒性恶魔史莱姆远程战斗类型，具有增强的智力用于训练。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Demon_Toxic.description>
 
 <!--=============== Special Types ====================-->
 <!--=============== Waste ====================-->
-<OE_SlimeHeart_Waste.label>waste slime heart (Сonf.)</OE_SlimeHeart_Waste.label>
-<OE_SlimeHeart_Waste.description>A hyper-advanced slime core with configuration to grow up into Waste slime in 7 days. Waste slime special type, that has developed for eating Toxic wastepacks.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Waste.description>
+<OE_SlimeHeart_Waste.label>废料史莱姆核心(已配置)</OE_SlimeHeart_Waste.label>
+<OE_SlimeHeart_Waste.description>超先进的史莱姆核心，配置为在7天内成长为废料史莱姆。废料史莱姆特殊类型，已发展出食用有毒废料包的能力。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Waste.description>
 
 <!--=============== Companion Worker ====================-->
-<OE_SlimeHeart_Companion_Worker.label>worker companion slime heart (Сonf.)</OE_SlimeHeart_Companion_Worker.label>
-<OE_SlimeHeart_Companion_Worker.description>A hyper-advanced slime core with configuration to grow up into Worker companion slime in 7 days. Worker companion slime special type, that has developed an ability to enhance working skills of anyone they bond with.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Companion_Worker.description>
+<OE_SlimeHeart_Companion_Worker.label>工人伙伴史莱姆核心(已配置)</OE_SlimeHeart_Companion_Worker.label>
+<OE_SlimeHeart_Companion_Worker.description>超先进的史莱姆核心，配置为在7天内成长为工人伙伴史莱姆。工人伙伴史莱姆特殊类型，已发展出增强与其绑定的任何人工作技能的能力。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Companion_Worker.description>
 
 <!--=============== Companion Battle ====================-->
-<OE_SlimeHeart_Companion_Battle.label>battle companion slime heart (Сonf.)</OE_SlimeHeart_Companion_Battle.label>
-<OE_SlimeHeart_Companion_Battle.description>A hyper-advanced slime core with configuration to grow up into Battle companion slime in 7 days. Battle companion slime special type, that has developed an ability to enhance combat skills of anyone they bond with.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Companion_Battle.description>
+<OE_SlimeHeart_Companion_Battle.label>战斗伙伴史莱姆核心(已配置)</OE_SlimeHeart_Companion_Battle.label>
+<OE_SlimeHeart_Companion_Battle.description>超先进的史莱姆核心，配置为在7天内成长为战斗伙伴史莱姆。战斗伙伴史莱姆特殊类型，已发展出增强与其绑定的任何人战斗技能的能力。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Companion_Battle.description>
 
 <!--=============== Companion Anima ====================-->
-<OE_SlimeHeart_Companion_Anima.label>anima companion slime heart (Сonf.)</OE_SlimeHeart_Companion_Anima.label>
-<OE_SlimeHeart_Companion_Anima.description>A hyper-advanced slime core with configuration to grow up into Anima companion slime in 7 days. Anima companion slime special type, that has developed an ability to enhance psychic powers of anyone they bond with.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Companion_Anima.description>
+<OE_SlimeHeart_Companion_Anima.label>心灵伙伴史莱姆核心(已配置)</OE_SlimeHeart_Companion_Anima.label>
+<OE_SlimeHeart_Companion_Anima.description>超先进的史莱姆核心，配置为在7天内成长为心灵伙伴史莱姆。心灵伙伴史莱姆特殊类型，已发展出增强与其绑定的任何人心灵能力的能力。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Companion_Anima.description>
 
 <!--=============== Hauler ====================-->
-<OE_SlimeHeart_Hauler.label>hauler slime heart (Сonf.)</OE_SlimeHeart_Hauler.label>
-<OE_SlimeHeart_Hauler.description>A hyper-advanced slime core with configuration to grow up into Hauler slime in 7 days. Hauler slime pack type, with high intelligence and exceptional carrying capacity.\n\nWarning! Slime is formed untamed.</OE_SlimeHeart_Hauler.description>
+<OE_SlimeHeart_Hauler.label>搬运工史莱姆核心(已配置)</OE_SlimeHeart_Hauler.label>
+<OE_SlimeHeart_Hauler.description>超先进的史莱姆核心，配置为在7天内成长为搬运工史莱姆。搬运工史莱姆群体类型，具有高智力和卓越的携带能力。\n\n警告！形成的史莱姆是野生的。</OE_SlimeHeart_Hauler.description>
 
 </LanguageData>

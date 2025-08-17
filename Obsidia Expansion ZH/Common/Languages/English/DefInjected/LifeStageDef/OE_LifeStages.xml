@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-<OEInsectLarva.label>larva</OEInsectLarva.label>
-<OEInsectJuvenile.label>immature</OEInsectJuvenile.label>
-<OESmallInsectAdult.label>adult</OESmallInsectAdult.label>
-<OEBigInsectAdult.label>adult</OEBigInsectAdult.label>
+<OEInsectLarva.label>幼虫</OEInsectLarva.label>
+<OEInsectJuvenile.label>未成熟</OEInsectJuvenile.label>
+<OESmallInsectAdult.label>成年</OESmallInsectAdult.label>
+<OEBigInsectAdult.label>成年</OEBigInsectAdult.label>
   
-<OESlimeLarva.label>larva</OESlimeLarva.label>
-<OESlimeJuvenile.label>immature</OESlimeJuvenile.label>
-<OESlimeAdult.label>adult</OESlimeAdult.label>
+<OESlimeLarva.label>幼虫</OESlimeLarva.label>
+<OESlimeJuvenile.label>未成熟</OESlimeJuvenile.label>
+<OESlimeAdult.label>成年</OESlimeAdult.label>
   
 </LanguageData>

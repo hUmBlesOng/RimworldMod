@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
 <!--=============== Kinetic Drive ====================-->
-<OE_Ghoul_KineticDrive.label>kinetic drive</OE_Ghoul_KineticDrive.label>
-<OE_Ghoul_KineticDrive.description>Use the Crusader's Drive to saturate the bloodstream with volatile stimulants and synthetic adrenaline, permitting the ghoul to move and attack at incredible speeds for a short time, at the cost of rising metabolic strain.</OE_Ghoul_KineticDrive.description>
+<OE_Ghoul_KineticDrive.label>动能驱动</OE_Ghoul_KineticDrive.label>
+<OE_Ghoul_KineticDrive.description>使用十字军驱动器将挥发性兴奋剂和合成肾上腺素注入血液，使食尸鬼在短时间内以难以置信的速度移动和攻击，但会增加代谢负担。</OE_Ghoul_KineticDrive.description>
 
 <!--=============== Bastion Drive ====================-->
-<OE_Ghoul_BastionDrive.label>bastion drive</OE_Ghoul_BastionDrive.label>
-<OE_Ghoul_BastionDrive.description>Use the Crusader's Drive to saturate the bloodstream with protective catalysts and biochemical shields, making the ghoul more resistant to damage and fire, at the cost of rising metabolic strain.</OE_Ghoul_BastionDrive.description>
+<OE_Ghoul_BastionDrive.label>堡垒驱动</OE_Ghoul_BastionDrive.label>
+<OE_Ghoul_BastionDrive.description>使用十字军驱动器将保护性催化剂和生化护盾注入血液，使食尸鬼更能抵抗伤害和火焰，但会增加代谢负担。</OE_Ghoul_BastionDrive.description>
 
 </LanguageData>

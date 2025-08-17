@@ -1,57 +1,57 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== OE - Modules ====================-->
-<OE_Module_Warrior.label>Battle Module - Warrior</OE_Module_Warrior.label>
-<OE_Module_Warrior.description>The module provides the owner with various bonuses, depending on the model. Designed for use in various areas of Obsidia.</OE_Module_Warrior.description>
+<OE_Module_Warrior.label>战斗模块 - 战士</OE_Module_Warrior.label>
+<OE_Module_Warrior.description>该模块根据型号为所有者提供各种加成。设计用于黑曜石的各个领域。</OE_Module_Warrior.description>
 
-<OE_Module_Resist.label>Battle Module - Resist</OE_Module_Resist.label>
-<OE_Module_Resist.description>The module provides the owner with various bonuses, depending on the model. Designed for use in various areas of Obsidia.</OE_Module_Resist.description>
+<OE_Module_Resist.label>战斗模块 - 抵抗</OE_Module_Resist.label>
+<OE_Module_Resist.description>该模块根据型号为所有者提供各种加成。设计用于黑曜石的各个领域。</OE_Module_Resist.description>
 
-<OE_Module_Psy.label>Battle Module - Psy</OE_Module_Psy.label>
-<OE_Module_Psy.description>The module provides the owner with various bonuses, depending on the model. Designed for use in various areas of Obsidia.</OE_Module_Psy.description>
+<OE_Module_Psy.label>战斗模块 - 灵能</OE_Module_Psy.label>
+<OE_Module_Psy.description>该模块根据型号为所有者提供各种加成。设计用于黑曜石的各个领域。</OE_Module_Psy.description>
 
-<OE_Module_Spacer.label>Battle Module - Astronaut</OE_Module_Spacer.label>
-<OE_Module_Spacer.description>The module provides the owner with various bonuses, depending on the model. Designed for use in various areas of Obsidia.</OE_Module_Spacer.description>
+<OE_Module_Spacer.label>战斗模块 - 宇航员</OE_Module_Spacer.label>
+<OE_Module_Spacer.description>该模块根据型号为所有者提供各种加成。设计用于黑曜石的各个领域。</OE_Module_Spacer.description>
 
-<OE_Module_Medic.label>Intelligence Module - Medic</OE_Module_Medic.label>
-<OE_Module_Medic.description>The module provides the owner with various bonuses, depending on the model. Designed for use in various areas of Obsidia.</OE_Module_Medic.description>
+<OE_Module_Medic.label>智能模块 - 医生</OE_Module_Medic.label>
+<OE_Module_Medic.description>该模块根据型号为所有者提供各种加成。设计用于黑曜石的各个领域。</OE_Module_Medic.description>
 
-<OE_Module_Scientist.label>Intelligence Module - Scientist</OE_Module_Scientist.label>
-<OE_Module_Scientist.description>The module provides the owner with various bonuses, depending on the model. Designed for use in various areas of Obsidia.</OE_Module_Scientist.description>
+<OE_Module_Scientist.label>智能模块 - 科学家</OE_Module_Scientist.label>
+<OE_Module_Scientist.description>该模块根据型号为所有者提供各种加成。设计用于黑曜石的各个领域。</OE_Module_Scientist.description>
 
-<OE_Module_Social.label>Intelligence Module - Social</OE_Module_Social.label>
-<OE_Module_Social.description>The module provides the owner with various bonuses, depending on the model. Designed for use in various areas of Obsidia.</OE_Module_Social.description>
+<OE_Module_Social.label>智能模块 - 社交</OE_Module_Social.label>
+<OE_Module_Social.description>该模块根据型号为所有者提供各种加成。设计用于黑曜石的各个领域。</OE_Module_Social.description>
 
-<OE_Module_Mechanitor.label>Intelligence Module - Mechanitor</OE_Module_Mechanitor.label>
-<OE_Module_Mechanitor.description>The module provides the owner with various bonuses, depending on the model. Designed for use in various areas of Obsidia.</OE_Module_Mechanitor.description>
+<OE_Module_Mechanitor.label>智能模块 - 机械师</OE_Module_Mechanitor.label>
+<OE_Module_Mechanitor.description>该模块根据型号为所有者提供各种加成。设计用于黑曜石的各个领域。</OE_Module_Mechanitor.description>
 
-<OE_Module_Builder.label>Worker Module - Builder</OE_Module_Builder.label>
-<OE_Module_Builder.description>The module provides the owner with various bonuses, depending on the model. Designed for use in various areas of Obsidia.</OE_Module_Builder.description>
+<OE_Module_Builder.label>工人模块 - 建筑工</OE_Module_Builder.label>
+<OE_Module_Builder.description>该模块根据型号为所有者提供各种加成。设计用于黑曜石的各个领域。</OE_Module_Builder.description>
 
-<OE_Module_Cook.label>Worker Module - Cook</OE_Module_Cook.label>
-<OE_Module_Cook.description>The module provides the owner with various bonuses, depending on the model. Designed for use in various areas of Obsidia.</OE_Module_Cook.description>
+<OE_Module_Cook.label>工人模块 - 厨师</OE_Module_Cook.label>
+<OE_Module_Cook.description>该模块根据型号为所有者提供各种加成。设计用于黑曜石的各个领域。</OE_Module_Cook.description>
 
-<OE_Module_Engineer.label>Worker Module - Engineer</OE_Module_Engineer.label>
-<OE_Module_Engineer.description>The module provides the owner with various bonuses, depending on the model. Designed for use in various areas of Obsidia.</OE_Module_Engineer.description>
+<OE_Module_Engineer.label>工人模块 - 工程师</OE_Module_Engineer.label>
+<OE_Module_Engineer.description>该模块根据型号为所有者提供各种加成。设计用于黑曜石的各个领域。</OE_Module_Engineer.description>
 
-<OE_Module_Farmer.label>Worker Module - Farmer</OE_Module_Farmer.label>
-<OE_Module_Farmer.description>The module provides the owner with various bonuses, depending on the model. Designed for use in various areas of Obsidia.</OE_Module_Farmer.description>
+<OE_Module_Farmer.label>工人模块 - 农民</OE_Module_Farmer.label>
+<OE_Module_Farmer.description>该模块根据型号为所有者提供各种加成。设计用于黑曜石的各个领域。</OE_Module_Farmer.description>
 
-<OE_Module_Herdsman.label>Worker Module - Herdsman</OE_Module_Herdsman.label>
-<OE_Module_Herdsman.description>The module provides the owner with various bonuses, depending on the model. Designed for use in various areas of Obsidia.</OE_Module_Herdsman.description>
+<OE_Module_Herdsman.label>工人模块 - 牧民</OE_Module_Herdsman.label>
+<OE_Module_Herdsman.description>该模块根据型号为所有者提供各种加成。设计用于黑曜石的各个领域。</OE_Module_Herdsman.description>
 
 <!--=============== OE - Aura Modules ====================-->
-<OE_Module_AuraBrigadier.label>Aura Module - Brigadier</OE_Module_AuraBrigadier.label>
-<OE_Module_AuraBrigadier.description>The module provides the owner with various auras with bonuses depending on the model. Designed for use in various areas of Obsidia.</OE_Module_AuraBrigadier.description>
+<OE_Module_AuraBrigadier.label>光环模块 - 准将</OE_Module_AuraBrigadier.label>
+<OE_Module_AuraBrigadier.description>该模块根据型号为所有者提供各种带有加成的光环。设计用于黑曜石的各个领域。</OE_Module_AuraBrigadier.description>
 
-<OE_Module_AuraBattleCommander.label>Aura Module - Battle Commander</OE_Module_AuraBattleCommander.label>
-<OE_Module_AuraBattleCommander.description>The module provides the owner with various auras with bonuses depending on the model. Designed for use in various areas of Obsidia.</OE_Module_AuraBattleCommander.description>
+<OE_Module_AuraBattleCommander.label>光环模块 - 战斗指挥官</OE_Module_AuraBattleCommander.label>
+<OE_Module_AuraBattleCommander.description>该模块根据型号为所有者提供各种带有加成的光环。设计用于黑曜石的各个领域。</OE_Module_AuraBattleCommander.description>
 
-<OE_Module_AuraGuardCommander.label>Aura Module - Guard Commander</OE_Module_AuraGuardCommander.label>
-<OE_Module_AuraGuardCommander.description>The module provides the owner with various auras with bonuses depending on the model. Designed for use in various areas of Obsidia.</OE_Module_AuraGuardCommander.description>
+<OE_Module_AuraGuardCommander.label>光环模块 - 卫队指挥官</OE_Module_AuraGuardCommander.label>
+<OE_Module_AuraGuardCommander.description>该模块根据型号为所有者提供各种带有加成的光环。设计用于黑曜石的各个领域。</OE_Module_AuraGuardCommander.description>
 
-<OE_Module_AuraPsyLord.label>Aura Module - Psy Lord</OE_Module_AuraPsyLord.label>
-<OE_Module_AuraPsyLord.description>The module provides the owner with various auras with bonuses depending on the model. Designed for use in various areas of Obsidia.</OE_Module_AuraPsyLord.description>
+<OE_Module_AuraPsyLord.label>光环模块 - 灵能领主</OE_Module_AuraPsyLord.label>
+<OE_Module_AuraPsyLord.description>该模块根据型号为所有者提供各种带有加成的光环。设计用于黑曜石的各个领域。</OE_Module_AuraPsyLord.description>
 
 </LanguageData>

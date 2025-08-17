@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== Obsidia Expansion - Containment ====================-->
-<OE_ChaosSlimeDiscovered.label>Chaos slimes</OE_ChaosSlimeDiscovered.label>
-<OE_ChaosSlimeDiscovered.description>Chaos slime - under the influence of an unknown force from the outside, they began to fuse their bodies into something single.</OE_ChaosSlimeDiscovered.description>
+<OE_ChaosSlimeDiscovered.label>混沌粘液</OE_ChaosSlimeDiscovered.label>
+<OE_ChaosSlimeDiscovered.description>混沌粘液 - 在外界未知力量的影响下，它们开始将身体融合成某种单一的存在。</OE_ChaosSlimeDiscovered.description>
 
 <!--=============== Crimson Arachna Cult - Ghoul Bionics ====================-->
-<OE_ReturnedDiscovered.label>Returned</OE_ReturnedDiscovered.label>
+<OE_ReturnedDiscovered.label>归来者</OE_ReturnedDiscovered.label>
 
 <!--=============== Crimson Arachna Cult - Nano Technologies ====================-->
-<OE_CyberArachnaDiscovered.label>Cyber Arachna</OE_CyberArachnaDiscovered.label>
+<OE_CyberArachnaDiscovered.label>赛博蜘蛛</OE_CyberArachnaDiscovered.label>
 
 </LanguageData>

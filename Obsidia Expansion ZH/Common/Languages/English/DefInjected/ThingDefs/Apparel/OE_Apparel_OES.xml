@@ -1,18 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
-<!--=============== OES - Helmet ====================-->
-<OES_Helmet_Melee.label>Heroic Eidolon Helmet(Gladiator)</OES_Helmet_Melee.label>
-<OES_Helmet_Melee.description>Heavy power armor Helmet, excellent protects the owner. Designed for use by Eidolons, once called Heroes! Reveals the full potential of its owner.\n\nThis modification intended for melee weapon user and deprives item's quality levels.</OES_Helmet_Melee.description>
+<!--=============== OES - 头盔 ====================-->
+<OES_Helmet_Melee.label>英雄幻影头盔(角斗士)</OES_Helmet_Melee.label>
+<OES_Helmet_Melee.description>重型动力装甲头盔，出色地保护所有者。专为幻影使用，曾经被称为英雄！揭示所有者的全部潜力。\n\n此改装专为近战武器使用者设计，剥夺物品的品质等级。</OES_Helmet_Melee.description>
 
-<OES_Helmet_Ranged.label>Heroic Eidolon Helmet(Ranger)</OES_Helmet_Ranged.label>
-<OES_Helmet_Ranged.description>Heavy power armor Helmet, excellent protects the owner. Designed for use by Eidolons, once called Heroes! Reveals the full potential of its owner.\n\nThis modification intended for ranged weapon user and deprives item's quality levels.</OES_Helmet_Ranged.description>
+<OES_Helmet_Ranged.label>英雄幻影头盔(游侠)</OES_Helmet_Ranged.label>
+<OES_Helmet_Ranged.description>重型动力装甲头盔，出色地保护所有者。专为幻影使用，曾经被称为英雄！揭示所有者的全部潜力。\n\n此改装专为远程武器使用者设计，剥夺物品的品质等级。</OES_Helmet_Ranged.description>
 
-<!--=============== OES - Armor ====================-->
-<OES_Armor_Shield.label>Heroic Eidolon Armor(Guardian)</OES_Armor_Shield.label>
-<OES_Armor_Shield.description>Heavy power armor, excellent protects the owner. Designed for use by Eidolons, once called Heroes! Reveals the full potential of its owner.\n\nThis modification intended for melee weapon user and deprives item's quality levels.</OES_Armor_Shield.description>
+<!--=============== OES - 装甲 ====================-->
+<OES_Armor_Shield.label>英雄幻影装甲(守护者)</OES_Armor_Shield.label>
+<OES_Armor_Shield.description>重型动力装甲，出色地保护所有者。专为幻影使用，曾经被称为英雄！揭示所有者的全部潜力。\n\n此改装专为近战武器使用者设计，剥夺物品的品质等级。</OES_Armor_Shield.description>
 
-<OES_Armor_Barrier.label>Heroic Eidolon Armor(Protector)</OES_Armor_Barrier.label>
-<OES_Armor_Barrier.description>Heavy power armor, excellent protects the owner. Designed for use by Eidolons, once called Heroes! Reveals the full potential of its owner.\n\nThis modification intended for ranged weapon user and deprives item's quality levels.</OES_Armor_Barrier.description>
+<OES_Armor_Barrier.label>英雄幻影装甲(保护者)</OES_Armor_Barrier.label>
+<OES_Armor_Barrier.description>重型动力装甲，出色地保护所有者。专为幻影使用，曾经被称为英雄！揭示所有者的全部潜力。\n\n此改装专为远程武器使用者设计，剥夺物品的品质等级。</OES_Armor_Barrier.description>
 
 </LanguageData>

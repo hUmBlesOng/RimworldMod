@@ -1,49 +1,49 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
-<!--=============== Amalgam Microfibral Muscle ====================-->
-<OE_VREA_AmalgamMicrofibralMuscle.label>microfibral muscle</OE_VREA_AmalgamMicrofibralMuscle.label>
-<OE_VREA_AmalgamMicrofibralMuscle.description>Androids with this amalgam subroutine take less injuries than others from the same damage and feel half as much pain compared to a baseliner gene. They have extra-strong muscle fibers.</OE_VREA_AmalgamMicrofibralMuscle.description>
+<!--=============== 融合微纤维肌肉 ====================-->
+<OE_VREA_AmalgamMicrofibralMuscle.label>微纤维肌肉</OE_VREA_AmalgamMicrofibralMuscle.label>
+<OE_VREA_AmalgamMicrofibralMuscle.description>拥有此融合子程序的机器人比其他同类受到的伤害更小，疼痛感只有基础基因携带者的一半。他们拥有超强的肌肉纤维。</OE_VREA_AmalgamMicrofibralMuscle.description>
 
-<!--=============== Amalgam Armored Skeleton ====================-->
-<OE_VREA_AmalgamArmoredSkeleton.label>armored skeleton</OE_VREA_AmalgamArmoredSkeleton.label>
-<OE_VREA_AmalgamArmoredSkeleton.description>Androids with this amalgam subroutine are not slowed down when taking damage and do more damage in close-quarters combat. They have thickened, densified bones, nearly-solid ribcages, and strengthened binding factors in joints and flesh.</OE_VREA_AmalgamArmoredSkeleton.description>
+<!--=============== 融合装甲骨架 ====================-->
+<OE_VREA_AmalgamArmoredSkeleton.label>装甲骨架</OE_VREA_AmalgamArmoredSkeleton.label>
+<OE_VREA_AmalgamArmoredSkeleton.description>拥有此融合子程序的机器人在受到伤害时不会减速，并且在近战中造成更多伤害。他们拥有加厚致密的骨骼、几乎实心的胸腔以及强化的关节和肉体连接组织。</OE_VREA_AmalgamArmoredSkeleton.description>
 
-<!--=============== Amalgam Temperature-Tolerant ====================-->
-<OE_VREA_AmalgamTemperature.label>amalgam temperature-tolerant</OE_VREA_AmalgamTemperature.label>
-<OE_VREA_AmalgamTemperature.labelShortAdj>amalgam-tolerant</OE_VREA_AmalgamTemperature.labelShortAdj>
-<OE_VREA_AmalgamTemperature.description>Androids with this amalgam subroutine are more comfortable in any temperatures. They have shielded temperature resistant skin layer.</OE_VREA_AmalgamTemperature.description>
+<!--=============== 融合耐温性 ====================-->
+<OE_VREA_AmalgamTemperature.label>融合耐温性</OE_VREA_AmalgamTemperature.label>
+<OE_VREA_AmalgamTemperature.labelShortAdj>融合耐温</OE_VREA_AmalgamTemperature.labelShortAdj>
+<OE_VREA_AmalgamTemperature.description>拥有此融合子程序的机器人在任何温度下都更舒适。他们拥有屏蔽温度的耐热皮肤层。</OE_VREA_AmalgamTemperature.description>
 
-<!--=============== Amalgam Plating Skin ====================-->
-<OE_VREA_AmalgamPlatingSkin.label>plating skin</OE_VREA_AmalgamPlatingSkin.label>
-<OE_VREA_AmalgamPlatingSkin.description>Androids with this amalgam subroutine have armored skin and are resistant to blast damage. They have shielded plating skin layer.</OE_VREA_AmalgamPlatingSkin.description>
+<!--=============== 融合镀层皮肤 ====================-->
+<OE_VREA_AmalgamPlatingSkin.label>镀层皮肤</OE_VREA_AmalgamPlatingSkin.label>
+<OE_VREA_AmalgamPlatingSkin.description>拥有此融合子程序的机器人拥有装甲皮肤，对爆炸伤害有抗性。他们拥有屏蔽镀层皮肤层。</OE_VREA_AmalgamPlatingSkin.description>
 
-<!--=============== Amalgam Shielded Skin ====================-->
-<OE_VREA_AmalgamShieldedSkin.label>shielded skin</OE_VREA_AmalgamShieldedSkin.label>
-<OE_VREA_AmalgamShieldedSkin.description>Androids with this amalgam subroutine are resistant to environmental toxins, toxic buildup, acid, cryo and flame damages from any sources. They have shielded flexible skin layer.</OE_VREA_AmalgamShieldedSkin.description>
+<!--=============== 融合屏蔽皮肤 ====================-->
+<OE_VREA_AmalgamShieldedSkin.label>屏蔽皮肤</OE_VREA_AmalgamShieldedSkin.label>
+<OE_VREA_AmalgamShieldedSkin.description>拥有此融合子程序的机器人对环境毒素、毒素积累、酸性、冷冻和火焰伤害有抗性。他们拥有屏蔽柔性皮肤层。</OE_VREA_AmalgamShieldedSkin.description>
 
-<!--=============== Amalgam Healing Factor ====================-->
-<OE_VREA_AmalgamHealingFactor.label>healing factor</OE_VREA_AmalgamHealingFactor.label>
-<OE_VREA_AmalgamHealingFactor.description>Androids with this amalgam subroutine gain immunity to diseases considerably faster than normal and heal from wounds four times as fast as normal.</OE_VREA_AmalgamHealingFactor.description>
+<!--=============== 融合愈合因子 ====================-->
+<OE_VREA_AmalgamHealingFactor.label>愈合因子</OE_VREA_AmalgamHealingFactor.label>
+<OE_VREA_AmalgamHealingFactor.description>拥有此融合子程序的机器人比正常情况更快获得疾病免疫力，伤口愈合速度是正常的四倍。</OE_VREA_AmalgamHealingFactor.description>
 
-<!--=============== Amalgam Eyes ====================-->
-<OE_VREA_AmalgamEyes.label>amalgam eyes</OE_VREA_AmalgamEyes.label>
-<OE_VREA_AmalgamEyes.description>Amalgam eyes improve the carrier's sight capacity and improves accuracy.</OE_VREA_AmalgamEyes.description>
+<!--=============== 融合眼睛 ====================-->
+<OE_VREA_AmalgamEyes.label>融合眼睛</OE_VREA_AmalgamEyes.label>
+<OE_VREA_AmalgamEyes.description>融合眼睛改善携带者的视力并提高准确性。</OE_VREA_AmalgamEyes.description>
 
-<!--=============== Amalgam Nervous System ====================-->
-<OE_VREA_AmalgamNervousSystem.label>amalgam nervous system</OE_VREA_AmalgamNervousSystem.label>
-<OE_VREA_AmalgamNervousSystem.description>Amalgam nervous system improve the carrier's consciousness capacity and improves negotiating abilities.</OE_VREA_AmalgamNervousSystem.description>
+<!--=============== 融合神经系统 ====================-->
+<OE_VREA_AmalgamNervousSystem.label>融合神经系统</OE_VREA_AmalgamNervousSystem.label>
+<OE_VREA_AmalgamNervousSystem.description>融合神经系统改善携带者的意识能力并提高谈判能力。</OE_VREA_AmalgamNervousSystem.description>
 
-<!--=============== Amalgam Fingers ====================-->
-<OE_VREA_AmalgamFingers.label>amalgam fingers</OE_VREA_AmalgamFingers.label>
-<OE_VREA_AmalgamFingers.description>Amalgam fingers improve the carrier's manipulation capacity. This aids with many tasks, especially crafting and construction.</OE_VREA_AmalgamFingers.description>
+<!--=============== 融合手指 ====================-->
+<OE_VREA_AmalgamFingers.label>融合手指</OE_VREA_AmalgamFingers.label>
+<OE_VREA_AmalgamFingers.description>融合手指改善携带者的操作能力。这有助于许多任务，特别是制作和建造。</OE_VREA_AmalgamFingers.description>
 
-<!--=============== Amalgam Tail ====================-->
-<OE_VREA_AmalgamTail.label>amalgam tail</OE_VREA_AmalgamTail.label>
-<OE_VREA_AmalgamTail.description>Androids with this amalgam subroutine grow a tail that can act as a dexterous fifth limb.</OE_VREA_AmalgamTail.description>
+<!--=============== 融合尾巴 ====================-->
+<OE_VREA_AmalgamTail.label>融合尾巴</OE_VREA_AmalgamTail.label>
+<OE_VREA_AmalgamTail.description>拥有此融合子程序的机器人会长出一条可以作为灵活第五肢的尾巴。</OE_VREA_AmalgamTail.description>
 
-<!--=============== Amalgam Gene Flexibility ====================-->
-<OE_VREA_AmalgamGeneFlexibility.label>amalgam power flexibility</OE_VREA_AmalgamGeneFlexibility.label>
-<OE_VREA_AmalgamGeneFlexibility.description>Androids with this amalgam subroutine have special cellular structure that facilitate and optimize power systems. But increases the market value significantly.</OE_VREA_AmalgamGeneFlexibility.description>
+<!--=============== 融合基因灵活性 ====================-->
+<OE_VREA_AmalgamGeneFlexibility.label>融合力量灵活性</OE_VREA_AmalgamGeneFlexibility.label>
+<OE_VREA_AmalgamGeneFlexibility.description>拥有此融合子程序的机器人拥有特殊的细胞结构，便于优化动力系统。但会显著增加市场价值。</OE_VREA_AmalgamGeneFlexibility.description>
 
 </LanguageData>

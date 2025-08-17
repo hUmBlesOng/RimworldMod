@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
-<!--=============== Krekeros Curse ====================-->
-<OE_Implant_Special_A.label>Krekeros Curse</OE_Implant_Special_A.label>
-<OE_Implant_Special_A.description>One of the field officers, Krekeros, sought to enhance the fighting skills of soldiers by stimulating the mind and body. Unfortunately, his project did not pass testing and was rejected. However, due to a labeling error by an intern named Slikstep, a shipment of defective products was mistakenly sent to the former Hero Corpus, now known as Obsidia Empire Sins.</OE_Implant_Special_A.description>
+<!--=============== 克雷克罗斯的诅咒 ====================-->
+<OE_Implant_Special_A.label>克雷克罗斯的诅咒</OE_Implant_Special_A.label>
+<OE_Implant_Special_A.description>其中一名军官克雷克罗斯试图通过刺激身心来增强士兵的战斗技能。不幸的是，他的项目没有通过测试并被拒绝了。然而，由于一名名叫斯利克斯泰普的实习生的标签错误，一批有缺陷的产品被错误地发送到了前英雄联盟，现在被称为黑曜石帝国罪恶。</OE_Implant_Special_A.description>
 
-<!--=============== Kokoplays MB Arcane ====================-->
-<OE_Implant_Special_B.label>Kokoplays MB Arcane</OE_Implant_Special_B.label>
-<OE_Implant_Special_B.description>Agent Kokoplays MB, the top operative of the former Hero Corpus, now known as Obsidia Empire Sins, create a secret implant enhancing already legendary skills. As he embarked on high-stakes missions, Kokoplays MB uncovered a conspiracy that threatened Hero Corpus and the entire Obsidia Empire.</OE_Implant_Special_B.description>
+<!--=============== 科科普莱斯MB奥术 ====================-->
+<OE_Implant_Special_B.label>科科普莱斯MB奥术</OE_Implant_Special_B.label>
+<OE_Implant_Special_B.description>特工科科普莱斯MB，前英雄联盟的顶级特工，现在被称为黑曜石帝国罪恶，创造了一种秘密植入物来增强已经传奇的技能。当他执行高风险任务时，科科普莱斯MB发现了一个威胁英雄联盟和整个黑曜石帝国的阴谋。</OE_Implant_Special_B.description>
 
 </LanguageData>

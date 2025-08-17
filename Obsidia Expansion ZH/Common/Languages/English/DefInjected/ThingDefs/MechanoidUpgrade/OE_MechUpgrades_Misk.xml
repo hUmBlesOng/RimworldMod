@@ -1,8 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
 <!--=============== Mini-Gestator ====================-->
-<OE_MechUpgrade_ArachnaDroneSpawner.label>arachna drone mini-gestator</OE_MechUpgrade_ArachnaDroneSpawner.label>
-<OE_MechUpgrade_ArachnaDroneSpawner.description>A mini-gestator unit which can create small Arachna Drones. Require Syntherius for gestation.</OE_MechUpgrade_ArachnaDroneSpawner.description>
+<OE_MechUpgrade_ArachnaDroneSpawner.label>蛛形纲无人机微型培育器</OE_MechUpgrade_ArachnaDroneSpawner.label>
+<OE_MechUpgrade_ArachnaDroneSpawner.description>可以制造小型蛛形纲无人机的微型培育器单元。需要Syntherius进行培育。</OE_MechUpgrade_ArachnaDroneSpawner.description>
 
 </LanguageData>

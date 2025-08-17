@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-<!--=============== Obsidia Empire - Caravan Standard ====================-->
-<Caravan_ObsidiaEmpire_Standard.label>obsidia empire goods trader</Caravan_ObsidiaEmpire_Standard.label>
-<!--=============== Obsidia Empire - Caravan Slaver ====================-->
-<Caravan_ObsidiaEmpire_Slaver.label>obsidia empire slaver</Caravan_ObsidiaEmpire_Slaver.label>
-<!--=============== Obsidia Empire - Caravan Gunsmith ====================-->
-<Caravan_ObsidiaEmpire_Gunsmith.label>obsidia empire combat supplier</Caravan_ObsidiaEmpire_Gunsmith.label>
-<!--=============== Obsidia Empire - Caravan Medic ====================-->
-<Caravan_ObsidiaEmpire_Medic.label>obsidia empire medical trader</Caravan_ObsidiaEmpire_Medic.label>
-<!--=============== Obsidia Empire - Caravan Exotic ====================-->
-<Caravan_ObsidiaEmpire_Exotic.label>obsidia empire exotic goods trader</Caravan_ObsidiaEmpire_Exotic.label>
-<!--=============== Obsidia Empire - Tribute Collector ====================-->
-<Base_ObsidiaEmpire_TributeCollector.label>obsidia empire tribute collector</Base_ObsidiaEmpire_TributeCollector.label>
+<!--=============== 黑曜石帝国 - 标准商队 ====================-->
+<Caravan_ObsidiaEmpire_Standard.label>黑曜石帝国商品交易商</Caravan_ObsidiaEmpire_Standard.label>
+<!--=============== 黑曜石帝国 - 奴隶商队 ====================-->
+<Caravan_ObsidiaEmpire_Slaver.label>黑曜石帝国奴隶贩子</Caravan_ObsidiaEmpire_Slaver.label>
+<!--=============== 黑曜石帝国 - 枪械商队 ====================-->
+<Caravan_ObsidiaEmpire_Gunsmith.label>黑曜石帝国战斗供应商</Caravan_ObsidiaEmpire_Gunsmith.label>
+<!--=============== 黑曜石帝国 - 医疗商队 ====================-->
+<Caravan_ObsidiaEmpire_Medic.label>黑曜石帝国医疗交易商</Caravan_ObsidiaEmpire_Medic.label>
+<!--=============== 黑曜石帝国 - 异域商队 ====================-->
+<Caravan_ObsidiaEmpire_Exotic.label>黑曜石帝国异域商品交易商</Caravan_ObsidiaEmpire_Exotic.label>
+<!--=============== 黑曜石帝国 - 贡品收集者 ====================-->
+<Base_ObsidiaEmpire_TributeCollector.label>黑曜石帝国贡品收集者</Base_ObsidiaEmpire_TributeCollector.label>
 
 </LanguageData>

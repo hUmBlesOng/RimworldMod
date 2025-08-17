@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
-<!--=============== Obsidia Mercenary Gangs - Caravan Standard ====================-->
-<Caravan_ObsidiaMercenaryGangs_Standard.label>obsidia mercenaries goods trader</Caravan_ObsidiaMercenaryGangs_Standard.label>
-<!--=============== Obsidia Mercenary Gangs - Caravan Exotic ====================-->
-<Caravan_ObsidiaMercenaryGangs_Exotic.label>obsidia mercenaries exotic goods trader</Caravan_ObsidiaMercenaryGangs_Exotic.label>
-<!--=============== Obsidia Mercenary Gangs - Tribute Collector ====================-->
-<Base_ObsidiaMercenaryGangs_TributeCollector.label>obsidia mercenaries tribute collector</Base_ObsidiaMercenaryGangs_TributeCollector.label>
+<!--=============== 黑曜石雇佣兵帮派 - 标准商队 ====================-->
+<Caravan_ObsidiaMercenaryGangs_Standard.label>黑曜石雇佣兵商品交易商</Caravan_ObsidiaMercenaryGangs_Standard.label>
+<!--=============== 黑曜石雇佣兵帮派 - 异域商队 ====================-->
+<Caravan_ObsidiaMercenaryGangs_Exotic.label>黑曜石雇佣兵异域商品交易商</Caravan_ObsidiaMercenaryGangs_Exotic.label>
+<!--=============== 黑曜石雇佣兵帮派 - 贡品收集者 ====================-->
+<Base_ObsidiaMercenaryGangs_TributeCollector.label>黑曜石雇佣兵贡品收集者</Base_ObsidiaMercenaryGangs_TributeCollector.label>
 
-<!--=============== Obsidia Mercenary Gangs - Orbital Standard ====================-->
-<Orbital_ObsidiaMercenaryGangs_Standard.label>orbital mercenaries goods trader</Orbital_ObsidiaMercenaryGangs_Standard.label>
-<!--=============== Obsidia Mercenary Gangs - Orbital Exotic ====================-->
-<Orbital_ObsidiaMercenaryGangs_Exotic.label>orbital mercenaries exotic goods trader</Orbital_ObsidiaMercenaryGangs_Exotic.label>
+<!--=============== 黑曜石雇佣兵帮派 - 轨道标准 ====================-->
+<Orbital_ObsidiaMercenaryGangs_Standard.label>轨道雇佣兵商品交易商</Orbital_ObsidiaMercenaryGangs_Standard.label>
+<!--=============== 黑曜石雇佣兵帮派 - 轨道异域 ====================-->
+<Orbital_ObsidiaMercenaryGangs_Exotic.label>轨道雇佣兵异域商品交易商</Orbital_ObsidiaMercenaryGangs_Exotic.label>
 
 </LanguageData>

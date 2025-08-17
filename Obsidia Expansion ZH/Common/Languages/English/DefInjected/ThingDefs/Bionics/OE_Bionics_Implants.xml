@@ -1,113 +1,113 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
-<!--=============== Arms ====================-->
-<!--=============== Implant - Sting ====================-->
-<!--=============== Acid ====================-->
-<OE_ImplantArm_Sting_Acid.label>arm implant - Sting(Acid)</OE_ImplantArm_Sting_Acid.label>
-<OE_ImplantArm_Sting_Acid.description>Obsidia arm implant combat-oriented mechanical sting installing into arm. Charged with Acid damage.</OE_ImplantArm_Sting_Acid.description>
-<!--=============== Cryo ====================-->
-<OE_ImplantArm_Sting_Cryo.label>arm implant - Sting(Cryo)</OE_ImplantArm_Sting_Cryo.label>
-<OE_ImplantArm_Sting_Cryo.description>Obsidia arm implant combat-oriented mechanical sting installing into arm. Charged with Cryo damage.</OE_ImplantArm_Sting_Cryo.description>
-<!--=============== Fire ====================-->
-<OE_ImplantArm_Sting_Fire.label>arm implant - Sting(Fire)</OE_ImplantArm_Sting_Fire.label>
-<OE_ImplantArm_Sting_Fire.description>Obsidia arm implant combat-oriented mechanical sting installing into arm. Charged with Fire damage.</OE_ImplantArm_Sting_Fire.description>
+<!--=============== 手臂 ====================-->
+<!--=============== 植入物 - 刺针 ====================-->
+<!--=============== 酸性 ====================-->
+<OE_ImplantArm_Sting_Acid.label>手臂植入物 - 刺针(酸性)</OE_ImplantArm_Sting_Acid.label>
+<OE_ImplantArm_Sting_Acid.description>黑曜石手臂植入物战斗导向的机械刺针安装在手臂中。充能酸性伤害。</OE_ImplantArm_Sting_Acid.description>
+<!--=============== 冰霜 ====================-->
+<OE_ImplantArm_Sting_Cryo.label>手臂植入物 - 刺针(冰霜)</OE_ImplantArm_Sting_Cryo.label>
+<OE_ImplantArm_Sting_Cryo.description>黑曜石手臂植入物战斗导向的机械刺针安装在手臂中。充能冰霜伤害。</OE_ImplantArm_Sting_Cryo.description>
+<!--=============== 火焰 ====================-->
+<OE_ImplantArm_Sting_Fire.label>手臂植入物 - 刺针(火焰)</OE_ImplantArm_Sting_Fire.label>
+<OE_ImplantArm_Sting_Fire.description>黑曜石手臂植入物战斗导向的机械刺针安装在手臂中。充能火焰伤害。</OE_ImplantArm_Sting_Fire.description>
 <!--=============== EMP ====================-->
-<OE_ImplantArm_Sting_EMP.label>arm implant - Sting(EMP)</OE_ImplantArm_Sting_EMP.label>
-<OE_ImplantArm_Sting_EMP.description>Obsidia arm implant combat-oriented mechanical sting installing into arm. Charged with EMP damage.\n\nWarning! EMP damage isn't intended to destroy meatbags.</OE_ImplantArm_Sting_EMP.description>
+<OE_ImplantArm_Sting_EMP.label>手臂植入物 - 刺针(EMP)</OE_ImplantArm_Sting_EMP.label>
+<OE_ImplantArm_Sting_EMP.description>黑曜石手臂植入物战斗导向的机械刺针安装在手臂中。充能EMP伤害。\n\n警告！EMP伤害并非旨在摧毁肉身目标。</OE_ImplantArm_Sting_EMP.description>
 
-<!--=============== Implant - Demolisher ====================-->
-<OE_ImplantArm_Demolisher.label>arm implant - Demolisher</OE_ImplantArm_Demolisher.label>
-<OE_ImplantArm_Demolisher.description>Obsidia arm implant combat-oriented mechanical drill installing into arm. Designed for breaching.</OE_ImplantArm_Demolisher.description>
-<!--=============== Implant - Assassin ====================-->
-<OE_ImplantArm_Assassin.label>arm implant - Assassin</OE_ImplantArm_Assassin.label>
-<OE_ImplantArm_Assassin.description>Obsidia arm implant combat-oriented mechanical knife installing into arm. Designed for armor penetration.</OE_ImplantArm_Assassin.description>
-<!--=============== Implant - Duelist ====================-->
-<OE_ImplantArm_Duelist.label>arm implant - Duelist</OE_ImplantArm_Duelist.label>
-<OE_ImplantArm_Duelist.description>Obsidia arm implant combat-oriented mechanical fist installing into arm. Designed for stunning.</OE_ImplantArm_Duelist.description>
+<!--=============== 植入物 - 破坏者 ====================-->
+<OE_ImplantArm_Demolisher.label>手臂植入物 - 破坏者</OE_ImplantArm_Demolisher.label>
+<OE_ImplantArm_Demolisher.description>黑曜石手臂植入物战斗导向的机械钻头安装在手臂中。专为破墙而设计。</OE_ImplantArm_Demolisher.description>
+<!--=============== 植入物 - 刺客 ====================-->
+<OE_ImplantArm_Assassin.label>手臂植入物 - 刺客</OE_ImplantArm_Assassin.label>
+<OE_ImplantArm_Assassin.description>黑曜石手臂植入物战斗导向的机械刀片安装在手臂中。专为穿透护甲而设计。</OE_ImplantArm_Assassin.description>
+<!--=============== 植入物 - 决斗者 ====================-->
+<OE_ImplantArm_Duelist.label>手臂植入物 - 决斗者</OE_ImplantArm_Duelist.label>
+<OE_ImplantArm_Duelist.description>黑曜石手臂植入物战斗导向的机械拳套安装在手臂中。专为击晕而设计。</OE_ImplantArm_Duelist.description>
 
-<!--=============== Hands ====================-->
-<!--=============== Implant - Builder ====================-->
-<OE_ImplantHand_Builder.label>hand implant - Builder</OE_ImplantHand_Builder.label>
-<OE_ImplantHand_Builder.description>Obsidia hand implant non-combat-oriented mechanical hand replacement for improvements building and construction skills.</OE_ImplantHand_Builder.description>
-<!--=============== Implant - Agronomist ====================-->
-<OE_ImplantHand_Agronomist.label>hand implant - Agronomist</OE_ImplantHand_Agronomist.label>
-<OE_ImplantHand_Agronomist.description>Obsidia hand implant non-combat-oriented mechanical hand replacement for improvements animal and plant skills.</OE_ImplantHand_Agronomist.description>
-<!--=============== Implant - Doctor ====================-->
-<OE_ImplantHand_Doctor.label>hand implant - Doctor</OE_ImplantHand_Doctor.label>
-<OE_ImplantHand_Doctor.description>Obsidia hand implant non-combat-oriented mechanical hand replacement for improvements medical and intellectual.</OE_ImplantHand_Doctor.description>
-<!--=============== Implant - Harvester ====================-->
-<OE_ImplantHand_Harvester.label>hand implant - Harvester</OE_ImplantHand_Harvester.label>
-<OE_ImplantHand_Harvester.description>Obsidia hand implant non-combat-oriented mechanical hand replacement for increase gather yield.</OE_ImplantHand_Harvester.description>
-<!--=============== Implant - Soldier ====================-->
-<OE_ImplantHand_Soldier.label>hand implant - Soldier</OE_ImplantHand_Soldier.label>
-<OE_ImplantHand_Soldier.description>Obsidia hand implant non-combat-oriented mechanical hand replacement for improvements melee and shooting skills.</OE_ImplantHand_Soldier.description>
-<!--=============== Implant - Psy ====================-->
-<OE_ImplantHand_Psy.label>hand implant - Psy</OE_ImplantHand_Psy.label>
-<OE_ImplantHand_Psy.description>Obsidia hand implant non-combat-oriented mechanical hand replacement for improvements psychic powers.</OE_ImplantHand_Psy.description>
+<!--=============== 手部 ====================-->
+<!--=============== 植入物 - 建筑工人 ====================-->
+<OE_ImplantHand_Builder.label>手部植入物 - 建筑工人</OE_ImplantHand_Builder.label>
+<OE_ImplantHand_Builder.description>黑曜石头部植入物非战斗导向的机械手替代品，用于改善建筑和施工技能。</OE_ImplantHand_Builder.description>
+<!--=============== 植入物 - 农学家 ====================-->
+<OE_ImplantHand_Agronomist.label>手部植入物 - 农学家</OE_ImplantHand_Agronomist.label>
+<OE_ImplantHand_Agronomist.description>黑曜石头部植入物非战斗导向的机械手替代品，用于改善动物和植物技能。</OE_ImplantHand_Agronomist.description>
+<!--=============== 植入物 - 医生 ====================-->
+<OE_ImplantHand_Doctor.label>手部植入物 - 医生</OE_ImplantHand_Doctor.label>
+<OE_ImplantHand_Doctor.description>黑曜石头部植入物非战斗导向的机械手替代品，用于改善医疗和智力技能。</OE_ImplantHand_Doctor.description>
+<!--=============== 植入物 - 收割者 ====================-->
+<OE_ImplantHand_Harvester.label>手部植入物 - 收割者</OE_ImplantHand_Harvester.label>
+<OE_ImplantHand_Harvester.description>黑曜石头部植入物非战斗导向的机械手替代品，用于增加收获产量。</OE_ImplantHand_Harvester.description>
+<!--=============== 植入物 - 士兵 ====================-->
+<OE_ImplantHand_Soldier.label>手部植入物 - 士兵</OE_ImplantHand_Soldier.label>
+<OE_ImplantHand_Soldier.description>黑曜石头部植入物非战斗导向的机械手替代品，用于改善近战和射击技能。</OE_ImplantHand_Soldier.description>
+<!--=============== 植入物 - 心灵 ====================-->
+<OE_ImplantHand_Psy.label>手部植入物 - 心灵</OE_ImplantHand_Psy.label>
+<OE_ImplantHand_Psy.description>黑曜石头部植入物非战斗导向的机械手替代品，用于改善心灵力量。</OE_ImplantHand_Psy.description>
 
-<!--=============== Legs ====================-->
-<!--=============== Implant - Ninja ====================-->
-<OE_ImplantLeg_Ninja.label>leg implant - Ninja</OE_ImplantLeg_Ninja.label>
-<OE_ImplantLeg_Ninja.description>Obsidia leg implant non-combat-oriented mechanical leg replacement for improvements stealth abilities.</OE_ImplantLeg_Ninja.description>
+<!--=============== 腿部 ====================-->
+<!--=============== 植入物 - 忍者 ====================-->
+<OE_ImplantLeg_Ninja.label>腿部植入物 - 忍者</OE_ImplantLeg_Ninja.label>
+<OE_ImplantLeg_Ninja.description>黑曜石腿部植入物非战斗导向的机械腿替代品，用于改善潜行能力。</OE_ImplantLeg_Ninja.description>
 
-<!--=============== Skin ====================-->
-<!--=============== Implant - Obsidian ====================-->
-<OE_ImplantSkin_Obsidian.label>skin implant - Obsidian</OE_ImplantSkin_Obsidian.label>
-<OE_ImplantSkin_Obsidian.description>Obsidia skin implant releases chemicals and nanomachines that toughen the skin and add flexible subdermal obsidian plates at strategic points. This makes the user more resistant to damage across their whole body.</OE_ImplantSkin_Obsidian.description>
-<!--=============== Implant - Mythril ====================-->
-<OE_ImplantSkin_Mythril.label>skin implant - Mythril</OE_ImplantSkin_Mythril.label>
-<OE_ImplantSkin_Mythril.description>Obsidia skin implant releases chemicals and nanomachines that toughen the skin and add flexible subdermal mythril plates at strategic points. This makes the user more resistant to damage across their whole body.</OE_ImplantSkin_Mythril.description>
-<!--=============== Implant - CAC ====================-->
-<OE_ImplantSkin_CAC.label>skin implant - Cultist</OE_ImplantSkin_CAC.label>
-<OE_ImplantSkin_CAC.description>Obsidia cultist skin implant releases chemicals and nanomachines that toughen the skin and add flexible subdermal empyrium and orichalcum plates at strategic points. This makes the user more resistant to damage across their whole body.</OE_ImplantSkin_CAC.description>
+<!--=============== 皮肤 ====================-->
+<!--=============== 植入物 - 黑曜石 ====================-->
+<OE_ImplantSkin_Obsidian.label>皮肤植入物 - 黑曜石</OE_ImplantSkin_Obsidian.label>
+<OE_ImplantSkin_Obsidian.description>黑曜石皮肤植入物释放化学物质和纳米机器，使皮肤变得坚韧，并在关键部位添加柔性的皮下黑曜石板块。这使得使用者全身对伤害更具抵抗力。</OE_ImplantSkin_Obsidian.description>
+<!--=============== 植入物 - 秘银 ====================-->
+<OE_ImplantSkin_Mythril.label>皮肤植入物 - 秘银</OE_ImplantSkin_Mythril.label>
+<OE_ImplantSkin_Mythril.description>黑曜石皮肤植入物释放化学物质和纳米机器，使皮肤变得坚韧，并在关键部位添加柔性的皮下秘银板块。这使得使用者全身对伤害更具抵抗力。</OE_ImplantSkin_Mythril.description>
+<!--=============== 植入物 - 邪教徒 ====================-->
+<OE_ImplantSkin_CAC.label>皮肤植入物 - 邪教徒</OE_ImplantSkin_CAC.label>
+<OE_ImplantSkin_CAC.description>黑曜石邪教徒皮肤植入物释放化学物质和纳米机器，使皮肤变得坚韧，并在关键部位添加柔性的皮下琥珀金和奥利哈钢板块。这使得使用者全身对伤害更具抵抗力。</OE_ImplantSkin_CAC.description>
 
-<!--=============== Torso ====================-->
-<!--=============== Implant - Implantation interface ====================-->
-<OE_ImplantTorso_Interface.label>cyberware interface</OE_ImplantTorso_Interface.label>
-<OE_ImplantTorso_Interface.description>Obsidia cyberware interface system is installed in the body with a low-intelligent microcomputer controlled by a neural interface. Required for further installation of cyberware modules.</OE_ImplantTorso_Interface.description>
+<!--=============== 躯干 ====================-->
+<!--=============== 植入物 - 植入接口 ====================-->
+<OE_ImplantTorso_Interface.label>网络组件接口</OE_ImplantTorso_Interface.label>
+<OE_ImplantTorso_Interface.description>黑曜石网络组件接口系统安装在体内，由神经接口控制的低智能微型计算机。需要进一步安装网络组件模块。</OE_ImplantTorso_Interface.description>
 
-<!--=============== Implant - EGO Symbiont ====================-->
-<EGO_ImplantTorso_Interface.label>symbiont</EGO_ImplantTorso_Interface.label>
-<EGO_ImplantTorso_Interface.description>Symbiont is an organically integrated system implanted into the body, serving as a foundation for further mutations. It bonds with the host’s body, creating a seamless neural interface that enhances the integration of Mutations.</EGO_ImplantTorso_Interface.description>
+<!--=============== 植入物 - EGO 共生体 ====================-->
+<EGO_ImplantTorso_Interface.label>共生体</EGO_ImplantTorso_Interface.label>
+<EGO_ImplantTorso_Interface.description>共生体是植入体内的有机整合系统，作为进一步突变的基础。它与宿主的身体结合，创建无缝的神经接口，增强突变的整合。</EGO_ImplantTorso_Interface.description>
 
-<!--=============== Brain ====================-->
-<!--=============== Implant - Psydeaf ====================-->
-<OE_ImplantBrain_Psydeaf.label>brain implant - Psychically deaf</OE_ImplantBrain_Psydeaf.label>
-<OE_ImplantBrain_Psydeaf.description>Obsidia psychically deaf brain implant was designed to suppress psy-sensitivity.</OE_ImplantBrain_Psydeaf.description>
-<!--=============== Implant - Prisoner ====================-->
-<OE_ImplantBrain_Prisoner.label>brain implant - Suppression</OE_ImplantBrain_Prisoner.label>
-<OE_ImplantBrain_Prisoner.description>Obsidia suppression brain implant was designed to subdue rebellious slaves without harming them, also improves their behavior and reduces their need for sleep. When hit by an EMP it will knock the host unconscious.</OE_ImplantBrain_Prisoner.description>
-<!--=============== Implant - Slave ====================-->
-<OE_ImplantBrain_Slave.label>brain implant - Sacrifice</OE_ImplantBrain_Slave.label>
-<OE_ImplantBrain_Slave.description>Obsidia Sacrifice brain implant was designed to fully paralysis, making it impossible to move.</OE_ImplantBrain_Slave.description>
-<!--=============== Implant - AI interface ====================-->
-<OE_ImplantBrain_Interface.label>cyberware AI interface</OE_ImplantBrain_Interface.label>
-<OE_ImplantBrain_Interface.description>Obsidia cyberware AI interface system is installed in the brain with a low-intelligent microcomputer controlled by a neural interface. Required for further installation of cyberware AI helpers.</OE_ImplantBrain_Interface.description>
+<!--=============== 大脑 ====================-->
+<!--=============== 植入物 - 心灵聋哑 ====================-->
+<OE_ImplantBrain_Psydeaf.label>大脑植入物 - 心灵聋哑</OE_ImplantBrain_Psydeaf.label>
+<OE_ImplantBrain_Psydeaf.description>黑曜石心灵聋哑大脑植入物旨在抑制心灵敏感性。</OE_ImplantBrain_Psydeaf.description>
+<!--=============== 植入物 - 囚犯 ====================-->
+<OE_ImplantBrain_Prisoner.label>大脑植入物 - 压制</OE_ImplantBrain_Prisoner.label>
+<OE_ImplantBrain_Prisoner.description>黑曜石压制大脑植入物旨在制服叛逆的奴隶而不伤害他们，同时改善他们的行为并减少他们的睡眠需求。当被EMP击中时会使宿主失去知觉。</OE_ImplantBrain_Prisoner.description>
+<!--=============== 植入物 - 奴隶 ====================-->
+<OE_ImplantBrain_Slave.label>大脑植入物 - 牺牲</OE_ImplantBrain_Slave.label>
+<OE_ImplantBrain_Slave.description>黑曜石牺牲大脑植入物旨在完全麻痹，使人无法移动。</OE_ImplantBrain_Slave.description>
+<!--=============== 植入物 - AI接口 ====================-->
+<OE_ImplantBrain_Interface.label>网络组件AI接口</OE_ImplantBrain_Interface.label>
+<OE_ImplantBrain_Interface.description>黑曜石网络组件AI接口系统安装在大脑中，由神经接口控制的低智能微型计算机。需要进一步安装网络组件AI助手。</OE_ImplantBrain_Interface.description>
 
-<!--=============== Stomach ====================-->
-<!--=============== Implant - Traveler ====================-->
-<OE_ImplantStomach_Traveler.label>stomach implant - Traveler</OE_ImplantStomach_Traveler.label>
-<OE_ImplantStomach_Traveler.description>Obsidia traveler stomach implant was designed to additional nutrition while traveling by caravan.</OE_ImplantStomach_Traveler.description>
+<!--=============== 胃部 ====================-->
+<!--=============== 植入物 - 旅行者 ====================-->
+<OE_ImplantStomach_Traveler.label>胃部植入物 - 旅行者</OE_ImplantStomach_Traveler.label>
+<OE_ImplantStomach_Traveler.description>黑曜石旅行者胃部植入物旨在商队旅行时提供额外营养。</OE_ImplantStomach_Traveler.description>
 
-<!--=============== Heart ====================-->
-<!--=============== Implant - Healing ====================-->
-<OE_ImplantHeart_Healing.label>heart implant - Healing</OE_ImplantHeart_Healing.label>
-<OE_ImplantHeart_Healing.description>Obsidia healing heart implant was designed to releases nanomachines and healing factors that speed up wound healing.</OE_ImplantHeart_Healing.description>
+<!--=============== 心脏 ====================-->
+<!--=============== 植入物 - 治疗 ====================-->
+<OE_ImplantHeart_Healing.label>心脏植入物 - 治疗</OE_ImplantHeart_Healing.label>
+<OE_ImplantHeart_Healing.description>黑曜石治疗心脏植入物旨在释放纳米机器和愈合因子以加速伤口愈合。</OE_ImplantHeart_Healing.description>
 
-<!--=============== Kidney ====================-->
-<!--=============== Implant - Coagulator ====================-->
-<OE_ImplantKidney_Coagulator.label>kidney implant - Coagulator</OE_ImplantKidney_Coagulator.label>
-<OE_ImplantKidney_Coagulator.description>Obsidia coagulator kidney implant was designed to releases nanomachines and coagulating factors in response to blood loss, reducing bleeding rates significantly.</OE_ImplantKidney_Coagulator.description>
+<!--=============== 肾脏 ====================-->
+<!--=============== 植入物 - 凝血剂 ====================-->
+<OE_ImplantKidney_Coagulator.label>肾脏植入物 - 凝血剂</OE_ImplantKidney_Coagulator.label>
+<OE_ImplantKidney_Coagulator.description>黑曜石凝血剂肾脏植入物旨在失血时释放纳米机器和凝血因子，显著减少出血率。</OE_ImplantKidney_Coagulator.description>
 
-<!--=============== Liver ====================-->
-<!--=============== Implant - Antibiotic ====================-->
-<OE_ImplantLiver_Antibiotic.label>liver implant - Immune assistant</OE_ImplantLiver_Antibiotic.label>
-<OE_ImplantLiver_Antibiotic.description>Obsidia immune assistant liver implant was designed to speed up gains immunity to diseases.</OE_ImplantLiver_Antibiotic.description>
+<!--=============== 肝脏 ====================-->
+<!--=============== 植入物 - 抗生素 ====================-->
+<OE_ImplantLiver_Antibiotic.label>肝脏植入物 - 免疫助手</OE_ImplantLiver_Antibiotic.label>
+<OE_ImplantLiver_Antibiotic.description>黑曜石免疫助手肝脏植入物旨在加速获得对疾病的免疫力。</OE_ImplantLiver_Antibiotic.description>
 
-<!--=============== Lung ====================-->
-<!--=============== Implant - Filtration ====================-->
-<OE_ImplantLung_Filtration.label>lung implant - Antitox-filter</OE_ImplantLung_Filtration.label>
-<OE_ImplantLung_Filtration.description>Obsidia antitox-filter lung implant was designed to reduce the intake of environmental toxins, allowing the user to survive longer in polluted environments. Additionally, it negates the irritation of acidic smoke and prevents lung rot in this lung.</OE_ImplantLung_Filtration.description>
+<!--=============== 肺部 ====================-->
+<!--=============== 植入物 - 过滤 ====================-->
+<OE_ImplantLung_Filtration.label>肺部植入物 - 抗毒素过滤器</OE_ImplantLung_Filtration.label>
+<OE_ImplantLung_Filtration.description>黑曜石抗毒素过滤器肺部植入物旨在减少环境毒素的摄入，使使用者能够在污染环境中生存更长时间。此外，它消除了酸性烟雾的刺激并防止这肺部发生肺部腐烂。</OE_ImplantLung_Filtration.description>
 
 </LanguageData>

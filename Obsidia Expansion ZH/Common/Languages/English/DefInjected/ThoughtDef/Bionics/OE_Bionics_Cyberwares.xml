@@ -1,24 +1,24 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
-<!--=============== Cyberware - Optimist ====================-->
-<OE_CyberwareHead_Optimist.stages.quiet_melody_in_my_head.label>quiet melody in my head</OE_CyberwareHead_Optimist.stages.quiet_melody_in_my_head.label>
-<OE_CyberwareHead_Optimist.stages.quiet_melody_in_my_head.description>Nice upbeat melody sounds.</OE_CyberwareHead_Optimist.stages.quiet_melody_in_my_head.description>
+<!--=============== 赛博组件 - 乐观主义者 ====================-->
+<OE_CyberwareHead_Optimist.stages.quiet_melody_in_my_head.label>脑海中的轻柔旋律</OE_CyberwareHead_Optimist.stages.quiet_melody_in_my_head.label>
+<OE_CyberwareHead_Optimist.stages.quiet_melody_in_my_head.description>悦耳欢快的旋律。</OE_CyberwareHead_Optimist.stages.quiet_melody_in_my_head.description>
 
-<OE_CyberwareHead_Optimist.stages.melody_in_my_head.label>melody in my head</OE_CyberwareHead_Optimist.stages.melody_in_my_head.label>
-<OE_CyberwareHead_Optimist.stages.melody_in_my_head.description>Nice upbeat melody sounds.</OE_CyberwareHead_Optimist.stages.melody_in_my_head.description>
+<OE_CyberwareHead_Optimist.stages.melody_in_my_head.label>脑海中的旋律</OE_CyberwareHead_Optimist.stages.melody_in_my_head.label>
+<OE_CyberwareHead_Optimist.stages.melody_in_my_head.description>悦耳欢快的旋律。</OE_CyberwareHead_Optimist.stages.melody_in_my_head.description>
 
-<OE_CyberwareHead_Optimist.stages.loud_melody_in_my_head.label>loud melody in my head</OE_CyberwareHead_Optimist.stages.loud_melody_in_my_head.label>
-<OE_CyberwareHead_Optimist.stages.loud_melody_in_my_head.description>Nice upbeat melody sounds.</OE_CyberwareHead_Optimist.stages.loud_melody_in_my_head.description>
+<OE_CyberwareHead_Optimist.stages.loud_melody_in_my_head.label>脑海中的响亮旋律</OE_CyberwareHead_Optimist.stages.loud_melody_in_my_head.label>
+<OE_CyberwareHead_Optimist.stages.loud_melody_in_my_head.description>悦耳欢快的旋律。</OE_CyberwareHead_Optimist.stages.loud_melody_in_my_head.description>
 
-<!--=============== Cyberware - Pessimist ====================-->
-<OE_CyberwareHead_Pessimist.stages.quiet_melody_in_my_head.label>quiet melody in my head</OE_CyberwareHead_Pessimist.stages.quiet_melody_in_my_head.label>
-<OE_CyberwareHead_Pessimist.stages.quiet_melody_in_my_head.description>Sad gothic melody sounds.</OE_CyberwareHead_Pessimist.stages.quiet_melody_in_my_head.description>
+<!--=============== 赛博组件 - 悲观主义者 ====================-->
+<OE_CyberwareHead_Pessimist.stages.quiet_melody_in_my_head.label>脑海中的轻柔旋律</OE_CyberwareHead_Pessimist.stages.quiet_melody_in_my_head.label>
+<OE_CyberwareHead_Pessimist.stages.quiet_melody_in_my_head.description>悲伤的哥特旋律。</OE_CyberwareHead_Pessimist.stages.quiet_melody_in_my_head.description>
 
-<OE_CyberwareHead_Pessimist.stages.melody_in_my_head.label>melody in my head</OE_CyberwareHead_Pessimist.stages.melody_in_my_head.label>
-<OE_CyberwareHead_Pessimist.stages.melody_in_my_head.description>Sad gothic melody sounds.</OE_CyberwareHead_Pessimist.stages.melody_in_my_head.description>
+<OE_CyberwareHead_Pessimist.stages.melody_in_my_head.label>脑海中的旋律</OE_CyberwareHead_Pessimist.stages.melody_in_my_head.label>
+<OE_CyberwareHead_Pessimist.stages.melody_in_my_head.description>悲伤的哥特旋律。</OE_CyberwareHead_Pessimist.stages.melody_in_my_head.description>
 
-<OE_CyberwareHead_Pessimist.stages.loud_melody_in_my_head.label>loud melody in my head</OE_CyberwareHead_Pessimist.stages.loud_melody_in_my_head.label>
-<OE_CyberwareHead_Pessimist.stages.loud_melody_in_my_head.description>Sad gothic melody sounds.</OE_CyberwareHead_Pessimist.stages.loud_melody_in_my_head.description>
+<OE_CyberwareHead_Pessimist.stages.loud_melody_in_my_head.label>脑海中的响亮旋律</OE_CyberwareHead_Pessimist.stages.loud_melody_in_my_head.label>
+<OE_CyberwareHead_Pessimist.stages.loud_melody_in_my_head.description>悲伤的哥特旋律。</OE_CyberwareHead_Pessimist.stages.loud_melody_in_my_head.description>
 
 </LanguageData>

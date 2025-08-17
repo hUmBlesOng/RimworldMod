@@ -1,71 +1,71 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 <LanguageData>
 <!--=============== Amalgam Microfibral Muscle ====================-->
-<OE_AmalgamMicrofibralMuscle.label>microfibral muscle</OE_AmalgamMicrofibralMuscle.label>
-<OE_AmalgamMicrofibralMuscle.description>Carriers of this amalgam gene take less injuries than others from the same damage and feel half as much pain compared to a baseliner gene. They have extra-strong muscle fibers.</OE_AmalgamMicrofibralMuscle.description>
+<OE_AmalgamMicrofibralMuscle.label>微纤维肌肉</OE_AmalgamMicrofibralMuscle.label>
+<OE_AmalgamMicrofibralMuscle.description>携带这种融合基因的个体比其他个体受到的伤害更少，并且感受到的痛苦只有基线基因的一半。他们拥有超强的肌肉纤维。</OE_AmalgamMicrofibralMuscle.description>
 
 <!--=============== Amalgam Armored Skeleton ====================-->
-<OE_AmalgamArmoredSkeleton.label>armored skeleton</OE_AmalgamArmoredSkeleton.label>
-<OE_AmalgamArmoredSkeleton.description>Carriers of this amalgam gene are not slowed down when taking damage and do more damage in close-quarters combat. They have thickened, densified bones, nearly-solid ribcages, and strengthened binding factors in joints and flesh.</OE_AmalgamArmoredSkeleton.description>
+<OE_AmalgamArmoredSkeleton.label>装甲骨骼</OE_AmalgamArmoredSkeleton.label>
+<OE_AmalgamArmoredSkeleton.description>携带这种融合基因的个体在受到伤害时不会减速，并且在近身战斗中造成更多伤害。他们拥有加厚、致密的骨骼，几乎实心的胸腔，以及在关节和肌肉组织中强化的结合因子。</OE_AmalgamArmoredSkeleton.description>
 
 <!--=============== Amalgam Temperature-Tolerant ====================-->
-<OE_AmalgamTemperature.label>amalgam temperature-tolerant</OE_AmalgamTemperature.label>
-<OE_AmalgamTemperature.labelShortAdj>amalgam-tolerant</OE_AmalgamTemperature.labelShortAdj>
-<OE_AmalgamTemperature.description>Carriers of this amalgam gene are more comfortable in any temperatures. They have shielded temperature resistant skin layer.</OE_AmalgamTemperature.description>
+<OE_AmalgamTemperature.label>融合耐温性</OE_AmalgamTemperature.label>
+<OE_AmalgamTemperature.labelShortAdj>融合耐温</OE_AmalgamTemperature.labelShortAdj>
+<OE_AmalgamTemperature.description>携带这种融合基因的个体在任何温度下都更舒适。他们拥有屏蔽温度的耐热皮肤层。</OE_AmalgamTemperature.description>
 
 <!--=============== Amalgam Plating Skin ====================-->
-<OE_AmalgamPlatingSkin.label>plating skin</OE_AmalgamPlatingSkin.label>
-<OE_AmalgamPlatingSkin.description>Carriers of this amalgam gene have armored skin and are resistant to blast damage. They have shielded plating skin layer.</OE_AmalgamPlatingSkin.description>
+<OE_AmalgamPlatingSkin.label>装甲皮肤</OE_AmalgamPlatingSkin.label>
+<OE_AmalgamPlatingSkin.description>携带这种融合基因的个体拥有装甲皮肤，并且对爆炸伤害有抗性。他们拥有屏蔽装甲皮肤层。</OE_AmalgamPlatingSkin.description>
 
 <!--=============== Amalgam Shielded Skin ====================-->
-<OE_AmalgamShieldedSkin.label>shielded skin</OE_AmalgamShieldedSkin.label>
-<OE_AmalgamShieldedSkin.description>Carriers of this amalgam gene are resistant to environmental toxins, toxic buildup, acid, cryo and flame damages from any sources. They have shielded flexible skin layer.</OE_AmalgamShieldedSkin.description>
+<OE_AmalgamShieldedSkin.label>屏蔽皮肤</OE_AmalgamShieldedSkin.label>
+<OE_AmalgamShieldedSkin.description>携带这种融合基因的个体对环境毒素、毒性积累、酸性、冷冻和火焰伤害有抗性。他们拥有屏蔽的柔性皮肤层。</OE_AmalgamShieldedSkin.description>
 
 <!--=============== Amalgam Healing Factor ====================-->
-<OE_AmalgamHealingFactor.label>healing factor</OE_AmalgamHealingFactor.label>
-<OE_AmalgamHealingFactor.description>Carriers of this amalgam gene gain immunity to diseases considerably faster than normal and heal from wounds four times as fast as normal.</OE_AmalgamHealingFactor.description>
+<OE_AmalgamHealingFactor.label>愈合因子</OE_AmalgamHealingFactor.label>
+<OE_AmalgamHealingFactor.description>携带这种融合基因的个体获得疾病免疫力的速度比正常情况快得多，伤口愈合速度是正常的四倍。</OE_AmalgamHealingFactor.description>
 
 <!--=============== Amalgam Psy-Sensitive ====================-->
-<OE_AmalgamPsychicAbility.label>amalgam psy-sensitive</OE_AmalgamPsychicAbility.label>
-<OE_AmalgamPsychicAbility.labelShortAdj>psy-amalgam</OE_AmalgamPsychicAbility.labelShortAdj>
-<OE_AmalgamPsychicAbility.description>Carriers of this amalgam gene has the greatest psychically-sensitive. With great power comes great responsibility.</OE_AmalgamPsychicAbility.description>
+<OE_AmalgamPsychicAbility.label>融合心灵敏感</OE_AmalgamPsychicAbility.label>
+<OE_AmalgamPsychicAbility.labelShortAdj>心灵融合</OE_AmalgamPsychicAbility.labelShortAdj>
+<OE_AmalgamPsychicAbility.description>携带这种融合基因的个体具有极强的心灵敏感性。能力越大，责任越大。</OE_AmalgamPsychicAbility.description>
 
 <!--=============== Amalgam Mech Domination ====================-->
-<OE_AmalgamMechDomination.label>mech domination</OE_AmalgamMechDomination.label>
-<OE_AmalgamMechDomination.description>Carriers of this amalgam gene have neuroenhancer allows to control many more mechanoids at once.</OE_AmalgamMechDomination.description>
+<OE_AmalgamMechDomination.label>机械支配</OE_AmalgamMechDomination.label>
+<OE_AmalgamMechDomination.description>携带这种融合基因的个体拥有神经增强器，可以同时控制更多的机械体。</OE_AmalgamMechDomination.description>
 
 <!--=============== Amalgam Mech Exploiter ====================-->
-<OE_AmalgamMechExploiter.label>mech exploiter</OE_AmalgamMechExploiter.label>
-<OE_AmalgamMechExploiter.description>Carriers of this amalgam gene have neuroenhancer allows to control mechanoids more effective.</OE_AmalgamMechExploiter.description>
+<OE_AmalgamMechExploiter.label>机械利用</OE_AmalgamMechExploiter.label>
+<OE_AmalgamMechExploiter.description>携带这种融合基因的个体拥有神经增强器，可以更有效地控制机械体。</OE_AmalgamMechExploiter.description>
 
 <!--=============== Amalgam Hemogen Recovery ====================-->
-<OE_AmalgamHemogenRecovery.label>hemogen recovery</OE_AmalgamHemogenRecovery.label>
-<OE_AmalgamHemogenRecovery.resourceLabel>hemogen</OE_AmalgamHemogenRecovery.resourceLabel>
-<OE_AmalgamHemogenRecovery.description>Carriers of this amalgam gene restores an additional 6 hemogen per day.</OE_AmalgamHemogenRecovery.description>
+<OE_AmalgamHemogenRecovery.label>血原质恢复</OE_AmalgamHemogenRecovery.label>
+<OE_AmalgamHemogenRecovery.resourceLabel>血原质</OE_AmalgamHemogenRecovery.resourceLabel>
+<OE_AmalgamHemogenRecovery.description>携带这种融合基因的个体每天额外恢复6点血原质。</OE_AmalgamHemogenRecovery.description>
 
 <!--=============== Amalgam Eyes ====================-->
-<OE_AmalgamEyes.label>amalgam eyes</OE_AmalgamEyes.label>
-<OE_AmalgamEyes.description>Amalgam eyes improve the carrier's sight capacity and improves accuracy.</OE_AmalgamEyes.description>
+<OE_AmalgamEyes.label>融合之眼</OE_AmalgamEyes.label>
+<OE_AmalgamEyes.description>融合之眼提高携带者的视力能力并提高准确性。</OE_AmalgamEyes.description>
 
 <!--=============== Amalgam Nervous System ====================-->
-<OE_AmalgamNervousSystem.label>amalgam nervous system</OE_AmalgamNervousSystem.label>
-<OE_AmalgamNervousSystem.description>Amalgam nervous system improve the carrier's consciousness capacity and improves negotiating abilities.</OE_AmalgamNervousSystem.description>
+<OE_AmalgamNervousSystem.label>融合神经系统</OE_AmalgamNervousSystem.label>
+<OE_AmalgamNervousSystem.description>融合神经系统提高携带者的意识能力并提高谈判能力。</OE_AmalgamNervousSystem.description>
 
 <!--=============== Amalgam Fingers ====================-->
-<OE_AmalgamFingers.label>amalgam fingers</OE_AmalgamFingers.label>
-<OE_AmalgamFingers.description>Amalgam fingers improve the carrier's manipulation capacity. This aids with many tasks, especially crafting and construction.</OE_AmalgamFingers.description>
+<OE_AmalgamFingers.label>融合手指</OE_AmalgamFingers.label>
+<OE_AmalgamFingers.description>融合手指提高携带者的操作能力。这有助于许多任务，特别是制作和建造。</OE_AmalgamFingers.description>
 
 <!--=============== Amalgam Tail ====================-->
-<OE_AmalgamTail.label>amalgam tail</OE_AmalgamTail.label>
-<OE_AmalgamTail.description>Carriers of this amalgam gene grow a tail that can act as a dexterous fifth limb.</OE_AmalgamTail.description>
+<OE_AmalgamTail.label>融合尾巴</OE_AmalgamTail.label>
+<OE_AmalgamTail.description>携带这种融合基因的个体会长出一条可以作为灵活第五肢的尾巴。</OE_AmalgamTail.description>
 
 <!--=============== Amalgam Gene Flexibility ====================-->
-<OE_AmalgamGeneFlexibility.label>amalgam gene flexibility</OE_AmalgamGeneFlexibility.label>
-<OE_AmalgamGeneFlexibility.description>Carriers of this amalgam gene have special cellular structure that facilitate and optimize metabolism. This improves overall genetic and metabolic quality, but increases the market value significantly.</OE_AmalgamGeneFlexibility.description>
+<OE_AmalgamGeneFlexibility.label>融合基因灵活性</OE_AmalgamGeneFlexibility.label>
+<OE_AmalgamGeneFlexibility.description>携带这种融合基因的个体拥有特殊的细胞结构，有助于优化新陈代谢。这提高了整体基因和代谢质量，但会显著增加市场价值。</OE_AmalgamGeneFlexibility.description>
 
 <!--=============== Amalgam Gene Filter ====================-->
-<OE_AmalgamGeneDrugfilter.label>amalgam drugs filter</OE_AmalgamGeneDrugfilter.label>
-<OE_AmalgamGeneDrugfilter.description>Carriers of this amalgam gene are immune to the torment of withdrawal, preventing the host from feeling any negative side effects from neglected addictions.\n\nIf you encounter a previously unknown substance, we recommend contacting your nearest Obsidia Empire support center on Steam to report the substance and its source.</OE_AmalgamGeneDrugfilter.description>
+<OE_AmalgamGeneDrugfilter.label>融合药物过滤</OE_AmalgamGeneDrugfilter.label>
+<OE_AmalgamGeneDrugfilter.description>携带这种融合基因的个体对戒断的折磨具有免疫力，防止宿主感受到任何来自忽视成瘾的负面副作用。\n\n如果您遇到以前未知的物质，我们建议联系您附近的黑曜石帝国Steam支持中心报告该物质及其来源。</OE_AmalgamGeneDrugfilter.description>
 
 </LanguageData>

@@ -1,36 +1,36 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 
 <LanguageData>
 <!--=============== Obsidia Battery ====================-->
-<OE_Battery_Medium.label>obsidia battery</OE_Battery_Medium.label>
-<OE_Battery_Medium.description>Stores large amounts of electricity for later use. Due to Obsidia technologies, this battery unit is significantly more efficient. Charged large advanced batteries are waterproof and don't explode when exposed to rain.</OE_Battery_Medium.description>
+<OE_Battery_Medium.label>黑曜石电池</OE_Battery_Medium.label>
+<OE_Battery_Medium.description>储存大量电力以供以后使用。由于黑曜石技术，这种电池单元效率显著更高。充满电的大型先进电池防水，暴露在雨中时不会爆炸。</OE_Battery_Medium.description>
   
 <!--=============== Large Obsidia Battery ====================-->
-<OE_Battery_Large.label>large obsidia battery</OE_Battery_Large.label>
-<OE_Battery_Large.description>Stores huge amounts of electricity for later use. Due to Obsidia technologies, this battery unit is significantly more efficient. Charged large advanced batteries are waterproof and don't explode when exposed to rain.</OE_Battery_Large.description>
+<OE_Battery_Large.label>大型黑曜石电池</OE_Battery_Large.label>
+<OE_Battery_Large.description>储存巨量电力以供以后使用。由于黑曜石技术，这种电池单元效率显著更高。充满电的大型先进电池防水，暴露在雨中时不会爆炸。</OE_Battery_Large.description>
 
 <!--=============== Syntherius Generator ====================-->
-<OE_SyntheriusGenerator_Medium.label>syntherius powered generator</OE_SyntheriusGenerator_Medium.label>
-<OE_SyntheriusGenerator_Medium.description>Produces power by consuming syntherius. Must be periodically loaded with syntherius fuel by hand.</OE_SyntheriusGenerator_Medium.description>
+<OE_SyntheriusGenerator_Medium.label>合成素发电机</OE_SyntheriusGenerator_Medium.label>
+<OE_SyntheriusGenerator_Medium.description>通过消耗合成素产生电力。必须定期手动添加合成素燃料。</OE_SyntheriusGenerator_Medium.description>
 
 <!--=============== Large Syntherius Generator ====================-->
-<OE_SyntheriusGenerator_Large.label>large syntherius powered generator</OE_SyntheriusGenerator_Large.label>
-<OE_SyntheriusGenerator_Large.description>Produces a large amount of power by consuming syntherius. Must be periodically loaded with syntherius fuel by hand.</OE_SyntheriusGenerator_Large.description>
+<OE_SyntheriusGenerator_Large.label>大型合成素发电机</OE_SyntheriusGenerator_Large.label>
+<OE_SyntheriusGenerator_Large.description>通过消耗合成素产生大量电力。必须定期手动添加合成素燃料。</OE_SyntheriusGenerator_Large.description>
 
 <!--=============== Portable Obsidia Battery ====================-->
-<OE_QuantumGenerator_Micro.label>portable quantum generator</OE_QuantumGenerator_Micro.label>
-<OE_QuantumGenerator_Micro.description>Generates small amounts of free energy, forever, without using fuel. Due to Obsidia technologies, this generator is extremely fragile.</OE_QuantumGenerator_Micro.description>
+<OE_QuantumGenerator_Micro.label>便携式量子发电机</OE_QuantumGenerator_Micro.label>
+<OE_QuantumGenerator_Micro.description>永久产生少量免费能源，无需使用燃料。由于黑曜石技术，这种发电机极其脆弱。</OE_QuantumGenerator_Micro.description>
 
 <!--=============== Quantum Generator ====================-->
-<OE_QuantumGenerator_Medium.label>quantum generator</OE_QuantumGenerator_Medium.label>
-<OE_QuantumGenerator_Medium.description>Generates free energy, forever, without using fuel. Due to Obsidia technologies, this generator is extremely fragile.</OE_QuantumGenerator_Medium.description>
+<OE_QuantumGenerator_Medium.label>量子发电机</OE_QuantumGenerator_Medium.label>
+<OE_QuantumGenerator_Medium.description>永久产生免费能源，无需使用燃料。由于黑曜石技术，这种发电机极其脆弱。</OE_QuantumGenerator_Medium.description>
   
 <!--=============== Large Quantum Generator ====================-->
-<OE_QuantumGenerator_Large.label>large quantum generator</OE_QuantumGenerator_Large.label>
-<OE_QuantumGenerator_Large.description>Generates large amounts of free energy, forever, without using fuel. Due to Obsidia technologies, this generator is extremely fragile.</OE_QuantumGenerator_Large.description>
+<OE_QuantumGenerator_Large.label>大型量子发电机</OE_QuantumGenerator_Large.label>
+<OE_QuantumGenerator_Large.description>永久产生大量免费能源，无需使用燃料。由于黑曜石技术，这种发电机极其脆弱。</OE_QuantumGenerator_Large.description>
 
 <!--=============== Obsidia Geothermal Generator ====================-->
-<OE_GeothermalGenerator.label>obsidia geothermal generator</OE_GeothermalGenerator.label>
-<OE_GeothermalGenerator.description>This small, Obsidia generator produces electricity from geothermal steam geysers. Must be placed on a steam geyser.</OE_GeothermalGenerator.description>
+<OE_GeothermalGenerator.label>黑曜石地热发电机</OE_GeothermalGenerator.label>
+<OE_GeothermalGenerator.description>这种小型黑曜石发电机利用地热蒸汽间歇泉产生电力。必须建在蒸汽间歇泉上。</OE_GeothermalGenerator.description>
 
 </LanguageData>

@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-<!--=============== Obsidia Empire - Orbital Common ====================-->
-<Orbital_Obsidia_Common.label>orbital obsidia goods trader</Orbital_Obsidia_Common.label>
-<!--=============== Obsidia Empire - Orbital Rare ====================-->
-<Orbital_Obsidia_Rare.label>orbital obsidia exotic goods trader</Orbital_Obsidia_Rare.label>
-<!--=============== Obsidia Empire - Orbital Slaver ====================-->
-<Orbital_Obsidia_Slaver.label>orbital obsidia slaver</Orbital_Obsidia_Slaver.label>
+<!--=============== 黑曜石帝国 - 轨道普通 ====================-->
+<Orbital_Obsidia_Common.label>轨道黑曜石商品交易商</Orbital_Obsidia_Common.label>
+<!--=============== 黑曜石帝国 - 轨道稀有 ====================-->
+<Orbital_Obsidia_Rare.label>轨道黑曜石异域商品交易商</Orbital_Obsidia_Rare.label>
+<!--=============== 黑曜石帝国 - 轨道奴隶 ====================-->
+<Orbital_Obsidia_Slaver.label>轨道黑曜石奴隶贩子</Orbital_Obsidia_Slaver.label>
 
 </LanguageData>
