@@ -1,70 +1,346 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	<!--=============== OMC - Chainsword ====================-->
-	<OMC_Chainsword.label>女皇之刃</OMC_Chainsword.label>
-	<OMC_Chainsword.description>经典链锯剑，专为消灭帝国敌人而设计。\n\n特征：内置战斗性能增强模块。</OMC_Chainsword.description>
-	<OMC_Chainsword.tools.handle.label>手柄</OMC_Chainsword.tools.handle.label>
-	<OMC_Chainsword.tools.chain.label>链条</OMC_Chainsword.tools.chain.label>
-	<OMC_Chainsword_P.label>人格化女皇之刃</OMC_Chainsword_P.label>
-	<OMC_Chainsword_P.description>经典人格化链锯剑，专为消灭帝国敌人而设计。\n\n特征：内置战斗性能增强模块。</OMC_Chainsword_P.description>
-	<OMC_Chainsword_P.tools.handle.label>手柄</OMC_Chainsword_P.tools.handle.label>
-	<OMC_Chainsword_P.tools.chain.label>链条</OMC_Chainsword_P.tools.chain.label>
-	<!--=============== OMC - Pistol ====================-->
-	<Bullet_OMC_P.label>sX-01a子弹</Bullet_OMC_P.label>
-	<OMC_Pistol.label>sX-01a手枪</OMC_Pistol.label>
-	<OMC_Pistol.verbs.Verb_Shoot.label>sX-01a手枪</OMC_Pistol.verbs.Verb_Shoot.label>
-	<OMC_Pistol.description>使用AI模块提高精度的新手枪原型。\n\n特征：内置精度稳定模块。</OMC_Pistol.description>
-	<OMC_Pistol.tools.grip.label>握把</OMC_Pistol.tools.grip.label>
-	<OMC_Pistol.tools.barrel.label>枪管</OMC_Pistol.tools.barrel.label>
-	<OMC_Pistol_P.label>巅峰sX-01a手枪</OMC_Pistol_P.label>
-	<OMC_Pistol_P.verbs.Verb_Shoot.label>巅峰sX-01a手枪</OMC_Pistol_P.verbs.Verb_Shoot.label>
-	<OMC_Pistol_P.description>使用AI模块提高精度的新巅峰手枪原型。\n\n特征：内置精度稳定模块。</OMC_Pistol_P.description>
-	<OMC_Pistol_P.tools.grip.label>握把</OMC_Pistol_P.tools.grip.label>
-	<OMC_Pistol_P.tools.barrel.label>枪管</OMC_Pistol_P.tools.barrel.label>
-	<OMC_Pistol_P.comps.CompUniqueWeapon.namerLabels.0>巅峰sX-01a手枪</OMC_Pistol_P.comps.CompUniqueWeapon.namerLabels.0>
-	<OMC_Pistol_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OMC_Pistol_P.comps.CompEquippableAbilityReloadable.chargeNoun>
-	<OMC_Pistol_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OMC_Pistol_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
-	<!--=============== OMC - Shotgun ====================-->
-	<Bullet_OMC_S.label>奎撒能量球</Bullet_OMC_S.label>
-	<OMC_Shotgun.label>奎撒霰弹枪</OMC_Shotgun.label>
-	<OMC_Shotgun.verbs.Verb_Shoot.label>奎撒霰弹枪</OMC_Shotgun.verbs.Verb_Shoot.label>
-	<OMC_Shotgun.description>使用AI模块提高精度的新霰弹枪原型。\n\n特征：内置精度稳定模块。</OMC_Shotgun.description>
-	<OMC_Shotgun.tools.stock.label>枪托</OMC_Shotgun.tools.stock.label>
-	<OMC_Shotgun.tools.barrel.label>枪管</OMC_Shotgun.tools.barrel.label>
-	<OMC_Shotgun_P.label>巅峰奎撒霰弹枪</OMC_Shotgun_P.label>
-	<OMC_Shotgun_P.verbs.Verb_Shoot.label>巅峰奎撒霰弹枪</OMC_Shotgun_P.verbs.Verb_Shoot.label>
-	<OMC_Shotgun_P.description>使用AI模块提高精度的新巅峰霰弹枪原型。\n\n特征：内置精度稳定模块。</OMC_Shotgun_P.description>
-	<OMC_Shotgun_P.tools.stock.label>枪托</OMC_Shotgun_P.tools.stock.label>
-	<OMC_Shotgun_P.tools.barrel.label>枪管</OMC_Shotgun_P.tools.barrel.label>
-	<OMC_Shotgun_P.comps.CompUniqueWeapon.namerLabels.0>巅峰奎撒霰弹枪</OMC_Shotgun_P.comps.CompUniqueWeapon.namerLabels.0>
-	<OMC_Shotgun_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OMC_Shotgun_P.comps.CompEquippableAbilityReloadable.chargeNoun>
-	<OMC_Shotgun_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OMC_Shotgun_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
-	<!--=============== OMC - SniperRifle ====================-->
-	<Bullet_OMC_SR.label>新星能量球</Bullet_OMC_SR.label>
-	<OMC_SniperRifle.label>新星狙击步枪</OMC_SniperRifle.label>
-	<OMC_SniperRifle.verbs.Verb_Shoot.label>新星狙击步枪</OMC_SniperRifle.verbs.Verb_Shoot.label>
-	<OMC_SniperRifle.description>使用AI模块提高精度的新狙击步枪原型。\n\n特征：内置精度稳定模块。</OMC_SniperRifle.description>
-	<OMC_SniperRifle.tools.stock.label>枪托</OMC_SniperRifle.tools.stock.label>
-	<OMC_SniperRifle.tools.barrel.label>枪管</OMC_SniperRifle.tools.barrel.label>
-	<OMC_SniperRifle_P.label>巅峰新星狙击步枪</OMC_SniperRifle_P.label>
-	<OMC_SniperRifle_P.verbs.Verb_Shoot.label>巅峰新星狙击步枪</OMC_SniperRifle_P.verbs.Verb_Shoot.label>
-	<OMC_SniperRifle_P.description>使用AI模块提高精度的新巅峰狙击步枪原型。\n\n特征：内置精度稳定模块。</OMC_SniperRifle_P.description>
-	<OMC_SniperRifle_P.tools.stock.label>枪托</OMC_SniperRifle_P.tools.stock.label>
-	<OMC_SniperRifle_P.tools.barrel.label>枪管</OMC_SniperRifle_P.tools.barrel.label>
-	<OMC_SniperRifle_P.comps.CompUniqueWeapon.namerLabels.0>巅峰新星狙击步枪</OMC_SniperRifle_P.comps.CompUniqueWeapon.namerLabels.0>
-	<OMC_SniperRifle_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OMC_SniperRifle_P.comps.CompEquippableAbilityReloadable.chargeNoun>
-	<OMC_SniperRifle_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OMC_SniperRifle_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
-	<!--=============== OMC - MultiCannon ====================-->
-	<Bullet_OMC_MC.label>脉冲星能量弹</Bullet_OMC_MC.label>
-	<OMC_MultiCannon.label>脉冲星多管炮</OMC_MultiCannon.label>
-	<OMC_MultiCannon.verbs.Verb_Shoot.label>脉冲星多管炮</OMC_MultiCannon.verbs.Verb_Shoot.label>
-	<OMC_MultiCannon.description>使用AI模块提高精度的新多管炮原型。\n\n特征：内置精度稳定模块。</OMC_MultiCannon.description>
-	<OMC_MultiCannon.tools.barrels.label>枪管</OMC_MultiCannon.tools.barrels.label>
-	<OMC_MultiCannon_P.label>巅峰脉冲星多管炮</OMC_MultiCannon_P.label>
-	<OMC_MultiCannon_P.verbs.Verb_Shoot.label>巅峰脉冲星多管炮</OMC_MultiCannon_P.verbs.Verb_Shoot.label>
-	<OMC_MultiCannon_P.description>使用AI模块提高精度的新巅峰多管炮原型。\n\n特征：内置精度稳定模块。</OMC_MultiCannon_P.description>
-	<OMC_MultiCannon_P.tools.barrels.label>枪管</OMC_MultiCannon_P.tools.barrels.label>
-	<OMC_MultiCannon_P.comps.CompUniqueWeapon.namerLabels.0>巅峰脉冲星多管炮</OMC_MultiCannon_P.comps.CompUniqueWeapon.namerLabels.0>
-	<OMC_MultiCannon_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OMC_MultiCannon_P.comps.CompEquippableAbilityReloadable.chargeNoun>
-	<OMC_MultiCannon_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OMC_MultiCannon_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+<!--=============== OMC - Sword ====================-->
+<OMC_Sword.label>分界者</OMC_Sword.label>
+<OMC_Sword.description>OMC士兵使用的常规剑。</OMC_Sword.description>
+<OMC_Sword.tools.handle.label>剑柄</OMC_Sword.tools.handle.label>
+<OMC_Sword.tools.point.label>剑尖</OMC_Sword.tools.point.label>
+<OMC_Sword.tools.edge.label>剑刃</OMC_Sword.tools.edge.label>
+<OMC_Sword_M.label>分界者 MK-II</OMC_Sword_M.label>
+<OMC_Sword_M.description>OMC军官使用的改装剑。</OMC_Sword_M.description>
+<OMC_Sword_M.tools.handle.label>剑柄</OMC_Sword_M.tools.handle.label>
+<OMC_Sword_M.tools.point.label>剑尖</OMC_Sword_M.tools.point.label>
+<OMC_Sword_M.tools.edge.label>剑刃</OMC_Sword_M.tools.edge.label>
+<OMC_Sword_P.label>人格分界者 MK-II</OMC_Sword_P.label>
+<OMC_Sword_P.description>OMC军官使用的人格改装剑。</OMC_Sword_P.description>
+<OMC_Sword_P.tools.handle.label>剑柄</OMC_Sword_P.tools.handle.label>
+<OMC_Sword_P.tools.point.label>剑尖</OMC_Sword_P.tools.point.label>
+<OMC_Sword_P.tools.edge.label>剑刃</OMC_Sword_P.tools.edge.label>
+<!--=============== OMC - Axe ====================-->
+<OMC_Axe.label>狂怒</OMC_Axe.label>
+<OMC_Axe.description>OMC士兵使用的常规斧。</OMC_Axe.description>
+
+<OMC_Axe.tools.handle.label>斧柄</OMC_Axe.tools.handle.label>
+<OMC_Axe.tools.edge.label>斧刃</OMC_Axe.tools.edge.label>
+
+<OMC_Axe_M.label>狂怒 MK-II</OMC_Axe_M.label>
+<OMC_Axe_M.description>OMC军官使用的改装斧。</OMC_Axe_M.description>
+
+<OMC_Axe_M.tools.handle.label>斧柄</OMC_Axe_M.tools.handle.label>
+<OMC_Axe_M.tools.edge.label>斧刃</OMC_Axe_M.tools.edge.label>
+
+<OMC_Axe_P.label>人格狂怒 MK-II</OMC_Axe_P.label>
+<OMC_Axe_P.description>OMC军官使用的人格改装斧。</OMC_Axe_P.description>
+
+<OMC_Axe_P.tools.handle.label>斧柄</OMC_Axe_P.tools.handle.label>
+<OMC_Axe_P.tools.edge.label>斧刃</OMC_Axe_P.tools.edge.label>
+
+<!--=============== OMC - Whip ====================-->
+<Wave_OMC_W.label>溅血者波动</Wave_OMC_W.label>
+<Wave_OMC_W_M.label>溅血者 MK-II 波动</Wave_OMC_W_M.label>
+
+<OMC_Whip.label>溅血者</OMC_Whip.label>
+<OMC_Whip.verbs.Verb_Shoot.label>溅血者</OMC_Whip.verbs.Verb_Shoot.label>
+<OMC_Whip.description>OMC士兵使用的常规鞭。</OMC_Whip.description>
+
+<OMC_Whip.tools.handle.label>鞭柄</OMC_Whip.tools.handle.label>
+
+<OMC_Whip_M.label>溅血者 MK-II</OMC_Whip_M.label>
+<OMC_Whip_M.verbs.Verb_Shoot.label>溅血者 MK-II</OMC_Whip_M.verbs.Verb_Shoot.label>
+<OMC_Whip_M.description>OMC军官使用的改装鞭。</OMC_Whip_M.description>
+
+<OMC_Whip_M.tools.handle.label>鞭柄</OMC_Whip_M.tools.handle.label>
+
+<OMC_Whip_P.label>人格溅血者 MK-II</OMC_Whip_P.label>
+<OMC_Whip_P.verbs.Verb_Shoot.label>人格溅血者 MK-II</OMC_Whip_P.verbs.Verb_Shoot.label>
+<OMC_Whip_P.description>OMC军官使用的人格改装鞭。</OMC_Whip_P.description>
+
+<OMC_Whip_P.tools.handle.label>鞭柄</OMC_Whip_P.tools.handle.label>
+
+<!--=============== OMC - Elemental Whip ====================-->
+<!--=============== Acid ====================-->
+<Wave_OMC_W_Acid.label>溅血者酸性波动</Wave_OMC_W_Acid.label>
+<Wave_OMC_W_M_Acid.label>溅血者 MK-II 酸性波动</Wave_OMC_W_M_Acid.label>
+
+<OMC_Whip_Acid.label>溅血者(酸性)</OMC_Whip_Acid.label>
+<OMC_Whip_Acid.verbs.Verb_Shoot.label>溅血者(酸性)</OMC_Whip_Acid.verbs.Verb_Shoot.label>
+<OMC_Whip_Acid.description>OMC士兵使用的常规鞭。\n\n这是使用OTC技术重新制造的武器。充能酸性伤害。</OMC_Whip_Acid.description>
+
+<OMC_Whip_Acid.tools.handle.label>鞭柄</OMC_Whip_Acid.tools.handle.label>
+
+<OMC_Whip_M_Acid.label>溅血者 MK-II(酸性)</OMC_Whip_M_Acid.label>
+<OMC_Whip_M_Acid.verbs.Verb_Shoot.label>溅血者 MK-II(酸性)</OMC_Whip_M_Acid.verbs.Verb_Shoot.label>
+<OMC_Whip_M_Acid.description>OMC军官使用的改装鞭。\n\n这是使用OTC技术重新制造的武器。充能酸性伤害。</OMC_Whip_M_Acid.description>
+
+<OMC_Whip_M_Acid.tools.handle.label>鞭柄</OMC_Whip_M_Acid.tools.handle.label>
+
+<OMC_Whip_P_Acid.label>人格溅血者 MK-II(酸性)</OMC_Whip_P_Acid.label>
+<OMC_Whip_P_Acid.verbs.Verb_Shoot.label>人格溅血者 MK-II(酸性)</OMC_Whip_P_Acid.verbs.Verb_Shoot.label>
+<OMC_Whip_P_Acid.description>OMC军官使用的人格改装鞭。\n\n这是使用OTC技术重新制造的武器。充能酸性伤害。</OMC_Whip_P_Acid.description>
+
+<OMC_Whip_P_Acid.tools.handle.label>鞭柄</OMC_Whip_P_Acid.tools.handle.label>
+<!--=============== Cryo ====================-->
+<Wave_OMC_W_Cryo.label>溅血者冰冻波动</Wave_OMC_W_Cryo.label>
+<Wave_OMC_W_M_Cryo.label>溅血者 MK-II 冰冻波动</Wave_OMC_W_M_Cryo.label>
+
+<OMC_Whip_Cryo.label>溅血者(冰冻)</OMC_Whip_Cryo.label>
+<OMC_Whip_Cryo.verbs.Verb_Shoot.label>溅血者(冰冻)</OMC_Whip_Cryo.verbs.Verb_Shoot.label>
+<OMC_Whip_Cryo.description>OMC士兵使用的常规鞭。\n\n这是使用OTC技术重新制造的武器。充能冰冻伤害。</OMC_Whip_Cryo.description>
+
+<OMC_Whip_Cryo.tools.handle.label>鞭柄</OMC_Whip_Cryo.tools.handle.label>
+
+<OMC_Whip_M_Cryo.label>溅血者 MK-II(冰冻)</OMC_Whip_M_Cryo.label>
+<OMC_Whip_M_Cryo.verbs.Verb_Shoot.label>溅血者 MK-II(冰冻)</OMC_Whip_M_Cryo.verbs.Verb_Shoot.label>
+<OMC_Whip_M_Cryo.description>OMC军官使用的改装鞭。\n\n这是使用OTC技术重新制造的武器。充能冰冻伤害。</OMC_Whip_M_Cryo.description>
+
+<OMC_Whip_M_Cryo.tools.handle.label>鞭柄</OMC_Whip_M_Cryo.tools.handle.label>
+
+<OMC_Whip_P_Cryo.label>人格溅血者 MK-II(冰冻)</OMC_Whip_P_Cryo.label>
+<OMC_Whip_P_Cryo.verbs.Verb_Shoot.label>人格溅血者 MK-II(冰冻)</OMC_Whip_P_Cryo.verbs.Verb_Shoot.label>
+<OMC_Whip_P_Cryo.description>OMC军官使用的人格改装鞭。\n\n这是使用OTC技术重新制造的武器。充能冰冻伤害。</OMC_Whip_P_Cryo.description>
+
+<OMC_Whip_P_Cryo.tools.handle.label>鞭柄</OMC_Whip_P_Cryo.tools.handle.label>
+<!--=============== Fire ====================-->
+<Wave_OMC_W_Fire.label>溅血者火焰波动</Wave_OMC_W_Fire.label>
+<Wave_OMC_W_M_Fire.label>溅血者 MK-II 火焰波动</Wave_OMC_W_M_Fire.label>
+
+<OMC_Whip_Fire.label>溅血者(火焰)</OMC_Whip_Fire.label>
+<OMC_Whip_Fire.verbs.Verb_Shoot.label>溅血者(火焰)</OMC_Whip_Fire.verbs.Verb_Shoot.label>
+<OMC_Whip_Fire.description>OMC士兵使用的常规鞭。\n\n这是使用OTC技术重新制造的武器。充能火焰伤害。</OMC_Whip_Fire.description>
+
+<OMC_Whip_Fire.tools.handle.label>鞭柄</OMC_Whip_Fire.tools.handle.label>
+
+<OMC_Whip_M_Fire.label>溅血者 MK-II(火焰)</OMC_Whip_M_Fire.label>
+<OMC_Whip_M_Fire.verbs.Verb_Shoot.label>溅血者 MK-II(火焰)</OMC_Whip_M_Fire.verbs.Verb_Shoot.label>
+<OMC_Whip_M_Fire.description>OMC军官使用的改装鞭。\n\n这是使用OTC技术重新制造的武器。充能火焰伤害。</OMC_Whip_M_Fire.description>
+
+<OMC_Whip_M_Fire.tools.handle.label>鞭柄</OMC_Whip_M_Fire.tools.handle.label>
+
+<OMC_Whip_P_Fire.label>人格溅血者 MK-II(火焰)</OMC_Whip_P_Fire.label>
+<OMC_Whip_P_Fire.verbs.Verb_Shoot.label>人格溅血者 MK-II(火焰)</OMC_Whip_P_Fire.verbs.Verb_Shoot.label>
+<OMC_Whip_P_Fire.description>OMC军官使用的人格改装鞭。\n\n这是使用OTC技术重新制造的武器。充能火焰伤害。</OMC_Whip_P_Fire.description>
+
+<OMC_Whip_P_Fire.tools.handle.label>鞭柄</OMC_Whip_P_Fire.tools.handle.label>
+<!--=============== EMP ====================-->
+<Wave_OMC_W_EMP.label>溅血者EMP波动</Wave_OMC_W_EMP.label>
+<Wave_OMC_W_M_EMP.label>溅血者 MK-II EMP波动</Wave_OMC_W_M_EMP.label>
+
+<OMC_Whip_EMP.label>溅血者(EMP)</OMC_Whip_EMP.label>
+<OMC_Whip_EMP.verbs.Verb_Shoot.label>溅血者(EMP)</OMC_Whip_EMP.verbs.Verb_Shoot.label>
+<OMC_Whip_EMP.description>OMC士兵使用的常规鞭。\n\n这是使用OTC技术重新制造的武器。充能EMP伤害。\n\n警告！EMP伤害不是用来摧毁血肉之躯的。</OMC_Whip_EMP.description>
+
+<OMC_Whip_EMP.tools.handle.label>鞭柄</OMC_Whip_EMP.tools.handle.label>
+
+<OMC_Whip_M_EMP.label>溅血者 MK-II(EMP)</OMC_Whip_M_EMP.label>
+<OMC_Whip_M_EMP.verbs.Verb_Shoot.label>溅血者 MK-II(EMP)</OMC_Whip_M_EMP.verbs.Verb_Shoot.label>
+<OMC_Whip_M_EMP.description>OMC军官使用的改装鞭。\n\n这是使用OTC技术重新制造的武器。充能EMP伤害。\n\n警告！EMP伤害不是用来摧毁血肉之躯的。</OMC_Whip_M_EMP.description>
+
+<OMC_Whip_M_EMP.tools.handle.label>鞭柄</OMC_Whip_M_EMP.tools.handle.label>
+
+<OMC_Whip_P_EMP.label>人格溅血者 MK-II(EMP)</OMC_Whip_P_EMP.label>
+<OMC_Whip_P_EMP.verbs.Verb_Shoot.label>人格溅血者 MK-II(EMP)</OMC_Whip_P_EMP.verbs.Verb_Shoot.label>
+<OMC_Whip_P_EMP.description>OMC军官使用的人格改装鞭。\n\n这是使用OTC技术重新制造的武器。充能EMP伤害。\n\n警告！EMP伤害不是用来摧毁血肉之躯的。</OMC_Whip_P_EMP.description>
+
+<OMC_Whip_P_EMP.tools.handle.label>鞭柄</OMC_Whip_P_EMP.tools.handle.label>
+
+<!--=============== OMC - Pistol ====================-->
+<Bullet_OMC_P.label>穿刺者子弹</Bullet_OMC_P.label>
+<Bullet_OMC_P_M.label>穿刺者 MK-II 子弹</Bullet_OMC_P_M.label>
+
+<OMC_Pistol.label>穿刺者</OMC_Pistol.label>
+<OMC_Pistol.verbs.Verb_Shoot.label>穿刺者</OMC_Pistol.verbs.Verb_Shoot.label>
+<OMC_Pistol.description>OMC士兵使用的常规自动手枪。快速射击和多重充能武器，伤害降低。</OMC_Pistol.description>
+
+<OMC_Pistol.tools.grip.label>握把</OMC_Pistol.tools.grip.label>
+<OMC_Pistol.tools.barrel.label>枪管</OMC_Pistol.tools.barrel.label>
+
+<OMC_Pistol_M.label>穿刺者 MK-II</OMC_Pistol_M.label>
+<OMC_Pistol_M.verbs.Verb_Shoot.label>穿刺者 MK-II</OMC_Pistol_M.verbs.Verb_Shoot.label>
+<OMC_Pistol_M.description>OMC士兵使用的改装自动手枪。快速射击和多重充能武器，伤害降低。</OMC_Pistol_M.description>
+
+<OMC_Pistol_M.tools.grip.label>握把</OMC_Pistol_M.tools.grip.label>
+<OMC_Pistol_M.tools.barrel.label>枪管</OMC_Pistol_M.tools.barrel.label>
+
+<OMC_Pistol_P.label>典范穿刺者 MK-II</OMC_Pistol_P.label>
+<OMC_Pistol_P.verbs.Verb_Shoot.label>典范穿刺者 MK-II</OMC_Pistol_P.verbs.Verb_Shoot.label>
+<OMC_Pistol_P.description>OMC士兵使用的典范改装自动手枪。快速射击和多重充能武器，伤害降低。</OMC_Pistol_P.description>
+
+<OMC_Pistol_P.tools.grip.label>握把</OMC_Pistol_P.tools.grip.label>
+<OMC_Pistol_P.tools.barrel.label>枪管</OMC_Pistol_P.tools.barrel.label>
+
+<OMC_Pistol_P.comps.CompUniqueWeapon.namerLabels.0>典范穿刺者 MK-II</OMC_Pistol_P.comps.CompUniqueWeapon.namerLabels.0>
+<OMC_Pistol_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OMC_Pistol_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+<OMC_Pistol_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OMC_Pistol_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+<!--=============== OMC - Shotgun Sidearm ====================-->
+<Bullet_OMC_SS.label>地狱尖啸爆弹</Bullet_OMC_SS.label>
+<Bullet_OMC_SS_M.label>地狱尖啸 MK-II 爆弹</Bullet_OMC_SS_M.label>
+
+<OMC_ShotgunS.label>地狱尖啸</OMC_ShotgunS.label>
+<OMC_ShotgunS.verbs.Verb_Shoot.label>地狱尖啸</OMC_ShotgunS.verbs.Verb_Shoot.label>
+<OMC_ShotgunS.description>OMC士兵使用的常规霰弹枪副武器。快速射击和多重充能武器，伤害降低。</OMC_ShotgunS.description>
+
+<OMC_ShotgunS.tools.grip.label>握把</OMC_ShotgunS.tools.grip.label>
+<OMC_ShotgunS.tools.barrel.label>枪管</OMC_ShotgunS.tools.barrel.label>
+
+<OMC_ShotgunS_M.label>地狱尖啸 MK-II</OMC_ShotgunS_M.label>
+<OMC_ShotgunS_M.verbs.Verb_Shoot.label>地狱尖啸 MK-II</OMC_ShotgunS_M.verbs.Verb_Shoot.label>
+<OMC_ShotgunS_M.description>OMC军官使用的改装霰弹枪副武器。快速射击和多重充能武器，伤害降低。</OMC_ShotgunS_M.description>
+
+<OMC_ShotgunS_M.tools.grip.label>握把</OMC_ShotgunS_M.tools.grip.label>
+<OMC_ShotgunS_M.tools.barrel.label>枪管</OMC_ShotgunS_M.tools.barrel.label>
+
+<OMC_ShotgunS_P.label>典范地狱尖啸 MK-II</OMC_ShotgunS_P.label>
+<OMC_ShotgunS_P.verbs.Verb_Shoot.label>典范地狱尖啸 MK-II</OMC_ShotgunS_P.verbs.Verb_Shoot.label>
+<OMC_ShotgunS_P.description>OMC军官使用的典范改装霰弹枪副武器。快速射击和多重充能武器，伤害降低。</OMC_ShotgunS_P.description>
+
+<OMC_ShotgunS_P.tools.grip.label>握把</OMC_ShotgunS_P.tools.grip.label>
+<OMC_ShotgunS_P.tools.barrel.label>枪管</OMC_ShotgunS_P.tools.barrel.label>
+
+<OMC_ShotgunS_P.comps.CompUniqueWeapon.namerLabels.0>典范地狱尖啸 MK-II</OMC_ShotgunS_P.comps.CompUniqueWeapon.namerLabels.0>
+<OMC_ShotgunS_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OMC_ShotgunS_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+<OMC_ShotgunS_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OMC_ShotgunS_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+<!--=============== OMC - AssaultRifle ====================-->
+<Bullet_OMC_AR.label>突击者子弹</Bullet_OMC_AR.label>
+<Bullet_OMC_AR_M.label>突击者 MK-II 子弹</Bullet_OMC_AR_M.label>
+
+<OMC_AR.label>突击者</OMC_AR.label>
+<OMC_AR.verbs.Verb_Shoot.label>突击者</OMC_AR.verbs.Verb_Shoot.label>
+<OMC_AR.description>OMC士兵使用的常规突击步枪。快速射击和多重充能武器，伤害降低。</OMC_AR.description>
+
+<OMC_AR.tools.stock.label>枪托</OMC_AR.tools.stock.label>
+<OMC_AR.tools.barrel.label>枪管</OMC_AR.tools.barrel.label>
+
+<OMC_AR_M.label>突击者 MK-II</OMC_AR_M.label>
+<OMC_AR_M.verbs.Verb_Shoot.label>突击者 MK-II</OMC_AR_M.verbs.Verb_Shoot.label>
+<OMC_AR_M.description>OMC军官使用的改装突击步枪。快速射击和多重充能武器，伤害降低。</OMC_AR_M.description>
+
+<OMC_AR_M.tools.stock.label>枪托</OMC_AR_M.tools.stock.label>
+<OMC_AR_M.tools.barrel.label>枪管</OMC_AR_M.tools.barrel.label>
+
+<OMC_AR_P.label>典范突击者 MK-II</OMC_AR_P.label>
+<OMC_AR_P.verbs.Verb_Shoot.label>典范突击者 MK-II</OMC_AR_P.verbs.Verb_Shoot.label>
+<OMC_AR_P.description>OMC军官使用的改装典范突击步枪。快速射击和多重充能武器，伤害降低。</OMC_AR_P.description>
+
+<OMC_AR_P.tools.stock.label>枪托</OMC_AR_P.tools.stock.label>
+<OMC_AR_P.tools.barrel.label>枪管</OMC_AR_P.tools.barrel.label>
+
+<OMC_AR_P.comps.CompUniqueWeapon.namerLabels.0>典范突击者 MK-II</OMC_AR_P.comps.CompUniqueWeapon.namerLabels.0>
+<OMC_AR_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OMC_AR_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+<OMC_AR_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OMC_AR_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+<!--=============== OMC - Shotgun ====================-->
+<Bullet_OMC_S.label>末日爆弹</Bullet_OMC_S.label>
+<Bullet_OMC_S_M.label>末日 MK-II 爆弹</Bullet_OMC_S_M.label>
+
+<OMC_Shotgun.label>末日</OMC_Shotgun.label>
+<OMC_Shotgun.verbs.Verb_Shoot.label>末日</OMC_Shotgun.verbs.Verb_Shoot.label>
+<OMC_Shotgun.description>OMC士兵使用的常规自动霰弹枪。快速射击和多重充能武器，伤害降低。</OMC_Shotgun.description>
+
+<OMC_Shotgun.tools.stock.label>枪托</OMC_Shotgun.tools.stock.label>
+<OMC_Shotgun.tools.barrel.label>枪管</OMC_Shotgun.tools.barrel.label>
+
+<OMC_Shotgun_M.label>末日 MK-II</OMC_Shotgun_M.label>
+<OMC_Shotgun_M.verbs.Verb_Shoot.label>末日 MK-II</OMC_Shotgun_M.verbs.Verb_Shoot.label>
+<OMC_Shotgun_M.description>OMC军官使用的改装自动霰弹枪。快速射击和多重充能武器，伤害降低。</OMC_Shotgun_M.description>
+
+<OMC_Shotgun_M.tools.stock.label>枪托</OMC_Shotgun_M.tools.stock.label>
+<OMC_Shotgun_M.tools.barrel.label>枪管</OMC_Shotgun_M.tools.barrel.label>
+
+<OMC_Shotgun_P.label>典范末日 MK-II</OMC_Shotgun_P.label>
+<OMC_Shotgun_P.verbs.Verb_Shoot.label>典范末日 MK-II</OMC_Shotgun_P.verbs.Verb_Shoot.label>
+<OMC_Shotgun_P.description>OMC军官使用的典范改装自动霰弹枪。快速射击和多重充能武器，伤害降低。</OMC_Shotgun_P.description>
+
+<OMC_Shotgun_P.tools.stock.label>枪托</OMC_Shotgun_P.tools.stock.label>
+<OMC_Shotgun_P.tools.barrel.label>枪管</OMC_Shotgun_P.tools.barrel.label>
+
+<OMC_Shotgun_P.comps.CompUniqueWeapon.namerLabels.0>典范末日 MK-II</OMC_Shotgun_P.comps.CompUniqueWeapon.namerLabels.0>
+<OMC_Shotgun_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OMC_Shotgun_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+<OMC_Shotgun_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OMC_Shotgun_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+<!--=============== OMC - SniperRifle ====================-->
+<Bullet_OMC_SR.label>碎颅者子弹</Bullet_OMC_SR.label>
+<Bullet_OMC_SR_M.label>碎颅者 MK-II 子弹</Bullet_OMC_SR_M.label>
+
+<OMC_SniperRifle.label>碎颅者</OMC_SniperRifle.label>
+<OMC_SniperRifle.verbs.Verb_Shoot.label>碎颅者</OMC_SniperRifle.verbs.Verb_Shoot.label>
+<OMC_SniperRifle.description>OMC士兵使用的常规自动狙击步枪。快速射击和多重充能武器，伤害降低。</OMC_SniperRifle.description>
+
+<OMC_SniperRifle.tools.stock.label>枪托</OMC_SniperRifle.tools.stock.label>
+<OMC_SniperRifle.tools.barrel.label>枪管</OMC_SniperRifle.tools.barrel.label>
+
+<OMC_SniperRifle_M.label>碎颅者 MK-II</OMC_SniperRifle_M.label>
+<OMC_SniperRifle_M.verbs.Verb_Shoot.label>碎颅者 MK-II</OMC_SniperRifle_M.verbs.Verb_Shoot.label>
+<OMC_SniperRifle_M.description>OMC军官使用的改装自动狙击步枪。快速射击和多重充能武器，伤害降低。</OMC_SniperRifle_M.description>
+
+<OMC_SniperRifle_M.tools.stock.label>枪托</OMC_SniperRifle_M.tools.stock.label>
+<OMC_SniperRifle_M.tools.barrel.label>枪管</OMC_SniperRifle_M.tools.barrel.label>
+
+<OMC_SniperRifle_P.label>典范碎颅者 MK-II</OMC_SniperRifle_P.label>
+<OMC_SniperRifle_P.verbs.Verb_Shoot.label>典范碎颅者 MK-II</OMC_SniperRifle_P.verbs.Verb_Shoot.label>
+<OMC_SniperRifle_P.description>OMC军官使用的典范改装自动狙击步枪。快速射击和多重充能武器，伤害降低。</OMC_SniperRifle_P.description>
+
+<OMC_SniperRifle_P.tools.stock.label>枪托</OMC_SniperRifle_P.tools.stock.label>
+<OMC_SniperRifle_P.tools.barrel.label>枪管</OMC_SniperRifle_P.tools.barrel.label>
+
+<OMC_SniperRifle_P.comps.CompUniqueWeapon.namerLabels.0>典范碎颅者 MK-II</OMC_SniperRifle_P.comps.CompUniqueWeapon.namerLabels.0>
+<OMC_SniperRifle_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OMC_SniperRifle_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+<OMC_SniperRifle_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OMC_SniperRifle_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+<!--=============== Cross ====================-->
+<!--=============== OMC - Rocket Launcher ====================-->
+<Bullet_OMC_RL.label>巨人克星火箭弹</Bullet_OMC_RL.label>
+<Bullet_OMC_RL_M.label>巨人克星 MK-II 火箭弹</Bullet_OMC_RL_M.label>
+
+<OMC_RocketLauncher.label>巨人克星</OMC_RocketLauncher.label>
+<OMC_RocketLauncher.verbs.Verb_Shoot.label>巨人克星</OMC_RocketLauncher.verbs.Verb_Shoot.label>
+<OMC_RocketLauncher.description>OMC士兵使用的常规火箭发射器。快速射击和多重充能武器，伤害降低。\n\n这是基于OCC火箭发射器重新制造的武器。</OMC_RocketLauncher.description>
+
+<OMC_RocketLauncher.tools.barrel.label>发射管</OMC_RocketLauncher.tools.barrel.label>
+
+<OMC_RocketLauncher_M.label>巨人克星 MK-II</OMC_RocketLauncher_M.label>
+<OMC_RocketLauncher_M.verbs.Verb_Shoot.label>巨人克星 MK-II</OMC_RocketLauncher_M.verbs.Verb_Shoot.label>
+<OMC_RocketLauncher_M.description>OMC士兵使用的改装火箭发射器。快速射击和多重充能武器，伤害降低。\n\n这是基于OCC火箭发射器重新制造的武器。</OMC_RocketLauncher_M.description>
+
+<OMC_RocketLauncher_M.tools.barrel.label>发射管</OMC_RocketLauncher_M.tools.barrel.label>
+
+<OMC_RocketLauncher_P.label>典范巨人克星 MK-II</OMC_RocketLauncher_P.label>
+<OMC_RocketLauncher_P.verbs.Verb_Shoot.label>典范巨人克星 MK-II</OMC_RocketLauncher_P.verbs.Verb_Shoot.label>
+<OMC_RocketLauncher_P.description>OMC军官使用的典范改装火箭发射器。快速射击和多重充能武器，伤害降低。\n\n这是基于OCC火箭发射器重新制造的武器。</OMC_RocketLauncher_P.description>
+
+<OMC_RocketLauncher_P.tools.barrel.label>发射管</OMC_RocketLauncher_P.tools.barrel.label>
+
+<OMC_RocketLauncher_P.comps.CompUniqueWeapon.namerLabels.0>典范巨人克星 MK-II</OMC_RocketLauncher_P.comps.CompUniqueWeapon.namerLabels.0>
+<OMC_RocketLauncher_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OMC_RocketLauncher_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+<OMC_RocketLauncher_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OMC_RocketLauncher_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
+
+<!--=============== OMC - Revolver ====================-->
+<Bullet_OMC_R.label>无情子弹</Bullet_OMC_R.label>
+<Bullet_OMC_R_M.label>无情 MK-II 子弹</Bullet_OMC_R_M.label>
+
+<OMC_Revolver.label>无情</OMC_Revolver.label>
+<OMC_Revolver.verbs.Verb_Shoot.label>无情</OMC_Revolver.verbs.Verb_Shoot.label>
+<OMC_Revolver.description>OMC士兵使用的常规左轮手枪。快速射击和多重充能武器，伤害降低。\n\n这是基于OEC左轮手枪重新制造的武器。</OMC_Revolver.description>
+
+<OMC_Revolver.tools.grip.label>握把</OMC_Revolver.tools.grip.label>
+<OMC_Revolver.tools.barrel.label>枪管</OMC_Revolver.tools.barrel.label>
+
+<OMC_Revolver_M.label>无情 MK-II</OMC_Revolver_M.label>
+<OMC_Revolver_M.verbs.Verb_Shoot.label>无情 MK-II</OMC_Revolver_M.verbs.Verb_Shoot.label>
+<OMC_Revolver_M.description>OMC士兵使用的改装左轮手枪。快速射击和多重充能武器，伤害降低。\n\n这是基于OEC左轮手枪重新制造的武器。</OMC_Revolver_M.description>
+
+<OMC_Revolver_M.tools.grip.label>握把</OMC_Revolver_M.tools.grip.label>
+<OMC_Revolver_M.tools.barrel.label>枪管</OMC_Revolver_M.tools.barrel.label>
+
+<OMC_Revolver_P.label>典范无情 MK-II</OMC_Revolver_P.label>
+<OMC_Revolver_P.verbs.Verb_Shoot.label>典范无情 MK-II</OMC_Revolver_P.verbs.Verb_Shoot.label>
+<OMC_Revolver_P.description>OMC士兵使用的典范改装左轮手枪。快速射击和多重充能武器，伤害降低。\n\n这是基于OEC左轮手枪重新制造的武器。</OMC_Revolver_P.description>
+
+<OMC_Revolver_P.tools.grip.label>握把</OMC_Revolver_P.tools.grip.label>
+<OMC_Revolver_P.tools.barrel.label>枪管</OMC_Revolver_P.tools.barrel.label>
+
+<OMC_Revolver_P.comps.CompUniqueWeapon.namerLabels.0>典范无情 MK-II</OMC_Revolver_P.comps.CompUniqueWeapon.namerLabels.0>
+<OMC_Revolver_P.comps.CompEquippableAbilityReloadable.chargeNoun>充能</OMC_Revolver_P.comps.CompEquippableAbilityReloadable.chargeNoun>
+<OMC_Revolver_P.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OMC_Revolver_P.comps.CompEquippableAbilityReloadable.cooldownGerund>
 </LanguageData>

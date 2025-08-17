@@ -1,34 +1,127 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
-	<!--=============== OMG - Knife ====================-->
-	<OMG_Knife.label>破甲者</OMG_Knife.label>
-	<OMG_Knife.description>专为穿透护甲而锻造，破甲者是一种战争武器，能够利用任何防护装备中最薄弱的点。匕首的精确性和强度使其在熟练战士手中致命。\n\n特殊改装武器，带有死灵、眩晕和电磁脉冲伤害。\n\n此改装剥夺了物品的品质等级。</OMG_Knife.description>
-	<OMG_Knife.tools.handle.label>手柄</OMG_Knife.tools.handle.label>
-	<OMG_Knife.tools.blade.label>刀刃</OMG_Knife.tools.blade.label>
-	<OMG_Knife.tools.point.label>刀尖</OMG_Knife.tools.point.label>
-	<!--=============== OMG - Guitar ====================-->
-	<Bullet_OMG_PG.label>霓虹回声音符</Bullet_OMG_PG.label>
-	<OMG_PowerGuitar.label>霓虹回声</OMG_PowerGuitar.label>
-	<OMG_PowerGuitar.verbs.Verb_Shoot.label>霓虹回声</OMG_PowerGuitar.verbs.Verb_Shoot.label>
-	<OMG_PowerGuitar.description>这把来源不明的赛博吉他被谣言包围，从一个主人传到另一个主人。根据传说，它曾经拥有自己的生命，现在携带着一种奇怪而令人毛骨悚然的共鸣。\n\n特殊改装武器，带有死灵、眩晕和电磁脉冲伤害。\n\n此改装剥夺了物品的品质等级。</OMG_PowerGuitar.description>
-	<OMG_PowerGuitar.tools.head.label>琴头</OMG_PowerGuitar.tools.head.label>
-	<OMG_PowerGuitar.comps.CompEquippableAbilityReloadable.chargeNoun>地狱火充能</OMG_PowerGuitar.comps.CompEquippableAbilityReloadable.chargeNoun>
-	<OMG_PowerGuitar.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OMG_PowerGuitar.comps.CompEquippableAbilityReloadable.cooldownGerund>
-	<OMG_PowerGuitar.verbs.Verb_Shoot.label>霓虹回声</OMG_PowerGuitar.verbs.Verb_Shoot.label>
-	<OMG_PowerGuitar.comps.CompUniqueWeapon.namerLabels.0>霓虹回声</OMG_PowerGuitar.comps.CompUniqueWeapon.namerLabels.0>
-	<OMG_PowerGuitar.comps.CompEquippableAbilityReloadable-1.chargeNoun>充能</OMG_PowerGuitar.comps.CompEquippableAbilityReloadable-1.chargeNoun>
-	<OMG_PowerGuitar.comps.CompEquippableAbilityReloadable-1.cooldownGerund>冷却中</OMG_PowerGuitar.comps.CompEquippableAbilityReloadable-1.cooldownGerund>
-	<!--=============== OMG - Revolver ====================-->
-	<Bullet_OMG_R.label>死亡召唤子弹</Bullet_OMG_R.label>
-	<Shell_OMG_R.label>死亡召唤胶囊</Shell_OMG_R.label>
-	<OMG_Revolver.label>死亡召唤</OMG_Revolver.label>
-	<OMG_Revolver.verbs.Verb_Shoot.label>死亡召唤</OMG_Revolver.verbs.Verb_Shoot.label>
-	<OMG_Revolver.description>由黑暗技术制造，这把左轮手枪可以把任何受害者变成无情的蹒跚者。每次扣动扳机，死者都会重新站起来，被诅咒在不神圣的奴役中行走。\n\n特殊改装武器，带有死灵、死灵毒素、眩晕和电磁脉冲伤害。\n\n此改装剥夺了物品的品质等级。</OMG_Revolver.description>
-	<OMG_Revolver.comps.CompEquippableAbilityReloadable.chargeNoun>点燃充能</OMG_Revolver.comps.CompEquippableAbilityReloadable.chargeNoun>
-	<OMG_Revolver.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OMG_Revolver.comps.CompEquippableAbilityReloadable.cooldownGerund>
-	<OMG_Revolver.tools.grip.label>握把</OMG_Revolver.tools.grip.label>
-	<OMG_Revolver.tools.barrel.label>枪管</OMG_Revolver.tools.barrel.label>
-	<OMG_Revolver.comps.CompUniqueWeapon.namerLabels.0>死亡召唤</OMG_Revolver.comps.CompUniqueWeapon.namerLabels.0>
-	<OMG_Revolver.comps.CompEquippableAbilityReloadable-1.chargeNoun>充能</OMG_Revolver.comps.CompEquippableAbilityReloadable-1.chargeNoun>
-	<OMG_Revolver.comps.CompEquippableAbilityReloadable-1.cooldownGerund>冷却中</OMG_Revolver.comps.CompEquippableAbilityReloadable-1.cooldownGerund>
+<!--=============== OMG - Rapier ====================-->
+<OMG_Rapier.label>脉冲刃</OMG_Rapier.label>
+<OMG_Rapier.description>雇佣兵使用的高度改装细剑。特殊改装武器，充能死灵克星和EMP伤害。\n\n此改装移除了物品的品质等级。</OMG_Rapier.description>
+
+<OMG_Rapier.tools.handle.label>手柄</OMG_Rapier.tools.handle.label>
+<OMG_Rapier.tools.point.label>剑尖</OMG_Rapier.tools.point.label>
+
+<!--=============== OMG - Axe ====================-->
+<OMG_Axe.label>纳米刃</OMG_Axe.label>
+<OMG_Axe.description>雇佣兵使用的高度改装斧头。特殊改装武器，充能死灵克星和EMP伤害。\n\n此改装移除了物品的品质等级。</OMG_Axe.description>
+
+<OMG_Axe.tools.handle.label>手柄</OMG_Axe.tools.handle.label>
+<OMG_Axe.tools.edge.label>斧刃</OMG_Axe.tools.edge.label>
+
+<!--=============== OMG - BattleAxe ====================-->
+<OMG_BattleAxe.label>数据粉碎者</OMG_BattleAxe.label>
+<OMG_BattleAxe.description>雇佣兵使用的高度改装战斧。特殊改装武器，充能死灵克星和EMP伤害。\n\n此改装移除了物品的品质等级。</OMG_BattleAxe.description>
+
+<OMG_BattleAxe.tools.handle.label>手柄</OMG_BattleAxe.tools.handle.label>
+<OMG_BattleAxe.tools.edge.label>斧刃</OMG_BattleAxe.tools.edge.label>
+<OMG_BattleAxe.tools.head.label>斧头</OMG_BattleAxe.tools.head.label>
+
+<!--=============== OMG - Dual Sword ====================-->
+<OMG_DualSword.label>双子故障</OMG_DualSword.label>
+<OMG_DualSword.description>雇佣兵使用的高度改装双刃剑。特殊改装武器，充能死灵克星和EMP伤害。\n\n此改装移除了物品的品质等级。</OMG_DualSword.description>
+
+<OMG_DualSword.tools.shaft.label>剑柄</OMG_DualSword.tools.shaft.label>
+<OMG_DualSword.tools.edge.label>剑刃</OMG_DualSword.tools.edge.label>
+
+<!--=============== OMG - Scepter ====================-->
+<OMG_Scepter.label>脉冲法杖</OMG_Scepter.label>
+<OMG_Scepter.description>雇佣兵使用的高度改装权杖。特殊改装武器，充能死灵克星和EMP伤害。\n\n此改装移除了物品的品质等级。</OMG_Scepter.description>
+
+<OMG_Scepter.tools.ornament.label>装饰品</OMG_Scepter.tools.ornament.label>
+
+<!--=============== OMG - Pistol ====================-->
+<Bullet_OMG_P.label>纳米火焰子弹</Bullet_OMG_P.label>
+
+<OMG_Pistol.label>纳米火焰</OMG_Pistol.label>
+<OMG_Pistol.verbs.Verb_Shoot.label>纳米火焰</OMG_Pistol.verbs.Verb_Shoot.label>
+<OMG_Pistol.description>雇佣兵使用的高度改装手枪。特殊改装武器，充能死灵克星和EMP伤害。\n\n此改装移除了物品的品质等级。</OMG_Pistol.description>
+
+<OMG_Pistol.tools.grip.label>握把</OMG_Pistol.tools.grip.label>
+<OMG_Pistol.tools.barrel.label>枪管</OMG_Pistol.tools.barrel.label>
+
+<OMG_Pistol.comps.CompEquippableAbilityReloadable.chargeNoun>点燃充能</OMG_Pistol.comps.CompEquippableAbilityReloadable.chargeNoun>
+<OMG_Pistol.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OMG_Pistol.comps.CompEquippableAbilityReloadable.cooldownGerund>
+<OMG_Pistol.verbs.Verb_Shoot.label>纳米火焰</OMG_Pistol.verbs.Verb_Shoot.label>
+
+<OMG_Pistol.comps.CompUniqueWeapon.namerLabels.0>纳米火焰</OMG_Pistol.comps.CompUniqueWeapon.namerLabels.0>
+<OMG_Pistol.comps.CompEquippableAbilityReloadable-1.chargeNoun>充能</OMG_Pistol.comps.CompEquippableAbilityReloadable-1.chargeNoun>
+<OMG_Pistol.comps.CompEquippableAbilityReloadable-1.cooldownGerund>冷却中</OMG_Pistol.comps.CompEquippableAbilityReloadable-1.cooldownGerund>
+
+<!--=============== OMG - Revolver ====================-->
+<Bullet_OMG_R.label>数据射击子弹</Bullet_OMG_R.label>
+
+<OMG_Revolver.label>数据射击</OMG_Revolver.label>
+<OMG_Revolver.verbs.Verb_Shoot.label>数据射击</OMG_Revolver.verbs.Verb_Shoot.label>
+<OMG_Revolver.description>雇佣兵使用的高度改装左轮手枪。特殊改装武器，充能死灵克星和EMP伤害。\n\n此改装移除了物品的品质等级。</OMG_Revolver.description>
+
+<OMG_Revolver.tools.grip.label>握把</OMG_Revolver.tools.grip.label>
+<OMG_Revolver.tools.barrel.label>枪管</OMG_Revolver.tools.barrel.label>
+
+<OMG_Revolver.comps.CompEquippableAbilityReloadable.chargeNoun>点燃充能</OMG_Revolver.comps.CompEquippableAbilityReloadable.chargeNoun>
+<OMG_Revolver.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OMG_Revolver.comps.CompEquippableAbilityReloadable.cooldownGerund>
+<OMG_Revolver.verbs.Verb_Shoot.label>数据射击</OMG_Revolver.verbs.Verb_Shoot.label>
+
+<OMG_Revolver.comps.CompUniqueWeapon.namerLabels.0>数据射击</OMG_Revolver.comps.CompUniqueWeapon.namerLabels.0>
+<OMG_Revolver.comps.CompEquippableAbilityReloadable-1.chargeNoun>充能</OMG_Revolver.comps.CompEquippableAbilityReloadable-1.chargeNoun>
+<OMG_Revolver.comps.CompEquippableAbilityReloadable-1.cooldownGerund>冷却中</OMG_Revolver.comps.CompEquippableAbilityReloadable-1.cooldownGerund>
+
+<!--=============== OMG - Shotgun ====================-->
+<Bullet_OMG_S.label>字节粉碎者爆弹</Bullet_OMG_S.label>
+
+<OMG_Shotgun.label>字节粉碎者</OMG_Shotgun.label>
+<OMG_Shotgun.verbs.Verb_Shoot.label>字节粉碎者</OMG_Shotgun.verbs.Verb_Shoot.label>
+<OMG_Shotgun.description>雇佣兵使用的高度改装霰弹枪。特殊改装武器，充能死灵克星和EMP伤害。\n\n此改装移除了物品的品质等级。</OMG_Shotgun.description>
+
+<OMG_Shotgun.tools.stock.label>枪托</OMG_Shotgun.tools.stock.label>
+<OMG_Shotgun.tools.barrel.label>枪管</OMG_Shotgun.tools.barrel.label>
+
+<OMG_Shotgun.comps.CompEquippableAbilityReloadable.chargeNoun>燃烧器充能</OMG_Shotgun.comps.CompEquippableAbilityReloadable.chargeNoun>
+<OMG_Shotgun.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OMG_Shotgun.comps.CompEquippableAbilityReloadable.cooldownGerund>
+<OMG_Shotgun.verbs.Verb_Shoot.label>字节粉碎者</OMG_Shotgun.verbs.Verb_Shoot.label>
+
+<OMG_Shotgun.comps.CompUniqueWeapon.namerLabels.0>字节粉碎者</OMG_Shotgun.comps.CompUniqueWeapon.namerLabels.0>
+<OMG_Shotgun.comps.CompEquippableAbilityReloadable-1.chargeNoun>充能</OMG_Shotgun.comps.CompEquippableAbilityReloadable-1.chargeNoun>
+<OMG_Shotgun.comps.CompEquippableAbilityReloadable-1.cooldownGerund>冷却中</OMG_Shotgun.comps.CompEquippableAbilityReloadable-1.cooldownGerund>
+
+<!--=============== OMG - SniperRifle ====================-->
+<Bullet_OMG_SR.label>以太打击子弹</Bullet_OMG_SR.label>
+
+<OMG_SniperRifle.label>以太打击</OMG_SniperRifle.label>
+<OMG_SniperRifle.verbs.Verb_Shoot.label>以太打击</OMG_SniperRifle.verbs.Verb_Shoot.label>
+<OMG_SniperRifle.description>雇佣兵使用的高度改装狙击步枪。特殊改装武器，充能死灵克星和EMP伤害。\n\n此改装移除了物品的品质等级。</OMG_SniperRifle.description>
+
+<OMG_SniperRifle.tools.stock.label>枪托</OMG_SniperRifle.tools.stock.label>
+<OMG_SniperRifle.tools.barrel.label>枪管</OMG_SniperRifle.tools.barrel.label>
+
+<OMG_SniperRifle.comps.CompEquippableAbilityReloadable.chargeNoun>燃烧器充能</OMG_SniperRifle.comps.CompEquippableAbilityReloadable.chargeNoun>
+<OMG_SniperRifle.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OMG_SniperRifle.comps.CompEquippableAbilityReloadable.cooldownGerund>
+<OMG_SniperRifle.verbs.Verb_Shoot.label>以太打击</OMG_SniperRifle.verbs.Verb_Shoot.label>
+
+<OMG_SniperRifle.comps.CompUniqueWeapon.namerLabels.0>以太打击</OMG_SniperRifle.comps.CompUniqueWeapon.namerLabels.0>
+<OMG_SniperRifle.comps.CompEquippableAbilityReloadable-1.chargeNoun>充能</OMG_SniperRifle.comps.CompEquippableAbilityReloadable-1.chargeNoun>
+<OMG_SniperRifle.comps.CompEquippableAbilityReloadable-1.cooldownGerund>冷却中</OMG_SniperRifle.comps.CompEquippableAbilityReloadable-1.cooldownGerund>
+
+<!--=============== OMG - Minigun ====================-->
+<Bullet_OMG_MG.label>虚空撕裂者子弹</Bullet_OMG_MG.label>
+
+<OMG_Minigun.label>虚空撕裂者</OMG_Minigun.label>
+<OMG_Minigun.verbs.Verb_Shoot.label>虚空撕裂者</OMG_Minigun.verbs.Verb_Shoot.label>
+<OMG_Minigun.description>雇佣兵使用的高度改装机枪。特殊改装武器，充能死灵克星和EMP伤害。\n\n此改装移除了物品的品质等级。</OMG_Minigun.description>
+
+<OMG_Minigun.tools.barrels.label>枪管</OMG_Minigun.tools.barrels.label>
+
+<OMG_Minigun.comps.CompEquippableAbilityReloadable.chargeNoun>地狱充能</OMG_Minigun.comps.CompEquippableAbilityReloadable.chargeNoun>
+<OMG_Minigun.comps.CompEquippableAbilityReloadable.cooldownGerund>冷却中</OMG_Minigun.comps.CompEquippableAbilityReloadable.cooldownGerund>
+<OMG_Minigun.verbs.Verb_Shoot.label>虚空撕裂者</OMG_Minigun.verbs.Verb_Shoot.label>
+
+<OMG_Minigun.comps.CompUniqueWeapon.namerLabels.0>虚空撕裂者</OMG_Minigun.comps.CompUniqueWeapon.namerLabels.0>
+<OMG_Minigun.comps.CompEquippableAbilityReloadable-1.chargeNoun>充能</OMG_Minigun.comps.CompEquippableAbilityReloadable-1.chargeNoun>
+<OMG_Minigun.comps.CompEquippableAbilityReloadable-1.cooldownGerund>冷却中</OMG_Minigun.comps.CompEquippableAbilityReloadable-1.cooldownGerund>
+
 </LanguageData>
